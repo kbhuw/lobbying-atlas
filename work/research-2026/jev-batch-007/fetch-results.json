@@ -1,0 +1,1366 @@
+[
+  {
+    "id": "118ad8762e2c0f76",
+    "name": "Gmre, Inc",
+    "requested_url": "https://gmre-inc.com/",
+    "status": 200,
+    "final_url": "https://gmre-inc.com/",
+    "text_chars": 2818,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "width": "2000",
+        "height": "527",
+        "src": "https://i0.wp.com/gmre-inc.com/wp-content/uploads/2021/04/1B_GMRE-Logo.png?fit=2000%2C527&ssl=1",
+        "class": "attachment-full size-full wp-image-3863",
+        "alt": "",
+        "srcset": "https://i0.wp.com/gmre-inc.com/wp-content/uploads/2021/04/1B_GMRE-Logo.png?w=2000&ssl=1 2000w, https://i0.wp.com/gmre-inc.com/wp-content/uploads/2021/04/1B_GMRE-Logo.png?resize=300%2C79&ssl=1 300w, https://i0.wp.com/gmre-inc.com/wp-content/uploads/2021/04/1B_GMRE-Logo.png?resize=1024%2C270&ssl=1 1024w, https://i0.wp.com/gmre-inc.com/wp-content/uploads/2021/04/1B_GMRE-Logo.png?resize=768%2C202&ssl=1 768w, https://i0.wp.com/gmre-inc.com/wp-content/uploads/2021/04/1B_GMRE-Logo.png?resize=1536%2C405&ssl=1 1536w, https://i0.wp.com/gmre-inc.com/wp-content/uploads/2021/04/1B_GMRE-Logo.png?resize=700%2C184&ssl=1 700w, https://i0.wp.com/gmre-inc.com/wp-content/uploads/2021/04/1B_GMRE-Logo.png?resize=1518%2C400&ssl=1 1518w, https://i0.wp.com/gmre-inc.com/wp-content/uploads/2021/04/1B_GMRE-Logo.png?w=1400&ssl=1 1400w",
+        "sizes": "(max-width: 2000px) 100vw, 2000px",
+        "data-attachment-id": "3863",
+        "data-permalink": "https://gmre-inc.com/?attachment_id=3863",
+        "data-orig-file": "https://i0.wp.com/gmre-inc.com/wp-content/uploads/2021/04/1B_GMRE-Logo.png?fit=2000%2C527&ssl=1",
+        "data-orig-size": "2000,527",
+        "data-comments-opened": "0",
+        "data-image-meta": "{\"aperture\":\"0\",\"credit\":\"\",\"camera\":\"\",\"caption\":\"\",\"created_timestamp\":\"0\",\"copyright\":\"\",\"focal_length\":\"0\",\"iso\":\"0\",\"shutter_speed\":\"0\",\"title\":\"\",\"orientation\":\"0\"}",
+        "data-image-title": "1B_GMRE-Logo",
+        "data-image-description": "",
+        "data-image-caption": "",
+        "data-large-file": "https://i0.wp.com/gmre-inc.com/wp-content/uploads/2021/04/1B_GMRE-Logo.png?fit=700%2C185&ssl=1"
+      },
+      {
+        "width": "2000",
+        "height": "527",
+        "src": "https://i0.wp.com/gmre-inc.com/wp-content/uploads/2021/04/1B_GMRE-Logo.png?fit=2000%2C527&ssl=1",
+        "class": "attachment-full size-full wp-image-3863",
+        "alt": "",
+        "srcset": "https://i0.wp.com/gmre-inc.com/wp-content/uploads/2021/04/1B_GMRE-Logo.png?w=2000&ssl=1 2000w, https://i0.wp.com/gmre-inc.com/wp-content/uploads/2021/04/1B_GMRE-Logo.png?resize=300%2C79&ssl=1 300w, https://i0.wp.com/gmre-inc.com/wp-content/uploads/2021/04/1B_GMRE-Logo.png?resize=1024%2C270&ssl=1 1024w, https://i0.wp.com/gmre-inc.com/wp-content/uploads/2021/04/1B_GMRE-Logo.png?resize=768%2C202&ssl=1 768w, https://i0.wp.com/gmre-inc.com/wp-content/uploads/2021/04/1B_GMRE-Logo.png?resize=1536%2C405&ssl=1 1536w, https://i0.wp.com/gmre-inc.com/wp-content/uploads/2021/04/1B_GMRE-Logo.png?resize=700%2C184&ssl=1 700w, https://i0.wp.com/gmre-inc.com/wp-content/uploads/2021/04/1B_GMRE-Logo.png?resize=1518%2C400&ssl=1 1518w, https://i0.wp.com/gmre-inc.com/wp-content/uploads/2021/04/1B_GMRE-Logo.png?w=1400&ssl=1 1400w",
+        "sizes": "(max-width: 2000px) 100vw, 2000px",
+        "data-attachment-id": "3863",
+        "data-permalink": "https://gmre-inc.com/?attachment_id=3863",
+        "data-orig-file": "https://i0.wp.com/gmre-inc.com/wp-content/uploads/2021/04/1B_GMRE-Logo.png?fit=2000%2C527&ssl=1",
+        "data-orig-size": "2000,527",
+        "data-comments-opened": "0",
+        "data-image-meta": "{\"aperture\":\"0\",\"credit\":\"\",\"camera\":\"\",\"caption\":\"\",\"created_timestamp\":\"0\",\"copyright\":\"\",\"focal_length\":\"0\",\"iso\":\"0\",\"shutter_speed\":\"0\",\"title\":\"\",\"orientation\":\"0\"}",
+        "data-image-title": "1B_GMRE-Logo",
+        "data-image-description": "",
+        "data-image-caption": "",
+        "data-large-file": "https://i0.wp.com/gmre-inc.com/wp-content/uploads/2021/04/1B_GMRE-Logo.png?fit=700%2C185&ssl=1"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-007/118ad8762e2c0f76.txt"
+  },
+  {
+    "id": "6554a7de90beac23",
+    "name": "National Athletic Trainers Association",
+    "requested_url": "https://www.nata.org/",
+    "status": 200,
+    "final_url": "https://www.nata.org/",
+    "text_chars": 6542,
+    "logo_candidates": [
+      {
+        "src": "/themes/custom/nata/logo.png",
+        "alt": "NATA",
+        "fetchpriority": "high"
+      },
+      {
+        "loading": "lazy",
+        "src": "/sites/default/files/2025-08/pu_proliability_horizontal_logo_june_2024.png",
+        "width": "190",
+        "height": "28",
+        "alt": null
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-007/6554a7de90beac23.txt"
+  },
+  {
+    "id": "b17b5fe132aa523d",
+    "name": "Nitron Group LLC",
+    "requested_url": "https://nitrongroup.com/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "06efcc8b3b9b3b3c",
+    "name": "Sungas Renewables Inc",
+    "requested_url": "https://sungasrenewables.com/",
+    "status": 200,
+    "final_url": "https://sungasrenewables.com/",
+    "text_chars": 4052,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "decoding": "async",
+        "width": "512",
+        "height": "384",
+        "alt": "SunGas Renewables",
+        "src": "https://sungasrenewables.com/wp-content/uploads/2025/03/SunGas-TM-logo-rgb.jpg",
+        "data-orig-src": "https://sungasrenewables.com/wp-content/uploads/2025/03/SunGas-TM-logo-rgb.jpg",
+        "class": "lazyload img-responsive wp-image-1670",
+        "srcset": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27512%27%20height%3D%27384%27%20viewBox%3D%270%200%20512%20384%27%3E%3Crect%20width%3D%27512%27%20height%3D%27384%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "data-srcset": "https://sungasrenewables.com/wp-content/uploads/2025/03/SunGas-TM-logo-rgb-200x150.jpg 200w, https://sungasrenewables.com/wp-content/uploads/2025/03/SunGas-TM-logo-rgb-400x300.jpg 400w, https://sungasrenewables.com/wp-content/uploads/2025/03/SunGas-TM-logo-rgb.jpg 512w",
+        "data-sizes": "auto",
+        "data-orig-sizes": "(max-width: 640px) 100vw, (max-width: 1919px) 400px,(min-width: 1920px) 20.00vw"
+      },
+      {
+        "decoding": "async",
+        "width": "512",
+        "height": "384",
+        "alt": "SunGas Renewables",
+        "src": "https://sungasrenewables.com/wp-content/uploads/2025/03/SunGas-TM-logo-rgb.jpg",
+        "data-orig-src": "https://sungasrenewables.com/wp-content/uploads/2025/03/SunGas-TM-logo-rgb.jpg",
+        "class": "lazyload img-responsive wp-image-1670",
+        "srcset": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27512%27%20height%3D%27384%27%20viewBox%3D%270%200%20512%20384%27%3E%3Crect%20width%3D%27512%27%20height%3D%27384%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "data-srcset": "https://sungasrenewables.com/wp-content/uploads/2025/03/SunGas-TM-logo-rgb-200x150.jpg 200w, https://sungasrenewables.com/wp-content/uploads/2025/03/SunGas-TM-logo-rgb-400x300.jpg 400w, https://sungasrenewables.com/wp-content/uploads/2025/03/SunGas-TM-logo-rgb.jpg 512w",
+        "data-sizes": "auto",
+        "data-orig-sizes": "(max-width: 640px) 100vw, 512px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-007/06efcc8b3b9b3b3c.txt"
+  },
+  {
+    "id": "bcb7d63f8cccade0",
+    "name": "City of Clearwater, Florida",
+    "requested_url": "https://clearwaterfl.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "c237263db5082a7d",
+    "name": "City of Santa Cruz, California",
+    "requested_url": "https://www.cityofsantacruz.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "1f33a182759ee71c",
+    "name": "City of Somerton, Arizona",
+    "requested_url": "https://www.somertonaz.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "65ce6d2fd3d952a8",
+    "name": "Findlay Township Municipal Authority",
+    "requested_url": "https://www.ftmawatersewer.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "d04ef21950c2a6cb",
+    "name": "Fortress Wildfire Insurance Group",
+    "requested_url": "https://www.fortressfire.com",
+    "status": 200,
+    "final_url": "https://www.fortressfire.com",
+    "text_chars": 8271,
+    "logo_candidates": [
+      {
+        "src": "https://fortressfire.com/wp-content/themes/fortressfire/assets/img/FF-Logo.svg",
+        "alt": "FortressFire"
+      },
+      {
+        "src": "https://fortressfire.com/wp-content/uploads/2024/11/1_1.png",
+        "alt": "Logo"
+      },
+      {
+        "src": "https://fortressfire.com/wp-content/uploads/2024/11/2_1.png",
+        "alt": "Logo"
+      },
+      {
+        "src": "https://fortressfire.com/wp-content/uploads/2025/01/first-am-jcp_logo.png",
+        "alt": "Logo"
+      },
+      {
+        "src": "https://fortressfire.com/wp-content/uploads/2024/11/5.png",
+        "alt": "Logo"
+      },
+      {
+        "src": "https://fortressfire.com/wp-content/uploads/2024/11/6.png",
+        "alt": "Logo"
+      },
+      {
+        "src": "https://fortressfire.com/wp-content/uploads/2024/11/7.png",
+        "alt": "Logo"
+      },
+      {
+        "src": "https://fortressfire.com/wp-content/uploads/2024/11/3.png",
+        "alt": "Logo"
+      },
+      {
+        "src": "https://fortressfire.com/wp-content/uploads/2025/02/Premier-logo.png",
+        "alt": "Logo"
+      },
+      {
+        "src": "https://fortressfire.com/wp-content/uploads/2024/11/10.png",
+        "alt": "Logo"
+      },
+      {
+        "src": "https://fortressfire.com/wp-content/uploads/2024/11/11.png",
+        "alt": "Logo"
+      },
+      {
+        "src": "https://fortressfire.com/wp-content/uploads/2024/11/all-risk-shield_logo.png",
+        "alt": "Logo"
+      },
+      {
+        "src": "https://fortressfire.com/wp-content/uploads/2025/03/PartnerNetwork-logo.png",
+        "alt": "Logo"
+      },
+      {
+        "src": "https://fortressfire.com/wp-content/uploads/2026/07/NHD-report.png",
+        "alt": "Logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-007/d04ef21950c2a6cb.txt"
+  },
+  {
+    "id": "20a62d58a45596fc",
+    "name": "Keidanren",
+    "requested_url": "https://www.keidanren.or.jp/en/",
+    "status": 200,
+    "final_url": "https://www.keidanren.or.jp/en/",
+    "text_chars": 2970,
+    "logo_candidates": [
+      {
+        "src": "/images/logo_keidanren02.png",
+        "alt": "Keidanren (Policy & Action)"
+      },
+      {
+        "src": "/common/images/logo_keidanren05.png",
+        "alt": "Keidanren USA (Japan Business Federation)"
+      },
+      {
+        "src": "/en/banner/pri_logo_en.jpg",
+        "alt": "Keidanren Policy Research Institute",
+        "width": "255",
+        "height": "70"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-007/20a62d58a45596fc.txt"
+  },
+  {
+    "id": "8139c9e4a7d223c1",
+    "name": "National Association of State Treasurers (NAST)",
+    "requested_url": "https://nast.org/",
+    "status": 200,
+    "final_url": "https://nast.org/",
+    "text_chars": 8440,
+    "logo_candidates": [
+      {
+        "width": "1830",
+        "height": "301",
+        "src": "https://nast.org/wp-content/uploads/2019/09/nast2019_logo_color-web.png",
+        "class": "attachment-full size-full wp-image-31",
+        "alt": "National Association of State Treasurers",
+        "srcset": "https://nast.org/wp-content/uploads/2019/09/nast2019_logo_color-web.png 1830w, https://nast.org/wp-content/uploads/2019/09/nast2019_logo_color-web-300x49.png 300w, https://nast.org/wp-content/uploads/2019/09/nast2019_logo_color-web-768x126.png 768w, https://nast.org/wp-content/uploads/2019/09/nast2019_logo_color-web-1024x168.png 1024w",
+        "sizes": "(max-width: 1830px) 100vw, 1830px"
+      },
+      {
+        "loading": "lazy",
+        "width": "1800",
+        "height": "1615",
+        "src": "https://nast.org/wp-content/uploads/nast_wave_logo-white.png",
+        "class": "ls-l ls-img-layer",
+        "alt": "NAST icon",
+        "decoding": "async",
+        "srcset": "https://nast.org/wp-content/uploads/nast_wave_logo-white.png 1800w, https://nast.org/wp-content/uploads/nast_wave_logo-white-300x269.png 300w, https://nast.org/wp-content/uploads/nast_wave_logo-white-1024x919.png 1024w, https://nast.org/wp-content/uploads/nast_wave_logo-white-768x689.png 768w, https://nast.org/wp-content/uploads/nast_wave_logo-white-1536x1378.png 1536w",
+        "sizes": "(max-width: 1800px) 100vw, 1800px",
+        "style": "top:108px;left:32px;background-size:inherit;background-position:inherit;width:249px;height:223px;opacity:.28;",
+        "data-ls": "delayin:2000;position:relative;"
+      },
+      {
+        "loading": "lazy",
+        "width": "1815",
+        "height": "331",
+        "src": "https://nast.org/wp-content/uploads/nast_logo_white_slider_web.png",
+        "class": "ls-l ls-img-layer",
+        "alt": "NAST logo - National Association of State Treasurers",
+        "decoding": "async",
+        "srcset": "https://nast.org/wp-content/uploads/nast_logo_white_slider_web.png 1815w, https://nast.org/wp-content/uploads/nast_logo_white_slider_web-300x55.webp 300w, https://nast.org/wp-content/uploads/nast_logo_white_slider_web-1024x187.png 1024w, https://nast.org/wp-content/uploads/nast_logo_white_slider_web-768x140.png 768w, https://nast.org/wp-content/uploads/nast_logo_white_slider_web-1536x280.png 1536w",
+        "sizes": "(max-width: 1815px) 100vw, 1815px",
+        "style": "top:317px;left:882px;background-size:inherit;background-position:inherit;width:363px;height:66px;",
+        "data-ls": "delayin:7000;position:relative;"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "1920",
+        "height": "719",
+        "src": "https://nast.org/wp-content/uploads/able-today-logo-green-whit-background.webp",
+        "class": "attachment-full size-full wp-image-12597",
+        "alt": "",
+        "srcset": "https://nast.org/wp-content/uploads/able-today-logo-green-whit-background.webp 1920w, https://nast.org/wp-content/uploads/able-today-logo-green-whit-background-300x112.webp 300w, https://nast.org/wp-content/uploads/able-today-logo-green-whit-background-1024x383.webp 1024w, https://nast.org/wp-content/uploads/able-today-logo-green-whit-background-768x288.webp 768w, https://nast.org/wp-content/uploads/able-today-logo-green-whit-background-1536x575.webp 1536w",
+        "sizes": "(max-width: 1920px) 100vw, 1920px"
+      },
+      {
+        "decoding": "async",
+        "class": "swiper-slide-image",
+        "src": "https://nast.org/wp-content/uploads/Avenu-logo-Featured-1.webp",
+        "alt": "Avenu Insights & Analytics"
+      },
+      {
+        "decoding": "async",
+        "class": "swiper-slide-image",
+        "src": "https://nast.org/wp-content/uploads/86276661_meeder-logo-pf-primary-rgb_copy-768x769.jpg",
+        "alt": "86276661_meeder-logo-pf-primary-rgb_copy"
+      },
+      {
+        "decoding": "async",
+        "class": "swiper-slide-image",
+        "src": "https://nast.org/wp-content/uploads/1-pew-digital-primary-logo-blue-2023-768x384.webp",
+        "alt": "1-pew-digital-primary-logo-blue-2023"
+      },
+      {
+        "decoding": "async",
+        "class": "swiper-slide-image",
+        "src": "https://nast.org/wp-content/uploads/wave-digital-logo.webp",
+        "alt": "Wave Digital Logo"
+      },
+      {
+        "width": "825",
+        "height": "140",
+        "src": "https://nast.org/wp-content/uploads/2019/09/nast_logo_footer_white-web-1024x174.png",
+        "class": "attachment-large size-large wp-image-78",
+        "alt": "National Association of State Treasurers",
+        "srcset": "https://nast.org/wp-content/uploads/2019/09/nast_logo_footer_white-web-1024x174.png 1024w, https://nast.org/wp-content/uploads/2019/09/nast_logo_footer_white-web-300x51.webp 300w, https://nast.org/wp-content/uploads/2019/09/nast_logo_footer_white-web-768x130.png 768w, https://nast.org/wp-content/uploads/2019/09/nast_logo_footer_white-web.png 1785w",
+        "sizes": "(max-width: 825px) 100vw, 825px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-007/8139c9e4a7d223c1.txt"
+  },
+  {
+    "id": "6e351bd96418c869",
+    "name": "Nextdet LLC",
+    "requested_url": "https://nextdet.com/",
+    "error": "HTTP Error 308: Permanent Redirect"
+  },
+  {
+    "id": "49f694cda3111688",
+    "name": "Prince William Sound Regional Citizens Advisory Council",
+    "requested_url": "https://pwsrcac.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "48597bf6ff7d10e8",
+    "name": "Scotts Valley Band of Pomo Indians (svbpi)",
+    "requested_url": "https://www.scottsvalley-nsn.gov/home",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "db61424b917cfa46",
+    "name": "Sidewinder Enterprises LLC",
+    "requested_url": "https://sidewinderenterprisesllc.com/",
+    "status": 202,
+    "final_url": "https://sidewinderenterprisesllc.com/",
+    "text_chars": 98,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-007/db61424b917cfa46.txt"
+  },
+  {
+    "id": "7f34b03bc4663de7",
+    "name": "Armatec Survivability Corp.",
+    "requested_url": "https://www.armateconline.com/",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "da4a96d0b7f8937a",
+    "name": "Dare County, North Carolina",
+    "requested_url": "https://www.darenc.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "12c28c53dd109774",
+    "name": "Eastern New Mexico University\u2013Ruidoso",
+    "requested_url": "https://ruidoso.enmu.edu/",
+    "status": 200,
+    "final_url": "https://ruidoso.enmu.edu/",
+    "text_chars": 3955,
+    "logo_candidates": [
+      {
+        "src": "https://ruidoso.enmu.edu/wp-content/uploads/2025/10/enmu-logo-site-full-color.webp",
+        "alt": "ENMU-Ruidoso"
+      },
+      {
+        "decoding": "async",
+        "style": "width: 150px; max-width: 50%;",
+        "src": "/wp-content/uploads/2025/06/enmu-white-blue.jpg",
+        "alt": "ENMU-Ruidoso Logo, white on blue"
+      },
+      {
+        "decoding": "async",
+        "class": "wp-image-8086 size-full aligncenter",
+        "style": "text-align: center; max-width: 85%;",
+        "src": "/wp-content/uploads/2025/10/enmu-logo-site-full-color.webp",
+        "alt": "ENMU logo",
+        "width": "100px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-007/12c28c53dd109774.txt"
+  },
+  {
+    "id": "2e9ae76f4566b464",
+    "name": "Insurance JSC Dallbogg: Life and Health AD",
+    "requested_url": "https://dallbogg.com/en/",
+    "status": 200,
+    "final_url": "https://dallbogg.com/en/",
+    "text_chars": 2715,
+    "logo_candidates": [
+      {
+        "itemprop": "image",
+        "class": "normal",
+        "src": "https://dallbogg.com/wp-content/uploads/2026/08/DallBogg-Logo-1.png",
+        "alt": "Logo"
+      },
+      {
+        "itemprop": "image",
+        "class": "light",
+        "src": "https://dallbogg.com/wp-content/uploads/2026/08/DallBogg-Logo-1.png",
+        "alt": "Logo"
+      },
+      {
+        "itemprop": "image",
+        "class": "dark",
+        "src": "https://dallbogg.com/wp-content/uploads/2026/08/DallBogg-Logo-1.png",
+        "alt": "Logo"
+      },
+      {
+        "itemprop": "image",
+        "class": "sticky",
+        "src": "https://dallbogg.com/wp-content/uploads/2026/08/DallBogg-Logo-1.png",
+        "alt": "Logo"
+      },
+      {
+        "itemprop": "image",
+        "class": "mobile",
+        "src": "https://dallbogg.com/wp-content/uploads/2026/08/DallBogg-Logo-1.png",
+        "alt": "Logo"
+      },
+      {
+        "decoding": "async",
+        "width": "450",
+        "height": "300",
+        "src": "https://dallbogg.com/wp-content/uploads/2023/07/logo-pod-db-en.jpg",
+        "class": "vc_single_image-img attachment-full",
+        "alt": "",
+        "title": "",
+        "srcset": "https://dallbogg.com/wp-content/uploads/2023/07/logo-pod-db-en.jpg 450w, https://dallbogg.com/wp-content/uploads/2023/07/logo-pod-db-en-300x200.jpg 300w",
+        "sizes": "(max-width: 450px) 100vw, 450px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-007/2e9ae76f4566b464.txt"
+  },
+  {
+    "id": "7420ba4258ae1115",
+    "name": "Loan Syndications and Trading Association",
+    "requested_url": "https://www.lsta.org/",
+    "status": 200,
+    "final_url": "https://www.lsta.org/",
+    "text_chars": 8295,
+    "logo_candidates": [
+      {
+        "width": "587",
+        "height": "132",
+        "src": "https://www.lsta.org/wp-content/uploads/2025/08/LSTA_Logo_Stacked_2026_RGB_3C.svg",
+        "class": "attachment-2048x2048 size-2048x2048 wp-image-50686",
+        "alt": "LSTA - advancing the corporate loan market",
+        "data-eio": "l"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "261",
+        "height": "228",
+        "src": "https://www.lsta.org/wp-content/uploads/2025/08/CUSIP-logo.svg",
+        "class": "attachment-large size-large wp-image-40195",
+        "alt": "CUSIP GLOBAL SERVICES - experience, process, technology, innovation"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "544",
+        "height": "93",
+        "src": "https://www.lsta.org/wp-content/uploads/2025/12/lseg_da_logo_hrz_rgb_pos-e1763763223930-cropped.jpg",
+        "class": "attachment-large size-large wp-image-50346",
+        "alt": "LSEG Data & Analytics"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "223",
+        "height": "28",
+        "src": "https://www.lsta.org/wp-content/uploads/2025/09/morningstar-indexes-logo.svg",
+        "class": "attachment-large size-large wp-image-40568",
+        "alt": "Morningstar Indexes"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-007/7420ba4258ae1115.txt"
+  },
+  {
+    "id": "af74fdf8db6672cf",
+    "name": "Metropolitan Pier and Exposition Authority",
+    "requested_url": "https://www.mpea.com/",
+    "status": 202,
+    "final_url": "https://www.mpea.com/",
+    "text_chars": 98,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-007/af74fdf8db6672cf.txt"
+  },
+  {
+    "id": "8f0d57d16e9f5e66",
+    "name": "Neurim Pharmaceuticals",
+    "requested_url": "https://neurim.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "50b4413aaa248c6a",
+    "name": "SAN Joaquin Council of Governments",
+    "requested_url": "https://www.sjcog.org/",
+    "status": 200,
+    "final_url": "https://www.sjcog.org/",
+    "text_chars": 6782,
+    "logo_candidates": [
+      {
+        "class": "media",
+        "src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data-delay-load": "/ImageRepository/Document?documentID=11183",
+        "alt": "Valley LInk logo",
+        "data-delayed-image": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-007/50b4413aaa248c6a.txt"
+  },
+  {
+    "id": "454fc1a17851f240",
+    "name": "Sanborn MAP Company",
+    "requested_url": "https://sanborn.com/about/",
+    "status": 202,
+    "final_url": "https://sanborn.com/about/",
+    "text_chars": 80,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-007/454fc1a17851f240.txt"
+  },
+  {
+    "id": "92c93ea5d30c51e0",
+    "name": "Seafarers International Union",
+    "requested_url": "https://www.seafarers.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "0a43744e71855a8a",
+    "name": "City of Elk Grove, California",
+    "requested_url": "https://elkgrove.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "71be75b45c6227ce",
+    "name": "City of Grand Prairie, Texas",
+    "requested_url": "https://www.gptx.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "3b6e42aad9866bf6",
+    "name": "City of Guadalupe, California",
+    "requested_url": "https://ci.guadalupe.ca.us/",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)>"
+  },
+  {
+    "id": "a8bfaab23cfb8afd",
+    "name": "Digital Childhood Alliance",
+    "requested_url": "https://www.digitalchildhoodalliance.org/about-us/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "01a4a1d7053e6203",
+    "name": "Elbit Systems Cyclone Ltd.",
+    "requested_url": "https://www.elbitsystems.com/",
+    "status": 200,
+    "final_url": "https://www.elbitsystems.com/",
+    "text_chars": 3465,
+    "logo_candidates": [
+      {
+        "class": "white",
+        "src": "/themes/elbit/images/logo-elbit-white-en.png",
+        "alt": "Elbit Systems Logo"
+      },
+      {
+        "class": "regular",
+        "src": "/themes/elbit/images/logo-elbit-en.png",
+        "alt": "Elbit Systems Logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "/sites/default/files/styles/new_box/public/2025-02/untitled_design.jpg.webp?itok=4QjCu9mO",
+        "width": "550",
+        "height": "730",
+        "alt": "Elbit Logo"
+      },
+      {
+        "src": "/themes/elbit/images/logo-elbit.svg",
+        "width": "189",
+        "height": "66",
+        "loading": "lazy"
+      },
+      {
+        "width": "50",
+        "src": "/themes/elbit/images/LOGO-COMRAX.png",
+        "alt": "Comrax Logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-007/01a4a1d7053e6203.txt"
+  },
+  {
+    "id": "f27d9e78af643e26",
+    "name": "Energos Infrastructure Management LLC",
+    "requested_url": "https://energosinfra.com/",
+    "status": 200,
+    "final_url": "https://energosinfra.com/",
+    "text_chars": 3222,
+    "logo_candidates": [
+      {
+        "src": "https://energosinfra.com/wp-content/themes/assets/../assets/images/Logo.svg",
+        "alt": "Logo",
+        "title": "Logo"
+      },
+      {
+        "src": "https://energosinfra.com/wp-content/themes/assets/../assets/images/Logo.svg",
+        "alt": "Logo",
+        "title": "Logo"
+      },
+      {
+        "width": "1920",
+        "height": "1080",
+        "src": "https://energosinfra.com/wp-content/uploads/2026/06/EMGF-Logo-Banner.png",
+        "class": "responsive-class wp-post-image",
+        "alt": "",
+        "decoding": "async",
+        "srcset": "https://energosinfra.com/wp-content/uploads/2026/06/EMGF-Logo-Banner.png 1920w, https://energosinfra.com/wp-content/uploads/2026/06/EMGF-Logo-Banner-300x169.png 300w, https://energosinfra.com/wp-content/uploads/2026/06/EMGF-Logo-Banner-1024x576.png 1024w, https://energosinfra.com/wp-content/uploads/2026/06/EMGF-Logo-Banner-768x432.png 768w, https://energosinfra.com/wp-content/uploads/2026/06/EMGF-Logo-Banner-1536x864.png 1536w",
+        "sizes": "(max-width: 1920px) 100vw, 1920px"
+      },
+      {
+        "src": "https://energosinfra.com/wp-content/themes/assets/../assets/images/icons/footer_logo.svg",
+        "alt": "Logo",
+        "title": "Logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-007/f27d9e78af643e26.txt"
+  },
+  {
+    "id": "8f3e5780c733b587",
+    "name": "Kings County Sheriff's Office",
+    "requested_url": "https://www.countyofkingsca.gov/departments/public-safety/sheriff",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "0bdbd886919f8d4d",
+    "name": "SAN Joaquin Valley Regional Planning Agencies Policy Council",
+    "requested_url": "https://www.sjcog.org/",
+    "status": 200,
+    "final_url": "https://www.sjcog.org/",
+    "text_chars": 6808,
+    "logo_candidates": [
+      {
+        "class": "media",
+        "src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data-delay-load": "/ImageRepository/Document?documentID=11183",
+        "alt": "Valley LInk logo",
+        "data-delayed-image": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-007/0bdbd886919f8d4d.txt"
+  },
+  {
+    "id": "3c7b07928f8d13b2",
+    "name": "WD Schorsch LLC",
+    "requested_url": "https://wdschorsch.com/",
+    "status": 202,
+    "final_url": "https://wdschorsch.com/",
+    "text_chars": 73,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-007/3c7b07928f8d13b2.txt"
+  },
+  {
+    "id": "0cb787497dd1b584",
+    "name": "Aternium, Inc.",
+    "requested_url": "https://aternium.com/",
+    "status": 200,
+    "final_url": "https://aternium.com/",
+    "text_chars": 3329,
+    "logo_candidates": [
+      {
+        "width": "468",
+        "height": "100",
+        "src": "https://aternium.com/wp-content/uploads/2025/06/aternium-logo.svg",
+        "class": "custom-logo",
+        "alt": "Aternium Logo",
+        "decoding": "async"
+      },
+      {
+        "decoding": "async",
+        "class": "lgx_app_item_img ",
+        "src": "https://aternium.com/wp-content/uploads/2025/07/tri-state-logo.png",
+        "alt": "Tri_state 3D Tech & Design Firm"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "260",
+        "height": "37",
+        "src": "https://aternium.com/wp-content/uploads/2025/06/logo-white.svg",
+        "alt": "Aternium Logo White",
+        "class": "wp-image-75",
+        "style": "width:146px;height:auto"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-007/0cb787497dd1b584.txt"
+  },
+  {
+    "id": "af947901b55d8187",
+    "name": "City of Barstow, California",
+    "requested_url": "https://www.barstowca.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "619cb7f02611f0ad",
+    "name": "Monterey County, California",
+    "requested_url": "https://www.countyofmonterey.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "b81afc3ed63a7133",
+    "name": "Douglas County Public Utility District",
+    "requested_url": "https://douglaspud.org/",
+    "status": 202,
+    "final_url": "https://douglaspud.org/",
+    "text_chars": 96,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-007/b81afc3ed63a7133.txt"
+  },
+  {
+    "id": "c34cc1b890116c0e",
+    "name": "Delaware Valley Industrial Resource Center (DVIRC)",
+    "requested_url": "https://dvirc.org/",
+    "status": 200,
+    "final_url": "https://www.dvirc.org/",
+    "text_chars": 4298,
+    "logo_candidates": [
+      {
+        "width": "600",
+        "height": "150",
+        "src": "https://www.dvirc.org/wp-content/uploads/2023/12/dvirc-logo-text-12x3-1.png",
+        "class": "attachment-full size-full",
+        "alt": "DVIRC",
+        "loading": "lazy",
+        "decoding": "async",
+        "srcset": "https://www.dvirc.org/wp-content/uploads/2023/12/dvirc-logo-text-12x3-1.png 600w, https://www.dvirc.org/wp-content/uploads/2023/12/dvirc-logo-text-12x3-1-300x75.png 300w, https://www.dvirc.org/wp-content/uploads/2023/12/dvirc-logo-text-12x3-1-200x50.png 200w",
+        "sizes": "auto, (max-width: 600px) 100vw, 600px"
+      },
+      {
+        "decoding": "async",
+        "width": "316",
+        "height": "71",
+        "src": "https://www.dvirc.org/wp-content/uploads/2025/07/dvirc-logo-cta-hp25.png",
+        "class": "attachment-large size-large",
+        "alt": "DVIRC",
+        "loading": "lazy",
+        "srcset": "https://www.dvirc.org/wp-content/uploads/2025/07/dvirc-logo-cta-hp25.png 316w, https://www.dvirc.org/wp-content/uploads/2025/07/dvirc-logo-cta-hp25-300x67.png 300w, https://www.dvirc.org/wp-content/uploads/2025/07/dvirc-logo-cta-hp25-200x45.png 200w",
+        "sizes": "auto, (max-width: 316px) 100vw, 316px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-007/c34cc1b890116c0e.txt"
+  },
+  {
+    "id": "041b13c39f55f0b1",
+    "name": "Five Rivers Conservation Group LLC",
+    "requested_url": "https://fiveriverscg.com",
+    "status": 200,
+    "final_url": "https://fiveriverscg.com",
+    "text_chars": 2735,
+    "logo_candidates": [
+      {
+        "src": "//images.squarespace-cdn.com/content/v1/5a5f920a8c56a8be423fdc0c/1524757401723-GMLG2XTNGCFXH03GF780/FRCG+Logo+Final-07.png?format=1500w",
+        "alt": "Five Rivers Conservation Group"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-007/041b13c39f55f0b1.txt"
+  },
+  {
+    "id": "0e81b7b4896052df",
+    "name": "Joint Commission on Accreditation of Healthcare Organizations",
+    "requested_url": "https://www.jointcommission.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "d29f1d8de69b7351",
+    "name": "Leading Technology Composites",
+    "requested_url": "https://ltc-ltc.com/",
+    "status": 202,
+    "final_url": "https://ltc-ltc.com/",
+    "text_chars": 84,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-007/d29f1d8de69b7351.txt"
+  },
+  {
+    "id": "a06275edfb12fb4a",
+    "name": "Masterbrand Cabinets, LLC",
+    "requested_url": "https://masterbrand.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "74b48e7a2a2e7467",
+    "name": "Metal Technologies, Inc.",
+    "requested_url": "https://metal-technologies.com/",
+    "status": 200,
+    "final_url": "https://metal-technologies.com/",
+    "text_chars": 6553,
+    "logo_candidates": [
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "179",
+        "height": "87",
+        "src": "https://metal-technologies.com/wp-content/uploads/2024/05/scroll-logo.jpg",
+        "alt": "",
+        "title": "scroll-logo",
+        "class": "wp-image-132"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "179",
+        "height": "87",
+        "src": "https://metal-technologies.com/wp-content/uploads/2024/05/scroll-logo.jpg",
+        "alt": "",
+        "title": "scroll-logo",
+        "class": "wp-image-132"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-007/74b48e7a2a2e7467.txt"
+  },
+  {
+    "id": "933e91d089b38714",
+    "name": "National Armored Car Association",
+    "requested_url": "https://nacassociation.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "10fb3867c325e135",
+    "name": "Northwest Renal Clinic, Inc. (dvac Ref)",
+    "requested_url": "https://www.nwrc.com/",
+    "status": 200,
+    "final_url": "https://www.nwrc.com/",
+    "text_chars": 2104,
+    "logo_candidates": [
+      {
+        "src": "//images.squarespace-cdn.com/content/v1/58b46719cd0f68b719c846a9/1591229069318-686XAIX5IPOU66CXG53F/nwrc+logo.png",
+        "alt": "Northwest Renal Clinic, Inc.",
+        "sizes": "240px",
+        "class": "Mobile-bar-branding-logo",
+        "style": "display:block",
+        "srcset": "//images.squarespace-cdn.com/content/v1/58b46719cd0f68b719c846a9/1591229069318-686XAIX5IPOU66CXG53F/nwrc+logo.png?format=100w 100w, //images.squarespace-cdn.com/content/v1/58b46719cd0f68b719c846a9/1591229069318-686XAIX5IPOU66CXG53F/nwrc+logo.png?format=300w 300w, //images.squarespace-cdn.com/content/v1/58b46719cd0f68b719c846a9/1591229069318-686XAIX5IPOU66CXG53F/nwrc+logo.png?format=500w 500w, //images.squarespace-cdn.com/content/v1/58b46719cd0f68b719c846a9/1591229069318-686XAIX5IPOU66CXG53F/nwrc+logo.png?format=750w 750w, //images.squarespace-cdn.com/content/v1/58b46719cd0f68b719c846a9/1591229069318-686XAIX5IPOU66CXG53F/nwrc+logo.png?format=1000w 1000w, //images.squarespace-cdn.com/content/v1/58b46719cd0f68b719c846a9/1591229069318-686XAIX5IPOU66CXG53F/nwrc+logo.png?format=1500w 1500w, //images.squarespace-cdn.com/content/v1/58b46719cd0f68b719c846a9/1591229069318-686XAIX5IPOU66CXG53F/nwrc+logo.png?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs"
+      },
+      {
+        "src": "//images.squarespace-cdn.com/content/v1/58b46719cd0f68b719c846a9/1591229069318-686XAIX5IPOU66CXG53F/nwrc+logo.png",
+        "alt": "Northwest Renal Clinic, Inc.",
+        "sizes": "320px",
+        "class": "Header-branding-logo",
+        "style": "display:block",
+        "srcset": "//images.squarespace-cdn.com/content/v1/58b46719cd0f68b719c846a9/1591229069318-686XAIX5IPOU66CXG53F/nwrc+logo.png?format=100w 100w, //images.squarespace-cdn.com/content/v1/58b46719cd0f68b719c846a9/1591229069318-686XAIX5IPOU66CXG53F/nwrc+logo.png?format=300w 300w, //images.squarespace-cdn.com/content/v1/58b46719cd0f68b719c846a9/1591229069318-686XAIX5IPOU66CXG53F/nwrc+logo.png?format=500w 500w, //images.squarespace-cdn.com/content/v1/58b46719cd0f68b719c846a9/1591229069318-686XAIX5IPOU66CXG53F/nwrc+logo.png?format=750w 750w, //images.squarespace-cdn.com/content/v1/58b46719cd0f68b719c846a9/1591229069318-686XAIX5IPOU66CXG53F/nwrc+logo.png?format=1000w 1000w, //images.squarespace-cdn.com/content/v1/58b46719cd0f68b719c846a9/1591229069318-686XAIX5IPOU66CXG53F/nwrc+logo.png?format=1500w 1500w, //images.squarespace-cdn.com/content/v1/58b46719cd0f68b719c846a9/1591229069318-686XAIX5IPOU66CXG53F/nwrc+logo.png?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-007/10fb3867c325e135.txt"
+  },
+  {
+    "id": "5e7a85029b550241",
+    "name": "Oakland County",
+    "requested_url": "https://www.oakgov.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "7d2213442954df43",
+    "name": "Prairie Band LLC",
+    "requested_url": "https://prairiebandllc.com/",
+    "status": 200,
+    "final_url": "https://prairiebandllc.com/",
+    "text_chars": 1641,
+    "logo_candidates": [
+      {
+        "src": "https://transform.octanecdn.com/width/153/https://octanecdn.com/prairiebandsites/pb_llc_logo_horiz_rgb_web_151880097_975008790_1.png",
+        "srcset": "https://transform.octanecdn.com/width/153/https://octanecdn.com/prairiebandsites/pb_llc_logo_horiz_rgb_web_151880097_975008790_1.png 1x,https://transform.octanecdn.com/width/268/https://octanecdn.com/prairiebandsites/pb_llc_logo_horiz_rgb_web_151880097_975008790_1.png 1.75x,https://transform.octanecdn.com/width/306/https://octanecdn.com/prairiebandsites/pb_llc_logo_horiz_rgb_web_151880097_975008790_1.png 2x",
+        "alt": "Prairie Band LLC",
+        "class": "logo-image",
+        "data-styleable": null,
+        "width": "306",
+        "height": "165"
+      },
+      {
+        "src": "https://transform.octanecdn.com/fitLogo/600x318/https://octanecdn.com/prairiebandsites/prairiebandllccom_749490050.png",
+        "srcset": "https://transform.octanecdn.com/fitLogo/600x318/https://octanecdn.com/prairiebandsites/prairiebandllccom_749490050.png 1x,https://transform.octanecdn.com/fitLogo/1050x557/https://octanecdn.com/prairiebandsites/prairiebandllccom_749490050.png 1.75x,https://transform.octanecdn.com/fitLogo/1200x636/https://octanecdn.com/prairiebandsites/prairiebandllccom_749490050.png 2x",
+        "alt": "Stylized brown geometric emblem with four symmetrical arrow-like shapes surrounded by circular motivational text.",
+        "class": "hero-logo-image",
+        "data-styleable": null,
+        "width": "600",
+        "height": "318"
+      },
+      {
+        "src": "https://transform.octanecdn.com/fitLogo/300x300/https://octanecdn.com/prairiebandsites/prairiebandsites_945009917.png",
+        "srcset": "https://transform.octanecdn.com/fitLogo/300x300/https://octanecdn.com/prairiebandsites/prairiebandsites_945009917.png 1x,https://transform.octanecdn.com/fitLogo/525x525/https://octanecdn.com/prairiebandsites/prairiebandsites_945009917.png 1.75x,https://transform.octanecdn.com/fitLogo/600x600/https://octanecdn.com/prairiebandsites/prairiebandsites_945009917.png 2x",
+        "alt": "Prairie Band LLC logo with stylized red flame icon next to bold gray company name text.",
+        "class": "image-wrapper-item",
+        "loading": "lazy",
+        "width": "150",
+        "height": "150",
+        "data-styleable": null
+      },
+      {
+        "src": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_451055453.png",
+        "srcset": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_451055453.png 1x,https://transform.octanecdn.com/fitLogo/438x438/https://octanecdn.com/prairiebandsites/prairiebandsites_451055453.png 1.75x,https://transform.octanecdn.com/fitLogo/500x500/https://octanecdn.com/prairiebandsites/prairiebandsites_451055453.png 2x",
+        "alt": "White logo of Prairie Band LLC featuring stylized flame and bold text on black background",
+        "class": "logo-image",
+        "loading": "lazy",
+        "width": "250",
+        "height": "250",
+        "data-styleable": null
+      },
+      {
+        "src": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_998176791.png",
+        "srcset": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_998176791.png 1x,https://transform.octanecdn.com/fitLogo/438x438/https://octanecdn.com/prairiebandsites/prairiebandsites_998176791.png 1.75x,https://transform.octanecdn.com/fitLogo/500x500/https://octanecdn.com/prairiebandsites/prairiebandsites_998176791.png 2x",
+        "alt": "White Prairie Band Construction logo with stylized flame icon and bold uppercase text on transparent background",
+        "class": "logo-image",
+        "loading": "lazy",
+        "width": "250",
+        "height": "250",
+        "data-styleable": null
+      },
+      {
+        "src": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_430644234.png",
+        "srcset": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_430644234.png 1x,https://transform.octanecdn.com/fitLogo/438x438/https://octanecdn.com/prairiebandsites/prairiebandsites_430644234.png 1.75x,https://transform.octanecdn.com/fitLogo/500x500/https://octanecdn.com/prairiebandsites/prairiebandsites_430644234.png 2x",
+        "alt": "Burgos Group logo featuring a stylized flame design in white with bold white text on black background.",
+        "class": "logo-image",
+        "loading": "lazy",
+        "width": "250",
+        "height": "250",
+        "data-styleable": null
+      },
+      {
+        "src": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_913083142.png",
+        "srcset": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_913083142.png 1x,https://transform.octanecdn.com/fitLogo/438x438/https://octanecdn.com/prairiebandsites/prairiebandsites_913083142.png 1.75x,https://transform.octanecdn.com/fitLogo/500x500/https://octanecdn.com/prairiebandsites/prairiebandsites_913083142.png 2x",
+        "alt": "Get Volts logo with a flame and arrow symbol in white on a black background.",
+        "class": "logo-image",
+        "loading": "lazy",
+        "width": "250",
+        "height": "250",
+        "data-styleable": null
+      },
+      {
+        "src": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_766257104.png",
+        "srcset": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_766257104.png 1x,https://transform.octanecdn.com/fitLogo/438x438/https://octanecdn.com/prairiebandsites/prairiebandsites_766257104.png 1.75x,https://transform.octanecdn.com/fitLogo/500x500/https://octanecdn.com/prairiebandsites/prairiebandsites_766257104.png 2x",
+        "alt": "White Prairie Band Health Services logo featuring a stylized flame and bold text on a transparent background.",
+        "class": "logo-image",
+        "loading": "lazy",
+        "width": "250",
+        "height": "250",
+        "data-styleable": null
+      },
+      {
+        "src": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_947313030.png",
+        "srcset": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_947313030.png 1x,https://transform.octanecdn.com/fitLogo/438x438/https://octanecdn.com/prairiebandsites/prairiebandsites_947313030.png 1.75x,https://transform.octanecdn.com/fitLogo/500x500/https://octanecdn.com/prairiebandsites/prairiebandsites_947313030.png 2x",
+        "alt": "Mill Creek logo with stylized flame and wolf head in white on black background.",
+        "class": "logo-image",
+        "loading": "lazy",
+        "width": "250",
+        "height": "250",
+        "data-styleable": null
+      },
+      {
+        "src": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_522497730.png",
+        "srcset": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_522497730.png 1x,https://transform.octanecdn.com/fitLogo/438x438/https://octanecdn.com/prairiebandsites/prairiebandsites_522497730.png 1.75x,https://transform.octanecdn.com/fitLogo/500x500/https://octanecdn.com/prairiebandsites/prairiebandsites_522497730.png 2x",
+        "alt": "White logo of Soldier Creek Solutions with stylized flame and creek graphic on black background",
+        "class": "logo-image",
+        "loading": "lazy",
+        "width": "250",
+        "height": "250",
+        "data-styleable": null
+      },
+      {
+        "src": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_233667370.png",
+        "srcset": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_233667370.png 1x,https://transform.octanecdn.com/fitLogo/438x438/https://octanecdn.com/prairiebandsites/prairiebandsites_233667370.png 1.75x,https://transform.octanecdn.com/fitLogo/500x500/https://octanecdn.com/prairiebandsites/prairiebandsites_233667370.png 2x",
+        "alt": "White Prairie Hill Services logo with stylized flame and leaf design on black background.",
+        "class": "logo-image",
+        "loading": "lazy",
+        "width": "250",
+        "height": "250",
+        "data-styleable": null
+      },
+      {
+        "src": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_250321011.png",
+        "srcset": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_250321011.png 1x,https://transform.octanecdn.com/fitLogo/438x438/https://octanecdn.com/prairiebandsites/prairiebandsites_250321011.png 1.75x,https://transform.octanecdn.com/fitLogo/500x500/https://octanecdn.com/prairiebandsites/prairiebandsites_250321011.png 2x",
+        "alt": "White Prairie Creek Solutions logo with stylized flame and creek design beside company name on black background",
+        "class": "logo-image",
+        "loading": "lazy",
+        "width": "250",
+        "height": "250",
+        "data-styleable": null
+      },
+      {
+        "src": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_321391725.png",
+        "srcset": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_321391725.png 1x,https://transform.octanecdn.com/fitLogo/438x438/https://octanecdn.com/prairiebandsites/prairiebandsites_321391725.png 1.75x,https://transform.octanecdn.com/fitLogo/500x500/https://octanecdn.com/prairiebandsites/prairiebandsites_321391725.png 2x",
+        "alt": "White flame icon with bold text Prairie Lake Construction on black background logo",
+        "class": "logo-image",
+        "loading": "lazy",
+        "width": "250",
+        "height": "250",
+        "data-styleable": null
+      },
+      {
+        "src": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_525396432.png",
+        "srcset": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_525396432.png 1x,https://transform.octanecdn.com/fitLogo/438x438/https://octanecdn.com/prairiebandsites/prairiebandsites_525396432.png 1.75x,https://transform.octanecdn.com/fitLogo/500x500/https://octanecdn.com/prairiebandsites/prairiebandsites_525396432.png 2x",
+        "alt": "White Prairie Band AG logo with stylized flame graphic and bold text on transparent background",
+        "class": "logo-image",
+        "loading": "lazy",
+        "width": "250",
+        "height": "250",
+        "data-styleable": null
+      },
+      {
+        "src": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_882368934.png",
+        "srcset": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_882368934.png 1x,https://transform.octanecdn.com/fitLogo/438x438/https://octanecdn.com/prairiebandsites/prairiebandsites_882368934.png 1.75x,https://transform.octanecdn.com/fitLogo/500x500/https://octanecdn.com/prairiebandsites/prairiebandsites_882368934.png 2x",
+        "alt": "White logo of Prairie Band Distribution featuring stylized flame and arrow with bold text on black background.",
+        "class": "logo-image",
+        "loading": "lazy",
+        "width": "250",
+        "height": "250",
+        "data-styleable": null
+      },
+      {
+        "src": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_575585384.png",
+        "srcset": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_575585384.png 1x,https://transform.octanecdn.com/fitLogo/438x438/https://octanecdn.com/prairiebandsites/prairiebandsites_575585384.png 1.75x,https://transform.octanecdn.com/fitLogo/500x500/https://octanecdn.com/prairiebandsites/prairiebandsites_575585384.png 2x",
+        "alt": "White Gaia Prairie Band logo featuring stylized flame and leaf design with bold text on black background",
+        "class": "logo-image",
+        "loading": "lazy",
+        "width": "250",
+        "height": "250",
+        "data-styleable": null
+      },
+      {
+        "src": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_832735547.png",
+        "srcset": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_832735547.png 1x,https://transform.octanecdn.com/fitLogo/438x438/https://octanecdn.com/prairiebandsites/prairiebandsites_832735547.png 1.75x,https://transform.octanecdn.com/fitLogo/500x500/https://octanecdn.com/prairiebandsites/prairiebandsites_832735547.png 2x",
+        "alt": "White Prairie Band One Stop logo featuring a stylized flame and bird design on a black background.",
+        "class": "logo-image",
+        "loading": "lazy",
+        "width": "250",
+        "height": "250",
+        "data-styleable": null
+      },
+      {
+        "src": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_847409352.png",
+        "srcset": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_847409352.png 1x,https://transform.octanecdn.com/fitLogo/438x438/https://octanecdn.com/prairiebandsites/prairiebandsites_847409352.png 1.75x,https://transform.octanecdn.com/fitLogo/500x500/https://octanecdn.com/prairiebandsites/prairiebandsites_847409352.png 2x",
+        "alt": "Prairie Band Propane logo featuring a stylized flame and bold uppercase text on a transparent background.",
+        "class": "logo-image",
+        "loading": "lazy",
+        "width": "250",
+        "height": "250",
+        "data-styleable": null
+      },
+      {
+        "src": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_224627225.png",
+        "srcset": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_224627225.png 1x,https://transform.octanecdn.com/fitLogo/438x438/https://octanecdn.com/prairiebandsites/prairiebandsites_224627225.png 1.75x,https://transform.octanecdn.com/fitLogo/500x500/https://octanecdn.com/prairiebandsites/prairiebandsites_224627225.png 2x",
+        "alt": "White Prairie Band Properties logo with stylized flame on black background.",
+        "class": "logo-image",
+        "loading": "lazy",
+        "width": "250",
+        "height": "250",
+        "data-styleable": null
+      },
+      {
+        "src": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_864974818.png",
+        "srcset": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_864974818.png 1x,https://transform.octanecdn.com/fitLogo/438x438/https://octanecdn.com/prairiebandsites/prairiebandsites_864974818.png 1.75x,https://transform.octanecdn.com/fitLogo/500x500/https://octanecdn.com/prairiebandsites/prairiebandsites_864974818.png 2x",
+        "alt": "White Prairie Band Remediation logo with stylized flame icon on a transparent background",
+        "class": "logo-image",
+        "loading": "lazy",
+        "width": "250",
+        "height": "250",
+        "data-styleable": null
+      },
+      {
+        "src": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_522403132.png",
+        "srcset": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_522403132.png 1x,https://transform.octanecdn.com/fitLogo/438x438/https://octanecdn.com/prairiebandsites/prairiebandsites_522403132.png 1.75x,https://transform.octanecdn.com/fitLogo/500x500/https://octanecdn.com/prairiebandsites/prairiebandsites_522403132.png 2x",
+        "alt": "White Sovereign Nation Distribution logo with stylized flame and arrow on black background",
+        "class": "logo-image",
+        "loading": "lazy",
+        "width": "250",
+        "height": "250",
+        "data-styleable": null
+      },
+      {
+        "src": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_451055453.png",
+        "srcset": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_451055453.png 1x,https://transform.octanecdn.com/fitLogo/438x438/https://octanecdn.com/prairiebandsites/prairiebandsites_451055453.png 1.75x,https://transform.octanecdn.com/fitLogo/500x500/https://octanecdn.com/prairiebandsites/prairiebandsites_451055453.png 2x",
+        "alt": "White logo of Prairie Band LLC featuring stylized flame and bold text on black background",
+        "class": "logo-image",
+        "loading": "lazy",
+        "width": "250",
+        "height": "250",
+        "data-styleable": null
+      },
+      {
+        "src": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_998176791.png",
+        "srcset": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_998176791.png 1x,https://transform.octanecdn.com/fitLogo/438x438/https://octanecdn.com/prairiebandsites/prairiebandsites_998176791.png 1.75x,https://transform.octanecdn.com/fitLogo/500x500/https://octanecdn.com/prairiebandsites/prairiebandsites_998176791.png 2x",
+        "alt": "White Prairie Band Construction logo with stylized flame icon and bold uppercase text on transparent background",
+        "class": "logo-image",
+        "loading": "lazy",
+        "width": "250",
+        "height": "250",
+        "data-styleable": null
+      },
+      {
+        "src": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_430644234.png",
+        "srcset": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_430644234.png 1x,https://transform.octanecdn.com/fitLogo/438x438/https://octanecdn.com/prairiebandsites/prairiebandsites_430644234.png 1.75x,https://transform.octanecdn.com/fitLogo/500x500/https://octanecdn.com/prairiebandsites/prairiebandsites_430644234.png 2x",
+        "alt": "Burgos Group logo featuring a stylized flame design in white with bold white text on black background.",
+        "class": "logo-image",
+        "loading": "lazy",
+        "width": "250",
+        "height": "250",
+        "data-styleable": null
+      },
+      {
+        "src": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_913083142.png",
+        "srcset": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_913083142.png 1x,https://transform.octanecdn.com/fitLogo/438x438/https://octanecdn.com/prairiebandsites/prairiebandsites_913083142.png 1.75x,https://transform.octanecdn.com/fitLogo/500x500/https://octanecdn.com/prairiebandsites/prairiebandsites_913083142.png 2x",
+        "alt": "Get Volts logo with a flame and arrow symbol in white on a black background.",
+        "class": "logo-image",
+        "loading": "lazy",
+        "width": "250",
+        "height": "250",
+        "data-styleable": null
+      },
+      {
+        "src": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_766257104.png",
+        "srcset": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_766257104.png 1x,https://transform.octanecdn.com/fitLogo/438x438/https://octanecdn.com/prairiebandsites/prairiebandsites_766257104.png 1.75x,https://transform.octanecdn.com/fitLogo/500x500/https://octanecdn.com/prairiebandsites/prairiebandsites_766257104.png 2x",
+        "alt": "White Prairie Band Health Services logo featuring a stylized flame and bold text on a transparent background.",
+        "class": "logo-image",
+        "loading": "lazy",
+        "width": "250",
+        "height": "250",
+        "data-styleable": null
+      },
+      {
+        "src": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_947313030.png",
+        "srcset": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_947313030.png 1x,https://transform.octanecdn.com/fitLogo/438x438/https://octanecdn.com/prairiebandsites/prairiebandsites_947313030.png 1.75x,https://transform.octanecdn.com/fitLogo/500x500/https://octanecdn.com/prairiebandsites/prairiebandsites_947313030.png 2x",
+        "alt": "Mill Creek logo with stylized flame and wolf head in white on black background.",
+        "class": "logo-image",
+        "loading": "lazy",
+        "width": "250",
+        "height": "250",
+        "data-styleable": null
+      },
+      {
+        "src": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_522497730.png",
+        "srcset": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_522497730.png 1x,https://transform.octanecdn.com/fitLogo/438x438/https://octanecdn.com/prairiebandsites/prairiebandsites_522497730.png 1.75x,https://transform.octanecdn.com/fitLogo/500x500/https://octanecdn.com/prairiebandsites/prairiebandsites_522497730.png 2x",
+        "alt": "White logo of Soldier Creek Solutions with stylized flame and creek graphic on black background",
+        "class": "logo-image",
+        "loading": "lazy",
+        "width": "250",
+        "height": "250",
+        "data-styleable": null
+      },
+      {
+        "src": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_233667370.png",
+        "srcset": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_233667370.png 1x,https://transform.octanecdn.com/fitLogo/438x438/https://octanecdn.com/prairiebandsites/prairiebandsites_233667370.png 1.75x,https://transform.octanecdn.com/fitLogo/500x500/https://octanecdn.com/prairiebandsites/prairiebandsites_233667370.png 2x",
+        "alt": "White Prairie Hill Services logo with stylized flame and leaf design on black background.",
+        "class": "logo-image",
+        "loading": "lazy",
+        "width": "250",
+        "height": "250",
+        "data-styleable": null
+      },
+      {
+        "src": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_250321011.png",
+        "srcset": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_250321011.png 1x,https://transform.octanecdn.com/fitLogo/438x438/https://octanecdn.com/prairiebandsites/prairiebandsites_250321011.png 1.75x,https://transform.octanecdn.com/fitLogo/500x500/https://octanecdn.com/prairiebandsites/prairiebandsites_250321011.png 2x",
+        "alt": "White Prairie Creek Solutions logo with stylized flame and creek design beside company name on black background",
+        "class": "logo-image",
+        "loading": "lazy",
+        "width": "250",
+        "height": "250",
+        "data-styleable": null
+      },
+      {
+        "src": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_321391725.png",
+        "srcset": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_321391725.png 1x,https://transform.octanecdn.com/fitLogo/438x438/https://octanecdn.com/prairiebandsites/prairiebandsites_321391725.png 1.75x,https://transform.octanecdn.com/fitLogo/500x500/https://octanecdn.com/prairiebandsites/prairiebandsites_321391725.png 2x",
+        "alt": "White flame icon with bold text Prairie Lake Construction on black background logo",
+        "class": "logo-image",
+        "loading": "lazy",
+        "width": "250",
+        "height": "250",
+        "data-styleable": null
+      },
+      {
+        "src": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_525396432.png",
+        "srcset": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_525396432.png 1x,https://transform.octanecdn.com/fitLogo/438x438/https://octanecdn.com/prairiebandsites/prairiebandsites_525396432.png 1.75x,https://transform.octanecdn.com/fitLogo/500x500/https://octanecdn.com/prairiebandsites/prairiebandsites_525396432.png 2x",
+        "alt": "White Prairie Band AG logo with stylized flame graphic and bold text on transparent background",
+        "class": "logo-image",
+        "loading": "lazy",
+        "width": "250",
+        "height": "250",
+        "data-styleable": null
+      },
+      {
+        "src": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_882368934.png",
+        "srcset": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_882368934.png 1x,https://transform.octanecdn.com/fitLogo/438x438/https://octanecdn.com/prairiebandsites/prairiebandsites_882368934.png 1.75x,https://transform.octanecdn.com/fitLogo/500x500/https://octanecdn.com/prairiebandsites/prairiebandsites_882368934.png 2x",
+        "alt": "White logo of Prairie Band Distribution featuring stylized flame and arrow with bold text on black background.",
+        "class": "logo-image",
+        "loading": "lazy",
+        "width": "250",
+        "height": "250",
+        "data-styleable": null
+      },
+      {
+        "src": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_575585384.png",
+        "srcset": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_575585384.png 1x,https://transform.octanecdn.com/fitLogo/438x438/https://octanecdn.com/prairiebandsites/prairiebandsites_575585384.png 1.75x,https://transform.octanecdn.com/fitLogo/500x500/https://octanecdn.com/prairiebandsites/prairiebandsites_575585384.png 2x",
+        "alt": "White Gaia Prairie Band logo featuring stylized flame and leaf design with bold text on black background",
+        "class": "logo-image",
+        "loading": "lazy",
+        "width": "250",
+        "height": "250",
+        "data-styleable": null
+      },
+      {
+        "src": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_832735547.png",
+        "srcset": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_832735547.png 1x,https://transform.octanecdn.com/fitLogo/438x438/https://octanecdn.com/prairiebandsites/prairiebandsites_832735547.png 1.75x,https://transform.octanecdn.com/fitLogo/500x500/https://octanecdn.com/prairiebandsites/prairiebandsites_832735547.png 2x",
+        "alt": "White Prairie Band One Stop logo featuring a stylized flame and bird design on a black background.",
+        "class": "logo-image",
+        "loading": "lazy",
+        "width": "250",
+        "height": "250",
+        "data-styleable": null
+      },
+      {
+        "src": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_847409352.png",
+        "srcset": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_847409352.png 1x,https://transform.octanecdn.com/fitLogo/438x438/https://octanecdn.com/prairiebandsites/prairiebandsites_847409352.png 1.75x,https://transform.octanecdn.com/fitLogo/500x500/https://octanecdn.com/prairiebandsites/prairiebandsites_847409352.png 2x",
+        "alt": "Prairie Band Propane logo featuring a stylized flame and bold uppercase text on a transparent background.",
+        "class": "logo-image",
+        "loading": "lazy",
+        "width": "250",
+        "height": "250",
+        "data-styleable": null
+      },
+      {
+        "src": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_224627225.png",
+        "srcset": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_224627225.png 1x,https://transform.octanecdn.com/fitLogo/438x438/https://octanecdn.com/prairiebandsites/prairiebandsites_224627225.png 1.75x,https://transform.octanecdn.com/fitLogo/500x500/https://octanecdn.com/prairiebandsites/prairiebandsites_224627225.png 2x",
+        "alt": "White Prairie Band Properties logo with stylized flame on black background.",
+        "class": "logo-image",
+        "loading": "lazy",
+        "width": "250",
+        "height": "250",
+        "data-styleable": null
+      },
+      {
+        "src": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_864974818.png",
+        "srcset": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_864974818.png 1x,https://transform.octanecdn.com/fitLogo/438x438/https://octanecdn.com/prairiebandsites/prairiebandsites_864974818.png 1.75x,https://transform.octanecdn.com/fitLogo/500x500/https://octanecdn.com/prairiebandsites/prairiebandsites_864974818.png 2x",
+        "alt": "White Prairie Band Remediation logo with stylized flame icon on a transparent background",
+        "class": "logo-image",
+        "loading": "lazy",
+        "width": "250",
+        "height": "250",
+        "data-styleable": null
+      },
+      {
+        "src": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_522403132.png",
+        "srcset": "https://transform.octanecdn.com/fitLogo/250x250/https://octanecdn.com/prairiebandsites/prairiebandsites_522403132.png 1x,https://transform.octanecdn.com/fitLogo/438x438/https://octanecdn.com/prairiebandsites/prairiebandsites_522403132.png 1.75x,https://transform.octanecdn.com/fitLogo/500x500/https://octanecdn.com/prairiebandsites/prairiebandsites_522403132.png 2x",
+        "alt": "White Sovereign Nation Distribution logo with stylized flame and arrow on black background",
+        "class": "logo-image",
+        "loading": "lazy",
+        "width": "250",
+        "height": "250",
+        "data-styleable": null
+      },
+      {
+        "src": "https://transform.octanecdn.com/crop/450x253/https://octanecdn.com/prairiebandsites/pb_llc_logo_horiz_white_web.png",
+        "srcset": "https://transform.octanecdn.com/crop/450x253/https://octanecdn.com/prairiebandsites/pb_llc_logo_horiz_white_web.png 1x,https://transform.octanecdn.com/crop/788x443/https://octanecdn.com/prairiebandsites/pb_llc_logo_horiz_white_web.png 1.75x,https://transform.octanecdn.com/crop/900x506/https://octanecdn.com/prairiebandsites/pb_llc_logo_horiz_white_web.png 2x",
+        "alt": "White logo of Prairie Band LLC featuring a stylized abstract flame or bird shape with bold text on black background",
+        "class": "image-wrapper-item ",
+        "loading": "lazy",
+        "width": "450",
+        "height": "253",
+        "data-styleable": null
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-007/7d2213442954df43.txt"
+  },
+  {
+    "id": "ced104cb716ac4f7",
+    "name": "Protect Environmental, LLC",
+    "requested_url": "https://www.protectenvironmental.com/",
+    "status": 200,
+    "final_url": "https://www.protectenvironmental.com/",
+    "text_chars": 9196,
+    "logo_candidates": [
+      {
+        "src": "https://www.protectenvironmental.com/wp-content/uploads/2022/08/cropped-Protect-Environmental-Logo-2022.png",
+        "title": "cropped-Protect-Environmental-Logo-2022.png",
+        "alt": "cropped-Protect-Environmental-Logo-2022.png",
+        "loading": "lazy"
+      },
+      {
+        "fetchpriority": "high",
+        "width": "2887",
+        "height": "1063",
+        "src": "https://www.protectenvironmental.com/wp-content/uploads/2022/08/cropped-Protect-Environmental-Logo-2022.png",
+        "class": "attachment-full size-full wp-image-15278",
+        "alt": "",
+        "srcset": "https://www.protectenvironmental.com/wp-content/uploads/2022/08/cropped-Protect-Environmental-Logo-2022.png 2887w, https://www.protectenvironmental.com/wp-content/uploads/2022/08/cropped-Protect-Environmental-Logo-2022-300x110.png 300w, https://www.protectenvironmental.com/wp-content/uploads/2022/08/cropped-Protect-Environmental-Logo-2022-1024x377.png 1024w, https://www.protectenvironmental.com/wp-content/uploads/2022/08/cropped-Protect-Environmental-Logo-2022-768x283.png 768w, https://www.protectenvironmental.com/wp-content/uploads/2022/08/cropped-Protect-Environmental-Logo-2022-1536x566.png 1536w, https://www.protectenvironmental.com/wp-content/uploads/2022/08/cropped-Protect-Environmental-Logo-2022-2048x754.png 2048w, https://www.protectenvironmental.com/wp-content/uploads/2022/08/cropped-Protect-Environmental-Logo-2022-1200x442.png 1200w, https://www.protectenvironmental.com/wp-content/uploads/2022/08/cropped-Protect-Environmental-Logo-2022-1980x729.png 1980w",
+        "sizes": "(max-width: 2887px) 100vw, 2887px"
+      },
+      {
+        "src": "https://www.protectenvironmental.com/wp-content/uploads/2022/08/cropped-Protect-Environmental-Logo-2022.png",
+        "title": "cropped-Protect-Environmental-Logo-2022.png",
+        "alt": "cropped-Protect-Environmental-Logo-2022.png",
+        "loading": "lazy"
+      },
+      {
+        "width": "580",
+        "height": "214",
+        "src": "https://www.protectenvironmental.com/wp-content/uploads/2022/08/Protect-FinalLogo-2022-White-and-Green-01-1024x377.png",
+        "class": "attachment-large size-large wp-image-15273",
+        "alt": "",
+        "srcset": "https://www.protectenvironmental.com/wp-content/uploads/2022/08/Protect-FinalLogo-2022-White-and-Green-01-1024x377.png 1024w, https://www.protectenvironmental.com/wp-content/uploads/2022/08/Protect-FinalLogo-2022-White-and-Green-01-300x110.png 300w, https://www.protectenvironmental.com/wp-content/uploads/2022/08/Protect-FinalLogo-2022-White-and-Green-01-768x283.png 768w, https://www.protectenvironmental.com/wp-content/uploads/2022/08/Protect-FinalLogo-2022-White-and-Green-01-1536x566.png 1536w, https://www.protectenvironmental.com/wp-content/uploads/2022/08/Protect-FinalLogo-2022-White-and-Green-01-2048x754.png 2048w, https://www.protectenvironmental.com/wp-content/uploads/2022/08/Protect-FinalLogo-2022-White-and-Green-01-1200x442.png 1200w, https://www.protectenvironmental.com/wp-content/uploads/2022/08/Protect-FinalLogo-2022-White-and-Green-01-1980x729.png 1980w",
+        "sizes": "(max-width: 580px) 100vw, 580px"
+      },
+      {
+        "width": "580",
+        "height": "214",
+        "src": "https://www.protectenvironmental.com/wp-content/uploads/2022/08/Protect-FinalLogo-2022-White-and-Green-01-1024x377.png",
+        "class": "attachment-large size-large wp-image-15273",
+        "alt": "",
+        "srcset": "https://www.protectenvironmental.com/wp-content/uploads/2022/08/Protect-FinalLogo-2022-White-and-Green-01-1024x377.png 1024w, https://www.protectenvironmental.com/wp-content/uploads/2022/08/Protect-FinalLogo-2022-White-and-Green-01-300x110.png 300w, https://www.protectenvironmental.com/wp-content/uploads/2022/08/Protect-FinalLogo-2022-White-and-Green-01-768x283.png 768w, https://www.protectenvironmental.com/wp-content/uploads/2022/08/Protect-FinalLogo-2022-White-and-Green-01-1536x566.png 1536w, https://www.protectenvironmental.com/wp-content/uploads/2022/08/Protect-FinalLogo-2022-White-and-Green-01-2048x754.png 2048w, https://www.protectenvironmental.com/wp-content/uploads/2022/08/Protect-FinalLogo-2022-White-and-Green-01-1200x442.png 1200w, https://www.protectenvironmental.com/wp-content/uploads/2022/08/Protect-FinalLogo-2022-White-and-Green-01-1980x729.png 1980w",
+        "sizes": "(max-width: 580px) 100vw, 580px"
+      },
+      {
+        "width": "580",
+        "height": "214",
+        "src": "https://www.protectenvironmental.com/wp-content/uploads/2022/08/cropped-Protect-Environmental-Logo-2022-1024x377.png",
+        "class": "attachment-large size-large wp-image-15278",
+        "alt": "",
+        "srcset": "https://www.protectenvironmental.com/wp-content/uploads/2022/08/cropped-Protect-Environmental-Logo-2022-1024x377.png 1024w, https://www.protectenvironmental.com/wp-content/uploads/2022/08/cropped-Protect-Environmental-Logo-2022-300x110.png 300w, https://www.protectenvironmental.com/wp-content/uploads/2022/08/cropped-Protect-Environmental-Logo-2022-768x283.png 768w, https://www.protectenvironmental.com/wp-content/uploads/2022/08/cropped-Protect-Environmental-Logo-2022-1536x566.png 1536w, https://www.protectenvironmental.com/wp-content/uploads/2022/08/cropped-Protect-Environmental-Logo-2022-2048x754.png 2048w, https://www.protectenvironmental.com/wp-content/uploads/2022/08/cropped-Protect-Environmental-Logo-2022-1200x442.png 1200w, https://www.protectenvironmental.com/wp-content/uploads/2022/08/cropped-Protect-Environmental-Logo-2022-1980x729.png 1980w",
+        "sizes": "(max-width: 580px) 100vw, 580px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-007/ced104cb716ac4f7.txt"
+  },
+  {
+    "id": "0bffbd9497b322b9",
+    "name": "Sacramento County, CA",
+    "requested_url": "https://www.saccounty.gov/",
+    "status": 200,
+    "final_url": "https://www.saccounty.gov/",
+    "text_chars": 4923,
+    "logo_candidates": [
+      {
+        "src": "/content/dam/saccounty/us/en/images/logo-standard.png",
+        "alt": "County Logo"
+      },
+      {
+        "src": "/content/dam/saccounty/us/en/images/portal/logo-full-white.png",
+        "alt": "County Logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-007/0bffbd9497b322b9.txt"
+  }
+]

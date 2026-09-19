@@ -1,0 +1,480 @@
+[
+  {
+    "content": [
+      {
+        "type": "text",
+        "text": "e4e2ce9093e4abcf: identity=yes (P(yes)=0.77), ownership=no (P(yes)=0.05)\n9baa62c4b78a2d00: identity=no (P(yes)=0.06), ownership=no (P(yes)=0.08)\n3896342adff711d3: identity=no (P(yes)=0.47), ownership=no (P(yes)=0.04)\nde6067fb068acc23: identity=yes (P(yes)=0.77), ownership=no (P(yes)=0.07)\nfe3424f24c72ed98: identity=yes (P(yes)=0.74), ownership=no (P(yes)=0.04)\nInspect uncertain or truncated items. Tool and website judgments depend on the content supplied; they do not predict unseen results."
+      }
+    ],
+    "structuredContent": {
+      "ok": true,
+      "model": "jev-latest",
+      "scales": {},
+      "results": [
+        {
+          "id": "e4e2ce9093e4abcf",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.77
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.05
+            }
+          },
+          "model": "jev-1.13.0"
+        },
+        {
+          "id": "9baa62c4b78a2d00",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.06
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.08
+            }
+          },
+          "model": "jev-1.13.0"
+        },
+        {
+          "id": "3896342adff711d3",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.47
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.04
+            }
+          },
+          "model": "jev-1.13.0"
+        },
+        {
+          "id": "de6067fb068acc23",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.77
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.07
+            }
+          },
+          "model": "jev-1.13.0"
+        },
+        {
+          "id": "fe3424f24c72ed98",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.74
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.04
+            }
+          },
+          "model": "jev-1.13.0"
+        }
+      ],
+      "usage": {
+        "inputTokens": 6540
+      }
+    },
+    "isError": false
+  },
+  {
+    "content": [
+      {
+        "type": "text",
+        "text": "cb914b3f1bbacdaf: identity=yes (P(yes)=0.80), ownership=yes (P(yes)=0.94)\n0d1635ad7190e2f1: identity=yes (P(yes)=0.86), ownership=no (P(yes)=0.05)\n9100875e56a777ab: identity=yes (P(yes)=0.67), ownership=no (P(yes)=0.06)\n2935cd0cc5eb6ec3: identity=no (P(yes)=0.48), ownership=no (P(yes)=0.30)\n7875c358eb2be916: identity=yes (P(yes)=0.56), ownership=no (P(yes)=0.05)\nInspect uncertain or truncated items. Tool and website judgments depend on the content supplied; they do not predict unseen results."
+      }
+    ],
+    "structuredContent": {
+      "ok": true,
+      "model": "jev-latest",
+      "scales": {},
+      "results": [
+        {
+          "id": "cb914b3f1bbacdaf",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.8
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.94
+            }
+          },
+          "model": "jev-1.13.0"
+        },
+        {
+          "id": "0d1635ad7190e2f1",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.86
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.05
+            }
+          },
+          "model": "jev-1.13.0"
+        },
+        {
+          "id": "9100875e56a777ab",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.67
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.06
+            }
+          },
+          "model": "jev-1.13.0"
+        },
+        {
+          "id": "2935cd0cc5eb6ec3",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.48
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.3
+            }
+          },
+          "model": "jev-1.13.0"
+        },
+        {
+          "id": "7875c358eb2be916",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.56
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.05
+            }
+          },
+          "model": "jev-1.13.0"
+        }
+      ],
+      "usage": {
+        "inputTokens": 10757
+      }
+    },
+    "isError": false
+  },
+  {
+    "content": [
+      {
+        "type": "text",
+        "text": "ecc30b0851d4b875: identity=yes (P(yes)=0.76), ownership=no (P(yes)=0.04)\n15995ae6235a004e: identity=yes (P(yes)=0.79), ownership=no (P(yes)=0.04)\nc9c1c2954514312b: identity=yes (P(yes)=0.76), ownership=no (P(yes)=0.05)\nbfa49aeff9215f2e: identity=yes (P(yes)=0.85), ownership=no (P(yes)=0.07)\n0f3e9b3727aff346: identity=yes (P(yes)=0.87), ownership=no (P(yes)=0.06)\nInspect uncertain or truncated items. Tool and website judgments depend on the content supplied; they do not predict unseen results."
+      }
+    ],
+    "structuredContent": {
+      "ok": true,
+      "model": "jev-latest",
+      "scales": {},
+      "results": [
+        {
+          "id": "ecc30b0851d4b875",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.76
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.04
+            }
+          },
+          "model": "jev-1.13.0"
+        },
+        {
+          "id": "15995ae6235a004e",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.79
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.04
+            }
+          },
+          "model": "jev-1.13.0"
+        },
+        {
+          "id": "c9c1c2954514312b",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.76
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.05
+            }
+          },
+          "model": "jev-1.13.0"
+        },
+        {
+          "id": "bfa49aeff9215f2e",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.85
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.07
+            }
+          },
+          "model": "jev-1.13.0"
+        },
+        {
+          "id": "0f3e9b3727aff346",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.87
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.06
+            }
+          },
+          "model": "jev-1.13.0"
+        }
+      ],
+      "usage": {
+        "inputTokens": 10781
+      }
+    },
+    "isError": false
+  },
+  {
+    "content": [
+      {
+        "type": "text",
+        "text": "25fcb10c978125f3: identity=no (P(yes)=0.45), ownership=no (P(yes)=0.05)\n6b987c35ec620494: identity=yes (P(yes)=0.80), ownership=no (P(yes)=0.08)\n46b25aa2943fae93: identity=yes (P(yes)=0.94), ownership=no (P(yes)=0.11)\nae44ca7520c4f426: identity=yes (P(yes)=0.69), ownership=yes (P(yes)=0.71)\n7b51eb354840311e: identity=no (P(yes)=0.35), ownership=no (P(yes)=0.05)\nInspect uncertain or truncated items. Tool and website judgments depend on the content supplied; they do not predict unseen results."
+      }
+    ],
+    "structuredContent": {
+      "ok": true,
+      "model": "jev-latest",
+      "scales": {},
+      "results": [
+        {
+          "id": "25fcb10c978125f3",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.45
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.05
+            }
+          },
+          "model": "jev-1.13.0"
+        },
+        {
+          "id": "6b987c35ec620494",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.8
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.08
+            }
+          },
+          "model": "jev-1.13.0"
+        },
+        {
+          "id": "46b25aa2943fae93",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.94
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.11
+            }
+          },
+          "model": "jev-1.13.0"
+        },
+        {
+          "id": "ae44ca7520c4f426",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.69
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.71
+            }
+          },
+          "model": "jev-1.13.0"
+        },
+        {
+          "id": "7b51eb354840311e",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.35
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.05
+            }
+          },
+          "model": "jev-1.13.0"
+        }
+      ],
+      "usage": {
+        "inputTokens": 7451
+      }
+    },
+    "isError": false
+  },
+  {
+    "content": [
+      {
+        "type": "text",
+        "text": "9e8c45a56b5e7364: identity=no (P(yes)=0.13), ownership=no (P(yes)=0.13)\nd5898338451385d2: identity=yes (P(yes)=0.78), ownership=no (P(yes)=0.05)\n7f014677f9b6666f: identity=yes (P(yes)=0.61), ownership=no (P(yes)=0.11)\n99b2037eee46bba9: identity=yes (P(yes)=0.84), ownership=no (P(yes)=0.10)\nf600c57422578b3c: identity=yes (P(yes)=0.80), ownership=no (P(yes)=0.03)\nInspect uncertain or truncated items. Tool and website judgments depend on the content supplied; they do not predict unseen results."
+      }
+    ],
+    "structuredContent": {
+      "ok": true,
+      "model": "jev-latest",
+      "scales": {},
+      "results": [
+        {
+          "id": "9e8c45a56b5e7364",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.13
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.13
+            }
+          },
+          "model": "jev-1.13.0"
+        },
+        {
+          "id": "d5898338451385d2",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.78
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.05
+            }
+          },
+          "model": "jev-1.13.0"
+        },
+        {
+          "id": "7f014677f9b6666f",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.61
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.11
+            }
+          },
+          "model": "jev-1.13.0"
+        },
+        {
+          "id": "99b2037eee46bba9",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.84
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.1
+            }
+          },
+          "model": "jev-1.13.0"
+        },
+        {
+          "id": "f600c57422578b3c",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.8
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.03
+            }
+          },
+          "model": "jev-1.13.0"
+        }
+      ],
+      "usage": {
+        "inputTokens": 9269
+      }
+    },
+    "isError": false
+  },
+  {
+    "content": [
+      {
+        "type": "text",
+        "text": "157dda15aaf9e692: identity=yes (P(yes)=0.94), ownership=no (P(yes)=0.10)\nInspect uncertain or truncated items. Tool and website judgments depend on the content supplied; they do not predict unseen results."
+      }
+    ],
+    "structuredContent": {
+      "ok": true,
+      "model": "jev-latest",
+      "scales": {},
+      "results": [
+        {
+          "id": "157dda15aaf9e692",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.94
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.1
+            }
+          },
+          "model": "jev-1.13.0"
+        }
+      ],
+      "usage": {
+        "inputTokens": 832
+      }
+    },
+    "isError": false
+  }
+]

@@ -1,0 +1,1314 @@
+[
+  {
+    "id": "0fffd6f1b5719359",
+    "name": "National Community Renaissance",
+    "requested_url": "https://nationalcore.org/",
+    "status": 200,
+    "final_url": "https://nationalcore.org/",
+    "text_chars": 4642,
+    "logo_candidates": [
+      {
+        "src": "https://nationalcore.org/wp-content/uploads/2025/05/CORE-Logo-2019_Website.png",
+        "width": "1541",
+        "height": "533",
+        "alt": "National CORE\u00ae",
+        "id": "logo",
+        "data-height-percentage": "74"
+      },
+      {
+        "decoding": "async",
+        "class": "wp-image-13354  alignleft lazyload",
+        "data-src": "https://nationalcore.org/wp-content/uploads/2023/04/equal-housing-disability-icons.png",
+        "alt": "Equal Housing Opportunity and Disability logos",
+        "width": "100",
+        "height": "51",
+        "data-srcset": "https://nationalcore.org/wp-content/uploads/2023/04/equal-housing-disability-icons.png 206w, https://nationalcore.org/wp-content/uploads/2023/04/equal-housing-disability-icons-150x76.png 150w",
+        "data-sizes": "(max-width: 100px) 100vw, 100px",
+        "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "style": "--smush-placeholder-width: 100px; --smush-placeholder-aspect-ratio: 100/51;"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-081/0fffd6f1b5719359.txt"
+  },
+  {
+    "id": "7cc63a3fabd9b934",
+    "name": "Norc At the University of Chicago",
+    "requested_url": "https://www.norc.org/",
+    "status": 200,
+    "final_url": "https://www.norc.org/",
+    "text_chars": 5680,
+    "logo_candidates": [
+      {
+        "src": "/content/dam/non-dynamic-logos/norc-logo/NORCLogo_Short_DkGrey.svg",
+        "alt": "NORC at the University Chicago",
+        "class": "image-src ",
+        "data-cmp-hook-image": "image"
+      },
+      {
+        "src": "https://s7d1.scene7.com/is/image/norc/Solutions-NavCTA-CHEP:mobileHorizontal",
+        "alt": "Logo: NORC Civic Health & Elections Project",
+        "class": "image-src ",
+        "data-cmp-hook-image": "image"
+      },
+      {
+        "src": "https://s7d1.scene7.com/is/content/norc/Spark_Animation_for_Website_Transparent_2X_v2?$mobileHorizontalLogo$",
+        "alt": "Star symbol, symbol of trust",
+        "class": "image-src ",
+        "data-cmp-hook-image": "image"
+      },
+      {
+        "src": "https://s7d1.scene7.com/is/image/norc/WashingtonPost?$mobileHorizontalLogo$",
+        "alt": "The Washington Post",
+        "class": "image-src cmp-newsitem__logo",
+        "data-cmp-hook-image": "image"
+      },
+      {
+        "src": "https://s7d1.scene7.com/is/image/norc/Fox32Chicago?$mobileHorizontalLogo$",
+        "alt": "FOX 32 Chicago",
+        "class": "image-src cmp-newsitem__logo",
+        "data-cmp-hook-image": "image"
+      },
+      {
+        "src": "https://s7d1.scene7.com/is/image/norc/Stat?$mobileHorizontalLogo$",
+        "alt": "STAT",
+        "class": "image-src cmp-newsitem__logo",
+        "data-cmp-hook-image": "image"
+      },
+      {
+        "src": "/content/dam/non-dynamic-logos/norc-solutions-logos/AmeriSpeak-SolRow.svg",
+        "alt": "AmeriSpeak",
+        "class": "image-src ",
+        "data-cmp-hook-image": "image"
+      },
+      {
+        "src": "/content/dam/non-dynamic-logos/norc-solutions-logos/AmplifyAAPI-SolRow.svg",
+        "alt": "AmplifyAAPI",
+        "class": "image-src ",
+        "data-cmp-hook-image": "image"
+      },
+      {
+        "src": "/content/dam/non-dynamic-logos/norc-solutions-logos/AP-NORC-SolRow.svg",
+        "alt": "AP-NORC",
+        "class": "image-src ",
+        "data-cmp-hook-image": "image"
+      },
+      {
+        "src": "/content/dam/non-dynamic-logos/norc-solutions-logos/Bridge-SolRow.svg",
+        "alt": "The Bridge at NORC",
+        "class": "image-src ",
+        "data-cmp-hook-image": "image"
+      },
+      {
+        "src": "/content/dam/non-dynamic-logos/norc-solutions-logos/Civic-Health-and-Elections-Project-Logo-SolRow.svg",
+        "alt": "Logo: NORC Civic Health & Elections Project",
+        "class": "image-src ",
+        "data-cmp-hook-image": "image"
+      },
+      {
+        "src": "/content/dam/non-dynamic-logos/norc-solutions-logos/Foresight50-SolRow.svg",
+        "alt": "Logo: Foresight 50+",
+        "class": "image-src ",
+        "data-cmp-hook-image": "image"
+      },
+      {
+        "src": "/content/dam/non-dynamic-logos/norc-solutions-logos/NORC-Data-Enclave-SolRow.svg",
+        "alt": "Logo: NORC Data Enclave",
+        "class": "image-src ",
+        "data-cmp-hook-image": "image"
+      },
+      {
+        "src": "/content/dam/non-dynamic-logos/norc-solutions-logos/VizStudio-SolRow.svg",
+        "alt": "Logo: NORC VizStudio",
+        "class": "image-src ",
+        "data-cmp-hook-image": "image"
+      },
+      {
+        "src": "/content/dam/non-dynamic-logos/norc-solutions-logos/SDC-SolRow.svg",
+        "alt": "Logo: Social Data Collaboratory at NORC",
+        "class": "image-src ",
+        "data-cmp-hook-image": "image"
+      },
+      {
+        "src": "/content/dam/non-dynamic-logos/norc-solutions-logos/Veterans-Insight-Panel-SolRow.svg",
+        "alt": "Logo: Veterans Insight Panel",
+        "class": "image-src ",
+        "data-cmp-hook-image": "image"
+      },
+      {
+        "src": "https://s7d1.scene7.com/is/image/norc/NORC_Tagline_Color_Reversed-1?$mobileHorizontalLogo$",
+        "alt": "Research You Can Trust",
+        "class": "image-src ",
+        "data-cmp-hook-image": "image"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-081/7cc63a3fabd9b934.txt"
+  },
+  {
+    "id": "604092b81bdca690",
+    "name": "Onex Corporation",
+    "requested_url": "https://onex.com/",
+    "status": 200,
+    "final_url": "https://onex.com/",
+    "text_chars": 72,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-081/604092b81bdca690.txt"
+  },
+  {
+    "id": "011acce2099c42ec",
+    "name": "Philadelphia Shipyard Development Corporation",
+    "requested_url": "https://www.phillyshipyard.com/",
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  {
+    "id": "db32a29a82dac363",
+    "name": "Praxis Precision Medicines",
+    "requested_url": "https://ir.praxismedicines.com/",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "8e9e99d11d66f371",
+    "name": "Radiant Nuclear",
+    "requested_url": "https://www.radiantnuclear.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "02b9bbe8788dfaab",
+    "name": "Research Triangle Foundation",
+    "requested_url": "https://www.rtp.org/the-foundation/",
+    "status": 200,
+    "final_url": "https://www.rtp.org/the-foundation/",
+    "text_chars": 2138,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-081/02b9bbe8788dfaab.txt"
+  },
+  {
+    "id": "b041a6dec0d82846",
+    "name": "Rocket LAB USA",
+    "requested_url": "https://rocketlabcorp.gcs-web.com/",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "c4e42cb1c68614c9",
+    "name": "Rocket LP FKA RKT Holdings",
+    "requested_url": "https://ir.rocketcompanies.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "e13fd30fec2f2772",
+    "name": "RSM US LLP (formerly Known AS Mcgladrey Llp)",
+    "requested_url": "https://rsmus.com/",
+    "status": 200,
+    "final_url": "https://rsmus.com/",
+    "text_chars": 9932,
+    "logo_candidates": [
+      {
+        "tabindex": "-1",
+        "src": "/content/experience-fragments/rsm/us/en/site/header/master/_jcr_content/root/globalheader/mainnav/logo.coreimg.png/1779343789345/logo.png",
+        "class": "cmp-image__image",
+        "itemprop": "contentUrl",
+        "data-cmp-hook-image": "image",
+        "alt": "RSM corporate logo"
+      },
+      {
+        "tabindex": "-1",
+        "src": "/content/experience-fragments/rsm/us/en/site/header/master/_jcr_content/root/globalheader/mainnav/logo.coreimg.png/1779343789345/logo.png",
+        "class": "cmp-image__image",
+        "itemprop": "contentUrl",
+        "data-cmp-hook-image": "image",
+        "alt": "RSM corporate logo"
+      },
+      {
+        "tabindex": "-1",
+        "src": "/content/experience-fragments/rsm/us/en/site/footer/master/_jcr_content/root/globalfooter/logo.coreimg.png/1648142668633/logo.png",
+        "class": "cmp-image__image",
+        "itemprop": "contentUrl",
+        "data-cmp-hook-image": "image",
+        "alt": "RSM Logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-081/e13fd30fec2f2772.txt"
+  },
+  {
+    "id": "f0be1ee7f50395bc",
+    "name": "S2G Investments, LLC",
+    "requested_url": "https://www.s2ginvestments.com/",
+    "status": 200,
+    "final_url": "https://www.s2ginvestments.com/",
+    "text_chars": 3727,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-081/f0be1ee7f50395bc.txt"
+  },
+  {
+    "id": "86933dea919b16f0",
+    "name": "Sbir Advisors OBO Cosmic Shielding Corporation",
+    "requested_url": "https://www.cosmicsystems.com/",
+    "status": 200,
+    "final_url": "https://www.cosmicsystems.com/",
+    "text_chars": 3174,
+    "logo_candidates": [
+      {
+        "src": "/cosmic_shielding_logo.svg",
+        "alt": "Cosmic Shielding",
+        "class": "md:w-[10.25rem]"
+      },
+      {
+        "src": "/temp/logos/CERN_logo_black.svg",
+        "alt": "CERN"
+      },
+      {
+        "src": "/temp/logos/iss.png",
+        "alt": "International Space Station"
+      },
+      {
+        "src": "/temp/logos/triumf.svg",
+        "alt": "TRIUMF"
+      },
+      {
+        "src": "/temp/logos/himac.png",
+        "alt": "HIMAC"
+      },
+      {
+        "src": "/temp/logos/nasa.svg",
+        "alt": "NASA"
+      },
+      {
+        "src": "/temp/logos/axiom_space.svg",
+        "alt": "Axiom Space"
+      },
+      {
+        "src": "/temp/logos/aethero.png",
+        "alt": "Aethero"
+      },
+      {
+        "src": "/temp/logos/astro.png",
+        "alt": "Astro Digital"
+      },
+      {
+        "src": "/temp/logos/axiom.svg",
+        "alt": "Axiom Space"
+      },
+      {
+        "src": "/temp/logos/heo.svg",
+        "alt": "HEO"
+      },
+      {
+        "src": "/temp/logos/orbital.png",
+        "alt": "Orbital"
+      },
+      {
+        "src": "/temp/logos/sekisui.png",
+        "alt": "Sekisui"
+      },
+      {
+        "src": "/temp/logos/starfish.svg",
+        "alt": "Starfish Space"
+      },
+      {
+        "src": "/temp/logos/trl11.svg",
+        "alt": "TRL11"
+      },
+      {
+        "src": "/temp/logos/turion.svg",
+        "alt": "Turion"
+      },
+      {
+        "src": "/temp/logos/usaf.png",
+        "alt": "US Air Force"
+      },
+      {
+        "src": "/temp/logos/xplore.png",
+        "alt": "Xplore"
+      },
+      {
+        "src": "https://cosmic-shielding.cdn.prismic.io/cosmic-shielding/ad5PFJ1ZCF7ETLrC_aethrologo.svg"
+      },
+      {
+        "src": "/cosmic_shielding_logo_small.svg",
+        "alt": "Cosmic Shielding"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-081/86933dea919b16f0.txt"
+  },
+  {
+    "id": "f038df427ed524b0",
+    "name": "Southern Maryland Navy Alliance",
+    "requested_url": "https://navyalliance.org/",
+    "status": 202,
+    "final_url": "https://navyalliance.org/",
+    "text_chars": 91,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-081/f038df427ed524b0.txt"
+  },
+  {
+    "id": "eb68732e52d89db5",
+    "name": "the National Association of Clean Water Agencies (nacwa)",
+    "requested_url": "https://www.nacwa.org/",
+    "status": 200,
+    "final_url": "https://www.nacwa.org/",
+    "text_chars": 16791,
+    "logo_candidates": [
+      {
+        "src": "http://www.nacwa.org/images/default-source/2018-sponsors/biologo.png",
+        "alt": "",
+        "title": "biologo"
+      },
+      {
+        "src": "/images/default-source/default-2021/nacwa-logo-white-f.svg",
+        "alt": "nacwa-logo-white-f",
+        "title": "nacwa-logo-white-f",
+        "data-displaymode": "Original"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-081/eb68732e52d89db5.txt"
+  },
+  {
+    "id": "553ad4da91984454",
+    "name": "Utah Defense Alliance",
+    "requested_url": "https://utahdefensealliance.com/about/",
+    "status": 202,
+    "final_url": "https://utahdefensealliance.com/about/",
+    "text_chars": 94,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-081/553ad4da91984454.txt"
+  },
+  {
+    "id": "dc8009434fbfd5ef",
+    "name": "Viking Village Dock",
+    "requested_url": "https://www.vikingvillage.net/",
+    "status": 200,
+    "final_url": "https://www.vikingvillage.net/",
+    "text_chars": 5753,
+    "logo_candidates": [
+      {
+        "loading": "lazy",
+        "sizes": "102px",
+        "srcset": "https://static.wixstatic.com/media/3fae2b_e0458f93a32e4d4db610ce79c2fac839~mv2.png/v1/fill/w_102,h_64,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Viking%20Fresh%20logo.png 1x, https://static.wixstatic.com/media/3fae2b_e0458f93a32e4d4db610ce79c2fac839~mv2.png/v1/fill/w_204,h_128,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Viking%20Fresh%20logo.png 2x",
+        "id": "img_comp-k91grlgo1",
+        "src": "https://static.wixstatic.com/media/3fae2b_e0458f93a32e4d4db610ce79c2fac839~mv2.png/v1/fill/w_102,h_64,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Viking%20Fresh%20logo.png",
+        "alt": "Viking_Fresh_Logo",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "102",
+        "height": "64"
+      },
+      {
+        "loading": "lazy",
+        "sizes": "194px",
+        "srcset": "https://static.wixstatic.com/media/3fae2b_ced5491f00e24bf58c0761aec933370b~mv2.png/v1/fill/w_194,h_190,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/screen%20shot%202022-05-15%20at%209_03_edited.png 1x, https://static.wixstatic.com/media/3fae2b_ced5491f00e24bf58c0761aec933370b~mv2.png/v1/fill/w_388,h_380,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/screen%20shot%202022-05-15%20at%209_03_edited.png 2x",
+        "id": "img_comp-l59lvrer",
+        "src": "https://static.wixstatic.com/media/3fae2b_ced5491f00e24bf58c0761aec933370b~mv2.png/v1/fill/w_194,h_190,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/screen%20shot%202022-05-15%20at%209_03_edited.png",
+        "alt": "BrittonSpark_VV_Logo",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "194",
+        "height": "190"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-081/dc8009434fbfd5ef.txt"
+  },
+  {
+    "id": "51c1fdca6dd47c41",
+    "name": "Vima World S.l.",
+    "requested_url": "https://vimafoods.com/eng/quienes-somos/",
+    "status": 200,
+    "final_url": "https://vimafoods.com/eng/quienes-somos/",
+    "text_chars": 14592,
+    "logo_candidates": [
+      {
+        "width": "1191",
+        "height": "842",
+        "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201191%20842'%3E%3C/svg%3E",
+        "class": "default-logo",
+        "alt": "",
+        "decoding": "async",
+        "fetchpriority": "high",
+        "data-lazy-srcset": "https://vimafoods.com/wp-content/uploads/2026/04/5.-LOGO-Y-SLOGAN_VERDE.png 1191w, https://vimafoods.com/wp-content/uploads/2026/04/5.-LOGO-Y-SLOGAN_VERDE-300x212.png 300w, https://vimafoods.com/wp-content/uploads/2026/04/5.-LOGO-Y-SLOGAN_VERDE-1024x724.png 1024w, https://vimafoods.com/wp-content/uploads/2026/04/5.-LOGO-Y-SLOGAN_VERDE-768x543.png 768w, https://vimafoods.com/wp-content/uploads/2026/04/5.-LOGO-Y-SLOGAN_VERDE-18x12.png 18w",
+        "data-lazy-sizes": "(max-width: 1191px) 100vw, 1191px",
+        "data-lazy-src": "https://vimafoods.com/wp-content/uploads/2026/04/5.-LOGO-Y-SLOGAN_VERDE.png"
+      },
+      {
+        "width": "1191",
+        "height": "842",
+        "src": "https://vimafoods.com/wp-content/uploads/2026/04/5.-LOGO-Y-SLOGAN_VERDE_INGLES.png",
+        "class": "default-logo",
+        "alt": "",
+        "decoding": "async",
+        "fetchpriority": "high",
+        "srcset": "https://vimafoods.com/wp-content/uploads/2026/04/5.-LOGO-Y-SLOGAN_VERDE_INGLES.png 1191w, https://vimafoods.com/wp-content/uploads/2026/04/5.-LOGO-Y-SLOGAN_VERDE_INGLES-300x212.png 300w, https://vimafoods.com/wp-content/uploads/2026/04/5.-LOGO-Y-SLOGAN_VERDE_INGLES-1024x724.png 1024w, https://vimafoods.com/wp-content/uploads/2026/04/5.-LOGO-Y-SLOGAN_VERDE_INGLES-768x543.png 768w, https://vimafoods.com/wp-content/uploads/2026/04/5.-LOGO-Y-SLOGAN_VERDE_INGLES-18x12.png 18w",
+        "sizes": "(max-width: 1191px) 100vw, 1191px"
+      },
+      {
+        "width": "1191",
+        "height": "842",
+        "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201191%20842'%3E%3C/svg%3E",
+        "class": "default-logo",
+        "alt": "",
+        "decoding": "async",
+        "data-lazy-srcset": "https://vimafoods.com/wp-content/uploads/2026/04/5.-LOGO-Y-SLOGAN_VERDE.png 1191w, https://vimafoods.com/wp-content/uploads/2026/04/5.-LOGO-Y-SLOGAN_VERDE-300x212.png 300w, https://vimafoods.com/wp-content/uploads/2026/04/5.-LOGO-Y-SLOGAN_VERDE-1024x724.png 1024w, https://vimafoods.com/wp-content/uploads/2026/04/5.-LOGO-Y-SLOGAN_VERDE-768x543.png 768w, https://vimafoods.com/wp-content/uploads/2026/04/5.-LOGO-Y-SLOGAN_VERDE-18x12.png 18w",
+        "data-lazy-sizes": "(max-width: 1191px) 100vw, 1191px",
+        "data-lazy-src": "https://vimafoods.com/wp-content/uploads/2026/04/5.-LOGO-Y-SLOGAN_VERDE.png"
+      },
+      {
+        "width": "1191",
+        "height": "842",
+        "src": "https://vimafoods.com/wp-content/uploads/2026/04/5.-LOGO-Y-SLOGAN_VERDE_INGLES.png",
+        "class": "default-logo",
+        "alt": "",
+        "decoding": "async",
+        "srcset": "https://vimafoods.com/wp-content/uploads/2026/04/5.-LOGO-Y-SLOGAN_VERDE_INGLES.png 1191w, https://vimafoods.com/wp-content/uploads/2026/04/5.-LOGO-Y-SLOGAN_VERDE_INGLES-300x212.png 300w, https://vimafoods.com/wp-content/uploads/2026/04/5.-LOGO-Y-SLOGAN_VERDE_INGLES-1024x724.png 1024w, https://vimafoods.com/wp-content/uploads/2026/04/5.-LOGO-Y-SLOGAN_VERDE_INGLES-768x543.png 768w, https://vimafoods.com/wp-content/uploads/2026/04/5.-LOGO-Y-SLOGAN_VERDE_INGLES-18x12.png 18w",
+        "sizes": "(max-width: 1191px) 100vw, 1191px"
+      },
+      {
+        "decoding": "async",
+        "width": "440",
+        "height": "412",
+        "src": "https://vimafoods.com/wp-content/uploads/2024/08/logo-ISO-9001-2015.png",
+        "class": "attachment-large size-large wp-image-1834",
+        "alt": "",
+        "srcset": "https://vimafoods.com/wp-content/uploads/2024/08/logo-ISO-9001-2015.png 440w, https://vimafoods.com/wp-content/uploads/2024/08/logo-ISO-9001-2015-300x281.png 300w",
+        "sizes": "(max-width: 440px) 100vw, 440px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "440",
+        "height": "412",
+        "src": "https://vimafoods.com/wp-content/uploads/2024/08/logo-ISO-28000.png",
+        "class": "attachment-large size-large wp-image-1807",
+        "alt": "",
+        "srcset": "https://vimafoods.com/wp-content/uploads/2024/08/logo-ISO-28000.png 440w, https://vimafoods.com/wp-content/uploads/2024/08/logo-ISO-28000-300x281.png 300w",
+        "sizes": "auto, (max-width: 440px) 100vw, 440px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "440",
+        "height": "412",
+        "src": "https://vimafoods.com/wp-content/uploads/2024/08/logo-MSC-C-57937.png",
+        "class": "attachment-large size-large wp-image-1777",
+        "alt": "",
+        "srcset": "https://vimafoods.com/wp-content/uploads/2024/08/logo-MSC-C-57937.png 440w, https://vimafoods.com/wp-content/uploads/2024/08/logo-MSC-C-57937-300x281.png 300w",
+        "sizes": "auto, (max-width: 440px) 100vw, 440px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "440",
+        "height": "412",
+        "src": "https://vimafoods.com/wp-content/uploads/2024/08/logo-ASC-C-02755.png",
+        "class": "attachment-large size-large wp-image-1854",
+        "alt": "",
+        "srcset": "https://vimafoods.com/wp-content/uploads/2024/08/logo-ASC-C-02755.png 440w, https://vimafoods.com/wp-content/uploads/2024/08/logo-ASC-C-02755-300x281.png 300w",
+        "sizes": "auto, (max-width: 440px) 100vw, 440px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "440",
+        "height": "412",
+        "src": "https://vimafoods.com/wp-content/uploads/2024/08/logo-BAP.png",
+        "class": "attachment-large size-large wp-image-1846",
+        "alt": "",
+        "srcset": "https://vimafoods.com/wp-content/uploads/2024/08/logo-BAP.png 440w, https://vimafoods.com/wp-content/uploads/2024/08/logo-BAP-300x281.png 300w",
+        "sizes": "auto, (max-width: 440px) 100vw, 440px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "440",
+        "height": "412",
+        "src": "https://vimafoods.com/wp-content/uploads/2024/08/logo-BASC.png",
+        "class": "attachment-large size-large wp-image-1838",
+        "alt": "",
+        "srcset": "https://vimafoods.com/wp-content/uploads/2024/08/logo-BASC.png 440w, https://vimafoods.com/wp-content/uploads/2024/08/logo-BASC-300x281.png 300w",
+        "sizes": "auto, (max-width: 440px) 100vw, 440px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "440",
+        "height": "412",
+        "src": "https://vimafoods.com/wp-content/uploads/2024/08/logo-OEA.png",
+        "class": "attachment-large size-large wp-image-1735",
+        "alt": "",
+        "srcset": "https://vimafoods.com/wp-content/uploads/2024/08/logo-OEA.png 440w, https://vimafoods.com/wp-content/uploads/2024/08/logo-OEA-300x281.png 300w",
+        "sizes": "auto, (max-width: 440px) 100vw, 440px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "440",
+        "height": "412",
+        "src": "https://vimafoods.com/wp-content/uploads/2024/08/logo-Halal.png",
+        "class": "attachment-large size-large wp-image-1842",
+        "alt": "",
+        "srcset": "https://vimafoods.com/wp-content/uploads/2024/08/logo-Halal.png 440w, https://vimafoods.com/wp-content/uploads/2024/08/logo-Halal-300x281.png 300w",
+        "sizes": "auto, (max-width: 440px) 100vw, 440px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "440",
+        "height": "412",
+        "src": "https://vimafoods.com/wp-content/uploads/2024/08/logo-kosher-food.png",
+        "class": "attachment-large size-large wp-image-1783",
+        "alt": "",
+        "srcset": "https://vimafoods.com/wp-content/uploads/2024/08/logo-kosher-food.png 440w, https://vimafoods.com/wp-content/uploads/2024/08/logo-kosher-food-300x281.png 300w",
+        "sizes": "auto, (max-width: 440px) 100vw, 440px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "949",
+        "height": "223",
+        "src": "https://vimafoods.com/wp-content/uploads/2024/08/logo-almafrio.png",
+        "class": "attachment-full size-full wp-image-1895",
+        "alt": "",
+        "srcset": "https://vimafoods.com/wp-content/uploads/2024/08/logo-almafrio.png 949w, https://vimafoods.com/wp-content/uploads/2024/08/logo-almafrio-300x70.png 300w, https://vimafoods.com/wp-content/uploads/2024/08/logo-almafrio-768x180.png 768w",
+        "sizes": "auto, (max-width: 949px) 100vw, 949px"
+      },
+      {
+        "decoding": "async",
+        "src": "/wp-content/uploads/2024/08/logo-iso-9001.png",
+        "alt": "9001",
+        "style": "height: auto; max-height: 55px; width: auto;"
+      },
+      {
+        "decoding": "async",
+        "src": "/wp-content/uploads/2024/08/logo-iso-28000-1.png",
+        "alt": "28000",
+        "style": "height: auto; max-height: 55px; width: auto;"
+      },
+      {
+        "decoding": "async",
+        "src": "/wp-content/uploads/2024/08/logo-MSC.png",
+        "alt": "MSC",
+        "style": "height: auto; max-height: 50px; width: auto;"
+      },
+      {
+        "decoding": "async",
+        "src": "/wp-content/uploads/2024/08/logo-ASC.png",
+        "alt": "ASC",
+        "style": "height: auto; max-height: 50px; width: auto;"
+      },
+      {
+        "decoding": "async",
+        "src": "/wp-content/uploads/2024/08/logo_BAP.png",
+        "alt": "BAP",
+        "style": "height: auto; max-height: 35px; width: auto;"
+      },
+      {
+        "decoding": "async",
+        "src": "/wp-content/uploads/2024/08/Logo-BASC-1.png",
+        "alt": "BASC",
+        "style": "height: auto; max-height: 35px; width: auto;"
+      },
+      {
+        "decoding": "async",
+        "src": "/wp-content/uploads/2024/08/Logo-OEA-1.png",
+        "alt": "OEA",
+        "style": "height: auto; max-height: 35px; width: auto;"
+      },
+      {
+        "decoding": "async",
+        "src": "/wp-content/uploads/2024/08/logo-facebook.svg",
+        "alt": "Facebook",
+        "style": "width: 30px; height: 30px; display: block;"
+      },
+      {
+        "decoding": "async",
+        "src": "/wp-content/uploads/2024/08/logo-instagram.svg",
+        "alt": "Instagram",
+        "style": "width: 30px; height: 30px; display: block;"
+      },
+      {
+        "decoding": "async",
+        "src": "/wp-content/uploads/2024/08/logo-linkedin.svg",
+        "alt": "LinkedIn",
+        "style": "width: 30px; height: 30px; display: block;"
+      },
+      {
+        "decoding": "async",
+        "src": "/wp-content/uploads/2024/08/logo-youtube.svg",
+        "alt": "YouTube",
+        "style": "width: 30px; height: 30px; display: block;"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-081/51c1fdca6dd47c41.txt"
+  },
+  {
+    "id": "b8ddab5da6da6ea5",
+    "name": "White Star Capital USA Inc.",
+    "requested_url": "https://whitestarcapital.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "42dc87cf6556429d",
+    "name": "Ampere Computing Employer LLC",
+    "requested_url": "https://amperecomputing.com/",
+    "status": 200,
+    "final_url": "https://amperecomputing.com/",
+    "text_chars": 5531,
+    "logo_candidates": [
+      {
+        "alt": "Ampere Computing Logo",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-nimg": "fill",
+        "style": "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;object-position:inherit;color:transparent",
+        "sizes": "100vw",
+        "srcset": "/_next/image?url=%2Ficons%2Fampere-nav.png&w=640&q=75 640w, /_next/image?url=%2Ficons%2Fampere-nav.png&w=750&q=75 750w, /_next/image?url=%2Ficons%2Fampere-nav.png&w=828&q=75 828w, /_next/image?url=%2Ficons%2Fampere-nav.png&w=1080&q=75 1080w, /_next/image?url=%2Ficons%2Fampere-nav.png&w=1200&q=75 1200w, /_next/image?url=%2Ficons%2Fampere-nav.png&w=1920&q=75 1920w, /_next/image?url=%2Ficons%2Fampere-nav.png&w=2048&q=75 2048w, /_next/image?url=%2Ficons%2Fampere-nav.png&w=3840&q=75 3840w",
+        "src": "/_next/image?url=%2Ficons%2Fampere-nav.png&w=3840&q=75"
+      },
+      {
+        "alt": "Ampere Computing Logo",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-nimg": "fill",
+        "style": "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;object-position:inherit;color:transparent",
+        "sizes": "100vw",
+        "srcset": "/_next/image?url=%2Ficons%2Fampere-nav.png&w=640&q=75 640w, /_next/image?url=%2Ficons%2Fampere-nav.png&w=750&q=75 750w, /_next/image?url=%2Ficons%2Fampere-nav.png&w=828&q=75 828w, /_next/image?url=%2Ficons%2Fampere-nav.png&w=1080&q=75 1080w, /_next/image?url=%2Ficons%2Fampere-nav.png&w=1200&q=75 1200w, /_next/image?url=%2Ficons%2Fampere-nav.png&w=1920&q=75 1920w, /_next/image?url=%2Ficons%2Fampere-nav.png&w=2048&q=75 2048w, /_next/image?url=%2Ficons%2Fampere-nav.png&w=3840&q=75 3840w",
+        "src": "/_next/image?url=%2Ficons%2Fampere-nav.png&w=3840&q=75"
+      },
+      {
+        "alt": "Ampere Logo",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-nimg": "fill",
+        "style": "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;object-position:inherit;color:transparent",
+        "sizes": "100vw",
+        "srcset": "/_next/image?url=%2Ficons%2Fampere-nav.png&w=640&q=75 640w, /_next/image?url=%2Ficons%2Fampere-nav.png&w=750&q=75 750w, /_next/image?url=%2Ficons%2Fampere-nav.png&w=828&q=75 828w, /_next/image?url=%2Ficons%2Fampere-nav.png&w=1080&q=75 1080w, /_next/image?url=%2Ficons%2Fampere-nav.png&w=1200&q=75 1200w, /_next/image?url=%2Ficons%2Fampere-nav.png&w=1920&q=75 1920w, /_next/image?url=%2Ficons%2Fampere-nav.png&w=2048&q=75 2048w, /_next/image?url=%2Ficons%2Fampere-nav.png&w=3840&q=75 3840w",
+        "src": "/_next/image?url=%2Ficons%2Fampere-nav.png&w=3840&q=75"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-081/42dc87cf6556429d.txt"
+  },
+  {
+    "id": "a5ff7b94986ffb6e",
+    "name": "Anzu Strategies (on behalf of Elanco US Inc.)",
+    "requested_url": "https://www.elanco.com/us",
+    "status": 200,
+    "final_url": "https://www.elanco.com/us",
+    "text_chars": 4427,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-081/a5ff7b94986ffb6e.txt"
+  },
+  {
+    "id": "1e32290f431156c6",
+    "name": "Beam Therapeutics",
+    "requested_url": "https://beamtherapeutics.gcs-web.com/investor-overview/",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "1dcce062753272dd",
+    "name": "Essential Minerals Association (formerly IMA-NA)",
+    "requested_url": "https://www.essentialminerals.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "c1035a6881da3fed",
+    "name": "Fountainhead Commercial Capital",
+    "requested_url": "https://www.fountainheadcc.com/",
+    "status": 202,
+    "final_url": "https://www.fountainheadcc.com/",
+    "text_chars": 97,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-081/c1035a6881da3fed.txt"
+  },
+  {
+    "id": "307315bb9302c5c4",
+    "name": "Greater Spokane Incorporated",
+    "requested_url": "https://web.greaterspokane.org/",
+    "status": 200,
+    "final_url": "https://web.greaterspokane.org/",
+    "text_chars": 3672,
+    "logo_candidates": [
+      {
+        "width": "300",
+        "height": "133",
+        "src": "https://greaterspokane.org/wp-content/uploads/2022/02/GreaterSpokaneInc_Logo-218x97.jpg",
+        "class": "attachment-full size-full wp-image-85",
+        "alt": "Greater Spokane Inc. Logo.",
+        "srcset": "https://greaterspokane.org/wp-content/uploads/2022/02/GreaterSpokaneInc_Logo.jpg 300w, https://greaterspokane.org/wp-content/uploads/2022/02/GreaterSpokaneInc_Logo-218x97.jpg 218w",
+        "sizes": "(max-width: 300px) 100vw, 300px"
+      },
+      {
+        "width": "235",
+        "height": "104",
+        "src": "https://greaterspokane.org/wp-content/uploads/2022/02/GreaterSpokaneInc_Logo.png",
+        "class": "attachment-large size-large wp-image-155",
+        "alt": "Greater Spokane Inc. Logo."
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-081/307315bb9302c5c4.txt"
+  },
+  {
+    "id": "a980130338233e5e",
+    "name": "H Street Law",
+    "requested_url": "https://hstreetlaw.com/",
+    "status": 200,
+    "final_url": "https://hstreetlaw.com/",
+    "text_chars": 645,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-081/a980130338233e5e.txt"
+  },
+  {
+    "id": "50bb041e697889d8",
+    "name": "Jindal Pipe USA",
+    "requested_url": "https://jindalpipeusa.com/",
+    "status": 200,
+    "final_url": "https://jindalpipeusa.com/",
+    "text_chars": 140,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-081/50bb041e697889d8.txt"
+  },
+  {
+    "id": "064671aec2175479",
+    "name": "Kardiogenics, Inc.",
+    "requested_url": "https://www.kardiogenics.com/",
+    "status": 200,
+    "final_url": "https://www.kardiogenics.com/",
+    "text_chars": 3029,
+    "logo_candidates": [
+      {
+        "loading": "lazy",
+        "src": "https://static.wixstatic.com/media/06d5e3_fdd0b2c806fc4afba9758fee61306b02~mv2.png/v1/fill/w_49,h_12,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/KardioGenics_Logo_edited.png",
+        "alt": "KardioGenics_Logo_edited.png",
+        "style": "object-fit:cover;object-position:50% 50%"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-081/064671aec2175479.txt"
+  },
+  {
+    "id": "d6ed607b8ea36cdc",
+    "name": "National Association of Proton Therapy",
+    "requested_url": "https://proton-therapy.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "d48a9a406bdfe150",
+    "name": "National Association of Public Health Statistics and Information Systems",
+    "requested_url": "https://www.naphsis.org/",
+    "status": 200,
+    "final_url": "https://www.naphsis.org/",
+    "text_chars": 2744,
+    "logo_candidates": [
+      {
+        "decoding": "async",
+        "class": "fl-photo-img wp-image-55931 size-full",
+        "src": "https://growthzonecmsprodeastus.azureedge.net/sites/2304/2025/02/Naphsis-Logo-500.png",
+        "alt": "Naphsis-Logo",
+        "itemprop": "image",
+        "height": "115",
+        "width": "500",
+        "title": "Naphsis-Logo-500",
+        "data-no-lazy": "1",
+        "srcset": "https://www.naphsis.org/wp-content/uploads/sites/2304/2025/02/Naphsis-Logo-500.png 500w, https://www.naphsis.org/wp-content/uploads/sites/2304/2025/02/Naphsis-Logo-500-300x69.png 300w",
+        "sizes": "(max-width: 500px) 100vw, 500px"
+      },
+      {
+        "decoding": "async",
+        "class": "fl-photo-img wp-image-56465 size-full lazyload",
+        "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAjwAAAGQAQAAAACCQoc/AAAAAnRSTlMAAHaTzTgAAAAzSURBVHja7cExAQAAAMKg9U9tBn+gAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgMchAAAfiK6PAAAAAASUVORK5CYII=",
+        "alt": "EVVE Logo",
+        "itemprop": "image",
+        "height": "400",
+        "width": "572",
+        "title": "EVVE Logo (1)",
+        "loading": "lazy",
+        "data-src": "https://www.naphsis.org/wp-content/uploads/sites/2304/bb-plugin/cache/EVVE-Logo-1-landscape-b27b4f2e0dbef6a888cea4086c9284a0-.png",
+        "data-eio-rwidth": "572",
+        "data-eio-rheight": "400"
+      },
+      {
+        "decoding": "async",
+        "class": "fl-photo-img wp-image-56465 size-full",
+        "src": "https://www.naphsis.org/wp-content/uploads/sites/2304/bb-plugin/cache/EVVE-Logo-1-landscape-b27b4f2e0dbef6a888cea4086c9284a0-.png",
+        "alt": "EVVE Logo",
+        "itemprop": "image",
+        "height": "400",
+        "width": "572",
+        "title": "EVVE Logo (1)",
+        "loading": "lazy",
+        "data-eio": "l"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-081/d48a9a406bdfe150.txt"
+  },
+  {
+    "id": "04edec537e8fbda9",
+    "name": "Penske Truck Leasing Company, L.p.",
+    "requested_url": "https://www.pensketruckleasing.com/",
+    "status": 200,
+    "final_url": "https://www.pensketruckleasing.com/",
+    "text_chars": 7169,
+    "logo_candidates": [
+      {
+        "class": "image-element__img",
+        "alt": "Penske Logo",
+        "width": "125",
+        "height": "45",
+        "src": "https://www.pensketruckleasing.com/media-library/penske-logo.png?id=24472928&width=125&height=45"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-081/04edec537e8fbda9.txt"
+  },
+  {
+    "id": "de2ef8db534c844d",
+    "name": "Rendeavour Holding Ltd.",
+    "requested_url": "https://www.rendeavour.com/",
+    "status": 202,
+    "final_url": "https://www.rendeavour.com/",
+    "text_chars": 85,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-081/de2ef8db534c844d.txt"
+  },
+  {
+    "id": "7296ce9c3622508f",
+    "name": "Sepro Corp",
+    "requested_url": "https://www.sepro.com/aquatics",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "0ff0f138a7546bbc",
+    "name": "JFK Millennium Partners (represented by Tonio Burgos & Associates)",
+    "requested_url": "https://www.portauthoritybuilds.com/redevelopment/us/en/jfk/planned-projects/terminal-6.html",
+    "status": 200,
+    "final_url": "https://www.portauthoritybuilds.com/redevelopment/us/en/jfk/planned-projects/terminal-6.html",
+    "text_chars": 6050,
+    "logo_candidates": [
+      {
+        "src": "/content/experience-fragments/redevelopment/us/en/site/header/home/_jcr_content/root/container/global_header/logo.coreimg.svg/1734483685202/203-24-logo-r1.svg",
+        "loading": "lazy",
+        "class": "cmp-image__image",
+        "itemprop": "contentUrl",
+        "alt": "PANYNJ Logo"
+      },
+      {
+        "class": "site-logo",
+        "src": "/content/dam/redevelopment/home/logos/jfk-symbol.svg",
+        "alt": "JFK Symbol",
+        "role": "presentation",
+        "aria-hidden": "true"
+      },
+      {
+        "class": "site-logo",
+        "src": "/content/dam/redevelopment/home/logos/newark-symbol.svg",
+        "alt": "Newark Symbol",
+        "role": "presentation",
+        "aria-hidden": "true"
+      },
+      {
+        "class": "site-logo",
+        "src": "/content/dam/redevelopment/home/logos/bus-terminal-symbol.svg",
+        "alt": "Bus Terminal Symbol",
+        "role": "presentation",
+        "aria-hidden": "true"
+      },
+      {
+        "class": "site-logo",
+        "src": "/content/dam/redevelopment/home/logos/lga-symbol.svg",
+        "alt": "LGA Symbol",
+        "role": "presentation",
+        "aria-hidden": "true"
+      },
+      {
+        "src": "/content/experience-fragments/redevelopment/us/en/site/header/home/_jcr_content/root/container/global_header/logo.coreimg.svg/1734483685202/203-24-logo-r1.svg",
+        "loading": "lazy",
+        "class": "cmp-image__image",
+        "itemprop": "contentUrl",
+        "alt": "PANYNJ Logo"
+      },
+      {
+        "class": "site-logo",
+        "src": "/content/dam/redevelopment/home/logos/jfk-symbol.svg",
+        "alt": "JFK Symbol",
+        "role": "presentation",
+        "aria-hidden": "true"
+      },
+      {
+        "class": "site-logo",
+        "src": "/content/dam/redevelopment/home/logos/newark-symbol.svg",
+        "alt": "Newark Symbol",
+        "role": "presentation",
+        "aria-hidden": "true"
+      },
+      {
+        "class": "site-logo",
+        "src": "/content/dam/redevelopment/home/logos/bus-terminal-symbol.svg",
+        "alt": "Bus Terminal Symbol",
+        "role": "presentation",
+        "aria-hidden": "true"
+      },
+      {
+        "class": "site-logo",
+        "src": "/content/dam/redevelopment/home/logos/lga-symbol.svg",
+        "alt": "LGA Symbol",
+        "role": "presentation",
+        "aria-hidden": "true"
+      },
+      {
+        "srcset": "/content/experience-fragments/redevelopment/us/en/site/header/jfk/_jcr_content/root/container/secondary_header/logo-2.coreimg.85.320.png/1734639414240/jfk-logo.png 320w,/content/experience-fragments/redevelopment/us/en/site/header/jfk/_jcr_content/root/container/secondary_header/logo-2.coreimg.85.480.png/1734639414240/jfk-logo.png 480w,/content/experience-fragments/redevelopment/us/en/site/header/jfk/_jcr_content/root/container/secondary_header/logo-2.coreimg.85.600.png/1734639414240/jfk-logo.png 600w,/content/experience-fragments/redevelopment/us/en/site/header/jfk/_jcr_content/root/container/secondary_header/logo-2.coreimg.85.800.png/1734639414240/jfk-logo.png 800w,/content/experience-fragments/redevelopment/us/en/site/header/jfk/_jcr_content/root/container/secondary_header/logo-2.coreimg.85.1024.png/1734639414240/jfk-logo.png 1024w,/content/experience-fragments/redevelopment/us/en/site/header/jfk/_jcr_content/root/container/secondary_header/logo-2.coreimg.85.1200.png/1734639414240/jfk-logo.png 1200w,/content/experience-fragments/redevelopment/us/en/site/header/jfk/_jcr_content/root/container/secondary_header/logo-2.coreimg.85.1600.png/1734639414240/jfk-logo.png 1600w",
+        "src": "/content/experience-fragments/redevelopment/us/en/site/header/jfk/_jcr_content/root/container/secondary_header/logo-2.coreimg.png/1734639414240/jfk-logo.png",
+        "loading": "lazy",
+        "class": "cmp-image__image",
+        "itemprop": "contentUrl",
+        "width": "300",
+        "height": "159",
+        "alt": "JFK Logo",
+        "title": "JFK Logo"
+      },
+      {
+        "class": "cmp-teaser__partner-logo"
+      },
+      {
+        "class": "cmp-teaser__partner-logo"
+      },
+      {
+        "class": "cmp-teaser__partner-logo"
+      },
+      {
+        "class": "cmp-teaser__partner-logo"
+      },
+      {
+        "class": "cmp-teaser__partner-logo"
+      },
+      {
+        "class": "cmp-teaser__partner-logo"
+      },
+      {
+        "class": "cmp-teaser__partner-logo",
+        "src": "/content/dam/redevelopment/jfk/terminal-6/partners/vantage/Vantage-Group-Logo-Navy-1-1.png",
+        "alt": "Logo of Vantage Group featuring the name in a modern font."
+      },
+      {
+        "class": "cmp-teaser__partner-logo",
+        "src": "/content/dam/redevelopment/jfk/terminal-6/partners/ati/ati-partners.svg"
+      },
+      {
+        "class": "cmp-teaser__partner-logo",
+        "src": "/content/dam/redevelopment/jfk/terminal-6/partners/rxr/RXR-Realty.svg"
+      },
+      {
+        "class": "cmp-teaser__partner-logo",
+        "src": "/content/dam/redevelopment/jfk/terminal-6/partners/airlines/Jetblue.svg"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-081/0ff0f138a7546bbc.txt"
+  },
+  {
+    "id": "aa94cbffd0570aec",
+    "name": "Trio Group",
+    "requested_url": "https://www.thinktrio.com/learn?lang=en",
+    "status": 200,
+    "final_url": "https://www.thinktrio.com/learn?lang=en",
+    "text_chars": 18531,
+    "logo_candidates": [
+      {
+        "alt": "ThinkTrio logo",
+        "class": "logo",
+        "src": "https://www.thinktrio.com/images/trio-logo.jpg"
+      },
+      {
+        "alt": "ThinkTrio logo",
+        "class": "logo",
+        "src": "https://www.thinktrio.com/images/trio-logo-transparent.png"
+      },
+      {
+        "src": "https://www.thinktrio.com/images/ehalogo.png"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-081/aa94cbffd0570aec.txt"
+  },
+  {
+    "id": "fe402429cd1e77f7",
+    "name": "US Forged Rings Inc.",
+    "requested_url": "https://www.usfr.com/",
+    "status": 200,
+    "final_url": "https://www.usfr.com/",
+    "text_chars": 1916,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "sizes": "259px",
+        "srcset": "https://static.wixstatic.com/media/7474d9_3c4e8d2a140f410aa8976172a2056a79~mv2.png/v1/crop/x_1574,y_1078,w_4827,h_2343/fill/w_259,h_126,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/USFR%20logo-02.png 1x, https://static.wixstatic.com/media/7474d9_3c4e8d2a140f410aa8976172a2056a79~mv2.png/v1/crop/x_1574,y_1078,w_4827,h_2343/fill/w_518,h_252,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/USFR%20logo-02.png 2x",
+        "id": "img_comp-l1l6egoq",
+        "src": "https://static.wixstatic.com/media/7474d9_3c4e8d2a140f410aa8976172a2056a79~mv2.png/v1/crop/x_1574,y_1078,w_4827,h_2343/fill/w_259,h_126,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/USFR%20logo-02.png",
+        "alt": "USFR logo-02.png",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "259",
+        "height": "126"
+      },
+      {
+        "fetchpriority": "high",
+        "sizes": "269px",
+        "srcset": "https://static.wixstatic.com/media/7474d9_dc1577c026964897ac94ed13c4ba5802~mv2.png/v1/fill/w_269,h_132,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screen%20Shot%202022-04-01%20at%202_44_43%20PM.png 1x, https://static.wixstatic.com/media/7474d9_dc1577c026964897ac94ed13c4ba5802~mv2.png/v1/fill/w_538,h_264,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screen%20Shot%202022-04-01%20at%202_44_43%20PM.png 2x",
+        "id": "img_comp-l1gs3c3a",
+        "src": "https://static.wixstatic.com/media/7474d9_dc1577c026964897ac94ed13c4ba5802~mv2.png/v1/fill/w_269,h_132,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Screen%20Shot%202022-04-01%20at%202_44_43%20PM.png",
+        "alt": "US Forged Rings logo, Forged Flanges, USFR",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "269",
+        "height": "132"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-081/fe402429cd1e77f7.txt"
+  },
+  {
+    "id": "fb5fbf66126bcfcc",
+    "name": "Vineyard Offshore Inc.",
+    "requested_url": "https://www.vineyardoffshore.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "882da7db2c8d1e6f",
+    "name": "WGC Usa, Inc.",
+    "requested_url": "https://www.gold.org/about-us",
+    "status": 200,
+    "final_url": "https://www.gold.org/about-us",
+    "text_chars": 3092,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-081/882da7db2c8d1e6f.txt"
+  },
+  {
+    "id": "16e02cf94aa599c4",
+    "name": "Avadel Pharmaceuticals",
+    "requested_url": "https://investor.alkermes.com/news-releases/news-release-details/alkermes-plc-completes-acquisition-avadel-pharmaceuticals-plc",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "e25b8832404464f4",
+    "name": "Avangrid",
+    "requested_url": "https://www.avangrid.com/",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "d2ec9974140b8ce1",
+    "name": "Cochlear North America",
+    "requested_url": "https://www.cochlear.com/us/en/home",
+    "status": 200,
+    "final_url": "https://www.cochlear.com/us/en/home",
+    "text_chars": 1990,
+    "logo_candidates": [
+      {
+        "height": "164",
+        "sitecorecontenthub-content-type": "Image",
+        "alt": "Cochlear logo",
+        "width": "196",
+        "thumbnailsrc": "https://cochlearmediaportal.sitecorecontenthub.cloud/api/gateway/24969/thumbnail",
+        "src": "https://assets.cochlear.com/api/public/content/45f3cdfbe24641b69870beed740063ac?v=ce0c0a42"
+      },
+      {
+        "height": "42",
+        "sitecorecontenthub-content-type": "Image",
+        "alt": "Cochlear logo",
+        "width": "240",
+        "thumbnailsrc": "https://cochlearmediaportal.sitecorecontenthub.cloud/api/gateway/24981/thumbnail",
+        "src": "https://assets.cochlear.com/api/public/content/6eb6aec9067a429fb3f7da82e8940d7f?v=c0e5ece5"
+      },
+      {
+        "height": "166",
+        "sitecorecontenthub-content-type": "Image",
+        "alt": "logo_white.png",
+        "sitecorecontenthub-content-id": "24994",
+        "width": "196",
+        "thumbnailsrc": "https://cochlearmediaportal.sitecorecontenthub.cloud/api/gateway/24994/thumbnail",
+        "loading": "lazy",
+        "src": "https://assets.cochlear.com/api/public/content/a8c5c4166cba4bdd85fd69811a617275?v=02f09209"
+      },
+      {
+        "height": "68",
+        "sitecorecontenthub-content-type": "Image",
+        "alt": "Facebook logo",
+        "sitecorecontenthub-content-id": "13637",
+        "width": "68",
+        "thumbnailsrc": "https://cochlearmediaportal.sitecorecontenthub.cloud/api/gateway/13637/thumbnail",
+        "class": "icon",
+        "loading": "lazy",
+        "src": "https://assets.cochlear.com/api/public/content/8a6ba205972d4fd182c8e1b99b6b61b0?v=e23e0b79"
+      },
+      {
+        "height": "68",
+        "sitecorecontenthub-content-type": "Image",
+        "alt": "YouTube logo",
+        "width": "68",
+        "thumbnailsrc": "https://cochlearmediaportal.sitecorecontenthub.cloud/api/gateway/13626/thumbnail",
+        "class": "icon",
+        "loading": "lazy",
+        "src": "https://assets.cochlear.com/api/public/content/cdd2477a961b4e1e9f60bb131e35fe1e?v=5fe72000"
+      },
+      {
+        "height": "68",
+        "sitecorecontenthub-content-type": "Image",
+        "alt": "Twitter logo",
+        "width": "68",
+        "thumbnailsrc": "https://cochlearmediaportal.sitecorecontenthub.cloud/api/gateway/13797/thumbnail",
+        "class": "icon",
+        "loading": "lazy",
+        "src": "https://assets.cochlear.com/api/public/content/4fe81b5e65cb4b1b98128b789e8e0824?v=57132a14"
+      },
+      {
+        "height": "100",
+        "sitecorecontenthub-content-type": "Image",
+        "alt": "Instagram logo",
+        "sitecorecontenthub-content-id": "27732",
+        "width": "100",
+        "thumbnailsrc": "https://cochlearmediaportal.sitecorecontenthub.cloud/api/gateway/27732/thumbnail",
+        "class": "icon",
+        "loading": "lazy",
+        "src": "https://assets.cochlear.com/api/public/content/05cb5b517fb04023a8c641474053ceb4?v=26d42928"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-081/d2ec9974140b8ce1.txt"
+  },
+  {
+    "id": "cc303ac5baf0488d",
+    "name": "Elementl Power Inc.",
+    "requested_url": "https://elementlpower.io/",
+    "status": 200,
+    "final_url": "https://elementlpower.io/",
+    "text_chars": 4139,
+    "logo_candidates": [
+      {
+        "src": "/__l5e/assets-v1/680c6aba-2df0-42a5-be00-9c85a190ba6b/elementl-logo.svg",
+        "alt": "Elementl",
+        "class": "h-7 w-auto"
+      },
+      {
+        "src": "/__l5e/assets-v1/18f833ed-d2e1-49bc-9e11-ce7de51553c7/EIP.png",
+        "alt": "Energy Impact Partners logo",
+        "loading": "lazy",
+        "class": "w-full h-auto max-w-full object-contain object-center opacity-80 group-hover:opacity-100 transition-opacity duration-500 max-h-20 md:max-h-24"
+      },
+      {
+        "src": "/__l5e/assets-v1/6794e12f-fdbc-42ff-b299-eea63a9c6a76/TROWE.png",
+        "alt": "T. Rowe Price logo",
+        "loading": "lazy",
+        "class": "w-full h-auto max-w-full object-contain object-center opacity-80 group-hover:opacity-100 transition-opacity duration-500 max-h-16 md:max-h-20"
+      },
+      {
+        "src": "/__l5e/assets-v1/d8738682-347e-4218-9f6b-552a4af209f9/Prelude.png",
+        "alt": "Prelude Ventures logo",
+        "loading": "lazy",
+        "class": "w-full h-auto max-w-full object-contain object-center opacity-80 group-hover:opacity-100 transition-opacity duration-500 max-h-24 md:max-h-28"
+      },
+      {
+        "src": "/__l5e/assets-v1/b55c8dad-7eb3-428d-a60b-b710d5c54b0e/Breakwater.png",
+        "alt": "Breakwater North logo",
+        "loading": "lazy",
+        "class": "w-full h-auto max-w-full object-contain object-center opacity-80 group-hover:opacity-100 transition-opacity duration-500 max-h-20 md:max-h-24"
+      },
+      {
+        "src": "/__l5e/assets-v1/62f4d752-bea6-43a2-8421-40ba59d25415/Alumni.png",
+        "alt": "Alumni Ventures logo",
+        "loading": "lazy",
+        "class": "w-full h-auto max-w-full object-contain object-center opacity-80 group-hover:opacity-100 transition-opacity duration-500 max-h-14 md:max-h-16"
+      },
+      {
+        "src": "/__l5e/assets-v1/680c6aba-2df0-42a5-be00-9c85a190ba6b/elementl-logo.svg",
+        "alt": "Elementl Power",
+        "class": "h-12 md:h-16 w-auto shrink-0"
+      },
+      {
+        "src": "/__l5e/assets-v1/75110dba-2e5b-435f-b697-55609b9e8d41/google-logo.png",
+        "alt": "Google",
+        "class": "h-9 md:h-12 w-auto shrink-0"
+      },
+      {
+        "src": "/__l5e/assets-v1/680c6aba-2df0-42a5-be00-9c85a190ba6b/elementl-logo.svg",
+        "alt": "Elementl",
+        "class": "h-10 w-auto"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-081/cc303ac5baf0488d.txt"
+  },
+  {
+    "id": "a3f4a42beedab788",
+    "name": "Materion Brush Inc.",
+    "requested_url": "https://www.materion.com/",
+    "status": 200,
+    "final_url": "https://www.materion.com/",
+    "text_chars": 6026,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-081/a3f4a42beedab788.txt"
+  },
+  {
+    "id": "3bcd0db6a36051fa",
+    "name": "Opacity Labs, Inc.",
+    "requested_url": "https://opacitylabs.com/",
+    "status": 200,
+    "final_url": "https://opacitylabs.com/",
+    "text_chars": 907,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-081/3bcd0db6a36051fa.txt"
+  },
+  {
+    "id": "7d0bf6792f28b7dd",
+    "name": "Orange County Health Authority DBA Caloptima",
+    "requested_url": "https://www.caloptima.org/en",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "id": "75d980b4138bd8c5",
+    "name": "Outdoor Amusement Business Association",
+    "requested_url": "https://oaba.org/",
+    "status": 200,
+    "final_url": "https://oaba.org/",
+    "text_chars": 5285,
+    "logo_candidates": [
+      {
+        "src": "/images/site/template/logo.png?id=2026",
+        "alt": "OABA"
+      },
+      {
+        "src": "/images/site/template/logo-footer.png?id=new",
+        "alt": "OABA",
+        "data-aos": "flip-down",
+        "data-aos-delay": "0",
+        "data-aos-once": "false"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-081/75d980b4138bd8c5.txt"
+  },
+  {
+    "id": "d107183bbedc7e13",
+    "name": "Pennsylvania Pork Producers' SIP",
+    "requested_url": "https://www.papork.com/",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.papork.com'. (_ssl.c:1129)>"
+  },
+  {
+    "id": "4c70d1a9784d9f8f",
+    "name": "Quantum Industry Coalition",
+    "requested_url": "https://quantumindustrycoalition.org/",
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  {
+    "id": "3974c9f0dc520f09",
+    "name": "Quintessence Marine Inc. D/b/a Inversa Leathers",
+    "requested_url": "https://inversaleathers.com/",
+    "status": 200,
+    "final_url": "https://inversaleathers.com/",
+    "text_chars": 3839,
+    "logo_candidates": [
+      {
+        "src": "/assets/inversa-logo-white-BLYf45hB.webp",
+        "alt": "Inversa",
+        "class": "h-7 w-auto"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-081/3974c9f0dc520f09.txt"
+  },
+  {
+    "id": "baf1b29e98d45cc7",
+    "name": "Quoin Pharmaceuticals, Inc.",
+    "requested_url": "https://investors.quoinpharma.com/",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "c23db09ac97e2cb0",
+    "name": "Radiology Partners (americans for Fair Health Care)",
+    "requested_url": "https://www.radiologypartners.com/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  }
+]

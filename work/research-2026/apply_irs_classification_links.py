@@ -1,0 +1,10 @@
+import pathlib,json,collections,copy
+root=pathlib.Path('work/research-2026');p=root/'reviewed.json';d=json.loads(p.read_text());o=root/'irs-classification-links';a=json.loads((o/'audit.json').read_text())['accepted'];before={x['id']:copy.deepcopy(d[x['id']]) for x in a};assert not (o/'before.json').exists();(o/'before.json').write_text(json.dumps(before,indent=2)+'\n');outcomes=collections.Counter(v['review_outcome'] for v in d.values())
+for x in a:
+ v=d[x['id']];r=x['irs'];f=x['disclosure'];assert v['ownership']=='Not applicable';assert r['SUBSECTION'] in ['03','04','05','06'];v['ownership']='Nonprofit / tax-exempt'
+ v['classification_evidence']={'method':'Exact legal name and city/state match between saved IRS record and original House disclosure XML','ein':r['EIN'],'irs_subsection':r['SUBSECTION'],'irs_status':r['STATUS'],'checked_at':'2026-09-10','disclosure_archive':f['source_url'],'disclosure_member':f['member'],'scope':'Tax classification only; existing identity review, website and logo verification statuses are unchanged.'}
+ if isinstance(v.get('notes'),str):v['notes']=v['notes'].replace('ownership is Not applicable for the tax-exempt entity','tax-exempt status is supported by the IRS record')
+assert collections.Counter(v['review_outcome'] for v in d.values())==outcomes
+for f,c in [(p,False),(pathlib.Path('lobbying-map/research/reviewed-2026.json'),True),(pathlib.Path('outputs/2026-research-trial/profiles.json'),False)]:f.write_text((json.dumps(d,separators=(',',':')) if c else json.dumps(d,indent=2))+'\n')
+(o/'applied.json').write_text(json.dumps({'count':len(a),'ids':[x['id'] for x in a],'review_outcomes_unchanged':True,'checked_at':'2026-09-10'},indent=2)+'\n')
+f=root/'publication.json';s=json.loads(f.read_text());s['pending_change_summary']+=' Corrected 462 tax-exempt ownership labels after exact original XML/IRS name and location joins; review-completion statuses unchanged.';f.write_text(json.dumps(s,indent=2)+'\n');print('Corrected',len(a),'classification labels without changing review outcomes.')

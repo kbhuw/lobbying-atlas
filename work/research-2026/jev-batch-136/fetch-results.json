@@ -1,0 +1,1262 @@
+[
+  {
+    "id": "05d1b45e857fcaed",
+    "name": "Edge Logistics (Aerolane)",
+    "requested_url": "https://www.aerolane.com/",
+    "status": 200,
+    "final_url": "https://www.aerolane.com/",
+    "text_chars": 2313,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-136/05d1b45e857fcaed.txt"
+  },
+  {
+    "id": "69bf4088aef2bd03",
+    "name": "Madison Marquette Realty Services L.p.",
+    "requested_url": "https://madisonmarquette.com/",
+    "status": 200,
+    "final_url": "https://madisonmarquette.com/",
+    "text_chars": 1984,
+    "logo_candidates": [
+      {
+        "class": "navbar-logo-img navbar-logo-img-normal",
+        "src": "https://madisonmarquette.com/wp-content/uploads/2019/10/madisonmarquette_logo_w.svg",
+        "alt": "Madison Marquette"
+      },
+      {
+        "class": "navbar-logo-img navbar-logo-img-fixed",
+        "src": "https://madisonmarquette.com/wp-content/uploads/2019/10/madisonmarquette_logo_w.svg",
+        "alt": "Madison Marquette"
+      },
+      {
+        "class": "navbar-logo-img navbar-logo-img-mobile",
+        "src": "https://madisonmarquette.com/wp-content/uploads/2019/10/madisonmarquette_logo_w.svg",
+        "alt": "Madison Marquette"
+      },
+      {
+        "class": "navbar-logo-img navbar-logo-img-tablet",
+        "src": "https://madisonmarquette.com/wp-content/uploads/2019/10/madisonmarquette_logo_w.svg",
+        "alt": "Madison Marquette"
+      },
+      {
+        "class": "fg-image  img-responsive full-width",
+        "src": "https://madisonmarquette.com/wp-content/uploads/2019/10/madisonmarquette_logo_w.svg",
+        "alt": "madisonmarquette_logo_w",
+        "title": "",
+        "=\"\"": null
+      },
+      {
+        "srcset": "https://madisonmarquette.com/wp-content/uploads/2019/10/CapitalGuidance-Logo-KO.png 800w, https://madisonmarquette.com/wp-content/uploads/freshizer/f67c86d63d34e105ce9d4b5e1939ef7e_CapitalGuidance-Logo-KO-320-c-100.png 320w, https://madisonmarquette.com/wp-content/uploads/freshizer/f67c86d63d34e105ce9d4b5e1939ef7e_CapitalGuidance-Logo-KO-768-c-100.png 768w",
+        "sizes": "(max-width: 800px) 100vw, 800px",
+        "class": "fg-image  img-responsive full-width",
+        "src": "https://madisonmarquette.com/wp-content/uploads/2019/10/CapitalGuidance-Logo-KO.png",
+        "alt": "CapitalGuidance-Logo-KO",
+        "title": "Capital Guidance",
+        "=\"\"": null
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-136/69bf4088aef2bd03.txt"
+  },
+  {
+    "id": "a9325e1a14079c8e",
+    "name": "Mayaniquel, Sociedad Anonina",
+    "requested_url": "https://mayaniquel.com/",
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  {
+    "id": "d5373550d567b6db",
+    "name": "Norsk Hydro Usa, LLC",
+    "requested_url": "https://www.hydro.com/en/global/about-hydro/hydro-worldwide/americas/united-states/",
+    "status": 200,
+    "final_url": "https://www.hydro.com/en/global/about-hydro/hydro-worldwide/americas/united-states/",
+    "text_chars": 5699,
+    "logo_candidates": [
+      {
+        "src": "/hydro-com/images/hydro-logo-white.svg?v=mCyjgZFuu3rYUxDVFsbAmZUngZoGhzuB3a5akiy7xpI",
+        "style": "max-width:97px;",
+        "alt": "Hydro.com"
+      },
+      {
+        "src": "/hydro-com/images/hydro-logo-white.svg?v=mCyjgZFuu3rYUxDVFsbAmZUngZoGhzuB3a5akiy7xpI",
+        "style": "max-width:97px;",
+        "alt": "Hydro.com"
+      },
+      {
+        "title": "instagram icon",
+        "src": "/globalassets/download-center/svglogo/instagram_footer.svg",
+        "height": "24",
+        "width": "24",
+        "alt": "",
+        "loading": "lazy"
+      },
+      {
+        "title": "facebook icon",
+        "src": "/globalassets/download-center/svglogo/facebook_footer.svg",
+        "height": "24",
+        "width": "24",
+        "alt": "",
+        "loading": "lazy"
+      },
+      {
+        "title": "linkedin icon",
+        "src": "/globalassets/download-center/svglogo/linkedin_footer.svg",
+        "height": "24",
+        "width": "24",
+        "alt": "",
+        "loading": "lazy"
+      },
+      {
+        "title": "youtube icon",
+        "src": "/globalassets/download-center/svglogo/youtube_footer.svg",
+        "height": "24",
+        "width": "24",
+        "alt": "",
+        "loading": "lazy"
+      },
+      {
+        "title": "shapes icon",
+        "src": "/globalassets/download-center/svglogo/shapes_footer.svg",
+        "height": "24",
+        "width": "24",
+        "alt": "",
+        "loading": "lazy"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-136/d5373550d567b6db.txt"
+  },
+  {
+    "id": "0360df5c761e0ccc",
+    "name": "North American Hoganas Co.",
+    "requested_url": "https://www.hoganas.com/en/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "52303d8dd74940d7",
+    "name": "Venturi Astrolab, Inc.",
+    "requested_url": "https://venturiastrolab.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "85acac931fbca331",
+    "name": "Vizient Inc",
+    "requested_url": "https://www.vizientinc.com/",
+    "status": 200,
+    "final_url": "https://www.vizient.com/",
+    "text_chars": 8059,
+    "logo_candidates": [
+      {
+        "alt": "logo",
+        "width": "146",
+        "height": "40",
+        "src": "https://edge.sitecorecloud.io/069702f42a34-vizient6596-prodbb63-d297/media/Project/vizient/vizient-website/Header/vizient_logo_Light.svg?iar=0"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-136/85acac931fbca331.txt"
+  },
+  {
+    "id": "c7380dd712143cd9",
+    "name": "VLS Environmental Services",
+    "requested_url": "https://www.vlses.com/",
+    "status": 200,
+    "final_url": "https://www.vlses.com/",
+    "text_chars": 9148,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-136/c7380dd712143cd9.txt"
+  },
+  {
+    "id": "3ed5f7266728e74e",
+    "name": "National Children\u2019s Museum (via Akin Gump)",
+    "requested_url": "https://nationalchildrensmuseum.org/",
+    "status": 200,
+    "final_url": "https://nationalchildrensmuseum.org/",
+    "text_chars": 4341,
+    "logo_candidates": [
+      {
+        "src": "/images/instagram-logo.svg",
+        "alt": "Instagram Logo",
+        "class": "h-5 w-5 rounded-full"
+      },
+      {
+        "src": "/images/linkedin-logo.svg",
+        "alt": "LinkedIn Logo",
+        "class": "h-5 w-5 rounded-full"
+      },
+      {
+        "src": "/images/twitter-logo.svg",
+        "alt": "Twitter Logo",
+        "class": "h-5 w-5 rounded-full"
+      },
+      {
+        "src": "/images/youtube-logo.svg",
+        "alt": "Youtube Logo",
+        "class": "h-5 w-5 rounded-full"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-136/3ed5f7266728e74e.txt"
+  },
+  {
+    "id": "137a1ffbdc6f98e0",
+    "name": "Bnsf Railway Company",
+    "requested_url": "https://www.bnsf.com/",
+    "status": 200,
+    "final_url": "https://www.bnsf.com/",
+    "text_chars": 17874,
+    "logo_candidates": [
+      {
+        "src": "/bnsf-resources/images/bnsf-logo.png",
+        "alt": "BNSF Railway",
+        "title": "BNSF Railway",
+        "class": "header-logo left"
+      },
+      {
+        "src": "/bnsf-resources/images/bnsf-logo-footer.png",
+        "alt": "BNSF Railway",
+        "title": "BNSF Railway"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-136/137a1ffbdc6f98e0.txt"
+  },
+  {
+    "id": "752605ddd9ecfa6d",
+    "name": "Cultural Care Inc.",
+    "requested_url": "https://www.culturalcare.com/",
+    "status": 200,
+    "final_url": "https://www.culturalcare.com/",
+    "text_chars": 12960,
+    "logo_candidates": [
+      {
+        "alt": "Cultural Care Au Pair",
+        "aria-hidden": "true",
+        "data-info": "cc-logo",
+        "fetchpriority": "high",
+        "width": "142",
+        "height": "24",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "_header_headerLogo__uT7t9 _header_enablePointer__yNHxv",
+        "style": "color:transparent",
+        "srcset": "/ccap-logo.svg 1x, /ccap-logo.svg 2x",
+        "src": "/ccap-logo.svg"
+      },
+      {
+        "alt": "",
+        "data-slot": "Image",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-nimg": "fill",
+        "class": "ef-image absolute inset-0 h-full w-full object-cover",
+        "style": "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-position:var(--img-object-position, center);color:transparent",
+        "sizes": "auto, (min-width: 1440px) 965px, 67vw",
+        "srcset": "https://a.storyblok.com/f/255245/2500x823/7ef370a37f/alliance-primary-logo.webp/m/2500x823/filters:quality(70) 640w, https://a.storyblok.com/f/255245/2500x823/7ef370a37f/alliance-primary-logo.webp/m/2500x823/filters:quality(70) 750w, https://a.storyblok.com/f/255245/2500x823/7ef370a37f/alliance-primary-logo.webp/m/2500x823/filters:quality(70) 828w, https://a.storyblok.com/f/255245/2500x823/7ef370a37f/alliance-primary-logo.webp/m/2500x823/filters:quality(70) 1080w, https://a.storyblok.com/f/255245/2500x823/7ef370a37f/alliance-primary-logo.webp/m/2500x823/filters:quality(70) 1200w, https://a.storyblok.com/f/255245/2500x823/7ef370a37f/alliance-primary-logo.webp/m/2500x823/filters:quality(70) 1920w, https://a.storyblok.com/f/255245/2500x823/7ef370a37f/alliance-primary-logo.webp/m/2500x823/filters:quality(70) 2048w, https://a.storyblok.com/f/255245/2500x823/7ef370a37f/alliance-primary-logo.webp/m/2500x823/filters:quality(70) 3840w",
+        "src": "https://a.storyblok.com/f/255245/2500x823/7ef370a37f/alliance-primary-logo.webp/m/2500x823/filters:quality(70)"
+      },
+      {
+        "alt": "cultural care au pair logo",
+        "loading": "lazy",
+        "width": "142",
+        "height": "24",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "srcset": "/ccap-logo.svg 1x, /ccap-logo.svg 2x",
+        "src": "/ccap-logo.svg"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-136/752605ddd9ecfa6d.txt"
+  },
+  {
+    "id": "43cee9860cc128f4",
+    "name": "Iceye North America, Inc.",
+    "requested_url": "https://www.iceye.com/",
+    "status": 200,
+    "final_url": "https://www.iceye.com/",
+    "text_chars": 6745,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-136/43cee9860cc128f4.txt"
+  },
+  {
+    "id": "f670926da011e1e3",
+    "name": "Kodex, Inc.",
+    "requested_url": "https://www.kodexglobal.com/",
+    "status": 200,
+    "final_url": "https://www.kodexglobal.com/",
+    "text_chars": 8473,
+    "logo_candidates": [
+      {
+        "src": "https://cdn.prod.website-files.com/6780cd30ab646602ed371702/686e0370faa21d4372e08b10_Kodex_PrimaryLogo_COLOR.svg",
+        "loading": "eager",
+        "alt": "",
+        "class": "nav_logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6780cd30ab646602ed371702/6791f03eda3064473e4bb34e_4c426faa-d94d-43e7-8c4c-f2958d760727company_logo%201.svg",
+        "loading": "lazy",
+        "alt": ""
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6780cd30ab646602ed371702/6791f03eda3064473e4bb34e_4c426faa-d94d-43e7-8c4c-f2958d760727company_logo%201.svg",
+        "loading": "lazy",
+        "alt": ""
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6780cd30ab646602ed371702/6791f03eda3064473e4bb34e_4c426faa-d94d-43e7-8c4c-f2958d760727company_logo%201.svg",
+        "loading": "lazy",
+        "alt": ""
+      },
+      {
+        "width": "218",
+        "loading": "eager",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/6780cd30ab646602ed371702/68625ca33c1cb23c4bd4c479_Frame%202095585541.svg",
+        "class": "testimonial-logo coinbase"
+      },
+      {
+        "width": "218",
+        "loading": "eager",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/6780cd30ab646602ed371702/68626738be75901d4cc15d46_Frame%202095585554.svg",
+        "class": "testimonial-logo bitfinex-home"
+      },
+      {
+        "width": "218",
+        "loading": "eager",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/6780cd30ab646602ed371702/68625ca37de83ab7c969adeb_Frame%202095585544.svg",
+        "class": "testimonial-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6780cd30ab646602ed371702/6a3ce8c3f11e70a7d5860de9_Frame%202095587203.svg",
+        "loading": "lazy",
+        "alt": "",
+        "class": "footer_logo-new"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-136/f670926da011e1e3.txt"
+  },
+  {
+    "id": "c17b274bb50698e6",
+    "name": "Lenovo (united States) Inc.",
+    "requested_url": "https://www.lenovo.com/us/en/",
+    "status": 200,
+    "final_url": "https://www.lenovo.com/us/en/",
+    "text_chars": 9592,
+    "logo_candidates": [
+      {
+        "class": "logo",
+        "id": "selectLogo",
+        "src": "https://p3-ofp.static.pub/fes/cms/2022/03/29/fxq8k26aghm6xril1qzikh2in7osfc415110.png",
+        "alt": "",
+        "style": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-136/c17b274bb50698e6.txt"
+  },
+  {
+    "id": "787a4d500375bd35",
+    "name": "Mintz on behalf of Fulgent Genetics, Inc.",
+    "requested_url": "https://www.mintz.com/",
+    "status": 200,
+    "final_url": "https://www.mintz.com/",
+    "text_chars": 5967,
+    "logo_candidates": [
+      {
+        "src": "/themes/custom/mintztheme/gnorm/build/images/logo--square-text.svg",
+        "alt": "Mintz logo",
+        "data-ot-ignore": null
+      },
+      {
+        "src": "/themes/custom/mintztheme/gnorm/build//images/logo--text-white.svg",
+        "alt": "Mintz Levin logo",
+        "data-ot-ignore": null
+      },
+      {
+        "class": "lazyload",
+        "data-src": "https://www.mintz.com/sites/default/files/styles/icon_large/public/media/images/2026-06-04/Firm%20Logo_Chambers%20USA%202026.jpg?itok=Z-jPotwX",
+        "alt": "Firm Logo_Chambers USA 2026"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-136/787a4d500375bd35.txt"
+  },
+  {
+    "id": "0e035aa90e8fec58",
+    "name": "Mobile Baykeeper",
+    "requested_url": "https://mobilebaykeeper.org/",
+    "status": 202,
+    "final_url": "https://mobilebaykeeper.org/",
+    "text_chars": 79,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-136/0e035aa90e8fec58.txt"
+  },
+  {
+    "id": "0d194e814e2c170b",
+    "name": "Retirement Clearinghouse",
+    "requested_url": "https://www.retirementclearinghouse.com/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "bcf389ef26e53876",
+    "name": "Sweet OAK Parent LLC",
+    "requested_url": "https://sweetoakgroup.com/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "d389dc80cfec80e0",
+    "name": "U.s. Anesthesia Partners, Inc.",
+    "requested_url": "https://www.usap.com/",
+    "status": 200,
+    "final_url": "https://www.usap.com/",
+    "text_chars": 3261,
+    "logo_candidates": [
+      {
+        "alt": "USAP Logo",
+        "loading": "lazy",
+        "width": "262",
+        "height": "71",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-auto w-46 shrink-0 object-contain lg:w-65.5",
+        "style": "color:transparent",
+        "sizes": "(min-width: 1200px) 85vw, (min-width: 768px) 75vw",
+        "srcset": "https://cdn.sanity.io/images/h8yi4nyb/production/09ef7756be77759dd22dc8a892a907cd3844afce-262x72.svg?w=640&q=100&fit=max&auto=format 640w, https://cdn.sanity.io/images/h8yi4nyb/production/09ef7756be77759dd22dc8a892a907cd3844afce-262x72.svg?w=750&q=100&fit=max&auto=format 750w, https://cdn.sanity.io/images/h8yi4nyb/production/09ef7756be77759dd22dc8a892a907cd3844afce-262x72.svg?w=828&q=100&fit=max&auto=format 828w, https://cdn.sanity.io/images/h8yi4nyb/production/09ef7756be77759dd22dc8a892a907cd3844afce-262x72.svg?w=1080&q=100&fit=max&auto=format 1080w, https://cdn.sanity.io/images/h8yi4nyb/production/09ef7756be77759dd22dc8a892a907cd3844afce-262x72.svg?w=1200&q=100&fit=max&auto=format 1200w, https://cdn.sanity.io/images/h8yi4nyb/production/09ef7756be77759dd22dc8a892a907cd3844afce-262x72.svg?w=1920&q=100&fit=max&auto=format 1920w, https://cdn.sanity.io/images/h8yi4nyb/production/09ef7756be77759dd22dc8a892a907cd3844afce-262x72.svg?w=2048&q=100&fit=max&auto=format 2048w, https://cdn.sanity.io/images/h8yi4nyb/production/09ef7756be77759dd22dc8a892a907cd3844afce-262x72.svg?w=3840&q=100&fit=max&auto=format 3840w",
+        "src": "https://cdn.sanity.io/images/h8yi4nyb/production/09ef7756be77759dd22dc8a892a907cd3844afce-262x72.svg?w=3840&q=100&fit=max&auto=format"
+      },
+      {
+        "alt": "USAP Logo",
+        "loading": "lazy",
+        "width": "306",
+        "height": "83",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-auto w-46 object-contain lg:col-span-3 lg:w-full",
+        "style": "color:transparent",
+        "sizes": "(min-width: 1200px) 85vw, (min-width: 768px) 75vw",
+        "srcset": "https://cdn.sanity.io/images/h8yi4nyb/production/7f049a21c7d4347ff3c4f6231f7b738eb4683337-262x72.svg?w=640&q=100&fit=max&auto=format 640w, https://cdn.sanity.io/images/h8yi4nyb/production/7f049a21c7d4347ff3c4f6231f7b738eb4683337-262x72.svg?w=750&q=100&fit=max&auto=format 750w, https://cdn.sanity.io/images/h8yi4nyb/production/7f049a21c7d4347ff3c4f6231f7b738eb4683337-262x72.svg?w=828&q=100&fit=max&auto=format 828w, https://cdn.sanity.io/images/h8yi4nyb/production/7f049a21c7d4347ff3c4f6231f7b738eb4683337-262x72.svg?w=1080&q=100&fit=max&auto=format 1080w, https://cdn.sanity.io/images/h8yi4nyb/production/7f049a21c7d4347ff3c4f6231f7b738eb4683337-262x72.svg?w=1200&q=100&fit=max&auto=format 1200w, https://cdn.sanity.io/images/h8yi4nyb/production/7f049a21c7d4347ff3c4f6231f7b738eb4683337-262x72.svg?w=1920&q=100&fit=max&auto=format 1920w, https://cdn.sanity.io/images/h8yi4nyb/production/7f049a21c7d4347ff3c4f6231f7b738eb4683337-262x72.svg?w=2048&q=100&fit=max&auto=format 2048w, https://cdn.sanity.io/images/h8yi4nyb/production/7f049a21c7d4347ff3c4f6231f7b738eb4683337-262x72.svg?w=3840&q=100&fit=max&auto=format 3840w",
+        "src": "https://cdn.sanity.io/images/h8yi4nyb/production/7f049a21c7d4347ff3c4f6231f7b738eb4683337-262x72.svg?w=3840&q=100&fit=max&auto=format"
+      },
+      {
+        "alt": "LinkedIn Logo",
+        "loading": "lazy",
+        "width": "25",
+        "height": "25",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-6 w-6 object-contain",
+        "style": "color:transparent",
+        "sizes": "(min-width: 1200px) 85vw, (min-width: 768px) 75vw",
+        "srcset": "https://cdn.sanity.io/images/h8yi4nyb/production/09e6a26627d258a00e2cdce47cf9f7ed1ee42d90-25x26.svg?w=640&q=100&fit=max&auto=format 640w, https://cdn.sanity.io/images/h8yi4nyb/production/09e6a26627d258a00e2cdce47cf9f7ed1ee42d90-25x26.svg?w=750&q=100&fit=max&auto=format 750w, https://cdn.sanity.io/images/h8yi4nyb/production/09e6a26627d258a00e2cdce47cf9f7ed1ee42d90-25x26.svg?w=828&q=100&fit=max&auto=format 828w, https://cdn.sanity.io/images/h8yi4nyb/production/09e6a26627d258a00e2cdce47cf9f7ed1ee42d90-25x26.svg?w=1080&q=100&fit=max&auto=format 1080w, https://cdn.sanity.io/images/h8yi4nyb/production/09e6a26627d258a00e2cdce47cf9f7ed1ee42d90-25x26.svg?w=1200&q=100&fit=max&auto=format 1200w, https://cdn.sanity.io/images/h8yi4nyb/production/09e6a26627d258a00e2cdce47cf9f7ed1ee42d90-25x26.svg?w=1920&q=100&fit=max&auto=format 1920w, https://cdn.sanity.io/images/h8yi4nyb/production/09e6a26627d258a00e2cdce47cf9f7ed1ee42d90-25x26.svg?w=2048&q=100&fit=max&auto=format 2048w, https://cdn.sanity.io/images/h8yi4nyb/production/09e6a26627d258a00e2cdce47cf9f7ed1ee42d90-25x26.svg?w=3840&q=100&fit=max&auto=format 3840w",
+        "src": "https://cdn.sanity.io/images/h8yi4nyb/production/09e6a26627d258a00e2cdce47cf9f7ed1ee42d90-25x26.svg?w=3840&q=100&fit=max&auto=format"
+      },
+      {
+        "alt": "Facebook Logo",
+        "loading": "lazy",
+        "width": "25",
+        "height": "25",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-6 w-6 object-contain",
+        "style": "color:transparent",
+        "sizes": "(min-width: 1200px) 85vw, (min-width: 768px) 75vw",
+        "srcset": "https://cdn.sanity.io/images/h8yi4nyb/production/8aae4194e7ce5ab56e03951f3de4f7136e4fdd6b-25x26.svg?w=640&q=100&fit=max&auto=format 640w, https://cdn.sanity.io/images/h8yi4nyb/production/8aae4194e7ce5ab56e03951f3de4f7136e4fdd6b-25x26.svg?w=750&q=100&fit=max&auto=format 750w, https://cdn.sanity.io/images/h8yi4nyb/production/8aae4194e7ce5ab56e03951f3de4f7136e4fdd6b-25x26.svg?w=828&q=100&fit=max&auto=format 828w, https://cdn.sanity.io/images/h8yi4nyb/production/8aae4194e7ce5ab56e03951f3de4f7136e4fdd6b-25x26.svg?w=1080&q=100&fit=max&auto=format 1080w, https://cdn.sanity.io/images/h8yi4nyb/production/8aae4194e7ce5ab56e03951f3de4f7136e4fdd6b-25x26.svg?w=1200&q=100&fit=max&auto=format 1200w, https://cdn.sanity.io/images/h8yi4nyb/production/8aae4194e7ce5ab56e03951f3de4f7136e4fdd6b-25x26.svg?w=1920&q=100&fit=max&auto=format 1920w, https://cdn.sanity.io/images/h8yi4nyb/production/8aae4194e7ce5ab56e03951f3de4f7136e4fdd6b-25x26.svg?w=2048&q=100&fit=max&auto=format 2048w, https://cdn.sanity.io/images/h8yi4nyb/production/8aae4194e7ce5ab56e03951f3de4f7136e4fdd6b-25x26.svg?w=3840&q=100&fit=max&auto=format 3840w",
+        "src": "https://cdn.sanity.io/images/h8yi4nyb/production/8aae4194e7ce5ab56e03951f3de4f7136e4fdd6b-25x26.svg?w=3840&q=100&fit=max&auto=format"
+      },
+      {
+        "alt": "Twitter X Logo",
+        "loading": "lazy",
+        "width": "25",
+        "height": "25",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-6 w-6 object-contain",
+        "style": "color:transparent",
+        "sizes": "(min-width: 1200px) 85vw, (min-width: 768px) 75vw",
+        "srcset": "https://cdn.sanity.io/images/h8yi4nyb/production/0cb058823dd9533cc5d716dda08459a7e015366f-25x26.svg?w=640&q=100&fit=max&auto=format 640w, https://cdn.sanity.io/images/h8yi4nyb/production/0cb058823dd9533cc5d716dda08459a7e015366f-25x26.svg?w=750&q=100&fit=max&auto=format 750w, https://cdn.sanity.io/images/h8yi4nyb/production/0cb058823dd9533cc5d716dda08459a7e015366f-25x26.svg?w=828&q=100&fit=max&auto=format 828w, https://cdn.sanity.io/images/h8yi4nyb/production/0cb058823dd9533cc5d716dda08459a7e015366f-25x26.svg?w=1080&q=100&fit=max&auto=format 1080w, https://cdn.sanity.io/images/h8yi4nyb/production/0cb058823dd9533cc5d716dda08459a7e015366f-25x26.svg?w=1200&q=100&fit=max&auto=format 1200w, https://cdn.sanity.io/images/h8yi4nyb/production/0cb058823dd9533cc5d716dda08459a7e015366f-25x26.svg?w=1920&q=100&fit=max&auto=format 1920w, https://cdn.sanity.io/images/h8yi4nyb/production/0cb058823dd9533cc5d716dda08459a7e015366f-25x26.svg?w=2048&q=100&fit=max&auto=format 2048w, https://cdn.sanity.io/images/h8yi4nyb/production/0cb058823dd9533cc5d716dda08459a7e015366f-25x26.svg?w=3840&q=100&fit=max&auto=format 3840w",
+        "src": "https://cdn.sanity.io/images/h8yi4nyb/production/0cb058823dd9533cc5d716dda08459a7e015366f-25x26.svg?w=3840&q=100&fit=max&auto=format"
+      },
+      {
+        "alt": "Instagram Logo",
+        "loading": "lazy",
+        "width": "25",
+        "height": "25",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-6 w-6 object-contain",
+        "style": "color:transparent",
+        "sizes": "(min-width: 1200px) 85vw, (min-width: 768px) 75vw",
+        "srcset": "https://cdn.sanity.io/images/h8yi4nyb/production/237507584cd0c85b0743c7ec2f3a1a16cae12f94-25x26.svg?w=640&q=100&fit=max&auto=format 640w, https://cdn.sanity.io/images/h8yi4nyb/production/237507584cd0c85b0743c7ec2f3a1a16cae12f94-25x26.svg?w=750&q=100&fit=max&auto=format 750w, https://cdn.sanity.io/images/h8yi4nyb/production/237507584cd0c85b0743c7ec2f3a1a16cae12f94-25x26.svg?w=828&q=100&fit=max&auto=format 828w, https://cdn.sanity.io/images/h8yi4nyb/production/237507584cd0c85b0743c7ec2f3a1a16cae12f94-25x26.svg?w=1080&q=100&fit=max&auto=format 1080w, https://cdn.sanity.io/images/h8yi4nyb/production/237507584cd0c85b0743c7ec2f3a1a16cae12f94-25x26.svg?w=1200&q=100&fit=max&auto=format 1200w, https://cdn.sanity.io/images/h8yi4nyb/production/237507584cd0c85b0743c7ec2f3a1a16cae12f94-25x26.svg?w=1920&q=100&fit=max&auto=format 1920w, https://cdn.sanity.io/images/h8yi4nyb/production/237507584cd0c85b0743c7ec2f3a1a16cae12f94-25x26.svg?w=2048&q=100&fit=max&auto=format 2048w, https://cdn.sanity.io/images/h8yi4nyb/production/237507584cd0c85b0743c7ec2f3a1a16cae12f94-25x26.svg?w=3840&q=100&fit=max&auto=format 3840w",
+        "src": "https://cdn.sanity.io/images/h8yi4nyb/production/237507584cd0c85b0743c7ec2f3a1a16cae12f94-25x26.svg?w=3840&q=100&fit=max&auto=format"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-136/d389dc80cfec80e0.txt"
+  },
+  {
+    "id": "4e66ff04257db22e",
+    "name": "Assured Space Access, Inc.",
+    "requested_url": "https://assuredspace.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "591ad776b2850534",
+    "name": "Avanos Medical, Inc. (fka Halyard Health, Inc.)",
+    "requested_url": "https://avanos.com/",
+    "status": 200,
+    "final_url": "https://avanos.com/",
+    "text_chars": 8634,
+    "logo_candidates": [
+      {
+        "width": "755",
+        "height": "119",
+        "src": "https://avanos.com/wp-content/uploads/2024/12/AVANOS_Asterisk_logo_black_cmyk.svg",
+        "class": "custom-logo",
+        "alt": "Avanos Logo",
+        "decoding": "async",
+        "fetchpriority": "high"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "1000",
+        "height": "191",
+        "src": "https://avanos.com/wp-content/uploads/2024/12/MIC-KEY_logo_black_rgb_1000w.png",
+        "class": "iconcards__icon",
+        "alt": "MIC-KEY* logo",
+        "srcset": "https://avanos.com/wp-content/uploads/2024/12/MIC-KEY_logo_black_rgb_1000w.png 1000w, https://avanos.com/wp-content/uploads/2024/12/MIC-KEY_logo_black_rgb_1000w-300x57.png 300w, https://avanos.com/wp-content/uploads/2024/12/MIC-KEY_logo_black_rgb_1000w-768x147.png 768w",
+        "sizes": "auto, (max-width: 1000px) 100vw, 1000px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "1000",
+        "height": "163",
+        "src": "https://avanos.com/wp-content/uploads/2024/12/CORTRAK_logo_black_rgb_1000w.png",
+        "class": "iconcards__icon",
+        "alt": "CORTRAK* logo",
+        "srcset": "https://avanos.com/wp-content/uploads/2024/12/CORTRAK_logo_black_rgb_1000w.png 1000w, https://avanos.com/wp-content/uploads/2024/12/CORTRAK_logo_black_rgb_1000w-300x49.png 300w, https://avanos.com/wp-content/uploads/2024/12/CORTRAK_logo_black_rgb_1000w-768x125.png 768w",
+        "sizes": "auto, (max-width: 1000px) 100vw, 1000px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "1000",
+        "height": "183",
+        "src": "https://avanos.com/wp-content/uploads/2024/12/NEOMED_logo_black_rgb_1000w.png",
+        "class": "iconcards__icon",
+        "alt": "NEOMED* logo",
+        "srcset": "https://avanos.com/wp-content/uploads/2024/12/NEOMED_logo_black_rgb_1000w.png 1000w, https://avanos.com/wp-content/uploads/2024/12/NEOMED_logo_black_rgb_1000w-300x55.png 300w, https://avanos.com/wp-content/uploads/2024/12/NEOMED_logo_black_rgb_1000w-768x141.png 768w",
+        "sizes": "auto, (max-width: 1000px) 100vw, 1000px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "1000",
+        "height": "868",
+        "src": "https://avanos.com/wp-content/uploads/2024/12/GAME-READY_logo_black_rgb_1000w.png",
+        "class": "iconcards__icon",
+        "alt": "Game Ready Logo",
+        "srcset": "https://avanos.com/wp-content/uploads/2024/12/GAME-READY_logo_black_rgb_1000w.png 1000w, https://avanos.com/wp-content/uploads/2024/12/GAME-READY_logo_black_rgb_1000w-300x260.png 300w, https://avanos.com/wp-content/uploads/2024/12/GAME-READY_logo_black_rgb_1000w-768x667.png 768w",
+        "sizes": "auto, (max-width: 1000px) 100vw, 1000px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "1000",
+        "height": "310",
+        "src": "https://avanos.com/wp-content/uploads/2024/12/COOLIEF_logo_black_rgb_1000w.png",
+        "class": "iconcards__icon",
+        "alt": "COOLIEF* Logo",
+        "srcset": "https://avanos.com/wp-content/uploads/2024/12/COOLIEF_logo_black_rgb_1000w.png 1000w, https://avanos.com/wp-content/uploads/2024/12/COOLIEF_logo_black_rgb_1000w-300x93.png 300w, https://avanos.com/wp-content/uploads/2024/12/COOLIEF_logo_black_rgb_1000w-768x238.png 768w",
+        "sizes": "auto, (max-width: 1000px) 100vw, 1000px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "1000",
+        "height": "391",
+        "src": "https://avanos.com/wp-content/uploads/2024/12/ONQ_logo_black_rgb_1000w.png",
+        "class": "iconcards__icon",
+        "alt": "ON-Q* logo",
+        "srcset": "https://avanos.com/wp-content/uploads/2024/12/ONQ_logo_black_rgb_1000w.png 1000w, https://avanos.com/wp-content/uploads/2024/12/ONQ_logo_black_rgb_1000w-300x117.png 300w, https://avanos.com/wp-content/uploads/2024/12/ONQ_logo_black_rgb_1000w-768x300.png 768w",
+        "sizes": "auto, (max-width: 1000px) 100vw, 1000px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "755",
+        "height": "119",
+        "src": "https://avanos.com/wp-content/uploads/2024/12/AVANOS_Asterisk_logo_white_cmyk.svg",
+        "alt": "",
+        "class": "wp-image-2782",
+        "style": "width:146px;height:auto"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-136/591ad776b2850534.txt"
+  },
+  {
+    "id": "fbc7eb149c483a39",
+    "name": "BAE Systems Land & Armaments",
+    "requested_url": "https://www.baesystems.com/en-us/who-we-are/platforms-and-services.html",
+    "status": 200,
+    "final_url": "https://www.baesystems.com/en-us/who-we-are/platforms-and-services.html",
+    "text_chars": 216,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-136/fbc7eb149c483a39.txt"
+  },
+  {
+    "id": "2b916588cf39927c",
+    "name": "Battery Materials And Technology Coalition",
+    "requested_url": "https://batterymaterials.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "24770638bf439cae",
+    "name": "DNV USA",
+    "requested_url": "https://www.dnv.us/",
+    "status": 200,
+    "final_url": "https://www.dnv.us/",
+    "text_chars": 3787,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-136/24770638bf439cae.txt"
+  },
+  {
+    "id": "beb61d53fac8a936",
+    "name": "ElectronX",
+    "requested_url": "https://www.electronx.com/",
+    "status": 200,
+    "final_url": "https://www.electronx.com/",
+    "text_chars": 1707,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-136/beb61d53fac8a936.txt"
+  },
+  {
+    "id": "b0c13a998a304c14",
+    "name": "Japan Automobile Standards Internationalization Center",
+    "requested_url": "https://www.jasic.org/",
+    "status": 200,
+    "final_url": "https://www.jasic.org/",
+    "text_chars": 1623,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-136/b0c13a998a304c14.txt"
+  },
+  {
+    "id": "9f1ad7437125b59a",
+    "name": "Kids2, LLC",
+    "requested_url": "https://www.kids2.com/",
+    "status": 200,
+    "final_url": "https://www.kids2.com/",
+    "text_chars": 3726,
+    "logo_candidates": [
+      {
+        "src": "//www.kids2.com/cdn/shop/files/Website_K2.com_Logos_K2_300x90.png?v=1764038108",
+        "alt": "Kids2 Logo",
+        "style": "max-width: 70px; width: auto;",
+        "loading": "lazy"
+      },
+      {
+        "src": "//www.kids2.com/cdn/shop/files/Website_K2.com_Logos_BE_300x90.png?v=1764038108",
+        "alt": "Baby Einstein Logo",
+        "style": "max-width: 70px; width: auto;",
+        "loading": "lazy"
+      },
+      {
+        "src": "//www.kids2.com/cdn/shop/files/Website_K2.com_Logos_BS_300x90.png?v=1764038108",
+        "alt": "Bright Starts Logo",
+        "style": "max-width: 70px; width: auto;",
+        "loading": "lazy"
+      },
+      {
+        "src": "//www.kids2.com/cdn/shop/files/Website_K2.com_Logos_ING_300x90.png?v=1764038108",
+        "alt": "Ingenuity Logo",
+        "style": "max-width: 70px; width: auto;",
+        "loading": "lazy"
+      },
+      {
+        "src": "//www.kids2.com/cdn/shop/files/Kids2_Logo_K2_Logo_Red.png?crop=center&height=96&v=1613503215&width=250",
+        "alt": "kids2 logo",
+        "width": "250",
+        "height": "96",
+        "loading": "eager",
+        "srcset": "//www.kids2.com/cdn/shop/files/Kids2_Logo_K2_Logo_Red.png?v=1613503215&width=125 125w, //www.kids2.com/cdn/shop/files/Kids2_Logo_K2_Logo_Red.png?v=1613503215&width=188 188w, //www.kids2.com/cdn/shop/files/Kids2_Logo_K2_Logo_Red.png?v=1613503215&width=250 250w, //www.kids2.com/cdn/shop/files/Kids2_Logo_K2_Logo_Red.png?v=1613503215&width=125 125w, //www.kids2.com/cdn/shop/files/Kids2_Logo_K2_Logo_Red.png?v=1613503215&width=188 188w, //www.kids2.com/cdn/shop/files/Kids2_Logo_K2_Logo_Red.png?v=1613503215&width=250 250w",
+        "sizes": "(min-width: 750px) 125px, (min-width: 250px) 125px, calc((100vw - 64px) * 0.5)",
+        "fetchpriority": "high",
+        "class": " is-loading "
+      },
+      {
+        "src": "//www.kids2.com/cdn/shop/files/Kids2_Logo_K2_Logo_Red.png?crop=center&height=96&v=1613503215&width=250",
+        "alt": "kids2 logo",
+        "width": "250",
+        "height": "96",
+        "loading": "eager",
+        "srcset": "//www.kids2.com/cdn/shop/files/Kids2_Logo_K2_Logo_Red.png?v=1613503215&width=125 125w, //www.kids2.com/cdn/shop/files/Kids2_Logo_K2_Logo_Red.png?v=1613503215&width=188 188w, //www.kids2.com/cdn/shop/files/Kids2_Logo_K2_Logo_Red.png?v=1613503215&width=250 250w, //www.kids2.com/cdn/shop/files/Kids2_Logo_K2_Logo_Red.png?v=1613503215&width=125 125w, //www.kids2.com/cdn/shop/files/Kids2_Logo_K2_Logo_Red.png?v=1613503215&width=188 188w, //www.kids2.com/cdn/shop/files/Kids2_Logo_K2_Logo_Red.png?v=1613503215&width=250 250w",
+        "sizes": "(min-width: 750px) 125px, (min-width: 250px) 125px, calc((100vw - 64px) * 0.5)",
+        "fetchpriority": "high",
+        "class": " is-loading "
+      },
+      {
+        "src": "//www.kids2.com/cdn/shop/files/k2-logo.jpg?crop=center&height=69&v=1718986382&width=138",
+        "alt": "kids2",
+        "width": "138",
+        "height": "69",
+        "loading": "lazy",
+        "srcset": "//www.kids2.com/cdn/shop/files/k2-logo.jpg?v=1718986382&width=138 138w, //www.kids2.com/cdn/shop/files/k2-logo.jpg?v=1718986382&width=207 207w, //www.kids2.com/cdn/shop/files/k2-logo.jpg?v=1718986382&width=276 276w, //www.kids2.com/cdn/shop/files/k2-logo.jpg?v=1718986382&width=350 350w, //www.kids2.com/cdn/shop/files/k2-logo.jpg?v=1718986382&width=525 525w, //www.kids2.com/cdn/shop/files/k2-logo.jpg?v=1718986382&width=700 700w",
+        "sizes": "138.0px",
+        "fetchpriority": "high",
+        "class": " is-loading "
+      },
+      {
+        "src": "//www.kids2.com/cdn/shop/files/BE-Books_Top_Logo.png?crop=center&height=57&v=1615337979&width=138",
+        "alt": "baby einstein logo",
+        "width": "138",
+        "height": "57",
+        "loading": "lazy",
+        "srcset": "//www.kids2.com/cdn/shop/files/BE-Books_Top_Logo.png?v=1615337979&width=138 138w, //www.kids2.com/cdn/shop/files/BE-Books_Top_Logo.png?v=1615337979&width=207 207w",
+        "sizes": "138.0px",
+        "fetchpriority": "high",
+        "class": " is-loading "
+      },
+      {
+        "src": "//www.kids2.com/cdn/shop/files/BrightStarts_Logo.png?crop=center&height=87&v=1657740807&width=138",
+        "width": "138",
+        "height": "87",
+        "loading": "lazy",
+        "srcset": "//www.kids2.com/cdn/shop/files/BrightStarts_Logo.png?v=1657740807&width=138 138w, //www.kids2.com/cdn/shop/files/BrightStarts_Logo.png?v=1657740807&width=207 207w, //www.kids2.com/cdn/shop/files/BrightStarts_Logo.png?v=1657740807&width=276 276w, //www.kids2.com/cdn/shop/files/BrightStarts_Logo.png?v=1657740807&width=350 350w, //www.kids2.com/cdn/shop/files/BrightStarts_Logo.png?v=1657740807&width=525 525w, //www.kids2.com/cdn/shop/files/BrightStarts_Logo.png?v=1657740807&width=700 700w",
+        "sizes": "138.0px",
+        "fetchpriority": "high",
+        "class": " is-loading "
+      },
+      {
+        "src": "//www.kids2.com/cdn/shop/files/k2-ProdPage-LogosIngenuity-200.png?crop=center&height=69&v=1616469197&width=138",
+        "width": "138",
+        "height": "69",
+        "loading": "lazy",
+        "srcset": "//www.kids2.com/cdn/shop/files/k2-ProdPage-LogosIngenuity-200.png?v=1616469197&width=138 138w",
+        "sizes": "138.0px",
+        "fetchpriority": "high",
+        "class": " is-loading "
+      },
+      {
+        "src": "//www.kids2.com/cdn/shop/files/BE-BrandLogo_Home_afa1cba5-60d9-4d49-bf94-4f6b29466048.png?v=1614692602&width=150",
+        "alt": "Badge",
+        "loading": "lazy",
+        "style": "width: 100%; height: auto;"
+      },
+      {
+        "src": "//www.kids2.com/cdn/shop/files/BS-BrandLogo_Home_db789a97-4235-4308-8da3-7246cc7c7f72.png?v=1614692695&width=150",
+        "alt": "Badge",
+        "loading": "lazy",
+        "style": "width: 100%; height: auto;"
+      },
+      {
+        "src": "//www.kids2.com/cdn/shop/files/ING-BrandLogo_Home_a2c6f55b-07b1-497e-bc66-d027a36adc7a.png?v=1614692676&width=150",
+        "alt": "Badge",
+        "loading": "lazy",
+        "style": "width: 100%; height: auto;"
+      },
+      {
+        "src": "//www.kids2.com/cdn/shop/files/Kinedu-Logo.png?crop=center&height=360&v=1762558146&width=600",
+        "width": "600",
+        "height": "360",
+        "loading": "lazy",
+        "srcset": "//www.kids2.com/cdn/shop/files/Kinedu-Logo.png?v=1762558146&width=180 180w, //www.kids2.com/cdn/shop/files/Kinedu-Logo.png?v=1762558146&width=360 360w, //www.kids2.com/cdn/shop/files/Kinedu-Logo.png?v=1762558146&width=540 540w",
+        "sizes": "(min-width: 990px) calc((100vw - 100px) * 0.33333333), (min-width: 750px) calc((100vw - 60px) / 2), calc(100vw - 32px - 50px)",
+        "class": " fit-cover is-loading "
+      },
+      {
+        "src": "//www.kids2.com/cdn/shop/files/MaryMeyes-New.png?crop=center&height=180&v=1613777731&width=300",
+        "alt": "mary meyer logo",
+        "width": "300",
+        "height": "180",
+        "loading": "lazy",
+        "srcset": "//www.kids2.com/cdn/shop/files/MaryMeyes-New.png?v=1613777731&width=180 180w",
+        "sizes": "(min-width: 990px) calc((100vw - 100px) * 0.33333333), (min-width: 750px) calc((100vw - 60px) / 2), calc(100vw - 32px - 50px)",
+        "class": " fit-cover is-loading "
+      },
+      {
+        "src": "//www.kids2.com/cdn/shop/files/Hape_Logo.png?crop=center&height=2834&v=1762557561&width=4724",
+        "width": "4724",
+        "height": "2834",
+        "loading": "lazy",
+        "srcset": "//www.kids2.com/cdn/shop/files/Hape_Logo.png?v=1762557561&width=180 180w, //www.kids2.com/cdn/shop/files/Hape_Logo.png?v=1762557561&width=360 360w, //www.kids2.com/cdn/shop/files/Hape_Logo.png?v=1762557561&width=540 540w, //www.kids2.com/cdn/shop/files/Hape_Logo.png?v=1762557561&width=720 720w, //www.kids2.com/cdn/shop/files/Hape_Logo.png?v=1762557561&width=900 900w, //www.kids2.com/cdn/shop/files/Hape_Logo.png?v=1762557561&width=1080 1080w, //www.kids2.com/cdn/shop/files/Hape_Logo.png?v=1762557561&width=1296 1296w, //www.kids2.com/cdn/shop/files/Hape_Logo.png?v=1762557561&width=1512 1512w, //www.kids2.com/cdn/shop/files/Hape_Logo.png?v=1762557561&width=1728 1728w, //www.kids2.com/cdn/shop/files/Hape_Logo.png?v=1762557561&width=1950 1950w, //www.kids2.com/cdn/shop/files/Hape_Logo.png?v=1762557561&width=2100 2100w, //www.kids2.com/cdn/shop/files/Hape_Logo.png?v=1762557561&width=2260 2260w, //www.kids2.com/cdn/shop/files/Hape_Logo.png?v=1762557561&width=2450 2450w, //www.kids2.com/cdn/shop/files/Hape_Logo.png?v=1762557561&width=2700 2700w, //www.kids2.com/cdn/shop/files/Hape_Logo.png?v=1762557561&width=3000 3000w, //www.kids2.com/cdn/shop/files/Hape_Logo.png?v=1762557561&width=3350 3350w, //www.kids2.com/cdn/shop/files/Hape_Logo.png?v=1762557561&width=3750 3750w, //www.kids2.com/cdn/shop/files/Hape_Logo.png?v=1762557561&width=4100 4100w, //www.kids2.com/cdn/shop/files/Hape_Logo.png?v=1762557561&width=4450 4450w",
+        "sizes": "(min-width: 990px) calc((100vw - 100px) * 0.33333333), (min-width: 750px) calc((100vw - 60px) / 2), calc(100vw - 32px - 50px)",
+        "class": " fit-cover is-loading "
+      },
+      {
+        "src": "//www.kids2.com/cdn/shop/files/Kids2_Logo_K2_Logo_Red.png?crop=center&height=115&v=1613503215&width=300",
+        "alt": "kids2 logo",
+        "width": "300",
+        "height": "115",
+        "loading": "lazy",
+        "srcset": "//www.kids2.com/cdn/shop/files/Kids2_Logo_K2_Logo_Red.png?v=1613503215&width=150 150w, //www.kids2.com/cdn/shop/files/Kids2_Logo_K2_Logo_Red.png?v=1613503215&width=300 300w, //www.kids2.com/cdn/shop/files/Kids2_Logo_K2_Logo_Red.png?v=1613503215&width=450 450w",
+        "sizes": "150px",
+        "class": " is-loading "
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-136/9f1ad7437125b59a.txt"
+  },
+  {
+    "id": "21d53807a9eb46df",
+    "name": "Neurofibromatosis Midwest",
+    "requested_url": "https://www.nfmidwest.org/about/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "4bb685ae5c3a4f4d",
+    "name": "Payward Inc",
+    "requested_url": "https://www.kraken.com/",
+    "status": 200,
+    "final_url": "https://www.kraken.com/",
+    "text_chars": 8848,
+    "logo_candidates": [
+      {
+        "src": "https://assets-cms.kraken.com/images/51n36hrp/facade/1698017cf06d51d17fff161c3704544f8402ecc5-68x18.svg",
+        "class": "kraken-image-svg",
+        "alt": "Forbes logo",
+        "loading": "lazy",
+        "style": "display:block;object-fit:contain;object-position:center center"
+      },
+      {
+        "src": "https://assets-cms.kraken.com/images/51n36hrp/facade/ebe60e0d899368ee5c501148232e2b94c76b72c1-360x101.svg",
+        "class": "kraken-image-svg w-[var(--width-default)] h-[var(--height-default)]",
+        "alt": "Kraken Pro Logo",
+        "loading": "lazy",
+        "style": "display:block;object-fit:contain;--width-default:100%;--height-default:100%"
+      },
+      {
+        "src": "https://assets-cms.kraken.com/images/51n36hrp/facade/6b1b0a92eb0de8b2f5cc9b71ec64afdd95c7830b-650x101.svg",
+        "class": "kraken-image-svg w-[var(--width-default)] h-[var(--height-default)]",
+        "alt": "Kraken Logo",
+        "loading": "lazy",
+        "style": "display:block;object-fit:contain;--width-default:100%;--height-default:100%"
+      },
+      {
+        "src": "https://assets-cms.kraken.com/images/51n36hrp/facade/cc0a15892d68e7927c1cd74a464047e15da98e71-84x18.svg",
+        "class": "kraken-image-svg w-[var(--width-default)] h-[var(--height-default)]",
+        "alt": "Krak Logo",
+        "loading": "lazy",
+        "style": "display:block;object-fit:contain;--width-default:100%;--height-default:100%"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-136/4bb685ae5c3a4f4d.txt"
+  },
+  {
+    "id": "94bd5feef31fb040",
+    "name": "Asazgua",
+    "requested_url": "https://web.azucar.com.gt/",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "id": "0c7f2a540c456dfe",
+    "name": "Austin Kidney Associates (DVAC Ref)",
+    "requested_url": "https://austinkidney.com/about-us/",
+    "status": 200,
+    "final_url": "https://austinkidney.com/about-us/",
+    "text_chars": 4673,
+    "logo_candidates": [
+      {
+        "class": "fl-logo-img",
+        "loading": "false",
+        "data-no-lazy": "1",
+        "itemscope": null,
+        "itemtype": "https://schema.org/ImageObject",
+        "src": "https://austinkidney.com/wp-content/uploads/2020/11/AKA-Logo-1-transparency-1.png",
+        "data-retina": "",
+        "title": "",
+        "width": "200",
+        "data-width": "200",
+        "height": "141",
+        "data-height": "141",
+        "alt": "Austin Kidney Associates"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-136/0c7f2a540c456dfe.txt"
+  },
+  {
+    "id": "b2bb71c3e281865d",
+    "name": "Meeder Funds (via Capitol Venture)",
+    "requested_url": "https://www.meederinvestment.com/meeder-funds-resources/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "f22e2c740afa26d7",
+    "name": "Gold PR Ltd. (on behalf of OJSC \u201cBakai Bank\u201d)",
+    "requested_url": "https://bakai.kg/",
+    "status": 200,
+    "final_url": "https://bakai.kg/",
+    "text_chars": 4237,
+    "logo_candidates": [
+      {
+        "loading": "lazy",
+        "alt": "bakai logo",
+        "src": "https://bakai.kg/bbank/resize/400/1000000/assets/general_menu_metas/2026/8/4/general_menu_meta_NrOPzlUgbR7Xt9gtzSaO.png"
+      },
+      {
+        "src": "/assets/images/slider/bb-banner-logo.webp",
+        "alt": "",
+        "fetchpriority": "high",
+        "style": "position:absolute;left:0;top:50%;transform:translateY(-50%) scale(1.4);transform-origin:left center;height:100%;width:auto;opacity:0.15;pointer-events:none;user-select:none"
+      },
+      {
+        "alt": "",
+        "src": "/bbank/assets/cdn_files/2025/03/24/unglobal-logo-footer_Ve2877T.webp",
+        "style": "width: 100px; height: 100px;"
+      },
+      {
+        "alt": "Apple Pay \u0432 BAKAI",
+        "width": "700",
+        "height": "500",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent;object-fit:contain;object-position:right",
+        "sizes": "(max-width: 768px) 450px, (max-width: 1280px) 350px, 700px",
+        "srcset": "/_next/image/?url=%2Fassets%2Fimages%2Fslider%2Fbb-banner-logo.webp&w=16&q=80 16w, /_next/image/?url=%2Fassets%2Fimages%2Fslider%2Fbb-banner-logo.webp&w=32&q=80 32w, /_next/image/?url=%2Fassets%2Fimages%2Fslider%2Fbb-banner-logo.webp&w=48&q=80 48w, /_next/image/?url=%2Fassets%2Fimages%2Fslider%2Fbb-banner-logo.webp&w=64&q=80 64w, /_next/image/?url=%2Fassets%2Fimages%2Fslider%2Fbb-banner-logo.webp&w=96&q=80 96w, /_next/image/?url=%2Fassets%2Fimages%2Fslider%2Fbb-banner-logo.webp&w=128&q=80 128w, /_next/image/?url=%2Fassets%2Fimages%2Fslider%2Fbb-banner-logo.webp&w=256&q=80 256w, /_next/image/?url=%2Fassets%2Fimages%2Fslider%2Fbb-banner-logo.webp&w=384&q=80 384w, /_next/image/?url=%2Fassets%2Fimages%2Fslider%2Fbb-banner-logo.webp&w=640&q=80 640w, /_next/image/?url=%2Fassets%2Fimages%2Fslider%2Fbb-banner-logo.webp&w=750&q=80 750w, /_next/image/?url=%2Fassets%2Fimages%2Fslider%2Fbb-banner-logo.webp&w=828&q=80 828w, /_next/image/?url=%2Fassets%2Fimages%2Fslider%2Fbb-banner-logo.webp&w=1080&q=80 1080w, /_next/image/?url=%2Fassets%2Fimages%2Fslider%2Fbb-banner-logo.webp&w=1200&q=80 1200w, /_next/image/?url=%2Fassets%2Fimages%2Fslider%2Fbb-banner-logo.webp&w=1920&q=80 1920w",
+        "src": "/_next/image/?url=%2Fassets%2Fimages%2Fslider%2Fbb-banner-logo.webp&w=1920&q=80"
+      },
+      {
+        "alt": "\u0421\u043a\u0438\u0434\u043a\u0438 \u0434\u043e 15% \u043d\u0430 \u0442\u0430\u043a\u0441\u0438 \u0441 \u043a\u0430\u0440\u0442\u043e\u0439 BAKAI",
+        "width": "700",
+        "height": "500",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent;object-fit:contain;object-position:right",
+        "sizes": "(max-width: 768px) 450px, (max-width: 1280px) 350px, 700px",
+        "srcset": "/_next/image/?url=%2Fassets%2Fimages%2Fslider%2Fbb-banner-logo.webp&w=16&q=80 16w, /_next/image/?url=%2Fassets%2Fimages%2Fslider%2Fbb-banner-logo.webp&w=32&q=80 32w, /_next/image/?url=%2Fassets%2Fimages%2Fslider%2Fbb-banner-logo.webp&w=48&q=80 48w, /_next/image/?url=%2Fassets%2Fimages%2Fslider%2Fbb-banner-logo.webp&w=64&q=80 64w, /_next/image/?url=%2Fassets%2Fimages%2Fslider%2Fbb-banner-logo.webp&w=96&q=80 96w, /_next/image/?url=%2Fassets%2Fimages%2Fslider%2Fbb-banner-logo.webp&w=128&q=80 128w, /_next/image/?url=%2Fassets%2Fimages%2Fslider%2Fbb-banner-logo.webp&w=256&q=80 256w, /_next/image/?url=%2Fassets%2Fimages%2Fslider%2Fbb-banner-logo.webp&w=384&q=80 384w, /_next/image/?url=%2Fassets%2Fimages%2Fslider%2Fbb-banner-logo.webp&w=640&q=80 640w, /_next/image/?url=%2Fassets%2Fimages%2Fslider%2Fbb-banner-logo.webp&w=750&q=80 750w, /_next/image/?url=%2Fassets%2Fimages%2Fslider%2Fbb-banner-logo.webp&w=828&q=80 828w, /_next/image/?url=%2Fassets%2Fimages%2Fslider%2Fbb-banner-logo.webp&w=1080&q=80 1080w, /_next/image/?url=%2Fassets%2Fimages%2Fslider%2Fbb-banner-logo.webp&w=1200&q=80 1200w, /_next/image/?url=%2Fassets%2Fimages%2Fslider%2Fbb-banner-logo.webp&w=1920&q=80 1920w",
+        "src": "/_next/image/?url=%2Fassets%2Fimages%2Fslider%2Fbb-banner-logo.webp&w=1920&q=80"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-136/f22e2c740afa26d7.txt"
+  },
+  {
+    "id": "6f08e047b260533e",
+    "name": "Istari, Inc.",
+    "requested_url": "https://www.istaridigital.com/",
+    "status": 200,
+    "final_url": "https://www.istaridigital.com/",
+    "text_chars": 4369,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-136/6f08e047b260533e.txt"
+  },
+  {
+    "id": "877beac2a0123361",
+    "name": "Magellan Diagnostics A Meridian Bioscience Company",
+    "requested_url": "https://www.magellandx.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "9aa3b46ead22d41b",
+    "name": "Mizuho Bank, Ltd.",
+    "requested_url": "https://www.mizuhobank.com/",
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  {
+    "id": "64f344c0a2aa9f28",
+    "name": "National Salute to America\u2019s Heroes",
+    "requested_url": "https://nationalsalute.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+  },
+  {
+    "id": "19a7a85f325490c0",
+    "name": "the Clapham Group, LLC on Behalf of Children's Equity Fund",
+    "requested_url": "https://childrensequityfund.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "16f9365bef4acc52",
+    "name": "American Honey Producers Association",
+    "requested_url": "https://ahpanet.com/",
+    "status": 200,
+    "final_url": "https://ahpanet.com/",
+    "text_chars": 6870,
+    "logo_candidates": [
+      {
+        "src": "http://ahpanet.com/wp-content/uploads/2023/09/ahpa-logo.png",
+        "alt": "American Honey Producers Association",
+        "class": "logo_standard"
+      },
+      {
+        "decoding": "async",
+        "width": "300",
+        "height": "162",
+        "src": "https://ahpanet.com/wp-content/uploads/2023/09/ahpa-logo-300x162.png",
+        "class": "attachment-medium size-medium wp-image-2407",
+        "alt": "",
+        "srcset": "https://ahpanet.com/wp-content/uploads/2023/09/ahpa-logo-300x162.png 300w, https://ahpanet.com/wp-content/uploads/2023/09/ahpa-logo-1024x552.png 1024w, https://ahpanet.com/wp-content/uploads/2023/09/ahpa-logo-768x414.png 768w, https://ahpanet.com/wp-content/uploads/2023/09/ahpa-logo-1536x829.png 1536w, https://ahpanet.com/wp-content/uploads/2023/09/ahpa-logo-600x324.png 600w, https://ahpanet.com/wp-content/uploads/2023/09/ahpa-logo.png 1646w",
+        "sizes": "(max-width: 300px) 100vw, 300px"
+      },
+      {
+        "src": "https://ahpanet.com/wp-content/uploads/2024/02/ahpa_logo_160x90.png",
+        "alt": "American Honey Producers Association",
+        "class": "copyright-logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-136/16f9365bef4acc52.txt"
+  },
+  {
+    "id": "d34e45116ab02360",
+    "name": "Flock Safety (represented by BGR Government Affairs)",
+    "requested_url": "https://www.flocksafety.com/",
+    "status": 200,
+    "final_url": "https://www.flocksafety.com/",
+    "text_chars": 6701,
+    "logo_candidates": [
+      {
+        "src": "https://cdn.prod.website-files.com/6821cc9ecc966b7f252b372e/6a06b3e39bb8dc52d858c787_drone2.avif",
+        "loading": "lazy",
+        "alt": "Small black cylindrical speaker with grille at the bottom and logo on front.",
+        "class": "img-contain"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-136/d34e45116ab02360.txt"
+  },
+  {
+    "id": "239b4a79baa46eaa",
+    "name": "CANPACK Group, Inc. and affiliates",
+    "requested_url": "https://www.canpack.com/",
+    "status": 200,
+    "final_url": "https://www.canpack.com/",
+    "text_chars": 3408,
+    "logo_candidates": [
+      {
+        "src": "https://www.canpack.com/wp-content/themes/canpack-theme/dist/img/logo.svg",
+        "alt": "Logo",
+        "class": "logo-img"
+      },
+      {
+        "src": "https://www.canpack.com/wp-content/uploads/2026/07/Bavaria-Thumbnail-LOGO-ONLY-1200x802px.jpg"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-136/239b4a79baa46eaa.txt"
+  },
+  {
+    "id": "2c9715ba96bdaa06",
+    "name": "Lithion Battery, Inc.",
+    "requested_url": "https://www.lithionbattery.com/",
+    "status": 200,
+    "final_url": "https://www.lithionbattery.com/",
+    "text_chars": 4987,
+    "logo_candidates": [
+      {
+        "sizes": "(max-width: 479px) 86vw, (max-width: 3095px) 49vw, 1517px",
+        "srcset": "https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/69b813af3b056ae02c697a45_Lithion%20Solutions%20Logo-p-500.png 500w, https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/69b813af3b056ae02c697a45_Lithion%20Solutions%20Logo-p-800.png 800w, https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/69b813af3b056ae02c697a45_Lithion%20Solutions%20Logo-p-1080.png 1080w, https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/69b813af3b056ae02c697a45_Lithion%20Solutions%20Logo.png 1517w",
+        "alt": "",
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/69b813af3b056ae02c697a45_Lithion%20Solutions%20Logo.png",
+        "class": "large-logo is-auto-width"
+      },
+      {
+        "sizes": "(max-width: 479px) 86vw, (max-width: 1439px) 49vw, 50vw",
+        "srcset": "https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/69026dd6fa325a4c9daba657_bold%20LPS%20logo-p-500.png 500w, https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/69026dd6fa325a4c9daba657_bold%20LPS%20logo-p-800.png 800w, https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/69026dd6fa325a4c9daba657_bold%20LPS%20logo.png 1217w",
+        "alt": "",
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/69026dd6fa325a4c9daba657_bold%20LPS%20logo.png",
+        "class": "large-logo is-auto-width"
+      },
+      {
+        "sizes": "(max-width: 479px) 86vw, (max-width: 1439px) 49vw, 50vw",
+        "srcset": "https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/687a7320c94fb014a5de2e6e_aved-new-p-500.png 500w, https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/687a7320c94fb014a5de2e6e_aved-new-p-800.png 800w, https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/687a7320c94fb014a5de2e6e_aved-new.png 1000w",
+        "alt": "",
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/687a7320c94fb014a5de2e6e_aved-new.png",
+        "class": "large-logo is-auto-width"
+      },
+      {
+        "sizes": "(max-width: 479px) 86vw, (max-width: 1439px) 49vw, (max-width: 3254px) 50vw, 1627px",
+        "srcset": "https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/685d3442cb9d5f08eda1263f_Homegrid%20Logo%20(2)-p-500.png 500w, https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/685d3442cb9d5f08eda1263f_Homegrid%20Logo%20(2)-p-800.png 800w, https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/685d3442cb9d5f08eda1263f_Homegrid%20Logo%20(2)-p-1080.png 1080w, https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/685d3442cb9d5f08eda1263f_Homegrid%20Logo%20(2).png 1627w",
+        "alt": "",
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/685d3442cb9d5f08eda1263f_Homegrid%20Logo%20(2).png",
+        "class": "large-logo is-auto-width"
+      },
+      {
+        "sizes": "(max-width: 479px) 86vw, (max-width: 1439px) 49vw, 50vw",
+        "srcset": "https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/687a7317c94a83ec401662fe_gridbox-new-p-500.png 500w, https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/687a7317c94a83ec401662fe_gridbox-new-p-800.png 800w, https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/687a7317c94a83ec401662fe_gridbox-new.png 1000w",
+        "alt": "",
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/687a7317c94a83ec401662fe_gridbox-new.png",
+        "class": "large-logo is-auto-width"
+      },
+      {
+        "sizes": "(max-width: 479px) 86vw, (max-width: 1439px) 49vw, 50vw",
+        "srcset": "https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/68505bcd89a11b7e8248d8c3_EP%20Logo-p-500.png 500w, https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/68505bcd89a11b7e8248d8c3_EP%20Logo-p-800.png 800w, https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/68505bcd89a11b7e8248d8c3_EP%20Logo-p-1080.png 1080w, https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/68505bcd89a11b7e8248d8c3_EP%20Logo-p-1600.png 1600w, https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/68505bcd89a11b7e8248d8c3_EP%20Logo-p-2000.png 2000w, https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/68505bcd89a11b7e8248d8c3_EP%20Logo-p-2600.png 2600w, https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/68505bcd89a11b7e8248d8c3_EP%20Logo-p-3200.png 3200w, https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/68505bcd89a11b7e8248d8c3_EP%20Logo.png 5939w",
+        "alt": "",
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/68505bcd89a11b7e8248d8c3_EP%20Logo.png",
+        "class": "large-logo is-auto-width"
+      },
+      {
+        "sizes": "(max-width: 479px) 86vw, (max-width: 1439px) 49vw, (max-width: 3324px) 50vw, 1662px",
+        "srcset": "https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/687008a3bccf6e22c17427cd_Charger%20logo%20(1)-p-500.png 500w, https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/687008a3bccf6e22c17427cd_Charger%20logo%20(1)-p-800.png 800w, https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/687008a3bccf6e22c17427cd_Charger%20logo%20(1)-p-1080.png 1080w, https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/687008a3bccf6e22c17427cd_Charger%20logo%20(1).png 1662w",
+        "alt": "",
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/687008a3bccf6e22c17427cd_Charger%20logo%20(1).png",
+        "class": "large-logo is-auto-width"
+      },
+      {
+        "sizes": "(max-width: 479px) 86vw, (max-width: 1439px) 49vw, 50vw",
+        "srcset": "https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/687a9adcb764a2da0e58c4f2_valence-new-p-500.png 500w, https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/687a9adcb764a2da0e58c4f2_valence-new-p-800.png 800w, https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/687a9adcb764a2da0e58c4f2_valence-new.png 1000w",
+        "alt": "",
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/687a9adcb764a2da0e58c4f2_valence-new.png",
+        "class": "large-logo is-auto-width"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/66ffb64a823d61cba7cd072e/66ffc859f6d83998e7c3e516_Lithion%20Logo%20white%20.png",
+        "loading": "lazy",
+        "alt": "",
+        "class": "footer-logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-136/2c9715ba96bdaa06.txt"
+  },
+  {
+    "id": "a04a1ccaf15ad900",
+    "name": "LS Electric America, Inc.",
+    "requested_url": "https://www.ls-electric.com/en/",
+    "status": 200,
+    "final_url": "https://www.ls-electric.com/en/",
+    "text_chars": 112,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-136/a04a1ccaf15ad900.txt"
+  },
+  {
+    "id": "31f4e7376bae828c",
+    "name": "Payward, Inc. DBA Kraken",
+    "requested_url": "https://www.kraken.com/",
+    "status": 200,
+    "final_url": "https://www.kraken.com/",
+    "text_chars": 8861,
+    "logo_candidates": [
+      {
+        "src": "https://assets-cms.kraken.com/images/51n36hrp/facade/1698017cf06d51d17fff161c3704544f8402ecc5-68x18.svg",
+        "class": "kraken-image-svg",
+        "alt": "Forbes logo",
+        "loading": "lazy",
+        "style": "display:block;object-fit:contain;object-position:center center"
+      },
+      {
+        "src": "https://assets-cms.kraken.com/images/51n36hrp/facade/ebe60e0d899368ee5c501148232e2b94c76b72c1-360x101.svg",
+        "class": "kraken-image-svg w-[var(--width-default)] h-[var(--height-default)]",
+        "alt": "Kraken Pro Logo",
+        "loading": "lazy",
+        "style": "display:block;object-fit:contain;--width-default:100%;--height-default:100%"
+      },
+      {
+        "src": "https://assets-cms.kraken.com/images/51n36hrp/facade/6b1b0a92eb0de8b2f5cc9b71ec64afdd95c7830b-650x101.svg",
+        "class": "kraken-image-svg w-[var(--width-default)] h-[var(--height-default)]",
+        "alt": "Kraken Logo",
+        "loading": "lazy",
+        "style": "display:block;object-fit:contain;--width-default:100%;--height-default:100%"
+      },
+      {
+        "src": "https://assets-cms.kraken.com/images/51n36hrp/facade/cc0a15892d68e7927c1cd74a464047e15da98e71-84x18.svg",
+        "class": "kraken-image-svg w-[var(--width-default)] h-[var(--height-default)]",
+        "alt": "Krak Logo",
+        "loading": "lazy",
+        "style": "display:block;object-fit:contain;--width-default:100%;--height-default:100%"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-136/31f4e7376bae828c.txt"
+  },
+  {
+    "id": "98e6f2803a438363",
+    "name": "Plan International, USA OBO Modernizing Foreign Assistance",
+    "requested_url": "https://modernizeaid.net/",
+    "status": 200,
+    "final_url": "https://www.modernizeaid.net/",
+    "text_chars": 3182,
+    "logo_candidates": [
+      {
+        "src": "https://cdn.prod.website-files.com/63764cef7a7aa503d5388f15/6838c9c8547888b9a67303ec_MFAN%20blog%20logo.png",
+        "loading": "lazy",
+        "alt": "",
+        "sizes": "100vw",
+        "srcset": "https://cdn.prod.website-files.com/63764cef7a7aa503d5388f15/6838c9c8547888b9a67303ec_MFAN%20blog%20logo-p-500.png 500w, https://cdn.prod.website-files.com/63764cef7a7aa503d5388f15/6838c9c8547888b9a67303ec_MFAN%20blog%20logo-p-800.png 800w, https://cdn.prod.website-files.com/63764cef7a7aa503d5388f15/6838c9c8547888b9a67303ec_MFAN%20blog%20logo-p-1080.png 1080w, https://cdn.prod.website-files.com/63764cef7a7aa503d5388f15/6838c9c8547888b9a67303ec_MFAN%20blog%20logo-p-1600.png 1600w, https://cdn.prod.website-files.com/63764cef7a7aa503d5388f15/6838c9c8547888b9a67303ec_MFAN%20blog%20logo.png 1830w",
+        "class": "scalable-image"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-136/98e6f2803a438363.txt"
+  },
+  {
+    "id": "18600314fff4dec8",
+    "name": "Sesac Rights Management Inc",
+    "requested_url": "https://www.sesacmusicgroup.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "2adedb795e377c28",
+    "name": "Summit Behavioral Healthcare",
+    "requested_url": "https://summitbhc.com/",
+    "status": 200,
+    "final_url": "https://summitbhc.com/",
+    "text_chars": 30444,
+    "logo_candidates": [
+      {
+        "src": "/wp-content/uploads/2015/02/sbhc-logo.png",
+        "alt": "Summit BHC",
+        "id": "logo",
+        "data-height-percentage": "100"
+      },
+      {
+        "fetchpriority": "high",
+        "decoding": "async",
+        "width": "500",
+        "height": "284",
+        "src": "https://summitbhc.com/wp-content/uploads/2026/08/Newsweek_US_Best_ResidentialATC_2026_Logo_4-Time-Consec_Hor-500.png",
+        "alt": "Summit BHC's addiction treatment centers have been awarded America's Best Addiction Treatment Centers for 4 consecutive years",
+        "title": "Newsweek_US_Best_ResidentialATC_2026_Logo_4-Time-Consec_Hor-500",
+        "class": "wp-image-13648"
+      },
+      {
+        "src": "/wp-content/uploads/2020/11/nabh-logo-300.png",
+        "alt": "National Association for Behavioral Healthcare",
+        "title": "National Association for Behavioral Healthcar"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-136/2adedb795e377c28.txt"
+  },
+  {
+    "id": "b1179750af03c5b7",
+    "name": "Vantage Knight, LLC on Behalf of Spice World",
+    "requested_url": "https://spiceworldinc.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "2412548e731193c1",
+    "name": "Wisdomtree Digital Management",
+    "requested_url": "https://www.wisdomtree.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "eb1ddfeaf4da897c",
+    "name": "AltaMed Health Services Corp",
+    "requested_url": "https://www.altamed.org/",
+    "status": 200,
+    "final_url": "https://www.altamed.org/",
+    "text_chars": 1669,
+    "logo_candidates": [
+      {
+        "src": "/themes/custom/am22/logo.svg",
+        "alt": "Home"
+      },
+      {
+        "src": "/themes/custom/am22/logo.svg",
+        "alt": "Home"
+      },
+      {
+        "loading": "lazy",
+        "srcset": "/sites/default/files/styles/footer_logo/public/2021-09/covered-california-logo%402x_1.png?itok=NbsMmh6n 1x, /sites/default/files/styles/footer_logo_2x/public/2021-09/covered-california-logo%402x_1.png?itok=FeV2vfPl 2x",
+        "width": "356",
+        "height": "138",
+        "src": "/sites/default/files/styles/footer_logo/public/2021-09/covered-california-logo%402x_1.png?itok=NbsMmh6n",
+        "alt": "Covered California Logo",
+        "class": "img-fluid"
+      },
+      {
+        "loading": "eager",
+        "srcset": "/sites/default/files/styles/footer_logo_and_link/public/footer-logo-link/2023-08/registertovote_icon.png?itok=eDpvIBMC 1x, /sites/default/files/styles/footer_logo_and_link_2x/public/footer-logo-link/2023-08/registertovote_icon.png?itok=ufn4wjcA 2x",
+        "width": "135",
+        "height": "30",
+        "src": "/sites/default/files/styles/footer_logo_and_link/public/footer-logo-link/2023-08/registertovote_icon.png?itok=eDpvIBMC",
+        "alt": "Register to Vote",
+        "class": "img-fluid"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-136/eb1ddfeaf4da897c.txt"
+  }
+]

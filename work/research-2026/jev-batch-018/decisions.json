@@ -1,0 +1,155 @@
+{
+  "1c5a11924d5c1569": {
+    "name": "Tacoma Washington",
+    "description": "The City of Tacoma is a Washington municipal government providing local public services.",
+    "website": "https://www.cityoftacoma.org/",
+    "kind": "Municipal government",
+    "ownership": "Government body",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Direct official City of Tacoma, Washington homepage identifies municipal government, City Council and local public services at 747 Market Street, Tacoma. Filing label retained; 311 service-program logo is not treated as the city logo.",
+    "notes": "Direct official City of Tacoma, Washington homepage identifies municipal government, City Council and local public services at 747 Market Street, Tacoma. Filing label retained; 311 service-program logo is not treated as the city logo.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/da84ea83-3587-4dfe-b319-ed10879468f2/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.cityoftacoma.org/government",
+        "label": "Organization evidence",
+        "claim": "The City of Tacoma describes its municipal government and city services for Tacoma, Washington."
+      },
+      {
+        "url": "https://www.cityoftacoma.org/",
+        "label": "Primary organization evidence reviewed September 18, 2026",
+        "claim": "Direct official City of Tacoma, Washington homepage identifies municipal government, City Council and local public services at 747 Market Street, Tacoma. Filing label retained; 311 service-program logo is not treated as the city logo."
+      }
+    ],
+    "as_of": "2026-09-18",
+    "checked_at": "2026-09-18",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "36917f05cc9e1c4e": {
+    "name": "Madison WI",
+    "description": "City government of Madison, Wisconsin.",
+    "website": "https://www.cityofmadison.com/",
+    "kind": "Municipal government",
+    "ownership": "Government body",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Direct official City of Madison, Wisconsin homepage identifies the city government, Common Council, public services and City-County Building address. This confirms the geographic shorthand in the filing; other Madison entities are not merged.",
+    "notes": "Direct official City of Madison, Wisconsin homepage identifies the city government, Common Council, public services and City-County Building address. This confirms the geographic shorthand in the filing; other Madison entities are not merged.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/94a4db55-184b-4b7e-bdac-c9ad05050b74/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.cityofmadison.com/",
+        "label": "Organization evidence",
+        "claim": "Official City of Madison site identifies Madison, Wisconsin municipal government and services."
+      },
+      {
+        "url": "https://www.cityofmadison.com/",
+        "label": "Primary organization evidence reviewed September 18, 2026",
+        "claim": "Direct official City of Madison, Wisconsin homepage identifies the city government, Common Council, public services and City-County Building address. This confirms the geographic shorthand in the filing; other Madison entities are not merged."
+      }
+    ],
+    "as_of": "2026-09-18",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://www.cityofmadison.com/sites/default/files/icons/city-logo-white_0.svg",
+    "logo_kind": "logo",
+    "logo_source_url": "https://www.cityofmadison.com/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "59c29c43b7763337": {
+    "name": "Foster City, California",
+    "description": "A municipal government providing local public services for the City of Foster City, California.",
+    "website": "https://www.fostercity.org/",
+    "kind": "Municipal government",
+    "ownership": "Government body",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Direct official Foster City, California homepage identifies municipal government, City Council meetings, permits and municipal code, with the 610 Foster City Boulevard address. Filing label identifies the city government.",
+    "notes": "Direct official Foster City, California homepage identifies municipal government, City Council meetings, permits and municipal code, with the 610 Foster City Boulevard address. Filing label identifies the city government.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/a44921da-59c0-438e-add8-3013b593b25a/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.fostercity.org/",
+        "label": "Organization evidence",
+        "claim": "The official city site provides Foster City municipal services and information."
+      },
+      {
+        "label": "Official website branding",
+        "url": "https://www.fostercity.org/",
+        "claim": "Organization logo or site icon identified on official site; image response verified September 9, 2026."
+      },
+      {
+        "url": "https://www.fostercity.org/",
+        "label": "Primary organization evidence reviewed September 18, 2026",
+        "claim": "Direct official Foster City, California homepage identifies municipal government, City Council meetings, permits and municipal code, with the 610 Foster City Boulevard address. Filing label identifies the city government."
+      }
+    ],
+    "as_of": "2026-09-18",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://www.fostercity.org/images/favicon.ico",
+    "logo_kind": "site_icon",
+    "logo_source_url": "https://www.fostercity.org/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "7ee5986ed971e54a": {
+    "name": "Medical Group Management Assn",
+    "description": "Professional association for medical-practice administrators and managers, providing education, benchmarking, and resources.",
+    "website": "https://www.mgma.com/",
+    "kind": "Medical practice management association",
+    "ownership": "Nonprofit / tax-exempt",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Direct official homepage identifies Medical Group Management Association and its medical-practice education, benchmarking and advocacy services. Indexed official 2026 press release explicitly calls MGMA a nonprofit membership association; no federal tax subsection inferred.",
+    "notes": "Direct official homepage identifies Medical Group Management Association and its medical-practice education, benchmarking and advocacy services. Indexed official 2026 press release explicitly calls MGMA a nonprofit membership association; no federal tax subsection inferred.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/e56d7731-5171-42fe-b1ca-96574b0dba74/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.mgma.com/",
+        "label": "Organization evidence",
+        "claim": "Official MGMA site presents medical-practice management education and resources."
+      },
+      {
+        "url": "https://www.mgma.com/press/medical-practice-pay-cools-but-hiring-pressure-holds-firm-new-mgma-report-finds",
+        "label": "Primary organization evidence reviewed September 18, 2026",
+        "claim": "Direct official homepage identifies Medical Group Management Association and its medical-practice education, benchmarking and advocacy services. Indexed official 2026 press release explicitly calls MGMA a nonprofit membership association; no federal tax subsection inferred."
+      }
+    ],
+    "as_of": "2026-09-18",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://www.mgma.com/site_footer_logo?dpr=2&auto=format&w=130&fit=scale",
+    "logo_kind": "logo",
+    "logo_source_url": "https://www.mgma.com/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  }
+}

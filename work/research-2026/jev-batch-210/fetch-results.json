@@ -1,0 +1,2405 @@
+[
+  {
+    "id": "801404eb03031074",
+    "name": "Hemp Industry & Farmers of America (HIFA)",
+    "requested_url": "https://hifa.health/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "fe07862acabdbeee",
+    "name": "Hewlett Packard Enterprise and affiliates",
+    "requested_url": "https://www.hpe.com/",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "2bba7bc0333572c5",
+    "name": "HF Management Services, LLC (Healthfirst)",
+    "requested_url": "https://healthfirst.org/",
+    "status": 200,
+    "final_url": "https://healthfirst.org/",
+    "text_chars": 5267,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-210/2bba7bc0333572c5.txt"
+  },
+  {
+    "id": "108bacf13c79100c",
+    "name": "HMS Holding Limited Partnership",
+    "requested_url": "https://www.hendrickmotorsports.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "79285ce355c8bcfd",
+    "name": "Holon US, Inc.",
+    "requested_url": "https://www.driveholon.com/en/",
+    "status": 200,
+    "final_url": "https://www.driveholon.com/en/",
+    "text_chars": 931,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-210/79285ce355c8bcfd.txt"
+  },
+  {
+    "id": "a40190d047cc6130",
+    "name": "Honeywell Aerospace US LLC",
+    "requested_url": "https://aerospace.honeywell.com/",
+    "status": 200,
+    "final_url": "https://www.honeywellaerospace.com/",
+    "text_chars": 8156,
+    "logo_candidates": [
+      {
+        "src": "/content/dam/aero/icons/hon-aero-logo-so-sg-41.svg",
+        "width": "175",
+        "height": "175",
+        "alt": "Honeywell Aerospace"
+      },
+      {
+        "src": "/content/dam/aero/icons/Aerospace-logo.svg",
+        "alt": "logo icon"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-210/a40190d047cc6130.txt"
+  },
+  {
+    "id": "533be5edd4f48c80",
+    "name": "Huntington Ingalls Industries, Inc. (filed former-name claim unverified)",
+    "requested_url": "https://hii.com/",
+    "status": 200,
+    "final_url": "https://www.hii.com/",
+    "text_chars": 3391,
+    "logo_candidates": [
+      {
+        "src": "/logo.svg",
+        "alt": "HII Logo",
+        "class": "h-[42px] w-auto"
+      },
+      {
+        "src": "/logo.svg",
+        "alt": "HII Logo",
+        "class": "h-[42px] w-auto brightness-0 invert"
+      },
+      {
+        "alt": "HII",
+        "loading": "lazy",
+        "width": "188",
+        "height": "84",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-[84px] w-auto",
+        "style": "color:transparent",
+        "src": "/logo-full.svg?dpl=dpl_2hHt5p96Qf75MNG7MwwcXa9qEJBa"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-210/533be5edd4f48c80.txt"
+  },
+  {
+    "id": "8899f3468cb21256",
+    "name": "Huron Consulting Services LLC",
+    "requested_url": "https://www.huronconsultinggroup.com/",
+    "status": 200,
+    "final_url": "https://www.huronconsultinggroup.com/en",
+    "text_chars": 4665,
+    "logo_candidates": [
+      {
+        "alt": "huron logo",
+        "fetchpriority": "auto",
+        "loading": "lazy",
+        "width": "206",
+        "height": "36",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://edge.sitecorecloud.io/huronconsule9d4-hurone7d4-prod317d-47fe/media/project/hcg/shared/huron-light.svg?iar=0"
+      },
+      {
+        "alt": "huron logo",
+        "fetchpriority": "auto",
+        "loading": "lazy",
+        "width": "206",
+        "height": "36",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://edge.sitecorecloud.io/huronconsule9d4-hurone7d4-prod317d-47fe/media/project/hcg/shared/huron-light.svg?iar=0"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-210/8899f3468cb21256.txt"
+  },
+  {
+    "id": "425c1591daff084d",
+    "name": "Hydrostor USA Holdings Inc.",
+    "requested_url": "https://www.hydrostor.ca/",
+    "status": 200,
+    "final_url": "https://hydrostor.ca/",
+    "text_chars": 5119,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "decoding": "async",
+        "width": "1000",
+        "height": "205",
+        "src": "https://hydrostor.ca/wp-content/uploads/2025/10/logo.svg",
+        "alt": "Hydrostor Logo",
+        "title": "logo",
+        "class": "wp-image-9832"
+      },
+      {
+        "fetchpriority": "high",
+        "decoding": "async",
+        "width": "1000",
+        "height": "205",
+        "src": "https://hydrostor.ca/wp-content/uploads/2025/10/logo.svg",
+        "alt": "Hydrostor Logo",
+        "title": "logo",
+        "class": "wp-image-9832"
+      },
+      {
+        "decoding": "async",
+        "src": "https://hydrostor.ca/wp-content/uploads/2025/06/Willow-Rock_Horiz_White.svg",
+        "alt": "Project logo"
+      },
+      {
+        "decoding": "async",
+        "src": "https://hydrostor.ca/wp-content/uploads/2024/01/SilverCity_Horiz_White.svg",
+        "alt": "Project logo"
+      },
+      {
+        "decoding": "async",
+        "src": "https://hydrostor.ca/wp-content/uploads/2024/07/Quinte_Horiz_White.svg",
+        "alt": "Project logo"
+      },
+      {
+        "decoding": "async",
+        "src": "https://hydrostor.ca/wp-content/uploads/2026/03/Copper-Valley_Horiz_White.svg",
+        "alt": "Project logo"
+      },
+      {
+        "decoding": "async",
+        "src": "https://hydrostor.ca/wp-content/uploads/2026/02/Temp_WES_White.svg",
+        "alt": "Project logo"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "1000",
+        "height": "205",
+        "src": "https://hydrostor.ca/wp-content/uploads/2025/04/Hydrostor-Logo_Horiz_White.svg",
+        "alt": "Hydrostor Logo White",
+        "title": "Hydrostor Logo_Horiz_White",
+        "class": "wp-image-6888"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-210/425c1591daff084d.txt"
+  },
+  {
+    "id": "c1eda9768a7735c5",
+    "name": "HYFIX Spatial Intelligence",
+    "requested_url": "https://hyfix.ai/",
+    "status": 200,
+    "final_url": "https://hyfix.ai/",
+    "text_chars": 109,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-210/c1eda9768a7735c5.txt"
+  },
+  {
+    "id": "27c614fcea5ecead",
+    "name": "Hypercraft, Inc.",
+    "requested_url": "https://hypercraft.com/",
+    "status": 200,
+    "final_url": "https://www.hypercraft.com/",
+    "text_chars": 1419,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-210/27c614fcea5ecead.txt"
+  },
+  {
+    "id": "769e16daf1f229b3",
+    "name": "Hypori LLC",
+    "requested_url": "https://hypori.com/",
+    "status": 200,
+    "final_url": "https://www.hypori.com/",
+    "text_chars": 9035,
+    "logo_candidates": [
+      {
+        "sizes": "(max-width: 479px) 48vw, (max-width: 2448px) 49vw, 1200px",
+        "srcset": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a1f5cce3f596248a06b2994_wwt%20logo%203-p-500.png 500w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a1f5cce3f596248a06b2994_wwt%20logo%203-p-800.png 800w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a1f5cce3f596248a06b2994_wwt%20logo%203.webp 1200w",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a1f5cce3f596248a06b2994_wwt%20logo%203.webp",
+        "loading": "lazy",
+        "class": "marquee_image wide"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a1f258fced45d84e2750563_Galois%20logo.webp",
+        "alt": "",
+        "class": "marquee_image wide"
+      },
+      {
+        "sizes": "(max-width: 479px) 48vw, (max-width: 2448px) 49vw, 1200px",
+        "srcset": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a1f5c796ffefc36351c2c04_ctc%20logo%20(1)-p-500.webp 500w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a1f5c796ffefc36351c2c04_ctc%20logo%20(1)-p-800.webp 800w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a1f5c796ffefc36351c2c04_ctc%20logo%20(1)-p-1080.webp 1080w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a1f5c796ffefc36351c2c04_ctc%20logo%20(1).webp 1200w",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a1f5c796ffefc36351c2c04_ctc%20logo%20(1).webp",
+        "loading": "lazy",
+        "class": "marquee_image wide"
+      },
+      {
+        "sizes": "(max-width: 479px) 48vw, (max-width: 2448px) 49vw, 1200px",
+        "srcset": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a1f2590060971ad0731a003_Intelligent%20waves%20logo-p-500.png 500w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a1f2590060971ad0731a003_Intelligent%20waves%20logo-p-800.png 800w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a1f2590060971ad0731a003_Intelligent%20waves%20logo.webp 1200w",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a1f2590060971ad0731a003_Intelligent%20waves%20logo.webp",
+        "loading": "lazy",
+        "class": "marquee_image wide"
+      },
+      {
+        "sizes": "(max-width: 479px) 48vw, (max-width: 2612px) 49vw, 1280px",
+        "srcset": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c3de007a640648d1a3_RAND_logo.svg-p-500.webp 500w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c3de007a640648d1a3_RAND_logo.svg-p-800.webp 800w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c3de007a640648d1a3_RAND_logo.svg-p-1080.webp 1080w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c3de007a640648d1a3_RAND_logo.svg.webp 1280w",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c3de007a640648d1a3_RAND_logo.svg.webp",
+        "loading": "lazy",
+        "class": "marquee_image wide opposite-side"
+      },
+      {
+        "sizes": "(max-width: 479px) 48vw, (max-width: 2448px) 49vw, 1200px",
+        "srcset": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a1f5cce3f596248a06b2994_wwt%20logo%203-p-500.png 500w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a1f5cce3f596248a06b2994_wwt%20logo%203-p-800.png 800w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a1f5cce3f596248a06b2994_wwt%20logo%203.webp 1200w",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a1f5cce3f596248a06b2994_wwt%20logo%203.webp",
+        "loading": "lazy",
+        "class": "marquee_image wide"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a1f258fced45d84e2750563_Galois%20logo.webp",
+        "alt": "",
+        "class": "marquee_image wide"
+      },
+      {
+        "sizes": "(max-width: 479px) 48vw, (max-width: 2448px) 49vw, 1200px",
+        "srcset": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a1f5c796ffefc36351c2c04_ctc%20logo%20(1)-p-500.webp 500w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a1f5c796ffefc36351c2c04_ctc%20logo%20(1)-p-800.webp 800w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a1f5c796ffefc36351c2c04_ctc%20logo%20(1)-p-1080.webp 1080w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a1f5c796ffefc36351c2c04_ctc%20logo%20(1).webp 1200w",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a1f5c796ffefc36351c2c04_ctc%20logo%20(1).webp",
+        "loading": "lazy",
+        "class": "marquee_image wide"
+      },
+      {
+        "sizes": "(max-width: 479px) 48vw, (max-width: 2448px) 49vw, 1200px",
+        "srcset": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a1f2590060971ad0731a003_Intelligent%20waves%20logo-p-500.png 500w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a1f2590060971ad0731a003_Intelligent%20waves%20logo-p-800.png 800w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a1f2590060971ad0731a003_Intelligent%20waves%20logo.webp 1200w",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a1f2590060971ad0731a003_Intelligent%20waves%20logo.webp",
+        "loading": "lazy",
+        "class": "marquee_image wide"
+      },
+      {
+        "sizes": "(max-width: 479px) 48vw, (max-width: 2612px) 49vw, 1280px",
+        "srcset": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c3de007a640648d1a3_RAND_logo.svg-p-500.webp 500w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c3de007a640648d1a3_RAND_logo.svg-p-800.webp 800w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c3de007a640648d1a3_RAND_logo.svg-p-1080.webp 1080w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c3de007a640648d1a3_RAND_logo.svg.webp 1280w",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c3de007a640648d1a3_RAND_logo.svg.webp",
+        "loading": "lazy",
+        "class": "marquee_image wide opposite-side"
+      },
+      {
+        "sizes": "(max-width: 479px) 48vw, (max-width: 991px) 49vw, (max-width: 4720px) 50vw, 2360px",
+        "srcset": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c3edec7d0a2a5ee7be_dcslogo_horiz_2360x1117-p-500.webp 500w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c3edec7d0a2a5ee7be_dcslogo_horiz_2360x1117-p-800.webp 800w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c3edec7d0a2a5ee7be_dcslogo_horiz_2360x1117-p-1080.webp 1080w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c3edec7d0a2a5ee7be_dcslogo_horiz_2360x1117-p-1600.webp 1600w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c3edec7d0a2a5ee7be_dcslogo_horiz_2360x1117.webp 2360w",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c3edec7d0a2a5ee7be_dcslogo_horiz_2360x1117.webp",
+        "loading": "lazy",
+        "class": "marquee_image wide opposite-side"
+      },
+      {
+        "sizes": "(max-width: 479px) 48vw, (max-width: 991px) 49vw, (max-width: 7680px) 50vw, 3840px",
+        "srcset": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037b429e7e9e1b3466d9a_Nvidia_logo.svg-p-500.png 500w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037b429e7e9e1b3466d9a_Nvidia_logo.svg-p-800.png 800w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037b429e7e9e1b3466d9a_Nvidia_logo.svg-p-1080.png 1080w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037b429e7e9e1b3466d9a_Nvidia_logo.svg-p-1600.png 1600w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037b429e7e9e1b3466d9a_Nvidia_logo.svg-p-2000.png 2000w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037b429e7e9e1b3466d9a_Nvidia_logo.svg-p-2600.png 2600w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037b429e7e9e1b3466d9a_Nvidia_logo.svg.webp 3840w",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037b429e7e9e1b3466d9a_Nvidia_logo.svg.webp",
+        "loading": "lazy",
+        "class": "marquee_image wide opposite-side"
+      },
+      {
+        "sizes": "(max-width: 479px) 48vw, (max-width: 2448px) 49vw, 1200px",
+        "srcset": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c8533005de5e41eb5f_trinity%20logo-p-500.webp 500w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c8533005de5e41eb5f_trinity%20logo-p-800.webp 800w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c8533005de5e41eb5f_trinity%20logo-p-1080.webp 1080w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c8533005de5e41eb5f_trinity%20logo.webp 1200w",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c8533005de5e41eb5f_trinity%20logo.webp",
+        "loading": "lazy",
+        "class": "marquee_image wide opposite-side"
+      },
+      {
+        "sizes": "(max-width: 479px) 48vw, (max-width: 2448px) 49vw, 1200px",
+        "srcset": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c9d5d3c443c9cadd41_red%20hat%20logo-p-500.webp 500w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c9d5d3c443c9cadd41_red%20hat%20logo-p-800.webp 800w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c9d5d3c443c9cadd41_red%20hat%20logo-p-1080.webp 1080w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c9d5d3c443c9cadd41_red%20hat%20logo.webp 1200w",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c9d5d3c443c9cadd41_red%20hat%20logo.webp",
+        "loading": "lazy",
+        "class": "marquee_image wide opposite-side"
+      },
+      {
+        "sizes": "(max-width: 479px) 48vw, 49vw",
+        "srcset": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c3e5c04741c769f628_Serco_logo.svg-p-500.png 500w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c3e5c04741c769f628_Serco_logo.svg.webp 960w",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c3e5c04741c769f628_Serco_logo.svg.webp",
+        "loading": "lazy",
+        "class": "marquee_image wide opposite-side"
+      },
+      {
+        "sizes": "(max-width: 479px) 48vw, (max-width: 2448px) 49vw, 1200px",
+        "srcset": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c981e7d0de27ff1c94_geocgi%20logo-p-500.png 500w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c981e7d0de27ff1c94_geocgi%20logo-p-800.webp 800w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c981e7d0de27ff1c94_geocgi%20logo-p-1080.webp 1080w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c981e7d0de27ff1c94_geocgi%20logo.webp 1200w",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c981e7d0de27ff1c94_geocgi%20logo.webp",
+        "loading": "lazy",
+        "class": "marquee_image wide opposite-side"
+      },
+      {
+        "sizes": "(max-width: 479px) 48vw, (max-width: 991px) 49vw, (max-width: 4720px) 50vw, 2360px",
+        "srcset": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c3edec7d0a2a5ee7be_dcslogo_horiz_2360x1117-p-500.webp 500w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c3edec7d0a2a5ee7be_dcslogo_horiz_2360x1117-p-800.webp 800w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c3edec7d0a2a5ee7be_dcslogo_horiz_2360x1117-p-1080.webp 1080w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c3edec7d0a2a5ee7be_dcslogo_horiz_2360x1117-p-1600.webp 1600w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c3edec7d0a2a5ee7be_dcslogo_horiz_2360x1117.webp 2360w",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c3edec7d0a2a5ee7be_dcslogo_horiz_2360x1117.webp",
+        "loading": "lazy",
+        "class": "marquee_image wide opposite-side"
+      },
+      {
+        "sizes": "(max-width: 479px) 48vw, (max-width: 991px) 49vw, (max-width: 7680px) 50vw, 3840px",
+        "srcset": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037b429e7e9e1b3466d9a_Nvidia_logo.svg-p-500.png 500w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037b429e7e9e1b3466d9a_Nvidia_logo.svg-p-800.png 800w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037b429e7e9e1b3466d9a_Nvidia_logo.svg-p-1080.png 1080w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037b429e7e9e1b3466d9a_Nvidia_logo.svg-p-1600.png 1600w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037b429e7e9e1b3466d9a_Nvidia_logo.svg-p-2000.png 2000w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037b429e7e9e1b3466d9a_Nvidia_logo.svg-p-2600.png 2600w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037b429e7e9e1b3466d9a_Nvidia_logo.svg.webp 3840w",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037b429e7e9e1b3466d9a_Nvidia_logo.svg.webp",
+        "loading": "lazy",
+        "class": "marquee_image wide opposite-side"
+      },
+      {
+        "sizes": "(max-width: 479px) 48vw, (max-width: 2448px) 49vw, 1200px",
+        "srcset": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c8533005de5e41eb5f_trinity%20logo-p-500.webp 500w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c8533005de5e41eb5f_trinity%20logo-p-800.webp 800w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c8533005de5e41eb5f_trinity%20logo-p-1080.webp 1080w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c8533005de5e41eb5f_trinity%20logo.webp 1200w",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c8533005de5e41eb5f_trinity%20logo.webp",
+        "loading": "lazy",
+        "class": "marquee_image wide opposite-side"
+      },
+      {
+        "sizes": "(max-width: 479px) 48vw, (max-width: 2448px) 49vw, 1200px",
+        "srcset": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c9d5d3c443c9cadd41_red%20hat%20logo-p-500.webp 500w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c9d5d3c443c9cadd41_red%20hat%20logo-p-800.webp 800w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c9d5d3c443c9cadd41_red%20hat%20logo-p-1080.webp 1080w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c9d5d3c443c9cadd41_red%20hat%20logo.webp 1200w",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c9d5d3c443c9cadd41_red%20hat%20logo.webp",
+        "loading": "lazy",
+        "class": "marquee_image wide opposite-side"
+      },
+      {
+        "sizes": "(max-width: 479px) 48vw, 49vw",
+        "srcset": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c3e5c04741c769f628_Serco_logo.svg-p-500.png 500w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c3e5c04741c769f628_Serco_logo.svg.webp 960w",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c3e5c04741c769f628_Serco_logo.svg.webp",
+        "loading": "lazy",
+        "class": "marquee_image wide opposite-side"
+      },
+      {
+        "sizes": "(max-width: 479px) 48vw, (max-width: 2448px) 49vw, 1200px",
+        "srcset": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c981e7d0de27ff1c94_geocgi%20logo-p-500.png 500w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c981e7d0de27ff1c94_geocgi%20logo-p-800.webp 800w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c981e7d0de27ff1c94_geocgi%20logo-p-1080.webp 1080w, https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c981e7d0de27ff1c94_geocgi%20logo.webp 1200w",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/6a2037c981e7d0de27ff1c94_geocgi%20logo.webp",
+        "loading": "lazy",
+        "class": "marquee_image wide opposite-side"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/67405ad6121b8bceac5fbf4e_small-logo.svg",
+        "loading": "lazy",
+        "width": "74",
+        "height": "56",
+        "alt": "",
+        "class": "h-impact_core-svg fit-contain"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/670e85dd28def467590a59aa/67405ad60443b7daf7be0747_footer-logo.svg",
+        "loading": "lazy",
+        "width": "170",
+        "height": "48",
+        "alt": "",
+        "class": "footer_logo fit-contain"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-210/769e16daf1f229b3.txt"
+  },
+  {
+    "id": "f9ddb7a9b7a912ed",
+    "name": "InComm Holdings, Inc.",
+    "requested_url": "https://www.incomm.com/",
+    "status": 202,
+    "final_url": "https://www.incomm.com/",
+    "text_chars": 79,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-210/f9ddb7a9b7a912ed.txt"
+  },
+  {
+    "id": "1807b1c395046f92",
+    "name": "Indivior",
+    "requested_url": "https://www.indivior.com/",
+    "status": 200,
+    "final_url": "https://www.indivior.com/",
+    "text_chars": 88,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-210/1807b1c395046f92.txt"
+  },
+  {
+    "id": "c7dbbdf9f7e2b2ab",
+    "name": "Inficon",
+    "requested_url": "https://www.inficon.com/",
+    "status": 200,
+    "final_url": "https://www.inficon.com/",
+    "text_chars": 111,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-210/c7dbbdf9f7e2b2ab.txt"
+  },
+  {
+    "id": "839708da2141d0dd",
+    "name": "Infleqtion Quantum, LLC (formerly Known AS Coldquanta DBA Infleqtion)",
+    "requested_url": "https://infleqtion.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "967ba285b9bb97b9",
+    "name": "Injective, LLC",
+    "requested_url": "https://injective.com/",
+    "status": 200,
+    "final_url": "https://injective.com/",
+    "text_chars": 9605,
+    "logo_candidates": [
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/binance_acf26a9422.svg",
+        "alt": "binance.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/coinbase_07ae65c5f7.svg",
+        "alt": "coinbase.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/circle_c9c7ac167a.svg",
+        "alt": "circle.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/securitize_ed7d24678b.svg",
+        "alt": "securitize.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/chainlink_2ee1f9d361.svg",
+        "alt": "chainlink.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/brevan_howard_6f320ed20a.svg",
+        "alt": "brevan-howard.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/binance_acf26a9422.svg",
+        "alt": "binance.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/coinbase_07ae65c5f7.svg",
+        "alt": "coinbase.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/circle_c9c7ac167a.svg",
+        "alt": "circle.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/securitize_ed7d24678b.svg",
+        "alt": "securitize.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/chainlink_2ee1f9d361.svg",
+        "alt": "chainlink.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/brevan_howard_6f320ed20a.svg",
+        "alt": "brevan-howard.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/binance_acf26a9422.svg",
+        "alt": "binance.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/coinbase_07ae65c5f7.svg",
+        "alt": "coinbase.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/circle_c9c7ac167a.svg",
+        "alt": "circle.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/securitize_ed7d24678b.svg",
+        "alt": "securitize.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/chainlink_2ee1f9d361.svg",
+        "alt": "chainlink.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/brevan_howard_6f320ed20a.svg",
+        "alt": "brevan-howard.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/binance_acf26a9422.svg",
+        "alt": "binance.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/coinbase_07ae65c5f7.svg",
+        "alt": "coinbase.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/circle_c9c7ac167a.svg",
+        "alt": "circle.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/securitize_ed7d24678b.svg",
+        "alt": "securitize.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/chainlink_2ee1f9d361.svg",
+        "alt": "chainlink.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/brevan_howard_6f320ed20a.svg",
+        "alt": "brevan-howard.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/google_f12d25fc37.svg",
+        "alt": "google.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/galaxy_7bf0c8e284.svg",
+        "alt": "galaxy.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/revolut_7b1b440e26.svg",
+        "alt": "revolut.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/bitgo_5406df3db2.svg",
+        "alt": "bitgo.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/fireblocks_b339fce307.svg",
+        "alt": "fireblocks.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/lg_7cff763b82.svg",
+        "alt": "lg.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/kraken_3747e37a4e.svg",
+        "alt": "kraken.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/google_f12d25fc37.svg",
+        "alt": "google.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/galaxy_7bf0c8e284.svg",
+        "alt": "galaxy.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/revolut_7b1b440e26.svg",
+        "alt": "revolut.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/bitgo_5406df3db2.svg",
+        "alt": "bitgo.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/fireblocks_b339fce307.svg",
+        "alt": "fireblocks.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/lg_7cff763b82.svg",
+        "alt": "lg.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/kraken_3747e37a4e.svg",
+        "alt": "kraken.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/google_f12d25fc37.svg",
+        "alt": "google.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/galaxy_7bf0c8e284.svg",
+        "alt": "galaxy.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/revolut_7b1b440e26.svg",
+        "alt": "revolut.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/bitgo_5406df3db2.svg",
+        "alt": "bitgo.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/fireblocks_b339fce307.svg",
+        "alt": "fireblocks.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/lg_7cff763b82.svg",
+        "alt": "lg.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/kraken_3747e37a4e.svg",
+        "alt": "kraken.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/google_f12d25fc37.svg",
+        "alt": "google.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/galaxy_7bf0c8e284.svg",
+        "alt": "galaxy.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/revolut_7b1b440e26.svg",
+        "alt": "revolut.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/bitgo_5406df3db2.svg",
+        "alt": "bitgo.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/fireblocks_b339fce307.svg",
+        "alt": "fireblocks.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/lg_7cff763b82.svg",
+        "alt": "lg.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "src": "https://willing-flame-a009dd7c0a.media.strapiapp.com/kraken_3747e37a4e.svg",
+        "alt": "kraken.svg",
+        "class": "mr-16 md:mr-44 logo-item",
+        "data-v-ec764d48": null
+      },
+      {
+        "alt": "Bitgo",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-01.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Ondo",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-02.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Yahoo",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-03.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Apple",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-04.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Tesla",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-05.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Nvidia",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-06.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Microsoft",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-07.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Amazon",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-08.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "X",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-09.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Anthropic",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-10.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "OpenAI",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-11.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Robinhood",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-12.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Stripe",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-13.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Google",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-14.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Meta",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-15.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Starbucks",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-16.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Nike",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-17.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Coinbase",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-18.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "BlackRock",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-19.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Invesco",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-20.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Berkshire Hathaway",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-21.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Mastercard",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-22.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Bitcoin",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-23.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Ethereum",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-24.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Chainlink",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-25.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Bitgo",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-01.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Ondo",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-02.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Yahoo",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-03.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Apple",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-04.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Tesla",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-05.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Nvidia",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-06.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Microsoft",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-07.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Amazon",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-08.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "X",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-09.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Anthropic",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-10.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "OpenAI",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-11.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Robinhood",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-12.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Stripe",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-13.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Google",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-14.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Meta",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-15.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Starbucks",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-16.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Nike",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-17.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Coinbase",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-18.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "BlackRock",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-19.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Invesco",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-20.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Berkshire Hathaway",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-21.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Mastercard",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-22.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Bitcoin",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-23.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Ethereum",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-24.svg",
+        "data-v-8ce349d2": null
+      },
+      {
+        "alt": "Chainlink",
+        "class": "block h-full w-full",
+        "loading": "lazy",
+        "src": "/home/numbers/assets/logo-cell-25.svg",
+        "data-v-8ce349d2": null
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-210/967ba285b9bb97b9.txt"
+  },
+  {
+    "id": "4d435421e0f0bf36",
+    "name": "Inland Group",
+    "requested_url": "https://inlandconstruction.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+  },
+  {
+    "id": "0752da14daf1eff1",
+    "name": "Innergex Renewable Development USA, LLC",
+    "requested_url": "https://www.innergex.com/",
+    "status": 200,
+    "final_url": "https://www.innergex.com/fr",
+    "text_chars": 2049,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-210/0752da14daf1eff1.txt"
+  },
+  {
+    "id": "dc67482939c62489",
+    "name": "Innovas Indiana LLC",
+    "requested_url": "https://innovas.io/",
+    "error": "'NoneType' object has no attribute 'lower'"
+  },
+  {
+    "id": "d1b08fe2cf04c534",
+    "name": "Integra Technologies",
+    "requested_url": "https://www.integra-tech.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "55550229beb49627",
+    "name": "Inter Global Legal",
+    "requested_url": "https://intergloballegal.com/en/home/",
+    "status": 202,
+    "final_url": "https://intergloballegal.com/en/home/",
+    "text_chars": 90,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-210/55550229beb49627.txt"
+  },
+  {
+    "id": "e431fc6edb79ae00",
+    "name": "Intercontinentalexchange",
+    "requested_url": "https://www.ice.com/",
+    "status": 200,
+    "final_url": "https://www.ice.com/index",
+    "text_chars": 2539,
+    "logo_candidates": [
+      {
+        "class": "relative z-[1] aspect-[3/2] object-cover",
+        "src": "https://www.ice.com/publicdocs/images/ICE-homepage-exchanges-01.jpg",
+        "alt": "https://www.ice.com/publicdocs/images/ICE-homepage-exchanges-01.jpg"
+      },
+      {
+        "src": "https://www.ice.com/publicdocs/images/ICE-homepage-exchanges-02.jpg",
+        "alt": "https://www.ice.com/publicdocs/images/ICE-homepage-exchanges-02.jpg",
+        "class": "aspect-[5/3] object-cover"
+      },
+      {
+        "src": "https://www.ice.com/publicdocs/images/ICE-homepage-exchanges-03.jpg",
+        "alt": "https://www.ice.com/publicdocs/images/ICE-homepage-exchanges-03.jpg",
+        "class": "aspect-[4/3] object-cover"
+      },
+      {
+        "src": "https://www.ice.com/publicdocs/images/ICE-homepage-exchanges-04.jpg",
+        "alt": "https://www.ice.com/publicdocs/images/ICE-homepage-exchanges-04.jpg",
+        "class": "aspect-[4/3] object-cover"
+      },
+      {
+        "class": "relative z-[1] aspect-[3/2] object-cover",
+        "src": "https://www.ice.com/publicdocs/images/ICE-homepage-fixed-income-01.jpg",
+        "alt": "https://www.ice.com/publicdocs/images/ICE-homepage-fixed-income-01.jpg"
+      },
+      {
+        "src": "https://www.ice.com/publicdocs/images/ICE-homepage-fixed-income-02.jpg",
+        "alt": "https://www.ice.com/publicdocs/images/ICE-homepage-fixed-income-02.jpg",
+        "class": "aspect-[5/3] object-cover"
+      },
+      {
+        "src": "https://www.ice.com/publicdocs/images/ICE-homepage-fixed-income-03.jpg",
+        "alt": "https://www.ice.com/publicdocs/images/ICE-homepage-fixed-income-03.jpg",
+        "class": "aspect-[4/3] object-cover"
+      },
+      {
+        "class": "relative z-[1] aspect-[3/2] object-cover",
+        "src": "https://www.ice.com/publicdocs/images/ICE-homepage-mortgage-tech-01.jpg",
+        "alt": "https://www.ice.com/publicdocs/images/ICE-homepage-mortgage-tech-01.jpg"
+      },
+      {
+        "src": "https://www.ice.com/publicdocs/images/ICE-homepage-mortgage-tech-02.jpg",
+        "alt": "https://www.ice.com/publicdocs/images/ICE-homepage-mortgage-tech-02.jpg",
+        "class": "aspect-[5/3] object-cover"
+      },
+      {
+        "src": "https://www.ice.com/publicdocs/images/ICE-homepage-mortgage-tech-03.jpg",
+        "alt": "https://www.ice.com/publicdocs/images/ICE-homepage-mortgage-tech-03.jpg",
+        "class": "aspect-[4/3] object-cover"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-210/e431fc6edb79ae00.txt"
+  },
+  {
+    "id": "812deb2aa56e85b5",
+    "name": "International Fresh Produce Association (fka United Fresh Produce Association)",
+    "requested_url": "https://www.freshproduce.com/",
+    "status": 200,
+    "final_url": "https://www.freshproduce.com/",
+    "text_chars": 4386,
+    "logo_candidates": [
+      {
+        "src": "/siteassets/images/icons/logos/ifpa-full-logo-white.svg",
+        "alt": "International Fresh Produce Association's Full Brand Logo",
+        "loading": "lazy"
+      },
+      {
+        "src": "/siteassets/images/icons/social-networks/mint_logo-facebook.svg",
+        "alt": "Facebook logo",
+        "loading": "lazy"
+      },
+      {
+        "src": "/siteassets/images/icons/social-networks/mint_logo-twitter-x.svg",
+        "alt": "Twitter logo",
+        "loading": "lazy"
+      },
+      {
+        "src": "/siteassets/images/icons/social-networks/mint_logo-linkedin.svg",
+        "alt": "LinkedIn logo",
+        "loading": "lazy"
+      },
+      {
+        "src": "/siteassets/images/icons/social-networks/mint_logo-instagram.svg",
+        "alt": "Instagram logo",
+        "loading": "lazy"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-210/812deb2aa56e85b5.txt"
+  },
+  {
+    "id": "ce34d166730e08d8",
+    "name": "Internet Works Association",
+    "requested_url": "https://theinternet.works/",
+    "status": 200,
+    "final_url": "https://theinternet.works/",
+    "text_chars": 3087,
+    "logo_candidates": [
+      {
+        "src": "https://theinternet.works/wp-content/themes/internetworks/images/logo.svg"
+      },
+      {
+        "decoding": "async",
+        "src": "https://theinternet.works/wp-content/uploads/2025/08/automattic.png",
+        "alt": "automattic",
+        "class": "logos-marquee-image"
+      },
+      {
+        "decoding": "async",
+        "src": "https://theinternet.works/wp-content/uploads/2025/12/Cantina-Logo-Teal-576x576.png",
+        "alt": "Cantina-Logo-Teal",
+        "class": "logos-marquee-image"
+      },
+      {
+        "decoding": "async",
+        "src": "https://theinternet.works/wp-content/uploads/2025/08/discord-logo.png",
+        "alt": "discord-logo",
+        "class": "logos-marquee-image"
+      },
+      {
+        "decoding": "async",
+        "src": "https://theinternet.works/wp-content/uploads/2025/08/dropbox.png",
+        "alt": "dropbox",
+        "class": "logos-marquee-image"
+      },
+      {
+        "decoding": "async",
+        "src": "https://theinternet.works/wp-content/uploads/2025/08/ebay.png",
+        "alt": "ebay",
+        "class": "logos-marquee-image"
+      },
+      {
+        "decoding": "async",
+        "src": "https://theinternet.works/wp-content/uploads/2026/04/Epic_Games_logo.svg_-496x576.png",
+        "alt": "Epic_Games_logo.svg",
+        "class": "logos-marquee-image"
+      },
+      {
+        "decoding": "async",
+        "src": "https://theinternet.works/wp-content/uploads/2025/08/etsy.png",
+        "alt": "etsy",
+        "class": "logos-marquee-image"
+      },
+      {
+        "decoding": "async",
+        "src": "https://theinternet.works/wp-content/uploads/2025/08/Expedia-1.png",
+        "alt": "Expedia-1",
+        "class": "logos-marquee-image"
+      },
+      {
+        "decoding": "async",
+        "src": "https://theinternet.works/wp-content/uploads/2026/01/66a3f743c2b81576e1086ed4_flickr-horz-logo.png",
+        "alt": "66a3f743c2b81576e1086ed4_flickr horz logo",
+        "class": "logos-marquee-image"
+      },
+      {
+        "decoding": "async",
+        "src": "https://theinternet.works/wp-content/uploads/2025/10/gitlab-logo-150-cmyk-scaled-e1760724912813-960x307.jpg",
+        "alt": "gitlab-logo-150-cmyk",
+        "class": "logos-marquee-image"
+      },
+      {
+        "decoding": "async",
+        "src": "https://theinternet.works/wp-content/uploads/2025/11/fb82f173a1513e80376ca73967169cfaffa08b5c.png",
+        "alt": "fb82f173a1513e80376ca73967169cfaffa08b5c",
+        "class": "logos-marquee-image"
+      },
+      {
+        "decoding": "async",
+        "src": "https://theinternet.works/wp-content/uploads/2025/08/indeed-logo.png",
+        "alt": "indeed-logo",
+        "class": "logos-marquee-image"
+      },
+      {
+        "decoding": "async",
+        "src": "https://theinternet.works/wp-content/uploads/2025/08/Intuit-Logo-960x540.jpg",
+        "alt": "Intuit-Logo",
+        "class": "logos-marquee-image"
+      },
+      {
+        "decoding": "async",
+        "src": "https://theinternet.works/wp-content/uploads/2025/08/Mozilla-Logo-New-1-1-scaled-1-960x540.png",
+        "alt": "Mozilla-Logo-New-1-1-scaled",
+        "class": "logos-marquee-image"
+      },
+      {
+        "decoding": "async",
+        "src": "https://theinternet.works/wp-content/uploads/2025/08/nextdoor.png",
+        "alt": "nextdoor",
+        "class": "logos-marquee-image"
+      },
+      {
+        "decoding": "async",
+        "src": "https://theinternet.works/wp-content/uploads/2025/08/PATREON_WORDMARK_1_BLACK_RGB-960x326-1.png",
+        "alt": "PATREON_WORDMARK_1_BLACK_RGB-960x326",
+        "class": "logos-marquee-image"
+      },
+      {
+        "decoding": "async",
+        "src": "https://theinternet.works/wp-content/uploads/2025/08/pinterest-e1606161861164.png",
+        "alt": "pinterest-e1606161861164",
+        "class": "logos-marquee-image"
+      },
+      {
+        "decoding": "async",
+        "src": "https://theinternet.works/wp-content/uploads/2025/08/reddit-e1606161902746.png",
+        "alt": "reddit-e1606161902746",
+        "class": "logos-marquee-image"
+      },
+      {
+        "decoding": "async",
+        "src": "https://theinternet.works/wp-content/uploads/2025/08/roblox-logo.png",
+        "alt": "roblox logo",
+        "class": "logos-marquee-image"
+      },
+      {
+        "decoding": "async",
+        "src": "https://theinternet.works/wp-content/uploads/2025/08/sabre-logo.jpg",
+        "alt": "sabre logo",
+        "class": "logos-marquee-image"
+      },
+      {
+        "decoding": "async",
+        "src": "https://theinternet.works/wp-content/uploads/2025/08/scribed-logo.png",
+        "alt": "scribed-logo",
+        "class": "logos-marquee-image"
+      },
+      {
+        "decoding": "async",
+        "src": "https://theinternet.works/wp-content/uploads/2026/04/Skyscanner_Logo_LockupHorizontal_SkyBlue_RGB.svg_-960x174.png",
+        "alt": "Skyscanner_Logo_LockupHorizontal_SkyBlue_RGB.svg",
+        "class": "logos-marquee-image"
+      },
+      {
+        "decoding": "async",
+        "src": "https://theinternet.works/wp-content/uploads/2025/10/Strava-Wordmark-Orange-RGB@2x-100.jpg",
+        "alt": "Strava Wordmark Orange RGB@2x-100",
+        "class": "logos-marquee-image"
+      },
+      {
+        "decoding": "async",
+        "src": "https://theinternet.works/wp-content/uploads/2026/01/StubHub_Logo.svg_-960x440.png",
+        "alt": "StubHub_Logo.svg",
+        "class": "logos-marquee-image"
+      },
+      {
+        "decoding": "async",
+        "src": "https://theinternet.works/wp-content/uploads/2025/08/tripadvisor-e1606161928233.png",
+        "alt": "tripadvisor-e1606161928233",
+        "class": "logos-marquee-image"
+      },
+      {
+        "decoding": "async",
+        "src": "https://theinternet.works/wp-content/uploads/2025/08/Trustpilot_Logo_2022.svg_-960x236-1.webp",
+        "alt": "Trustpilot_Logo_2022.svg_-960x236",
+        "class": "logos-marquee-image"
+      },
+      {
+        "decoding": "async",
+        "src": "https://theinternet.works/wp-content/uploads/2025/10/Full_V1-960x186.png",
+        "alt": "Full_V1",
+        "class": "logos-marquee-image"
+      },
+      {
+        "decoding": "async",
+        "src": "https://theinternet.works/wp-content/uploads/2025/08/Yahoo.png",
+        "alt": "Yahoo",
+        "class": "logos-marquee-image"
+      },
+      {
+        "decoding": "async",
+        "src": "https://theinternet.works/wp-content/uploads/2025/08/vimeo-e1606161944762.png",
+        "alt": "vimeo-e1606161944762",
+        "class": "logos-marquee-image"
+      },
+      {
+        "decoding": "async",
+        "src": "https://theinternet.works/wp-content/uploads/2025/08/yelp_logo_iw.png",
+        "alt": "yelp_logo_iw",
+        "class": "logos-marquee-image"
+      },
+      {
+        "class": "brand-logo",
+        "src": "https://theinternet.works/wp-content/themes/internetworks/images/logo.svg"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-210/ce34d166730e08d8.txt"
+  },
+  {
+    "id": "ea3b5c3cce16aab7",
+    "name": "Intersystems",
+    "requested_url": "https://www.intersystems.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "b958097c451151e1",
+    "name": "Intralot",
+    "requested_url": "https://www.intralot.com/",
+    "status": 200,
+    "final_url": "https://www.intralot.com/",
+    "text_chars": 3525,
+    "logo_candidates": [
+      {
+        "src": "/Content/Media/logo_intralot.svg"
+      },
+      {
+        "src": "/files/home_slider_orion_shortlisted_logo4.jpg"
+      },
+      {
+        "src": "/Content/Media/logo_intralot_inverted.svg"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-210/b958097c451151e1.txt"
+  },
+  {
+    "id": "38ea4d47e338f109",
+    "name": "Invacare America",
+    "requested_url": "https://www.invacare.com/",
+    "status": 200,
+    "final_url": "https://www.invacare.com/",
+    "text_chars": 1695,
+    "logo_candidates": [
+      {
+        "width": "500",
+        "height": "237",
+        "src": "https://www.invacare.com/storage/2025/04/logo-invacare-1.png",
+        "class": "attachment-large size-large wp-image-153",
+        "alt": "Invacare Logo",
+        "srcset": "https://www.invacare.com/storage/2025/04/logo-invacare-1.png 500w, https://www.invacare.com/storage/2025/04/logo-invacare-1-300x142.png 300w",
+        "sizes": "(max-width: 500px) 100vw, 500px"
+      },
+      {
+        "width": "500",
+        "height": "237",
+        "src": "https://www.invacare.com/storage/2025/06/logo-invacare.png",
+        "class": "attachment-full size-full wp-image-2299",
+        "alt": "",
+        "srcset": "https://www.invacare.com/storage/2025/06/logo-invacare.png 500w, https://www.invacare.com/storage/2025/06/logo-invacare-300x142.png 300w",
+        "sizes": "(max-width: 500px) 100vw, 500px"
+      },
+      {
+        "width": "500",
+        "height": "237",
+        "src": "https://www.invacare.com/storage/2025/06/logo-invacare.png",
+        "class": "attachment-full size-full wp-image-2299",
+        "alt": "",
+        "srcset": "https://www.invacare.com/storage/2025/06/logo-invacare.png 500w, https://www.invacare.com/storage/2025/06/logo-invacare-300x142.png 300w",
+        "sizes": "(max-width: 500px) 100vw, 500px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-210/38ea4d47e338f109.txt"
+  },
+  {
+    "id": "8cecfee77504b1c3",
+    "name": "Invenergy Wind, LLC",
+    "requested_url": "https://invenergy.com/",
+    "status": 200,
+    "final_url": "https://invenergy.com/",
+    "text_chars": 4052,
+    "logo_candidates": [
+      {
+        "alt": "Homepage_We_Are_Section_Photo.jpg",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-nimg": "fill",
+        "style": "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:cover;object-position:right;color:transparent",
+        "sizes": "100vw",
+        "srcset": "https://images.contentstack.io/v3/assets/blt73251bb1f13bbb9d/bltb2905b020538c956/68b0856c7119eab136db2eb8/Homepage_We_Are_Section_Photo.jpg?branch=remake&width=640&quality=75&auto=webp 640w, https://images.contentstack.io/v3/assets/blt73251bb1f13bbb9d/bltb2905b020538c956/68b0856c7119eab136db2eb8/Homepage_We_Are_Section_Photo.jpg?branch=remake&width=750&quality=75&auto=webp 750w, https://images.contentstack.io/v3/assets/blt73251bb1f13bbb9d/bltb2905b020538c956/68b0856c7119eab136db2eb8/Homepage_We_Are_Section_Photo.jpg?branch=remake&width=828&quality=75&auto=webp 828w, https://images.contentstack.io/v3/assets/blt73251bb1f13bbb9d/bltb2905b020538c956/68b0856c7119eab136db2eb8/Homepage_We_Are_Section_Photo.jpg?branch=remake&width=1080&quality=75&auto=webp 1080w, https://images.contentstack.io/v3/assets/blt73251bb1f13bbb9d/bltb2905b020538c956/68b0856c7119eab136db2eb8/Homepage_We_Are_Section_Photo.jpg?branch=remake&width=1200&quality=75&auto=webp 1200w, https://images.contentstack.io/v3/assets/blt73251bb1f13bbb9d/bltb2905b020538c956/68b0856c7119eab136db2eb8/Homepage_We_Are_Section_Photo.jpg?branch=remake&width=1920&quality=75&auto=webp 1920w, https://images.contentstack.io/v3/assets/blt73251bb1f13bbb9d/bltb2905b020538c956/68b0856c7119eab136db2eb8/Homepage_We_Are_Section_Photo.jpg?branch=remake&width=2048&quality=75&auto=webp 2048w, https://images.contentstack.io/v3/assets/blt73251bb1f13bbb9d/bltb2905b020538c956/68b0856c7119eab136db2eb8/Homepage_We_Are_Section_Photo.jpg?branch=remake&width=3840&quality=75&auto=webp 3840w",
+        "src": "https://images.contentstack.io/v3/assets/blt73251bb1f13bbb9d/bltb2905b020538c956/68b0856c7119eab136db2eb8/Homepage_We_Are_Section_Photo.jpg?branch=remake&width=3840&quality=75&auto=webp"
+      },
+      {
+        "alt": "Homepage_CleanEnergy_Solar@2x.png",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-nimg": "fill",
+        "style": "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:cover;object-position:right;color:transparent",
+        "sizes": "100vw",
+        "srcset": "https://images.contentstack.io/v3/assets/blt73251bb1f13bbb9d/blt4ed90065487b3d7a/6479d6851e093d6dd533a14b/Homepage_CleanEnergy_Solar@2x.png?branch=remake&width=640&quality=75&auto=webp 640w, https://images.contentstack.io/v3/assets/blt73251bb1f13bbb9d/blt4ed90065487b3d7a/6479d6851e093d6dd533a14b/Homepage_CleanEnergy_Solar@2x.png?branch=remake&width=750&quality=75&auto=webp 750w, https://images.contentstack.io/v3/assets/blt73251bb1f13bbb9d/blt4ed90065487b3d7a/6479d6851e093d6dd533a14b/Homepage_CleanEnergy_Solar@2x.png?branch=remake&width=828&quality=75&auto=webp 828w, https://images.contentstack.io/v3/assets/blt73251bb1f13bbb9d/blt4ed90065487b3d7a/6479d6851e093d6dd533a14b/Homepage_CleanEnergy_Solar@2x.png?branch=remake&width=1080&quality=75&auto=webp 1080w, https://images.contentstack.io/v3/assets/blt73251bb1f13bbb9d/blt4ed90065487b3d7a/6479d6851e093d6dd533a14b/Homepage_CleanEnergy_Solar@2x.png?branch=remake&width=1200&quality=75&auto=webp 1200w, https://images.contentstack.io/v3/assets/blt73251bb1f13bbb9d/blt4ed90065487b3d7a/6479d6851e093d6dd533a14b/Homepage_CleanEnergy_Solar@2x.png?branch=remake&width=1920&quality=75&auto=webp 1920w, https://images.contentstack.io/v3/assets/blt73251bb1f13bbb9d/blt4ed90065487b3d7a/6479d6851e093d6dd533a14b/Homepage_CleanEnergy_Solar@2x.png?branch=remake&width=2048&quality=75&auto=webp 2048w, https://images.contentstack.io/v3/assets/blt73251bb1f13bbb9d/blt4ed90065487b3d7a/6479d6851e093d6dd533a14b/Homepage_CleanEnergy_Solar@2x.png?branch=remake&width=3840&quality=75&auto=webp 3840w",
+        "src": "https://images.contentstack.io/v3/assets/blt73251bb1f13bbb9d/blt4ed90065487b3d7a/6479d6851e093d6dd533a14b/Homepage_CleanEnergy_Solar@2x.png?branch=remake&width=3840&quality=75&auto=webp"
+      },
+      {
+        "alt": "Homepage_CleanEnergy_Storage@2x.png",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-nimg": "fill",
+        "style": "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:cover;object-position:right;color:transparent",
+        "sizes": "100vw",
+        "srcset": "https://images.contentstack.io/v3/assets/blt73251bb1f13bbb9d/blt08653eafeea0911d/6479d685410d7f2e59492ff4/Homepage_CleanEnergy_Storage@2x.png?branch=remake&width=640&quality=75&auto=webp 640w, https://images.contentstack.io/v3/assets/blt73251bb1f13bbb9d/blt08653eafeea0911d/6479d685410d7f2e59492ff4/Homepage_CleanEnergy_Storage@2x.png?branch=remake&width=750&quality=75&auto=webp 750w, https://images.contentstack.io/v3/assets/blt73251bb1f13bbb9d/blt08653eafeea0911d/6479d685410d7f2e59492ff4/Homepage_CleanEnergy_Storage@2x.png?branch=remake&width=828&quality=75&auto=webp 828w, https://images.contentstack.io/v3/assets/blt73251bb1f13bbb9d/blt08653eafeea0911d/6479d685410d7f2e59492ff4/Homepage_CleanEnergy_Storage@2x.png?branch=remake&width=1080&quality=75&auto=webp 1080w, https://images.contentstack.io/v3/assets/blt73251bb1f13bbb9d/blt08653eafeea0911d/6479d685410d7f2e59492ff4/Homepage_CleanEnergy_Storage@2x.png?branch=remake&width=1200&quality=75&auto=webp 1200w, https://images.contentstack.io/v3/assets/blt73251bb1f13bbb9d/blt08653eafeea0911d/6479d685410d7f2e59492ff4/Homepage_CleanEnergy_Storage@2x.png?branch=remake&width=1920&quality=75&auto=webp 1920w, https://images.contentstack.io/v3/assets/blt73251bb1f13bbb9d/blt08653eafeea0911d/6479d685410d7f2e59492ff4/Homepage_CleanEnergy_Storage@2x.png?branch=remake&width=2048&quality=75&auto=webp 2048w, https://images.contentstack.io/v3/assets/blt73251bb1f13bbb9d/blt08653eafeea0911d/6479d685410d7f2e59492ff4/Homepage_CleanEnergy_Storage@2x.png?branch=remake&width=3840&quality=75&auto=webp 3840w",
+        "src": "https://images.contentstack.io/v3/assets/blt73251bb1f13bbb9d/blt08653eafeea0911d/6479d685410d7f2e59492ff4/Homepage_CleanEnergy_Storage@2x.png?branch=remake&width=3840&quality=75&auto=webp"
+      },
+      {
+        "alt": "OPTION_TWO_Homepage_Careers_Section.jpg",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-nimg": "fill",
+        "style": "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;object-position:right;color:transparent",
+        "sizes": "100vw",
+        "srcset": "https://images.contentstack.io/v3/assets/blt73251bb1f13bbb9d/bltc9680948c032dea3/68b085c3a312d33b65d5d379/OPTION_TWO_Homepage_Careers_Section.jpg?branch=remake&width=640&quality=75&auto=webp 640w, https://images.contentstack.io/v3/assets/blt73251bb1f13bbb9d/bltc9680948c032dea3/68b085c3a312d33b65d5d379/OPTION_TWO_Homepage_Careers_Section.jpg?branch=remake&width=750&quality=75&auto=webp 750w, https://images.contentstack.io/v3/assets/blt73251bb1f13bbb9d/bltc9680948c032dea3/68b085c3a312d33b65d5d379/OPTION_TWO_Homepage_Careers_Section.jpg?branch=remake&width=828&quality=75&auto=webp 828w, https://images.contentstack.io/v3/assets/blt73251bb1f13bbb9d/bltc9680948c032dea3/68b085c3a312d33b65d5d379/OPTION_TWO_Homepage_Careers_Section.jpg?branch=remake&width=1080&quality=75&auto=webp 1080w, https://images.contentstack.io/v3/assets/blt73251bb1f13bbb9d/bltc9680948c032dea3/68b085c3a312d33b65d5d379/OPTION_TWO_Homepage_Careers_Section.jpg?branch=remake&width=1200&quality=75&auto=webp 1200w, https://images.contentstack.io/v3/assets/blt73251bb1f13bbb9d/bltc9680948c032dea3/68b085c3a312d33b65d5d379/OPTION_TWO_Homepage_Careers_Section.jpg?branch=remake&width=1920&quality=75&auto=webp 1920w, https://images.contentstack.io/v3/assets/blt73251bb1f13bbb9d/bltc9680948c032dea3/68b085c3a312d33b65d5d379/OPTION_TWO_Homepage_Careers_Section.jpg?branch=remake&width=2048&quality=75&auto=webp 2048w, https://images.contentstack.io/v3/assets/blt73251bb1f13bbb9d/bltc9680948c032dea3/68b085c3a312d33b65d5d379/OPTION_TWO_Homepage_Careers_Section.jpg?branch=remake&width=3840&quality=75&auto=webp 3840w",
+        "src": "https://images.contentstack.io/v3/assets/blt73251bb1f13bbb9d/bltc9680948c032dea3/68b085c3a312d33b65d5d379/OPTION_TWO_Homepage_Careers_Section.jpg?branch=remake&width=3840&quality=75&auto=webp"
+      },
+      {
+        "class": "chakra-image css-1phd9a0",
+        "src": "https://images.contentstack.io/v3/assets/blt73251bb1f13bbb9d/blt99a289ad764f5e56/681cfdb8a6dd34788522a5c9/Energize_Capital_Logo_white[61].png?branch=remake",
+        "alt": "Energize Capital"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-210/8cecfee77504b1c3.txt"
+  },
+  {
+    "id": "9660bd22c2f37e78",
+    "name": "Ionq Federal, Inc.",
+    "requested_url": "https://ionq.com/",
+    "status": 200,
+    "final_url": "https://www.ionq.com/",
+    "text_chars": 9987,
+    "logo_candidates": [
+      {
+        "src": "https://cdn.prod.website-files.com/68836cf9cff21bf9efa61419/68e44d43009106efa60f5a85_amazon_web_services_logo.svg.svg",
+        "loading": "lazy",
+        "alt": "",
+        "class": "contain-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/68836cf9cff21bf9efa61419/68e44d4386d451d3d622f52f_Google_Cloud_logo%201.svg",
+        "loading": "lazy",
+        "alt": "Google Cloud",
+        "class": "contain-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/68836cf9cff21bf9efa61419/68f7e72f4140ce90a5091d9e_2023%20Fast%20Company_Next%20Big%20Things%20In%20Tech%20-%20Standard%20Logo%201.avif",
+        "loading": "lazy",
+        "alt": "2023 Fast Company Award",
+        "class": "contain-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/68836cf9cff21bf9efa61419/68d5c880925ae014ff5984d5_Group%20(1).svg",
+        "loading": "lazy",
+        "alt": "IONQ Logo",
+        "class": "footer-logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-210/9660bd22c2f37e78.txt"
+  },
+  {
+    "id": "1fb0d06b53322a64",
+    "name": "Iperionx Critical Minerals LLC",
+    "requested_url": "https://iperionx.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "eac023a13a9d904b",
+    "name": "ITG Brands, LLC (formerly Fontem US, Inc.)",
+    "requested_url": "https://www.itgbrands.com/",
+    "status": 200,
+    "final_url": "https://www.itgbrands.com/",
+    "text_chars": 3549,
+    "logo_candidates": [
+      {
+        "src": "https://www.itgbrands.com/wp-content/themes/cesis_child_theme/images/ITG-Logo.png",
+        "alt": "ITG Brands, LLC",
+        "width": "140",
+        "height": "auto"
+      },
+      {
+        "src": "https://www.itgbrands.com/wp-content/themes/cesis_child_theme/images/ITG-Logo.png",
+        "alt": "ITG Brands, LLC",
+        "width": "132",
+        "height": "45"
+      },
+      {
+        "decoding": "async",
+        "class": "",
+        "src": "https://www.itgbrands.com/wp-content/blogs.dir/155/files/2019/10/logos_winston.png",
+        "width": "175",
+        "height": "120",
+        "alt": "Winston",
+        "title": "Winston",
+        "loading": "lazy"
+      },
+      {
+        "decoding": "async",
+        "class": "",
+        "src": "https://www.itgbrands.com/wp-content/blogs.dir/155/files/2019/10/logos_kool.png",
+        "width": "175",
+        "height": "120",
+        "alt": "Kool",
+        "title": "Kool",
+        "loading": "lazy"
+      },
+      {
+        "decoding": "async",
+        "class": "",
+        "src": "https://www.itgbrands.com/wp-content/blogs.dir/155/files/2026/06/logos_Malibu1-.png",
+        "width": "175",
+        "height": "120",
+        "alt": "logos_Malibu1",
+        "title": "logos_Malibu1",
+        "loading": "lazy"
+      },
+      {
+        "decoding": "async",
+        "class": "",
+        "src": "https://www.itgbrands.com/wp-content/blogs.dir/155/files/2026/06/logos_Black-Buffalo2.png",
+        "width": "175",
+        "height": "120",
+        "alt": "logos_Black Buffalo2",
+        "title": "logos_Black Buffalo2",
+        "loading": "lazy"
+      },
+      {
+        "decoding": "async",
+        "class": "",
+        "src": "https://www.itgbrands.com/wp-content/blogs.dir/155/files/2019/10/logos_backwoods.png",
+        "width": "175",
+        "height": "120",
+        "alt": "Backwoods",
+        "title": "Backwoods",
+        "loading": "lazy"
+      },
+      {
+        "decoding": "async",
+        "class": "",
+        "src": "https://www.itgbrands.com/wp-content/blogs.dir/155/files/2019/10/logos_dutch.png",
+        "width": "175",
+        "height": "120",
+        "alt": "Dutch",
+        "title": "Dutch",
+        "loading": "lazy"
+      },
+      {
+        "decoding": "async",
+        "class": "",
+        "src": "https://www.itgbrands.com/wp-content/blogs.dir/155/files/2019/10/logos_dutchmasters.png",
+        "width": "175",
+        "height": "120",
+        "alt": "Dutch Masters",
+        "title": "Dutch Masters",
+        "loading": "lazy"
+      },
+      {
+        "decoding": "async",
+        "class": "",
+        "src": "https://www.itgbrands.com/wp-content/blogs.dir/155/files/2019/10/logos_phillies.png",
+        "width": "175",
+        "height": "120",
+        "alt": "Phillies",
+        "title": "Phillies",
+        "loading": "lazy"
+      },
+      {
+        "decoding": "async",
+        "class": "",
+        "src": "https://www.itgbrands.com/wp-content/blogs.dir/155/files/2019/10/logos_maverick.png",
+        "width": "175",
+        "height": "120",
+        "alt": "Maverick",
+        "title": "Maverick",
+        "loading": "lazy"
+      },
+      {
+        "decoding": "async",
+        "class": "",
+        "src": "https://www.itgbrands.com/wp-content/blogs.dir/155/files/2020/11/Crowns-logo-sm02.png",
+        "width": "175",
+        "height": "108",
+        "alt": "Crowns",
+        "title": "Crowns",
+        "loading": "lazy"
+      },
+      {
+        "decoding": "async",
+        "class": "",
+        "src": "https://www.itgbrands.com/wp-content/blogs.dir/155/files/2019/10/logos_salem.png",
+        "width": "175",
+        "height": "120",
+        "alt": "Salem",
+        "title": "Salem",
+        "loading": "lazy"
+      },
+      {
+        "decoding": "async",
+        "class": "",
+        "src": "https://www.itgbrands.com/wp-content/blogs.dir/155/files/2019/10/logos_USAgold.png",
+        "width": "175",
+        "height": "120",
+        "alt": "USA Gold",
+        "title": "USA Gold",
+        "loading": "lazy"
+      },
+      {
+        "decoding": "async",
+        "class": "",
+        "src": "https://www.itgbrands.com/wp-content/blogs.dir/155/files/2019/10/logos_montclair.png",
+        "width": "175",
+        "height": "120",
+        "alt": "Montclair",
+        "title": "Montclair",
+        "loading": "lazy"
+      },
+      {
+        "decoding": "async",
+        "class": "",
+        "src": "https://www.itgbrands.com/wp-content/blogs.dir/155/files/2019/10/logos_sonoma.png",
+        "width": "175",
+        "height": "120",
+        "alt": "Sonoma",
+        "title": "Sonoma",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://www.itgbrands.com/wp-content/themes/cesis_child_theme/images/ITG-Logo-Red.png",
+        "alt": "ITG Brands, LLC",
+        "width": "182",
+        "height": "auto"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-210/eac023a13a9d904b.txt"
+  },
+  {
+    "id": "a0506432f6a6c246",
+    "name": "Japan Tobacco International USA Inc",
+    "requested_url": "https://www.jti.com/",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "id": "f34f575e0453cc75",
+    "name": "JFD North America Limited",
+    "requested_url": "https://www.jfdglobal.com/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "8423a4809a4f609a",
+    "name": "John Hancock Life Insurance Company (u.s.a)",
+    "requested_url": "https://www.johnhancock.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "e3939be11d837e3c",
+    "name": "John Hancock Life Insurance Company (usa) (fka John Hancock Fin. Services, Inc.)",
+    "requested_url": "https://www.johnhancock.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "5a151a3149f74e2f",
+    "name": "Johnstown-cambria County Airport Authority & Cambrian Hills Development Group",
+    "requested_url": "https://www.flyjohnstown.com/",
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  {
+    "id": "a59077669b61d252",
+    "name": "Joint Council of Allergy Asthma & Immunology D/b/a Advocacy Council of Acaai",
+    "requested_url": "https://acaai.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "f38276098fad3e36",
+    "name": "Joliet Regional Port District/lewis University Airport (klot)",
+    "requested_url": "https://www.flylot.com/",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)>"
+  },
+  {
+    "id": "7797af627ba37033",
+    "name": "Jones Walker LLP (on behalf of Louisiana Chamber of Commerce Foundation)",
+    "requested_url": "https://www.lachamberfoundation.org/",
+    "status": 200,
+    "final_url": "https://www.lachamberfoundation.org/",
+    "text_chars": 6681,
+    "logo_candidates": [
+      {
+        "width": "166",
+        "height": "166",
+        "src": "https://www.lachamberfoundation.org/wp-content/uploads/2023/09/logo.png",
+        "class": "attachment-large size-large wp-image-20",
+        "alt": "lachamberfoundation",
+        "srcset": "https://www.lachamberfoundation.org/wp-content/uploads/2023/09/logo.png 166w, https://www.lachamberfoundation.org/wp-content/uploads/2023/09/logo-150x150.png 150w",
+        "sizes": "(max-width: 166px) 100vw, 166px"
+      },
+      {
+        "src": "https://www.lachamberfoundation.org/wp-content/uploads/2023/09/logo.png",
+        "title": "logo",
+        "alt": "lachamberfoundation",
+        "decoding": "async"
+      },
+      {
+        "decoding": "async",
+        "class": "swiper-slide-image",
+        "src": "https://www.lachamberfoundation.org/wp-content/uploads/2023/09/CVX_Logo_Corp_Flat_RGB.jpg",
+        "alt": "chevron"
+      },
+      {
+        "decoding": "async",
+        "class": "swiper-slide-image",
+        "src": "https://www.lachamberfoundation.org/wp-content/uploads/2023/09/Atmos-Logo-2019.png",
+        "alt": "Atmos-Logo"
+      },
+      {
+        "decoding": "async",
+        "class": "swiper-slide-image",
+        "src": "https://www.lachamberfoundation.org/wp-content/uploads/2025/07/Venture_logo.png",
+        "alt": "Venture_logo"
+      },
+      {
+        "class": "design-size2 design-border2",
+        "src": "https://www.lachamberfoundation.org/wp-content/plugins/accessibility-onetap/assets/images/admin/Original_Logo_Icon.svg",
+        "alt": "toggle icon"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-210/7797af627ba37033.txt"
+  },
+  {
+    "id": "402b7755991236be",
+    "name": "Joseph Abboud Manufacturing Corp (fka J.A. Apparel Corp)",
+    "requested_url": "https://josephabboud.com/",
+    "status": 200,
+    "final_url": "https://josephabboud.com/",
+    "text_chars": 7153,
+    "logo_candidates": [
+      {
+        "src": "//josephabboud.com/cdn/shop/files/logo_ja.svg?height=32&v=1758141506",
+        "alt": "Joseph Abboud",
+        "class": "header-logo__image",
+        "width": "430",
+        "height": "32",
+        "style": "--header-logo-image-width: 430px;--header-logo-image-width-mobile: 430px; --header-logo-image-height: 32px; --header-logo-image-height-mobile: 32px;",
+        "loading": "lazy"
+      },
+      {
+        "src": "//josephabboud.com/cdn/shop/files/logo_ja.svg?height=32&v=1758141506",
+        "alt": "Joseph Abboud",
+        "class": "header-logo__image",
+        "width": "430",
+        "height": "32",
+        "style": "--header-logo-image-width: 430px;--header-logo-image-width-mobile: 430px; --header-logo-image-height: 32px; --header-logo-image-height-mobile: 32px;",
+        "loading": "lazy"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-210/402b7755991236be.txt"
+  },
+  {
+    "id": "6e36bf849ac4a65f",
+    "name": "JoshCo Group, LLC",
+    "requested_url": "https://vbg.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "d33892b3d6400034",
+    "name": "JRC Integrated Systems Inc.",
+    "requested_url": "https://jrcsystems.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "817e30da7159338b",
+    "name": "Jump Crypto Holdings LLC",
+    "requested_url": "https://jumpcrypto.com/",
+    "status": 200,
+    "final_url": "https://jumpcrypto.com/",
+    "text_chars": 1847,
+    "logo_candidates": [
+      {
+        "src": "https://jumpcrypto.com/cdn/68e02e9547163761f5447014/68e02e9547163761f54474b3_website%20only%20jumpcrypto-logo-white.svg",
+        "loading": "lazy",
+        "width": "165",
+        "alt": "",
+        "class": "home-hero-logo hide-on-mobile"
+      },
+      {
+        "src": "https://jumpcrypto.com/cdn/68e02e9547163761f5447014/68e02e9547163761f54474b3_website%20only%20jumpcrypto-logo-white.svg",
+        "loading": "lazy",
+        "alt": "",
+        "class": "hide"
+      },
+      {
+        "src": "https://jumpcrypto.com/cdn/68e02e9547163761f5447014/690a25b039f77c11380fa84b_forward%20ind%20white.png",
+        "loading": "eager",
+        "alt": "",
+        "class": "home-logos"
+      },
+      {
+        "src": "https://jumpcrypto.com/cdn/68e02e9547163761f5447014/690a25f15171a649d4894c87_Solana.png",
+        "loading": "eager",
+        "alt": "",
+        "class": "home-logos"
+      },
+      {
+        "src": "https://jumpcrypto.com/cdn/68e02e9547163761f5447014/6909a07ff3bb7594eb75f2f2_Figure%20Logo%20White.png",
+        "loading": "eager",
+        "alt": "",
+        "class": "home-logos"
+      },
+      {
+        "src": "https://jumpcrypto.com/cdn/68e02e9547163761f5447014/68e02e9547163761f54474d5_Logo_de_Bitso.svg.png",
+        "loading": "eager",
+        "alt": "",
+        "class": "home-logos"
+      },
+      {
+        "src": "https://jumpcrypto.com/cdn/68e02e9547163761f5447014/690a26629168aeef85d42c29_phatom-white-logo.png",
+        "loading": "eager",
+        "alt": "",
+        "class": "home-logos"
+      },
+      {
+        "src": "https://jumpcrypto.com/cdn/68e02e9547163761f5447014/690a26990e2a02cdf1d46e8e_Backpack.png",
+        "loading": "eager",
+        "alt": "",
+        "class": "home-logos"
+      },
+      {
+        "src": "https://jumpcrypto.com/cdn/68e02e9547163761f5447014/68e02e9547163761f54474d1_coindcx-logo.png",
+        "loading": "eager",
+        "alt": "",
+        "class": "home-logos"
+      },
+      {
+        "src": "https://jumpcrypto.com/cdn/68e02e9547163761f5447014/690a25b039f77c11380fa84b_forward%20ind%20white.png",
+        "loading": "eager",
+        "alt": "",
+        "class": "home-logos"
+      },
+      {
+        "src": "https://jumpcrypto.com/cdn/68e02e9547163761f5447014/690a25f15171a649d4894c87_Solana.png",
+        "loading": "eager",
+        "alt": "",
+        "class": "home-logos"
+      },
+      {
+        "src": "https://jumpcrypto.com/cdn/68e02e9547163761f5447014/690a27b3b625c1929d06ad9e_zerohash-white.png",
+        "loading": "eager",
+        "alt": "",
+        "class": "home-logos"
+      },
+      {
+        "src": "https://jumpcrypto.com/cdn/68e02e9547163761f5447014/68e02e9547163761f54474d4_Consensys_logo_2023.svg.png",
+        "loading": "eager",
+        "alt": "",
+        "class": "home-logos"
+      },
+      {
+        "src": "https://jumpcrypto.com/cdn/68e02e9547163761f5447014/68e02e9547163761f54474d2_certora-logo.png",
+        "loading": "eager",
+        "alt": "",
+        "class": "home-logos"
+      },
+      {
+        "src": "https://jumpcrypto.com/cdn/68e02e9547163761f5447014/690a25b039f77c11380fa84b_forward%20ind%20white.png",
+        "loading": "eager",
+        "alt": "",
+        "class": "home-logos"
+      },
+      {
+        "src": "https://jumpcrypto.com/cdn/68e02e9547163761f5447014/690a25f15171a649d4894c87_Solana.png",
+        "loading": "eager",
+        "alt": "",
+        "class": "home-logos"
+      },
+      {
+        "src": "https://jumpcrypto.com/cdn/68e02e9547163761f5447014/6909a07ff3bb7594eb75f2f2_Figure%20Logo%20White.png",
+        "loading": "eager",
+        "alt": "",
+        "class": "home-logos"
+      },
+      {
+        "src": "https://jumpcrypto.com/cdn/68e02e9547163761f5447014/68e02e9547163761f54474d5_Logo_de_Bitso.svg.png",
+        "loading": "eager",
+        "alt": "",
+        "class": "home-logos"
+      },
+      {
+        "src": "https://jumpcrypto.com/cdn/68e02e9547163761f5447014/690a26629168aeef85d42c29_phatom-white-logo.png",
+        "loading": "eager",
+        "alt": "",
+        "class": "home-logos"
+      },
+      {
+        "src": "https://jumpcrypto.com/cdn/68e02e9547163761f5447014/690a26990e2a02cdf1d46e8e_Backpack.png",
+        "loading": "eager",
+        "alt": "",
+        "class": "home-logos"
+      },
+      {
+        "src": "https://jumpcrypto.com/cdn/68e02e9547163761f5447014/68e02e9547163761f54474d1_coindcx-logo.png",
+        "loading": "eager",
+        "alt": "",
+        "class": "home-logos"
+      },
+      {
+        "src": "https://jumpcrypto.com/cdn/68e02e9547163761f5447014/690a25b039f77c11380fa84b_forward%20ind%20white.png",
+        "loading": "eager",
+        "alt": "",
+        "class": "home-logos"
+      },
+      {
+        "src": "https://jumpcrypto.com/cdn/68e02e9547163761f5447014/690a25f15171a649d4894c87_Solana.png",
+        "loading": "eager",
+        "alt": "",
+        "class": "home-logos"
+      },
+      {
+        "src": "https://jumpcrypto.com/cdn/68e02e9547163761f5447014/690a27b3b625c1929d06ad9e_zerohash-white.png",
+        "loading": "eager",
+        "alt": "",
+        "class": "home-logos"
+      },
+      {
+        "src": "https://jumpcrypto.com/cdn/68e02e9547163761f5447014/68e02e9547163761f54474d4_Consensys_logo_2023.svg.png",
+        "loading": "eager",
+        "alt": "",
+        "class": "home-logos"
+      },
+      {
+        "src": "https://jumpcrypto.com/cdn/68e02e9547163761f5447014/68e02e9547163761f54474d2_certora-logo.png",
+        "loading": "eager",
+        "alt": "",
+        "class": "home-logos"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-210/817e30da7159338b.txt"
+  },
+  {
+    "id": "fd19f25e8f327126",
+    "name": "Juniper Capital Partners",
+    "requested_url": "https://www.junipercapital.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "69fb2ac7a8d5fa98",
+    "name": "Package Coalition LLC",
+    "requested_url": "https://www.packagecoalition.org/",
+    "status": 200,
+    "final_url": "https://www.packagecoalition.org/",
+    "text_chars": 2640,
+    "logo_candidates": [
+      {
+        "src": "https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890c9f61990a7713ca4eaa8_package-coalition_logo-w.svg",
+        "loading": "lazy",
+        "alt": "",
+        "class": "topnav_brand--logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890c9f66539990d4a9ffd9b_package-coalition_logo-c.svg",
+        "loading": "lazy",
+        "alt": "",
+        "class": "hhw-logo--img"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f5ae31e46ac2d66c6e35_qvc.png",
+        "loading": "lazy",
+        "alt": "",
+        "class": "mg-logo--img"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f5a6f201500cf9e859de_National_Retail_Federation_logo-1.png",
+        "loading": "lazy",
+        "sizes": "(max-width: 800px) 100vw, 800px",
+        "srcset": "https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f5a6f201500cf9e859de_National_Retail_Federation_logo-1-p-500.png 500w, https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f5a6f201500cf9e859de_National_Retail_Federation_logo-1.png 800w",
+        "alt": "",
+        "class": "mg-logo--img"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f59c2e6a530ffdab8436_zappos.png",
+        "loading": "lazy",
+        "alt": "",
+        "class": "mg-logo--img"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f5987f95ce3c545e2ff0_columbia.png",
+        "loading": "lazy",
+        "alt": "",
+        "class": "mg-logo--img"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f590daaeafa25cf48385_zulily.png",
+        "loading": "lazy",
+        "alt": "",
+        "class": "mg-logo--img"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f58b7f6f5b4a182ed434_CVS%20Health.png",
+        "loading": "lazy",
+        "sizes": "(max-width: 568px) 100vw, 568px",
+        "srcset": "https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f58b7f6f5b4a182ed434_CVS%20Health-p-500.png 500w, https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f58b7f6f5b4a182ed434_CVS%20Health.png 568w",
+        "alt": "",
+        "class": "mg-logo--img"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f564faef7532bb086f12_eBay.png",
+        "loading": "lazy",
+        "sizes": "(max-width: 2481px) 100vw, 2481px",
+        "srcset": "https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f564faef7532bb086f12_eBay-p-500.png 500w, https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f564faef7532bb086f12_eBay-p-800.png 800w, https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f564faef7532bb086f12_eBay-p-1080.png 1080w, https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f564faef7532bb086f12_eBay-p-1600.png 1600w, https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f564faef7532bb086f12_eBay-p-2000.png 2000w, https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f564faef7532bb086f12_eBay.png 2481w",
+        "alt": "",
+        "class": "mg-logo--img"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f55bbb119041430a097c_sorel.png",
+        "loading": "lazy",
+        "alt": "",
+        "class": "mg-logo--img"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f556ac0604c1ccfea01d_express-scripts.png",
+        "loading": "lazy",
+        "alt": "",
+        "class": "mg-logo--img"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f5506080440faf327e33_PillPackAP-Logo-Center-Standard-RGB.png",
+        "loading": "lazy",
+        "sizes": "(max-width: 2960px) 100vw, 2960px",
+        "srcset": "https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f5506080440faf327e33_PillPackAP-Logo-Center-Standard-RGB-p-500.png 500w, https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f5506080440faf327e33_PillPackAP-Logo-Center-Standard-RGB-p-800.png 800w, https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f5506080440faf327e33_PillPackAP-Logo-Center-Standard-RGB-p-1080.png 1080w, https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f5506080440faf327e33_PillPackAP-Logo-Center-Standard-RGB-p-1600.png 1600w, https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f5506080440faf327e33_PillPackAP-Logo-Center-Standard-RGB-p-2000.png 2000w, https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f5506080440faf327e33_PillPackAP-Logo-Center-Standard-RGB.png 2960w",
+        "alt": "",
+        "class": "mg-logo--img"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f54743b87263298971b6_ballard-designs.png",
+        "loading": "lazy",
+        "alt": "",
+        "class": "mg-logo--img"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f543d76bdad588326072_pch.png",
+        "loading": "lazy",
+        "alt": "",
+        "class": "mg-logo--img"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f5372ced65432eab6540_prana.png",
+        "loading": "lazy",
+        "alt": "",
+        "class": "mg-logo--img"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f531a982e897aba75f8b_osm-worldwide.png",
+        "loading": "lazy",
+        "alt": "",
+        "class": "mg-logo--img"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f52921d40701d45061f1_amazon.png",
+        "loading": "lazy",
+        "alt": "",
+        "class": "mg-logo--img"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f52435341f09a15ce7dc_international-paper.png",
+        "loading": "lazy",
+        "alt": "",
+        "class": "mg-logo--img"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f5173f81db7d2d6bc670_mountain-hard-wear.png",
+        "loading": "lazy",
+        "alt": "",
+        "class": "mg-logo--img"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f512faef7532bb0851df_hsn.png",
+        "loading": "lazy",
+        "alt": "",
+        "class": "mg-logo--img"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f50898031d63763205ba_improvements.png",
+        "loading": "lazy",
+        "alt": "",
+        "class": "mg-logo--img"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f504a876e55777123616_garnet-hill.png",
+        "loading": "lazy",
+        "alt": "",
+        "class": "mg-logo--img"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f4fda61e0a70943ed419_Pirate-Ship-Logo.png",
+        "loading": "lazy",
+        "sizes": "(max-width: 2439px) 100vw, 2439px",
+        "srcset": "https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f4fda61e0a70943ed419_Pirate-Ship-Logo-p-500.png 500w, https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f4fda61e0a70943ed419_Pirate-Ship-Logo-p-800.png 800w, https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f4fda61e0a70943ed419_Pirate-Ship-Logo-p-1080.png 1080w, https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f4fda61e0a70943ed419_Pirate-Ship-Logo-p-1600.png 1600w, https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f4fda61e0a70943ed419_Pirate-Ship-Logo-p-2000.png 2000w, https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f4fda61e0a70943ed419_Pirate-Ship-Logo.png 2439w",
+        "alt": "",
+        "class": "mg-logo--img"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f4f3e20c4900ec0ea777_pitney-bowes.png",
+        "loading": "lazy",
+        "alt": "",
+        "class": "mg-logo--img"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f4e7ab5ad92845c86752_frontgate.png",
+        "loading": "lazy",
+        "alt": "",
+        "class": "mg-logo--img"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f4dbc0e9ac5904a58479_PCMA_logo_full_rgb.png",
+        "loading": "lazy",
+        "sizes": "(max-width: 1107px) 100vw, 1107px",
+        "srcset": "https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f4dbc0e9ac5904a58479_PCMA_logo_full_rgb-p-500.png 500w, https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f4dbc0e9ac5904a58479_PCMA_logo_full_rgb-p-800.png 800w, https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f4dbc0e9ac5904a58479_PCMA_logo_full_rgb.png 1107w",
+        "alt": "",
+        "class": "mg-logo--img"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f4d1b2c0d87e2a2a1481_RILA_Primary_CMYK_FullColor_HiRes-1.jpg",
+        "loading": "lazy",
+        "sizes": "(max-width: 3390px) 100vw, 3390px",
+        "srcset": "https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f4d1b2c0d87e2a2a1481_RILA_Primary_CMYK_FullColor_HiRes-1-p-500.jpg 500w, https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f4d1b2c0d87e2a2a1481_RILA_Primary_CMYK_FullColor_HiRes-1-p-800.jpg 800w, https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f4d1b2c0d87e2a2a1481_RILA_Primary_CMYK_FullColor_HiRes-1-p-1080.jpg 1080w, https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f4d1b2c0d87e2a2a1481_RILA_Primary_CMYK_FullColor_HiRes-1-p-1600.jpg 1600w, https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f4d1b2c0d87e2a2a1481_RILA_Primary_CMYK_FullColor_HiRes-1-p-2000.jpg 2000w, https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f4d1b2c0d87e2a2a1481_RILA_Primary_CMYK_FullColor_HiRes-1-p-2600.jpg 2600w, https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f4d1b2c0d87e2a2a1481_RILA_Primary_CMYK_FullColor_HiRes-1-p-3200.jpg 3200w, https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890f4d1b2c0d87e2a2a1481_RILA_Primary_CMYK_FullColor_HiRes-1.jpg 3390w",
+        "alt": "",
+        "class": "mg-logo--img"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6890c8a0fd5ca45d766a2e6a/6890c9f66539990d4a9ffd9b_package-coalition_logo-c.svg",
+        "loading": "lazy",
+        "alt": "",
+        "class": "footer-brand--img"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-210/69fb2ac7a8d5fa98.txt"
+  },
+  {
+    "id": "3af4220c457fa94c",
+    "name": "Kaiser Foundation Health Plans",
+    "requested_url": "https://healthy.kaiserpermanente.org/",
+    "error": "HTTP Error 302: The HTTP server returned a redirect error that would lead to an infinite loop.\nThe last 30x error message was:\nMoved Temporarily"
+  },
+  {
+    "id": "8aa0af181557db69",
+    "name": "Kalshi",
+    "requested_url": "https://kalshi.com/",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "id": "59f1f92e12f0622d",
+    "name": "Karis Critical",
+    "requested_url": "https://karis.com/",
+    "status": 200,
+    "final_url": "https://karis.com/",
+    "text_chars": 2400,
+    "logo_candidates": [
+      {
+        "src": "https://d1w4fch07f5e4w.cloudfront.net/http/karis-logos/karis_logo_white.png/ac7077b8c15855e0c94d8cb4e2250c17/karis_logo_white.png",
+        "alt": "Karis",
+        "class": "w-full h-auto object-contain"
+      },
+      {
+        "src": "https://d1w4fch07f5e4w.cloudfront.net/http/karis-logos/karis_logo_blue.png/2f89fc223cc5cb2f221fe54994ebdddf/karis_logo_blue.png",
+        "alt": "Karis",
+        "class": "w-full h-auto object-contain"
+      },
+      {
+        "src": "https://d1w4fch07f5e4w.cloudfront.net/http/karis-logos/karis-cold-logo.png/a137c4929351d42453e3348f92b2d472/karis-cold-logo.png",
+        "alt": "karis-cold-logo.png",
+        "class": "h-7 w-[63px] md:h-7 md:w-[63px] lg:h-8 lg:w-[72px] xl:h-10 xl:w-[91px] 2xl:h-10 2xl:w-[91px] 3xl:h-10 3xl:w-[91px]"
+      },
+      {
+        "src": "https://d1w4fch07f5e4w.cloudfront.net/http/karis-logos/karis-critical.png/fbf5ba9544cc76bf48a095e658c3a563/karis-critical.png",
+        "alt": "karis-critical.png",
+        "class": "h-7 w-[63px] md:h-7 md:w-[63px] lg:h-8 lg:w-[72px] xl:h-10 xl:w-[91px] 2xl:h-10 2xl:w-[91px] 3xl:h-10 3xl:w-[91px]"
+      },
+      {
+        "src": "https://d1w4fch07f5e4w.cloudfront.net/http/karis-logos/karis-industrial.png/0ee56c05688ef39c3df72457d4daf1c3/karis-industrial.png",
+        "alt": "karis-industrial.png",
+        "class": "h-7 w-[63px] md:h-7 md:w-[63px] lg:h-8 lg:w-[72px] xl:h-10 xl:w-[91px] 2xl:h-10 2xl:w-[91px] 3xl:h-10 3xl:w-[91px]"
+      },
+      {
+        "src": "https://d1w4fch07f5e4w.cloudfront.net/http/client-logos/moesle-meat.png/7a7625afd4bf9303fd87bddfd9c2afd4/moesle-meat.png",
+        "width": "200",
+        "loading": "eager",
+        "decoding": "async",
+        "alt": "Logo",
+        "class": "w-full h-auto max-h-[120px] lg:max-h-[140px] xl:max-h-[160px] 2xl:max-h-[180px] 3xl:max-h-[200px] object-contain grayscale hover:grayscale-0 transition-all duration-300"
+      },
+      {
+        "src": "https://d1w4fch07f5e4w.cloudfront.net/http/client-logos/ilg.png/7d973af01584491c71aaddd9b4a92c01/ilg.png",
+        "width": "200",
+        "loading": "eager",
+        "decoding": "async",
+        "alt": "Logo",
+        "class": "w-full h-auto max-h-[120px] lg:max-h-[140px] xl:max-h-[160px] 2xl:max-h-[180px] 3xl:max-h-[200px] object-contain grayscale hover:grayscale-0 transition-all duration-300"
+      },
+      {
+        "src": "https://d1w4fch07f5e4w.cloudfront.net/http/client-logos/hissho_logo_042919_white_padded3.png/f393af988c7b40b513c41a5aa00db69f/hissho_logo_042919_white_padded3.png",
+        "width": "200",
+        "loading": "eager",
+        "decoding": "async",
+        "alt": "Logo",
+        "class": "w-full h-auto max-h-[120px] lg:max-h-[140px] xl:max-h-[160px] 2xl:max-h-[180px] 3xl:max-h-[200px] object-contain grayscale hover:grayscale-0 transition-all duration-300"
+      },
+      {
+        "src": "https://d1w4fch07f5e4w.cloudfront.net/http/client-logos/ravago_blue_stacked_padded_2.png/6bc367d4b5bfb8b944955b1a26252110/ravago_blue_stacked_padded_2.png",
+        "width": "200",
+        "loading": "eager",
+        "decoding": "async",
+        "alt": "Logo",
+        "class": "w-full h-auto max-h-[120px] lg:max-h-[140px] xl:max-h-[160px] 2xl:max-h-[180px] 3xl:max-h-[200px] object-contain grayscale hover:grayscale-0 transition-all duration-300"
+      },
+      {
+        "src": "https://d1w4fch07f5e4w.cloudfront.net/http/client-logos/eagle-rock.png/63437eea200a782d095f267786b5f082/eagle-rock.png",
+        "width": "200",
+        "loading": "eager",
+        "decoding": "async",
+        "alt": "Logo",
+        "class": "w-full h-auto max-h-[120px] lg:max-h-[140px] xl:max-h-[160px] 2xl:max-h-[180px] 3xl:max-h-[200px] object-contain grayscale hover:grayscale-0 transition-all duration-300"
+      },
+      {
+        "src": "https://d1w4fch07f5e4w.cloudfront.net/http/client-logos/americold.png/b492025ba8b9765fd855f8d6b9be4739/americold.png",
+        "width": "200",
+        "loading": "eager",
+        "decoding": "async",
+        "alt": "Logo",
+        "class": "w-full h-auto max-h-[120px] lg:max-h-[140px] xl:max-h-[160px] 2xl:max-h-[180px] 3xl:max-h-[200px] object-contain grayscale hover:grayscale-0 transition-all duration-300"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-210/59f1f92e12f0622d.txt"
+  },
+  {
+    "id": "33da737574c5b3d9",
+    "name": "Kbr, Inc. F/k/a Sgt, Inc.",
+    "requested_url": "https://www.kbr.com/",
+    "status": 200,
+    "final_url": "https://www.kbr.com/en",
+    "text_chars": 5384,
+    "logo_candidates": [
+      {
+        "src": "/themes/custom/kbrcom/images/logo-kbr-white.svg",
+        "alt": "KBR logo"
+      },
+      {
+        "src": "/modules/custom/kbr_language/images/kbr-logo-color.svg",
+        "alt": "KBR logo"
+      },
+      {
+        "src": "/themes/custom/kbrcom/images/logo-kbr-white.svg",
+        "alt": "KBR logo"
+      },
+      {
+        "src": "/themes/custom/kbrcom/images/logo-zero-harm-white.svg",
+        "alt": "Zero Harm logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-210/33da737574c5b3d9.txt"
+  }
+]

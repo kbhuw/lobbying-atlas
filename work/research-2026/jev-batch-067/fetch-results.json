@@ -1,0 +1,835 @@
+[
+  {
+    "id": "9b1b00e217e4370c",
+    "name": "Electrical Apparatus Service Association (EASA)",
+    "requested_url": "https://easa.com/",
+    "status": 200,
+    "final_url": "https://easa.com/",
+    "text_chars": 14862,
+    "logo_candidates": [
+      {
+        "id": "dnn_ctl02_imgLogo",
+        "src": "/Portals/0/logo.jpg?ver=gnMI9meGkrkoY1ysIMXIRw%3d%3d",
+        "alt": "EASA | The Electro\u2022Mechanical Authority"
+      },
+      {
+        "style": "float: right; width: 150px; margin-left: 10px; max-width: 40%;",
+        "title": "",
+        "src": "/portals/0/Images/MegaMenu/AccredProgLogo_otl.png",
+        "alt": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-067/9b1b00e217e4370c.txt"
+  },
+  {
+    "id": "98a56bbad26dcd8c",
+    "name": "Engine NO. 1 LP",
+    "requested_url": "https://engine1.com/",
+    "status": 200,
+    "final_url": "https://engine1.com/",
+    "text_chars": 15122,
+    "logo_candidates": [
+      {
+        "src": "https://engine1.com/wp-content/themes/engine1/images/video-cutout.webp",
+        "alt": "video logo cutout",
+        "class": "video-cutout"
+      },
+      {
+        "src": "https://engine1.com/wp-content/themes/engine1/images/logo.svg",
+        "alt": "Engine No. 1 Logo"
+      },
+      {
+        "src": "https://engine1.com/wp-content/themes/engine1/images/logo.svg",
+        "alt": "Engine No. 1 Logo"
+      },
+      {
+        "src": "https://engine1.com/wp-content/themes/engine1/images/menu-toggle.svg",
+        "alt": "Engine No. 1 Logo",
+        "class": "navbar-toggle",
+        "data-toggle": "collapse",
+        "data-target": "#navbar-collapse",
+        "aria-controls": "navbar-collapse"
+      },
+      {
+        "src": "https://engine1.com/wp-content/themes/engine1/images/logo-horizontal.svg",
+        "width": "273",
+        "height": "24",
+        "alt": "Engine No. 1 footer logo",
+        "loading": "lazy"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-067/98a56bbad26dcd8c.txt"
+  },
+  {
+    "id": "9225b71c247e78d4",
+    "name": "Farm Credit Mid-America",
+    "requested_url": "https://www.fcma.com/home",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "d62db93239a9aa1f",
+    "name": "Field AI Inc.",
+    "requested_url": "https://fieldai.com/",
+    "status": 200,
+    "final_url": "https://www.fieldai.com/",
+    "text_chars": 3629,
+    "logo_candidates": [
+      {
+        "loading": "eager",
+        "src": "https://cdn.prod.website-files.com/66f60ba0b55a2bf61129d179/693cb87d40912a056f3f3895_FAI_logo-horizontal-color_REVERSE.svg",
+        "alt": "",
+        "class": "navbar-logo landing-page-142"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/66f60ba0b55a2bf61129d179/693cb87d40912a056f3f3895_FAI_logo-horizontal-color_REVERSE.svg",
+        "loading": "lazy",
+        "alt": "",
+        "class": "footer-logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-067/d62db93239a9aa1f.txt"
+  },
+  {
+    "id": "f723c1f42de4e506",
+    "name": "General Plastics",
+    "requested_url": "https://www.generalplastics.com/",
+    "status": 202,
+    "final_url": "https://www.generalplastics.com/",
+    "text_chars": 83,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-067/f723c1f42de4e506.txt"
+  },
+  {
+    "id": "58a88e1954420df0",
+    "name": "ID.me, Inc.",
+    "requested_url": "https://www.id.me/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "89e70490e4a997d9",
+    "name": "Intersoft Electronics, Inc.",
+    "requested_url": "https://intersoft-electronics.com/",
+    "status": 200,
+    "final_url": "https://intersoft-electronics.com/",
+    "text_chars": 4660,
+    "logo_candidates": [
+      {
+        "width": "908",
+        "height": "214",
+        "src": "https://intersoft-electronics.com/wp-content/uploads/2023/07/intersoft-electronics-logo-white.svg",
+        "class": "default-logo",
+        "alt": "Intersoft Electronics",
+        "decoding": "async"
+      },
+      {
+        "width": "908",
+        "height": "214",
+        "src": "https://intersoft-electronics.com/wp-content/uploads/2023/07/intersoft-electronics-logo.svg",
+        "class": "sticky-logo",
+        "alt": "Intersoft Electronics",
+        "decoding": "async"
+      },
+      {
+        "width": "908",
+        "height": "214",
+        "src": "https://intersoft-electronics.com/wp-content/uploads/2023/07/intersoft-electronics-logo-white-inverse.svg",
+        "class": "default-logo",
+        "alt": "Intersoft Electronics",
+        "decoding": "async",
+        "fetchpriority": "high"
+      },
+      {
+        "width": "908",
+        "height": "214",
+        "src": "https://intersoft-electronics.com/wp-content/uploads/2023/07/intersoft-electronics-logo.svg",
+        "class": "sticky-logo",
+        "alt": "Intersoft Electronics",
+        "decoding": "async"
+      },
+      {
+        "width": "908",
+        "height": "214",
+        "src": "https://intersoft-electronics.com/wp-content/uploads/2023/07/intersoft-electronics-logo-white-inverse.svg",
+        "class": "default-logo",
+        "alt": "Intersoft Electronics",
+        "decoding": "async"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "class": "stk-img wp-image-1490",
+        "src": "https://intersoft-electronics.com/wp-content/uploads/2023/10/intersoft-electronics-logo-white-no-spacing-1.svg",
+        "width": "240",
+        "height": "300"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "762",
+        "height": "763",
+        "src": "https://intersoft-electronics.com/wp-content/uploads/2025/03/Logo-CANSO-member-BW-2.png",
+        "alt": "",
+        "class": "wp-image-3096",
+        "style": "width:125px;height:auto",
+        "srcset": "https://i0.wp.com/intersoft-electronics.com/wp-content/uploads/2025/03/Logo-CANSO-member-BW-2.png?w=762&ssl=1 762w, https://i0.wp.com/intersoft-electronics.com/wp-content/uploads/2025/03/Logo-CANSO-member-BW-2.png?resize=300%2C300&ssl=1 300w, https://i0.wp.com/intersoft-electronics.com/wp-content/uploads/2025/03/Logo-CANSO-member-BW-2.png?resize=150%2C150&ssl=1 150w",
+        "sizes": "auto, (max-width: 762px) 100vw, 762px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-067/89e70490e4a997d9.txt"
+  },
+  {
+    "id": "292f255dd0441ef3",
+    "name": "Kidney Care Partners",
+    "requested_url": "https://kidneycarepartners.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "9ad514c6b6c0fc0a",
+    "name": "Luxembourg Industries, Ltd.",
+    "requested_url": "https://luxembourg.co.il/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "f4965a5abb60fcf8",
+    "name": "Morgan Hughes Energy",
+    "requested_url": "https://www.mh-nrg.com/",
+    "status": 200,
+    "final_url": "https://www.mh-nrg.com/",
+    "text_chars": 113,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-067/f4965a5abb60fcf8.txt"
+  },
+  {
+    "id": "885e5ac36cadf2f3",
+    "name": "National ZIP Code Advocacy Coalition (informal Coalition)",
+    "requested_url": "https://www.eastvaleca.gov/community/national-zip-code-advocacy-coalition",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "12bf3006b372b0de",
+    "name": "Newrange Copper Nickel LLC",
+    "requested_url": "https://www.newrangecoppernickel.com/",
+    "status": 200,
+    "final_url": "https://www.newrangecoppernickel.com/",
+    "text_chars": 3516,
+    "logo_candidates": [
+      {
+        "src": "https://www.newrangecoppernickel.com/wp-content/uploads/2024/01/Full-Color.svg",
+        "alt": "NewRange Logo",
+        "width": "211px",
+        "height": "39px"
+      },
+      {
+        "src": "https://www.newrangecoppernickel.com/wp-content/uploads/2024/01/Full-Color.svg",
+        "alt": "NewRange Logo",
+        "width": "280px",
+        "height": "51px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-067/12bf3006b372b0de.txt"
+  },
+  {
+    "id": "3b21597c75a333c5",
+    "name": "Ommio Health, Inc.",
+    "requested_url": "https://ommiohealth.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "ce133203a9026377",
+    "name": "Onda Housing Group LLC",
+    "requested_url": "https://ondagrp.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "12683a9c9d9cc2b8",
+    "name": "Osceola County, FL",
+    "requested_url": "https://www.osceola.org/Government",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "55e9f1e657735e7a",
+    "name": "Prairie Island Indian Community",
+    "requested_url": "https://piic.org/",
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  {
+    "id": "2232199fd3562370",
+    "name": "Quantum Corridor LLC",
+    "requested_url": "https://quantumcorridor.org/",
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  {
+    "id": "66fb686fc8a36639",
+    "name": "Railo Technology (fka Aker Arctic Technology, Inc.)",
+    "requested_url": "https://railotech.fi/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "ecb87589ffb31043",
+    "name": "Rural Multifamily Lenders Council (rmlc)",
+    "requested_url": "https://rmlc.org/",
+    "status": 200,
+    "final_url": "https://www.rmlc.org/",
+    "text_chars": 1966,
+    "logo_candidates": [
+      {
+        "src": "https://www.rmlc.org/wp-content/uploads/2024/04/RMLC-Logo-with-Slogan.png",
+        "alt": "",
+        "width": "1559",
+        "height": "346",
+        "title": "RMLC Logo with Slogan"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-067/ecb87589ffb31043.txt"
+  },
+  {
+    "id": "9ed2f198acd6619f",
+    "name": "Ryeco, Inc.",
+    "requested_url": "https://ryecollc.com/",
+    "status": 202,
+    "final_url": "https://ryecollc.com/",
+    "text_chars": 67,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-067/9ed2f198acd6619f.txt"
+  },
+  {
+    "id": "87e2c34cfe3e7be3",
+    "name": "Saalex Corporation",
+    "requested_url": "https://saalex.com/",
+    "error": "HTTP Error 307: Temporary Redirect"
+  },
+  {
+    "id": "9b1a87aba4ea5bab",
+    "name": "Sachem Inc.",
+    "requested_url": "https://www.sacheminc.com/",
+    "status": 200,
+    "final_url": "https://www.sacheminc.com/",
+    "text_chars": 4825,
+    "logo_candidates": [
+      {
+        "src": "https://sacheminc.com/wp-content/uploads/SACHEMLogo-TagLeft-e1570656521747.gif",
+        "alt": "SACHEM, Inc.",
+        "class": "site-link__img"
+      },
+      {
+        "src": "https://sacheminc.com/wp-content/plugins/gdpr-cookie-compliance/dist/images/gdpr-logo.png",
+        "alt": "SACHEM, Inc.",
+        "width": "350",
+        "height": "233",
+        "class": "img-responsive"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-067/9b1a87aba4ea5bab.txt"
+  },
+  {
+    "id": "f0ddd2f5024ac276",
+    "name": "Sandboxx, Inc.",
+    "requested_url": "https://www.sandboxx.us/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "91a037786441a89f",
+    "name": "SMX (fka Smartronix)",
+    "requested_url": "https://smx.tech/",
+    "status": 200,
+    "final_url": "https://smx.tech/",
+    "text_chars": 75,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-067/91a037786441a89f.txt"
+  },
+  {
+    "id": "40dba74906a915d5",
+    "name": "Sound Physicians (fka Sound Inpatient Physicians, Inc.)",
+    "requested_url": "https://www.soundphysicians.com/",
+    "status": 200,
+    "final_url": "https://www.soundphysicians.com/",
+    "text_chars": 8378,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-067/40dba74906a915d5.txt"
+  },
+  {
+    "id": "999ee8493bb08f47",
+    "name": "Southeast Michigan Council of Governments (semcog)",
+    "requested_url": "https://www.semcog.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "9c1e4be3c7c6a5da",
+    "name": "Summit SD, LLC",
+    "requested_url": "https://summitsd.com/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "6696123c925688d2",
+    "name": "Talam Biotech",
+    "requested_url": "https://talam.com/",
+    "status": 202,
+    "final_url": "https://talam.com/",
+    "text_chars": 66,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-067/6696123c925688d2.txt"
+  },
+  {
+    "id": "a4424cc72620acbb",
+    "name": "the Early Care and Education Consortium",
+    "requested_url": "https://www.ececonsortium.org/",
+    "status": 202,
+    "final_url": "https://www.ececonsortium.org/",
+    "text_chars": 104,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-067/a4424cc72620acbb.txt"
+  },
+  {
+    "id": "af7cd6405a7256c5",
+    "name": "the Friedlander Group",
+    "requested_url": "https://thefriedlandergroup.com/",
+    "status": 202,
+    "final_url": "https://thefriedlandergroup.com/",
+    "text_chars": 88,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-067/af7cd6405a7256c5.txt"
+  },
+  {
+    "id": "10a673119aa0aadd",
+    "name": "Tungsten Mining NL",
+    "requested_url": "https://tungstenmining.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "1cffe0d1cb417aee",
+    "name": "U.S. PIRG",
+    "requested_url": "https://pirg.org/about/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "9cd72ed243a9c690",
+    "name": "Ute Indian Tribe",
+    "requested_url": "https://utetribe.com/",
+    "status": 202,
+    "final_url": "https://utetribe.com/",
+    "text_chars": 72,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-067/9cd72ed243a9c690.txt"
+  },
+  {
+    "id": "c69aa9932622029f",
+    "name": "Vantor Parent Inc",
+    "requested_url": "https://vantor.com/",
+    "status": 200,
+    "final_url": "https://vantor.com/",
+    "text_chars": 5296,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-067/c69aa9932622029f.txt"
+  },
+  {
+    "id": "7a25be922e7d09f6",
+    "name": "Association of TeleServices International, Inc. (ATSI)",
+    "requested_url": "https://atsi.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "4dfa975c5b3130ce",
+    "name": "Auerbach International, Inc.",
+    "requested_url": "https://www.auerbach-intl.com/",
+    "status": 200,
+    "final_url": "https://www.auerbach-intl.com/",
+    "text_chars": 12273,
+    "logo_candidates": [
+      {
+        "alt": "Auerbach International",
+        "width": "200",
+        "height": "71",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-14 w-auto",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=%2Fimages%2Flogo-corporate.svg&w=256&q=75 1x, /_next/image/?url=%2Fimages%2Flogo-corporate.svg&w=640&q=75 2x",
+        "src": "/_next/image/?url=%2Fimages%2Flogo-corporate.svg&w=640&q=75"
+      },
+      {
+        "alt": "Google",
+        "loading": "lazy",
+        "width": "160",
+        "height": "90",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-20 w-auto max-w-none object-contain opacity-90 transition-opacity hover:opacity-100 md:h-24",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=%2Fimages%2Fuploads%2F2024%2F10%2Fgoogle-logo-auerbach.jpg&w=256&q=75 1x, /_next/image/?url=%2Fimages%2Fuploads%2F2024%2F10%2Fgoogle-logo-auerbach.jpg&w=384&q=75 2x",
+        "src": "/_next/image/?url=%2Fimages%2Fuploads%2F2024%2F10%2Fgoogle-logo-auerbach.jpg&w=384&q=75"
+      },
+      {
+        "alt": "",
+        "loading": "lazy",
+        "width": "160",
+        "height": "90",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-20 w-auto max-w-none object-contain opacity-90 transition-opacity hover:opacity-100 md:h-24",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=%2Fimages%2Fuploads%2F2024%2F10%2Fgoogle-logo-auerbach.jpg&w=256&q=75 1x, /_next/image/?url=%2Fimages%2Fuploads%2F2024%2F10%2Fgoogle-logo-auerbach.jpg&w=384&q=75 2x",
+        "src": "/_next/image/?url=%2Fimages%2Fuploads%2F2024%2F10%2Fgoogle-logo-auerbach.jpg&w=384&q=75"
+      },
+      {
+        "alt": "Ebara",
+        "loading": "lazy",
+        "width": "48",
+        "height": "48",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=%2Fimages%2Fuploads%2F2024%2F10%2Febara-logo-EC0BA16E86-seeklogo.com_.webp&w=48&q=75 1x, /_next/image/?url=%2Fimages%2Fuploads%2F2024%2F10%2Febara-logo-EC0BA16E86-seeklogo.com_.webp&w=96&q=75 2x",
+        "src": "/_next/image/?url=%2Fimages%2Fuploads%2F2024%2F10%2Febara-logo-EC0BA16E86-seeklogo.com_.webp&w=96&q=75"
+      },
+      {
+        "alt": "PopPack",
+        "loading": "lazy",
+        "width": "48",
+        "height": "48",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=%2Fimages%2Fuploads%2F2024%2F10%2F1600419672_16e1132ce9894af3fd15ec3ad0485f86_gradient-poppack-logo-v4-rev.png&w=48&q=75 1x, /_next/image/?url=%2Fimages%2Fuploads%2F2024%2F10%2F1600419672_16e1132ce9894af3fd15ec3ad0485f86_gradient-poppack-logo-v4-rev.png&w=96&q=75 2x",
+        "src": "/_next/image/?url=%2Fimages%2Fuploads%2F2024%2F10%2F1600419672_16e1132ce9894af3fd15ec3ad0485f86_gradient-poppack-logo-v4-rev.png&w=96&q=75"
+      },
+      {
+        "alt": "Asian Health Coalition",
+        "loading": "lazy",
+        "width": "48",
+        "height": "48",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=%2Fimages%2Fuploads%2F2024%2F10%2FAHC_LOGO_VERTICAL_RGB.webp&w=48&q=75 1x, /_next/image/?url=%2Fimages%2Fuploads%2F2024%2F10%2FAHC_LOGO_VERTICAL_RGB.webp&w=96&q=75 2x",
+        "src": "/_next/image/?url=%2Fimages%2Fuploads%2F2024%2F10%2FAHC_LOGO_VERTICAL_RGB.webp&w=96&q=75"
+      },
+      {
+        "alt": "Bechtel",
+        "loading": "lazy",
+        "width": "48",
+        "height": "48",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=%2Fimages%2Fuploads%2F2024%2F10%2Fc-logo.svg&w=48&q=75 1x, /_next/image/?url=%2Fimages%2Fuploads%2F2024%2F10%2Fc-logo.svg&w=96&q=75 2x",
+        "src": "/_next/image/?url=%2Fimages%2Fuploads%2F2024%2F10%2Fc-logo.svg&w=96&q=75"
+      },
+      {
+        "alt": "Auerbach International \u2014 Professional Language Services",
+        "loading": "lazy",
+        "width": "220",
+        "height": "55",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-14 w-auto",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=%2Fimages%2Flogo.svg&w=256&q=75 1x, /_next/image/?url=%2Fimages%2Flogo.svg&w=640&q=75 2x",
+        "src": "/_next/image/?url=%2Fimages%2Flogo.svg&w=640&q=75"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-067/4dfa975c5b3130ce.txt"
+  },
+  {
+    "id": "a18bcaf8d3e4527a",
+    "name": "Country Casual Teak, Inc.",
+    "requested_url": "https://www.countrycasualteak.com/",
+    "status": 200,
+    "final_url": "https://www.countrycasualteak.com/",
+    "text_chars": 8799,
+    "logo_candidates": [
+      {
+        "src": "https://www.countrycasualteak.com/static/version1789716025/frontend/CountryCasual/hyva/en_US/images/logo.svg",
+        "class": "w-[210px] sm:w-auto",
+        "title": "Country Casual Teak - Teak Outdoor Furniture Since 1977",
+        "alt": "Country Casual Teak - Teak Outdoor Furniture Since 1977",
+        "width": "268",
+        "height": "35"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-067/a18bcaf8d3e4527a.txt"
+  },
+  {
+    "id": "4a17541629f16f18",
+    "name": "International Marine Contractors Association",
+    "requested_url": "https://www.imca-int.com/",
+    "error": "HTTP Error 526: <none>"
+  },
+  {
+    "id": "d696520a552c4711",
+    "name": "Maxterials, Inc.",
+    "requested_url": "https://www.maxterial.com/",
+    "status": 200,
+    "final_url": "https://www.maxterial.com/",
+    "text_chars": 710,
+    "logo_candidates": [
+      {
+        "loading": "lazy",
+        "sizes": "166px",
+        "srcset": "https://static.wixstatic.com/media/239c60_6a71fb81a84f4c0bb8d584bbb70820d5~mv2.png/v1/fill/w_166,h_41,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo-2c-sbir-sttr.png 1x, https://static.wixstatic.com/media/239c60_6a71fb81a84f4c0bb8d584bbb70820d5~mv2.png/v1/fill/w_332,h_82,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo-2c-sbir-sttr.png 2x",
+        "id": "img_comp-lx8kbkst",
+        "src": "https://static.wixstatic.com/media/239c60_6a71fb81a84f4c0bb8d584bbb70820d5~mv2.png/v1/fill/w_166,h_41,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo-2c-sbir-sttr.png",
+        "alt": "logo-2c-sbir-sttr.png",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "166",
+        "height": "41"
+      },
+      {
+        "loading": "lazy",
+        "sizes": "122px",
+        "srcset": "https://static.wixstatic.com/media/239c60_57b832023d3f4c1aa328d5ea4922e760~mv2.png/v1/fill/w_122,h_58,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/SMTP_LOGO.png 1x, https://static.wixstatic.com/media/239c60_57b832023d3f4c1aa328d5ea4922e760~mv2.png/v1/fill/w_244,h_116,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/SMTP_LOGO.png 2x",
+        "id": "img_comp-larnqi4p",
+        "src": "https://static.wixstatic.com/media/239c60_57b832023d3f4c1aa328d5ea4922e760~mv2.png/v1/fill/w_122,h_58,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/SMTP_LOGO.png",
+        "alt": "SMTP_LOGO.png",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "122",
+        "height": "58"
+      },
+      {
+        "loading": "lazy",
+        "sizes": "132px",
+        "srcset": "https://static.wixstatic.com/media/239c60_8b54bc718f724202bcbdd63cdde338e0~mv2.png/v1/fill/w_132,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/anglo-american-logo%20(1).png 1x, https://static.wixstatic.com/media/239c60_8b54bc718f724202bcbdd63cdde338e0~mv2.png/v1/fill/w_264,h_80,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/anglo-american-logo%20(1).png 2x",
+        "id": "img_comp-lu701nq7",
+        "src": "https://static.wixstatic.com/media/239c60_8b54bc718f724202bcbdd63cdde338e0~mv2.png/v1/fill/w_132,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/anglo-american-logo%20(1).png",
+        "alt": "anglo-american-logo (1).png",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "132",
+        "height": "40"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-067/d696520a552c4711.txt"
+  },
+  {
+    "id": "ba8ca1a3d97582c9",
+    "name": "MicroAutomation, Inc.",
+    "requested_url": "https://www.microautomation.com/",
+    "status": 200,
+    "final_url": "https://microautomation.com/",
+    "text_chars": 2927,
+    "logo_candidates": [
+      {
+        "width": "2400",
+        "height": "300",
+        "src": "https://microautomation.com/wp-content/uploads/2019/08/cropped-MAI-transparent.png",
+        "class": "custom-logo",
+        "alt": "MicroAutomation",
+        "decoding": "async",
+        "fetchpriority": "high",
+        "srcset": "https://microautomation.com/wp-content/uploads/2019/08/cropped-MAI-transparent.png 2400w, https://microautomation.com/wp-content/uploads/2019/08/cropped-MAI-transparent-300x38.png 300w, https://microautomation.com/wp-content/uploads/2019/08/cropped-MAI-transparent-768x96.png 768w, https://microautomation.com/wp-content/uploads/2019/08/cropped-MAI-transparent-1024x128.png 1024w",
+        "sizes": "(max-width: 2400px) 100vw, 2400px"
+      },
+      {
+        "src": "https://microautomation.com/wp-content/uploads/2019/07/logos-1-e1787942037717.jpg",
+        "alt": "customers3"
+      },
+      {
+        "src": "https://microautomation.com/wp-content/uploads/2025/06/Logo_Group_Two-1.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://microautomation.com/wp-content/uploads/2019/07/logos-3.jpg",
+        "alt": "customers1"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-067/ba8ca1a3d97582c9.txt"
+  },
+  {
+    "id": "9edc2729b77362c3",
+    "name": "MIT45, Inc.",
+    "requested_url": "https://mit45.com/",
+    "status": 200,
+    "final_url": "https://mit45.com/",
+    "text_chars": 4914,
+    "logo_candidates": [
+      {
+        "class": "stnd skip-lazy default-logo dark-version",
+        "width": "170",
+        "height": "230",
+        "alt": "MIT45",
+        "src": "https://mit45.com/wp-content/uploads/mit45-logo-dark.png",
+        "srcset": "https://mit45.com/wp-content/uploads/mit45-logo-dark.png 1x, https://mit45.com/wp-content/uploads/mit45-logo-dark.png 2x"
+      },
+      {
+        "src": "https://mit45.com/wp-content/uploads/amex.svg",
+        "class": "icon lazyloaded",
+        "alt": "american express logo",
+        "width": "38",
+        "height": "24",
+        "data-src": "https://mit45.com/wp-content/uploads/amex.svg",
+        "decoding": "async"
+      },
+      {
+        "src": "https://mit45.com/wp-content/uploads/amex.svg",
+        "class": "icon",
+        "alt": "american express logo",
+        "width": "38",
+        "height": "24",
+        "data-eio": "l"
+      },
+      {
+        "src": "https://mit45.com/wp-content/uploads/payment-discover.svg",
+        "class": "icon lazyloaded",
+        "alt": "discover logo",
+        "width": "38",
+        "height": "24",
+        "data-src": "https://mit45.com/wp-content/uploads/payment-discover.svg",
+        "decoding": "async"
+      },
+      {
+        "src": "https://mit45.com/wp-content/uploads/payment-discover.svg",
+        "class": "icon",
+        "alt": "discover logo",
+        "width": "38",
+        "height": "24",
+        "data-eio": "l"
+      },
+      {
+        "src": "https://mit45.com/wp-content/uploads/mastercard.svg",
+        "class": "icon lazyloaded",
+        "alt": "master logo",
+        "width": "38",
+        "height": "24",
+        "data-src": "https://mit45.com/wp-content/uploads/mastercard.svg",
+        "decoding": "async"
+      },
+      {
+        "src": "https://mit45.com/wp-content/uploads/mastercard.svg",
+        "class": "icon",
+        "alt": "master logo",
+        "width": "38",
+        "height": "24",
+        "data-eio": "l"
+      },
+      {
+        "src": "https://mit45.com/wp-content/uploads/visa.svg",
+        "class": "icon lazyloaded",
+        "alt": "visa logo",
+        "width": "38",
+        "height": "24",
+        "data-src": "https://mit45.com/wp-content/uploads/visa.svg",
+        "decoding": "async"
+      },
+      {
+        "src": "https://mit45.com/wp-content/uploads/visa.svg",
+        "class": "icon",
+        "alt": "visa logo",
+        "width": "38",
+        "height": "24",
+        "data-eio": "l"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-067/9edc2729b77362c3.txt"
+  },
+  {
+    "id": "c9e7d67e1e73329a",
+    "name": "Mitsubishi Chemical Advanced Materials Inc.",
+    "requested_url": "https://us.mitsubishi-chemical.com/company/mcam/",
+    "status": 200,
+    "final_url": "https://us.mitsubishi-chemical.com/company/mcam/",
+    "text_chars": 19066,
+    "logo_candidates": [
+      {
+        "class": "company-logo",
+        "src": "https://us.mitsubishi-chemical.com/wp-content/uploads/2022/07/MCG_Stacked_Positive_AM-01.svg"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-067/c9e7d67e1e73329a.txt"
+  },
+  {
+    "id": "59963698cbf8a9db",
+    "name": "National Strategies, LLC on behalf of Blue Bird Corporation",
+    "requested_url": "https://www.blue-bird.com/",
+    "status": 202,
+    "final_url": "https://www.blue-bird.com/",
+    "text_chars": 120,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-067/59963698cbf8a9db.txt"
+  },
+  {
+    "id": "47496fd8fd79909a",
+    "name": "National Technology Security Coalition",
+    "requested_url": "https://www.ntsc.org/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "6131e34d00c3e065",
+    "name": "North American Insulation Manufacturing Association",
+    "requested_url": "https://insulationinstitute.org/about-naima/",
+    "status": 200,
+    "final_url": "https://insulationinstitute.org/about-naima/",
+    "text_chars": 2674,
+    "logo_candidates": [
+      {
+        "class": "img-responsive",
+        "src": "https://insulationinstitute.org/wp-content/uploads/2023/02/naima-logo-white-1.png"
+      },
+      {
+        "src": "https://insulationinstitute.org/wp-content/uploads/2023/02/Certainteed_logo_Saint_Gobain.jpg",
+        "alt": ""
+      },
+      {
+        "class": "logo-image",
+        "src": "https://insulationinstitute.org/wp-content/uploads/2016/12/naimalogo.jpg",
+        "alt": ""
+      },
+      {
+        "class": "logo-image",
+        "src": "https://insulationinstitute.org/wp-content/uploads/2016/12/naimacanada.jpg",
+        "alt": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-067/6131e34d00c3e065.txt"
+  },
+  {
+    "id": "c9b0f8d7b0517168",
+    "name": "Ohio Municipal Electric Association",
+    "requested_url": "https://www.amppartners.org/about/omea/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "2754f0bfa775b661",
+    "name": "Public Sector Healthcare Roundtable",
+    "requested_url": "https://www.healthcareroundtable.us/",
+    "status": 202,
+    "final_url": "https://www.healthcareroundtable.us/",
+    "text_chars": 106,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-067/2754f0bfa775b661.txt"
+  },
+  {
+    "id": "fe34daced38e6021",
+    "name": "Repkon USA",
+    "requested_url": "https://repkon.com/",
+    "status": 200,
+    "final_url": "https://repkon.com/",
+    "text_chars": 64,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-067/fe34daced38e6021.txt"
+  },
+  {
+    "id": "8ca1ad6653e4ddee",
+    "name": "Ripple Labs",
+    "requested_url": "https://ripple.com/",
+    "status": 200,
+    "final_url": "https://ripple.com/",
+    "text_chars": 4014,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-067/8ca1ad6653e4ddee.txt"
+  },
+  {
+    "id": "8f260442e98b7bb2",
+    "name": "Ross Innovative Employment Solutions Corporation",
+    "requested_url": "https://www.rossworks.com/",
+    "status": 202,
+    "final_url": "https://www.rossworks.com/",
+    "text_chars": 109,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-067/8f260442e98b7bb2.txt"
+  }
+]

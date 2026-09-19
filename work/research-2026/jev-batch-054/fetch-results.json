@@ -1,0 +1,3251 @@
+[
+  {
+    "id": "79bca1408911609e",
+    "name": "Outpatient Ophthalmic Surgery Society",
+    "requested_url": "https://ooss.org/",
+    "status": 202,
+    "final_url": "https://ooss.org/",
+    "text_chars": 89,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-054/79bca1408911609e.txt"
+  },
+  {
+    "id": "54cc142d2aac45ab",
+    "name": "Owens Valley Indian Water Commission",
+    "requested_url": "https://www.oviwc.org/",
+    "status": 200,
+    "final_url": "https://www.oviwc.org/",
+    "text_chars": 5325,
+    "logo_candidates": [
+      {
+        "elementtiming": "nbf-header-logo-desktop",
+        "src": "//images.squarespace-cdn.com/content/v1/69e7ce43d9747e65751dee24/be4c5ab2-14c8-4534-b068-61ffa491ec45/owensvalleywater+logo.png?format=1500w",
+        "alt": "Owens Valley Indian Water Commission",
+        "style": "display:block",
+        "fetchpriority": "high",
+        "loading": "eager",
+        "decoding": "async",
+        "data-loader": "raw"
+      },
+      {
+        "elementtiming": "nbf-header-logo-desktop",
+        "src": "//images.squarespace-cdn.com/content/v1/69e7ce43d9747e65751dee24/be4c5ab2-14c8-4534-b068-61ffa491ec45/owensvalleywater+logo.png?format=1500w",
+        "alt": "Owens Valley Indian Water Commission",
+        "style": "display:block",
+        "fetchpriority": "high",
+        "loading": "eager",
+        "decoding": "async",
+        "data-loader": "raw"
+      },
+      {
+        "data-stretch": "false",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/69e7ce43d9747e65751dee24/be4c5ab2-14c8-4534-b068-61ffa491ec45/owensvalleywater+logo.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/69e7ce43d9747e65751dee24/be4c5ab2-14c8-4534-b068-61ffa491ec45/owensvalleywater+logo.png",
+        "data-image-dimensions": "493x280",
+        "data-image-focal-point": "0.5,0.5",
+        "data-sqsp-image-block-image": null,
+        "alt": "",
+        "data-licensed-asset-preview": "false",
+        "data-load": "false",
+        "elementtiming": "system-image-block",
+        "src": "https://images.squarespace-cdn.com/content/v1/69e7ce43d9747e65751dee24/be4c5ab2-14c8-4534-b068-61ffa491ec45/owensvalleywater+logo.png",
+        "width": "493",
+        "height": "280",
+        "sizes": "auto, (max-width: 640px) 100.00vw, (max-width: 767px) 100.00vw, 25.00vw",
+        "style": "display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);",
+        "srcset": "https://images.squarespace-cdn.com/content/v1/69e7ce43d9747e65751dee24/be4c5ab2-14c8-4534-b068-61ffa491ec45/owensvalleywater+logo.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/69e7ce43d9747e65751dee24/be4c5ab2-14c8-4534-b068-61ffa491ec45/owensvalleywater+logo.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/69e7ce43d9747e65751dee24/be4c5ab2-14c8-4534-b068-61ffa491ec45/owensvalleywater+logo.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/69e7ce43d9747e65751dee24/be4c5ab2-14c8-4534-b068-61ffa491ec45/owensvalleywater+logo.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/69e7ce43d9747e65751dee24/be4c5ab2-14c8-4534-b068-61ffa491ec45/owensvalleywater+logo.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/69e7ce43d9747e65751dee24/be4c5ab2-14c8-4534-b068-61ffa491ec45/owensvalleywater+logo.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/69e7ce43d9747e65751dee24/be4c5ab2-14c8-4534-b068-61ffa491ec45/owensvalleywater+logo.png?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs",
+        "data-image-component": "1.0.1"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-054/54cc142d2aac45ab.txt"
+  },
+  {
+    "id": "f168633ebf2186d9",
+    "name": "RAI Services Company (formerly Known AS Reynolds American)",
+    "requested_url": "https://www.reynoldsamerican.com/",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  {
+    "id": "8c44cad55fb84070",
+    "name": "Rancho Cordova CA",
+    "requested_url": "https://www.cityofranchocordova.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "75a68aac8cb63bcf",
+    "name": "Revolution Space",
+    "requested_url": "https://revolutionspace.com/",
+    "status": 202,
+    "final_url": "https://revolutionspace.com/",
+    "text_chars": 79,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-054/75a68aac8cb63bcf.txt"
+  },
+  {
+    "id": "66525502845f6a8a",
+    "name": "RMV PA3 Development LLC",
+    "requested_url": "https://www.ranchomissionviejo.com/",
+    "status": 200,
+    "final_url": "https://www.ranchomissionviejo.com/",
+    "text_chars": 8802,
+    "logo_candidates": [
+      {
+        "src": "/assets/images/RMV_Logo_Brown.svg",
+        "width": "230",
+        "height": "64",
+        "class": "navbar-logo",
+        "alt": "rmv-logo"
+      },
+      {
+        "src": "/assets/images/RMV_Logo_White.svg",
+        "width": "230",
+        "height": "64",
+        "class": "navbar-logo-white",
+        "alt": "rmv-logo"
+      },
+      {
+        "src": "/assets/images/RMV_Logo_Arches_mobile_brown.svg",
+        "width": "30",
+        "height": "34",
+        "class": "navbar-logo-mobile",
+        "alt": "rmv-logo-icon"
+      },
+      {
+        "src": "/assets/images/RMV_Logo_Arches_mobile_white.svg",
+        "width": "30",
+        "height": "34",
+        "class": "navbar-logo-mobile-swap",
+        "alt": "rmv-logo-icon"
+      },
+      {
+        "class": "featured-logo",
+        "data-aos": "fade-up",
+        "data-aos-delay": "300",
+        "data-aos-duration": "900",
+        "src": ""
+      },
+      {
+        "class": "featured-title",
+        "data-aos": "fade-up",
+        "data-aos-delay": "500",
+        "data-aos-duration": "900",
+        "src": "https://www.ranchomissionviejo.com/uploads/logos/24RIE425_621x400_Thrive.png"
+      },
+      {
+        "class": "featured-logo",
+        "data-aos": "fade-up",
+        "data-aos-delay": "300",
+        "data-aos-duration": "900",
+        "src": "https://www.ranchomissionviejo.com/uploads/logos/bloom_Icon_150x150_241114_183145.png"
+      },
+      {
+        "class": "featured-title",
+        "data-aos": "fade-up",
+        "data-aos-delay": "500",
+        "data-aos-duration": "900",
+        "src": "https://www.ranchomissionviejo.com/uploads/logos/21RIE020_RMV_CorpWebsite_RoomToBloom_621x400_241114_183159.png"
+      },
+      {
+        "class": "featured-logo",
+        "data-aos": "fade-up",
+        "data-aos-delay": "300",
+        "data-aos-duration": "900",
+        "src": "https://www.ranchomissionviejo.com/uploads/logos/24RIE399_150x150_EnjoyMoreICON.png"
+      },
+      {
+        "class": "featured-logo",
+        "data-aos": "fade-up",
+        "data-aos-delay": "300",
+        "data-aos-duration": "900",
+        "src": "https://www.ranchomissionviejo.com/uploads/logos/FC_Grow_LogoIcon_150x150_02.png"
+      },
+      {
+        "class": "featured-logo",
+        "data-aos": "fade-up",
+        "data-aos-delay": "300",
+        "data-aos-duration": "900",
+        "src": "https://www.ranchomissionviejo.com/uploads/logos/FC_Nurture_LogoIcon_150x150_03.png"
+      },
+      {
+        "class": "featured-logo",
+        "data-aos": "fade-up",
+        "data-aos-delay": "300",
+        "data-aos-duration": "900",
+        "src": "https://www.ranchomissionviejo.com/uploads/logos/Lasso_150x150.png"
+      },
+      {
+        "class": "featured-title",
+        "data-aos": "fade-up",
+        "data-aos-delay": "500",
+        "data-aos-duration": "900",
+        "src": "https://www.ranchomissionviejo.com/uploads/logos/RanchRoundup.png"
+      },
+      {
+        "style": "cursor: pointer;",
+        "class": "popup-logo popup-logo-standard",
+        "src": "/assets/images/26RIE597_Web_250x280_popupTxt_F02.png"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-054/66525502845f6a8a.txt"
+  },
+  {
+    "id": "ec09e3c52cde9294",
+    "name": "SAN Francisco Wholesale Produce Market",
+    "requested_url": "https://thesfmarket.org/",
+    "status": 200,
+    "final_url": "https://thesfmarket.org/",
+    "text_chars": 4322,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-054/ec09e3c52cde9294.txt"
+  },
+  {
+    "id": "7c759601baebb932",
+    "name": "Sentinel Midstream LLC",
+    "requested_url": "https://www.sentinelmidstream.com/",
+    "status": 200,
+    "final_url": "https://www.sentinelmidstream.com/",
+    "text_chars": 1271,
+    "logo_candidates": [
+      {
+        "decoding": "async",
+        "src": "https://www.sentinelmidstream.com/wp-content/uploads/2018/07/SentinelMidstream-LOGO-VERT-WHITE-167x138.png",
+        "alt": "logo",
+        "width": "167",
+        "height": "138",
+        "class": "img-responsive"
+      },
+      {
+        "decoding": "async",
+        "class": "wp-image-72998",
+        "src": "https://www.sentinelmidstream.com/wp-content/uploads/2018/07/SentinelMidstream-LOGO-HORIZ.png",
+        "width": "901",
+        "height": "304",
+        "alt": "",
+        "srcset": "https://www.sentinelmidstream.com/wp-content/uploads/2018/07/SentinelMidstream-LOGO-HORIZ.png 901w, https://www.sentinelmidstream.com/wp-content/uploads/2018/07/SentinelMidstream-LOGO-HORIZ-300x101.png 300w, https://www.sentinelmidstream.com/wp-content/uploads/2018/07/SentinelMidstream-LOGO-HORIZ-768x259.png 768w",
+        "sizes": "(max-width: 901px) 100vw, 901px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-054/7c759601baebb932.txt"
+  },
+  {
+    "id": "991f3643f90f6681",
+    "name": "Sumrell Sugg OBO CarolinaEast Health System",
+    "requested_url": "https://www.carolinaeasthealth.com/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "d2d033a77fffbf18",
+    "name": "the Policy Shop LLC",
+    "requested_url": "https://thepolicyshop.com/",
+    "status": 200,
+    "final_url": "https://thepolicyshop.com/",
+    "text_chars": 44731,
+    "logo_candidates": [
+      {
+        "itemprop": "image",
+        "class": "normal",
+        "src": "https://thepolicyshop.com/wp-content/uploads/2023/12/thepolicyshop-logo-stacked-white@0.75x-1.png",
+        "alt": "Logo"
+      },
+      {
+        "itemprop": "image",
+        "class": "light",
+        "src": "https://thepolicyshop.com/wp-content/uploads/2023/12/thepolicyshop-logo-stacked-white@0.75x-1.png",
+        "alt": "Logo"
+      },
+      {
+        "itemprop": "image",
+        "class": "dark",
+        "src": "https://thepolicyshop.com/wp-content/uploads/2023/12/thepolicyshop-logo-stacked-white@0.75x-1.png",
+        "alt": "Logo"
+      },
+      {
+        "itemprop": "image",
+        "class": "sticky",
+        "src": "https://thepolicyshop.com/wp-content/uploads/2023/11/logo.png",
+        "alt": "Logo"
+      },
+      {
+        "itemprop": "image",
+        "class": "mobile",
+        "src": "https://thepolicyshop.com/wp-content/uploads/2023/12/thepolicyshop-logo-stacked-white@0.75x-1.png",
+        "alt": "Logo"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "2560",
+        "height": "1856",
+        "src": "https://thepolicyshop.com/wp-content/uploads/2023/12/thepolicyshop-logo-stacked-white@0.75x-1.png",
+        "alt": "",
+        "class": "wp-image-4551",
+        "style": "object-fit:contain;width:200px;height:200px",
+        "srcset": "https://thepolicyshop.com/wp-content/uploads/2023/12/thepolicyshop-logo-stacked-white@0.75x-1.png 2560w, https://thepolicyshop.com/wp-content/uploads/2023/12/thepolicyshop-logo-stacked-white@0.75x-1-600x435.png 600w, https://thepolicyshop.com/wp-content/uploads/2023/12/thepolicyshop-logo-stacked-white@0.75x-1-300x218.png 300w, https://thepolicyshop.com/wp-content/uploads/2023/12/thepolicyshop-logo-stacked-white@0.75x-1-1024x742.png 1024w, https://thepolicyshop.com/wp-content/uploads/2023/12/thepolicyshop-logo-stacked-white@0.75x-1-768x557.png 768w, https://thepolicyshop.com/wp-content/uploads/2023/12/thepolicyshop-logo-stacked-white@0.75x-1-1536x1114.png 1536w, https://thepolicyshop.com/wp-content/uploads/2023/12/thepolicyshop-logo-stacked-white@0.75x-1-2048x1485.png 2048w, https://thepolicyshop.com/wp-content/uploads/2023/12/thepolicyshop-logo-stacked-white@0.75x-1-700x508.png 700w",
+        "sizes": "(max-width: 2560px) 100vw, 2560px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-054/d2d033a77fffbf18.txt"
+  },
+  {
+    "id": "f875937369f35b4b",
+    "name": "Town of Superior (arizona)",
+    "requested_url": "https://superioraz.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "dcb085cba6f82591",
+    "name": "Housing Authority of the County of Santa Barbara (via Arnall Golden Gregory)",
+    "requested_url": "https://www.hasbarco.org/",
+    "status": 200,
+    "final_url": "https://www.hasbarco.org/",
+    "text_chars": 4257,
+    "logo_candidates": [
+      {
+        "src": "_assets_/images/logo.png",
+        "alt": "County of Santa Barbara Housing Authority Logo Homepage"
+      },
+      {
+        "src": "_assets_/images/footer-logo.png",
+        "id": "footer-logo",
+        "alt": "Housing Authority of the County of Santa Barbara Logo Homepage"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-054/dcb085cba6f82591.txt"
+  },
+  {
+    "id": "9027dca81b45833c",
+    "name": "Biopesticide Industry Alliance (now Biological Products Industry Alliance)",
+    "requested_url": "https://www.bpia.org/",
+    "status": 200,
+    "final_url": "https://www.bpia.org/",
+    "text_chars": 3845,
+    "logo_candidates": [
+      {
+        "src": "https://www.bpia.org/wp-content/uploads/2020/01/bpia_logo_2020.gif",
+        "alt": "Biological Products Industry Alliance",
+        "id": "logo"
+      },
+      {
+        "class": "bar_logo",
+        "alt": "logo",
+        "src": "https://www.bpia.org/wp-content/uploads/2020/01/bpia_logo_2020.gif"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-054/9027dca81b45833c.txt"
+  },
+  {
+    "id": "455d3ae5dd54b916",
+    "name": "City of North Las Vegas, Nevada",
+    "requested_url": "https://www.cityofnorthlasvegas.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "2bfd1c5667564363",
+    "name": "East Lake Metals",
+    "requested_url": "https://eastlakemetals.com/",
+    "status": 200,
+    "final_url": "https://eastlakemetals.com/",
+    "text_chars": 8166,
+    "logo_candidates": [
+      {
+        "height": "100",
+        "width": "300",
+        "src": "https://eastlakemetals.com/wp-content/uploads/2020/01/ELM-logo.png",
+        "alt": "East Lake Metals",
+        "title": ""
+      },
+      {
+        "class": "ndesign_image",
+        "src": "https://eastlakemetals.com/wp-content/uploads/2020/01/East-Lake-Metals-Light-Grey-Logo.png",
+        "alt": "",
+        "title": "East-Lake-Metals-Light-Grey-Logo",
+        "height": "154",
+        "width": "486",
+        "itemprop": "thumbnailUrl"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-054/2bfd1c5667564363.txt"
+  },
+  {
+    "id": "850a463edc86a465",
+    "name": "Global Defense Partners, LLC",
+    "requested_url": "https://www.globaldefensepartnersllc.com/",
+    "status": 200,
+    "final_url": "https://www.globaldefensepartners.net/",
+    "text_chars": 2441,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-054/850a463edc86a465.txt"
+  },
+  {
+    "id": "bd41539328acc160",
+    "name": "Herenow Help, Inc.",
+    "requested_url": "https://herenowhelp.com/",
+    "status": 200,
+    "final_url": "https://herenowhelp.com/",
+    "text_chars": 3206,
+    "logo_candidates": [
+      {
+        "src": "https://herenowhelp.com/images/logo-dark.png",
+        "width": "125",
+        "height": "30",
+        "alt": "HereNOW Help"
+      },
+      {
+        "src": "https://herenowhelp.com/images/logo-white.png",
+        "width": "125",
+        "height": "30",
+        "alt": "HereNOW Help"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-054/bd41539328acc160.txt"
+  },
+  {
+    "id": "03eb54b72217aeb8",
+    "name": "Iowa Interstate Railroad, LTD",
+    "requested_url": "https://iaisrr.com/",
+    "status": 200,
+    "final_url": "https://iaisrr.com/",
+    "text_chars": 3264,
+    "logo_candidates": [
+      {
+        "id": "mainhdrlogo",
+        "src": "https://iaisrr.com/wp-content/themes/IAISRR/images/IAISRRlogo.png",
+        "alt": "Iowa Interstate Railroad"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-054/03eb54b72217aeb8.txt"
+  },
+  {
+    "id": "772dc1e11cb20e7b",
+    "name": "Larson Leather Company",
+    "requested_url": "https://www.larsonleatherco.com/",
+    "status": 200,
+    "final_url": "https://www.larsonleatherco.com/",
+    "text_chars": 689,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "sizes": "148px",
+        "srcset": "https://static.wixstatic.com/media/dffa18_6ad1fb5333064d5a9f2871f11f29d6d1~mv2.png/v1/fill/w_148,h_147,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LLC%20Logo%202020%20-%20White%20highlight%20in%20backg.png 1x, https://static.wixstatic.com/media/dffa18_6ad1fb5333064d5a9f2871f11f29d6d1~mv2.png/v1/fill/w_296,h_294,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LLC%20Logo%202020%20-%20White%20highlight%20in%20backg.png 2x",
+        "id": "img_comp-kkojab9g",
+        "src": "https://static.wixstatic.com/media/dffa18_6ad1fb5333064d5a9f2871f11f29d6d1~mv2.png/v1/fill/w_148,h_147,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/LLC%20Logo%202020%20-%20White%20highlight%20in%20backg.png",
+        "alt": "LLC Logo 2020 - White highlight in backg",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "148",
+        "height": "147"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-054/772dc1e11cb20e7b.txt"
+  },
+  {
+    "id": "396fd20b0b732f72",
+    "name": "Liv-connected, Inc.",
+    "requested_url": "https://liv-connected.com/",
+    "status": 200,
+    "final_url": "https://liv-connected.com/",
+    "text_chars": 12812,
+    "logo_candidates": [
+      {
+        "alt": "",
+        "fetchpriority": "high",
+        "width": "135",
+        "height": "35",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "transition-all opacity-0",
+        "style": "color:transparent",
+        "src": "https://images.ctfassets.net/35iaf4xwa2mx/2T0DOikxT4sTB9ozGq3so9/58626a0a4f866ab5fa4c747fa7ca2296/logo-partner-dxa.svg"
+      },
+      {
+        "alt": "Architizer A+ Awards Special Mention honoree",
+        "fetchpriority": "high",
+        "width": "97",
+        "height": "36",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "transition-all opacity-0 mx-auto md:mx-0",
+        "style": "color:transparent",
+        "srcset": "/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F35iaf4xwa2mx%2F7Dc70wDL8Pv3kCOqG5B726%2Fce0bbdab418ad6761ae2ce02bbbc054e%2Flogo-partner-architizer.png&w=128&q=100 1x, /_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F35iaf4xwa2mx%2F7Dc70wDL8Pv3kCOqG5B726%2Fce0bbdab418ad6761ae2ce02bbbc054e%2Flogo-partner-architizer.png&w=256&q=100 2x",
+        "src": "/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F35iaf4xwa2mx%2F7Dc70wDL8Pv3kCOqG5B726%2Fce0bbdab418ad6761ae2ce02bbbc054e%2Flogo-partner-architizer.png&w=256&q=100"
+      },
+      {
+        "alt": "BSC Jerry Rouleau Awards for Excellence in Home Design",
+        "fetchpriority": "high",
+        "width": "97",
+        "height": "36",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "transition-all opacity-0 mx-auto md:mx-0",
+        "style": "color:transparent",
+        "srcset": "/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F35iaf4xwa2mx%2F2MiCPVJlOcHA62LSS4jf93%2Fe7615eb5f8bd68803716c5434d76133a%2Flogo-partner-nahb.png&w=128&q=100 1x, /_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F35iaf4xwa2mx%2F2MiCPVJlOcHA62LSS4jf93%2Fe7615eb5f8bd68803716c5434d76133a%2Flogo-partner-nahb.png&w=256&q=100 2x",
+        "src": "/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F35iaf4xwa2mx%2F2MiCPVJlOcHA62LSS4jf93%2Fe7615eb5f8bd68803716c5434d76133a%2Flogo-partner-nahb.png&w=256&q=100"
+      },
+      {
+        "alt": "Society of American Registered Architects: 2024 SARA National Design Award Winner",
+        "fetchpriority": "high",
+        "width": "97",
+        "height": "36",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "transition-all opacity-0 mx-auto md:mx-0",
+        "style": "color:transparent",
+        "srcset": "/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F35iaf4xwa2mx%2F7m6zojLPY4MTxUjaejWZya%2F67d2a26365d708a27922468d26946571%2FNATL_Logo_5.18.21-36251-__2_.jpg&w=128&q=100 1x, /_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F35iaf4xwa2mx%2F7m6zojLPY4MTxUjaejWZya%2F67d2a26365d708a27922468d26946571%2FNATL_Logo_5.18.21-36251-__2_.jpg&w=256&q=100 2x",
+        "src": "/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F35iaf4xwa2mx%2F7m6zojLPY4MTxUjaejWZya%2F67d2a26365d708a27922468d26946571%2FNATL_Logo_5.18.21-36251-__2_.jpg&w=256&q=100"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-054/396fd20b0b732f72.txt"
+  },
+  {
+    "id": "90e8a481682adb80",
+    "name": "Mobiloans, LLC",
+    "requested_url": "https://www.mobiloans.com/",
+    "status": 200,
+    "final_url": "https://mobiloans.com/",
+    "text_chars": 122,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-054/90e8a481682adb80.txt"
+  },
+  {
+    "id": "3261382ec868f87e",
+    "name": "National Consumer Reporting Association",
+    "requested_url": "https://ncrainc.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "3e183e97beea47db",
+    "name": "National Football League (nfl)",
+    "requested_url": "https://www.nfl.com/",
+    "status": 200,
+    "final_url": "https://www.nfl.com/",
+    "text_chars": 41400,
+    "logo_candidates": [
+      {
+        "alt": "",
+        "loading": "lazy",
+        "width": "20",
+        "height": "20",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-4",
+        "style": "color:transparent",
+        "src": "https://stage-static.www.nfl.com/image/upload/v1719838053/stage-league/logos/Plus-Logo_dejnyx.svg"
+      },
+      {
+        "alt": "RedZone Upcoming Image",
+        "loading": "lazy",
+        "width": "500",
+        "height": "112",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-auto w-[84px] lg:w-24 object-contain",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/web/global/logos/logo-league-redzone-primarylight.svg"
+      },
+      {
+        "alt": "NFLPlusPremium network icon",
+        "loading": "lazy",
+        "width": "20",
+        "height": "12",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "w-5 h-3 dark:grayscale dark:brightness-200 w-full h-full",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/web/global/logos/broadcaster/broadcaster_NFLPlusPremium.svg"
+      },
+      {
+        "alt": "RedZone Upcoming Image",
+        "loading": "lazy",
+        "width": "500",
+        "height": "112",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-auto w-[84px] lg:w-24 object-contain",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/web/global/logos/logo-league-redzone-primarylight.svg"
+      },
+      {
+        "alt": "NFLPlusPremium network icon",
+        "loading": "lazy",
+        "width": "20",
+        "height": "12",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "w-5 h-3 dark:grayscale dark:brightness-200 w-full h-full",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/web/global/logos/broadcaster/broadcaster_NFLPlusPremium.svg"
+      },
+      {
+        "alt": "Carolina Panthers logo",
+        "role": "presentation",
+        "loading": "lazy",
+        "width": "24",
+        "height": "24",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-5 lg:size-6 mr-1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_24,dpr_2.0,q_auto,w_24/league/api/clubs/logos/CAR"
+      },
+      {
+        "alt": "Atlanta Falcons logo",
+        "role": "presentation",
+        "loading": "lazy",
+        "width": "24",
+        "height": "24",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-5 lg:size-6 mr-1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_24,dpr_2.0,q_auto,w_24/league/api/clubs/logos/ATL"
+      },
+      {
+        "alt": "FOX network logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "12",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "w-5 h-3 dark:grayscale dark:brightness-200",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/web/global/logos/broadcaster/broadcaster_FOX.svg"
+      },
+      {
+        "alt": "New Orleans Saints logo",
+        "role": "presentation",
+        "loading": "lazy",
+        "width": "24",
+        "height": "24",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-5 lg:size-6 mr-1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_24,dpr_2.0,q_auto,w_24/league/api/clubs/logos/NO"
+      },
+      {
+        "alt": "Baltimore Ravens logo",
+        "role": "presentation",
+        "loading": "lazy",
+        "width": "24",
+        "height": "24",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-5 lg:size-6 mr-1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_24,dpr_2.0,q_auto,w_24/league/api/clubs/logos/BAL"
+      },
+      {
+        "alt": "CBS network logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "12",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "w-5 h-3 dark:grayscale dark:brightness-200",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/web/global/logos/broadcaster/broadcaster_CBS.svg"
+      },
+      {
+        "alt": "Minnesota Vikings logo",
+        "role": "presentation",
+        "loading": "lazy",
+        "width": "24",
+        "height": "24",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-5 lg:size-6 mr-1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_24,dpr_2.0,q_auto,w_24/league/api/clubs/logos/MIN"
+      },
+      {
+        "alt": "Chicago Bears logo",
+        "role": "presentation",
+        "loading": "lazy",
+        "width": "24",
+        "height": "24",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-5 lg:size-6 mr-1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_24,dpr_2.0,q_auto,w_24/league/api/clubs/logos/CHI"
+      },
+      {
+        "alt": "FOX network logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "12",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "w-5 h-3 dark:grayscale dark:brightness-200",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/web/global/logos/broadcaster/broadcaster_FOX.svg"
+      },
+      {
+        "alt": "Cincinnati Bengals logo",
+        "role": "presentation",
+        "loading": "lazy",
+        "width": "24",
+        "height": "24",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-5 lg:size-6 mr-1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_24,dpr_2.0,q_auto,w_24/league/api/clubs/logos/CIN"
+      },
+      {
+        "alt": "Houston Texans logo",
+        "role": "presentation",
+        "loading": "lazy",
+        "width": "24",
+        "height": "24",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-5 lg:size-6 mr-1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_24,dpr_2.0,q_auto,w_24/league/api/clubs/logos/HOU"
+      },
+      {
+        "alt": "CBS network logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "12",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "w-5 h-3 dark:grayscale dark:brightness-200",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/web/global/logos/broadcaster/broadcaster_CBS.svg"
+      },
+      {
+        "alt": "Pittsburgh Steelers logo",
+        "role": "presentation",
+        "loading": "lazy",
+        "width": "24",
+        "height": "24",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-5 lg:size-6 mr-1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_24,dpr_2.0,q_auto,w_24/league/api/clubs/logos/PIT"
+      },
+      {
+        "alt": "New England Patriots logo",
+        "role": "presentation",
+        "loading": "lazy",
+        "width": "24",
+        "height": "24",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-5 lg:size-6 mr-1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_24,dpr_2.0,q_auto,w_24/league/api/clubs/logos/NE"
+      },
+      {
+        "alt": "CBS network logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "12",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "w-5 h-3 dark:grayscale dark:brightness-200",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/web/global/logos/broadcaster/broadcaster_CBS.svg"
+      },
+      {
+        "alt": "Green Bay Packers logo",
+        "role": "presentation",
+        "loading": "lazy",
+        "width": "24",
+        "height": "24",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-5 lg:size-6 mr-1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_24,dpr_2.0,q_auto,w_24/league/api/clubs/logos/GB"
+      },
+      {
+        "alt": "New York Jets logo",
+        "role": "presentation",
+        "loading": "lazy",
+        "width": "24",
+        "height": "24",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-5 lg:size-6 mr-1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_24,dpr_2.0,q_auto,w_24/league/api/clubs/logos/NYJ"
+      },
+      {
+        "alt": "FOX network logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "12",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "w-5 h-3 dark:grayscale dark:brightness-200",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/web/global/logos/broadcaster/broadcaster_FOX.svg"
+      },
+      {
+        "alt": "Cleveland Browns logo",
+        "role": "presentation",
+        "loading": "lazy",
+        "width": "24",
+        "height": "24",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-5 lg:size-6 mr-1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_24,dpr_2.0,q_auto,w_24/league/api/clubs/logos/CLE"
+      },
+      {
+        "alt": "Tampa Bay Buccaneers logo",
+        "role": "presentation",
+        "loading": "lazy",
+        "width": "24",
+        "height": "24",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-5 lg:size-6 mr-1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_24,dpr_2.0,q_auto,w_24/league/api/clubs/logos/TB"
+      },
+      {
+        "alt": "CBS network logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "12",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "w-5 h-3 dark:grayscale dark:brightness-200",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/web/global/logos/broadcaster/broadcaster_CBS.svg"
+      },
+      {
+        "alt": "Philadelphia Eagles logo",
+        "role": "presentation",
+        "loading": "lazy",
+        "width": "24",
+        "height": "24",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-5 lg:size-6 mr-1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_24,dpr_2.0,q_auto,w_24/league/api/clubs/logos/PHI"
+      },
+      {
+        "alt": "Tennessee Titans logo",
+        "role": "presentation",
+        "loading": "lazy",
+        "width": "24",
+        "height": "24",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-5 lg:size-6 mr-1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_24,dpr_2.0,q_auto,w_24/league/api/clubs/logos/TEN"
+      },
+      {
+        "alt": "FOX network logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "12",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "w-5 h-3 dark:grayscale dark:brightness-200",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/web/global/logos/broadcaster/broadcaster_FOX.svg"
+      },
+      {
+        "alt": "Jacksonville Jaguars logo",
+        "role": "presentation",
+        "loading": "lazy",
+        "width": "24",
+        "height": "24",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-5 lg:size-6 mr-1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_24,dpr_2.0,q_auto,w_24/league/api/clubs/logos/JAX"
+      },
+      {
+        "alt": "Denver Broncos logo",
+        "role": "presentation",
+        "loading": "lazy",
+        "width": "24",
+        "height": "24",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-5 lg:size-6 mr-1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_24,dpr_2.0,q_auto,w_24/league/api/clubs/logos/DEN"
+      },
+      {
+        "alt": "CBS network logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "12",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "w-5 h-3 dark:grayscale dark:brightness-200",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/web/global/logos/broadcaster/broadcaster_CBS.svg"
+      },
+      {
+        "alt": "Las Vegas Raiders logo",
+        "role": "presentation",
+        "loading": "lazy",
+        "width": "24",
+        "height": "24",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-5 lg:size-6 mr-1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_24,dpr_2.0,q_auto,w_24/league/api/clubs/logos/LV"
+      },
+      {
+        "alt": "Los Angeles Chargers logo",
+        "role": "presentation",
+        "loading": "lazy",
+        "width": "24",
+        "height": "24",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-5 lg:size-6 mr-1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_24,dpr_2.0,q_auto,w_24/league/api/clubs/logos/LAC"
+      },
+      {
+        "alt": "CBS network logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "12",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "w-5 h-3 dark:grayscale dark:brightness-200",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/web/global/logos/broadcaster/broadcaster_CBS.svg"
+      },
+      {
+        "alt": "Seattle Seahawks logo",
+        "role": "presentation",
+        "loading": "lazy",
+        "width": "24",
+        "height": "24",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-5 lg:size-6 mr-1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_24,dpr_2.0,q_auto,w_24/league/api/clubs/logos/SEA"
+      },
+      {
+        "alt": "Arizona Cardinals logo",
+        "role": "presentation",
+        "loading": "lazy",
+        "width": "24",
+        "height": "24",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-5 lg:size-6 mr-1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_24,dpr_2.0,q_auto,w_24/league/api/clubs/logos/AZ"
+      },
+      {
+        "alt": "FOX network logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "12",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "w-5 h-3 dark:grayscale dark:brightness-200",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/web/global/logos/broadcaster/broadcaster_FOX.svg"
+      },
+      {
+        "alt": "Washington Commanders logo",
+        "role": "presentation",
+        "loading": "lazy",
+        "width": "24",
+        "height": "24",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-5 lg:size-6 mr-1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_24,dpr_2.0,q_auto,w_24/league/api/clubs/logos/WAS"
+      },
+      {
+        "alt": "Dallas Cowboys logo",
+        "role": "presentation",
+        "loading": "lazy",
+        "width": "24",
+        "height": "24",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-5 lg:size-6 mr-1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_24,dpr_2.0,q_auto,w_24/league/api/clubs/logos/DAL"
+      },
+      {
+        "alt": "FOX network logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "12",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "w-5 h-3 dark:grayscale dark:brightness-200",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/web/global/logos/broadcaster/broadcaster_FOX.svg"
+      },
+      {
+        "alt": "Miami Dolphins logo",
+        "role": "presentation",
+        "loading": "lazy",
+        "width": "24",
+        "height": "24",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-5 lg:size-6 mr-1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_24,dpr_2.0,q_auto,w_24/league/api/clubs/logos/MIA"
+      },
+      {
+        "alt": "San Francisco 49ers logo",
+        "role": "presentation",
+        "loading": "lazy",
+        "width": "24",
+        "height": "24",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-5 lg:size-6 mr-1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_24,dpr_2.0,q_auto,w_24/league/api/clubs/logos/SF"
+      },
+      {
+        "alt": "FOX network logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "12",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "w-5 h-3 dark:grayscale dark:brightness-200",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/web/global/logos/broadcaster/broadcaster_FOX.svg"
+      },
+      {
+        "alt": "Indianapolis Colts logo",
+        "role": "presentation",
+        "loading": "lazy",
+        "width": "24",
+        "height": "24",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-5 lg:size-6 mr-1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_24,dpr_2.0,q_auto,w_24/league/api/clubs/logos/IND"
+      },
+      {
+        "alt": "Kansas City Chiefs logo",
+        "role": "presentation",
+        "loading": "lazy",
+        "width": "24",
+        "height": "24",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-5 lg:size-6 mr-1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_24,dpr_2.0,q_auto,w_24/league/api/clubs/logos/KC"
+      },
+      {
+        "alt": "NBC network logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "12",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "w-5 h-3 dark:grayscale dark:brightness-200",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/web/global/logos/broadcaster/broadcaster_NBC.svg"
+      },
+      {
+        "alt": "New York Giants logo",
+        "role": "presentation",
+        "loading": "lazy",
+        "width": "24",
+        "height": "24",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-5 lg:size-6 mr-1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_24,dpr_2.0,q_auto,w_24/league/api/clubs/logos/NYG"
+      },
+      {
+        "alt": "Los Angeles Rams logo",
+        "role": "presentation",
+        "loading": "lazy",
+        "width": "24",
+        "height": "24",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-5 lg:size-6 mr-1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_24,dpr_2.0,q_auto,w_24/league/api/clubs/logos/LA"
+      },
+      {
+        "alt": "ESPN network logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "12",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "w-5 h-3 dark:grayscale dark:brightness-200",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/web/global/logos/broadcaster/broadcaster_ESPN.svg"
+      },
+      {
+        "alt": "Detroit Lions logo",
+        "role": "presentation",
+        "loading": "lazy",
+        "width": "24",
+        "height": "24",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-5 lg:size-6 mr-1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_24,dpr_2.0,q_auto,w_24/league/api/clubs/logos/DET"
+      },
+      {
+        "alt": "Buffalo Bills logo",
+        "role": "presentation",
+        "loading": "lazy",
+        "width": "24",
+        "height": "24",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-5 lg:size-6 mr-1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_24,dpr_2.0,q_auto,w_24/league/api/clubs/logos/BUF"
+      },
+      {
+        "alt": "NFL Logo",
+        "aria-hidden": "true",
+        "loading": "lazy",
+        "width": "36",
+        "height": "36",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "flex size-9 min-w-9",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/image/upload/v1554321393/league/nvfr7ogywskqrfaiu38m.png"
+      },
+      {
+        "alt": "Buffalo Bills",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/BUF"
+      },
+      {
+        "alt": "Miami Dolphins",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/MIA"
+      },
+      {
+        "alt": "New England Patriots",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/NE"
+      },
+      {
+        "alt": "New York Jets",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/NYJ"
+      },
+      {
+        "alt": "Baltimore Ravens",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/BAL"
+      },
+      {
+        "alt": "Cincinnati Bengals",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/CIN"
+      },
+      {
+        "alt": "Cleveland Browns",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/CLE"
+      },
+      {
+        "alt": "Pittsburgh Steelers",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/PIT"
+      },
+      {
+        "alt": "Houston Texans",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/HOU"
+      },
+      {
+        "alt": "Indianapolis Colts",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/IND"
+      },
+      {
+        "alt": "Jacksonville Jaguars",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/JAX"
+      },
+      {
+        "alt": "Tennessee Titans",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/TEN"
+      },
+      {
+        "alt": "Denver Broncos",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/DEN"
+      },
+      {
+        "alt": "Kansas City Chiefs",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/KC"
+      },
+      {
+        "alt": "Las Vegas Raiders",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/LV"
+      },
+      {
+        "alt": "Los Angeles Chargers",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/LAC"
+      },
+      {
+        "alt": "Dallas Cowboys",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/DAL"
+      },
+      {
+        "alt": "New York Giants",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/NYG"
+      },
+      {
+        "alt": "Philadelphia Eagles",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/PHI"
+      },
+      {
+        "alt": "Washington Commanders",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/WAS"
+      },
+      {
+        "alt": "Chicago Bears",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/CHI"
+      },
+      {
+        "alt": "Detroit Lions",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/DET"
+      },
+      {
+        "alt": "Green Bay Packers",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/GB"
+      },
+      {
+        "alt": "Minnesota Vikings",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/MIN"
+      },
+      {
+        "alt": "Atlanta Falcons",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/ATL"
+      },
+      {
+        "alt": "Carolina Panthers",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/CAR"
+      },
+      {
+        "alt": "New Orleans Saints",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/NO"
+      },
+      {
+        "alt": "Tampa Bay Buccaneers",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/TB"
+      },
+      {
+        "alt": "Arizona Cardinals",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/AZ"
+      },
+      {
+        "alt": "Los Angeles Rams",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/LA"
+      },
+      {
+        "alt": "San Francisco 49ers",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/SF"
+      },
+      {
+        "alt": "Seattle Seahawks",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/SEA"
+      },
+      {
+        "alt": "Next Gen Stats",
+        "title": "Next Gen Stats",
+        "loading": "lazy",
+        "width": "48",
+        "height": "12",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "pr-1.5 w-12 h-3 object-contain",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/web/global/logos/NextGenStats-logo.svg"
+      },
+      {
+        "alt": "Buffalo Bills",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/BUF"
+      },
+      {
+        "alt": "Miami Dolphins",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/MIA"
+      },
+      {
+        "alt": "New England Patriots",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/NE"
+      },
+      {
+        "alt": "New York Jets",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/NYJ"
+      },
+      {
+        "alt": "Baltimore Ravens",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/BAL"
+      },
+      {
+        "alt": "Cincinnati Bengals",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/CIN"
+      },
+      {
+        "alt": "Cleveland Browns",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/CLE"
+      },
+      {
+        "alt": "Pittsburgh Steelers",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/PIT"
+      },
+      {
+        "alt": "Houston Texans",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/HOU"
+      },
+      {
+        "alt": "Indianapolis Colts",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/IND"
+      },
+      {
+        "alt": "Jacksonville Jaguars",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/JAX"
+      },
+      {
+        "alt": "Tennessee Titans",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/TEN"
+      },
+      {
+        "alt": "Denver Broncos",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/DEN"
+      },
+      {
+        "alt": "Kansas City Chiefs",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/KC"
+      },
+      {
+        "alt": "Las Vegas Raiders",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/LV"
+      },
+      {
+        "alt": "Los Angeles Chargers",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/LAC"
+      },
+      {
+        "alt": "Dallas Cowboys",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/DAL"
+      },
+      {
+        "alt": "New York Giants",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/NYG"
+      },
+      {
+        "alt": "Philadelphia Eagles",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/PHI"
+      },
+      {
+        "alt": "Washington Commanders",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/WAS"
+      },
+      {
+        "alt": "Chicago Bears",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/CHI"
+      },
+      {
+        "alt": "Detroit Lions",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/DET"
+      },
+      {
+        "alt": "Green Bay Packers",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/GB"
+      },
+      {
+        "alt": "Minnesota Vikings",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/MIN"
+      },
+      {
+        "alt": "Atlanta Falcons",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/ATL"
+      },
+      {
+        "alt": "Carolina Panthers",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/CAR"
+      },
+      {
+        "alt": "New Orleans Saints",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/NO"
+      },
+      {
+        "alt": "Tampa Bay Buccaneers",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/TB"
+      },
+      {
+        "alt": "Arizona Cardinals",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/AZ"
+      },
+      {
+        "alt": "Los Angeles Rams",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/LA"
+      },
+      {
+        "alt": "San Francisco 49ers",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/SF"
+      },
+      {
+        "alt": "Seattle Seahawks",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "border-b-transparent",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_16,dpr_2.0,q_auto,w_16/league/api/clubs/logos/SEA"
+      },
+      {
+        "alt": "Next Gen Stats",
+        "title": "Next Gen Stats",
+        "loading": "lazy",
+        "width": "48",
+        "height": "12",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "pr-1.5 w-12 h-3 object-contain",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/web/global/logos/NextGenStats-logo.svg"
+      },
+      {
+        "alt": "",
+        "aria-hidden": "true",
+        "loading": "lazy",
+        "width": "28",
+        "height": "28",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-10 object-contain flex-shrink-0",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/nflplus/partners/logo-partner-theathleticicon-light.svg"
+      },
+      {
+        "alt": "The Athletic logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "20",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/nflplus/partners/logo-partner-theathleticicon-light.svg"
+      },
+      {
+        "alt": "The Athletic logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "20",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/nflplus/partners/logo-partner-theathleticicon-light.svg"
+      },
+      {
+        "alt": "The Athletic logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "20",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/nflplus/partners/logo-partner-theathleticicon-light.svg"
+      },
+      {
+        "alt": "The Athletic logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "20",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/nflplus/partners/logo-partner-theathleticicon-light.svg"
+      },
+      {
+        "alt": "The Athletic logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "20",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/nflplus/partners/logo-partner-theathleticicon-light.svg"
+      },
+      {
+        "alt": "The Athletic logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "20",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/nflplus/partners/logo-partner-theathleticicon-light.svg"
+      },
+      {
+        "alt": "The Athletic logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "20",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/nflplus/partners/logo-partner-theathleticicon-light.svg"
+      },
+      {
+        "alt": "The Athletic logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "20",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/nflplus/partners/logo-partner-theathleticicon-light.svg"
+      },
+      {
+        "alt": "The Athletic logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "20",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/nflplus/partners/logo-partner-theathleticicon-light.svg"
+      },
+      {
+        "alt": "The Athletic logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "20",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/nflplus/partners/logo-partner-theathleticicon-light.svg"
+      },
+      {
+        "alt": "The Athletic logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "20",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/nflplus/partners/logo-partner-theathleticicon-light.svg"
+      },
+      {
+        "alt": "The Athletic logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "20",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/nflplus/partners/logo-partner-theathleticicon-light.svg"
+      },
+      {
+        "alt": "The Athletic logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "20",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/nflplus/partners/logo-partner-theathleticicon-light.svg"
+      },
+      {
+        "alt": "The Athletic logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "20",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/nflplus/partners/logo-partner-theathleticicon-light.svg"
+      },
+      {
+        "alt": "The Athletic logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "20",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/nflplus/partners/logo-partner-theathleticicon-light.svg"
+      },
+      {
+        "alt": "The Athletic logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "20",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/nflplus/partners/logo-partner-theathleticicon-light.svg"
+      },
+      {
+        "alt": "The Athletic logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "20",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/nflplus/partners/logo-partner-theathleticicon-light.svg"
+      },
+      {
+        "alt": "The Athletic logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "20",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/nflplus/partners/logo-partner-theathleticicon-light.svg"
+      },
+      {
+        "alt": "The Athletic logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "20",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/nflplus/partners/logo-partner-theathleticicon-light.svg"
+      },
+      {
+        "alt": "The Athletic logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "20",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/nflplus/partners/logo-partner-theathleticicon-light.svg"
+      },
+      {
+        "alt": "The Athletic logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "20",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/nflplus/partners/logo-partner-theathleticicon-light.svg"
+      },
+      {
+        "alt": "The Athletic logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "20",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/nflplus/partners/logo-partner-theathleticicon-light.svg"
+      },
+      {
+        "alt": "The Athletic logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "20",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/nflplus/partners/logo-partner-theathleticicon-light.svg"
+      },
+      {
+        "alt": "The Athletic logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "20",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/nflplus/partners/logo-partner-theathleticicon-light.svg"
+      },
+      {
+        "alt": "The Athletic logo",
+        "loading": "lazy",
+        "width": "20",
+        "height": "20",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/nflplus/partners/logo-partner-theathleticicon-light.svg"
+      },
+      {
+        "alt": "Baltimore Ravens",
+        "loading": "lazy",
+        "width": "40",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-full",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_40,dpr_2.0,q_auto,w_40/league/api/clubs/logos/BAL"
+      },
+      {
+        "alt": "Buffalo Bills",
+        "loading": "lazy",
+        "width": "40",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-full",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_40,dpr_2.0,q_auto,w_40/league/api/clubs/logos/BUF"
+      },
+      {
+        "alt": "Cincinnati Bengals",
+        "loading": "lazy",
+        "width": "40",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-full",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_40,dpr_2.0,q_auto,w_40/league/api/clubs/logos/CIN"
+      },
+      {
+        "alt": "Cleveland Browns",
+        "loading": "lazy",
+        "width": "40",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-full",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_40,dpr_2.0,q_auto,w_40/league/api/clubs/logos/CLE"
+      },
+      {
+        "alt": "Denver Broncos",
+        "loading": "lazy",
+        "width": "40",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-full",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_40,dpr_2.0,q_auto,w_40/league/api/clubs/logos/DEN"
+      },
+      {
+        "alt": "Houston Texans",
+        "loading": "lazy",
+        "width": "40",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-full",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_40,dpr_2.0,q_auto,w_40/league/api/clubs/logos/HOU"
+      },
+      {
+        "alt": "Indianapolis Colts",
+        "loading": "lazy",
+        "width": "40",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-full",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_40,dpr_2.0,q_auto,w_40/league/api/clubs/logos/IND"
+      },
+      {
+        "alt": "Jacksonville Jaguars",
+        "loading": "lazy",
+        "width": "40",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-full",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_40,dpr_2.0,q_auto,w_40/league/api/clubs/logos/JAX"
+      },
+      {
+        "alt": "Kansas City Chiefs",
+        "loading": "lazy",
+        "width": "40",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-full",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_40,dpr_2.0,q_auto,w_40/league/api/clubs/logos/KC"
+      },
+      {
+        "alt": "Las Vegas Raiders",
+        "loading": "lazy",
+        "width": "40",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-full",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_40,dpr_2.0,q_auto,w_40/league/api/clubs/logos/LV"
+      },
+      {
+        "alt": "Los Angeles Chargers",
+        "loading": "lazy",
+        "width": "40",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-full",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_40,dpr_2.0,q_auto,w_40/league/api/clubs/logos/LAC"
+      },
+      {
+        "alt": "Miami Dolphins",
+        "loading": "lazy",
+        "width": "40",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-full",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_40,dpr_2.0,q_auto,w_40/league/api/clubs/logos/MIA"
+      },
+      {
+        "alt": "New England Patriots",
+        "loading": "lazy",
+        "width": "40",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-full",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_40,dpr_2.0,q_auto,w_40/league/api/clubs/logos/NE"
+      },
+      {
+        "alt": "New York Jets",
+        "loading": "lazy",
+        "width": "40",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-full",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_40,dpr_2.0,q_auto,w_40/league/api/clubs/logos/NYJ"
+      },
+      {
+        "alt": "Pittsburgh Steelers",
+        "loading": "lazy",
+        "width": "40",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-full",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_40,dpr_2.0,q_auto,w_40/league/api/clubs/logos/PIT"
+      },
+      {
+        "alt": "Tennessee Titans",
+        "loading": "lazy",
+        "width": "40",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-full",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_40,dpr_2.0,q_auto,w_40/league/api/clubs/logos/TEN"
+      },
+      {
+        "alt": "Arizona Cardinals",
+        "loading": "lazy",
+        "width": "40",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-full",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_40,dpr_2.0,q_auto,w_40/league/api/clubs/logos/AZ"
+      },
+      {
+        "alt": "Atlanta Falcons",
+        "loading": "lazy",
+        "width": "40",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-full",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_40,dpr_2.0,q_auto,w_40/league/api/clubs/logos/ATL"
+      },
+      {
+        "alt": "Carolina Panthers",
+        "loading": "lazy",
+        "width": "40",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-full",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_40,dpr_2.0,q_auto,w_40/league/api/clubs/logos/CAR"
+      },
+      {
+        "alt": "Chicago Bears",
+        "loading": "lazy",
+        "width": "40",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-full",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_40,dpr_2.0,q_auto,w_40/league/api/clubs/logos/CHI"
+      },
+      {
+        "alt": "Dallas Cowboys",
+        "loading": "lazy",
+        "width": "40",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-full",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_40,dpr_2.0,q_auto,w_40/league/api/clubs/logos/DAL"
+      },
+      {
+        "alt": "Detroit Lions",
+        "loading": "lazy",
+        "width": "40",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-full",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_40,dpr_2.0,q_auto,w_40/league/api/clubs/logos/DET"
+      },
+      {
+        "alt": "Green Bay Packers",
+        "loading": "lazy",
+        "width": "40",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-full",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_40,dpr_2.0,q_auto,w_40/league/api/clubs/logos/GB"
+      },
+      {
+        "alt": "Los Angeles Rams",
+        "loading": "lazy",
+        "width": "40",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-full",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_40,dpr_2.0,q_auto,w_40/league/api/clubs/logos/LA"
+      },
+      {
+        "alt": "Minnesota Vikings",
+        "loading": "lazy",
+        "width": "40",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-full",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_40,dpr_2.0,q_auto,w_40/league/api/clubs/logos/MIN"
+      },
+      {
+        "alt": "New Orleans Saints",
+        "loading": "lazy",
+        "width": "40",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-full",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_40,dpr_2.0,q_auto,w_40/league/api/clubs/logos/NO"
+      },
+      {
+        "alt": "New York Giants",
+        "loading": "lazy",
+        "width": "40",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-full",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_40,dpr_2.0,q_auto,w_40/league/api/clubs/logos/NYG"
+      },
+      {
+        "alt": "Philadelphia Eagles",
+        "loading": "lazy",
+        "width": "40",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-full",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_40,dpr_2.0,q_auto,w_40/league/api/clubs/logos/PHI"
+      },
+      {
+        "alt": "San Francisco 49ers",
+        "loading": "lazy",
+        "width": "40",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-full",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_40,dpr_2.0,q_auto,w_40/league/api/clubs/logos/SF"
+      },
+      {
+        "alt": "Seattle Seahawks",
+        "loading": "lazy",
+        "width": "40",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-full",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_40,dpr_2.0,q_auto,w_40/league/api/clubs/logos/SEA"
+      },
+      {
+        "alt": "Tampa Bay Buccaneers",
+        "loading": "lazy",
+        "width": "40",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-full",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_40,dpr_2.0,q_auto,w_40/league/api/clubs/logos/TB"
+      },
+      {
+        "alt": "Washington Commanders",
+        "loading": "lazy",
+        "width": "40",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-full",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/f_auto,h_40,dpr_2.0,q_auto,w_40/league/api/clubs/logos/WAS"
+      },
+      {
+        "alt": "NFL Logo",
+        "aria-hidden": "true",
+        "loading": "lazy",
+        "width": "40",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-10 w-10",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/image/upload/v1554321393/league/nvfr7ogywskqrfaiu38m.png"
+      },
+      {
+        "alt": "Facebook",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-4",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/web/global/logos/facebook.svg"
+      },
+      {
+        "alt": "Youtube",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-4",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/web/global/logos/youtube.svg"
+      },
+      {
+        "alt": "Instagram",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-4",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/web/global/logos/instagram.svg"
+      },
+      {
+        "alt": "Tiktok",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-4",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/web/global/logos/tiktok.svg"
+      },
+      {
+        "alt": "Snapchat",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-4",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/web/global/logos/snapchat.svg"
+      },
+      {
+        "alt": "Twitter",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-4",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/web/global/logos/twitter.svg"
+      },
+      {
+        "alt": "LinkedIn",
+        "loading": "lazy",
+        "width": "16",
+        "height": "16",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "size-4",
+        "style": "color:transparent",
+        "src": "https://static.www.nfl.com/league/apps/web/global/logos/linkedin.svg"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-054/3e183e97beea47db.txt"
+  },
+  {
+    "id": "c633a0907c5565f4",
+    "name": "National Reverse Mortgage Lenders Association (through Fennel Consulting, Llc)",
+    "requested_url": "https://www.reversemortgage.org/",
+    "status": 200,
+    "final_url": "https://www.reversemortgage.org/",
+    "text_chars": 4296,
+    "logo_candidates": [
+      {
+        "width": "100",
+        "height": "54",
+        "src": "https://www.reversemortgage.org/wp-content/uploads/2020/06/crmp-logo-e1608755833397.jpg",
+        "class": "img-fluid d-block mx-auto wp-post-image",
+        "alt": "crmp-logo",
+        "decoding": "async"
+      },
+      {
+        "width": "300",
+        "height": "216",
+        "src": "https://www.reversemortgage.org/wp-content/uploads/2020/10/Homeowner-Help-Logo-e1664983989600.jpg",
+        "class": "img-fluid d-block mx-auto wp-post-image",
+        "alt": "",
+        "decoding": "async",
+        "loading": "lazy"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-054/c633a0907c5565f4.txt"
+  },
+  {
+    "id": "ec2ed8bb69becbe8",
+    "name": "Nevada Northern Railway Foundation",
+    "requested_url": "https://nnry.com/",
+    "status": 200,
+    "final_url": "https://nnry.com/",
+    "text_chars": 8808,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-054/ec2ed8bb69becbe8.txt"
+  },
+  {
+    "id": "7e74fcf8afca774b",
+    "name": "New Eurasian Strategies Centre, Inc.",
+    "requested_url": "https://nestcentre.org/",
+    "status": 200,
+    "final_url": "https://nestcentre.org/",
+    "text_chars": 9028,
+    "logo_candidates": [
+      {
+        "loading": "lazy",
+        "width": "345",
+        "height": "50",
+        "src": "https://nestcentre.org/wp-content/uploads/2024/08/logo-blue.svg",
+        "class": "attachment-full size-full wp-image-454",
+        "alt": ""
+      },
+      {
+        "loading": "lazy",
+        "width": "345",
+        "height": "50",
+        "src": "https://nestcentre.org/wp-content/uploads/2024/08/logo-blue.svg",
+        "class": "attachment-full size-full wp-image-454",
+        "alt": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-054/7e74fcf8afca774b.txt"
+  },
+  {
+    "id": "fdd757e74fe5ae00",
+    "name": "Overview Energy, Inc.",
+    "requested_url": "https://www.overviewenergy.com/",
+    "status": 200,
+    "final_url": "https://www.overviewenergy.com/",
+    "text_chars": 6540,
+    "logo_candidates": [
+      {
+        "src": "https://overview-website.transforms.svdcdn.com/production/Partner-Logos/Engine-Ventures.png?w=4000&h=1138&auto=compress%2Cformat&fit=crop&dm=1787104740&s=90d3d1b80c827579fc93a0d695708110",
+        "alt": "",
+        "class": "object-contain w-full h-full",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://overview-website.transforms.svdcdn.com/production/Partner-Logos/lowercarbon.png?w=400&h=65&auto=compress%2Cformat&fit=crop&dm=1747331357&s=9c8e8f5e85fa231dddaf98702b769f8a",
+        "alt": "",
+        "class": "object-contain w-full h-full",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://overview-website.transforms.svdcdn.com/production/Partner-Logos/logo-hires-transparentbg-bw.png?w=2000&h=890&auto=compress%2Cformat&fit=crop&dm=1752681896&s=d19558a37d1150eba34ddf0280182fc5",
+        "alt": "",
+        "class": "object-contain w-full h-full",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://overview-website.transforms.svdcdn.com/production/Partner-Logos/images.png?w=455&h=111&auto=compress%2Cformat&fit=crop&dm=1753380583&s=20925d596595197f952693f1df07ae24",
+        "alt": "",
+        "class": "object-contain w-full h-full",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://overview-website.files.svdcdn.com/production/Partner-Logos/EQT-Foundation.svg?dm=1752770126",
+        "alt": "",
+        "class": "object-contain w-full h-full",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://overview-website.transforms.svdcdn.com/production/Partner-Logos/earthrise.png?w=500&h=101&auto=compress%2Cformat&fit=crop&dm=1747331359&s=d50aa59375ec9b0c7c70773a4365be37",
+        "alt": "",
+        "class": "object-contain w-full h-full",
+        "loading": "lazy"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-054/fdd757e74fe5ae00.txt"
+  },
+  {
+    "id": "91f9d4f27312477a",
+    "name": "Promise Network Inc.",
+    "requested_url": "https://www.promise-pay.com/company",
+    "status": 200,
+    "final_url": "https://www.promise-pay.com/company",
+    "text_chars": 3614,
+    "logo_candidates": [
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66964254b338fc6183f7d14d/6769cc63eb0da81661bdd3e0_Kapor.svg",
+        "alt": "",
+        "class": "ribbon_logo-image"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66964254b338fc6183f7d14d/6769cc632bb9c0a49ff1589a_The%20General%20Partnership.svg",
+        "alt": "",
+        "class": "ribbon_logo-image"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66964254b338fc6183f7d14d/6769cc637c91632c0c09be24_Bronze.svg",
+        "alt": "",
+        "class": "ribbon_logo-image"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66964254b338fc6183f7d14d/6769cc6398e344737245f3e7_8vc.svg",
+        "alt": "",
+        "class": "ribbon_logo-image"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66964254b338fc6183f7d14d/6769cc64ed36f0dd46a2cdf9_xyz.svg",
+        "alt": "",
+        "class": "ribbon_logo-image"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66964254b338fc6183f7d14d/6769cc6359dabfc4f5ebcffa_1stround.svg",
+        "alt": "",
+        "class": "ribbon_logo-image"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66964254b338fc6183f7d14d/6769cc6368b597b6876c743f_Rocnation.svg",
+        "alt": "",
+        "class": "ribbon_logo-image"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66964254b338fc6183f7d14d/6769cc6358fbd1d479bfb225_Y%20Combinator.svg",
+        "alt": "",
+        "class": "ribbon_logo-image"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66964254b338fc6183f7d14d/691e33466acccde227054db1_aad53bbcbcf55ecc364a148c91f04db6_village-old-logo.svg",
+        "alt": "",
+        "class": "ribbon_logo-image"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66964254b338fc6183f7d14d/6769cc63eb0da81661bdd3e0_Kapor.svg",
+        "alt": "",
+        "class": "ribbon_logo-image"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66964254b338fc6183f7d14d/6769cc632bb9c0a49ff1589a_The%20General%20Partnership.svg",
+        "alt": "",
+        "class": "ribbon_logo-image"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66964254b338fc6183f7d14d/6769cc637c91632c0c09be24_Bronze.svg",
+        "alt": "",
+        "class": "ribbon_logo-image"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66964254b338fc6183f7d14d/6769cc6398e344737245f3e7_8vc.svg",
+        "alt": "",
+        "class": "ribbon_logo-image"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66964254b338fc6183f7d14d/6769cc64ed36f0dd46a2cdf9_xyz.svg",
+        "alt": "",
+        "class": "ribbon_logo-image"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66964254b338fc6183f7d14d/6769cc6359dabfc4f5ebcffa_1stround.svg",
+        "alt": "",
+        "class": "ribbon_logo-image"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66964254b338fc6183f7d14d/6769cc6368b597b6876c743f_Rocnation.svg",
+        "alt": "",
+        "class": "ribbon_logo-image"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66964254b338fc6183f7d14d/6769cc6358fbd1d479bfb225_Y%20Combinator.svg",
+        "alt": "",
+        "class": "ribbon_logo-image"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66964254b338fc6183f7d14d/691e33466acccde227054db1_aad53bbcbcf55ecc364a148c91f04db6_village-old-logo.svg",
+        "alt": "",
+        "class": "ribbon_logo-image"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66964254b338fc6183f7d14d/6769cc63eb0da81661bdd3e0_Kapor.svg",
+        "alt": "",
+        "class": "ribbon_logo-image"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66964254b338fc6183f7d14d/6769cc632bb9c0a49ff1589a_The%20General%20Partnership.svg",
+        "alt": "",
+        "class": "ribbon_logo-image"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66964254b338fc6183f7d14d/6769cc637c91632c0c09be24_Bronze.svg",
+        "alt": "",
+        "class": "ribbon_logo-image"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66964254b338fc6183f7d14d/6769cc6398e344737245f3e7_8vc.svg",
+        "alt": "",
+        "class": "ribbon_logo-image"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66964254b338fc6183f7d14d/6769cc64ed36f0dd46a2cdf9_xyz.svg",
+        "alt": "",
+        "class": "ribbon_logo-image"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66964254b338fc6183f7d14d/6769cc6359dabfc4f5ebcffa_1stround.svg",
+        "alt": "",
+        "class": "ribbon_logo-image"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66964254b338fc6183f7d14d/6769cc6368b597b6876c743f_Rocnation.svg",
+        "alt": "",
+        "class": "ribbon_logo-image"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66964254b338fc6183f7d14d/6769cc6358fbd1d479bfb225_Y%20Combinator.svg",
+        "alt": "",
+        "class": "ribbon_logo-image"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66964254b338fc6183f7d14d/691e33466acccde227054db1_aad53bbcbcf55ecc364a148c91f04db6_village-old-logo.svg",
+        "alt": "",
+        "class": "ribbon_logo-image"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66964254b338fc6183f7d14d/6769cc63eb0da81661bdd3e0_Kapor.svg",
+        "alt": "",
+        "class": "ribbon_logo-image"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66964254b338fc6183f7d14d/6769cc632bb9c0a49ff1589a_The%20General%20Partnership.svg",
+        "alt": "",
+        "class": "ribbon_logo-image"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66964254b338fc6183f7d14d/6769cc637c91632c0c09be24_Bronze.svg",
+        "alt": "",
+        "class": "ribbon_logo-image"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66964254b338fc6183f7d14d/6769cc6398e344737245f3e7_8vc.svg",
+        "alt": "",
+        "class": "ribbon_logo-image"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66964254b338fc6183f7d14d/6769cc64ed36f0dd46a2cdf9_xyz.svg",
+        "alt": "",
+        "class": "ribbon_logo-image"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66964254b338fc6183f7d14d/6769cc6359dabfc4f5ebcffa_1stround.svg",
+        "alt": "",
+        "class": "ribbon_logo-image"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66964254b338fc6183f7d14d/6769cc6368b597b6876c743f_Rocnation.svg",
+        "alt": "",
+        "class": "ribbon_logo-image"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66964254b338fc6183f7d14d/6769cc6358fbd1d479bfb225_Y%20Combinator.svg",
+        "alt": "",
+        "class": "ribbon_logo-image"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/66964254b338fc6183f7d14d/691e33466acccde227054db1_aad53bbcbcf55ecc364a148c91f04db6_village-old-logo.svg",
+        "alt": "",
+        "class": "ribbon_logo-image"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-054/91f9d4f27312477a.txt"
+  },
+  {
+    "id": "fad5443447b9e717",
+    "name": "Public Partnerships, LLC",
+    "requested_url": "https://www.publicpartnerships.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "b19bdfce151d1c56",
+    "name": "Royal Biologics",
+    "requested_url": "https://royalbiologics.com/",
+    "status": 200,
+    "final_url": "https://royalbiologics.com/",
+    "text_chars": 2741,
+    "logo_candidates": [
+      {
+        "decoding": "async",
+        "src": "https://royalbiologics.com/wp-content/uploads/2024/12/Logo-11.svg",
+        "alt": "",
+        "class": "wp-image-39"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-054/b19bdfce151d1c56.txt"
+  },
+  {
+    "id": "ce785d671612e50e",
+    "name": "Salvation Army of Eastern Pennsylvania and Delaware",
+    "requested_url": "https://easternusa.salvationarmy.org/eastern-pennsylvania-and-delaware/",
+    "error": "HTTP Error 404: "
+  },
+  {
+    "id": "a0a8f40c7e1aaf6f",
+    "name": "Seqirus USA Inc",
+    "requested_url": "https://www.cslseqirus.us/",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "id": "0fe56cf1fca80162",
+    "name": "Silicon Technologies, Inc",
+    "requested_url": "https://silicontechnologiesinc.com/company/",
+    "status": 200,
+    "final_url": "https://silicontechnologiesinc.com/company/",
+    "text_chars": 156,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-054/0fe56cf1fca80162.txt"
+  },
+  {
+    "id": "2a018ac35b20389c",
+    "name": "Standing Rock Sioux Tribe",
+    "requested_url": "https://www.standingrock.org/",
+    "status": 202,
+    "final_url": "https://www.standingrock.org/",
+    "text_chars": 89,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-054/2a018ac35b20389c.txt"
+  },
+  {
+    "id": "ab692219b08c8cbb",
+    "name": "Unified Government of Wyandotte County/kansas City, Kansas",
+    "requested_url": "https://www.wycokck.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "91dfe774831d6f06",
+    "name": "Witham Hospital",
+    "requested_url": "https://www.witham.org/about-us",
+    "status": 200,
+    "final_url": "https://www.witham.org/about-us",
+    "text_chars": 6429,
+    "logo_candidates": [
+      {
+        "data-dx-component": "1",
+        "class": "lg",
+        "src": "https://www.witham.org/sites/default/files/2024-06/site_logo.png",
+        "alt": "Witham logo"
+      },
+      {
+        "class": "img-responsive",
+        "src": "/patterns/dist/webdv/child/images/footer/logo_jointcomission.png",
+        "alt": "Joint Commission National Quality Approval Seal",
+        "width": "122",
+        "height": "133",
+        "loading": "lazy"
+      },
+      {
+        "class": "img-responsive",
+        "src": "/patterns/dist/webdv/child/images/footer/logo_foundation.jpg",
+        "alt": "Witham Health Services Foundation Logo",
+        "width": "197",
+        "height": "191",
+        "loading": "lazy"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-054/91dfe774831d6f06.txt"
+  },
+  {
+    "id": "a919b3c12955a5ae",
+    "name": "Association of Multisite Research Corporations",
+    "requested_url": "https://amrc.org/",
+    "status": 200,
+    "final_url": "https://amrc.org/",
+    "text_chars": 4369,
+    "logo_candidates": [
+      {
+        "width": "226",
+        "height": "57",
+        "src": "https://amrc.org/wp-content/uploads/2024/12/AMRC-logo-negative.png",
+        "class": "attachment-large size-large wp-image-115",
+        "alt": ""
+      },
+      {
+        "width": "226",
+        "height": "57",
+        "src": "https://amrc.org/wp-content/uploads/2024/12/AMRC-logo-negative.png",
+        "class": "attachment-large size-large wp-image-115",
+        "alt": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-054/a919b3c12955a5ae.txt"
+  },
+  {
+    "id": "2676b2444f507b4e",
+    "name": "Curie Bio Operations, LLC",
+    "requested_url": "https://curie.bio/",
+    "status": 200,
+    "final_url": "https://curie.bio/",
+    "text_chars": 211,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-054/2676b2444f507b4e.txt"
+  },
+  {
+    "id": "81625aca516a2cf0",
+    "name": "Excel Services Corporation",
+    "requested_url": "https://excelservices.com/",
+    "status": 202,
+    "final_url": "https://excelservices.com/",
+    "text_chars": 87,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-054/81625aca516a2cf0.txt"
+  },
+  {
+    "id": "2d0c209b23b3fbdb",
+    "name": "Farmshare",
+    "requested_url": "https://www.farmshare.co/",
+    "status": 200,
+    "final_url": "https://www.farmshare.co/",
+    "text_chars": 124,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-054/2d0c209b23b3fbdb.txt"
+  },
+  {
+    "id": "375b4f7054001700",
+    "name": "Fayetteville Technical Community College",
+    "requested_url": "https://www.faytechcc.edu/",
+    "status": 202,
+    "final_url": "https://www.faytechcc.edu/",
+    "text_chars": 101,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-054/375b4f7054001700.txt"
+  },
+  {
+    "id": "f6da2a0defe3d9a6",
+    "name": "Goodwill Education Initiatives",
+    "requested_url": "https://www.goodwillindy.org/education",
+    "status": 202,
+    "final_url": "https://www.goodwillindy.org/education",
+    "text_chars": 103,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-054/f6da2a0defe3d9a6.txt"
+  },
+  {
+    "id": "565ca6c057a3270e",
+    "name": "Healthcare Alliance for Patient Safety (HCAPS)",
+    "requested_url": "https://www.patientsafetytoday.com/",
+    "status": 200,
+    "final_url": "https://www.patientsafetytoday.com/",
+    "text_chars": 5253,
+    "logo_candidates": [
+      {
+        "width": "315",
+        "alt": "Health Care Alliance for Patient Safety",
+        "src": "https://assets.nationbuilder.com/themes/6096b75c4764e82ed37d92fb/attachments/original/1552888325/logo.svg?1552888325"
+      },
+      {
+        "width": "315",
+        "src": "https://assets.nationbuilder.com/themes/6096b75c4764e82ed37d92fb/attachments/original/1552888325/logo.svg?1552888325"
+      },
+      {
+        "alt": "featured-img",
+        "src": "https://assets.nationbuilder.com/hcapatientsafe/pages/1436/features/original/logo-moran.png?1789133384",
+        "style": "width:100%;visibility: hidden;",
+        "border": "0"
+      },
+      {
+        "style": "display: block; margin-left: auto; margin-right: auto;",
+        "src": "https://assets.nationbuilder.com/hcapatientsafe/pages/445/attachments/original/1717007139/johnson-johnson-logo.dat?1717007139",
+        "alt": "Johnson & Johnson Vision",
+        "width": "258",
+        "height": "31"
+      },
+      {
+        "style": "display: block; margin-left: auto; margin-right: auto;",
+        "src": "https://d3n8a8pro7vhmx.cloudfront.net/hcapatientsafe/pages/203/attachments/original/1613618424/HCAFPS-PartnerLogos-V2-JC150x150-CooperVision.png?1613618424",
+        "alt": "Cooper Vision",
+        "width": "150",
+        "height": "150"
+      },
+      {
+        "style": "display: block; margin-left: auto; margin-right: auto;",
+        "src": "https://d3n8a8pro7vhmx.cloudfront.net/hcapatientsafe/pages/445/attachments/original/1644857565/EL_Logotype_black.png?1644857565",
+        "alt": "",
+        "width": "219",
+        "height": "24"
+      },
+      {
+        "style": "display: block; margin-left: auto; margin-right: auto;",
+        "src": "https://d3n8a8pro7vhmx.cloudfront.net/hcapatientsafe/pages/203/attachments/original/1613618429/HCAFPS-PartnerLogos-V2-JC150x150-AOA.png?1613618429",
+        "alt": "American Optometric Association",
+        "width": "250",
+        "height": "250"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-054/565ca6c057a3270e.txt"
+  },
+  {
+    "id": "40a77618af57e000",
+    "name": "North Tampa Housing Development Corporation (represented by Holland & Knight LLP)",
+    "requested_url": "https://www.nthdc.org/",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.nthdc.org'. (_ssl.c:1129)>"
+  },
+  {
+    "id": "3b0fb34baac02e3e",
+    "name": "LOS Angeles Community College District",
+    "requested_url": "https://www.laccd.edu/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "53ad4d9b0cb371f4",
+    "name": "Macro-armor, LLC",
+    "requested_url": "https://www.macroindustries.com/products/macro-armor/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "e410023430040852",
+    "name": "Makpar Corporation",
+    "requested_url": "https://makpar.com/",
+    "status": 200,
+    "final_url": "https://makpar.com/",
+    "text_chars": 5939,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "width": "5418",
+        "height": "1459",
+        "src": "https://makpar.com/wp-content/uploads/2025/01/Makpar__Lavendar-and-White-Logo.png",
+        "class": "attachment-full size-full wp-image-101",
+        "alt": "",
+        "srcset": "https://makpar.com/wp-content/uploads/2025/01/Makpar__Lavendar-and-White-Logo.png 5418w, https://makpar.com/wp-content/uploads/2025/01/Makpar__Lavendar-and-White-Logo-300x81.png 300w, https://makpar.com/wp-content/uploads/2025/01/Makpar__Lavendar-and-White-Logo-1024x276.png 1024w, https://makpar.com/wp-content/uploads/2025/01/Makpar__Lavendar-and-White-Logo-768x207.png 768w, https://makpar.com/wp-content/uploads/2025/01/Makpar__Lavendar-and-White-Logo-1536x414.png 1536w, https://makpar.com/wp-content/uploads/2025/01/Makpar__Lavendar-and-White-Logo-2048x552.png 2048w",
+        "sizes": "(max-width: 5418px) 100vw, 5418px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "300",
+        "height": "300",
+        "src": "https://makpar.com/wp-content/uploads/2025/01/IRSlogocircle.png",
+        "class": "attachment-large size-large wp-image-298",
+        "alt": "",
+        "srcset": "https://makpar.com/wp-content/uploads/2025/01/IRSlogocircle.png 300w, https://makpar.com/wp-content/uploads/2025/01/IRSlogocircle-150x150.png 150w",
+        "sizes": "(max-width: 300px) 100vw, 300px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "613",
+        "height": "419",
+        "src": "https://makpar.com/wp-content/uploads/2025/03/usda-logo-white.png",
+        "class": "attachment-full size-full wp-image-2611",
+        "alt": "",
+        "srcset": "https://makpar.com/wp-content/uploads/2025/03/usda-logo-white.png 613w, https://makpar.com/wp-content/uploads/2025/03/usda-logo-white-300x205.png 300w",
+        "sizes": "(max-width: 613px) 100vw, 613px"
+      },
+      {
+        "width": "5418",
+        "height": "1459",
+        "src": "https://makpar.com/wp-content/uploads/2025/01/Makpar__Lavendar-and-White-Logo.png",
+        "class": "attachment-full size-full wp-image-101",
+        "alt": "",
+        "srcset": "https://makpar.com/wp-content/uploads/2025/01/Makpar__Lavendar-and-White-Logo.png 5418w, https://makpar.com/wp-content/uploads/2025/01/Makpar__Lavendar-and-White-Logo-300x81.png 300w, https://makpar.com/wp-content/uploads/2025/01/Makpar__Lavendar-and-White-Logo-1024x276.png 1024w, https://makpar.com/wp-content/uploads/2025/01/Makpar__Lavendar-and-White-Logo-768x207.png 768w, https://makpar.com/wp-content/uploads/2025/01/Makpar__Lavendar-and-White-Logo-1536x414.png 1536w, https://makpar.com/wp-content/uploads/2025/01/Makpar__Lavendar-and-White-Logo-2048x552.png 2048w",
+        "sizes": "(max-width: 5418px) 100vw, 5418px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-054/e410023430040852.txt"
+  },
+  {
+    "id": "ab54fd0101ac3dd7",
+    "name": "NKI Engineering",
+    "requested_url": "https://www.nkiengineering.com/",
+    "status": 200,
+    "final_url": "https://www.nkiengineering.com/",
+    "text_chars": 81,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-054/ab54fd0101ac3dd7.txt"
+  },
+  {
+    "id": "7d9cd2c93b90f77b",
+    "name": "Nola Education, LLC",
+    "requested_url": "https://staracademyprogram.com/",
+    "status": 200,
+    "final_url": "https://staracademyprogram.com/",
+    "text_chars": 1350,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "decoding": "async",
+        "width": "523",
+        "height": "204",
+        "src": "https://staracademyprogram.com/wp-content/uploads/2025/09/Vector-Star-Logo-GrayRed.png",
+        "alt": "",
+        "title": "Vector-Star-Logo-Gray+Red",
+        "srcset": "https://staracademyprogram.com/wp-content/uploads/2025/09/Vector-Star-Logo-GrayRed.png 523w, https://staracademyprogram.com/wp-content/uploads/2025/09/Vector-Star-Logo-GrayRed-480x187.png 480w",
+        "sizes": "(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 523px, 100vw",
+        "class": "wp-image-372"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-054/7d9cd2c93b90f77b.txt"
+  },
+  {
+    "id": "e845ca3cc51c17d4",
+    "name": "North Caddo Medical Center",
+    "requested_url": "https://ncmcla.com/",
+    "status": 202,
+    "final_url": "https://ncmcla.com/",
+    "text_chars": 80,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-054/e845ca3cc51c17d4.txt"
+  }
+]

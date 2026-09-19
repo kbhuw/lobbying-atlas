@@ -1,0 +1,360 @@
+[
+  {
+    "id": "51ad1de3c90eb543",
+    "name": "Augusta University Research Institute",
+    "requested_url": "https://www.augusta.edu/about/history.php",
+    "status": 200,
+    "final_url": "https://www.augusta.edu/about/history.php",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/0-51ad1de3c90eb543.txt",
+    "text_chars": 17686
+  },
+  {
+    "id": "51ad1de3c90eb543",
+    "name": "Augusta University Research Institute",
+    "requested_url": "https://www.augusta.edu/about/mission.php",
+    "status": 200,
+    "final_url": "https://www.augusta.edu/about/mission.php",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/1-51ad1de3c90eb543.txt",
+    "text_chars": 5055
+  },
+  {
+    "id": "b5c2b7d8fa86c3cc",
+    "name": "Novolex (formerly Hilex Poly Company)",
+    "requested_url": "https://novolex.com/about",
+    "status": 200,
+    "final_url": "https://novolex.com/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/2-b5c2b7d8fa86c3cc.txt",
+    "text_chars": 2738
+  },
+  {
+    "id": "b5c2b7d8fa86c3cc",
+    "name": "Novolex (formerly Hilex Poly Company)",
+    "requested_url": "https://novolex.com/about/community/",
+    "status": 200,
+    "final_url": "https://novolex.com/about/community/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/3-b5c2b7d8fa86c3cc.txt",
+    "text_chars": 2522
+  },
+  {
+    "id": "728ffce89ad760bb",
+    "name": "HealthFund Solutions (via Arnall Golden Gregory)",
+    "requested_url": "https://www.healthfundsolutions.com/about",
+    "status": 200,
+    "final_url": "https://www.healthfundsolutions.com/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/4-728ffce89ad760bb.txt",
+    "text_chars": 4515
+  },
+  {
+    "id": "728ffce89ad760bb",
+    "name": "HealthFund Solutions (via Arnall Golden Gregory)",
+    "requested_url": "https://www.healthfundsolutions.com/about/supplemental-notice-for-certain-u-s-residents",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "6320cf5a9208104b",
+    "name": "Netafim USA",
+    "requested_url": "https://www.netafimusa.com/privacy-policy/cpra/",
+    "status": 200,
+    "final_url": "https://www.netafimusa.com/privacy-policy/cpra/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/6-6320cf5a9208104b.txt",
+    "text_chars": 2853
+  },
+  {
+    "id": "6320cf5a9208104b",
+    "name": "Netafim USA",
+    "requested_url": "https://www.netafimusa.com/agriculture/about-us/",
+    "status": 200,
+    "final_url": "https://www.netafimusa.com/agriculture/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/7-6320cf5a9208104b.txt",
+    "text_chars": 4583
+  },
+  {
+    "id": "efbdeab3330b50b9",
+    "name": "the Vascular Care Group (cardiovascular Coalition)",
+    "requested_url": "https://thevascularcaregroup.com/about-us/",
+    "status": 200,
+    "final_url": "https://thevascularcaregroup.com/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/8-efbdeab3330b50b9.txt",
+    "text_chars": 7149
+  },
+  {
+    "id": "efbdeab3330b50b9",
+    "name": "the Vascular Care Group (cardiovascular Coalition)",
+    "requested_url": "https://thevascularcaregroup.com/about-us/blogs/",
+    "status": 200,
+    "final_url": "https://thevascularcaregroup.com/about-us/blogs/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/9-efbdeab3330b50b9.txt",
+    "text_chars": 6018
+  },
+  {
+    "id": "06ceadf0327a5cec",
+    "name": "APCO Worldwide (on behalf of QuidelOrtho)",
+    "requested_url": "https://www.quidelortho.com/content/quidelortho/global/global/en/our-company/regulatory/quidelortho-website-terms-of-use.html",
+    "status": 200,
+    "final_url": "https://www.quidelortho.com/content/quidelortho/global/global/en/our-company/regulatory/quidelortho-website-terms-of-use.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/10-06ceadf0327a5cec.txt",
+    "text_chars": 31875
+  },
+  {
+    "id": "db4986fb11d27f2c",
+    "name": "Eagle Electronics Inc.",
+    "requested_url": "https://www.eaglewireless.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.eaglewireless.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/11-db4986fb11d27f2c.txt",
+    "text_chars": 6086
+  },
+  {
+    "id": "db4986fb11d27f2c",
+    "name": "Eagle Electronics Inc.",
+    "requested_url": "https://www.eaglewireless.com/about-us/",
+    "status": 200,
+    "final_url": "https://www.eaglewireless.com/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/12-db4986fb11d27f2c.txt",
+    "text_chars": 6510
+  },
+  {
+    "id": "ed0c6979116627b7",
+    "name": "Egis",
+    "requested_url": "https://www.egis-group.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.egis-group.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/13-ed0c6979116627b7.txt",
+    "text_chars": 13124
+  },
+  {
+    "id": "ed0c6979116627b7",
+    "name": "Egis",
+    "requested_url": "https://www.egis-group.com/terms-and-conditions",
+    "status": 200,
+    "final_url": "https://www.egis-group.com/terms-and-conditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/14-ed0c6979116627b7.txt",
+    "text_chars": 11212
+  },
+  {
+    "id": "4727ea2fb7f4239c",
+    "name": "Intag Systems",
+    "requested_url": "https://intagsystems.com/termsofuse/",
+    "status": 200,
+    "final_url": "https://intagsystems.com/termsofuse/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/15-4727ea2fb7f4239c.txt",
+    "text_chars": 19012
+  },
+  {
+    "id": "4727ea2fb7f4239c",
+    "name": "Intag Systems",
+    "requested_url": "https://intagsystems.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://intagsystems.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/16-4727ea2fb7f4239c.txt",
+    "text_chars": 4859
+  },
+  {
+    "id": "881c5c7f13f78e60",
+    "name": "Premier Bankcard, LLC",
+    "requested_url": "https://www.premierbankcard.com/globalassets/documents/privacy-notice_january-2022.pdf",
+    "source_format": "pdf",
+    "status": 200,
+    "final_url": "https://www.premierbankcard.com/globalassets/documents/privacy-notice_january-2022.pdf",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/17-881c5c7f13f78e60.txt",
+    "text_chars": 5880
+  },
+  {
+    "id": "881c5c7f13f78e60",
+    "name": "Premier Bankcard, LLC",
+    "requested_url": "https://www.premierbankcard.com/en/pages/resources/legal-disclosures/",
+    "status": 200,
+    "final_url": "https://www.premierbankcard.com/en/pages/resources/legal-disclosures/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/18-881c5c7f13f78e60.txt",
+    "text_chars": 5090
+  },
+  {
+    "id": "5aae96511d725772",
+    "name": "Renfro Corp",
+    "requested_url": "https://www.renfro.com/terms-of-use/",
+    "status": 200,
+    "final_url": "https://www.renfro.com/terms-of-use/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/19-5aae96511d725772.txt",
+    "text_chars": 19140
+  },
+  {
+    "id": "5aae96511d725772",
+    "name": "Renfro Corp",
+    "requested_url": "https://www.renfro.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.renfro.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/20-5aae96511d725772.txt",
+    "text_chars": 15852
+  },
+  {
+    "id": "02ab35d0c4421f7b",
+    "name": "Skyborne Technologies Usa, LLC",
+    "requested_url": "https://www.skybornetech.com/about-page",
+    "status": 200,
+    "final_url": "https://www.skybornetech.com/about-page",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/21-02ab35d0c4421f7b.txt",
+    "text_chars": 1788
+  },
+  {
+    "id": "473d12b595a885d3",
+    "name": "the Motor & Equipment Manufacturers Association",
+    "requested_url": "https://www.mema.org/terms-use",
+    "status": 200,
+    "final_url": "https://www.mema.org/terms-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/22-473d12b595a885d3.txt",
+    "text_chars": 48537
+  },
+  {
+    "id": "473d12b595a885d3",
+    "name": "the Motor & Equipment Manufacturers Association",
+    "requested_url": "https://www.mema.org/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.mema.org/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/23-473d12b595a885d3.txt",
+    "text_chars": 27335
+  },
+  {
+    "id": "7679977a9bce4ab8",
+    "name": "Aquatech International, LLC",
+    "requested_url": "https://www.aquatech.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.aquatech.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/24-7679977a9bce4ab8.txt",
+    "text_chars": 5529
+  },
+  {
+    "id": "7679977a9bce4ab8",
+    "name": "Aquatech International, LLC",
+    "requested_url": "https://www.aquatech.com/terms-and-conditions",
+    "status": 200,
+    "final_url": "https://www.aquatech.com/terms-and-conditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/25-7679977a9bce4ab8.txt",
+    "text_chars": 8120
+  },
+  {
+    "id": "1987030d6f07a5e3",
+    "name": "Chubb INA Holdings, Inc. (formerly ACE INA Holdings, Inc.)",
+    "requested_url": "https://www.chubb.com/us-en/terms-of-use.html",
+    "status": 200,
+    "final_url": "https://www.chubb.com/us-en/terms-of-use.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/26-1987030d6f07a5e3.txt",
+    "text_chars": 39155
+  },
+  {
+    "id": "1987030d6f07a5e3",
+    "name": "Chubb INA Holdings, Inc. (formerly ACE INA Holdings, Inc.)",
+    "requested_url": "https://www.chubb.com/us-en/online-privacy-policy.html",
+    "status": 200,
+    "final_url": "https://www.chubb.com/us-en/online-privacy-policy.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/27-1987030d6f07a5e3.txt",
+    "text_chars": 49447
+  },
+  {
+    "id": "67c49bccf67eeffd",
+    "name": "Franklin Square Holdings (Future Standard)",
+    "requested_url": "https://www.futurestandard.com/terms-of-use",
+    "status": 200,
+    "final_url": "https://www.futurestandard.com/terms-of-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/28-67c49bccf67eeffd.txt",
+    "text_chars": 22202
+  },
+  {
+    "id": "67c49bccf67eeffd",
+    "name": "Franklin Square Holdings (Future Standard)",
+    "requested_url": "https://www.futurestandard.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.futurestandard.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/29-67c49bccf67eeffd.txt",
+    "text_chars": 24616
+  },
+  {
+    "id": "1601172da5e3b7fa",
+    "name": "Fuse Energy Technologies Corp.",
+    "requested_url": "https://www.f.energy/about-fuse-energy",
+    "status": 200,
+    "final_url": "https://www.f.energy/about-fuse-energy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/30-1601172da5e3b7fa.txt",
+    "text_chars": 2959
+  },
+  {
+    "id": "234ea1c228500e86",
+    "name": "SPIRE Academy (Geneva Holdings Ohio)",
+    "requested_url": "https://www.spireacademy.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.spireacademy.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/31-234ea1c228500e86.txt",
+    "text_chars": 32524
+  },
+  {
+    "id": "234ea1c228500e86",
+    "name": "SPIRE Academy (Geneva Holdings Ohio)",
+    "requested_url": "https://www.spireacademy.com/about-us/",
+    "status": 200,
+    "final_url": "https://www.spireacademy.com/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/32-234ea1c228500e86.txt",
+    "text_chars": 6062
+  },
+  {
+    "id": "c51e2b94f5983b8c",
+    "name": "Michigan Hospital Association",
+    "requested_url": "https://www.mha.org/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.mha.org/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/33-c51e2b94f5983b8c.txt",
+    "text_chars": 39370
+  },
+  {
+    "id": "c51e2b94f5983b8c",
+    "name": "Michigan Hospital Association",
+    "requested_url": "https://www.mha.org/about/",
+    "status": 200,
+    "final_url": "https://www.mha.org/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/34-c51e2b94f5983b8c.txt",
+    "text_chars": 8481
+  },
+  {
+    "id": "be6bcbcbbce15d61",
+    "name": "North American Olive Oil Association (fka Alliance for Olive Oil Qlty Stndrds)",
+    "requested_url": "https://www.aboutoliveoil.org/trade",
+    "status": 200,
+    "final_url": "https://www.aboutoliveoil.org/trade",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/35-be6bcbcbbce15d61.txt",
+    "text_chars": 3553
+  },
+  {
+    "id": "be6bcbcbbce15d61",
+    "name": "North American Olive Oil Association (fka Alliance for Olive Oil Qlty Stndrds)",
+    "requested_url": "https://www.aboutoliveoil.org/contact",
+    "status": 200,
+    "final_url": "https://www.aboutoliveoil.org/contact",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/36-be6bcbcbbce15d61.txt",
+    "text_chars": 1929
+  },
+  {
+    "id": "abe58043003cb77a",
+    "name": "Solace Inc.",
+    "requested_url": "https://www.solace.health/about",
+    "status": 200,
+    "final_url": "https://www.solace.health/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/37-abe58043003cb77a.txt",
+    "text_chars": 3307
+  },
+  {
+    "id": "be609bc432db4039",
+    "name": "the Sisters of Charity St.augustine Health System, Inc.",
+    "requested_url": "https://sistersofcharityhealth.org/privacy-policy/",
+    "status": 200,
+    "final_url": "https://sistersofcharityhealth.org/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/38-be609bc432db4039.txt",
+    "text_chars": 34202
+  },
+  {
+    "id": "be609bc432db4039",
+    "name": "the Sisters of Charity St.augustine Health System, Inc.",
+    "requested_url": "https://sistersofcharityhealth.org/about-us/mission/",
+    "status": 200,
+    "final_url": "https://sistersofcharityhealth.org/about-us/mission/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-092/39-be609bc432db4039.txt",
+    "text_chars": 34976
+  }
+]

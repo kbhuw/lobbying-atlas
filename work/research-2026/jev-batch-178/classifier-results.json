@@ -1,0 +1,75 @@
+[
+  {
+    "content": [
+      {
+        "type": "text",
+        "text": "0-37fe331e7b41be4f: identity=yes (P(yes)=0.91), ownership=no (P(yes)=0.11)\n1-9497649e65fa95ae: identity=yes (P(yes)=0.78), ownership=no (P(yes)=0.08)\n2-2bf65947176708f9: identity=yes (P(yes)=0.77), ownership=no (P(yes)=0.08)\nInspect uncertain or truncated items. Tool and website judgments depend on the content supplied; they do not predict unseen results."
+      }
+    ],
+    "structuredContent": {
+      "ok": true,
+      "model": "typesafe-ai/jev",
+      "scales": {},
+      "results": [
+        {
+          "id": "0-37fe331e7b41be4f",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.91
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.11
+            }
+          },
+          "billing": {
+            "cost": "0",
+            "generationId": "gen_01M2VVHC4PH40E6DVZV9S2NVE8"
+          },
+          "model": "typesafe-ai/jev"
+        },
+        {
+          "id": "1-9497649e65fa95ae",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.78
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.08
+            }
+          },
+          "billing": {
+            "cost": "0",
+            "generationId": "gen_01M2VVHC3F073PSR0C88QZ65GX"
+          },
+          "model": "typesafe-ai/jev"
+        },
+        {
+          "id": "2-2bf65947176708f9",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.77
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.08
+            }
+          },
+          "billing": {
+            "cost": "0",
+            "generationId": "gen_01M2VVHCDNZMV7W5SSE8GRSFP6"
+          },
+          "model": "typesafe-ai/jev"
+        }
+      ],
+      "usage": {
+        "inputTokens": 6285
+      }
+    },
+    "isError": false
+  }
+]

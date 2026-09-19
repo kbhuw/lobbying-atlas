@@ -1,0 +1,937 @@
+[
+  {
+    "id": "25f3c85ae2faa9a9",
+    "name": "America's Poison Centers",
+    "requested_url": "https://www.americaspoisoncenters.org/",
+    "status": 200,
+    "final_url": "https://www.americaspoisoncenters.org/",
+    "text_chars": 97,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-152/25f3c85ae2faa9a9.txt"
+  },
+  {
+    "id": "5ce9684ef0a7f11b",
+    "name": "American Airlines Inc (formerly Reported AS \"american Airlines\")",
+    "requested_url": "https://www.aa.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "daf71cd1851f2c2e",
+    "name": "American Association of Career Schools",
+    "requested_url": "https://myaacs.org/",
+    "status": 202,
+    "final_url": "https://myaacs.org/",
+    "text_chars": 92,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-152/daf71cd1851f2c2e.txt"
+  },
+  {
+    "id": "4363ee7818038a87",
+    "name": "Alliance to Fight for Health Care (via American Benefits Council)",
+    "requested_url": "https://www.fightforhealthcare.com/",
+    "status": 200,
+    "final_url": "https://www.fightforhealthcare.com/",
+    "text_chars": 7048,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "sizes": "301px",
+        "srcset": "https://static.wixstatic.com/media/7fe67d_5ac02c85512c401786fccdd7a1eb9021~mv2.png/v1/fill/w_301,h_95,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/AFHC_Logo.png 1x, https://static.wixstatic.com/media/7fe67d_5ac02c85512c401786fccdd7a1eb9021~mv2.png/v1/fill/w_602,h_190,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/AFHC_Logo.png 2x",
+        "id": "img_comp-kwzh9lv3",
+        "src": "https://static.wixstatic.com/media/7fe67d_5ac02c85512c401786fccdd7a1eb9021~mv2.png/v1/fill/w_301,h_95,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/AFHC_Logo.png",
+        "alt": "AFHC_Logo.png",
+        "style": "object-fit:contain;object-position:unset",
+        "class": "gRkIq0 sFiSiq",
+        "width": "301",
+        "height": "95"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-152/4363ee7818038a87.txt"
+  },
+  {
+    "id": "f98689bab2635d2c",
+    "name": "American Cable Association, Inc. d/b/a ACA Connects",
+    "requested_url": "https://acaconnects.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "1ae6040b26e2c2d7",
+    "name": "American Chemical Society",
+    "requested_url": "https://www.acs.org/",
+    "status": 200,
+    "final_url": "https://www.acs.org/",
+    "text_chars": 80,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-152/1ae6040b26e2c2d7.txt"
+  },
+  {
+    "id": "3ee8d60b3d34b384",
+    "name": "American College of Mohs Surgeons",
+    "requested_url": "https://www.mohscollege.org/",
+    "status": 200,
+    "final_url": "https://www.mohscollege.org/",
+    "text_chars": 3071,
+    "logo_candidates": [
+      {
+        "src": "/images/template/logo-rev.png",
+        "alt": "American College of Mohs Surgery (ACMS)"
+      },
+      {
+        "src": "/images/template/logo-rev.png",
+        "alt": "American College of Mohs Surgery (ACMS)",
+        "class": "img-fluid"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-152/3ee8d60b3d34b384.txt"
+  },
+  {
+    "id": "b1fc5b7d27466345",
+    "name": "American Dawoodi Bohras",
+    "requested_url": "https://usa.thedawoodibohras.com/",
+    "status": 202,
+    "final_url": "https://usa.thedawoodibohras.com/",
+    "text_chars": 91,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-152/b1fc5b7d27466345.txt"
+  },
+  {
+    "id": "dedaddf668369231",
+    "name": "Transource Pennsylvania LLC",
+    "requested_url": "https://www.aep.com/about/businesses/transmission/investment",
+    "error": "HTTP Error 308: Permanent Redirect"
+  },
+  {
+    "id": "9b55c77b0cee3ddc",
+    "name": "American Fisheries Society",
+    "requested_url": "https://fisheries.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "f7986d68b1fe9ed0",
+    "name": "American Fidelity Corporation",
+    "requested_url": "https://americanfidelity.com/about-us",
+    "status": 200,
+    "final_url": "https://americanfidelity.com/about-us",
+    "text_chars": 101,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-152/f7986d68b1fe9ed0.txt"
+  },
+  {
+    "id": "91d8fff4714418f1",
+    "name": "American Federation for Aging Research",
+    "requested_url": "https://www.afar.org/",
+    "status": 202,
+    "final_url": "https://www.afar.org/",
+    "text_chars": 94,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-152/91d8fff4714418f1.txt"
+  },
+  {
+    "id": "e02aa9c90cc68503",
+    "name": "American Express Global Business Travel",
+    "requested_url": "https://investors.amexglobalbusinesstravel.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "37cf80f5dc87058e",
+    "name": "American for Jobs, Energy, and Security",
+    "requested_url": "https://jobsenergysecurity.org/",
+    "status": 200,
+    "final_url": "https://jobsenergysecurity.org/",
+    "text_chars": 193,
+    "logo_candidates": [
+      {
+        "src": "images/americans-logo-web.png",
+        "alt": "",
+        "class": "center"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-152/37cf80f5dc87058e.txt"
+  },
+  {
+    "id": "043dc478592f4d6b",
+    "name": "American Logistics Association",
+    "requested_url": "https://alanational.org/",
+    "status": 202,
+    "final_url": "https://alanational.org/",
+    "text_chars": 89,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-152/043dc478592f4d6b.txt"
+  },
+  {
+    "id": "1e926be1648f5f99",
+    "name": "American Maritime Officers Service",
+    "requested_url": "https://www.amos-maritime.com",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)>"
+  },
+  {
+    "id": "432e1134c0f880a4",
+    "name": "American President Lines",
+    "requested_url": "https://www.apl.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "4fc1ea371c410e80",
+    "name": "American Sugar Refineries",
+    "requested_url": "https://asr-group.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "add36174061a782c",
+    "name": "American Vascular Associates (office-based Facility Assn Obfa) (fka Uspa)",
+    "requested_url": "https://www.americanvascular.com/",
+    "status": 200,
+    "final_url": "https://www.americanvascular.com/",
+    "text_chars": 4003,
+    "logo_candidates": [
+      {
+        "class": "header__logo-image header__logo-default logo-hide",
+        "src": "https://www.americanvascular.com/hs-fs/hubfs/Red3.png?width=200&height=68&name=Red3.png",
+        "loading": "eager",
+        "alt": "Red3",
+        "height": "68",
+        "width": "200",
+        "srcset": "https://www.americanvascular.com/hs-fs/hubfs/Red3.png?width=100&height=34&name=Red3.png 100w, https://www.americanvascular.com/hs-fs/hubfs/Red3.png?width=200&height=68&name=Red3.png 200w, https://www.americanvascular.com/hs-fs/hubfs/Red3.png?width=300&height=102&name=Red3.png 300w, https://www.americanvascular.com/hs-fs/hubfs/Red3.png?width=400&height=136&name=Red3.png 400w, https://www.americanvascular.com/hs-fs/hubfs/Red3.png?width=500&height=170&name=Red3.png 500w, https://www.americanvascular.com/hs-fs/hubfs/Red3.png?width=600&height=204&name=Red3.png 600w",
+        "sizes": "(max-width: 200px) 100vw, 200px"
+      },
+      {
+        "class": "header__logo-image header__logo-scroll ",
+        "src": "https://www.americanvascular.com/hs-fs/hubfs/Red3.png?width=641&height=217&name=Red3.png",
+        "loading": "eager",
+        "alt": "Red3",
+        "height": "217",
+        "width": "641",
+        "srcset": "https://www.americanvascular.com/hs-fs/hubfs/Red3.png?width=321&height=109&name=Red3.png 321w, https://www.americanvascular.com/hs-fs/hubfs/Red3.png?width=641&height=217&name=Red3.png 641w, https://www.americanvascular.com/hs-fs/hubfs/Red3.png?width=962&height=326&name=Red3.png 962w, https://www.americanvascular.com/hs-fs/hubfs/Red3.png?width=1282&height=434&name=Red3.png 1282w, https://www.americanvascular.com/hs-fs/hubfs/Red3.png?width=1603&height=543&name=Red3.png 1603w, https://www.americanvascular.com/hs-fs/hubfs/Red3.png?width=1923&height=651&name=Red3.png 1923w",
+        "sizes": "(max-width: 641px) 100vw, 641px"
+      },
+      {
+        "class": "header__logo-image header__logo-default logo-override logo-hide logo_mobile",
+        "src": "https://www.americanvascular.com/hs-fs/hubfs/Red3.png?width=641&height=217&name=Red3.png",
+        "loading": "eager",
+        "alt": "Red3",
+        "height": "217",
+        "width": "641",
+        "srcset": "https://www.americanvascular.com/hs-fs/hubfs/Red3.png?width=321&height=109&name=Red3.png 321w, https://www.americanvascular.com/hs-fs/hubfs/Red3.png?width=641&height=217&name=Red3.png 641w, https://www.americanvascular.com/hs-fs/hubfs/Red3.png?width=962&height=326&name=Red3.png 962w, https://www.americanvascular.com/hs-fs/hubfs/Red3.png?width=1282&height=434&name=Red3.png 1282w, https://www.americanvascular.com/hs-fs/hubfs/Red3.png?width=1603&height=543&name=Red3.png 1603w, https://www.americanvascular.com/hs-fs/hubfs/Red3.png?width=1923&height=651&name=Red3.png 1923w",
+        "sizes": "(max-width: 641px) 100vw, 641px"
+      },
+      {
+        "class": "header__logo-image header__logo-scroll logo_mobile",
+        "src": "https://www.americanvascular.com/hs-fs/hubfs/Red3.png?width=641&height=217&name=Red3.png",
+        "loading": "eager",
+        "alt": "Red3",
+        "height": "217",
+        "width": "641",
+        "srcset": "https://www.americanvascular.com/hs-fs/hubfs/Red3.png?width=321&height=109&name=Red3.png 321w, https://www.americanvascular.com/hs-fs/hubfs/Red3.png?width=641&height=217&name=Red3.png 641w, https://www.americanvascular.com/hs-fs/hubfs/Red3.png?width=962&height=326&name=Red3.png 962w, https://www.americanvascular.com/hs-fs/hubfs/Red3.png?width=1282&height=434&name=Red3.png 1282w, https://www.americanvascular.com/hs-fs/hubfs/Red3.png?width=1603&height=543&name=Red3.png 1603w, https://www.americanvascular.com/hs-fs/hubfs/Red3.png?width=1923&height=651&name=Red3.png 1923w",
+        "sizes": "(max-width: 641px) 100vw, 641px"
+      },
+      {
+        "src": "https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/063.png?width=2000&height=2000&name=063.png",
+        "alt": "063",
+        "loading": "lazy",
+        "width": "2000",
+        "height": "2000",
+        "srcset": "https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/063.png?width=1000&height=1000&name=063.png 1000w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/063.png?width=2000&height=2000&name=063.png 2000w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/063.png?width=3000&height=3000&name=063.png 3000w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/063.png?width=4000&height=4000&name=063.png 4000w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/063.png?width=5000&height=5000&name=063.png 5000w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/063.png?width=6000&height=6000&name=063.png 6000w",
+        "sizes": "(max-width: 2000px) 100vw, 2000px"
+      },
+      {
+        "src": "https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/GCFM%20%3Bogo.png?width=2000&name=GCFM%20%3Bogo.png",
+        "alt": "GCFM ;ogo",
+        "loading": "lazy",
+        "width": "2000",
+        "style": "max-width: 100%; height: auto;",
+        "srcset": "https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/GCFM%20%3Bogo.png?width=1000&name=GCFM%20%3Bogo.png 1000w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/GCFM%20%3Bogo.png?width=2000&name=GCFM%20%3Bogo.png 2000w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/GCFM%20%3Bogo.png?width=3000&name=GCFM%20%3Bogo.png 3000w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/GCFM%20%3Bogo.png?width=4000&name=GCFM%20%3Bogo.png 4000w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/GCFM%20%3Bogo.png?width=5000&name=GCFM%20%3Bogo.png 5000w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/GCFM%20%3Bogo.png?width=6000&name=GCFM%20%3Bogo.png 6000w",
+        "sizes": "(max-width: 2000px) 100vw, 2000px"
+      },
+      {
+        "src": "https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/SDVI_Logos_APR23_HZ.png?width=2000&name=SDVI_Logos_APR23_HZ.png",
+        "alt": "SDVI_Logos_APR23_HZ",
+        "loading": "lazy",
+        "width": "2000",
+        "style": "max-width: 100%; height: auto;",
+        "srcset": "https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/SDVI_Logos_APR23_HZ.png?width=1000&name=SDVI_Logos_APR23_HZ.png 1000w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/SDVI_Logos_APR23_HZ.png?width=2000&name=SDVI_Logos_APR23_HZ.png 2000w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/SDVI_Logos_APR23_HZ.png?width=3000&name=SDVI_Logos_APR23_HZ.png 3000w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/SDVI_Logos_APR23_HZ.png?width=4000&name=SDVI_Logos_APR23_HZ.png 4000w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/SDVI_Logos_APR23_HZ.png?width=5000&name=SDVI_Logos_APR23_HZ.png 5000w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/SDVI_Logos_APR23_HZ.png?width=6000&name=SDVI_Logos_APR23_HZ.png 6000w",
+        "sizes": "(max-width: 2000px) 100vw, 2000px"
+      },
+      {
+        "src": "https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/VIM_Logo_FullColor_Stacked%20(1).png?width=834&height=514&name=VIM_Logo_FullColor_Stacked%20(1).png",
+        "alt": "VIM_Logo_FullColor_Stacked (1)",
+        "loading": "lazy",
+        "width": "834",
+        "height": "514",
+        "srcset": "https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/VIM_Logo_FullColor_Stacked%20(1).png?width=417&height=257&name=VIM_Logo_FullColor_Stacked%20(1).png 417w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/VIM_Logo_FullColor_Stacked%20(1).png?width=834&height=514&name=VIM_Logo_FullColor_Stacked%20(1).png 834w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/VIM_Logo_FullColor_Stacked%20(1).png?width=1251&height=771&name=VIM_Logo_FullColor_Stacked%20(1).png 1251w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/VIM_Logo_FullColor_Stacked%20(1).png?width=1668&height=1028&name=VIM_Logo_FullColor_Stacked%20(1).png 1668w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/VIM_Logo_FullColor_Stacked%20(1).png?width=2085&height=1285&name=VIM_Logo_FullColor_Stacked%20(1).png 2085w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/VIM_Logo_FullColor_Stacked%20(1).png?width=2502&height=1542&name=VIM_Logo_FullColor_Stacked%20(1).png 2502w",
+        "sizes": "(max-width: 834px) 100vw, 834px"
+      },
+      {
+        "src": "https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/Daytona%20Beach%20Vascular-Center-2-3%20(002).png?width=2000&name=Daytona%20Beach%20Vascular-Center-2-3%20(002).png",
+        "alt": "Daytona Beach Vascular-Center-2-3 (002)",
+        "loading": "lazy",
+        "width": "2000",
+        "style": "max-width: 100%; height: auto;",
+        "srcset": "https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/Daytona%20Beach%20Vascular-Center-2-3%20(002).png?width=1000&name=Daytona%20Beach%20Vascular-Center-2-3%20(002).png 1000w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/Daytona%20Beach%20Vascular-Center-2-3%20(002).png?width=2000&name=Daytona%20Beach%20Vascular-Center-2-3%20(002).png 2000w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/Daytona%20Beach%20Vascular-Center-2-3%20(002).png?width=3000&name=Daytona%20Beach%20Vascular-Center-2-3%20(002).png 3000w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/Daytona%20Beach%20Vascular-Center-2-3%20(002).png?width=4000&name=Daytona%20Beach%20Vascular-Center-2-3%20(002).png 4000w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/Daytona%20Beach%20Vascular-Center-2-3%20(002).png?width=5000&name=Daytona%20Beach%20Vascular-Center-2-3%20(002).png 5000w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/Daytona%20Beach%20Vascular-Center-2-3%20(002).png?width=6000&name=Daytona%20Beach%20Vascular-Center-2-3%20(002).png 6000w",
+        "sizes": "(max-width: 2000px) 100vw, 2000px"
+      },
+      {
+        "src": "https://www.americanvascular.com/hs-fs/hubfs/Pinellashorizontal-logo-print-no-text-1400x489.webp?width=1600&height=559&name=Pinellashorizontal-logo-print-no-text-1400x489.webp",
+        "alt": "Pinellashorizontal-logo-print-no-text-1400x489",
+        "loading": "lazy",
+        "width": "1600",
+        "height": "559",
+        "style": "max-width: 100%; height: auto;",
+        "srcset": "https://www.americanvascular.com/hs-fs/hubfs/Pinellashorizontal-logo-print-no-text-1400x489.webp?width=800&height=280&name=Pinellashorizontal-logo-print-no-text-1400x489.webp 800w, https://www.americanvascular.com/hs-fs/hubfs/Pinellashorizontal-logo-print-no-text-1400x489.webp?width=1600&height=559&name=Pinellashorizontal-logo-print-no-text-1400x489.webp 1600w, https://www.americanvascular.com/hs-fs/hubfs/Pinellashorizontal-logo-print-no-text-1400x489.webp?width=2400&height=839&name=Pinellashorizontal-logo-print-no-text-1400x489.webp 2400w, https://www.americanvascular.com/hs-fs/hubfs/Pinellashorizontal-logo-print-no-text-1400x489.webp?width=3200&height=1118&name=Pinellashorizontal-logo-print-no-text-1400x489.webp 3200w, https://www.americanvascular.com/hs-fs/hubfs/Pinellashorizontal-logo-print-no-text-1400x489.webp?width=4000&height=1398&name=Pinellashorizontal-logo-print-no-text-1400x489.webp 4000w, https://www.americanvascular.com/hs-fs/hubfs/Pinellashorizontal-logo-print-no-text-1400x489.webp?width=4800&height=1677&name=Pinellashorizontal-logo-print-no-text-1400x489.webp 4800w",
+        "sizes": "(max-width: 1600px) 100vw, 1600px"
+      },
+      {
+        "src": "https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/MGSC%20Logo.png?width=327&height=160&name=MGSC%20Logo.png",
+        "alt": "MGSC Logo",
+        "loading": "lazy",
+        "width": "327",
+        "height": "160",
+        "srcset": "https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/MGSC%20Logo.png?width=164&height=80&name=MGSC%20Logo.png 164w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/MGSC%20Logo.png?width=327&height=160&name=MGSC%20Logo.png 327w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/MGSC%20Logo.png?width=491&height=240&name=MGSC%20Logo.png 491w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/MGSC%20Logo.png?width=654&height=320&name=MGSC%20Logo.png 654w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/MGSC%20Logo.png?width=818&height=400&name=MGSC%20Logo.png 818w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/MGSC%20Logo.png?width=981&height=480&name=MGSC%20Logo.png 981w",
+        "sizes": "(max-width: 327px) 100vw, 327px"
+      },
+      {
+        "src": "https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/IMG-0733.png?width=2000&name=IMG-0733.png",
+        "alt": "IMG-0733",
+        "loading": "lazy",
+        "width": "2000",
+        "style": "max-width: 100%; height: auto;",
+        "srcset": "https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/IMG-0733.png?width=1000&name=IMG-0733.png 1000w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/IMG-0733.png?width=2000&name=IMG-0733.png 2000w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/IMG-0733.png?width=3000&name=IMG-0733.png 3000w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/IMG-0733.png?width=4000&name=IMG-0733.png 4000w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/IMG-0733.png?width=5000&name=IMG-0733.png 5000w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/IMG-0733.png?width=6000&name=IMG-0733.png 6000w",
+        "sizes": "(max-width: 2000px) 100vw, 2000px"
+      },
+      {
+        "src": "https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/063.png?width=2000&height=2000&name=063.png",
+        "alt": "063",
+        "loading": "lazy",
+        "width": "2000",
+        "height": "2000",
+        "srcset": "https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/063.png?width=1000&height=1000&name=063.png 1000w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/063.png?width=2000&height=2000&name=063.png 2000w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/063.png?width=3000&height=3000&name=063.png 3000w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/063.png?width=4000&height=4000&name=063.png 4000w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/063.png?width=5000&height=5000&name=063.png 5000w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/063.png?width=6000&height=6000&name=063.png 6000w",
+        "sizes": "(max-width: 2000px) 100vw, 2000px"
+      },
+      {
+        "src": "https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/Greenhouse%20logo.png?width=500&height=117&name=Greenhouse%20logo.png",
+        "alt": "Greenhouse logo",
+        "loading": "lazy",
+        "width": "500",
+        "height": "117",
+        "srcset": "https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/Greenhouse%20logo.png?width=250&height=59&name=Greenhouse%20logo.png 250w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/Greenhouse%20logo.png?width=500&height=117&name=Greenhouse%20logo.png 500w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/Greenhouse%20logo.png?width=750&height=176&name=Greenhouse%20logo.png 750w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/Greenhouse%20logo.png?width=1000&height=234&name=Greenhouse%20logo.png 1000w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/Greenhouse%20logo.png?width=1250&height=293&name=Greenhouse%20logo.png 1250w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/Greenhouse%20logo.png?width=1500&height=351&name=Greenhouse%20logo.png 1500w",
+        "sizes": "(max-width: 500px) 100vw, 500px"
+      },
+      {
+        "src": "https://www.americanvascular.com/hs-fs/hubfs/NewnanNVC_Logos_Blue-01.png?width=2000&name=NewnanNVC_Logos_Blue-01.png",
+        "alt": "NewnanNVC_Logos_Blue-01",
+        "loading": "lazy",
+        "width": "2000",
+        "style": "max-width: 100%; height: auto;",
+        "srcset": "https://www.americanvascular.com/hs-fs/hubfs/NewnanNVC_Logos_Blue-01.png?width=1000&name=NewnanNVC_Logos_Blue-01.png 1000w, https://www.americanvascular.com/hs-fs/hubfs/NewnanNVC_Logos_Blue-01.png?width=2000&name=NewnanNVC_Logos_Blue-01.png 2000w, https://www.americanvascular.com/hs-fs/hubfs/NewnanNVC_Logos_Blue-01.png?width=3000&name=NewnanNVC_Logos_Blue-01.png 3000w, https://www.americanvascular.com/hs-fs/hubfs/NewnanNVC_Logos_Blue-01.png?width=4000&name=NewnanNVC_Logos_Blue-01.png 4000w, https://www.americanvascular.com/hs-fs/hubfs/NewnanNVC_Logos_Blue-01.png?width=5000&name=NewnanNVC_Logos_Blue-01.png 5000w, https://www.americanvascular.com/hs-fs/hubfs/NewnanNVC_Logos_Blue-01.png?width=6000&name=NewnanNVC_Logos_Blue-01.png 6000w",
+        "sizes": "(max-width: 2000px) 100vw, 2000px"
+      },
+      {
+        "src": "https://www.americanvascular.com/hs-fs/hubfs/Columbus-Vas-Large-stacked-logo.webp?width=350&height=350&name=Columbus-Vas-Large-stacked-logo.webp",
+        "alt": "Columbus-Vas-Large-stacked-logo",
+        "loading": "lazy",
+        "width": "350",
+        "height": "350",
+        "srcset": "https://www.americanvascular.com/hs-fs/hubfs/Columbus-Vas-Large-stacked-logo.webp?width=175&height=175&name=Columbus-Vas-Large-stacked-logo.webp 175w, https://www.americanvascular.com/hs-fs/hubfs/Columbus-Vas-Large-stacked-logo.webp?width=350&height=350&name=Columbus-Vas-Large-stacked-logo.webp 350w, https://www.americanvascular.com/hs-fs/hubfs/Columbus-Vas-Large-stacked-logo.webp?width=525&height=525&name=Columbus-Vas-Large-stacked-logo.webp 525w, https://www.americanvascular.com/hs-fs/hubfs/Columbus-Vas-Large-stacked-logo.webp?width=700&height=700&name=Columbus-Vas-Large-stacked-logo.webp 700w, https://www.americanvascular.com/hs-fs/hubfs/Columbus-Vas-Large-stacked-logo.webp?width=875&height=875&name=Columbus-Vas-Large-stacked-logo.webp 875w, https://www.americanvascular.com/hs-fs/hubfs/Columbus-Vas-Large-stacked-logo.webp?width=1050&height=1050&name=Columbus-Vas-Large-stacked-logo.webp 1050w",
+        "sizes": "(max-width: 350px) 100vw, 350px"
+      },
+      {
+        "src": "https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/VSNC_Logo_NOV20-02.png?width=2000&name=VSNC_Logo_NOV20-02.png",
+        "alt": "VSNC_Logo_NOV20-02",
+        "loading": "lazy",
+        "width": "2000",
+        "style": "max-width: 100%; height: auto;",
+        "srcset": "https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/VSNC_Logo_NOV20-02.png?width=1000&name=VSNC_Logo_NOV20-02.png 1000w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/VSNC_Logo_NOV20-02.png?width=2000&name=VSNC_Logo_NOV20-02.png 2000w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/VSNC_Logo_NOV20-02.png?width=3000&name=VSNC_Logo_NOV20-02.png 3000w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/VSNC_Logo_NOV20-02.png?width=4000&name=VSNC_Logo_NOV20-02.png 4000w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/VSNC_Logo_NOV20-02.png?width=5000&name=VSNC_Logo_NOV20-02.png 5000w, https://www.americanvascular.com/hs-fs/hubfs/Center%20Logos/VSNC_Logo_NOV20-02.png?width=6000&name=VSNC_Logo_NOV20-02.png 6000w",
+        "sizes": "(max-width: 2000px) 100vw, 2000px"
+      },
+      {
+        "src": "https://www.americanvascular.com/hs-fs/hubfs/CentralGeogiaMaconLogo.webp?width=798&height=408&name=CentralGeogiaMaconLogo.webp",
+        "alt": "CentralGeogiaMaconLogo",
+        "loading": "lazy",
+        "width": "798",
+        "height": "408",
+        "srcset": "https://www.americanvascular.com/hs-fs/hubfs/CentralGeogiaMaconLogo.webp?width=399&height=204&name=CentralGeogiaMaconLogo.webp 399w, https://www.americanvascular.com/hs-fs/hubfs/CentralGeogiaMaconLogo.webp?width=798&height=408&name=CentralGeogiaMaconLogo.webp 798w, https://www.americanvascular.com/hs-fs/hubfs/CentralGeogiaMaconLogo.webp?width=1197&height=612&name=CentralGeogiaMaconLogo.webp 1197w, https://www.americanvascular.com/hs-fs/hubfs/CentralGeogiaMaconLogo.webp?width=1596&height=816&name=CentralGeogiaMaconLogo.webp 1596w, https://www.americanvascular.com/hs-fs/hubfs/CentralGeogiaMaconLogo.webp?width=1995&height=1020&name=CentralGeogiaMaconLogo.webp 1995w, https://www.americanvascular.com/hs-fs/hubfs/CentralGeogiaMaconLogo.webp?width=2394&height=1224&name=CentralGeogiaMaconLogo.webp 2394w",
+        "sizes": "(max-width: 798px) 100vw, 798px"
+      },
+      {
+        "src": "https://www.americanvascular.com/hs-fs/hubfs/EVC_Logo_APR22_Black.png?width=2000&name=EVC_Logo_APR22_Black.png",
+        "alt": "EVC_Logo_APR22_Black",
+        "loading": "lazy",
+        "width": "2000",
+        "style": "max-width: 100%; height: auto;",
+        "srcset": "https://www.americanvascular.com/hs-fs/hubfs/EVC_Logo_APR22_Black.png?width=1000&name=EVC_Logo_APR22_Black.png 1000w, https://www.americanvascular.com/hs-fs/hubfs/EVC_Logo_APR22_Black.png?width=2000&name=EVC_Logo_APR22_Black.png 2000w, https://www.americanvascular.com/hs-fs/hubfs/EVC_Logo_APR22_Black.png?width=3000&name=EVC_Logo_APR22_Black.png 3000w, https://www.americanvascular.com/hs-fs/hubfs/EVC_Logo_APR22_Black.png?width=4000&name=EVC_Logo_APR22_Black.png 4000w, https://www.americanvascular.com/hs-fs/hubfs/EVC_Logo_APR22_Black.png?width=5000&name=EVC_Logo_APR22_Black.png 5000w, https://www.americanvascular.com/hs-fs/hubfs/EVC_Logo_APR22_Black.png?width=6000&name=EVC_Logo_APR22_Black.png 6000w",
+        "sizes": "(max-width: 2000px) 100vw, 2000px"
+      },
+      {
+        "src": "https://www.americanvascular.com/hs-fs/hubfs/king-and-associates-cardiology-logo-512a-300x138.webp?width=300&height=138&name=king-and-associates-cardiology-logo-512a-300x138.webp",
+        "alt": "king-and-associates-cardiology-logo-512a-300x138",
+        "loading": "lazy",
+        "width": "300",
+        "height": "138",
+        "srcset": "https://www.americanvascular.com/hs-fs/hubfs/king-and-associates-cardiology-logo-512a-300x138.webp?width=150&height=69&name=king-and-associates-cardiology-logo-512a-300x138.webp 150w, https://www.americanvascular.com/hs-fs/hubfs/king-and-associates-cardiology-logo-512a-300x138.webp?width=300&height=138&name=king-and-associates-cardiology-logo-512a-300x138.webp 300w, https://www.americanvascular.com/hs-fs/hubfs/king-and-associates-cardiology-logo-512a-300x138.webp?width=450&height=207&name=king-and-associates-cardiology-logo-512a-300x138.webp 450w, https://www.americanvascular.com/hs-fs/hubfs/king-and-associates-cardiology-logo-512a-300x138.webp?width=600&height=276&name=king-and-associates-cardiology-logo-512a-300x138.webp 600w, https://www.americanvascular.com/hs-fs/hubfs/king-and-associates-cardiology-logo-512a-300x138.webp?width=750&height=345&name=king-and-associates-cardiology-logo-512a-300x138.webp 750w, https://www.americanvascular.com/hs-fs/hubfs/king-and-associates-cardiology-logo-512a-300x138.webp?width=900&height=414&name=king-and-associates-cardiology-logo-512a-300x138.webp 900w",
+        "sizes": "(max-width: 300px) 100vw, 300px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-152/add36174061a782c.txt"
+  },
+  {
+    "id": "6d1996ebd10d81e0",
+    "name": "American Vein & Lymphatic Society (office-based Facility Assn Obfa) (fka Uspa)",
+    "requested_url": "https://www.myavls.org/",
+    "status": 200,
+    "final_url": "https://www.myavls.org/",
+    "text_chars": 1112,
+    "logo_candidates": [
+      {
+        "class": "logo logo--header img-responsive",
+        "src": "/assets/images/home/logo.png",
+        "alt": "American Vein & Lymphatic Society"
+      },
+      {
+        "class": "logo logo--footer img-responsive",
+        "src": "/assets/images/logo.png",
+        "alt": "American Vein & Lymphatic Society"
+      },
+      {
+        "src": "/assets/images/wtm_logo.png",
+        "alt": "WebToMed",
+        "class": "footer__wtm_logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-152/6d1996ebd10d81e0.txt"
+  },
+  {
+    "id": "a39fbead755a763b",
+    "name": "American Wild Horses Conservation",
+    "requested_url": "https://www.americanwildhorse.org/",
+    "status": 200,
+    "final_url": "https://www.americanwildhorse.org/",
+    "text_chars": 7358,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-152/a39fbead755a763b.txt"
+  },
+  {
+    "id": "95b569a84e4e369c",
+    "name": "Americans Against Government Censorship F/k/a Protecting Progressive Values",
+    "requested_url": "https://www.stopgovernmentcensorship.org/",
+    "status": 200,
+    "final_url": "https://www.stopgovernmentcensorship.org/",
+    "text_chars": 1123,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-152/95b569a84e4e369c.txt"
+  },
+  {
+    "id": "6befecf39092639e",
+    "name": "Americans United for Separation of Church and State",
+    "requested_url": "https://www.au.org/about/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "e649951ca91335cf",
+    "name": "Amity Holdings LLC DBA PIP Diabetes Care",
+    "requested_url": "https://pipdiabetes.com/",
+    "status": 200,
+    "final_url": "https://pipdiabetes.com/",
+    "text_chars": 99,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-152/e649951ca91335cf.txt"
+  },
+  {
+    "id": "d65902ada9bb1bd9",
+    "name": "AMO Pharma, Ltd.",
+    "requested_url": "https://amopharma.com/",
+    "status": 200,
+    "final_url": "https://amopharma.com/",
+    "text_chars": 73,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-152/d65902ada9bb1bd9.txt"
+  },
+  {
+    "id": "2dfd6e8ba2641c14",
+    "name": "AN Achievable Dream Academies",
+    "requested_url": "https://achievabledream.org/",
+    "status": 200,
+    "final_url": "https://achievabledream.org/",
+    "text_chars": 2287,
+    "logo_candidates": [
+      {
+        "src": "https://achievabledream.org/wp-content/themes/aad-2020/library/images/aad-logo-main-2024.png",
+        "alt": "An Achievable Dream Academies"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-152/2dfd6e8ba2641c14.txt"
+  },
+  {
+    "id": "ea725531ed1faf2f",
+    "name": "Amtechnologies",
+    "requested_url": "https://amtechnologies.com/",
+    "status": 200,
+    "final_url": "https://amtechnologies.com/",
+    "text_chars": 2364,
+    "logo_candidates": [
+      {
+        "class": "mega-menu-logo",
+        "src": "https://amtechnologies.com/wp-content/uploads/2025/01/amt_logo_official.png"
+      },
+      {
+        "class": "mega-menu-logo",
+        "width": "200",
+        "height": "78",
+        "src": "https://amtechnologies.com/wp-content/uploads/2025/01/amt_logo_official-200x78.png",
+        "srcset": "https://amtechnologies.com/wp-content/uploads/2025/01/amt_logo_official-400x156.png 2x"
+      },
+      {
+        "width": "800",
+        "height": "315",
+        "src": "https://amtechnologies.com/wp-content/uploads/2023/07/amt_logo_white-letters-compressed-1920x756.png",
+        "class": "attachment-large size-large wp-image-11277",
+        "alt": "",
+        "srcset": "https://amtechnologies.com/wp-content/uploads/2023/07/amt_logo_white-letters-compressed-1920x756.png 1920w, https://amtechnologies.com/wp-content/uploads/2023/07/amt_logo_white-letters-compressed-660x260.png 660w, https://amtechnologies.com/wp-content/uploads/2023/07/amt_logo_white-letters-compressed-768x302.png 768w, https://amtechnologies.com/wp-content/uploads/2023/07/amt_logo_white-letters-compressed-1536x605.png 1536w, https://amtechnologies.com/wp-content/uploads/2023/07/amt_logo_white-letters-compressed-2048x807.png 2048w",
+        "sizes": "(max-width: 800px) 100vw, 800px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-152/ea725531ed1faf2f.txt"
+  },
+  {
+    "id": "1f802cc519e32bc9",
+    "name": "Ande, Inc.",
+    "requested_url": "https://www.ande.com/",
+    "status": 200,
+    "final_url": "https://www.ande.com/",
+    "text_chars": 1579,
+    "logo_candidates": [
+      {
+        "elementtiming": "nbf-header-logo-desktop",
+        "src": "//images.squarespace-cdn.com/content/v1/6569082f48727e71ec9bf1d8/de75352a-695d-4ccb-8586-9f2c55a532ee/ANDE_Logo_Horiz_RGB.png?format=1500w",
+        "alt": "ANDE\u00ae",
+        "style": "display:block",
+        "fetchpriority": "high",
+        "loading": "eager",
+        "decoding": "async",
+        "data-loader": "raw"
+      },
+      {
+        "elementtiming": "nbf-header-logo-desktop",
+        "src": "//images.squarespace-cdn.com/content/v1/6569082f48727e71ec9bf1d8/de75352a-695d-4ccb-8586-9f2c55a532ee/ANDE_Logo_Horiz_RGB.png?format=1500w",
+        "alt": "ANDE\u00ae",
+        "style": "display:block",
+        "fetchpriority": "high",
+        "loading": "eager",
+        "decoding": "async",
+        "data-loader": "raw"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-152/1f802cc519e32bc9.txt"
+  },
+  {
+    "id": "1f64d6f7a64b329d",
+    "name": "Andrew Morgan Consulting",
+    "requested_url": "https://andrew-morgan.com/",
+    "status": 202,
+    "final_url": "https://andrew-morgan.com/",
+    "text_chars": 85,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-152/1f64d6f7a64b329d.txt"
+  },
+  {
+    "id": "29f551a3e7dfc734",
+    "name": "Anesthesia Practice Consultants, PC (on behalf of Michiganders for Fair Healthcare)",
+    "requested_url": "https://apcpc.net/",
+    "status": 200,
+    "final_url": "https://apcpc.net/",
+    "text_chars": 2081,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-152/29f551a3e7dfc734.txt"
+  },
+  {
+    "id": "f9f358dcc6dfe7c2",
+    "name": "Anfield Resources Holding Corporation",
+    "requested_url": "https://anfieldenergy.com/",
+    "status": 200,
+    "final_url": "https://anfieldenergy.com/",
+    "text_chars": 3565,
+    "logo_candidates": [
+      {
+        "decoding": "async",
+        "width": "384",
+        "height": "65",
+        "src": "https://anfieldenergy.com/wp-content/uploads/2025/11/logo.png",
+        "alt": "",
+        "title": "logo",
+        "srcset": "https://anfieldenergy.com/wp-content/uploads/2025/11/logo.png 384w, https://anfieldenergy.com/wp-content/uploads/2025/11/logo-300x51.png 300w",
+        "sizes": "(max-width: 384px) 100vw, 384px",
+        "class": "wp-image-74"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "384",
+        "height": "65",
+        "src": "https://anfieldenergy.com/wp-content/uploads/2025/11/logo.png",
+        "alt": "",
+        "title": "logo",
+        "srcset": "https://anfieldenergy.com/wp-content/uploads/2025/11/logo.png 384w, https://anfieldenergy.com/wp-content/uploads/2025/11/logo-300x51.png 300w",
+        "sizes": "(max-width: 384px) 100vw, 384px",
+        "class": "wp-image-74"
+      },
+      {
+        "fetchpriority": "high",
+        "decoding": "async",
+        "width": "633",
+        "height": "731",
+        "src": "https://anfieldenergy.com/wp-content/uploads/2025/11/ae-logo-white-1.png",
+        "alt": "",
+        "title": "ae-logo-white-1",
+        "srcset": "https://anfieldenergy.com/wp-content/uploads/2025/11/ae-logo-white-1.png 633w, https://anfieldenergy.com/wp-content/uploads/2025/11/ae-logo-white-1-480x554.png 480w",
+        "sizes": "(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 633px, 100vw",
+        "class": "wp-image-93"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-152/f9f358dcc6dfe7c2.txt"
+  },
+  {
+    "id": "caa1579c5c5c0dc5",
+    "name": "AngloGold Ashanti North America",
+    "requested_url": "https://www.anglogoldashanti.com/",
+    "status": 200,
+    "final_url": "https://www.anglogoldashanti.com/",
+    "text_chars": 181,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-152/caa1579c5c5c0dc5.txt"
+  },
+  {
+    "id": "bfb0ff79a423d853",
+    "name": "The Anschutz Corporation",
+    "requested_url": "https://www.anschutz.com/",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "id": "326610ebf1cbf8d6",
+    "name": "Ant Group Co., Ltd.",
+    "requested_url": "https://www.antgroup.com/",
+    "status": 200,
+    "final_url": "https://www.antgroup.com/",
+    "text_chars": 79,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-152/326610ebf1cbf8d6.txt"
+  },
+  {
+    "id": "a6cf36b0712f4e62",
+    "name": "Aon (including filed Aon Corporation aliases)",
+    "requested_url": "https://www.aon.com/",
+    "status": 200,
+    "final_url": "https://www.aon.com/en/",
+    "text_chars": 14172,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-152/a6cf36b0712f4e62.txt"
+  },
+  {
+    "id": "0ed3959f02dbbe72",
+    "name": "Aon Risk Services",
+    "requested_url": "https://www.aon.com/about-us",
+    "status": 200,
+    "final_url": "https://www.aon.com/about-us",
+    "text_chars": 1501,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-152/0ed3959f02dbbe72.txt"
+  },
+  {
+    "id": "28b6ddae0535f96a",
+    "name": "Aon Service Corporation",
+    "requested_url": "https://www.aon.com/about-us",
+    "status": 200,
+    "final_url": "https://www.aon.com/about-us",
+    "text_chars": 1507,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-152/28b6ddae0535f96a.txt"
+  },
+  {
+    "id": "ab43045c7151d8aa",
+    "name": "Apex Technology Incorporated",
+    "requested_url": "https://www.apextechnologyinc.com/contact.html",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)>"
+  },
+  {
+    "id": "547f1ab25d80a0b4",
+    "name": "ApoE4 Alzheimer\u2019s Alliance",
+    "requested_url": "https://apoe4alzheimersalliance.org/resources/alzheimers-association",
+    "status": 200,
+    "final_url": "https://apoe4alzheimersalliance.org/resources/alzheimers-association",
+    "text_chars": 1871,
+    "logo_candidates": [
+      {
+        "src": "Logo_small.jpg",
+        "alt": "ApoE4 Alzheimer's Alliance Logo",
+        "class": "logo"
+      },
+      {
+        "src": "images/logo.gif",
+        "alt": "Logo",
+        "style": "width:300px;height:auto;"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-152/547f1ab25d80a0b4.txt"
+  },
+  {
+    "id": "14bc43e3b1f2e663",
+    "name": "ApolloMD (Americans for Fair Health Care)",
+    "requested_url": "https://apollomd.com/",
+    "status": 200,
+    "final_url": "https://apollomd.com/",
+    "text_chars": 4735,
+    "logo_candidates": [
+      {
+        "width": "275",
+        "height": "50",
+        "src": "https://apollomd.com/wp-content/uploads/2024/09/Apollo-Logo.svg",
+        "class": "custom-logo",
+        "alt": "ApolloMD logo, featuring a stylized circular emblem with a person icon and the company name in blue and gray text",
+        "decoding": "async"
+      },
+      {
+        "decoding": "async",
+        "src": "https://apollomd.com/wp-content/uploads/2026/07/NationalBBlogowin26_RGB.jpg",
+        "alt": "Best Brightest Companies to Work for Top 101 in the Nation Winner 2026",
+        "class": "img-fluid w-100 sbi-apollo-logo-carousel__logos__carousel__item__image"
+      },
+      {
+        "decoding": "async",
+        "src": "https://apollomd.com/wp-content/uploads/2026/07/AtlantaBBlogoWin26_RGB.jpg",
+        "alt": "Atlanta's Best Brightest Companies to Work for Winner 2026",
+        "class": "img-fluid w-100 sbi-apollo-logo-carousel__logos__carousel__item__image"
+      },
+      {
+        "decoding": "async",
+        "src": "https://apollomd.com/wp-content/uploads/2026/05/2026_MH_BPTW_stackedOL-scaled.jpg",
+        "alt": "Best Places to Work in Healthcare 2026",
+        "class": "img-fluid w-100 sbi-apollo-logo-carousel__logos__carousel__item__image"
+      },
+      {
+        "decoding": "async",
+        "src": "https://apollomd.com/wp-content/uploads/2026/01/Top101BBInTheNationlogoRGBWinner2025.jpg",
+        "alt": "Best Brightest Companies to Work for Top 101 in the Nation Winner 2025",
+        "class": "img-fluid w-100 sbi-apollo-logo-carousel__logos__carousel__item__image"
+      },
+      {
+        "decoding": "async",
+        "src": "https://apollomd.com/wp-content/uploads/2025/08/Award_TWP-USA-25-1.webp",
+        "alt": "USA Today Top Work Places 2025 USA",
+        "class": "img-fluid w-100 sbi-apollo-logo-carousel__logos__carousel__item__image"
+      },
+      {
+        "decoding": "async",
+        "src": "https://apollomd.com/wp-content/uploads/2025/08/Award_AtlantaBBlogoWin-25.webp",
+        "alt": "Atlanta's Best Brightest Companies to Work for Winner 2025",
+        "class": "img-fluid w-100 sbi-apollo-logo-carousel__logos__carousel__item__image"
+      },
+      {
+        "decoding": "async",
+        "src": "https://apollomd.com/wp-content/uploads/2025/10/NationalBBlogowin25_RGB.jpg",
+        "alt": "Best and Brightest Companies to Work for in the Nation Winner 2025",
+        "class": "img-fluid w-100 sbi-apollo-logo-carousel__logos__carousel__item__image"
+      },
+      {
+        "decoding": "async",
+        "src": "https://apollomd.com/wp-content/uploads/2025/10/ATL-BIZ-Chronicle-Healthiest-Employer-200-x-300-px.png",
+        "alt": "Atlanta Business Chronicle 2025 Best Places to Work Healthiest Employer",
+        "class": "img-fluid w-100 sbi-apollo-logo-carousel__logos__carousel__item__image"
+      },
+      {
+        "width": "275",
+        "height": "50",
+        "src": "https://apollomd.com/wp-content/uploads/2024/09/Apollo-Logo.svg",
+        "class": "custom-logo",
+        "alt": "ApolloMD logo, featuring a stylized circular emblem with a person icon and the company name in blue and gray text",
+        "decoding": "async"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-152/14bc43e3b1f2e663.txt"
+  },
+  {
+    "id": "4ce098b9905a53be",
+    "name": "Apotex Inc.",
+    "requested_url": "https://www.apotex.com/global/about-us",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "96b01b05d96a1b6d",
+    "name": "Applied Biologics",
+    "requested_url": "https://www.appliedbiologics.com/about/",
+    "status": 202,
+    "final_url": "https://www.appliedbiologics.com/about/",
+    "text_chars": 91,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-152/96b01b05d96a1b6d.txt"
+  },
+  {
+    "id": "00cdbc0057440df6",
+    "name": "Applied Research Institute, Inc.",
+    "requested_url": "https://www.theari.us/",
+    "status": 200,
+    "final_url": "https://www.theari.us/",
+    "text_chars": 2099,
+    "logo_candidates": [
+      {
+        "class": "brand-logo",
+        "src": "assets/ari-logo-dark.png",
+        "alt": "ARI"
+      },
+      {
+        "class": "devx-logo",
+        "src": "assets/partners/devx-autonomy.png",
+        "alt": "DevX Autonomy"
+      },
+      {
+        "class": "devx-logo",
+        "src": "assets/partners/devx-autonomy.png",
+        "alt": ""
+      },
+      {
+        "class": "init-logo-img",
+        "src": "assets/partners/ram.png?v=93",
+        "alt": "Rapid Acquisition Marketplace logo",
+        "loading": "lazy"
+      },
+      {
+        "class": "init-logo-img",
+        "src": "assets/partners/heartland-bioworks.png",
+        "alt": "Heartland BioWorks logo",
+        "loading": "lazy"
+      },
+      {
+        "class": "init-logo-img",
+        "src": "assets/partners/silicon-crossroads.png",
+        "alt": "Silicon Crossroads logo",
+        "loading": "lazy"
+      },
+      {
+        "class": "init-logo-img",
+        "src": "assets/partners/darpaconnect.png",
+        "alt": "DARPAConnect logo",
+        "loading": "lazy"
+      },
+      {
+        "class": "brand-logo",
+        "src": "assets/ari-logo-dark.png",
+        "alt": "ARI",
+        "style": "height:40px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-152/00cdbc0057440df6.txt"
+  },
+  {
+    "id": "97e192da8f72be0d",
+    "name": "Applied Research Institute, Inc. (ARI)",
+    "requested_url": "https://www.theari.us/",
+    "status": 200,
+    "final_url": "https://www.theari.us/",
+    "text_chars": 2105,
+    "logo_candidates": [
+      {
+        "class": "brand-logo",
+        "src": "assets/ari-logo-dark.png",
+        "alt": "ARI"
+      },
+      {
+        "class": "devx-logo",
+        "src": "assets/partners/devx-autonomy.png",
+        "alt": "DevX Autonomy"
+      },
+      {
+        "class": "devx-logo",
+        "src": "assets/partners/devx-autonomy.png",
+        "alt": ""
+      },
+      {
+        "class": "init-logo-img",
+        "src": "assets/partners/ram.png?v=93",
+        "alt": "Rapid Acquisition Marketplace logo",
+        "loading": "lazy"
+      },
+      {
+        "class": "init-logo-img",
+        "src": "assets/partners/heartland-bioworks.png",
+        "alt": "Heartland BioWorks logo",
+        "loading": "lazy"
+      },
+      {
+        "class": "init-logo-img",
+        "src": "assets/partners/silicon-crossroads.png",
+        "alt": "Silicon Crossroads logo",
+        "loading": "lazy"
+      },
+      {
+        "class": "init-logo-img",
+        "src": "assets/partners/darpaconnect.png",
+        "alt": "DARPAConnect logo",
+        "loading": "lazy"
+      },
+      {
+        "class": "brand-logo",
+        "src": "assets/ari-logo-dark.png",
+        "alt": "ARI",
+        "style": "height:40px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-152/97e192da8f72be0d.txt"
+  },
+  {
+    "id": "51d95d9f8f9e0836",
+    "name": "Apprenticeships for America, Inc.",
+    "requested_url": "https://www.apprenticeshipsforamerica.org/",
+    "status": 200,
+    "final_url": "https://apprenticeshipsforamerica.org/",
+    "text_chars": 3694,
+    "logo_candidates": [
+      {
+        "class": "tt_custom_logo_1",
+        "src": "https://apprenticeshipsforamerica.org/uploads/apprenticeshipsa/customization/afa-logo-desktop-3.png",
+        "alt": "",
+        "style": "height 100% !important; width: auto !important; max-width: 100%;"
+      },
+      {
+        "class": "tt_custom_logo_1",
+        "src": "https://apprenticeshipsforamerica.org/uploads/apprenticeshipsa/customization/afa-logo-desktop-3.png",
+        "alt": ""
+      },
+      {
+        "class": "d-block w-100",
+        "src": "https://apprenticeshipsforamerica.org/uploads/apprenticeshipsa/customization//afa-logo-desktop-31.png",
+        "alt": "image"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-152/51d95d9f8f9e0836.txt"
+  },
+  {
+    "id": "61e9fd2687aa0a7b",
+    "name": "Aptera Motors Inc.",
+    "requested_url": "https://ir.aptera.us/",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "6de7f9b5440bb407",
+    "name": "Aramark Services, Inc.",
+    "requested_url": "https://www.aramark.com/",
+    "status": 200,
+    "final_url": "https://www.aramark.com/home",
+    "text_chars": 181,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-152/6de7f9b5440bb407.txt"
+  },
+  {
+    "id": "7b5d2aa44b4ffdae",
+    "name": "ArcelorMittal North America Holdings LLC",
+    "requested_url": "https://corporate.arcelormittal.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "28f71d9a63900ca8",
+    "name": "ArcelorMittal North America Holdings LLC and its U.S. subsidiaries",
+    "requested_url": "https://corporate.arcelormittal.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "12e72a6c57f08b0b",
+    "name": "Arch Capital Group (u.s.) Inc.",
+    "requested_url": "https://insurance.archgroup.com/business/north-america/united-states/",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

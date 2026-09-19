@@ -1,0 +1,1228 @@
+[
+  {
+    "id": "9aa8e7f84116db75",
+    "name": "Aviation Technical Services, Inc.",
+    "requested_url": "https://www.atsmro.com/",
+    "status": 200,
+    "final_url": "https://www.atsmro.com/",
+    "text_chars": 12242,
+    "logo_candidates": [
+      {
+        "width": "900",
+        "height": "600",
+        "src": "https://www.atsmro.com/wp-content/uploads/2026/02/ATS2020-Logo-900x600-no-buffer-NBG2.svg",
+        "class": "attachment-full size-full wp-image-19064",
+        "alt": ""
+      },
+      {
+        "src": "/wp-content/uploads/2026/02/ATS2020-Logo-900x600-no-buffer-NBG2.svg"
+      },
+      {
+        "width": "1101",
+        "height": "1101",
+        "src": "https://www.atsmro.com/wp-content/uploads/2025/09/ATS2020-logo-1100x1100-white-bronze-NoBG.png",
+        "class": "attachment-full size-full wp-image-19918",
+        "alt": "",
+        "srcset": "https://www.atsmro.com/wp-content/uploads/2025/09/ATS2020-logo-1100x1100-white-bronze-NoBG.png 1101w, https://www.atsmro.com/wp-content/uploads/2025/09/ATS2020-logo-1100x1100-white-bronze-NoBG-300x300.png 300w, https://www.atsmro.com/wp-content/uploads/2025/09/ATS2020-logo-1100x1100-white-bronze-NoBG-1024x1024.png 1024w, https://www.atsmro.com/wp-content/uploads/2025/09/ATS2020-logo-1100x1100-white-bronze-NoBG-150x150.png 150w, https://www.atsmro.com/wp-content/uploads/2025/09/ATS2020-logo-1100x1100-white-bronze-NoBG-768x768.png 768w",
+        "sizes": "(max-width: 1101px) 100vw, 1101px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-110/9aa8e7f84116db75.txt"
+  },
+  {
+    "id": "814d5eac38c24af0",
+    "name": "City of Kyle, Texas",
+    "requested_url": "https://www.cityofkyle.gov/",
+    "status": 200,
+    "final_url": "https://www.cityofkyle.gov/",
+    "text_chars": 7350,
+    "logo_candidates": [
+      {
+        "src": "https://media-002-us.cdn.govstack.com/cityofkyle-us/media/pb1op3hp/kyle_logo_flatcolor.svg",
+        "alt": "City of Kyle colored logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-110/814d5eac38c24af0.txt"
+  },
+  {
+    "id": "dd1d71cb3e5518c8",
+    "name": "City of Lee's Summit, Missouri",
+    "requested_url": "https://cityofls.net/",
+    "status": 200,
+    "final_url": "https://cityofls.net/",
+    "text_chars": 11774,
+    "logo_candidates": [
+      {
+        "alt": "Community For All Ages Gold Award Logo",
+        "src": "/portals/0/Images/City-Pages/awards/CFAA-gold-award-114x73.png",
+        "style": "width: 114px; height: 73px;",
+        "title": "Community For All Ages Gold Award"
+      },
+      {
+        "alt": "Tree City USA Award Logo",
+        "src": "/portals/0/Images/City-Pages/awards/tree-city-usa-web-136x136.png?ver=9ytFlxw_xa_kfYpxSUHZWg%3d%3d",
+        "style": "width: 73px; height: 73px;",
+        "title": "Tree City USA Award Logo"
+      },
+      {
+        "alt": "Bicycle Friendly Community Bronze Award Logo",
+        "src": "/portals/0/Images/City-Pages/awards/BFC_Bronze_Seal_2021_73x73.png?ver=P80GPXSkLoVeVsdX_uH9pg%3d%3d",
+        "style": "width: 73px; height: 73px;",
+        "title": "Bicycle Friendly Community Bronze Award Logo"
+      },
+      {
+        "alt": "Walk Friendly Community Award Logo",
+        "src": "/portals/0/Images/City-Pages/awards/walk-friendly-community-73x73.png",
+        "style": "width: 73px; height: 73px;",
+        "title": "Walk Friendly Community Award Logo"
+      },
+      {
+        "alt": "2018 Digital Cities Survey Winner logo",
+        "src": "/portals/0/Images/City-Pages/awards/CDG18-DigCities-125x73.jpg",
+        "style": "width: 125px; height: 73px;",
+        "title": "2018 Digital Cities Survey Winner"
+      },
+      {
+        "alt": "SolSmart Award Logo",
+        "src": "/portals/0/Images/City-Pages/awards/SolSmartLogo-111x73.png",
+        "style": "width: 111px; height: 73px;",
+        "title": "SolSmart Award"
+      },
+      {
+        "alt": "Most Neighborly City Logo",
+        "src": "/portals/0/Images/City-Pages/awards/Most Neighborly City 2025.png?ver=b2YkejGQubjKWbNzeN3oJA%3d%3d",
+        "style": "width: 73px; height: 73px;",
+        "title": "Most Neighborly City Logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-110/dd1d71cb3e5518c8.txt"
+  },
+  {
+    "id": "4fb9e88b8463c98e",
+    "name": "Deep Mile Networks, LLC",
+    "requested_url": "https://deepmile.com/",
+    "status": 200,
+    "final_url": "https://deepmile.com/",
+    "text_chars": 12230,
+    "logo_candidates": [
+      {
+        "src": "https://deepmile.com/wp-content/uploads/2016/12/deepmile_logo.png",
+        "width": "646",
+        "height": "100",
+        "alt": "DeepMile Networks",
+        "id": "logo",
+        "data-height-percentage": "53"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "143",
+        "height": "143",
+        "src": "https://deepmile.com/wp-content/uploads/2023/06/logo-1.jpg",
+        "alt": "logo-1",
+        "title": "logo-1",
+        "class": "wp-image-4422"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "141",
+        "height": "141",
+        "src": "https://deepmile.com/wp-content/uploads/2023/06/logo-2.jpg",
+        "alt": "logo-2",
+        "title": "logo-2",
+        "class": "wp-image-4423"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "141",
+        "height": "141",
+        "src": "https://deepmile.com/wp-content/uploads/2023/06/logo-3.jpg",
+        "alt": "logo-3",
+        "title": "logo-3",
+        "class": "wp-image-4424"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "149",
+        "height": "152",
+        "src": "https://deepmile.com/wp-content/uploads/2023/06/logo-4.jpg",
+        "alt": "logo-4",
+        "title": "logo-4",
+        "class": "wp-image-4425"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "144",
+        "height": "144",
+        "src": "https://deepmile.com/wp-content/uploads/2023/06/logo-5.jpg",
+        "alt": "logo-5",
+        "title": "logo-5",
+        "class": "wp-image-4426"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "134",
+        "height": "137",
+        "src": "https://deepmile.com/wp-content/uploads/2023/06/logo-6.jpg",
+        "alt": "logo-6",
+        "title": "logo-6",
+        "class": "wp-image-4427"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "142",
+        "height": "143",
+        "src": "https://deepmile.com/wp-content/uploads/2023/06/logo-7.jpg",
+        "alt": "logo-7",
+        "title": "logo-7",
+        "class": "wp-image-4428"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "142",
+        "height": "143",
+        "src": "https://deepmile.com/wp-content/uploads/2023/06/logo-8.jpg",
+        "alt": "logo-8",
+        "title": "logo-8",
+        "class": "wp-image-4429"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "145",
+        "height": "145",
+        "src": "https://deepmile.com/wp-content/uploads/2023/06/logo-9.jpg",
+        "alt": "logo-9",
+        "title": "logo-9",
+        "class": "wp-image-4430"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "128",
+        "height": "119",
+        "src": "https://deepmile.com/wp-content/uploads/2023/06/logo-10.jpg",
+        "alt": "logo-10",
+        "title": "logo-10",
+        "class": "wp-image-4431"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "123",
+        "height": "51",
+        "src": "https://deepmile.com/wp-content/uploads/2023/06/logo-11.jpg",
+        "alt": "logo-11",
+        "title": "logo-11",
+        "class": "wp-image-4432"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "131",
+        "height": "101",
+        "src": "https://deepmile.com/wp-content/uploads/2023/06/logo-12.jpg",
+        "alt": "logo-12",
+        "title": "logo-12",
+        "class": "wp-image-4433"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "129",
+        "height": "72",
+        "src": "https://deepmile.com/wp-content/uploads/2023/06/logo-13.jpg",
+        "alt": "logo-13",
+        "title": "logo-13",
+        "class": "wp-image-4434"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "150",
+        "height": "36",
+        "src": "https://deepmile.com/wp-content/uploads/2023/06/logo-14.jpg",
+        "alt": "logo-14",
+        "title": "logo-14",
+        "class": "wp-image-4435"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "139",
+        "height": "122",
+        "src": "https://deepmile.com/wp-content/uploads/2023/06/logo-15.jpg",
+        "alt": "logo-15",
+        "title": "logo-15",
+        "class": "wp-image-4436"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "147",
+        "height": "64",
+        "src": "https://deepmile.com/wp-content/uploads/2023/06/logo-16.jpg",
+        "alt": "logo-16",
+        "title": "logo-16",
+        "class": "wp-image-4437"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "147",
+        "height": "46",
+        "src": "https://deepmile.com/wp-content/uploads/2023/06/logo-17.jpg",
+        "alt": "logo-17",
+        "title": "logo-17",
+        "class": "wp-image-4438"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "111",
+        "height": "69",
+        "src": "https://deepmile.com/wp-content/uploads/2023/06/logo-18.jpg",
+        "alt": "logo-18",
+        "title": "logo-18",
+        "class": "wp-image-4439"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "126",
+        "height": "38",
+        "src": "https://deepmile.com/wp-content/uploads/2023/06/logo-19.jpg",
+        "alt": "logo-19",
+        "title": "logo-19",
+        "class": "wp-image-4440"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "138",
+        "height": "37",
+        "src": "https://deepmile.com/wp-content/uploads/2023/06/logo-20.jpg",
+        "alt": "logo-20",
+        "title": "logo-20",
+        "class": "wp-image-4441"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "137",
+        "height": "69",
+        "src": "https://deepmile.com/wp-content/uploads/2023/06/logo-21.jpg",
+        "alt": "logo-21",
+        "title": "logo-21",
+        "class": "wp-image-4442"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "146",
+        "height": "40",
+        "src": "https://deepmile.com/wp-content/uploads/2023/06/logo-22.jpg",
+        "alt": "logo-22",
+        "title": "logo-22",
+        "class": "wp-image-4443"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "148",
+        "height": "36",
+        "src": "https://deepmile.com/wp-content/uploads/2023/06/logo-23.jpg",
+        "alt": "logo-23",
+        "title": "logo-23",
+        "class": "wp-image-4444"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "148",
+        "height": "27",
+        "src": "https://deepmile.com/wp-content/uploads/2023/06/logo-24.jpg",
+        "alt": "logo-24",
+        "title": "logo-24",
+        "class": "wp-image-4445"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "148",
+        "height": "60",
+        "src": "https://deepmile.com/wp-content/uploads/2023/06/logo-25.jpg",
+        "alt": "logo-25",
+        "title": "logo-25",
+        "class": "wp-image-4446"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "124",
+        "height": "126",
+        "src": "https://deepmile.com/wp-content/uploads/2023/06/logo-26.jpg",
+        "alt": "logo-26",
+        "title": "logo-26",
+        "class": "wp-image-4447"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "141",
+        "height": "59",
+        "src": "https://deepmile.com/wp-content/uploads/2023/06/logo-27.jpg",
+        "alt": "logo-27",
+        "title": "logo-27",
+        "class": "wp-image-4448"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "141",
+        "height": "47",
+        "src": "https://deepmile.com/wp-content/uploads/2023/06/logo-28.jpg",
+        "alt": "logo-28",
+        "title": "logo-28",
+        "class": "wp-image-4449"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "src": "https://deepmile.com/wp-content/uploads/2023/06/deepmile_logo-300x46.png",
+        "alt": "",
+        "class": "wp-image-4048 alignnone size-medium",
+        "width": "300",
+        "height": "46"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "src": "https://deepmile.com/wp-content/uploads/2023/07/CMMI-logo.png",
+        "width": "197",
+        "height": "73",
+        "alt": "CMMI Logo",
+        "class": "wp-image-4738 alignnone size-full"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "src": "https://deepmile.com/wp-content/uploads/2023/07/CMMI-logo.jpg",
+        "width": "197",
+        "height": "73",
+        "alt": "",
+        "class": "wp-image-4782 alignnone size-full"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-110/4fb9e88b8463c98e.txt"
+  },
+  {
+    "id": "7e69614e6e7b9c1d",
+    "name": "Emerging Technology Institute",
+    "requested_url": "https://etinc.com/",
+    "status": 200,
+    "final_url": "https://etinc.com/",
+    "text_chars": 3650,
+    "logo_candidates": [
+      {
+        "src": "/images/etlogo.jpg"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-110/7e69614e6e7b9c1d.txt"
+  },
+  {
+    "id": "e2119a8315f2301b",
+    "name": "InStride",
+    "requested_url": "https://www.instride.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "2a19fbb0a251e2a8",
+    "name": "Orano USA LLC (formerly Known AS Areva Nuclear Materials Llc)",
+    "requested_url": "https://www.orano.group/usa/en",
+    "status": 200,
+    "final_url": "https://www.orano.group/usa/en",
+    "text_chars": 5582,
+    "logo_candidates": [
+      {
+        "src": "https://cdn.orano.group/orano/images/default-source/default-album/system/orano-logo-black45ba6dfee0744a7192abfcba9b8bf3cc_406e977b-4b29-435e-952c-a3a22f5d7a85.png?sfvrsn=68f19995_2",
+        "title": "Orano",
+        "alt": "Orano"
+      },
+      {
+        "src": "https://cdn.orano.group/orano/images/default-source/default-album/system/orano-logo-white2b20d9662075495e9a2386e842e3f78b_07459a83-8503-489f-a805-588f84ad43e6.png?sfvrsn=1e15e4c5_2",
+        "title": "Orano",
+        "alt": "Orano"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-110/2a19fbb0a251e2a8.txt"
+  },
+  {
+    "id": "00767a7bdf32ddac",
+    "name": "Qualcomm (via Paul Weiss)",
+    "requested_url": "https://www.qualcomm.com/company",
+    "status": 200,
+    "final_url": "https://www.qualcomm.com/company",
+    "text_chars": 196,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-110/00767a7bdf32ddac.txt"
+  },
+  {
+    "id": "65494841207d70dd",
+    "name": "PBF Holding Company LLC",
+    "requested_url": "https://www.pbfenergy.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "78e05da1ae55d278",
+    "name": "Polaris Industries",
+    "requested_url": "https://www.polaris.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "ec406179fb08820f",
+    "name": "Potential Development School for Student With Autism",
+    "requested_url": "https://www.potentialschool.com/",
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  {
+    "id": "b34791264da1c96b",
+    "name": "Psgc (prairie State Generating Company)",
+    "requested_url": "https://www.prairiestateenergycampus.com/",
+    "status": 200,
+    "final_url": "https://prairiestateenergycampus.com/",
+    "text_chars": 3129,
+    "logo_candidates": [
+      {
+        "class": "lazy",
+        "src": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201%201%22%3E%3C%2Fsvg%3E",
+        "data-src": "https://prairiestateenergycampus.com/wp-content/themes/psgc/library/images/logo.svg",
+        "alt": "Praire State Energy Campus Logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-110/b34791264da1c96b.txt"
+  },
+  {
+    "id": "1e2df537c79e0232",
+    "name": "Soter BIO Inc.",
+    "requested_url": "https://soter-bio.com/",
+    "status": 200,
+    "final_url": "https://soter-bio.com/",
+    "text_chars": 4332,
+    "logo_candidates": [
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "1",
+        "height": "1",
+        "src": "https://soter-bio.com/wp-content/uploads/2025/01/Dark-BG-Logo.svg",
+        "class": "attachment-thumbnail size-thumbnail wp-image-87",
+        "alt": "dark bg logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-110/1e2df537c79e0232.txt"
+  },
+  {
+    "id": "c7508e206260c260",
+    "name": "ST Paper Company, LLC",
+    "requested_url": "https://www.stpaperllc.com/",
+    "status": 200,
+    "final_url": "https://www.stpaperllc.com/",
+    "text_chars": 2597,
+    "logo_candidates": [
+      {
+        "src": "assets/images/cropped-stPaperTissuelogo.png",
+        "alt": "ST Paper & ST Tissue"
+      },
+      {
+        "src": "assets/images/barnwell-logo.jpeg",
+        "alt": "Paper mill facility"
+      },
+      {
+        "class": "st-co-logo-img",
+        "src": "assets/images/companyLogo/stPaperlogoB-150x101.jpg",
+        "alt": "ST Paper LLC",
+        "onerror": "this.style.display='none'; this.nextElementSibling.style.display='block';"
+      },
+      {
+        "class": "st-co-logo-img",
+        "src": "assets/images/companyLogo/stTissuelogoB-1-150x101.jpg",
+        "alt": "ST Tissue LLC",
+        "onerror": "this.style.display='none'; this.nextElementSibling.style.display='block';"
+      },
+      {
+        "class": "st-co-logo-img",
+        "src": "assets/images/companyLogo/barnwell.jpeg",
+        "alt": "Barnewell LLC",
+        "onerror": "this.style.display='none'; this.nextElementSibling.style.display='block';"
+      },
+      {
+        "src": "assets/images/cropped-stPaperTissuelogo.png",
+        "alt": "ST Paper Logo",
+        "class": "logo-img",
+        "onerror": "this.src='';this.alt='ST Paper';this.style.fontSize='24px';this.style.fontWeight='700';this.style.color='#fff';"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-110/c7508e206260c260.txt"
+  },
+  {
+    "id": "84aa41f6295cc16c",
+    "name": "Superior Life Finance",
+    "requested_url": "https://superiorlifefinance.com/",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)>"
+  },
+  {
+    "id": "a06c486f52842272",
+    "name": "Tarana Wireless, Inc.",
+    "requested_url": "https://taranawireless.com/about/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "56ca5aaef07179eb",
+    "name": "Winning Strategies Washington (on Behalf of Middlesex County, NEW Jersey)",
+    "requested_url": "https://www.middlesexcountynj.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "a03bbb7b1f49d6b2",
+    "name": "Atlas Crossing \u2014 on behalf of England Economic & Industrial Development District",
+    "requested_url": "https://www.atlascrossing.com/",
+    "status": 200,
+    "final_url": "https://www.atlascrossing.com/",
+    "text_chars": 19843,
+    "logo_candidates": [
+      {
+        "id": "image-86-160",
+        "alt": "",
+        "src": "https://www.atlascrossing.com/wp-content/uploads/2023/07/Atlas-Crossing-OldxNew-Logo-BlueBlue-300x136.png",
+        "class": "ct-image",
+        "srcset": "",
+        "sizes": "(max-width: 300px) 100vw, 300px"
+      },
+      {
+        "id": "image-68-160",
+        "alt": "",
+        "src": "https://www.atlascrossing.com/wp-content/uploads/2021/05/logo_white_background.png",
+        "class": "ct-image"
+      },
+      {
+        "id": "image-181-175-1",
+        "alt": "",
+        "src": "https://www.atlascrossing.com/wp-content/uploads/2021/05/VirginHyperloop.png",
+        "class": "ct-image client__logo",
+        "data-id": "image-181-175"
+      },
+      {
+        "id": "image-181-175-2",
+        "alt": "",
+        "src": "https://www.atlascrossing.com/wp-content/uploads/2021/05/USTravel_CMYK_logo_marked.png",
+        "class": "ct-image client__logo",
+        "data-id": "image-181-175"
+      },
+      {
+        "id": "image-181-175-3",
+        "alt": "",
+        "src": "https://www.atlascrossing.com/wp-content/uploads/2021/05/SouthernAirways.png",
+        "class": "ct-image client__logo",
+        "data-id": "image-181-175"
+      },
+      {
+        "id": "image-181-175-4",
+        "alt": "",
+        "src": "https://www.atlascrossing.com/wp-content/uploads/2021/05/SHIP.jpg",
+        "class": "ct-image client__logo",
+        "data-id": "image-181-175"
+      },
+      {
+        "id": "image-181-175-5",
+        "alt": "",
+        "src": "https://www.atlascrossing.com/wp-content/uploads/2021/05/Roswell.jpg",
+        "class": "ct-image client__logo",
+        "data-id": "image-181-175"
+      },
+      {
+        "id": "image-181-175-6",
+        "alt": "",
+        "src": "https://www.atlascrossing.com/wp-content/uploads/2021/05/R2p.jpg",
+        "class": "ct-image client__logo",
+        "data-id": "image-181-175"
+      },
+      {
+        "id": "image-181-175-7",
+        "alt": "",
+        "src": "https://www.atlascrossing.com/wp-content/uploads/2021/05/Idemia.jpg",
+        "class": "ct-image client__logo",
+        "data-id": "image-181-175"
+      },
+      {
+        "id": "image-181-175-8",
+        "alt": "",
+        "src": "https://www.atlascrossing.com/wp-content/uploads/2021/05/CapitalCollection-300x56.jpg",
+        "class": "ct-image client__logo",
+        "data-id": "image-181-175"
+      },
+      {
+        "id": "image-181-175-9",
+        "alt": "",
+        "src": "https://www.atlascrossing.com/wp-content/uploads/2021/05/bakersHealthGroup.png",
+        "class": "ct-image client__logo",
+        "data-id": "image-181-175"
+      },
+      {
+        "id": "image-54-225",
+        "alt": "",
+        "src": "https://www.atlascrossing.com/wp-content/uploads/2023/07/Atlas-Crossing-OldxNew-Logo-BlueBlue-300x136.png",
+        "class": "ct-image",
+        "srcset": "",
+        "sizes": "(max-width: 300px) 100vw, 300px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-110/a03bbb7b1f49d6b2.txt"
+  },
+  {
+    "id": "c0319b6c20dd9810",
+    "name": "City of McAllen, Texas",
+    "requested_url": "https://www.mcallen.net/",
+    "status": 200,
+    "final_url": "https://www.mcallen.net/",
+    "text_chars": 5795,
+    "logo_candidates": [
+      {
+        "src": "/Sitefinity/WebsiteTemplates/McAllen/App_Themes/McAllen/img/logo.png",
+        "alt": "City Of McAllen"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-110/c0319b6c20dd9810.txt"
+  },
+  {
+    "id": "8290aaeafc36c006",
+    "name": "City of Modesto, California",
+    "requested_url": "https://modestogov.com/",
+    "status": 200,
+    "final_url": "https://modestogov.com/",
+    "text_chars": 6216,
+    "logo_candidates": [
+      {
+        "class": "media",
+        "src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data-delay-load": "/ImageRepository/Document?documentID=26770",
+        "alt": "City of Modesto Podcast Studio with table, microphones and a city logo on the back wall. ",
+        "data-delayed-image": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-110/8290aaeafc36c006.txt"
+  },
+  {
+    "id": "5f29e724b40a32fd",
+    "name": "Disa Technologies",
+    "requested_url": "https://www.disatech.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+  },
+  {
+    "id": "b05302a4bb91715e",
+    "name": "ML Strategies, LLC on behalf of Daikin U.S. Corporation",
+    "requested_url": "https://www.mlstrategies.com/",
+    "status": 200,
+    "final_url": "https://www.mlstrategies.com/",
+    "text_chars": 5534,
+    "logo_candidates": [
+      {
+        "src": "/themes/custom/mintztheme/gnorm/build/images/mls_logo_horizontal_RGB.svg",
+        "alt": "ML Strategies logo"
+      },
+      {
+        "data-src": "https://www.mlstrategies.com/sites/default/files/styles/headshot/public/media/images/2026-01-14/NAHEFFA-logo-400x400.png?itok=L4crCtLO",
+        "alt": "NAHEFFA logo",
+        "class": "lazyload"
+      },
+      {
+        "src": "/themes/custom/mintztheme/gnorm/build/images/logo--mintz_vert.png",
+        "alt": "Mintz logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-110/b05302a4bb91715e.txt"
+  },
+  {
+    "id": "34b11420e8403004",
+    "name": "ML Strategies, LLC on behalf of PriceSmart, Inc.",
+    "requested_url": "https://www.mlstrategies.com/",
+    "status": 200,
+    "final_url": "https://www.mlstrategies.com/",
+    "text_chars": 5527,
+    "logo_candidates": [
+      {
+        "src": "/themes/custom/mintztheme/gnorm/build/images/mls_logo_horizontal_RGB.svg",
+        "alt": "ML Strategies logo"
+      },
+      {
+        "data-src": "https://www.mlstrategies.com/sites/default/files/styles/headshot/public/media/images/2026-01-14/NAHEFFA-logo-400x400.png?itok=L4crCtLO",
+        "alt": "NAHEFFA logo",
+        "class": "lazyload"
+      },
+      {
+        "src": "/themes/custom/mintztheme/gnorm/build/images/logo--mintz_vert.png",
+        "alt": "Mintz logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-110/34b11420e8403004.txt"
+  },
+  {
+    "id": "fb9bcf24e95eb724",
+    "name": "Nobelclad US Manufacturing",
+    "requested_url": "https://nobelclad.com/about-us",
+    "status": 200,
+    "final_url": "https://nobelclad.com/about-us",
+    "text_chars": 99,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-110/fb9bcf24e95eb724.txt"
+  },
+  {
+    "id": "a78ea5a3f2bb2716",
+    "name": "NRG Energy",
+    "requested_url": "https://www.nrg.com/",
+    "status": 200,
+    "final_url": "https://www.nrg.com/",
+    "text_chars": 131,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-110/a78ea5a3f2bb2716.txt"
+  },
+  {
+    "id": "639e504176c52b00",
+    "name": "Prairie State Generating Company",
+    "requested_url": "https://www.prairiestateenergycampus.com/",
+    "status": 200,
+    "final_url": "https://prairiestateenergycampus.com/",
+    "text_chars": 3122,
+    "logo_candidates": [
+      {
+        "class": "lazy",
+        "src": "data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%201%201%22%3E%3C%2Fsvg%3E",
+        "data-src": "https://prairiestateenergycampus.com/wp-content/themes/psgc/library/images/logo.svg",
+        "alt": "Praire State Energy Campus Logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-110/639e504176c52b00.txt"
+  },
+  {
+    "id": "f9252732a6776149",
+    "name": "Principle Health Systems",
+    "requested_url": "https://principlehs.com/",
+    "status": 200,
+    "final_url": "https://principlehs.com/",
+    "text_chars": 9481,
+    "logo_candidates": [
+      {
+        "src": "https://principlehs.com/bc/wp-content/uploads/Principle-Health-Systems_color-2500.png",
+        "alt": "Logo"
+      },
+      {
+        "src": "https://principlehs.com/bc/wp-content/uploads/Principle-Health-Systems_color-2500.png",
+        "alt": "Logo"
+      },
+      {
+        "src": "https://principlehs.com/bc/wp-content/uploads/footer-logo-white.png",
+        "alt": "Logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-110/f9252732a6776149.txt"
+  },
+  {
+    "id": "ec1bb94b173f82b0",
+    "name": "Public Service Enterprise Group",
+    "requested_url": "https://investor.pseg.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "2695fb5e89b83eb3",
+    "name": "Trauma Center Association of America",
+    "requested_url": "https://www.traumacenters.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "40142e376c51174c",
+    "name": "United Fidelity Funding Corporation",
+    "requested_url": "https://uff.loans/",
+    "status": 200,
+    "final_url": "https://uff.loans/",
+    "text_chars": 160,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-110/40142e376c51174c.txt"
+  },
+  {
+    "id": "813a40996cdfcef6",
+    "name": "Wison NEW Energies Company",
+    "requested_url": "https://www.wison.com/",
+    "status": 200,
+    "final_url": "https://www.wison.com/",
+    "text_chars": 1220,
+    "logo_candidates": [
+      {
+        "src": "/themes/basic/skin/images/logo.png",
+        "alt": ""
+      },
+      {
+        "src": "/themes/basic/skin/images/logo_mobile.png",
+        "alt": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-110/813a40996cdfcef6.txt"
+  },
+  {
+    "id": "19523ba7cc07007f",
+    "name": "Athena Bitcoin",
+    "requested_url": "https://www.athenabitcoin.com/",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.athenabitcoin.com'. (_ssl.c:1129)>"
+  },
+  {
+    "id": "546f7e4353ec643c",
+    "name": "City of Lumberton, North Carolina",
+    "requested_url": "https://lumbertonnc.gov/",
+    "status": 200,
+    "final_url": "https://lumbertonnc.gov/",
+    "text_chars": 2991,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-110/546f7e4353ec643c.txt"
+  },
+  {
+    "id": "6ec697237dc76fad",
+    "name": "Electronic Fluorocarbons",
+    "requested_url": "https://www.efgases.com/",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)>"
+  },
+  {
+    "id": "4c30aea43d80bb8b",
+    "name": "Geothermal Exchange Organization (geo)",
+    "requested_url": "https://geoexchange.org/geo/",
+    "status": 202,
+    "final_url": "https://geoexchange.org/geo/",
+    "text_chars": 101,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-110/4c30aea43d80bb8b.txt"
+  },
+  {
+    "id": "b0e2b0966903958c",
+    "name": "Mayne Pharma",
+    "requested_url": "https://www.maynepharma.com/",
+    "status": 202,
+    "final_url": "https://www.maynepharma.com/",
+    "text_chars": 75,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-110/b0e2b0966903958c.txt"
+  },
+  {
+    "id": "7209ec44630d3ab5",
+    "name": "Merchants for America, Inc.",
+    "requested_url": "https://merchantsforamerica.com/home",
+    "status": 200,
+    "final_url": "https://merchantsforamerica.com/home",
+    "text_chars": 1067,
+    "logo_candidates": [
+      {
+        "src": "//img1.wsimg.com/isteam/ip/db17946b-d3ab-443b-8530-9bf44b13b817/M%20Logo.png/:/rs=h:200,cg:true,m/qt=q:95",
+        "srcset": "//img1.wsimg.com/isteam/ip/db17946b-d3ab-443b-8530-9bf44b13b817/M%20Logo.png/:/rs=w:526,h:200,cg:true,m/cr=w:526,h:200/qt=q:95, //img1.wsimg.com/isteam/ip/db17946b-d3ab-443b-8530-9bf44b13b817/M%20Logo.png/:/rs=w:1051,h:400,cg:true,m/cr=w:1051,h:400/qt=q:95 2x, //img1.wsimg.com/isteam/ip/db17946b-d3ab-443b-8530-9bf44b13b817/M%20Logo.png/:/rs=w:1280,h:487,cg:true,m/cr=w:1280,h:487/qt=q:95 3x",
+        "alt": "MerchantsForAmerica",
+        "data-ux": "ImageLogo",
+        "data-aid": "HEADER_LOGO_IMAGE_RENDERED",
+        "class": "x-el x-el-img c1-1 c1-2 c1-4 c1-2p c1-31 c1-32 c1-1x c1-1z c1-33 c1-34 c1-35 c1-36 c1-1o c1-37 c1-2w c1-2x c1-2y c1-2z c1-38 c1-25 c1-b c1-c c1-39 c1-3a c1-3b c1-3c c1-3d c1-3e c1-3f c1-3g c1-3h c1-3i c1-3j c1-3k c1-3l c1-3m c1-3n c1-d c1-3o c1-3p c1-3q c1-e c1-f c1-g"
+      },
+      {
+        "src": "//img1.wsimg.com/isteam/ip/db17946b-d3ab-443b-8530-9bf44b13b817/M%20Logo.png/:/rs=h:200,cg:true,m/qt=q:95",
+        "srcset": "//img1.wsimg.com/isteam/ip/db17946b-d3ab-443b-8530-9bf44b13b817/M%20Logo.png/:/rs=w:526,h:200,cg:true,m/cr=w:526,h:200/qt=q:95, //img1.wsimg.com/isteam/ip/db17946b-d3ab-443b-8530-9bf44b13b817/M%20Logo.png/:/rs=w:1051,h:400,cg:true,m/cr=w:1051,h:400/qt=q:95 2x, //img1.wsimg.com/isteam/ip/db17946b-d3ab-443b-8530-9bf44b13b817/M%20Logo.png/:/rs=w:1280,h:487,cg:true,m/cr=w:1280,h:487/qt=q:95 3x",
+        "alt": "MerchantsForAmerica",
+        "data-ux": "ImageLogo",
+        "data-aid": "HEADER_LOGO_IMAGE_RENDERED",
+        "id": "logo-12903",
+        "class": "x-el x-el-img c1-1 c1-2 c1-4 c1-2p c1-31 c1-32 c1-1x c1-1z c1-33 c1-34 c1-35 c1-36 c1-1o c1-37 c1-2w c1-2x c1-2y c1-2z c1-38 c1-25 c1-b c1-c c1-39 c1-3a c1-3b c1-3c c1-3d c1-3e c1-3f c1-3g c1-3h c1-3i c1-3j c1-3k c1-3l c1-3m c1-3n c1-d c1-3o c1-3p c1-3q c1-e c1-f c1-g"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-110/7209ec44630d3ab5.txt"
+  },
+  {
+    "id": "376564e6f7214be8",
+    "name": "Mesabi Metallics Company LLC",
+    "requested_url": "https://www.mesabimetallics.com/",
+    "status": 200,
+    "final_url": "https://www.mesabimetallics.com/",
+    "text_chars": 3100,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-110/376564e6f7214be8.txt"
+  },
+  {
+    "id": "c917db101a530075",
+    "name": "National Association of Benefits and Insurance Professionals (formerly NAHU)",
+    "requested_url": "https://nabip.org/",
+    "status": 200,
+    "final_url": "https://nabip.org/",
+    "text_chars": 10850,
+    "logo_candidates": [
+      {
+        "alt": "NABIP",
+        "src": "/media/7845/nabip-logo-colored.png"
+      },
+      {
+        "id": "1_imgLogo_Mbl",
+        "src": "/media/7845/nabip-logo-colored.png?quality=60&cacheBuster=false",
+        "alt": "Nabip Logo Colored"
+      },
+      {
+        "id": "1_imgLogo",
+        "class": "siteLogo",
+        "src": "/media/7845/nabip-logo-colored.png?quality=60&cacheBuster=false",
+        "alt": "Nabip Logo Colored"
+      },
+      {
+        "id": "1_imgFeatured",
+        "src": "/media/11101/benefits-brief-logo.png?center=0.46551724137931033,0.47844827586206895&mode=crop&width=600&height=500&rnd=134274761910000000&quality=60&cacheBuster=false",
+        "alt": "Benefits Brief LOGO"
+      },
+      {
+        "id": "1_lstvNewsPnls_imgFeatured_0",
+        "data-vimeoid": "",
+        "src": "/media/11101/benefits-brief-logo.png?center=0.46551724137931033,0.47844827586206895&mode=crop&width=400&height=400&rnd=134274761910000000&quality=60&cacheBuster=false",
+        "alt": "Benefits Brief LOGO"
+      },
+      {
+        "id": "1_lstvNewsPnls_imgFeatured_2",
+        "data-vimeoid": "",
+        "src": "/media/11101/benefits-brief-logo.png?center=0.46551724137931033,0.47844827586206895&mode=crop&width=400&height=400&rnd=134274761910000000&quality=60&cacheBuster=false",
+        "alt": "Benefits Brief LOGO"
+      },
+      {
+        "id": "1_lstvNewsPnls_imgFeatured_3",
+        "data-vimeoid": "",
+        "src": "/media/11101/benefits-brief-logo.png?center=0.46551724137931033,0.47844827586206895&mode=crop&width=400&height=400&rnd=134274761910000000&quality=60&cacheBuster=false",
+        "alt": "Benefits Brief LOGO"
+      },
+      {
+        "id": "1_lstvNewsPnls_imgFeatured_4",
+        "data-vimeoid": "",
+        "src": "/media/11101/benefits-brief-logo.png?center=0.46551724137931033,0.47844827586206895&mode=crop&width=400&height=400&rnd=134274761910000000&quality=60&cacheBuster=false",
+        "alt": "Benefits Brief LOGO"
+      },
+      {
+        "id": "1_lstvNewsPnls_imgFeatured_5",
+        "data-vimeoid": "",
+        "src": "/media/11101/benefits-brief-logo.png?center=0.46551724137931033,0.47844827586206895&mode=crop&width=400&height=400&rnd=134274761910000000&quality=60&cacheBuster=false",
+        "alt": "Benefits Brief LOGO"
+      },
+      {
+        "id": "1_lstvNewsPnls_imgFeatured_6",
+        "data-vimeoid": "",
+        "src": "/media/11101/benefits-brief-logo.png?center=0.46551724137931033,0.47844827586206895&mode=crop&width=400&height=400&rnd=134274761910000000&quality=60&cacheBuster=false",
+        "alt": "Benefits Brief LOGO"
+      },
+      {
+        "id": "1_lstvNewsPnls_imgFeatured_8",
+        "data-vimeoid": "",
+        "src": "/media/11101/benefits-brief-logo.png?center=0.46551724137931033,0.47844827586206895&mode=crop&width=400&height=400&rnd=134274761910000000&quality=60&cacheBuster=false",
+        "alt": "Benefits Brief LOGO"
+      },
+      {
+        "id": "1_ctl00_lstv_ctl00_0_imgFeatured_0",
+        "src": "/media/11101/benefits-brief-logo.png?center=0.46551724137931033,0.47844827586206895&mode=crop&width=400&height=400&rnd=134274761910000000&quality=60&cacheBuster=false",
+        "alt": "Benefits Brief LOGO"
+      },
+      {
+        "id": "1_ctl00_lstv_ctl00_2_imgFeatured_2",
+        "src": "/media/11101/benefits-brief-logo.png?center=0.46551724137931033,0.47844827586206895&mode=crop&width=400&height=400&rnd=134274761910000000&quality=60&cacheBuster=false",
+        "alt": "Benefits Brief LOGO"
+      },
+      {
+        "id": "1_ctl00_lstv_ctl00_3_imgFeatured_3",
+        "src": "/media/11101/benefits-brief-logo.png?center=0.46551724137931033,0.47844827586206895&mode=crop&width=400&height=400&rnd=134274761910000000&quality=60&cacheBuster=false",
+        "alt": "Benefits Brief LOGO"
+      },
+      {
+        "id": "1_ctl00_lstv_ctl00_4_imgFeatured_4",
+        "src": "/media/11101/benefits-brief-logo.png?center=0.46551724137931033,0.47844827586206895&mode=crop&width=400&height=400&rnd=134274761910000000&quality=60&cacheBuster=false",
+        "alt": "Benefits Brief LOGO"
+      },
+      {
+        "id": "1_ctl00_lstv_ctl00_5_imgFeatured_5",
+        "src": "/media/11101/benefits-brief-logo.png?center=0.46551724137931033,0.47844827586206895&mode=crop&width=400&height=400&rnd=134274761910000000&quality=60&cacheBuster=false",
+        "alt": "Benefits Brief LOGO"
+      },
+      {
+        "id": "1_ctl00_lstv_ctl00_6_imgFeatured_6",
+        "src": "/media/11101/benefits-brief-logo.png?center=0.46551724137931033,0.47844827586206895&mode=crop&width=400&height=400&rnd=134274761910000000&quality=60&cacheBuster=false",
+        "alt": "Benefits Brief LOGO"
+      },
+      {
+        "id": "1_ctl00_lstv_ctl00_8_imgFeatured_8",
+        "src": "/media/11101/benefits-brief-logo.png?center=0.46551724137931033,0.47844827586206895&mode=crop&width=400&height=400&rnd=134274761910000000&quality=60&cacheBuster=false",
+        "alt": "Benefits Brief LOGO"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-110/c917db101a530075.txt"
+  },
+  {
+    "id": "a09157eeb7bc9ed4",
+    "name": "Payward Inc D/b/a Kraken",
+    "requested_url": "https://www.kraken.com/",
+    "status": 200,
+    "final_url": "https://www.kraken.com/",
+    "text_chars": 8861,
+    "logo_candidates": [
+      {
+        "src": "https://assets-cms.kraken.com/images/51n36hrp/facade/1698017cf06d51d17fff161c3704544f8402ecc5-68x18.svg",
+        "class": "kraken-image-svg",
+        "alt": "Forbes logo",
+        "loading": "lazy",
+        "style": "display:block;object-fit:contain;object-position:center center"
+      },
+      {
+        "src": "https://assets-cms.kraken.com/images/51n36hrp/facade/ebe60e0d899368ee5c501148232e2b94c76b72c1-360x101.svg",
+        "class": "kraken-image-svg w-[var(--width-default)] h-[var(--height-default)]",
+        "alt": "Kraken Pro Logo",
+        "loading": "lazy",
+        "style": "display:block;object-fit:contain;--width-default:100%;--height-default:100%"
+      },
+      {
+        "src": "https://assets-cms.kraken.com/images/51n36hrp/facade/6b1b0a92eb0de8b2f5cc9b71ec64afdd95c7830b-650x101.svg",
+        "class": "kraken-image-svg w-[var(--width-default)] h-[var(--height-default)]",
+        "alt": "Kraken Logo",
+        "loading": "lazy",
+        "style": "display:block;object-fit:contain;--width-default:100%;--height-default:100%"
+      },
+      {
+        "src": "https://assets-cms.kraken.com/images/51n36hrp/facade/cc0a15892d68e7927c1cd74a464047e15da98e71-84x18.svg",
+        "class": "kraken-image-svg w-[var(--width-default)] h-[var(--height-default)]",
+        "alt": "Krak Logo",
+        "loading": "lazy",
+        "style": "display:block;object-fit:contain;--width-default:100%;--height-default:100%"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-110/a09157eeb7bc9ed4.txt"
+  },
+  {
+    "id": "d94b3ce0280acad7",
+    "name": "Primacy Development, LLC",
+    "requested_url": "https://primacydevelopment.com/",
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  {
+    "id": "634bc30d50e6c8b8",
+    "name": "Sigma Defense Systems LLC",
+    "requested_url": "https://sigmadefense.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "cdfb8eefd16bccea",
+    "name": "Sonova USA Inc.",
+    "requested_url": "https://www.sonova.com/en-us",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "a954321264679107",
+    "name": "Sustainment",
+    "requested_url": "https://www.sustainment.com/",
+    "status": 200,
+    "final_url": "https://www.sustainment.com/",
+    "text_chars": 2401,
+    "logo_candidates": [
+      {
+        "src": "https://cdn.prod.website-files.com/6a3c90b8fb290f62879f1c99/6a6a232fd4329f074ea20345_sustainment-logo.png",
+        "loading": "lazy",
+        "width": "Auto",
+        "sizes": "(max-width: 767px) 98vw, (max-width: 991px) 728px, 940px",
+        "alt": "sustainment",
+        "srcset": "https://cdn.prod.website-files.com/6a3c90b8fb290f62879f1c99/6a6a232fd4329f074ea20345_sustainment-logo-p-500.png 500w, https://cdn.prod.website-files.com/6a3c90b8fb290f62879f1c99/6a6a232fd4329f074ea20345_sustainment-logo-p-800.png 800w, https://cdn.prod.website-files.com/6a3c90b8fb290f62879f1c99/6a6a232fd4329f074ea20345_sustainment-logo.png 1700w",
+        "class": "image-14"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a3c90b8fb290f62879f1c99/6a6a232fd4329f074ea20345_sustainment-logo.png",
+        "loading": "lazy",
+        "sizes": "(max-width: 767px) 100vw, (max-width: 991px) 728px, 940px",
+        "srcset": "https://cdn.prod.website-files.com/6a3c90b8fb290f62879f1c99/6a6a232fd4329f074ea20345_sustainment-logo-p-500.png 500w, https://cdn.prod.website-files.com/6a3c90b8fb290f62879f1c99/6a6a232fd4329f074ea20345_sustainment-logo-p-800.png 800w, https://cdn.prod.website-files.com/6a3c90b8fb290f62879f1c99/6a6a232fd4329f074ea20345_sustainment-logo.png 1700w",
+        "alt": "sustainment",
+        "class": "img-h-lg switch-tablet"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-110/a954321264679107.txt"
+  },
+  {
+    "id": "36968dc12c786597",
+    "name": "Terraflow Energy",
+    "requested_url": "https://terraflowenergy.com/",
+    "status": 202,
+    "final_url": "https://terraflowenergy.com/",
+    "text_chars": 79,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-110/36968dc12c786597.txt"
+  },
+  {
+    "id": "a00f418cdbacd241",
+    "name": "the Lemoine Company, LLC",
+    "requested_url": "https://www.lemoinecompany.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "2f9151e19dd10639",
+    "name": "UP Entertainment LLC",
+    "requested_url": "https://uptv.com/",
+    "status": 200,
+    "final_url": "https://uptv.com/",
+    "text_chars": 2536,
+    "logo_candidates": [
+      {
+        "data-src": "/wp-content/themes/uptv2020/img/uptv-logo-white.svg",
+        "width": "80",
+        "height": "50",
+        "alt": "UPtv Logo",
+        "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "class": "lazyload",
+        "style": "--smush-placeholder-width: 80px; --smush-placeholder-aspect-ratio: 80/50;"
+      },
+      {
+        "data-src": "/wp-content/themes/uptv2020/img/uptv-logo-white.svg",
+        "width": "120",
+        "alt": "UPtv Logo",
+        "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "class": "lazyload"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-110/2f9151e19dd10639.txt"
+  },
+  {
+    "id": "51c56c3a3b3db3bb",
+    "name": "American FED of Government Employees Afl-cio",
+    "requested_url": "https://www.afge.org/",
+    "status": 200,
+    "final_url": "https://www.afge.org/",
+    "text_chars": 9906,
+    "logo_candidates": [
+      {
+        "style": "border: 1px #fdb625 solid;",
+        "title": "AFGE Solidarity Center",
+        "alt": "",
+        "src": "/contentassets/4cadfc3745134112883745ff08d385b9/solidarity-center-logo.png",
+        "height": "125",
+        "width": "500"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-110/51c56c3a3b3db3bb.txt"
+  },
+  {
+    "id": "9a0d756d1ef44907",
+    "name": "Bitcoin Depot",
+    "requested_url": "https://bitcoindepot.com/",
+    "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)>"
+  },
+  {
+    "id": "ce3cfcd06874615c",
+    "name": "City of Justin, Texas",
+    "requested_url": "https://cityofjustin.com/",
+    "status": 200,
+    "final_url": "https://cityofjustin.com/",
+    "text_chars": 1979,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-110/ce3cfcd06874615c.txt"
+  }
+]

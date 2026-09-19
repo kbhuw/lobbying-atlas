@@ -1,0 +1,362 @@
+[
+  {
+    "id": "f27d9e78af643e26",
+    "name": "Energos Infrastructure Management LLC",
+    "requested_url": "https://energosinfra.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://energosinfra.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/0-f27d9e78af643e26.txt",
+    "text_chars": 5133
+  },
+  {
+    "id": "f27d9e78af643e26",
+    "name": "Energos Infrastructure Management LLC",
+    "requested_url": "https://energosinfra.com/terms-of-use/",
+    "status": 200,
+    "final_url": "https://energosinfra.com/terms-of-use/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/1-f27d9e78af643e26.txt",
+    "text_chars": 775
+  },
+  {
+    "id": "0bdbd886919f8d4d",
+    "name": "SAN Joaquin Valley Regional Planning Agencies Policy Council",
+    "requested_url": "https://www.sjcog.org/privacy",
+    "status": 200,
+    "final_url": "https://www.sjcog.org/privacy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/2-0bdbd886919f8d4d.txt",
+    "text_chars": 5009
+  },
+  {
+    "id": "0bdbd886919f8d4d",
+    "name": "SAN Joaquin Valley Regional Planning Agencies Policy Council",
+    "requested_url": "https://www.sjcog.org/145/About",
+    "status": 200,
+    "final_url": "https://www.sjcog.org/145/About",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/3-0bdbd886919f8d4d.txt",
+    "text_chars": 13540
+  },
+  {
+    "id": "528cbaa493987234",
+    "name": "George E. Warren Corporation",
+    "requested_url": "https://gewarren.com/about",
+    "status": 200,
+    "final_url": "https://gewarren.com/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/4-528cbaa493987234.txt",
+    "text_chars": 1385
+  },
+  {
+    "id": "c765e7b973363402",
+    "name": "Houghton Mifflin Harcourt Company",
+    "requested_url": "https://www.hmhco.com/forms/ai-privacy-in-schools",
+    "status": 200,
+    "final_url": "https://www.hmhco.com/forms/ai-privacy-in-schools",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/5-c765e7b973363402.txt",
+    "text_chars": 11352
+  },
+  {
+    "id": "c765e7b973363402",
+    "name": "Houghton Mifflin Harcourt Company",
+    "requested_url": "https://www.hmhco.com/policy/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.hmhco.com/policy/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/6-c765e7b973363402.txt",
+    "text_chars": 57326
+  },
+  {
+    "id": "c686ecf56b09cfea",
+    "name": "the ARC of Loudon",
+    "requested_url": "https://thearcofloudoun.org/about-us",
+    "status": 202,
+    "final_url": "https://thearcofloudoun.org/about-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/7-c686ecf56b09cfea.txt",
+    "text_chars": 88
+  },
+  {
+    "id": "c686ecf56b09cfea",
+    "name": "the ARC of Loudon",
+    "requested_url": "https://thearcofloudoun.org/about-us/",
+    "status": 202,
+    "final_url": "https://thearcofloudoun.org/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/8-c686ecf56b09cfea.txt",
+    "text_chars": 89
+  },
+  {
+    "id": "a65405f2491329e4",
+    "name": "First Source Electronics LLC",
+    "requested_url": "https://www.getfsp.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.getfsp.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/9-a65405f2491329e4.txt",
+    "text_chars": 3186
+  },
+  {
+    "id": "7b80483778492e0d",
+    "name": "Protect the 1st, Inc.",
+    "requested_url": "https://www.protect1st.org/about.html",
+    "status": 200,
+    "final_url": "https://www.protect1st.org/about.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/10-7b80483778492e0d.txt",
+    "text_chars": 1652
+  },
+  {
+    "id": "0879615371ecf099",
+    "name": "Shinkei Systems Corp.",
+    "requested_url": "https://shinkei.systems/about",
+    "status": 200,
+    "final_url": "https://shinkei.systems/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/11-0879615371ecf099.txt",
+    "text_chars": 3440
+  },
+  {
+    "id": "19dd4b85f078672a",
+    "name": "South BOW Infrastructure Operations, Inc.",
+    "requested_url": "https://www.southbow.com/legal-terms-of-use/",
+    "status": 200,
+    "final_url": "https://www.southbow.com/legal-terms-of-use/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/12-19dd4b85f078672a.txt",
+    "text_chars": 17252
+  },
+  {
+    "id": "19dd4b85f078672a",
+    "name": "South BOW Infrastructure Operations, Inc.",
+    "requested_url": "https://www.southbow.com/privacy/",
+    "status": 200,
+    "final_url": "https://www.southbow.com/privacy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/13-19dd4b85f078672a.txt",
+    "text_chars": 8683
+  },
+  {
+    "id": "cbe5ca03c6774b51",
+    "name": "the Columbus Zoological Park Association",
+    "requested_url": "https://www.columbuszoo.org/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.columbuszoo.org/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/14-cbe5ca03c6774b51.txt",
+    "text_chars": 13272
+  },
+  {
+    "id": "cbe5ca03c6774b51",
+    "name": "the Columbus Zoological Park Association",
+    "requested_url": "https://www.columbuszoo.org/about",
+    "status": 200,
+    "final_url": "https://www.columbuszoo.org/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/15-cbe5ca03c6774b51.txt",
+    "text_chars": 3452
+  },
+  {
+    "id": "59c465ec91514b6d",
+    "name": "Samson Extracts, LLC",
+    "requested_url": "https://www.samsonextracts.com/policies/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.samsonextracts.com/policies/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/16-59c465ec91514b6d.txt",
+    "text_chars": 10828
+  },
+  {
+    "id": "59c465ec91514b6d",
+    "name": "Samson Extracts, LLC",
+    "requested_url": "https://www.samsonextracts.com/policies/terms-of-service",
+    "status": 200,
+    "final_url": "https://www.samsonextracts.com/policies/terms-of-service",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/17-59c465ec91514b6d.txt",
+    "text_chars": 20133
+  },
+  {
+    "id": "8be4c8effaf2e50e",
+    "name": "Gardian Holdings, LLC",
+    "requested_url": "https://gardian.com/about-us/",
+    "status": 200,
+    "final_url": "https://gardian.com/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/18-8be4c8effaf2e50e.txt",
+    "text_chars": 10036
+  },
+  {
+    "id": "233ee487d44a820e",
+    "name": "Professional Compounding Centers of America (pcca)",
+    "requested_url": "https://pccarx.com/privacy?ctl=privacy",
+    "status": 200,
+    "final_url": "https://pccarx.com/Privacy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/19-233ee487d44a820e.txt",
+    "text_chars": 18867
+  },
+  {
+    "id": "233ee487d44a820e",
+    "name": "Professional Compounding Centers of America (pcca)",
+    "requested_url": "https://pccarx.com/terms?ctl=terms",
+    "status": 200,
+    "final_url": "https://pccarx.com/Terms",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/20-233ee487d44a820e.txt",
+    "text_chars": 23919
+  },
+  {
+    "id": "b54bfc0c4d453a47",
+    "name": "Soho Apparel Group Inc.",
+    "requested_url": "https://www.sohoapparel.com/about",
+    "status": 200,
+    "final_url": "https://www.sohoapparel.com/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/21-b54bfc0c4d453a47.txt",
+    "text_chars": 1557
+  },
+  {
+    "id": "5d3526c0806f0376",
+    "name": "Clever Benefit Ventures, LLC",
+    "requested_url": "https://cleverbenefits.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://cleverbenefits.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/22-5d3526c0806f0376.txt",
+    "text_chars": 1131
+  },
+  {
+    "id": "5d3526c0806f0376",
+    "name": "Clever Benefit Ventures, LLC",
+    "requested_url": "https://cleverbenefits.com/sms-terms-and-conditions",
+    "status": 200,
+    "final_url": "https://cleverbenefits.com/sms-terms-and-conditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/23-5d3526c0806f0376.txt",
+    "text_chars": 611
+  },
+  {
+    "id": "67d1ea416219787b",
+    "name": "Cotton Logistics, Inc.",
+    "requested_url": "https://www.cottonlogistics.com/ccpa-privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.cottonlogistics.com/ccpa-privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/24-67d1ea416219787b.txt",
+    "text_chars": 19886
+  },
+  {
+    "id": "67d1ea416219787b",
+    "name": "Cotton Logistics, Inc.",
+    "requested_url": "https://www.cottonlogistics.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.cottonlogistics.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/25-67d1ea416219787b.txt",
+    "text_chars": 17244
+  },
+  {
+    "id": "d3ff3d3de7f7bab1",
+    "name": "Empower Clinic Services, LLC DBD Empower Pharmacy",
+    "requested_url": "https://www.empowerpharmacy.com/notice-of-privacy-practices/",
+    "status": 200,
+    "final_url": "https://www.empowerpharmacy.com/notice-of-privacy-practices/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/26-d3ff3d3de7f7bab1.txt",
+    "text_chars": 15044
+  },
+  {
+    "id": "d3ff3d3de7f7bab1",
+    "name": "Empower Clinic Services, LLC DBD Empower Pharmacy",
+    "requested_url": "https://www.empowerpharmacy.com/privacy-policy-vendor-list/",
+    "status": 200,
+    "final_url": "https://www.empowerpharmacy.com/privacy-policy-vendor-list/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/27-d3ff3d3de7f7bab1.txt",
+    "text_chars": 5714
+  },
+  {
+    "id": "7369e80f9cf4733b",
+    "name": "Flexsys America LP",
+    "requested_url": "https://flexsys.com/data-privacy-statement-employee-fair-processing-notice/",
+    "status": 200,
+    "final_url": "https://flexsys.com/data-privacy-statement-employee-fair-processing-notice/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/28-7369e80f9cf4733b.txt",
+    "text_chars": 4198
+  },
+  {
+    "id": "7369e80f9cf4733b",
+    "name": "Flexsys America LP",
+    "requested_url": "https://flexsys.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://flexsys.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/29-7369e80f9cf4733b.txt",
+    "text_chars": 17559
+  },
+  {
+    "id": "c407f31bbaa54f27",
+    "name": "Geoh, Inc.",
+    "requested_url": "https://geoh.app/privacy-policy",
+    "status": 200,
+    "final_url": "https://geoh.app/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/30-c407f31bbaa54f27.txt",
+    "text_chars": 3411
+  },
+  {
+    "id": "8d93e42b9eff777a",
+    "name": "Washington Gas Light Company (represented by growth[period])",
+    "requested_url": "https://www.washingtongas.com/privacy",
+    "status": 200,
+    "final_url": "https://www.washingtongas.com/privacy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/31-8d93e42b9eff777a.txt",
+    "text_chars": 2767
+  },
+  {
+    "id": "8d93e42b9eff777a",
+    "name": "Washington Gas Light Company (represented by growth[period])",
+    "requested_url": "https://www.washingtongas.com/terms",
+    "status": 200,
+    "final_url": "https://www.washingtongas.com/terms",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/32-8d93e42b9eff777a.txt",
+    "text_chars": 61346
+  },
+  {
+    "id": "ae08de3d5e949545",
+    "name": "Nofence LLC",
+    "requested_url": "https://www.nofence.com/legal-overview/",
+    "status": 200,
+    "final_url": "https://www.nofence.com/legal-overview/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/33-ae08de3d5e949545.txt",
+    "text_chars": 1903
+  },
+  {
+    "id": "ae08de3d5e949545",
+    "name": "Nofence LLC",
+    "requested_url": "https://www.nofence.com/legal-overview/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.nofence.com/legal-overview/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/34-ae08de3d5e949545.txt",
+    "text_chars": 22261
+  },
+  {
+    "id": "c1e7f52c8edca595",
+    "name": "SNA International LP",
+    "requested_url": "https://sna-intl.com/about/",
+    "status": 200,
+    "final_url": "https://sna-intl.com/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/35-c1e7f52c8edca595.txt",
+    "text_chars": 5086
+  },
+  {
+    "id": "c79a7b32c699fd05",
+    "name": "TSEA Energia",
+    "requested_url": "https://www.tseaenergy.com/about",
+    "status": 200,
+    "final_url": "https://www.tseaenergy.com/about-tsea/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/36-c79a7b32c699fd05.txt",
+    "text_chars": 11524
+  },
+  {
+    "id": "c79a7b32c699fd05",
+    "name": "TSEA Energia",
+    "requested_url": "https://www.tseaenergy.com/about-tsea/",
+    "status": 200,
+    "final_url": "https://www.tseaenergy.com/about-tsea/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/37-c79a7b32c699fd05.txt",
+    "text_chars": 11524
+  },
+  {
+    "id": "ff0f25c824238a47",
+    "name": "Bose Public Affairs OBO Egis",
+    "requested_url": "https://www.egis-group.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.egis-group.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/38-ff0f25c824238a47.txt",
+    "text_chars": 13148
+  },
+  {
+    "id": "ff0f25c824238a47",
+    "name": "Bose Public Affairs OBO Egis",
+    "requested_url": "https://www.egis-group.com/terms-and-conditions",
+    "status": 200,
+    "final_url": "https://www.egis-group.com/terms-and-conditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-035/39-ff0f25c824238a47.txt",
+    "text_chars": 11236
+  }
+]

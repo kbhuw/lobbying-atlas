@@ -1,0 +1,1099 @@
+[
+  {
+    "id": "cf79af8f62ef6506",
+    "name": "Cultural Care Au Pair (via Fierce Government Relations)",
+    "requested_url": "https://www.culturalcare.com/",
+    "status": 200,
+    "final_url": "https://www.culturalcare.com/",
+    "text_chars": 12997,
+    "logo_candidates": [
+      {
+        "alt": "Cultural Care Au Pair",
+        "aria-hidden": "true",
+        "data-info": "cc-logo",
+        "fetchpriority": "high",
+        "width": "142",
+        "height": "24",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "_header_headerLogo__uT7t9 _header_enablePointer__yNHxv",
+        "style": "color:transparent",
+        "srcset": "/ccap-logo.svg 1x, /ccap-logo.svg 2x",
+        "src": "/ccap-logo.svg"
+      },
+      {
+        "alt": "",
+        "data-slot": "Image",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-nimg": "fill",
+        "class": "ef-image absolute inset-0 h-full w-full object-cover",
+        "style": "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-position:var(--img-object-position, center);color:transparent",
+        "sizes": "auto, (min-width: 1440px) 965px, 67vw",
+        "srcset": "https://a.storyblok.com/f/255245/2500x823/7ef370a37f/alliance-primary-logo.webp/m/2500x823/filters:quality(70) 640w, https://a.storyblok.com/f/255245/2500x823/7ef370a37f/alliance-primary-logo.webp/m/2500x823/filters:quality(70) 750w, https://a.storyblok.com/f/255245/2500x823/7ef370a37f/alliance-primary-logo.webp/m/2500x823/filters:quality(70) 828w, https://a.storyblok.com/f/255245/2500x823/7ef370a37f/alliance-primary-logo.webp/m/2500x823/filters:quality(70) 1080w, https://a.storyblok.com/f/255245/2500x823/7ef370a37f/alliance-primary-logo.webp/m/2500x823/filters:quality(70) 1200w, https://a.storyblok.com/f/255245/2500x823/7ef370a37f/alliance-primary-logo.webp/m/2500x823/filters:quality(70) 1920w, https://a.storyblok.com/f/255245/2500x823/7ef370a37f/alliance-primary-logo.webp/m/2500x823/filters:quality(70) 2048w, https://a.storyblok.com/f/255245/2500x823/7ef370a37f/alliance-primary-logo.webp/m/2500x823/filters:quality(70) 3840w",
+        "src": "https://a.storyblok.com/f/255245/2500x823/7ef370a37f/alliance-primary-logo.webp/m/2500x823/filters:quality(70)"
+      },
+      {
+        "alt": "cultural care au pair logo",
+        "loading": "lazy",
+        "width": "142",
+        "height": "24",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "srcset": "/ccap-logo.svg 1x, /ccap-logo.svg 2x",
+        "src": "/ccap-logo.svg"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-142/cf79af8f62ef6506.txt"
+  },
+  {
+    "id": "41476f042deddb21",
+    "name": "Five Star Holding LLC",
+    "requested_url": "https://fivestar.com",
+    "status": 202,
+    "final_url": "https://fivestar.com",
+    "text_chars": 76,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-142/41476f042deddb21.txt"
+  },
+  {
+    "id": "39067e8e0c7fa97c",
+    "name": "General Cigar Co Inc",
+    "requested_url": "https://www.generalcigar.com/",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "id": "cea26211e856192b",
+    "name": "Norchem Concrete Products Inc",
+    "requested_url": "https://www.norchem.com/home.html",
+    "status": 200,
+    "final_url": "https://www.norchem.com/home.html",
+    "text_chars": 823,
+    "logo_candidates": [
+      {
+        "src": "siteimages/logo.jpg",
+        "alt": "Norchem - the largest producer of silica fume products in North America",
+        "width": "815",
+        "height": "94"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-142/cea26211e856192b.txt"
+  },
+  {
+    "id": "c038794b303fcb39",
+    "name": "Orbia Fluor & Energy Materials USA (fka Silatronix)",
+    "requested_url": "https://www.orbia.com/",
+    "status": 200,
+    "final_url": "https://www.orbia.com/",
+    "text_chars": 3997,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-142/c038794b303fcb39.txt"
+  },
+  {
+    "id": "c70c0c47d2894ee6",
+    "name": "University of Louisville (via Akin Gump)",
+    "requested_url": "https://louisville.edu/",
+    "status": 200,
+    "final_url": "https://louisville.edu/",
+    "text_chars": 6428,
+    "logo_candidates": [
+      {
+        "src": "/themes/custom/uofl_standard/dist/img/logos/logo-white.svg",
+        "alt": "University of Louisville logo",
+        "class": "width-full"
+      },
+      {
+        "src": "/themes/custom/uofl_standard/dist/img/logos/logo-white.svg",
+        "alt": "University of Louisville logo",
+        "class": "width-full"
+      },
+      {
+        "src": "/themes/custom/uofl_standard/dist/img/logos/logo-white.svg",
+        "alt": "University of Louisville logo",
+        "class": "width-full"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-142/c70c0c47d2894ee6.txt"
+  },
+  {
+    "id": "5e2c395f6004d426",
+    "name": "Medtronic (office-based Facility Assn Obfa) (fka Uspa)",
+    "requested_url": "https://www.medtronic.com/",
+    "status": 200,
+    "final_url": "https://www.medtronic.com/",
+    "text_chars": 575,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-142/5e2c395f6004d426.txt"
+  },
+  {
+    "id": "8edb2c3999d80dfc",
+    "name": "Paxos Trust Company, LLC",
+    "requested_url": "https://paxos.com/",
+    "error": "HTTP Error 308: Permanent Redirect"
+  },
+  {
+    "id": "06d29b2cb21dfe88",
+    "name": "Sullivan Strategies OBO Center for Transportation and the Environment",
+    "requested_url": "https://cte.tv/",
+    "status": 200,
+    "final_url": "https://cte.tv/",
+    "text_chars": 3992,
+    "logo_candidates": [
+      {
+        "src": "https://cdn.prod.website-files.com/6787937dc91142157fba2748/6787937dc91142157fba2bbd_CTE%20Logo_Dropshadow_Nav%20Bar_3-01.avif",
+        "loading": "lazy",
+        "alt": "navy cte icon logo",
+        "class": "navbar_logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6787937dc91142157fba2748/6787937dc91142157fba2838_AC%20transit%20logo%20testimonials.avif",
+        "loading": "lazy",
+        "alt": "AC Transit logo grey green ",
+        "class": "feature-013_logo-gbt mobland"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6787937dc91142157fba2748/6787937dc91142157fba2789_Web_Vontier.avif",
+        "loading": "lazy",
+        "id": "w-node-_4a29ed06-d93b-538c-609e-8988b3eb95e8-7fba2749",
+        "alt": "Vontier logo",
+        "class": "header76_image cc-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6787937dc91142157fba2748/695d57911ded0bd38d44a549_Shunck_Web%20Template_Our%20Members%20Square.png",
+        "loading": "lazy",
+        "alt": "",
+        "class": "header76_image cc-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6787937dc91142157fba2748/6787937dc91142157fba2bd0_Web_messer.avif",
+        "loading": "lazy",
+        "id": "w-node-_4a29ed06-d93b-538c-609e-8988b3eb95ec-7fba2749",
+        "alt": "Messer Gases for Life logo",
+        "class": "header76_image cc-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6787937dc91142157fba2748/6787937dc91142157fba2e88_Web_new%20Flyer_2.avif",
+        "loading": "lazy",
+        "id": "w-node-_953cd1fb-09ba-8b76-161b-c17dac9468f9-7fba2749",
+        "alt": "New Flyer MCI logo ",
+        "class": "header76_image cc-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6787937dc91142157fba2748/6787937dc91142157fba2c6d_Web_Southern%20Company.avif",
+        "loading": "lazy",
+        "alt": "Souther Company logo ",
+        "class": "header76_image cc-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6787937dc91142157fba2748/6787937dc91142157fba2773_Web_Textron.avif",
+        "loading": "lazy",
+        "id": "w-node-_953cd1fb-09ba-8b76-161b-c17dac9468fd-7fba2749",
+        "alt": "Textron GSE logo ",
+        "class": "header76_image cc-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6787937dc91142157fba2748/6787937dc91142157fba2c20_Web_GILLIG.avif",
+        "loading": "lazy",
+        "id": "w-node-_4a29ed06-d93b-538c-609e-8988b3eb95f7-7fba2749",
+        "alt": "gillig logo",
+        "class": "header76_image cc-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6787937dc91142157fba2748/6787937dc91142157fba2bc3_Web_BAE.avif",
+        "loading": "lazy",
+        "alt": "B A E Systems logo ",
+        "class": "header76_image cc-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6787937dc91142157fba2748/6787937dc91142157fba2e57_Web_heliox-siemens.avif",
+        "loading": "lazy",
+        "id": "w-node-_4a29ed06-d93b-538c-609e-8988b3eb95fb-7fba2749",
+        "alt": "Heliox A Siemens Business logo",
+        "class": "header76_image cc-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6787937dc91142157fba2748/6787937dc91142157fba2789_Web_Vontier.avif",
+        "loading": "lazy",
+        "id": "w-node-_1d5019da-1a5b-84d4-36fd-4d3b4c083542-7fba2749",
+        "alt": "Vontier logo",
+        "class": "header76_image cc-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6787937dc91142157fba2748/6787937dc91142157fba2bce_Web_Air%20Products.avif",
+        "loading": "lazy",
+        "id": "w-node-_1d5019da-1a5b-84d4-36fd-4d3b4c083544-7fba2749",
+        "alt": "Air Products logo",
+        "class": "header76_image cc-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6787937dc91142157fba2748/6787937dc91142157fba2bc6_Web_Hyundai.avif",
+        "loading": "lazy",
+        "id": "w-node-_1d5019da-1a5b-84d4-36fd-4d3b4c083546-7fba2749",
+        "alt": "Hyundai logo",
+        "class": "header76_image cc-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6787937dc91142157fba2748/6787937dc91142157fba2ea0_Web_CHBC.avif",
+        "loading": "lazy",
+        "id": "w-node-_33f51aa4-ec7b-831f-7020-e839c5e759e2-7fba2749",
+        "alt": "California Hydrogen Business Council logo",
+        "class": "header76_image cc-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6787937dc91142157fba2748/695d58dbd806c72cf7dd1ca2_300_3x3_linde.png",
+        "loading": "lazy",
+        "sizes": "100vw",
+        "srcset": "https://cdn.prod.website-files.com/6787937dc91142157fba2748/695d58dbd806c72cf7dd1ca2_300_3x3_linde-p-500.png 500w, https://cdn.prod.website-files.com/6787937dc91142157fba2748/695d58dbd806c72cf7dd1ca2_300_3x3_linde-p-800.png 800w, https://cdn.prod.website-files.com/6787937dc91142157fba2748/695d58dbd806c72cf7dd1ca2_300_3x3_linde.png 881w",
+        "alt": "",
+        "class": "header76_image cc-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6787937dc91142157fba2748/6787937dc91142157fba2e30_Web_Solaris.avif",
+        "loading": "lazy",
+        "id": "w-node-_33f51aa4-ec7b-831f-7020-e839c5e759e6-7fba2749",
+        "alt": "solaris logo",
+        "class": "header76_image cc-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6787937dc91142157fba2748/6787937dc91142157fba2bd1_Web_Toyota.avif",
+        "loading": "lazy",
+        "id": "w-node-_8353e173-46df-490e-14ea-ed44865ffff7-7fba2749",
+        "alt": "Toyota logo",
+        "class": "header76_image cc-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6787937dc91142157fba2748/697915c42ee71bf57432042e_DLZ_white_square.webp",
+        "loading": "lazy",
+        "alt": "",
+        "class": "header76_image cc-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6787937dc91142157fba2748/6787937dc91142157fba2c5a_Web_ohio%20state%20university.avif",
+        "loading": "lazy",
+        "id": "w-node-_8353e173-46df-490e-14ea-ed44865ffffb-7fba2749",
+        "alt": "the Ohio State University Center for Automative Research logo",
+        "class": "header76_image cc-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6787937dc91142157fba2748/6787937dc91142157fba2866_CTE%20Logo_Icon_White.avif",
+        "loading": "lazy",
+        "alt": "white CTE logo icon",
+        "class": "footer_logo mobportlogo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-142/06d29b2cb21dfe88.txt"
+  },
+  {
+    "id": "d8e9144159b0d332",
+    "name": "University of Pittsburgh Medical Center Health Plan",
+    "requested_url": "https://www.upmchealthplan.com/",
+    "status": 200,
+    "final_url": "https://www.upmchealthplan.com/",
+    "text_chars": 4156,
+    "logo_candidates": [
+      {
+        "alt": "UPMC Health Plan",
+        "width": "252",
+        "height": "21",
+        "src": "/-/media/project/upmchealthplan/shared/logos/upmchealthplan.svg?h=21&iar=0&w=252&hash=B8F03D43D04D7F745EB07D5B3A69547A"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-142/d8e9144159b0d332.txt"
+  },
+  {
+    "id": "8f330f0c5548e106",
+    "name": "Voxel51, Inc",
+    "requested_url": "https://voxel51.com/",
+    "status": 200,
+    "final_url": "https://voxel51.com/",
+    "text_chars": 4359,
+    "logo_candidates": [
+      {
+        "alt": "Walmart logo",
+        "loading": "lazy",
+        "class": "block h-auto theme-default bg-background p-4 rounded-xs relative z-10 max-h-[64px] max-w-[120px] w-auto",
+        "sizes": "100px",
+        "srcset": "https://cdn.sanity.io/images/h6toihm1/production/720f6702611411baf6a274b1010856c78c07235d-240x96.png?auto=format&dpr=2&fit=max&q=75&w=50 50w, https://cdn.sanity.io/images/h6toihm1/production/720f6702611411baf6a274b1010856c78c07235d-240x96.png?auto=format&dpr=2&fit=max&q=75&w=100 100w, https://cdn.sanity.io/images/h6toihm1/production/720f6702611411baf6a274b1010856c78c07235d-240x96.png?auto=format&dpr=2&fit=max&q=75&w=200 200w",
+        "src": "https://cdn.sanity.io/images/h6toihm1/production/720f6702611411baf6a274b1010856c78c07235d-240x96.png?auto=format&dpr=2&fit=max&q=75&w=100",
+        "width": "100",
+        "height": "40"
+      },
+      {
+        "alt": "Safely You logo",
+        "loading": "lazy",
+        "class": "block h-auto theme-default bg-background p-4 rounded-xs relative z-10 max-h-[64px] max-w-[120px] w-auto",
+        "sizes": "100px",
+        "srcset": "https://cdn.sanity.io/images/h6toihm1/production/be26ca6233b020b9201ddd482f7d34f53555b51d-276x90.png?auto=format&dpr=2&fit=max&q=75&w=50 50w, https://cdn.sanity.io/images/h6toihm1/production/be26ca6233b020b9201ddd482f7d34f53555b51d-276x90.png?auto=format&dpr=2&fit=max&q=75&w=100 100w, https://cdn.sanity.io/images/h6toihm1/production/be26ca6233b020b9201ddd482f7d34f53555b51d-276x90.png?auto=format&dpr=2&fit=max&q=75&w=200 200w",
+        "src": "https://cdn.sanity.io/images/h6toihm1/production/be26ca6233b020b9201ddd482f7d34f53555b51d-276x90.png?auto=format&dpr=2&fit=max&q=75&w=100",
+        "width": "100",
+        "height": "33"
+      },
+      {
+        "alt": "Bosch logo",
+        "loading": "lazy",
+        "class": "block h-auto theme-default bg-background p-4 rounded-xs relative z-10 max-h-[64px] max-w-[120px] w-auto",
+        "sizes": "100px",
+        "srcset": "https://cdn.sanity.io/images/h6toihm1/production/0d38aded4af6b111c971ef12cfeb409c9f2b7b44-324x72.png?auto=format&dpr=2&fit=max&q=75&w=50 50w, https://cdn.sanity.io/images/h6toihm1/production/0d38aded4af6b111c971ef12cfeb409c9f2b7b44-324x72.png?auto=format&dpr=2&fit=max&q=75&w=100 100w, https://cdn.sanity.io/images/h6toihm1/production/0d38aded4af6b111c971ef12cfeb409c9f2b7b44-324x72.png?auto=format&dpr=2&fit=max&q=75&w=200 200w",
+        "src": "https://cdn.sanity.io/images/h6toihm1/production/0d38aded4af6b111c971ef12cfeb409c9f2b7b44-324x72.png?auto=format&dpr=2&fit=max&q=75&w=100",
+        "width": "100",
+        "height": "22"
+      },
+      {
+        "alt": "Microsoft logo",
+        "loading": "lazy",
+        "class": "block h-auto theme-default bg-background p-4 rounded-xs relative z-10 max-h-[64px] max-w-[120px] w-auto",
+        "sizes": "100px",
+        "srcset": "https://cdn.sanity.io/images/h6toihm1/production/dbee9b7f84a55058499c98caa6944bb96f4e64f7-487x103.png?auto=format&dpr=2&fit=max&q=75&w=50 50w, https://cdn.sanity.io/images/h6toihm1/production/dbee9b7f84a55058499c98caa6944bb96f4e64f7-487x103.png?auto=format&dpr=2&fit=max&q=75&w=100 100w, https://cdn.sanity.io/images/h6toihm1/production/dbee9b7f84a55058499c98caa6944bb96f4e64f7-487x103.png?auto=format&dpr=2&fit=max&q=75&w=200 200w",
+        "src": "https://cdn.sanity.io/images/h6toihm1/production/dbee9b7f84a55058499c98caa6944bb96f4e64f7-487x103.png?auto=format&dpr=2&fit=max&q=75&w=100",
+        "width": "100",
+        "height": "21"
+      },
+      {
+        "alt": "GM logo",
+        "loading": "lazy",
+        "class": "block h-auto theme-default bg-background p-4 rounded-xs relative z-10 max-h-[64px] max-w-[120px] w-auto",
+        "sizes": "100px",
+        "srcset": "https://cdn.sanity.io/images/h6toihm1/production/8c596efcf17de5a9bc02b05b44f55474802f0abe-90x90.png?auto=format&dpr=2&fit=max&q=75&w=90 90w",
+        "src": "https://cdn.sanity.io/images/h6toihm1/production/8c596efcf17de5a9bc02b05b44f55474802f0abe-90x90.png?auto=format&dpr=2&fit=max&q=75&w=90",
+        "width": "90",
+        "height": "90"
+      },
+      {
+        "alt": "RIOS intelligent machines logo",
+        "loading": "lazy",
+        "class": "block h-auto theme-default bg-background p-4 rounded-xs relative z-10 max-h-[64px] max-w-[120px] w-auto",
+        "sizes": "100px",
+        "srcset": "https://cdn.sanity.io/images/h6toihm1/production/cb778b338fac262a1c8a9de0334b256747cfbc5b-500x261.png?auto=format&dpr=2&fit=max&q=75&w=50 50w, https://cdn.sanity.io/images/h6toihm1/production/cb778b338fac262a1c8a9de0334b256747cfbc5b-500x261.png?auto=format&dpr=2&fit=max&q=75&w=100 100w, https://cdn.sanity.io/images/h6toihm1/production/cb778b338fac262a1c8a9de0334b256747cfbc5b-500x261.png?auto=format&dpr=2&fit=max&q=75&w=200 200w",
+        "src": "https://cdn.sanity.io/images/h6toihm1/production/cb778b338fac262a1c8a9de0334b256747cfbc5b-500x261.png?auto=format&dpr=2&fit=max&q=75&w=100",
+        "width": "100",
+        "height": "52"
+      },
+      {
+        "alt": "University of Michigan Michigan Medicine logo",
+        "loading": "lazy",
+        "class": "block h-auto theme-default bg-background p-4 rounded-xs relative z-10 max-h-[64px] max-w-[120px] w-auto",
+        "sizes": "100px",
+        "srcset": "https://cdn.sanity.io/images/h6toihm1/production/aee0fde76666dd2d134875eb8d5247ee75dab896-153x96.png?auto=format&dpr=2&fit=max&q=75&w=50 50w, https://cdn.sanity.io/images/h6toihm1/production/aee0fde76666dd2d134875eb8d5247ee75dab896-153x96.png?auto=format&dpr=2&fit=max&q=75&w=100 100w, https://cdn.sanity.io/images/h6toihm1/production/aee0fde76666dd2d134875eb8d5247ee75dab896-153x96.png?auto=format&dpr=2&fit=max&q=75&w=153 153w",
+        "src": "https://cdn.sanity.io/images/h6toihm1/production/aee0fde76666dd2d134875eb8d5247ee75dab896-153x96.png?auto=format&dpr=2&fit=max&q=75&w=100",
+        "width": "100",
+        "height": "63"
+      },
+      {
+        "alt": "Berkshire Grey logo",
+        "loading": "lazy",
+        "class": "block h-auto theme-default bg-background p-4 rounded-xs relative z-10 max-h-[64px] max-w-[120px] w-auto",
+        "sizes": "100px",
+        "srcset": "https://cdn.sanity.io/images/h6toihm1/production/30b0acc56eeba0fd43bf86f4a390dd985d1916cd-640x152.png?auto=format&dpr=2&fit=max&q=75&w=50 50w, https://cdn.sanity.io/images/h6toihm1/production/30b0acc56eeba0fd43bf86f4a390dd985d1916cd-640x152.png?auto=format&dpr=2&fit=max&q=75&w=100 100w, https://cdn.sanity.io/images/h6toihm1/production/30b0acc56eeba0fd43bf86f4a390dd985d1916cd-640x152.png?auto=format&dpr=2&fit=max&q=75&w=200 200w",
+        "src": "https://cdn.sanity.io/images/h6toihm1/production/30b0acc56eeba0fd43bf86f4a390dd985d1916cd-640x152.png?auto=format&dpr=2&fit=max&q=75&w=100",
+        "width": "100",
+        "height": "24"
+      },
+      {
+        "alt": "Medtronic logo",
+        "loading": "lazy",
+        "class": "block h-auto theme-default bg-background p-4 rounded-xs relative z-10 max-h-[64px] max-w-[120px] w-auto",
+        "sizes": "100px",
+        "srcset": "https://cdn.sanity.io/images/h6toihm1/production/6f935624676c89371a1b094385b7b60439e09824-351x60.png?auto=format&dpr=2&fit=max&q=75&w=50 50w, https://cdn.sanity.io/images/h6toihm1/production/6f935624676c89371a1b094385b7b60439e09824-351x60.png?auto=format&dpr=2&fit=max&q=75&w=100 100w, https://cdn.sanity.io/images/h6toihm1/production/6f935624676c89371a1b094385b7b60439e09824-351x60.png?auto=format&dpr=2&fit=max&q=75&w=200 200w",
+        "src": "https://cdn.sanity.io/images/h6toihm1/production/6f935624676c89371a1b094385b7b60439e09824-351x60.png?auto=format&dpr=2&fit=max&q=75&w=100",
+        "width": "100",
+        "height": "17"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/h6toihm1/production/66938eaaa4ff7c21ee6b7c3c5fefbc004ee6d7c9-272x92.svg",
+        "width": "272",
+        "height": "92",
+        "alt": "Google logo",
+        "loading": "lazy",
+        "class": "block h-auto theme-default bg-background p-4 rounded-xs relative z-10 max-h-[64px] max-w-[120px] w-auto",
+        "sizes": "100px"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/h6toihm1/production/0e2f149ba6e28a4e307e55a8ad52f81f790571df-921x96.svg",
+        "width": "921",
+        "height": "96",
+        "alt": "Porsche logo",
+        "loading": "lazy",
+        "class": "block h-auto theme-default bg-background p-4 rounded-xs relative z-10 max-h-[64px] max-w-[120px] w-auto",
+        "sizes": "100px"
+      },
+      {
+        "alt": "Walmart logo",
+        "loading": "lazy",
+        "class": "block h-auto theme-default bg-background p-4 rounded-xs relative z-10 max-h-[64px] max-w-[120px] w-auto",
+        "sizes": "100px",
+        "srcset": "https://cdn.sanity.io/images/h6toihm1/production/720f6702611411baf6a274b1010856c78c07235d-240x96.png?auto=format&dpr=2&fit=max&q=75&w=50 50w, https://cdn.sanity.io/images/h6toihm1/production/720f6702611411baf6a274b1010856c78c07235d-240x96.png?auto=format&dpr=2&fit=max&q=75&w=100 100w, https://cdn.sanity.io/images/h6toihm1/production/720f6702611411baf6a274b1010856c78c07235d-240x96.png?auto=format&dpr=2&fit=max&q=75&w=200 200w",
+        "src": "https://cdn.sanity.io/images/h6toihm1/production/720f6702611411baf6a274b1010856c78c07235d-240x96.png?auto=format&dpr=2&fit=max&q=75&w=100",
+        "width": "100",
+        "height": "40"
+      },
+      {
+        "alt": "Safely You logo",
+        "loading": "lazy",
+        "class": "block h-auto theme-default bg-background p-4 rounded-xs relative z-10 max-h-[64px] max-w-[120px] w-auto",
+        "sizes": "100px",
+        "srcset": "https://cdn.sanity.io/images/h6toihm1/production/be26ca6233b020b9201ddd482f7d34f53555b51d-276x90.png?auto=format&dpr=2&fit=max&q=75&w=50 50w, https://cdn.sanity.io/images/h6toihm1/production/be26ca6233b020b9201ddd482f7d34f53555b51d-276x90.png?auto=format&dpr=2&fit=max&q=75&w=100 100w, https://cdn.sanity.io/images/h6toihm1/production/be26ca6233b020b9201ddd482f7d34f53555b51d-276x90.png?auto=format&dpr=2&fit=max&q=75&w=200 200w",
+        "src": "https://cdn.sanity.io/images/h6toihm1/production/be26ca6233b020b9201ddd482f7d34f53555b51d-276x90.png?auto=format&dpr=2&fit=max&q=75&w=100",
+        "width": "100",
+        "height": "33"
+      },
+      {
+        "alt": "Bosch logo",
+        "loading": "lazy",
+        "class": "block h-auto theme-default bg-background p-4 rounded-xs relative z-10 max-h-[64px] max-w-[120px] w-auto",
+        "sizes": "100px",
+        "srcset": "https://cdn.sanity.io/images/h6toihm1/production/0d38aded4af6b111c971ef12cfeb409c9f2b7b44-324x72.png?auto=format&dpr=2&fit=max&q=75&w=50 50w, https://cdn.sanity.io/images/h6toihm1/production/0d38aded4af6b111c971ef12cfeb409c9f2b7b44-324x72.png?auto=format&dpr=2&fit=max&q=75&w=100 100w, https://cdn.sanity.io/images/h6toihm1/production/0d38aded4af6b111c971ef12cfeb409c9f2b7b44-324x72.png?auto=format&dpr=2&fit=max&q=75&w=200 200w",
+        "src": "https://cdn.sanity.io/images/h6toihm1/production/0d38aded4af6b111c971ef12cfeb409c9f2b7b44-324x72.png?auto=format&dpr=2&fit=max&q=75&w=100",
+        "width": "100",
+        "height": "22"
+      },
+      {
+        "alt": "Microsoft logo",
+        "loading": "lazy",
+        "class": "block h-auto theme-default bg-background p-4 rounded-xs relative z-10 max-h-[64px] max-w-[120px] w-auto",
+        "sizes": "100px",
+        "srcset": "https://cdn.sanity.io/images/h6toihm1/production/dbee9b7f84a55058499c98caa6944bb96f4e64f7-487x103.png?auto=format&dpr=2&fit=max&q=75&w=50 50w, https://cdn.sanity.io/images/h6toihm1/production/dbee9b7f84a55058499c98caa6944bb96f4e64f7-487x103.png?auto=format&dpr=2&fit=max&q=75&w=100 100w, https://cdn.sanity.io/images/h6toihm1/production/dbee9b7f84a55058499c98caa6944bb96f4e64f7-487x103.png?auto=format&dpr=2&fit=max&q=75&w=200 200w",
+        "src": "https://cdn.sanity.io/images/h6toihm1/production/dbee9b7f84a55058499c98caa6944bb96f4e64f7-487x103.png?auto=format&dpr=2&fit=max&q=75&w=100",
+        "width": "100",
+        "height": "21"
+      },
+      {
+        "alt": "GM logo",
+        "loading": "lazy",
+        "class": "block h-auto theme-default bg-background p-4 rounded-xs relative z-10 max-h-[64px] max-w-[120px] w-auto",
+        "sizes": "100px",
+        "srcset": "https://cdn.sanity.io/images/h6toihm1/production/8c596efcf17de5a9bc02b05b44f55474802f0abe-90x90.png?auto=format&dpr=2&fit=max&q=75&w=90 90w",
+        "src": "https://cdn.sanity.io/images/h6toihm1/production/8c596efcf17de5a9bc02b05b44f55474802f0abe-90x90.png?auto=format&dpr=2&fit=max&q=75&w=90",
+        "width": "90",
+        "height": "90"
+      },
+      {
+        "alt": "RIOS intelligent machines logo",
+        "loading": "lazy",
+        "class": "block h-auto theme-default bg-background p-4 rounded-xs relative z-10 max-h-[64px] max-w-[120px] w-auto",
+        "sizes": "100px",
+        "srcset": "https://cdn.sanity.io/images/h6toihm1/production/cb778b338fac262a1c8a9de0334b256747cfbc5b-500x261.png?auto=format&dpr=2&fit=max&q=75&w=50 50w, https://cdn.sanity.io/images/h6toihm1/production/cb778b338fac262a1c8a9de0334b256747cfbc5b-500x261.png?auto=format&dpr=2&fit=max&q=75&w=100 100w, https://cdn.sanity.io/images/h6toihm1/production/cb778b338fac262a1c8a9de0334b256747cfbc5b-500x261.png?auto=format&dpr=2&fit=max&q=75&w=200 200w",
+        "src": "https://cdn.sanity.io/images/h6toihm1/production/cb778b338fac262a1c8a9de0334b256747cfbc5b-500x261.png?auto=format&dpr=2&fit=max&q=75&w=100",
+        "width": "100",
+        "height": "52"
+      },
+      {
+        "alt": "University of Michigan Michigan Medicine logo",
+        "loading": "lazy",
+        "class": "block h-auto theme-default bg-background p-4 rounded-xs relative z-10 max-h-[64px] max-w-[120px] w-auto",
+        "sizes": "100px",
+        "srcset": "https://cdn.sanity.io/images/h6toihm1/production/aee0fde76666dd2d134875eb8d5247ee75dab896-153x96.png?auto=format&dpr=2&fit=max&q=75&w=50 50w, https://cdn.sanity.io/images/h6toihm1/production/aee0fde76666dd2d134875eb8d5247ee75dab896-153x96.png?auto=format&dpr=2&fit=max&q=75&w=100 100w, https://cdn.sanity.io/images/h6toihm1/production/aee0fde76666dd2d134875eb8d5247ee75dab896-153x96.png?auto=format&dpr=2&fit=max&q=75&w=153 153w",
+        "src": "https://cdn.sanity.io/images/h6toihm1/production/aee0fde76666dd2d134875eb8d5247ee75dab896-153x96.png?auto=format&dpr=2&fit=max&q=75&w=100",
+        "width": "100",
+        "height": "63"
+      },
+      {
+        "alt": "Berkshire Grey logo",
+        "loading": "lazy",
+        "class": "block h-auto theme-default bg-background p-4 rounded-xs relative z-10 max-h-[64px] max-w-[120px] w-auto",
+        "sizes": "100px",
+        "srcset": "https://cdn.sanity.io/images/h6toihm1/production/30b0acc56eeba0fd43bf86f4a390dd985d1916cd-640x152.png?auto=format&dpr=2&fit=max&q=75&w=50 50w, https://cdn.sanity.io/images/h6toihm1/production/30b0acc56eeba0fd43bf86f4a390dd985d1916cd-640x152.png?auto=format&dpr=2&fit=max&q=75&w=100 100w, https://cdn.sanity.io/images/h6toihm1/production/30b0acc56eeba0fd43bf86f4a390dd985d1916cd-640x152.png?auto=format&dpr=2&fit=max&q=75&w=200 200w",
+        "src": "https://cdn.sanity.io/images/h6toihm1/production/30b0acc56eeba0fd43bf86f4a390dd985d1916cd-640x152.png?auto=format&dpr=2&fit=max&q=75&w=100",
+        "width": "100",
+        "height": "24"
+      },
+      {
+        "alt": "Medtronic logo",
+        "loading": "lazy",
+        "class": "block h-auto theme-default bg-background p-4 rounded-xs relative z-10 max-h-[64px] max-w-[120px] w-auto",
+        "sizes": "100px",
+        "srcset": "https://cdn.sanity.io/images/h6toihm1/production/6f935624676c89371a1b094385b7b60439e09824-351x60.png?auto=format&dpr=2&fit=max&q=75&w=50 50w, https://cdn.sanity.io/images/h6toihm1/production/6f935624676c89371a1b094385b7b60439e09824-351x60.png?auto=format&dpr=2&fit=max&q=75&w=100 100w, https://cdn.sanity.io/images/h6toihm1/production/6f935624676c89371a1b094385b7b60439e09824-351x60.png?auto=format&dpr=2&fit=max&q=75&w=200 200w",
+        "src": "https://cdn.sanity.io/images/h6toihm1/production/6f935624676c89371a1b094385b7b60439e09824-351x60.png?auto=format&dpr=2&fit=max&q=75&w=100",
+        "width": "100",
+        "height": "17"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/h6toihm1/production/66938eaaa4ff7c21ee6b7c3c5fefbc004ee6d7c9-272x92.svg",
+        "width": "272",
+        "height": "92",
+        "alt": "Google logo",
+        "loading": "lazy",
+        "class": "block h-auto theme-default bg-background p-4 rounded-xs relative z-10 max-h-[64px] max-w-[120px] w-auto",
+        "sizes": "100px"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/h6toihm1/production/0e2f149ba6e28a4e307e55a8ad52f81f790571df-921x96.svg",
+        "width": "921",
+        "height": "96",
+        "alt": "Porsche logo",
+        "loading": "lazy",
+        "class": "block h-auto theme-default bg-background p-4 rounded-xs relative z-10 max-h-[64px] max-w-[120px] w-auto",
+        "sizes": "100px"
+      },
+      {
+        "alt": "FiftyOne logo surrounded by integration icons: AWS, Anthropic, Google Cloud, OpenAI, Weights and Biases, Milvus, Hugging Face, NVIDIA, and MongoDB. ",
+        "loading": "lazy",
+        "class": "block w-full max-w-full h-auto absolute inset-0 object-cover",
+        "sizes": "(min-width: 768px) 50vw, 100vw",
+        "srcset": "https://cdn.sanity.io/images/h6toihm1/production/8dfac94d809faac44a029c7372be2e0b3bb4d333-951x1152.png?auto=format&dpr=2&fit=max&q=75&w=159 159w, https://cdn.sanity.io/images/h6toihm1/production/8dfac94d809faac44a029c7372be2e0b3bb4d333-951x1152.png?auto=format&dpr=2&fit=max&q=75&w=317 317w, https://cdn.sanity.io/images/h6toihm1/production/8dfac94d809faac44a029c7372be2e0b3bb4d333-951x1152.png?auto=format&dpr=2&fit=max&q=75&w=476 476w, https://cdn.sanity.io/images/h6toihm1/production/8dfac94d809faac44a029c7372be2e0b3bb4d333-951x1152.png?auto=format&dpr=2&fit=max&q=75&w=634 634w",
+        "src": "https://cdn.sanity.io/images/h6toihm1/production/8dfac94d809faac44a029c7372be2e0b3bb4d333-951x1152.png?auto=format&dpr=2&fit=max&q=75&w=317",
+        "width": "317",
+        "height": "384"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-142/8f330f0c5548e106.txt"
+  },
+  {
+    "id": "ba22822239449fd9",
+    "name": "Boxing Opco, LLC",
+    "requested_url": "https://zuffaboxing.com/",
+    "status": 200,
+    "final_url": "https://zuffaboxing.com/register",
+    "text_chars": 116,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-142/ba22822239449fd9.txt"
+  },
+  {
+    "id": "7a6cc351996be214",
+    "name": "Cold Finished Steel Bar Institute",
+    "requested_url": "https://www.cfsbi.com/",
+    "status": 202,
+    "final_url": "https://www.cfsbi.com/",
+    "text_chars": 90,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-142/7a6cc351996be214.txt"
+  },
+  {
+    "id": "8293a2d9c5927266",
+    "name": "Sobi North America",
+    "requested_url": "https://www.sobi.com/en-us",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "afafe5b7094075fd",
+    "name": "Wichita Falls Chamber of Commerce OBO Sheppard Military Affairs Committee",
+    "requested_url": "https://wichitafallschamber.org/",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "id": "a7bdd5bfe46d1e07",
+    "name": "Nfib, the Voice of Free Enterprise Inc.",
+    "requested_url": "https://www.nfib.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "162c8713f9aee5e5",
+    "name": "Primary Products Ingredients Americas LLC",
+    "requested_url": "https://www.primient.com/",
+    "status": 200,
+    "final_url": "https://www.primient.com/",
+    "text_chars": 2656,
+    "logo_candidates": [
+      {
+        "src": "/assets/images/logo.svg",
+        "alt": "logo"
+      },
+      {
+        "src": "/assets/images/logo.svg",
+        "loading": "lazy",
+        "alt": "Primient",
+        "class": "site-logo"
+      },
+      {
+        "src": "/assets/images/logo.svg",
+        "loading": "lazy",
+        "width": "138",
+        "alt": "",
+        "class": "footer-logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-142/162c8713f9aee5e5.txt"
+  },
+  {
+    "id": "1822963b31073382",
+    "name": "the Yates Companies, Inc.",
+    "requested_url": "https://www.wgyates.com/",
+    "status": 200,
+    "final_url": "https://www.wgyates.com/",
+    "text_chars": 1264,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-142/1822963b31073382.txt"
+  },
+  {
+    "id": "37864aa220a35eb2",
+    "name": "Amrize North America Inc.",
+    "requested_url": "https://www.amrize.com/",
+    "status": 200,
+    "final_url": "https://www.amrize.com/us/en/amrize-homepage.html",
+    "text_chars": 6096,
+    "logo_candidates": [
+      {
+        "width": "126",
+        "height": "30",
+        "src": "/content/dam/newco/global/logo-amrize.svg",
+        "alt": "Amrize Homepage"
+      },
+      {
+        "src": "/adobe/dynamicmedia/deliver/dm-aid--8799f3ae-4968-4382-b4e5-142f8efcd180/evertect-ecotect-low-carbon-concrete-logo--1-.png?quality=85&preferwebp=true",
+        "srcset": "/adobe/dynamicmedia/deliver/dm-aid--8799f3ae-4968-4382-b4e5-142f8efcd180/evertect-ecotect-low-carbon-concrete-logo--1-.png?quality=85&width=320&preferwebp=true 320w,/adobe/dynamicmedia/deliver/dm-aid--8799f3ae-4968-4382-b4e5-142f8efcd180/evertect-ecotect-low-carbon-concrete-logo--1-.png?quality=85&width=480&preferwebp=true 480w,/adobe/dynamicmedia/deliver/dm-aid--8799f3ae-4968-4382-b4e5-142f8efcd180/evertect-ecotect-low-carbon-concrete-logo--1-.png?quality=85&width=600&preferwebp=true 600w,/adobe/dynamicmedia/deliver/dm-aid--8799f3ae-4968-4382-b4e5-142f8efcd180/evertect-ecotect-low-carbon-concrete-logo--1-.png?quality=85&width=800&preferwebp=true 800w,/adobe/dynamicmedia/deliver/dm-aid--8799f3ae-4968-4382-b4e5-142f8efcd180/evertect-ecotect-low-carbon-concrete-logo--1-.png?quality=85&width=1024&preferwebp=true 1024w,/adobe/dynamicmedia/deliver/dm-aid--8799f3ae-4968-4382-b4e5-142f8efcd180/evertect-ecotect-low-carbon-concrete-logo--1-.png?quality=85&width=1200&preferwebp=true 1200w,/adobe/dynamicmedia/deliver/dm-aid--8799f3ae-4968-4382-b4e5-142f8efcd180/evertect-ecotect-low-carbon-concrete-logo--1-.png?quality=85&width=1600&preferwebp=true 1600w",
+        "loading": "lazy",
+        "class": "cmp-image__image",
+        "itemprop": "contentUrl",
+        "width": "500",
+        "height": "281",
+        "alt": "ECOtect"
+      },
+      {
+        "src": "/adobe/dynamicmedia/deliver/dm-aid--917a7118-133c-429b-845f-3ae8a0f6c0c8/evertect-rapidtect-high-early-strength-concrete-logo--1-.png?quality=85&preferwebp=true",
+        "srcset": "/adobe/dynamicmedia/deliver/dm-aid--917a7118-133c-429b-845f-3ae8a0f6c0c8/evertect-rapidtect-high-early-strength-concrete-logo--1-.png?quality=85&width=320&preferwebp=true 320w,/adobe/dynamicmedia/deliver/dm-aid--917a7118-133c-429b-845f-3ae8a0f6c0c8/evertect-rapidtect-high-early-strength-concrete-logo--1-.png?quality=85&width=480&preferwebp=true 480w,/adobe/dynamicmedia/deliver/dm-aid--917a7118-133c-429b-845f-3ae8a0f6c0c8/evertect-rapidtect-high-early-strength-concrete-logo--1-.png?quality=85&width=600&preferwebp=true 600w,/adobe/dynamicmedia/deliver/dm-aid--917a7118-133c-429b-845f-3ae8a0f6c0c8/evertect-rapidtect-high-early-strength-concrete-logo--1-.png?quality=85&width=800&preferwebp=true 800w,/adobe/dynamicmedia/deliver/dm-aid--917a7118-133c-429b-845f-3ae8a0f6c0c8/evertect-rapidtect-high-early-strength-concrete-logo--1-.png?quality=85&width=1024&preferwebp=true 1024w,/adobe/dynamicmedia/deliver/dm-aid--917a7118-133c-429b-845f-3ae8a0f6c0c8/evertect-rapidtect-high-early-strength-concrete-logo--1-.png?quality=85&width=1200&preferwebp=true 1200w,/adobe/dynamicmedia/deliver/dm-aid--917a7118-133c-429b-845f-3ae8a0f6c0c8/evertect-rapidtect-high-early-strength-concrete-logo--1-.png?quality=85&width=1600&preferwebp=true 1600w",
+        "loading": "lazy",
+        "class": "cmp-image__image",
+        "itemprop": "contentUrl",
+        "width": "500",
+        "height": "281",
+        "alt": "RAPIDtect product logo"
+      },
+      {
+        "src": "/adobe/dynamicmedia/deliver/dm-aid--a75914db-a9c3-46c4-8829-238107c36c0b/evertect-fluidtect-self-consolidating-concrete-logo--1-.png?quality=85&preferwebp=true",
+        "srcset": "/adobe/dynamicmedia/deliver/dm-aid--a75914db-a9c3-46c4-8829-238107c36c0b/evertect-fluidtect-self-consolidating-concrete-logo--1-.png?quality=85&width=320&preferwebp=true 320w,/adobe/dynamicmedia/deliver/dm-aid--a75914db-a9c3-46c4-8829-238107c36c0b/evertect-fluidtect-self-consolidating-concrete-logo--1-.png?quality=85&width=480&preferwebp=true 480w,/adobe/dynamicmedia/deliver/dm-aid--a75914db-a9c3-46c4-8829-238107c36c0b/evertect-fluidtect-self-consolidating-concrete-logo--1-.png?quality=85&width=600&preferwebp=true 600w,/adobe/dynamicmedia/deliver/dm-aid--a75914db-a9c3-46c4-8829-238107c36c0b/evertect-fluidtect-self-consolidating-concrete-logo--1-.png?quality=85&width=800&preferwebp=true 800w,/adobe/dynamicmedia/deliver/dm-aid--a75914db-a9c3-46c4-8829-238107c36c0b/evertect-fluidtect-self-consolidating-concrete-logo--1-.png?quality=85&width=1024&preferwebp=true 1024w,/adobe/dynamicmedia/deliver/dm-aid--a75914db-a9c3-46c4-8829-238107c36c0b/evertect-fluidtect-self-consolidating-concrete-logo--1-.png?quality=85&width=1200&preferwebp=true 1200w,/adobe/dynamicmedia/deliver/dm-aid--a75914db-a9c3-46c4-8829-238107c36c0b/evertect-fluidtect-self-consolidating-concrete-logo--1-.png?quality=85&width=1600&preferwebp=true 1600w",
+        "loading": "lazy",
+        "class": "cmp-image__image",
+        "itemprop": "contentUrl",
+        "width": "500",
+        "height": "281",
+        "alt": "FLUIDtect product logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-142/37864aa220a35eb2.txt"
+  },
+  {
+    "id": "eac558d6adea5918",
+    "name": "Bobbie Baby, Inc.",
+    "requested_url": "https://www.hibobbie.com/",
+    "status": 200,
+    "final_url": "https://www.hibobbie.com/",
+    "text_chars": 17050,
+    "logo_candidates": [
+      {
+        "src": "//www.hibobbie.com/cdn/shop/files/Logo_887c231f-5e2e-4a5d-8ec3-7c2e6ed36b17_1x.png?v=1758887550 ",
+        "data-srcset": "//www.hibobbie.com/cdn/shop/files/Logo_887c231f-5e2e-4a5d-8ec3-7c2e6ed36b17_50x.png?v=1758887550 25w,\n       //www.hibobbie.com/cdn/shop/files/Logo_887c231f-5e2e-4a5d-8ec3-7c2e6ed36b17_72x.png?v=1758887550 36w,\n       //www.hibobbie.com/cdn/shop/files/Logo_887c231f-5e2e-4a5d-8ec3-7c2e6ed36b17_144x.png?v=1758887550 72w,\n       //www.hibobbie.com/cdn/shop/files/Logo_887c231f-5e2e-4a5d-8ec3-7c2e6ed36b17_288x.png?v=1758887550 144w,//www.hibobbie.com/cdn/shop/files/Logo_887c231f-5e2e-4a5d-8ec3-7c2e6ed36b17_720x.png?v=1758887550 360w,\n      //www.hibobbie.com/cdn/shop/files/Logo_887c231f-5e2e-4a5d-8ec3-7c2e6ed36b17_960x.png?v=1758887550 480w,\n      //www.hibobbie.com/cdn/shop/files/Logo_887c231f-5e2e-4a5d-8ec3-7c2e6ed36b17_1440x.png?v=1758887550 720w,\n      //www.hibobbie.com/cdn/shop/files/Logo_887c231f-5e2e-4a5d-8ec3-7c2e6ed36b17_1800x.png?v=1758887550 900w,\n      //www.hibobbie.com/cdn/shop/files/Logo_887c231f-5e2e-4a5d-8ec3-7c2e6ed36b17_2160x.png?v=1758887550 1080w,\n      //www.hibobbie.com/cdn/shop/files/Logo_887c231f-5e2e-4a5d-8ec3-7c2e6ed36b17_2592x.png?v=1758887550 1296w,\n      //www.hibobbie.com/cdn/shop/files/Logo_887c231f-5e2e-4a5d-8ec3-7c2e6ed36b17_2700x.png?v=1758887550 1350w,\n      //www.hibobbie.com/cdn/shop/files/Logo_887c231f-5e2e-4a5d-8ec3-7c2e6ed36b17_2120x.png?v=1758887550 1728w,\n      //www.hibobbie.com/cdn/shop/files/Logo_887c231f-5e2e-4a5d-8ec3-7c2e6ed36b17_2360x.png?v=1758887550 1920w,\n      //www.hibobbie.com/cdn/shop/files/Logo_887c231f-5e2e-4a5d-8ec3-7c2e6ed36b17_2860x.png?v=1758887550 2560w",
+        "class": "lazyload  header__logo-img--transparent",
+        "loading": "lazy",
+        "data-optimumx": "auto",
+        "data-sizes": "auto",
+        "data-src": "//www.hibobbie.com/cdn/shop/files/Logo_887c231f-5e2e-4a5d-8ec3-7c2e6ed36b17.png?v=1758887550",
+        "data-parent-fit": "contain",
+        "alt": "Bobbie",
+        "width": "425",
+        "height": "149",
+        "style": "--object-position: 50.0% 50.0%"
+      },
+      {
+        "src": "//www.hibobbie.com/cdn/shop/files/Logo_887c231f-5e2e-4a5d-8ec3-7c2e6ed36b17_1x.png?v=1758887550 ",
+        "data-srcset": "//www.hibobbie.com/cdn/shop/files/Logo_887c231f-5e2e-4a5d-8ec3-7c2e6ed36b17_50x.png?v=1758887550 25w,\n       //www.hibobbie.com/cdn/shop/files/Logo_887c231f-5e2e-4a5d-8ec3-7c2e6ed36b17_72x.png?v=1758887550 36w,\n       //www.hibobbie.com/cdn/shop/files/Logo_887c231f-5e2e-4a5d-8ec3-7c2e6ed36b17_144x.png?v=1758887550 72w,\n       //www.hibobbie.com/cdn/shop/files/Logo_887c231f-5e2e-4a5d-8ec3-7c2e6ed36b17_288x.png?v=1758887550 144w,//www.hibobbie.com/cdn/shop/files/Logo_887c231f-5e2e-4a5d-8ec3-7c2e6ed36b17_720x.png?v=1758887550 360w,\n      //www.hibobbie.com/cdn/shop/files/Logo_887c231f-5e2e-4a5d-8ec3-7c2e6ed36b17_960x.png?v=1758887550 480w,\n      //www.hibobbie.com/cdn/shop/files/Logo_887c231f-5e2e-4a5d-8ec3-7c2e6ed36b17_1440x.png?v=1758887550 720w,\n      //www.hibobbie.com/cdn/shop/files/Logo_887c231f-5e2e-4a5d-8ec3-7c2e6ed36b17_1800x.png?v=1758887550 900w,\n      //www.hibobbie.com/cdn/shop/files/Logo_887c231f-5e2e-4a5d-8ec3-7c2e6ed36b17_2160x.png?v=1758887550 1080w,\n      //www.hibobbie.com/cdn/shop/files/Logo_887c231f-5e2e-4a5d-8ec3-7c2e6ed36b17_2592x.png?v=1758887550 1296w,\n      //www.hibobbie.com/cdn/shop/files/Logo_887c231f-5e2e-4a5d-8ec3-7c2e6ed36b17_2700x.png?v=1758887550 1350w,\n      //www.hibobbie.com/cdn/shop/files/Logo_887c231f-5e2e-4a5d-8ec3-7c2e6ed36b17_2120x.png?v=1758887550 1728w,\n      //www.hibobbie.com/cdn/shop/files/Logo_887c231f-5e2e-4a5d-8ec3-7c2e6ed36b17_2360x.png?v=1758887550 1920w,\n      //www.hibobbie.com/cdn/shop/files/Logo_887c231f-5e2e-4a5d-8ec3-7c2e6ed36b17_2860x.png?v=1758887550 2560w",
+        "class": "lazyload  header__logo-img",
+        "loading": "lazy",
+        "data-optimumx": "auto",
+        "data-sizes": "auto",
+        "data-src": "//www.hibobbie.com/cdn/shop/files/Logo_887c231f-5e2e-4a5d-8ec3-7c2e6ed36b17.png?v=1758887550",
+        "data-parent-fit": "contain",
+        "alt": "Bobbie",
+        "width": "425",
+        "height": "149",
+        "style": "--object-position: 50.0% 50.0%"
+      },
+      {
+        "src": "//www.hibobbie.com/cdn/shop/files/BobbieBlend_Primary-1_3d2618cf-2fba-4e85-951e-b3cc3767f9a0_1x.png?v=1777667263 ",
+        "data-srcset": "//www.hibobbie.com/cdn/shop/files/BobbieBlend_Primary-1_3d2618cf-2fba-4e85-951e-b3cc3767f9a0_720x.png?v=1777667263 360w,\n      //www.hibobbie.com/cdn/shop/files/BobbieBlend_Primary-1_3d2618cf-2fba-4e85-951e-b3cc3767f9a0_960x.png?v=1777667263 480w,\n      //www.hibobbie.com/cdn/shop/files/BobbieBlend_Primary-1_3d2618cf-2fba-4e85-951e-b3cc3767f9a0_1440x.png?v=1777667263 720w,\n      //www.hibobbie.com/cdn/shop/files/BobbieBlend_Primary-1_3d2618cf-2fba-4e85-951e-b3cc3767f9a0_1800x.png?v=1777667263 900w,\n      //www.hibobbie.com/cdn/shop/files/BobbieBlend_Primary-1_3d2618cf-2fba-4e85-951e-b3cc3767f9a0_2160x.png?v=1777667263 1080w,\n      //www.hibobbie.com/cdn/shop/files/BobbieBlend_Primary-1_3d2618cf-2fba-4e85-951e-b3cc3767f9a0_2592x.png?v=1777667263 1296w,\n      //www.hibobbie.com/cdn/shop/files/BobbieBlend_Primary-1_3d2618cf-2fba-4e85-951e-b3cc3767f9a0_2700x.png?v=1777667263 1350w,\n      //www.hibobbie.com/cdn/shop/files/BobbieBlend_Primary-1_3d2618cf-2fba-4e85-951e-b3cc3767f9a0_2120x.png?v=1777667263 1728w,\n      //www.hibobbie.com/cdn/shop/files/BobbieBlend_Primary-1_3d2618cf-2fba-4e85-951e-b3cc3767f9a0_2360x.png?v=1777667263 1920w,\n      //www.hibobbie.com/cdn/shop/files/BobbieBlend_Primary-1_3d2618cf-2fba-4e85-951e-b3cc3767f9a0_2860x.png?v=1777667263 2560w",
+        "class": "lazyload  product-highlight__badge",
+        "loading": "lazy",
+        "data-optimumx": "auto",
+        "data-sizes": "auto",
+        "data-src": "//www.hibobbie.com/cdn/shop/files/BobbieBlend_Primary-1_3d2618cf-2fba-4e85-951e-b3cc3767f9a0.png?v=1777667263",
+        "data-parent-fit": "contain",
+        "alt": "Logo of 'The Bobbie Blend' with a stylized design on a white background",
+        "width": "1368",
+        "height": "1363",
+        "style": "--object-position: 50.0% 50.977%"
+      },
+      {
+        "src": "//www.hibobbie.com/cdn/shop/files/CR_Logo-HP_Hero_1x.png?v=1777956231 ",
+        "data-srcset": "//www.hibobbie.com/cdn/shop/files/CR_Logo-HP_Hero_720x.png?v=1777956231 360w,\n      //www.hibobbie.com/cdn/shop/files/CR_Logo-HP_Hero_960x.png?v=1777956231 480w,\n      //www.hibobbie.com/cdn/shop/files/CR_Logo-HP_Hero_1440x.png?v=1777956231 720w,\n      //www.hibobbie.com/cdn/shop/files/CR_Logo-HP_Hero_1800x.png?v=1777956231 900w,\n      //www.hibobbie.com/cdn/shop/files/CR_Logo-HP_Hero_2160x.png?v=1777956231 1080w,\n      //www.hibobbie.com/cdn/shop/files/CR_Logo-HP_Hero_2592x.png?v=1777956231 1296w,\n      //www.hibobbie.com/cdn/shop/files/CR_Logo-HP_Hero_2700x.png?v=1777956231 1350w,\n      //www.hibobbie.com/cdn/shop/files/CR_Logo-HP_Hero_2120x.png?v=1777956231 1728w,\n      //www.hibobbie.com/cdn/shop/files/CR_Logo-HP_Hero_2360x.png?v=1777956231 1920w,\n      //www.hibobbie.com/cdn/shop/files/CR_Logo-HP_Hero_2860x.png?v=1777956231 2560w",
+        "class": "lazyload  hero__content-top-logo",
+        "loading": "lazy",
+        "data-optimumx": "auto",
+        "data-sizes": "auto",
+        "data-src": "//www.hibobbie.com/cdn/shop/files/CR_Logo-HP_Hero.png?v=1777956231",
+        "data-parent-fit": "contain",
+        "alt": "Consumer Reports logo with green 'CR' and gray text on a white background",
+        "width": "1018",
+        "height": "269",
+        "style": "--object-position: 50.0% 49.414%"
+      },
+      {
+        "src": "//www.hibobbie.com/cdn/shop/files/HP_Safety-Badges-Desktop_1x.png?v=1773181062 ",
+        "data-srcset": "//www.hibobbie.com/cdn/shop/files/HP_Safety-Badges-Desktop_720x.png?v=1773181062 360w,\n      //www.hibobbie.com/cdn/shop/files/HP_Safety-Badges-Desktop_960x.png?v=1773181062 480w,\n      //www.hibobbie.com/cdn/shop/files/HP_Safety-Badges-Desktop_1440x.png?v=1773181062 720w,\n      //www.hibobbie.com/cdn/shop/files/HP_Safety-Badges-Desktop_1800x.png?v=1773181062 900w,\n      //www.hibobbie.com/cdn/shop/files/HP_Safety-Badges-Desktop_2160x.png?v=1773181062 1080w,\n      //www.hibobbie.com/cdn/shop/files/HP_Safety-Badges-Desktop_2592x.png?v=1773181062 1296w,\n      //www.hibobbie.com/cdn/shop/files/HP_Safety-Badges-Desktop_2700x.png?v=1773181062 1350w,\n      //www.hibobbie.com/cdn/shop/files/HP_Safety-Badges-Desktop_2120x.png?v=1773181062 1728w,\n      //www.hibobbie.com/cdn/shop/files/HP_Safety-Badges-Desktop_2360x.png?v=1773181062 1920w,\n      //www.hibobbie.com/cdn/shop/files/HP_Safety-Badges-Desktop_2860x.png?v=1773181062 2560w",
+        "class": "lazyload  hero__content-top-logo",
+        "loading": "lazy",
+        "data-optimumx": "auto",
+        "data-sizes": "auto",
+        "data-src": "//www.hibobbie.com/cdn/shop/files/HP_Safety-Badges-Desktop.png?v=1773181062",
+        "data-parent-fit": "contain",
+        "alt": "USDA Organic logo on a white background",
+        "width": "1058",
+        "height": "284",
+        "style": "--object-position: 13.281% 39.16%"
+      },
+      {
+        "src": "//www.hibobbie.com/cdn/shop/files/HP_Safety-Badges-Mobile_1x.png?v=1773181062 ",
+        "data-srcset": "//www.hibobbie.com/cdn/shop/files/HP_Safety-Badges-Mobile_720x.png?v=1773181062 360w,\n      //www.hibobbie.com/cdn/shop/files/HP_Safety-Badges-Mobile_960x.png?v=1773181062 480w,\n      //www.hibobbie.com/cdn/shop/files/HP_Safety-Badges-Mobile_1440x.png?v=1773181062 720w,\n      //www.hibobbie.com/cdn/shop/files/HP_Safety-Badges-Mobile_1800x.png?v=1773181062 900w,\n      //www.hibobbie.com/cdn/shop/files/HP_Safety-Badges-Mobile_2160x.png?v=1773181062 1080w,\n      //www.hibobbie.com/cdn/shop/files/HP_Safety-Badges-Mobile_2592x.png?v=1773181062 1296w,\n      //www.hibobbie.com/cdn/shop/files/HP_Safety-Badges-Mobile_2700x.png?v=1773181062 1350w,\n      //www.hibobbie.com/cdn/shop/files/HP_Safety-Badges-Mobile_2120x.png?v=1773181062 1728w,\n      //www.hibobbie.com/cdn/shop/files/HP_Safety-Badges-Mobile_2360x.png?v=1773181062 1920w,\n      //www.hibobbie.com/cdn/shop/files/HP_Safety-Badges-Mobile_2860x.png?v=1773181062 2560w",
+        "class": "lazyload  ",
+        "loading": "lazy",
+        "data-optimumx": "auto",
+        "data-sizes": "auto",
+        "data-src": "//www.hibobbie.com/cdn/shop/files/HP_Safety-Badges-Mobile.png?v=1773181062",
+        "data-parent-fit": "contain",
+        "alt": "USDA Organic logo on a white background",
+        "width": "280",
+        "height": "1044",
+        "style": "--object-position: 51.66% 17.48%"
+      },
+      {
+        "src": "//www.hibobbie.com/cdn/shop/files/Bobbie_Labs_1x.png?v=1759412275 ",
+        "data-srcset": "//www.hibobbie.com/cdn/shop/files/Bobbie_Labs_720x.png?v=1759412275 360w,\n      //www.hibobbie.com/cdn/shop/files/Bobbie_Labs_960x.png?v=1759412275 480w,\n      //www.hibobbie.com/cdn/shop/files/Bobbie_Labs_1440x.png?v=1759412275 720w,\n      //www.hibobbie.com/cdn/shop/files/Bobbie_Labs_1800x.png?v=1759412275 900w,\n      //www.hibobbie.com/cdn/shop/files/Bobbie_Labs_2160x.png?v=1759412275 1080w,\n      //www.hibobbie.com/cdn/shop/files/Bobbie_Labs_2592x.png?v=1759412275 1296w,\n      //www.hibobbie.com/cdn/shop/files/Bobbie_Labs_2700x.png?v=1759412275 1350w,\n      //www.hibobbie.com/cdn/shop/files/Bobbie_Labs_2120x.png?v=1759412275 1728w,\n      //www.hibobbie.com/cdn/shop/files/Bobbie_Labs_2360x.png?v=1759412275 1920w,\n      //www.hibobbie.com/cdn/shop/files/Bobbie_Labs_2860x.png?v=1759412275 2560w",
+        "class": "lazyload  bobbie-labs__logo-image",
+        "loading": "lazy",
+        "data-optimumx": "auto",
+        "data-sizes": "auto",
+        "data-src": "//www.hibobbie.com/cdn/shop/files/Bobbie_Labs.png?v=1759412275",
+        "data-parent-fit": "contain",
+        "alt": "bobbie labs logo white on clear background",
+        "width": "392",
+        "height": "89",
+        "style": "--object-position: 50.0% 50.0%"
+      },
+      {
+        "src": "//www.hibobbie.com/cdn/shop/files/Main_Logo_8e3588ae-56db-4390-8443-afdd1f1bfb3b_1x.png?v=1759222323 ",
+        "data-srcset": "//www.hibobbie.com/cdn/shop/files/Main_Logo_8e3588ae-56db-4390-8443-afdd1f1bfb3b_720x.png?v=1759222323 360w,\n      //www.hibobbie.com/cdn/shop/files/Main_Logo_8e3588ae-56db-4390-8443-afdd1f1bfb3b_960x.png?v=1759222323 480w,\n      //www.hibobbie.com/cdn/shop/files/Main_Logo_8e3588ae-56db-4390-8443-afdd1f1bfb3b_1440x.png?v=1759222323 720w,\n      //www.hibobbie.com/cdn/shop/files/Main_Logo_8e3588ae-56db-4390-8443-afdd1f1bfb3b_1800x.png?v=1759222323 900w,\n      //www.hibobbie.com/cdn/shop/files/Main_Logo_8e3588ae-56db-4390-8443-afdd1f1bfb3b_2160x.png?v=1759222323 1080w,\n      //www.hibobbie.com/cdn/shop/files/Main_Logo_8e3588ae-56db-4390-8443-afdd1f1bfb3b_2592x.png?v=1759222323 1296w,\n      //www.hibobbie.com/cdn/shop/files/Main_Logo_8e3588ae-56db-4390-8443-afdd1f1bfb3b_2700x.png?v=1759222323 1350w,\n      //www.hibobbie.com/cdn/shop/files/Main_Logo_8e3588ae-56db-4390-8443-afdd1f1bfb3b_2120x.png?v=1759222323 1728w,\n      //www.hibobbie.com/cdn/shop/files/Main_Logo_8e3588ae-56db-4390-8443-afdd1f1bfb3b_2360x.png?v=1759222323 1920w,\n      //www.hibobbie.com/cdn/shop/files/Main_Logo_8e3588ae-56db-4390-8443-afdd1f1bfb3b_2860x.png?v=1759222323 2560w",
+        "class": "lazyload  footer-logo",
+        "loading": "lazy",
+        "data-optimumx": "auto",
+        "data-sizes": "auto",
+        "data-src": "//www.hibobbie.com/cdn/shop/files/Main_Logo_8e3588ae-56db-4390-8443-afdd1f1bfb3b.png?v=1759222323",
+        "data-parent-fit": "contain",
+        "alt": "Black 'bobbie' logo on a blank background",
+        "width": "366",
+        "height": "127",
+        "style": "--object-position: 50.0% 50.0%"
+      },
+      {
+        "src": "//www.hibobbie.com/cdn/shop/files/Main_Logo_8e3588ae-56db-4390-8443-afdd1f1bfb3b_1x.png?v=1759222323 ",
+        "data-srcset": "//www.hibobbie.com/cdn/shop/files/Main_Logo_8e3588ae-56db-4390-8443-afdd1f1bfb3b_720x.png?v=1759222323 360w,\n      //www.hibobbie.com/cdn/shop/files/Main_Logo_8e3588ae-56db-4390-8443-afdd1f1bfb3b_960x.png?v=1759222323 480w,\n      //www.hibobbie.com/cdn/shop/files/Main_Logo_8e3588ae-56db-4390-8443-afdd1f1bfb3b_1440x.png?v=1759222323 720w,\n      //www.hibobbie.com/cdn/shop/files/Main_Logo_8e3588ae-56db-4390-8443-afdd1f1bfb3b_1800x.png?v=1759222323 900w,\n      //www.hibobbie.com/cdn/shop/files/Main_Logo_8e3588ae-56db-4390-8443-afdd1f1bfb3b_2160x.png?v=1759222323 1080w,\n      //www.hibobbie.com/cdn/shop/files/Main_Logo_8e3588ae-56db-4390-8443-afdd1f1bfb3b_2592x.png?v=1759222323 1296w,\n      //www.hibobbie.com/cdn/shop/files/Main_Logo_8e3588ae-56db-4390-8443-afdd1f1bfb3b_2700x.png?v=1759222323 1350w,\n      //www.hibobbie.com/cdn/shop/files/Main_Logo_8e3588ae-56db-4390-8443-afdd1f1bfb3b_2120x.png?v=1759222323 1728w,\n      //www.hibobbie.com/cdn/shop/files/Main_Logo_8e3588ae-56db-4390-8443-afdd1f1bfb3b_2360x.png?v=1759222323 1920w,\n      //www.hibobbie.com/cdn/shop/files/Main_Logo_8e3588ae-56db-4390-8443-afdd1f1bfb3b_2860x.png?v=1759222323 2560w",
+        "class": "lazyload  footer-logo",
+        "loading": "lazy",
+        "data-optimumx": "auto",
+        "data-sizes": "auto",
+        "data-src": "//www.hibobbie.com/cdn/shop/files/Main_Logo_8e3588ae-56db-4390-8443-afdd1f1bfb3b.png?v=1759222323",
+        "data-parent-fit": "contain",
+        "alt": "Black 'bobbie' logo on a blank background",
+        "width": "366",
+        "height": "127",
+        "style": "--object-position: 50.0% 50.0%"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-142/eac558d6adea5918.txt"
+  },
+  {
+    "id": "60454a3f9de2532d",
+    "name": "NRX Pharmaceuticals",
+    "requested_url": "https://ir.nrxpharma.com/",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "b1fe0f858bdf1173",
+    "name": "Webai Inc.",
+    "requested_url": "https://www.webai.com/",
+    "status": 200,
+    "final_url": "https://www.webai.com/",
+    "text_chars": 1555,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-142/b1fe0f858bdf1173.txt"
+  },
+  {
+    "id": "3df9a170bfbc3f3d",
+    "name": "Housatonic Community College",
+    "requested_url": "https://housatonic.edu/",
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  {
+    "id": "1c7b77cef7c6bc28",
+    "name": "KidsVax Foundation",
+    "requested_url": "https://www.kidsvax.org/",
+    "status": 200,
+    "final_url": "https://www.kidsvax.org/",
+    "text_chars": 1310,
+    "logo_candidates": [
+      {
+        "src": "https://www.kidsvax.org/wp-content/uploads/2022/06/KVLogo.png",
+        "srcset": "https://www.kidsvax.org/wp-content/uploads/2022/06/KVLogo.png 1x, https://www.kidsvax.org/wp-content/uploads/2022/06/KVLogoRetna.png 2x",
+        "width": "298",
+        "height": "93",
+        "style": "max-height:93px;height:auto;",
+        "alt": "KidsVax Logo",
+        "data-retina_logo_url": "https://www.kidsvax.org/wp-content/uploads/2022/06/KVLogoRetna.png",
+        "class": "fusion-standard-logo"
+      },
+      {
+        "src": "https://www.kidsvax.org/wp-content/uploads/2020/06/KidsVax-Logo.png",
+        "srcset": "https://www.kidsvax.org/wp-content/uploads/2020/06/KidsVax-Logo.png 1x, https://www.kidsvax.org/wp-content/uploads/2020/06/KidsVax-Logo-x2.png 2x",
+        "width": "298",
+        "height": "93",
+        "style": "max-height:93px;height:auto;",
+        "alt": "KidsVax Logo",
+        "data-retina_logo_url": "https://www.kidsvax.org/wp-content/uploads/2020/06/KidsVax-Logo-x2.png",
+        "class": "fusion-mobile-logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-142/1c7b77cef7c6bc28.txt"
+  },
+  {
+    "id": "c2ddc2222b8c7365",
+    "name": "Neste US, Inc.",
+    "requested_url": "https://www.neste.com/",
+    "status": 200,
+    "final_url": "https://www.neste.com/",
+    "text_chars": 3094,
+    "logo_candidates": [
+      {
+        "type": "image",
+        "id": "en-global nesteLogotype",
+        "alt": "Neste",
+        "caption": "",
+        "width": "116",
+        "height": "20",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "Navigation_logo__U9aj9",
+        "style": "color:transparent",
+        "src": "https://images.ctfassets.net/wg1141eg84ns/5LUHA2wXo4O94xJn7jbJzq/89b69dc4c87e61d749cb1552918da989/Neste_logo.svg"
+      },
+      {
+        "type": "image",
+        "id": "en-global nesteLogoWhite",
+        "alt": "",
+        "caption": "",
+        "width": "191",
+        "height": "33",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "Footer_logo__hkBRC",
+        "style": "color:transparent",
+        "src": "https://images.ctfassets.net/wg1141eg84ns/3R9QxiMZ2jFK9pg5WeL2go/e5a060557bc7a88aa994e8d588d1e5b4/neste-logo-white.svg"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-142/c2ddc2222b8c7365.txt"
+  },
+  {
+    "id": "2f99b9ea2c15e1ec",
+    "name": "American Academy Of Hospice And Palliative Care",
+    "requested_url": "https://aahpm.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "56efaf3e6154d4c2",
+    "name": "Mintz on behalf of American Health Companies, LLC",
+    "requested_url": "https://www.mintz.com/",
+    "status": 200,
+    "final_url": "https://www.mintz.com/",
+    "text_chars": 5975,
+    "logo_candidates": [
+      {
+        "src": "/themes/custom/mintztheme/gnorm/build/images/logo--square-text.svg",
+        "alt": "Mintz logo",
+        "data-ot-ignore": null
+      },
+      {
+        "src": "/themes/custom/mintztheme/gnorm/build//images/logo--text-white.svg",
+        "alt": "Mintz Levin logo",
+        "data-ot-ignore": null
+      },
+      {
+        "class": "lazyload",
+        "data-src": "https://www.mintz.com/sites/default/files/styles/icon_large/public/media/images/2026-06-04/Firm%20Logo_Chambers%20USA%202026.jpg?itok=Z-jPotwX",
+        "alt": "Firm Logo_Chambers USA 2026"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-142/56efaf3e6154d4c2.txt"
+  },
+  {
+    "id": "257ce2823a9da982",
+    "name": "INNIO Waukesha Gas Engines Inc.",
+    "requested_url": "https://www.innio.com/",
+    "status": 200,
+    "final_url": "https://www.innio.com/en/",
+    "text_chars": 8118,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "decoding": "async",
+        "width": "2560",
+        "height": "1440",
+        "src": "https://www.innio.com/wp-content/uploads/2025/12/logo-innio-over-mobile.png",
+        "class": "attachment-full size-full wp-image-20026",
+        "alt": "",
+        "srcset": "https://www.innio.com/wp-content/uploads/2025/12/logo-innio-over-mobile.png 2560w, https://www.innio.com/wp-content/uploads/2025/12/logo-innio-over-mobile-300x169.png 300w, https://www.innio.com/wp-content/uploads/2025/12/logo-innio-over-mobile-1024x576.png 1024w, https://www.innio.com/wp-content/uploads/2025/12/logo-innio-over-mobile-768x432.png 768w, https://www.innio.com/wp-content/uploads/2025/12/logo-innio-over-mobile-1536x864.png 1536w, https://www.innio.com/wp-content/uploads/2025/12/logo-innio-over-mobile-2048x1152.png 2048w",
+        "sizes": "(max-width: 2560px) 100vw, 2560px"
+      },
+      {
+        "decoding": "async",
+        "width": "2560",
+        "height": "1440",
+        "src": "https://www.innio.com/wp-content/uploads/2025/11/logo-innio-over-1-scaled-1.png",
+        "class": "attachment-full size-full wp-image-18731",
+        "alt": "",
+        "srcset": "https://www.innio.com/wp-content/uploads/2025/11/logo-innio-over-1-scaled-1.png 2560w, https://www.innio.com/wp-content/uploads/2025/11/logo-innio-over-1-scaled-1-300x169.png 300w, https://www.innio.com/wp-content/uploads/2025/11/logo-innio-over-1-scaled-1-1024x576.png 1024w, https://www.innio.com/wp-content/uploads/2025/11/logo-innio-over-1-scaled-1-768x432.png 768w, https://www.innio.com/wp-content/uploads/2025/11/logo-innio-over-1-scaled-1-1536x864.png 1536w, https://www.innio.com/wp-content/uploads/2025/11/logo-innio-over-1-scaled-1-2048x1152.png 2048w",
+        "sizes": "(max-width: 2560px) 100vw, 2560px"
+      },
+      {
+        "decoding": "async",
+        "width": "186",
+        "height": "48",
+        "src": "https://www.innio.com/wp-content/uploads/2024/07/innio_logo.svg",
+        "class": "attachment-full size-full wp-image-902",
+        "alt": ""
+      },
+      {
+        "width": "186",
+        "height": "48",
+        "src": "https://www.innio.com/wp-content/uploads/2024/07/innio_logo.svg",
+        "class": "attachment-full size-full wp-image-902",
+        "alt": ""
+      },
+      {
+        "src": "https://www.innio.com/wp-content/uploads/2024/07/jenbacher_logo.svg",
+        "class": "attachment-full size-full wp-image-904",
+        "alt": ""
+      },
+      {
+        "src": "https://www.innio.com/wp-content/uploads/2024/12/myplant-white-logo.svg",
+        "class": "attachment-full size-full wp-image-14574",
+        "alt": ""
+      },
+      {
+        "src": "https://www.innio.com/wp-content/uploads/2024/07/waukesha_logo.svg",
+        "class": "attachment-full size-full wp-image-908",
+        "alt": ""
+      },
+      {
+        "src": "https://www.innio.com/wp-content/uploads/2024/07/innio_logo_black.svg",
+        "class": "attachment-full size-full wp-image-901",
+        "alt": ""
+      },
+      {
+        "src": "https://www.innio.com/wp-content/uploads/2024/07/jenbacher-logo-color.svg",
+        "class": "attachment-full size-full wp-image-905",
+        "alt": ""
+      },
+      {
+        "src": "https://www.innio.com/wp-content/uploads/2024/07/waukesha-logo-color.svg",
+        "class": "attachment-full size-full wp-image-909",
+        "alt": ""
+      },
+      {
+        "src": "https://www.innio.com/wp-content/uploads/2024/07/jenbacher-logo-color.svg",
+        "class": "attachment-full size-full wp-image-905",
+        "alt": ""
+      },
+      {
+        "src": "https://www.innio.com/wp-content/uploads/2024/07/waukesha-logo-color.svg",
+        "class": "attachment-full size-full wp-image-909",
+        "alt": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-142/257ce2823a9da982.txt"
+  },
+  {
+    "id": "0e147d7693368da0",
+    "name": "Litelinx Fiber",
+    "requested_url": "https://litelinxfiber.com/",
+    "status": 200,
+    "final_url": "https://litelinxfiber.com/",
+    "text_chars": 644,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-142/0e147d7693368da0.txt"
+  },
+  {
+    "id": "f57ff58afe0db756",
+    "name": "NetJets Services, Inc.",
+    "requested_url": "https://www.netjets.com/",
+    "status": 200,
+    "final_url": "https://www.netjets.com/en-us/",
+    "text_chars": 3221,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-142/f57ff58afe0db756.txt"
+  },
+  {
+    "id": "872526af4f751cf1",
+    "name": "Westcor Land Title Insurance Company",
+    "requested_url": "https://www.westcor.com/",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "id": "3b29fa5500918988",
+    "name": "Mayne Pharma (usa), Inc.",
+    "requested_url": "https://www.maynepharma.com/",
+    "status": 202,
+    "final_url": "https://www.maynepharma.com/",
+    "text_chars": 87,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-142/3b29fa5500918988.txt"
+  },
+  {
+    "id": "be4f7dc274dfe4eb",
+    "name": "MO Strategies, Inc. on behalf of Gifthealth",
+    "requested_url": "https://www.mostrat.com/",
+    "status": 200,
+    "final_url": "https://www.mostrat.com/",
+    "text_chars": 286,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-142/be4f7dc274dfe4eb.txt"
+  },
+  {
+    "id": "22d691a24148614b",
+    "name": "Remitly",
+    "requested_url": "https://ir.remitly.com/",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "ca78274e4dcff177",
+    "name": "Telesis Research",
+    "requested_url": "https://telesisdefense.com/",
+    "status": 200,
+    "final_url": "https://telesisdefense.com/",
+    "text_chars": 7376,
+    "logo_candidates": [
+      {
+        "elementtiming": "nbf-header-logo-desktop",
+        "src": "//images.squarespace-cdn.com/content/v1/6689fe146ef8077bb4d2a609/18d76b72-f483-4c0a-9cf8-87a09ada1f2b/Logo-01.png?format=1500w",
+        "alt": "Telesis Defense",
+        "style": "display:block",
+        "fetchpriority": "high",
+        "loading": "eager",
+        "decoding": "async",
+        "data-loader": "raw"
+      },
+      {
+        "elementtiming": "nbf-header-logo-desktop",
+        "src": "//images.squarespace-cdn.com/content/v1/6689fe146ef8077bb4d2a609/18d76b72-f483-4c0a-9cf8-87a09ada1f2b/Logo-01.png?format=1500w",
+        "alt": "Telesis Defense",
+        "style": "display:block",
+        "fetchpriority": "high",
+        "loading": "eager",
+        "decoding": "async",
+        "data-loader": "raw"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-142/ca78274e4dcff177.txt"
+  },
+  {
+    "id": "fbbccdb07bcf3489",
+    "name": "Pivotal Ventures (via FGS Global)",
+    "requested_url": "https://www.pivotal.com",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

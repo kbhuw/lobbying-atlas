@@ -1,0 +1,452 @@
+[
+  {
+    "id": "2f736509baa1bb75",
+    "name": "Avara Pharmaceuticals Inc.",
+    "requested_url": "https://www.avara.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.avara.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/0-2f736509baa1bb75.txt",
+    "text_chars": 18492
+  },
+  {
+    "id": "2f736509baa1bb75",
+    "name": "Avara Pharmaceuticals Inc.",
+    "requested_url": "https://www.avara.com/about",
+    "status": 200,
+    "final_url": "https://www.avara.com/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/1-2f736509baa1bb75.txt",
+    "text_chars": 2954
+  },
+  {
+    "id": "a7ff1f8510217347",
+    "name": "Avathon, Inc.",
+    "requested_url": "https://avathon.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://avathon.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/2-a7ff1f8510217347.txt",
+    "text_chars": 22199
+  },
+  {
+    "id": "a7ff1f8510217347",
+    "name": "Avathon, Inc.",
+    "requested_url": "https://avathon.com/terms-of-service/",
+    "status": 200,
+    "final_url": "https://avathon.com/terms-of-service/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/3-a7ff1f8510217347.txt",
+    "text_chars": 10914
+  },
+  {
+    "id": "9692574a19e9033c",
+    "name": "Avaya Government Solutions",
+    "requested_url": "https://www.avaya.com/en/legal/",
+    "status": 200,
+    "final_url": "https://www.avaya.com/en/legal/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/4-9692574a19e9033c.txt",
+    "text_chars": 4321
+  },
+  {
+    "id": "9692574a19e9033c",
+    "name": "Avaya Government Solutions",
+    "requested_url": "https://www.avaya.com/en/privacy/",
+    "status": 200,
+    "final_url": "https://www.avaya.com/en/privacy/commitment/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/5-9692574a19e9033c.txt",
+    "text_chars": 4911
+  },
+  {
+    "id": "e40f62915c2e33d2",
+    "name": "Aventiv Technologies LLC And Various Subsidiaries",
+    "requested_url": "https://www.aventiv.com/privacy",
+    "status": 200,
+    "final_url": "https://www.aventiv.com/privacy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/6-e40f62915c2e33d2.txt",
+    "text_chars": 75006
+  },
+  {
+    "id": "e40f62915c2e33d2",
+    "name": "Aventiv Technologies LLC And Various Subsidiaries",
+    "requested_url": "https://www.aventiv.com/general-terms-conditions",
+    "status": 200,
+    "final_url": "https://www.aventiv.com/general-terms-conditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/7-e40f62915c2e33d2.txt",
+    "text_chars": 909
+  },
+  {
+    "id": "f725b5f2f2e97a3d",
+    "name": "Avidity Biosciences, Inc.",
+    "requested_url": "https://www.novartis.com/privacy",
+    "status": 200,
+    "final_url": "https://www.novartis.com/privacy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/8-f725b5f2f2e97a3d.txt",
+    "text_chars": 13772
+  },
+  {
+    "id": "f725b5f2f2e97a3d",
+    "name": "Avidity Biosciences, Inc.",
+    "requested_url": "https://www.novartis.com/terms-use",
+    "status": 200,
+    "final_url": "https://www.novartis.com/terms-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/9-f725b5f2f2e97a3d.txt",
+    "text_chars": 20260
+  },
+  {
+    "id": "28365a106924bbab",
+    "name": "Avio USA",
+    "requested_url": "https://www.avio.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.avio.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/10-28365a106924bbab.txt",
+    "text_chars": 10058
+  },
+  {
+    "id": "0a34805f69b5cca7",
+    "name": "Avon Protection Systems Inc",
+    "requested_url": "https://www.avon-protection.com/terms-of-use/",
+    "status": 200,
+    "final_url": "https://www.avon-protection.com/terms-of-use/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/11-0a34805f69b5cca7.txt",
+    "text_chars": 11855
+  },
+  {
+    "id": "3c7d878b2d877d9c",
+    "name": "Avports LLC",
+    "requested_url": "https://avports.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://avports.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/12-3c7d878b2d877d9c.txt",
+    "text_chars": 16766
+  },
+  {
+    "id": "da72a21db0cd52da",
+    "name": "AWS Public Policy, Americas",
+    "requested_url": "https://aws.amazon.com/legal/?nc1=f_cc",
+    "status": 200,
+    "final_url": "https://aws.amazon.com/legal/?nc1=f_cc",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/13-da72a21db0cd52da.txt",
+    "text_chars": 9067
+  },
+  {
+    "id": "da72a21db0cd52da",
+    "name": "AWS Public Policy, Americas",
+    "requested_url": "https://aws.amazon.com/terms/?nc1=f_pr",
+    "status": 200,
+    "final_url": "https://aws.amazon.com/terms/?nc1=f_pr",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/14-da72a21db0cd52da.txt",
+    "text_chars": 19020
+  },
+  {
+    "id": "e630c2da9e492a39",
+    "name": "Main Line Health (via AxAdvocacy)",
+    "requested_url": "https://www.mainlinehealth.org/about/policies/terms-of-use",
+    "status": 200,
+    "final_url": "https://www.mainlinehealth.org/about/policies/terms-of-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/15-e630c2da9e492a39.txt",
+    "text_chars": 12560
+  },
+  {
+    "id": "e630c2da9e492a39",
+    "name": "Main Line Health (via AxAdvocacy)",
+    "requested_url": "https://www.mainlinehealth.org/about/policies/web-privacy-statement",
+    "status": 200,
+    "final_url": "https://www.mainlinehealth.org/about/policies/web-privacy-statement",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/16-e630c2da9e492a39.txt",
+    "text_chars": 11958
+  },
+  {
+    "id": "c5925e4f3621a62c",
+    "name": "Strata Critical (via AxAdvocacy)",
+    "requested_url": "https://stratacritical.com/about-strata-critical",
+    "status": 200,
+    "final_url": "https://stratacritical.com/about-strata-critical",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/17-c5925e4f3621a62c.txt",
+    "text_chars": 5309
+  },
+  {
+    "id": "5d899b449df1c5e1",
+    "name": "El Paso Chamber of Commerce (via AxAdvocacy)",
+    "requested_url": "https://www.elpaso.org/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.elpaso.org/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/18-5d899b449df1c5e1.txt",
+    "text_chars": 2740
+  },
+  {
+    "id": "5d899b449df1c5e1",
+    "name": "El Paso Chamber of Commerce (via AxAdvocacy)",
+    "requested_url": "https://www.elpaso.org/about-the-star-on-the-mountain/",
+    "status": 200,
+    "final_url": "https://www.elpaso.org/about-the-star-on-the-mountain/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/19-5d899b449df1c5e1.txt",
+    "text_chars": 4116
+  },
+  {
+    "id": "689df4db69ee7e81",
+    "name": "NET Lease Capital (via AxAdvocacy)",
+    "requested_url": "https://www.netleasecapital.com/about-us",
+    "status": 200,
+    "final_url": "https://www.netleasecapital.com/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/20-689df4db69ee7e81.txt",
+    "text_chars": 33748
+  },
+  {
+    "id": "11e2ee48bf922858",
+    "name": "Axinn, Veltrop & Harkrider LLP",
+    "requested_url": "https://www.axinn.com/en/privacy",
+    "status": 200,
+    "final_url": "https://www.axinn.com/en/privacy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/21-11e2ee48bf922858.txt",
+    "text_chars": 49421
+  },
+  {
+    "id": "ba4fc5f5499a5c6e",
+    "name": "Bradyplus (via Axinn)",
+    "requested_url": "https://www.bradyplus.com/about-us",
+    "status": 200,
+    "final_url": "https://www.bradyplus.com/about-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/22-ba4fc5f5499a5c6e.txt",
+    "text_chars": 4956
+  },
+  {
+    "id": "5d8c4d5a8d0a6000",
+    "name": "Tecomet, Inc. (via Axinn)",
+    "requested_url": "https://www.tecomet.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.tecomet.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/23-5d8c4d5a8d0a6000.txt",
+    "text_chars": 12536
+  },
+  {
+    "id": "5d8c4d5a8d0a6000",
+    "name": "Tecomet, Inc. (via Axinn)",
+    "requested_url": "https://www.tecomet.com/about-resources/",
+    "status": 200,
+    "final_url": "https://www.tecomet.com/about-resources/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/24-5d8c4d5a8d0a6000.txt",
+    "text_chars": 100
+  },
+  {
+    "id": "55412844c8964789",
+    "name": "Azbrt Inc.",
+    "requested_url": "https://azbrt.org/about/",
+    "status": 200,
+    "final_url": "https://azbrt.org/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/25-55412844c8964789.txt",
+    "text_chars": 1181
+  },
+  {
+    "id": "d2ccfb204d9e7c20",
+    "name": "Babtel",
+    "requested_url": "https://www.babtel.net/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.babtel.net/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/26-d2ccfb204d9e7c20.txt",
+    "text_chars": 15829
+  },
+  {
+    "id": "d2ccfb204d9e7c20",
+    "name": "Babtel",
+    "requested_url": "https://www.babtel.net/terms-conditions/",
+    "status": 200,
+    "final_url": "https://www.babtel.net/terms-conditions/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/27-d2ccfb204d9e7c20.txt",
+    "text_chars": 18463
+  },
+  {
+    "id": "12411ec9bde1312d",
+    "name": "Baker Hughes Energy Services, LLC",
+    "requested_url": "https://www.bakerhughes.com/terms",
+    "status": 200,
+    "final_url": "https://www.bakerhughes.com/terms",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/28-12411ec9bde1312d.txt",
+    "text_chars": 47521
+  },
+  {
+    "id": "12411ec9bde1312d",
+    "name": "Baker Hughes Energy Services, LLC",
+    "requested_url": "https://www.bakerhughes.com/privacy",
+    "status": 200,
+    "final_url": "https://www.bakerhughes.com/privacy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/29-12411ec9bde1312d.txt",
+    "text_chars": 50822
+  },
+  {
+    "id": "2ef5cc256f78a05c",
+    "name": "BAM Management US Holdings Inc.",
+    "requested_url": "https://www.binance.us/terms-of-use",
+    "status": 200,
+    "final_url": "https://www.binance.us/terms-of-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/30-2ef5cc256f78a05c.txt",
+    "text_chars": 141146
+  },
+  {
+    "id": "2ef5cc256f78a05c",
+    "name": "BAM Management US Holdings Inc.",
+    "requested_url": "https://www.binance.us/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.binance.us/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/31-2ef5cc256f78a05c.txt",
+    "text_chars": 54520
+  },
+  {
+    "id": "1b239a0c6f24d059",
+    "name": "Baptist Health South Florida",
+    "requested_url": "https://baptisthealth.net/terms-of-use",
+    "status": 200,
+    "final_url": "https://baptisthealth.net/terms-of-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/32-1b239a0c6f24d059.txt",
+    "text_chars": 16384
+  },
+  {
+    "id": "1b239a0c6f24d059",
+    "name": "Baptist Health South Florida",
+    "requested_url": "https://baptisthealth.net/privacy-policy",
+    "status": 200,
+    "final_url": "https://baptisthealth.net/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/33-1b239a0c6f24d059.txt",
+    "text_chars": 13949
+  },
+  {
+    "id": "cc96c2e46d94e4e8",
+    "name": "Barclays US GFP Inc.",
+    "requested_url": "https://home.barclays/terms-of-use/",
+    "status": 200,
+    "final_url": "https://home.barclays/terms-of-use/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/34-cc96c2e46d94e4e8.txt",
+    "text_chars": 19073
+  },
+  {
+    "id": "cc96c2e46d94e4e8",
+    "name": "Barclays US GFP Inc.",
+    "requested_url": "https://home.barclays/privacy-policy/",
+    "status": 200,
+    "final_url": "https://home.barclays/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/35-cc96c2e46d94e4e8.txt",
+    "text_chars": 5985
+  },
+  {
+    "id": "aab173f9ac277c3b",
+    "name": "Barrday Corporation",
+    "requested_url": "https://www.barrday.com/Legal.htm",
+    "status": 200,
+    "final_url": "https://www.barrday.com/Legal.htm",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/36-aab173f9ac277c3b.txt",
+    "text_chars": 1227
+  },
+  {
+    "id": "763f9d7cc46d5a77",
+    "name": "Basis Path",
+    "requested_url": "https://basispath.com/index.html",
+    "status": 200,
+    "final_url": "https://basispath.com/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/37-763f9d7cc46d5a77.txt",
+    "text_chars": 15388
+  },
+  {
+    "id": "3e5dcf33b673bf4c",
+    "name": "Bausch & Lomb",
+    "requested_url": "https://www.bausch.com/terms/",
+    "status": 200,
+    "final_url": "https://www.bausch.com/terms/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/38-3e5dcf33b673bf4c.txt",
+    "text_chars": 37524
+  },
+  {
+    "id": "3e5dcf33b673bf4c",
+    "name": "Bausch & Lomb",
+    "requested_url": "https://www.bausch.com/privacy/",
+    "status": 200,
+    "final_url": "https://www.bausch.com/privacy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/39-3e5dcf33b673bf4c.txt",
+    "text_chars": 38628
+  },
+  {
+    "id": "0ed3959f02dbbe72",
+    "name": "Aon Risk Services",
+    "requested_url": "https://www.aon.com/about-us/leadership",
+    "status": 200,
+    "final_url": "https://www.aon.com/en/about/leadership-and-governance",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/40-0ed3959f02dbbe72.txt",
+    "text_chars": 38498
+  },
+  {
+    "id": "0ed3959f02dbbe72",
+    "name": "Aon Risk Services",
+    "requested_url": "https://www.aon.com/about-aon/employee-services.jsp",
+    "status": 200,
+    "final_url": "https://www.aon.com/en/about/leadership-and-governance/ethics-helpline",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/41-0ed3959f02dbbe72.txt",
+    "text_chars": 33542
+  },
+  {
+    "id": "28b6ddae0535f96a",
+    "name": "Aon Service Corporation",
+    "requested_url": "https://www.aon.com/about-us/leadership",
+    "status": 200,
+    "final_url": "https://www.aon.com/en/about/leadership-and-governance",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/42-28b6ddae0535f96a.txt",
+    "text_chars": 38504
+  },
+  {
+    "id": "28b6ddae0535f96a",
+    "name": "Aon Service Corporation",
+    "requested_url": "https://www.aon.com/about-aon/employee-services.jsp",
+    "status": 200,
+    "final_url": "https://www.aon.com/en/about/leadership-and-governance/ethics-helpline",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/43-28b6ddae0535f96a.txt",
+    "text_chars": 33548
+  },
+  {
+    "id": "51d95d9f8f9e0836",
+    "name": "Apprenticeships for America, Inc.",
+    "requested_url": "https://apprenticeshipsforamerica.org/about",
+    "status": 200,
+    "final_url": "https://apprenticeshipsforamerica.org/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/44-51d95d9f8f9e0836.txt",
+    "text_chars": 5722
+  },
+  {
+    "id": "51d95d9f8f9e0836",
+    "name": "Apprenticeships for America, Inc.",
+    "requested_url": "https://apprenticeshipsforamerica.org/pages/About-AFA-ADVOCACY",
+    "status": 200,
+    "final_url": "https://apprenticeshipsforamerica.org/pages/About-AFA-ADVOCACY",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/45-51d95d9f8f9e0836.txt",
+    "text_chars": 2886
+  },
+  {
+    "id": "e7deab8bc60e0086",
+    "name": "Argus Media, Inc.",
+    "requested_url": "https://www.argusmedia.com/en/about-argus",
+    "status": 200,
+    "final_url": "https://www.argusmedia.com/en/about-argus",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/46-e7deab8bc60e0086.txt",
+    "text_chars": 8726
+  },
+  {
+    "id": "e7deab8bc60e0086",
+    "name": "Argus Media, Inc.",
+    "requested_url": "https://www.argusmedia.com/en/about-argus/careers",
+    "status": 200,
+    "final_url": "https://www.argusmedia.com/en/about-argus/careers",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/47-e7deab8bc60e0086.txt",
+    "text_chars": 12201
+  },
+  {
+    "id": "9a2ad3b4821b290f",
+    "name": "Archroma U.S. Inc.",
+    "requested_url": "https://www.archroma.com/general-terms-and-conditions-of-sale",
+    "status": 200,
+    "final_url": "https://www.archroma.com/general-terms-and-conditions-of-sale",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/48-9a2ad3b4821b290f.txt",
+    "text_chars": 6505
+  },
+  {
+    "id": "e9c4ce09e113acf4",
+    "name": "Arconic US LLC",
+    "requested_url": "https://arconic.com/supplier-terms-conditions",
+    "status": 200,
+    "final_url": "https://arconic.com/supplier-terms-conditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-167/49-e9c4ce09e113acf4.txt",
+    "text_chars": 2896
+  }
+]

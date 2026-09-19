@@ -1,0 +1,21 @@
+import json,pathlib,copy
+from bs4 import BeautifulSoup
+r=pathlib.Path('work/research-2026');p=json.load(open(r/'reviewed.json'));xs=json.load(open(r/'verified-sites163-next100-review.json'));before={};dec=[]
+assert not (r/'featured163-before.json').exists()
+fix={2:'Provides correctional facilities with phone, tablet, video, digital-mail, payment and communications-monitoring technology.',19:'Develops technology for aerial rescue, construction and industrial safety through its operating businesses.',20:'Acquires, renovates and preserves affordable housing and provides resident-support programs.'}
+special={2:'Official ViaPath Technologies body describes corrections communications, payment and security platforms. Historical corporate-name continuity is not newly established by this page; claimed rehabilitation outcomes are not independently validated.',6:'Official Viken Detection body describes X-ray imaging and chemical-analysis systems. Detection performance and agency deployments are not independently verified.',9:'Official Vimenti About body identifies the San Juan educational and family-services program and its creation by Boys & Girls Clubs of Puerto Rico. Program and sponsor remain distinct.',14:'Official Vise body describes investment-platform software and identifies Vise Technologies, Inc. Financial performance, fiduciary and registration claims are not independently validated; animated zero counters are ignored.',19:'Official Vita body explicitly names Vita Inclinata Technologies, Inc. and describes rescue and construction safety technology. Its announced letter of intent to go public does not establish a completed listing or merger.',20:'Official Vitus About body names Vitus Group LLC and describes housing acquisition, renovation, preservation and resident services.',21:'Official Vivcor body explicitly names Vivcor Systems Inc. and describes traffic-management technology. Reported Utah benefits are simulation results, not observed real-world reductions.'}
+for n,v in enumerate(xs):
+ if v['decision']!='confirmed' or n>=25:continue
+ i=v['id'];assert p[i]['name']==v['original_name'] and p[i]['review_outcome']!='confirmed';before[i]=copy.deepcopy(p[i]);note=special.get(n,'Official organization body text identifies this organization and supports the activity summarized. Existing ownership evidence is retained without inferring additional ownership from its name.')
+ p[i].update(description=fix.get(n,v['description']),notes=note,identity_evidence=note,review_outcome='confirmed',checked_at='2026-09-13',as_of='2026-09-13')
+ 
+
+ e=v['fetched_evidence'][0];assert e['http_status']==200
+ s=BeautifulSoup(open(e['cache_path']).read(),'html.parser')
+ for t in s(['script','style','nav','header']):t.decompose()
+ body=' '.join(s.stripped_strings)
+ ss={s['url']:s for s in p[i]['sources']};ss[e['url']]={'url':e['url'],'label':'Official organization evidence','claim':note};p[i]['sources']=list(ss.values());dec.append(dict(id=i,name=p[i]['name'],decision='confirmed',notes=note,fetched_evidence=v['fetched_evidence'],reviewed_body=body))
+(r/'featured163-before.json').write_text(json.dumps(before,indent=2)+'\n');(r/'featured163-decisions.json').write_text(json.dumps(dec,indent=2)+'\n')
+le=json.load(open(r/'featured163-trillium-evidence.json'));i=le['id'];before[i]=copy.deepcopy(p[i]);p[i].update(logo_url=le['url'],logo_source_url=le['source'],logo_kind='logo',logo_status='official_site_asset',logo_background='light');p[i]['sources'].append(dict(url=le['source'],label='Official organization logo',claim='Trillium logo image extracted from the verified official About page, fetched successfully and visually inspected.'));(r/'featured163-before.json').write_text(json.dumps(before,indent=2)+'\n');(r/'featured163-logo-decisions.json').write_text(json.dumps(dict(evidence=le,visually_verified=True),indent=2)+'\n');(r/'featured163-remaining163.json').write_text(json.dumps([v for n,v in enumerate(xs) if n>=25],indent=2)+'\n')
+for f in [r/'reviewed.json',pathlib.Path('outputs/2026-research-trial/profiles.json')]:f.write_text(json.dumps(p,ensure_ascii=False,indent=2)+'\n')
+pathlib.Path('lobbying-map/research/reviewed-2026.json').write_text(json.dumps(p,ensure_ascii=False));print(len(dec),'identity confirmations saved')

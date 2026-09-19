@@ -1,0 +1,1662 @@
+[
+  {
+    "id": "5746ca88d7fb89ef",
+    "name": "Ltse Services, Inc.",
+    "requested_url": "https://ltse.com/",
+    "status": 200,
+    "final_url": "https://ltse.com/",
+    "text_chars": 7975,
+    "logo_candidates": [
+      {
+        "src": "https://cdn.prod.website-files.com/6462417e8db99f8baa069524/65b179cd682a14cc7b098413_Group%2012.svg",
+        "loading": "lazy",
+        "width": "89",
+        "alt": "",
+        "class": "navbar_logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6462417e8db99f8baa069524/67a3bdff18c233adef237aaf_Obvious-Logo-png.png",
+        "loading": "eager",
+        "sizes": "(max-width: 767px) 100vw, 534px",
+        "srcset": "https://cdn.prod.website-files.com/6462417e8db99f8baa069524/67a3bdff18c233adef237aaf_Obvious-Logo-png-p-500.png 500w, https://cdn.prod.website-files.com/6462417e8db99f8baa069524/67a3bdff18c233adef237aaf_Obvious-Logo-png-p-800.png 800w, https://cdn.prod.website-files.com/6462417e8db99f8baa069524/67a3bdff18c233adef237aaf_Obvious-Logo-png.png 1113w",
+        "alt": "",
+        "class": "image-3"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6462417e8db99f8baa069524/675c3613eca90d4c739d67b5_Greylock_Partners_logo.svg",
+        "loading": "eager",
+        "alt": "",
+        "class": "image-3"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6462417e8db99f8baa069524/6760e26edb332cd60a2e3197_collab%20fund%20logo.png",
+        "loading": "eager",
+        "sizes": "(max-width: 767px) 100vw, 569px",
+        "srcset": "https://cdn.prod.website-files.com/6462417e8db99f8baa069524/6760e26edb332cd60a2e3197_collab%20fund%20logo-p-500.png 500w, https://cdn.prod.website-files.com/6462417e8db99f8baa069524/6760e26edb332cd60a2e3197_collab%20fund%20logo-p-800.png 800w, https://cdn.prod.website-files.com/6462417e8db99f8baa069524/6760e26edb332cd60a2e3197_collab%20fund%20logo.png 1185w",
+        "alt": "",
+        "class": "image-3"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6462417e8db99f8baa069524/675c3ce8c09380bc618c537a_founders-fund-logo-vector-cropped.svg",
+        "loading": "eager",
+        "alt": "",
+        "class": "image-3"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6462417e8db99f8baa069524/67a23903c8c70bb995a9a846_main-logo-black.webp",
+        "loading": "eager",
+        "alt": "",
+        "class": "image-3"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6462417e8db99f8baa069524/675c3613eca90d4c739d67b5_Greylock_Partners_logo.svg",
+        "loading": "eager",
+        "alt": "",
+        "class": "image-3"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6462417e8db99f8baa069524/6760e26edb332cd60a2e3197_collab%20fund%20logo.png",
+        "loading": "eager",
+        "sizes": "(max-width: 767px) 100vw, 569px",
+        "srcset": "https://cdn.prod.website-files.com/6462417e8db99f8baa069524/6760e26edb332cd60a2e3197_collab%20fund%20logo-p-500.png 500w, https://cdn.prod.website-files.com/6462417e8db99f8baa069524/6760e26edb332cd60a2e3197_collab%20fund%20logo-p-800.png 800w, https://cdn.prod.website-files.com/6462417e8db99f8baa069524/6760e26edb332cd60a2e3197_collab%20fund%20logo.png 1185w",
+        "alt": "",
+        "class": "image-3"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6462417e8db99f8baa069524/675c3ce8c09380bc618c537a_founders-fund-logo-vector-cropped.svg",
+        "loading": "eager",
+        "alt": "",
+        "class": "image-3"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6462417e8db99f8baa069524/67a23903c8c70bb995a9a846_main-logo-black.webp",
+        "loading": "eager",
+        "width": "Auto",
+        "alt": "",
+        "class": "image-3"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6462417e8db99f8baa069524/675c3613eca90d4c739d67b5_Greylock_Partners_logo.svg",
+        "loading": "eager",
+        "alt": "",
+        "class": "image-3"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6462417e8db99f8baa069524/6760e26edb332cd60a2e3197_collab%20fund%20logo.png",
+        "loading": "eager",
+        "sizes": "(max-width: 767px) 100vw, 569px",
+        "srcset": "https://cdn.prod.website-files.com/6462417e8db99f8baa069524/6760e26edb332cd60a2e3197_collab%20fund%20logo-p-500.png 500w, https://cdn.prod.website-files.com/6462417e8db99f8baa069524/6760e26edb332cd60a2e3197_collab%20fund%20logo-p-800.png 800w, https://cdn.prod.website-files.com/6462417e8db99f8baa069524/6760e26edb332cd60a2e3197_collab%20fund%20logo.png 1185w",
+        "alt": "",
+        "class": "image-3"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6462417e8db99f8baa069524/675c3ce8c09380bc618c537a_founders-fund-logo-vector-cropped.svg",
+        "loading": "eager",
+        "alt": "",
+        "class": "image-3"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6462417e8db99f8baa069524/6a26fb1a4b6f4294dfba07af_cnbc2.png",
+        "loading": "lazy",
+        "id": "w-node-a70c6983-14ce-fd61-5b0a-1d805962bb92-0d03563e",
+        "alt": "CNBC logo with white letters and a blue triangle on a dark blue background.",
+        "class": "blog-news-square"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6462417e8db99f8baa069524/6a3e960df4f80511859f9983_Mask%20group-1.png",
+        "loading": "lazy",
+        "id": "w-node-_54ebec95-cff8-26f5-22f8-66c628de2872-0d03563e",
+        "alt": "Bloomberg wordmark logo in bold black text on white background.",
+        "class": "blog-news-square"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6462417e8db99f8baa069524/681e42b6ff939db909f62f3c_Harvard%20Law%20Gal%20Wal224.png",
+        "loading": "lazy",
+        "id": "w-node-_5d08c1cc-b744-afcd-9fe4-5b75b1f1b053-0d03563e",
+        "alt": "Harvard Law School logo with the motto 'Veritas Lex et Iustitia' and text Forum on Corporate Governance.",
+        "class": "blog-news-square"
+      },
+      {
+        "loading": "lazy",
+        "alt": "The Wall Street Journal logo in black text on a white background.",
+        "src": "https://cdn.prod.website-files.com/6462417e8db99f8baa06952c/65b8103dff350a903cbbb8c9_wsj.png",
+        "sizes": "100vw",
+        "srcset": "https://cdn.prod.website-files.com/6462417e8db99f8baa06952c/65b8103dff350a903cbbb8c9_wsj-p-500.png 500w, https://cdn.prod.website-files.com/6462417e8db99f8baa06952c/65b8103dff350a903cbbb8c9_wsj-p-800.png 800w, https://cdn.prod.website-files.com/6462417e8db99f8baa06952c/65b8103dff350a903cbbb8c9_wsj-p-1080.png 1080w, https://cdn.prod.website-files.com/6462417e8db99f8baa06952c/65b8103dff350a903cbbb8c9_wsj.png 1755w",
+        "class": "full-image abs"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/6462417e8db99f8baa069524/646243a7917deda53e272fee_LTSE%20Desktop.svg",
+        "alt": "",
+        "class": "footer_logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/6462417e8db99f8baa069524/646243a7917deda53e272fef_LTSE%20Mobile.svg",
+        "alt": "",
+        "class": "footer_logo_mobile"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-130/5746ca88d7fb89ef.txt"
+  },
+  {
+    "id": "9ceb3be17099ea91",
+    "name": "Mediterranean Shipping Company (usa) Inc.",
+    "requested_url": "https://www.msc.com/usa",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "af51fd95c3ec805a",
+    "name": "North American Coal Royalty Company",
+    "requested_url": "https://www.nacoal.com/",
+    "status": 200,
+    "final_url": "https://www.nacoal.com/",
+    "text_chars": 3540,
+    "logo_candidates": [
+      {
+        "src": "/wp-content/themes/nac-coal/images/logo.svg",
+        "alt": "NACCO North American Coal"
+      },
+      {
+        "src": "/wp-content/themes/nac-coal/images/logo.svg",
+        "alt": "NACCO North American Coal"
+      },
+      {
+        "src": "/wp-content/themes/nac-coal/images/logo-nacco-mark.svg",
+        "alt": "NACCO",
+        "class": "mr-2"
+      },
+      {
+        "src": "/wp-content/themes/nac-coal/images/logo-nacco-mark.svg",
+        "alt": "NACCO",
+        "class": "mr-2"
+      },
+      {
+        "src": "/wp-content/themes/nac-coal/images/logo-fieldwrk.svg",
+        "alt": "FieldWrk"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-130/af51fd95c3ec805a.txt"
+  },
+  {
+    "id": "1e667064cb92ac10",
+    "name": "OneOncology LLC",
+    "requested_url": "https://www.oneoncology.com/",
+    "status": 200,
+    "final_url": "https://www.oneoncology.com/",
+    "text_chars": 2097,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-130/1e667064cb92ac10.txt"
+  },
+  {
+    "id": "c493d6a64c163163",
+    "name": "Orchard Therapeutics North America",
+    "requested_url": "https://www.orchard-tx.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "4906e22e608d3f39",
+    "name": "Policylink",
+    "requested_url": "https://policylink.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "bc67786e93cc183c",
+    "name": "Schaeffler Group USA Inc. (represented by Public Strategies Washington)",
+    "requested_url": "https://www.schaeffler.us/us/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "a049f1ff9e38d78d",
+    "name": "Qualtrics International Inc.",
+    "requested_url": "https://www.qualtrics.com/",
+    "status": 200,
+    "final_url": "https://www.qualtrics.com/",
+    "text_chars": 12569,
+    "logo_candidates": [
+      {
+        "src": "/sites/default/files/2025-12/samsara-logo-500x281.svg",
+        "alt": "Samsara"
+      },
+      {
+        "src": "/sites/default/files/2025-10/servicenow-logo-%281%29_2.svg",
+        "alt": "ServiceNow"
+      },
+      {
+        "loading": "lazy",
+        "width": "817",
+        "height": "657",
+        "src": "/sites/default/files/styles/standard_fallback/public/2026-09/security-logos.png?itok=Io1LBD94",
+        "alt": "Compliance certification logos for ISO, HITRUST CSF Certified, FedRAMP, and AICPA SOC."
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-130/a049f1ff9e38d78d.txt"
+  },
+  {
+    "id": "845c72f3e0a432fa",
+    "name": "Resolution Copper Mining LLC",
+    "requested_url": "https://www.riotinto.com/en/operations/us/resolution",
+    "status": 200,
+    "final_url": "https://www.riotinto.com/en/operations/us/resolution",
+    "text_chars": 12403,
+    "logo_candidates": [
+      {
+        "src": "https://cdn-rio.dataweavers.io/-/media/project/riotinto/shared/riologo.svg?rev=-1",
+        "alt": ""
+      },
+      {
+        "src": "https://cdn-rio.dataweavers.io/-/media/project/riotinto/shared/riologo.svg?rev=-1",
+        "alt": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-130/845c72f3e0a432fa.txt"
+  },
+  {
+    "id": "3417fad13b7ca3b1",
+    "name": "RWE Alliance Inc.",
+    "requested_url": "https://rwealliance.org/",
+    "status": 200,
+    "final_url": "https://rwealliance.org/",
+    "text_chars": 913,
+    "logo_candidates": [
+      {
+        "class": "regular-logo",
+        "src": "https://rwealliance.org/wp-content/uploads/2021/04/rwe-logo-2.svg",
+        "alt": "RWE Alliance",
+        "title": "RWE Alliance"
+      },
+      {
+        "width": "92",
+        "height": "110",
+        "src": "https://rwealliance.org/wp-content/uploads/2021/04/RWE-Main-Logo-v1-19-mobile.png",
+        "class": "frontpage-logo",
+        "alt": "",
+        "decoding": "async"
+      },
+      {
+        "class": "section-atf__logo",
+        "src": "https://rwealliance.org/wp-content/uploads/2021/05/RWEalliance-RGB_logo_logotype.p.png",
+        "alt": "",
+        "data-aos": "fade-up",
+        "data-aos-delay": "100",
+        "data-aos-duration": "500"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-130/3417fad13b7ca3b1.txt"
+  },
+  {
+    "id": "fc79d080e4e56b75",
+    "name": "SOO Line Railroad Company",
+    "requested_url": "https://www.cpkcr.com/",
+    "status": 200,
+    "final_url": "https://www.cpkcr.com/en",
+    "text_chars": 84,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-130/fc79d080e4e56b75.txt"
+  },
+  {
+    "id": "8bd1725370850e86",
+    "name": "Steady Platform, Inc.",
+    "requested_url": "https://www.steadyiq.com/",
+    "status": 200,
+    "final_url": "https://www.steadyiq.com/",
+    "text_chars": 8008,
+    "logo_candidates": [
+      {
+        "src": "https://cdn.prod.website-files.com/68d162f0ac2ab8ce4e6fab48/68d16e5a0b91f32992818347_Logo%20Navbar.svg",
+        "loading": "lazy",
+        "alt": "",
+        "class": "nav_logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/68d162f0ac2ab8ce4e6fab48/68d16e5a0b91f32992818347_Logo%20Navbar.svg",
+        "loading": "lazy",
+        "alt": "",
+        "class": "logo_image_transition"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/68d162f0ac2ab8ce4e6fab48/6a1984ecdebf5ef93c908957_Seal_of_Missouri.svg",
+        "loading": "lazy",
+        "alt": "",
+        "class": "logo_client"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/68d162f0ac2ab8ce4e6fab48/68e7e1135a1090f84e1f766d_header-gov-seal-2x.webp",
+        "loading": "lazy",
+        "alt": "",
+        "class": "logo_client"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/68d162f0ac2ab8ce4e6fab48/68d18ff8c6d2e25f4f454d50_Logo.svg",
+        "loading": "lazy",
+        "alt": "",
+        "class": "logo_background"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/68d162f0ac2ab8ce4e6fab48/68d1b0bfa2df05413a0b829e_76b403c5b9dcd9b524bac18d5690cf4c_Vector.svg",
+        "loading": "lazy",
+        "alt": "",
+        "class": "logo_background"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/68d162f0ac2ab8ce4e6fab48/68d1b1cc32045a39b3144c69_logo_white.svg",
+        "loading": "lazy",
+        "alt": ""
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/68d162f0ac2ab8ce4e6fab48/68d1b4b86927b6369b6f9d8f_logo_footer_large.svg",
+        "loading": "lazy",
+        "alt": "",
+        "class": "logo_footer_large"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-130/8bd1725370850e86.txt"
+  },
+  {
+    "id": "7372a77d267af580",
+    "name": "Talon Nickel (usa) LLC",
+    "requested_url": "https://talonnickel.com/",
+    "status": 200,
+    "final_url": "https://talonnickel.com/",
+    "text_chars": 81,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-130/7372a77d267af580.txt"
+  },
+  {
+    "id": "5cc52c66ff9fe0ab",
+    "name": "the Dawn Project",
+    "requested_url": "https://dawnproject.com/",
+    "status": 202,
+    "final_url": "https://dawnproject.com/",
+    "text_chars": 75,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-130/5cc52c66ff9fe0ab.txt"
+  },
+  {
+    "id": "55d223fd854421ef",
+    "name": "Avient Protective Materials LLC",
+    "requested_url": "https://www.dyneema.com/",
+    "status": 200,
+    "final_url": "https://www.dyneema.com/",
+    "text_chars": 4563,
+    "logo_candidates": [
+      {
+        "class": "header__logo",
+        "src": "/media/bbhj3nyg/dyneema-logo-full-colour.png?width=260",
+        "alt": "Dyneema Logo Full Colour",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/bbhj3nyg/dyneema-logo-full-colour.png",
+        "alt": "Dyneema Logo Full Colour"
+      },
+      {
+        "src": "/media/0inhtqqn/dyneema-logo-white-text-blue-diamond.png",
+        "class": "footer__logo-img",
+        "alt": "Model.Logo.AlternateText",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/hoxmkey1/x-logo.svg",
+        "alt": "",
+        "class": "footer__icon-img",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/ddaoeos3/avient-logo.svg",
+        "alt": "Avient logo",
+        "class": "footer__seclogo-img",
+        "loading": "lazy"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-130/55d223fd854421ef.txt"
+  },
+  {
+    "id": "34c0cd4214fad667",
+    "name": "Berliner Corcoran & Rowe",
+    "requested_url": "https://www.bcr.us/",
+    "status": 200,
+    "final_url": "https://www.bcr.us/",
+    "text_chars": 2563,
+    "logo_candidates": [
+      {
+        "style": "display: block; margin-left:auto;margin-right:auto;",
+        "alt": "BCR law firm Logo",
+        "src": "https://bcr.us/BCR-New-XXV.PNG",
+        "height": "128",
+        "width": "389"
+      },
+      {
+        "width": "134",
+        "height": "113",
+        "style": "width:100%;height:auto;max-width:134px;",
+        "src": "https://cms.chambers.com/Logo/4/1190/100629/0",
+        "alt": "Firm Logo"
+      },
+      {
+        "width": "134",
+        "height": "113",
+        "style": "width:100%;height:auto;max-width:134px;",
+        "src": "https://cms.chambers.com/Logo/4/1175/100629/0",
+        "alt": "Firm Logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-130/34c0cd4214fad667.txt"
+  },
+  {
+    "id": "f4246e778088e793",
+    "name": "Birdon America",
+    "requested_url": "https://birdongroup.com/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "aeedf2deb5db08c3",
+    "name": "BMW Of North America LLC",
+    "requested_url": "https://www.bmwusa.com/about/bmw-of-north-america.html",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "0418cf553d745d76",
+    "name": "Chartwell Strategy Group on behalf of EFC and MEFA",
+    "requested_url": "https://www.chartwellstrategy.com/",
+    "status": 200,
+    "final_url": "https://www.chartwellstrategy.com/",
+    "text_chars": 2002,
+    "logo_candidates": [
+      {
+        "src": "https://cdn.prod.website-files.com/6266557763b91785d9b19580/6266d14b737dfaed9a2a6584_chartwell-proposal-1b.png",
+        "width": "202",
+        "alt": "",
+        "class": "header-logo"
+      },
+      {
+        "alt": "Tyler Q. Houlton to Join Chartwell Strategy Group as Senior Vice President",
+        "src": "https://cdn.prod.website-files.com/6266557763b9177f0cb195a1/685ec767dfcec1e33f5153a6_chartwell_logo_full_color.jpg",
+        "style": "-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
+        "sizes": "(max-width: 479px) 100vw, (max-width: 767px) 48vw, (max-width: 991px) 356px, 462px",
+        "srcset": "https://cdn.prod.website-files.com/6266557763b9177f0cb195a1/685ec767dfcec1e33f5153a6_chartwell_logo_full_color-p-500.jpg 500w, https://cdn.prod.website-files.com/6266557763b9177f0cb195a1/685ec767dfcec1e33f5153a6_chartwell_logo_full_color-p-800.jpg 800w, https://cdn.prod.website-files.com/6266557763b9177f0cb195a1/685ec767dfcec1e33f5153a6_chartwell_logo_full_color-p-1080.jpg 1080w, https://cdn.prod.website-files.com/6266557763b9177f0cb195a1/685ec767dfcec1e33f5153a6_chartwell_logo_full_color-p-1600.jpg 1600w, https://cdn.prod.website-files.com/6266557763b9177f0cb195a1/685ec767dfcec1e33f5153a6_chartwell_logo_full_color-p-2000.jpg 2000w, https://cdn.prod.website-files.com/6266557763b9177f0cb195a1/685ec767dfcec1e33f5153a6_chartwell_logo_full_color.jpg 2384w",
+        "class": "blog-card-image"
+      },
+      {
+        "alt": " Chartwell Strategy Group recognized by Bloomberg as a \"Top Lobbying Firm\" for 6th Year",
+        "src": "https://cdn.prod.website-files.com/6266557763b9177f0cb195a1/685ec767dfcec1e33f5153a6_chartwell_logo_full_color.jpg",
+        "style": "-webkit-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-moz-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);-ms-transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0);transform:translate3d(0, 0, 0) scale3d(1, 1, 1) rotateX(0) rotateY(0) rotateZ(0) skew(0, 0)",
+        "sizes": "(max-width: 479px) 100vw, (max-width: 767px) 48vw, (max-width: 991px) 356px, 462px",
+        "srcset": "https://cdn.prod.website-files.com/6266557763b9177f0cb195a1/685ec767dfcec1e33f5153a6_chartwell_logo_full_color-p-500.jpg 500w, https://cdn.prod.website-files.com/6266557763b9177f0cb195a1/685ec767dfcec1e33f5153a6_chartwell_logo_full_color-p-800.jpg 800w, https://cdn.prod.website-files.com/6266557763b9177f0cb195a1/685ec767dfcec1e33f5153a6_chartwell_logo_full_color-p-1080.jpg 1080w, https://cdn.prod.website-files.com/6266557763b9177f0cb195a1/685ec767dfcec1e33f5153a6_chartwell_logo_full_color-p-1600.jpg 1600w, https://cdn.prod.website-files.com/6266557763b9177f0cb195a1/685ec767dfcec1e33f5153a6_chartwell_logo_full_color-p-2000.jpg 2000w, https://cdn.prod.website-files.com/6266557763b9177f0cb195a1/685ec767dfcec1e33f5153a6_chartwell_logo_full_color.jpg 2384w",
+        "class": "blog-card-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6266557763b91785d9b19580/6266d14b737dfaed9a2a6584_chartwell-proposal-1b.png",
+        "width": "211",
+        "id": "w-node-a62c0b1b-5f7f-fea2-f7f4-489571a9ed04-71a9ecf5",
+        "alt": "",
+        "class": "footer-logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-130/0418cf553d745d76.txt"
+  },
+  {
+    "id": "fb3147293adf76e5",
+    "name": "Engine Technology Forum (fka Diesel Technology Forum)",
+    "requested_url": "https://www.enginetechforum.org/",
+    "status": 200,
+    "final_url": "https://enginetechforum.org/",
+    "text_chars": 6707,
+    "logo_candidates": [
+      {
+        "src": "/assets/2888/2026_biobased_diesel_logo_small.jpg",
+        "alt": "The Ups and Downs of Our Time thumbnail"
+      },
+      {
+        "src": "/assets/2888/rr_logo_and_engines_power_logo_2s.jpg",
+        "alt": "Powering America\u2019s Progress for Generations: Rolls-Royce Celebrates 250 Years of Innovation thumbnail"
+      },
+      {
+        "src": "/assets/2888/chevron_member_logo.png",
+        "alt": "Renewable Energy Group",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/2888/clean-fuels-alliance-america-logo2.png",
+        "alt": "Clean Fuels Alliance America",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/2888/fpt-logo2.png",
+        "alt": "FPT Powertrain Technologies",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://assets.speakcdn.com/assets/2888/innospeclogosmall.jpg",
+        "alt": "Innospec Inc.",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/2888/logo_640x361_johnsonmatthey2.png",
+        "alt": "Johnson Matthey",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://assets.speakcdn.com/assets/2888/kubotalogo_tiny.png",
+        "alt": "Kubota Engine America",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://assets.speakcdn.com/assets/2888/rolls_royce_logo_2023_tiny_weight.png",
+        "alt": "Rolls-Royce Solutions America",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/2888/roush_logo.jpg",
+        "alt": "Roush Logo",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/2888/tenneco_logo_new_tiny.jpg",
+        "alt": "Tenneco",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/2888/tn_yanmar-logo-updated.png",
+        "alt": "Yanmar Logo",
+        "loading": "lazy"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-130/fb3147293adf76e5.txt"
+  },
+  {
+    "id": "3255d4e27e4c7714",
+    "name": "Kaizen Laboratories Inc.",
+    "requested_url": "https://www.kaizenlabs.co/",
+    "status": 200,
+    "final_url": "https://www.kaizenlabs.co/",
+    "text_chars": 476,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-130/3255d4e27e4c7714.txt"
+  },
+  {
+    "id": "2660dfe742c4d51e",
+    "name": "Koch Government Affairs, LLC FKA Koch Companies Public Sector, LLC",
+    "requested_url": "https://www.kochinc.com/",
+    "status": 200,
+    "final_url": "https://www.kochinc.com/",
+    "text_chars": 3602,
+    "logo_candidates": [
+      {
+        "src": "/assets/koch-logo-color.svg",
+        "alt": "Koch",
+        "width": "120",
+        "height": "20",
+        "class": "svg-light",
+        "fetchpriority": "high",
+        "loading": "eager"
+      },
+      {
+        "src": "/assets/koch-logo-white.svg",
+        "alt": "Koch",
+        "width": "120",
+        "height": "20",
+        "class": "svg-dark",
+        "fetchpriority": "high",
+        "loading": "eager"
+      },
+      {
+        "class": "site-footer__logo",
+        "src": "/assets/koch-logo-white.svg",
+        "alt": "Koch Logo",
+        "width": "260",
+        "height": "38"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-130/2660dfe742c4d51e.txt"
+  },
+  {
+    "id": "b21870de33efe1cc",
+    "name": "ONE GAS",
+    "requested_url": "https://www.onegas.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "b1725691a2d0870e",
+    "name": "Ornstein-schuler Investments, LLC",
+    "requested_url": "https://ornstein-schuler.com/",
+    "status": 200,
+    "final_url": "https://ornstein-schuler.com/",
+    "text_chars": 1943,
+    "logo_candidates": [
+      {
+        "src": "https://ornstein-schuler.com/wp-content/themes/ornsteinschuler/resources/images/logo.png",
+        "width": "308",
+        "height": "41",
+        "alt": "Ornstein-Schuler Investments"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-130/b1725691a2d0870e.txt"
+  },
+  {
+    "id": "426daedbb4995ad1",
+    "name": "Personalis",
+    "requested_url": "https://investors.personalis.com/",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "550bdc865ef4b2fb",
+    "name": "Shine Medical Technologies",
+    "requested_url": "https://www.shinefusion.com/nuclear-medicine/molybdenum-99",
+    "status": 200,
+    "final_url": "https://www.shinefusion.com/nuclear-medicine/molybdenum-99",
+    "text_chars": 6621,
+    "logo_candidates": [
+      {
+        "src": "https://cdn.prod.website-files.com/63bc8628e53c0011f41ce702/641c7f88f70044635a6e1024_SHINE%20Logo%202023.svg",
+        "loading": "lazy",
+        "alt": "SHINE logo in blue",
+        "class": "image-15"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/63bc8628e53c0011f41ce702/641c7f88f70044635a6e1024_SHINE%20Logo%202023.svg",
+        "loading": "lazy",
+        "alt": "SHINE logo in blue",
+        "class": "image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/63bc8628e53c0011f41ce702/641c7f88f70044635a6e1024_SHINE%20Logo%202023.svg",
+        "loading": "lazy",
+        "alt": "SHINE logo in blue",
+        "class": "image-2"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/63bc8628e53c0011f41ce702/64ed03a10fb216ac641b73bb_logo.svg",
+        "loading": "lazy",
+        "alt": "Twitter Logo",
+        "class": "facebook"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-130/550bdc865ef4b2fb.txt"
+  },
+  {
+    "id": "2df27abbf583298c",
+    "name": "SOO Green Hvdc Link",
+    "requested_url": "https://soogreen.com/",
+    "status": 200,
+    "final_url": "https://soogreen.com/",
+    "text_chars": 1956,
+    "logo_candidates": [
+      {
+        "src": "https://soogreen.com/wp-content/uploads/2020/06/SOOGreenLogo.png",
+        "alt": "SOO Green HVDC Link-"
+      },
+      {
+        "src": "https://soogreen.com/wp-content/uploads/2020/06/SOOGreenLogo.png",
+        "alt": "SOO Green HVDC Link-"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-130/2df27abbf583298c.txt"
+  },
+  {
+    "id": "f414be8fd9e71bf4",
+    "name": "Starr Insurance Holdings, Inc.",
+    "requested_url": "https://starrcompanies.com/",
+    "status": 200,
+    "final_url": "https://starrcompanies.com/",
+    "text_chars": 3586,
+    "logo_candidates": [
+      {
+        "src": "/-/media/Starr-Images/Header-and-Footer/Logo-1D.svg?la=en&hash=C0C11CFDDF948783BAFF12FCCF7A48A5",
+        "class": "sticky-nav__logo sticky-nav__logo--desktop",
+        "alt": ""
+      },
+      {
+        "src": "/-/media/Starr-Images/Header-and-Footer/Logo-1D.svg?la=en&hash=C0C11CFDDF948783BAFF12FCCF7A48A5",
+        "class": "sticky-nav__logo sticky-nav__logo--mobile-dark",
+        "alt": ""
+      },
+      {
+        "src": "/-/media/Starr-Images/Header-and-Footer/Logo-1D.svg?la=en&hash=C0C11CFDDF948783BAFF12FCCF7A48A5",
+        "class": "sticky-nav__logo sticky-nav__logo--mobile-light",
+        "alt": ""
+      },
+      {
+        "src": "/-/media/Starr-Images/Header-and-Footer/Starr-logo-footer.svg?la=en&hash=7F2D1AFAD68BBE9846CCC3C7ABD35D33",
+        "alt": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-130/f414be8fd9e71bf4.txt"
+  },
+  {
+    "id": "b38854082680958f",
+    "name": "Stellar Energy Global Infrastructure (formerly Known AS Stellar Energy)",
+    "requested_url": "https://seglobalinfrastructure.com/who-we-are/",
+    "status": 202,
+    "final_url": "https://seglobalinfrastructure.com/who-we-are/",
+    "text_chars": 152,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-130/b38854082680958f.txt"
+  },
+  {
+    "id": "3b83ce65c2ee82c5",
+    "name": "USS Constitution Museum (via Akin Gump)",
+    "requested_url": "https://ussconstitutionmuseum.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "5e57de7b3311d70a",
+    "name": "American Superconductor",
+    "requested_url": "https://ir.amsc.com/",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "e3a19e40eaeeeba2",
+    "name": "Asurion LLC",
+    "requested_url": "https://www.asurion.com/",
+    "status": 200,
+    "final_url": "https://www.asurion.com/",
+    "text_chars": 4753,
+    "logo_candidates": [
+      {
+        "alt": "logo",
+        "src": "//images.ctfassets.net/16nm6vz43ids/5hD2TYsNLE6zDUnftiMsH6/f7bd2aeadd771c6936170f381f87fb82/asurion-logo_svg.svg",
+        "class": "StyledImage-agh__sc-phpnjm-0 uQIUI"
+      },
+      {
+        "alt": "logo",
+        "src": "//images.ctfassets.net/16nm6vz43ids/5hD2TYsNLE6zDUnftiMsH6/f7bd2aeadd771c6936170f381f87fb82/asurion-logo_svg.svg",
+        "class": "StyledImage-agh__sc-phpnjm-0 uQIUI"
+      },
+      {
+        "src": "//images.ctfassets.net/16nm6vz43ids/5yMC95mjg6IQNySrJfkMLh/55c13a1266e1a87f74e843541976dcfe/logo-verizon.svg",
+        "alt": "",
+        "loading": "lazy",
+        "fetchpriority": "auto",
+        "decoding": "async",
+        "width": "211",
+        "height": "74",
+        "class": "ExternalAssetWrapper__StyledImg-sc-da41dcad-0 inner",
+        "data-testid": "simple-card-image",
+        "srcset": "\n                            //images.ctfassets.net/16nm6vz43ids/5yMC95mjg6IQNySrJfkMLh/55c13a1266e1a87f74e843541976dcfe/logo-verizon.svg?w=1440&h=506&q=65 1440w,\n                            //images.ctfassets.net/16nm6vz43ids/5yMC95mjg6IQNySrJfkMLh/55c13a1266e1a87f74e843541976dcfe/logo-verizon.svg?w=1280&h=449&q=65 1280w,\n                            //images.ctfassets.net/16nm6vz43ids/5yMC95mjg6IQNySrJfkMLh/55c13a1266e1a87f74e843541976dcfe/logo-verizon.svg?w=1024&h=360&q=50 1024w,\n                            //images.ctfassets.net/16nm6vz43ids/5yMC95mjg6IQNySrJfkMLh/55c13a1266e1a87f74e843541976dcfe/logo-verizon.svg?w=768&h=270&q=50 768w,\n                            //images.ctfassets.net/16nm6vz43ids/5yMC95mjg6IQNySrJfkMLh/55c13a1266e1a87f74e843541976dcfe/logo-verizon.svg?w=480&h=169&q=50 480w,\n                        ",
+        "sizes": "(max-width: 1440w) 506px,\n                                (max-width: 1279w) 449px,\n                                (max-width: 1023w) 360px,\n                                (max-width: 767w) 270px,\n                                (max-width: 479w) 169px,"
+      },
+      {
+        "src": "//images.ctfassets.net/16nm6vz43ids/1fhOzA0Ws5gCAAQV2oXr9u/c339418ca6c6672bc9098e332dc97390/logo-att.svg",
+        "alt": "",
+        "loading": "lazy",
+        "fetchpriority": "auto",
+        "decoding": "async",
+        "width": "212",
+        "height": "74",
+        "class": "ExternalAssetWrapper__StyledImg-sc-da41dcad-0 inner",
+        "data-testid": "simple-card-image",
+        "srcset": "\n                            //images.ctfassets.net/16nm6vz43ids/1fhOzA0Ws5gCAAQV2oXr9u/c339418ca6c6672bc9098e332dc97390/logo-att.svg?w=1440&h=503&q=65 1440w,\n                            //images.ctfassets.net/16nm6vz43ids/1fhOzA0Ws5gCAAQV2oXr9u/c339418ca6c6672bc9098e332dc97390/logo-att.svg?w=1280&h=447&q=65 1280w,\n                            //images.ctfassets.net/16nm6vz43ids/1fhOzA0Ws5gCAAQV2oXr9u/c339418ca6c6672bc9098e332dc97390/logo-att.svg?w=1024&h=358&q=50 1024w,\n                            //images.ctfassets.net/16nm6vz43ids/1fhOzA0Ws5gCAAQV2oXr9u/c339418ca6c6672bc9098e332dc97390/logo-att.svg?w=768&h=269&q=50 768w,\n                            //images.ctfassets.net/16nm6vz43ids/1fhOzA0Ws5gCAAQV2oXr9u/c339418ca6c6672bc9098e332dc97390/logo-att.svg?w=480&h=168&q=50 480w,\n                        ",
+        "sizes": "(max-width: 1440w) 503px,\n                                (max-width: 1279w) 447px,\n                                (max-width: 1023w) 358px,\n                                (max-width: 767w) 269px,\n                                (max-width: 479w) 168px,"
+      },
+      {
+        "src": "//images.ctfassets.net/16nm6vz43ids/6kCX2BpSvcsMXFo042sXZX/03bab2582060b88d3d91c39bca664db8/logo-amazon.svg",
+        "alt": "",
+        "loading": "lazy",
+        "fetchpriority": "auto",
+        "decoding": "async",
+        "width": "211",
+        "height": "74",
+        "class": "ExternalAssetWrapper__StyledImg-sc-da41dcad-0 inner",
+        "data-testid": "simple-card-image",
+        "srcset": "\n                            //images.ctfassets.net/16nm6vz43ids/6kCX2BpSvcsMXFo042sXZX/03bab2582060b88d3d91c39bca664db8/logo-amazon.svg?w=1440&h=506&q=65 1440w,\n                            //images.ctfassets.net/16nm6vz43ids/6kCX2BpSvcsMXFo042sXZX/03bab2582060b88d3d91c39bca664db8/logo-amazon.svg?w=1280&h=449&q=65 1280w,\n                            //images.ctfassets.net/16nm6vz43ids/6kCX2BpSvcsMXFo042sXZX/03bab2582060b88d3d91c39bca664db8/logo-amazon.svg?w=1024&h=360&q=50 1024w,\n                            //images.ctfassets.net/16nm6vz43ids/6kCX2BpSvcsMXFo042sXZX/03bab2582060b88d3d91c39bca664db8/logo-amazon.svg?w=768&h=270&q=50 768w,\n                            //images.ctfassets.net/16nm6vz43ids/6kCX2BpSvcsMXFo042sXZX/03bab2582060b88d3d91c39bca664db8/logo-amazon.svg?w=480&h=169&q=50 480w,\n                        ",
+        "sizes": "(max-width: 1440w) 506px,\n                                (max-width: 1279w) 449px,\n                                (max-width: 1023w) 360px,\n                                (max-width: 767w) 270px,\n                                (max-width: 479w) 169px,"
+      },
+      {
+        "src": "//images.ctfassets.net/16nm6vz43ids/4DZ7VpHu7Pc7LiZQcBWGLQ/65d2e93560c348b96f180f93f0c76f02/logo-cricket.svg",
+        "alt": "",
+        "loading": "lazy",
+        "fetchpriority": "auto",
+        "decoding": "async",
+        "width": "211",
+        "height": "74",
+        "class": "ExternalAssetWrapper__StyledImg-sc-da41dcad-0 inner",
+        "data-testid": "simple-card-image",
+        "srcset": "\n                            //images.ctfassets.net/16nm6vz43ids/4DZ7VpHu7Pc7LiZQcBWGLQ/65d2e93560c348b96f180f93f0c76f02/logo-cricket.svg?w=1440&h=506&q=65 1440w,\n                            //images.ctfassets.net/16nm6vz43ids/4DZ7VpHu7Pc7LiZQcBWGLQ/65d2e93560c348b96f180f93f0c76f02/logo-cricket.svg?w=1280&h=449&q=65 1280w,\n                            //images.ctfassets.net/16nm6vz43ids/4DZ7VpHu7Pc7LiZQcBWGLQ/65d2e93560c348b96f180f93f0c76f02/logo-cricket.svg?w=1024&h=360&q=50 1024w,\n                            //images.ctfassets.net/16nm6vz43ids/4DZ7VpHu7Pc7LiZQcBWGLQ/65d2e93560c348b96f180f93f0c76f02/logo-cricket.svg?w=768&h=270&q=50 768w,\n                            //images.ctfassets.net/16nm6vz43ids/4DZ7VpHu7Pc7LiZQcBWGLQ/65d2e93560c348b96f180f93f0c76f02/logo-cricket.svg?w=480&h=169&q=50 480w,\n                        ",
+        "sizes": "(max-width: 1440w) 506px,\n                                (max-width: 1279w) 449px,\n                                (max-width: 1023w) 360px,\n                                (max-width: 767w) 270px,\n                                (max-width: 479w) 169px,"
+      },
+      {
+        "src": "//images.ctfassets.net/16nm6vz43ids/4L47EjBjuzJo5RwXNgAhi9/25c89524334be942bc6f26a709473133/Frame_1.png?fm=webp&q=65",
+        "alt": "HP Logo",
+        "loading": "lazy",
+        "fetchpriority": "auto",
+        "decoding": "async",
+        "width": "422",
+        "height": "148",
+        "class": "ExternalAssetWrapper__StyledImg-sc-da41dcad-0 inner",
+        "data-testid": "simple-card-image"
+      },
+      {
+        "src": "//images.ctfassets.net/16nm6vz43ids/3aERBdm1kNppmisZ0swoWs/fa5124603ce508cdccb51e3d9dd40bf3/icon-asurion-logo.svg",
+        "alt": "Asurion Logo",
+        "loading": "lazy",
+        "fetchpriority": "auto",
+        "decoding": "async",
+        "width": "97",
+        "height": "24",
+        "class": "ExternalAssetWrapper__StyledImg-sc-da41dcad-0 inner",
+        "srcset": "\n                            //images.ctfassets.net/16nm6vz43ids/3aERBdm1kNppmisZ0swoWs/fa5124603ce508cdccb51e3d9dd40bf3/icon-asurion-logo.svg?w=1440&h=357&q=65 1440w,\n                            //images.ctfassets.net/16nm6vz43ids/3aERBdm1kNppmisZ0swoWs/fa5124603ce508cdccb51e3d9dd40bf3/icon-asurion-logo.svg?w=1280&h=317&q=65 1280w,\n                            //images.ctfassets.net/16nm6vz43ids/3aERBdm1kNppmisZ0swoWs/fa5124603ce508cdccb51e3d9dd40bf3/icon-asurion-logo.svg?w=1024&h=254&q=50 1024w,\n                            //images.ctfassets.net/16nm6vz43ids/3aERBdm1kNppmisZ0swoWs/fa5124603ce508cdccb51e3d9dd40bf3/icon-asurion-logo.svg?w=768&h=191&q=50 768w,\n                            //images.ctfassets.net/16nm6vz43ids/3aERBdm1kNppmisZ0swoWs/fa5124603ce508cdccb51e3d9dd40bf3/icon-asurion-logo.svg?w=480&h=119&q=50 480w,\n                        ",
+        "sizes": "(max-width: 1440w) 357px,\n                                (max-width: 1279w) 317px,\n                                (max-width: 1023w) 254px,\n                                (max-width: 767w) 191px,\n                                (max-width: 479w) 119px,"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-130/e3a19e40eaeeeba2.txt"
+  },
+  {
+    "id": "52a72ef0194c83c8",
+    "name": "Brain Injury Association Of America (fka Brain Injury Association)",
+    "requested_url": "https://biausa.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "526d438b022f0c6a",
+    "name": "Clean Economy Project",
+    "requested_url": "https://cleanecon.org/contact-us/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "30c14c2dc77a222e",
+    "name": "LMI Consulting, LLC",
+    "requested_url": "https://www.lmi.org/",
+    "status": 200,
+    "final_url": "https://www.lmisolutions.com/",
+    "text_chars": 7511,
+    "logo_candidates": [
+      {
+        "src": "https://cdn.prod.website-files.com/68e69f6ca3c53bee9a3bd997/68ed3b0efb8925a645822cd8_LMI%20Logo.svg",
+        "loading": "lazy",
+        "alt": "LMI",
+        "class": "u-w-100"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/68e69f6ca3c53bee9a3bd997/68f1322c1866c099c804f1dc_f9180819ae27d8d238ceffe6ddcaa077_RAPTR-logo_all-white.avif",
+        "loading": "lazy",
+        "data-wf--tabs-logo-image--variant": "raptr",
+        "alt": "RAPTR\u00ae",
+        "sizes": "(max-width: 8740px) 100vw, 8740px",
+        "srcset": "https://cdn.prod.website-files.com/68e69f6ca3c53bee9a3bd997/68f1322c1866c099c804f1dc_f9180819ae27d8d238ceffe6ddcaa077_RAPTR-logo_all-white-p-500.avif 500w, https://cdn.prod.website-files.com/68e69f6ca3c53bee9a3bd997/68f1322c1866c099c804f1dc_f9180819ae27d8d238ceffe6ddcaa077_RAPTR-logo_all-white.avif 640w",
+        "class": "fullwidth-tabs_image w-variant-4cdb21e3-589b-e207-ffcd-c2d44efc6a44"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/68e69f6ca3c53bee9a3bd997/69b0806b5aa1b88d864937b7_LIGER-logo_All-White.webp",
+        "loading": "lazy",
+        "data-wf--tabs-logo-image--variant": "raptr",
+        "alt": "",
+        "sizes": "(max-width: 8740px) 100vw, 8740px",
+        "srcset": "https://cdn.prod.website-files.com/68e69f6ca3c53bee9a3bd997/69b0806b5aa1b88d864937b7_LIGER-logo_All-White-p-500.webp 500w, https://cdn.prod.website-files.com/68e69f6ca3c53bee9a3bd997/69b0806b5aa1b88d864937b7_LIGER-logo_All-White-p-800.webp 800w, https://cdn.prod.website-files.com/68e69f6ca3c53bee9a3bd997/69b0806b5aa1b88d864937b7_LIGER-logo_All-White.webp 887w",
+        "class": "fullwidth-tabs_image w-variant-4cdb21e3-589b-e207-ffcd-c2d44efc6a44"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/68e69f6ca3c53bee9a3bd997/698b442cc0ea4457b851f4b6_SPECTR-logo-1c-white-900px.png",
+        "loading": "lazy",
+        "data-wf--tabs-logo-image--variant": "raptr",
+        "alt": "",
+        "sizes": "(max-width: 8740px) 100vw, 8740px",
+        "srcset": "https://cdn.prod.website-files.com/68e69f6ca3c53bee9a3bd997/698b442cc0ea4457b851f4b6_SPECTR-logo-1c-white-900px-p-500.png 500w, https://cdn.prod.website-files.com/68e69f6ca3c53bee9a3bd997/698b442cc0ea4457b851f4b6_SPECTR-logo-1c-white-900px-p-800.png 800w, https://cdn.prod.website-files.com/68e69f6ca3c53bee9a3bd997/698b442cc0ea4457b851f4b6_SPECTR-logo-1c-white-900px-p-1080.png 1080w, https://cdn.prod.website-files.com/68e69f6ca3c53bee9a3bd997/698b442cc0ea4457b851f4b6_SPECTR-logo-1c-white-900px-p-1600.png 1600w, https://cdn.prod.website-files.com/68e69f6ca3c53bee9a3bd997/698b442cc0ea4457b851f4b6_SPECTR-logo-1c-white-900px-p-2000.png 2000w, https://cdn.prod.website-files.com/68e69f6ca3c53bee9a3bd997/698b442cc0ea4457b851f4b6_SPECTR-logo-1c-white-900px-p-2600.png 2600w, https://cdn.prod.website-files.com/68e69f6ca3c53bee9a3bd997/698b442cc0ea4457b851f4b6_SPECTR-logo-1c-white-900px-p-3200.png 3200w, https://cdn.prod.website-files.com/68e69f6ca3c53bee9a3bd997/698b442cc0ea4457b851f4b6_SPECTR-logo-1c-white-900px.png 8740w",
+        "class": "fullwidth-tabs_image w-variant-4cdb21e3-589b-e207-ffcd-c2d44efc6a44"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/68e69f6ca3c53bee9a3bd997/699f6667988172c464b2e422_SHEPRD-logo-1c-white-2000px.png",
+        "loading": "lazy",
+        "data-wf--tabs-logo-image--variant": "raptr",
+        "alt": "",
+        "sizes": "(max-width: 8740px) 100vw, 8740px",
+        "srcset": "https://cdn.prod.website-files.com/68e69f6ca3c53bee9a3bd997/699f6667988172c464b2e422_SHEPRD-logo-1c-white-2000px-p-500.png 500w, https://cdn.prod.website-files.com/68e69f6ca3c53bee9a3bd997/699f6667988172c464b2e422_SHEPRD-logo-1c-white-2000px-p-800.png 800w, https://cdn.prod.website-files.com/68e69f6ca3c53bee9a3bd997/699f6667988172c464b2e422_SHEPRD-logo-1c-white-2000px-p-1080.png 1080w, https://cdn.prod.website-files.com/68e69f6ca3c53bee9a3bd997/699f6667988172c464b2e422_SHEPRD-logo-1c-white-2000px-p-1600.png 1600w, https://cdn.prod.website-files.com/68e69f6ca3c53bee9a3bd997/699f6667988172c464b2e422_SHEPRD-logo-1c-white-2000px-p-2000.png 2000w, https://cdn.prod.website-files.com/68e69f6ca3c53bee9a3bd997/699f6667988172c464b2e422_SHEPRD-logo-1c-white-2000px-p-2600.png 2600w, https://cdn.prod.website-files.com/68e69f6ca3c53bee9a3bd997/699f6667988172c464b2e422_SHEPRD-logo-1c-white-2000px-p-3200.png 3200w, https://cdn.prod.website-files.com/68e69f6ca3c53bee9a3bd997/699f6667988172c464b2e422_SHEPRD-logo-1c-white-2000px.png 19046w",
+        "class": "fullwidth-tabs_image w-variant-4cdb21e3-589b-e207-ffcd-c2d44efc6a44"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/68e69f6ca3c53bee9a3bd997/68ed3b0efb8925a645822cd8_LMI%20Logo.svg",
+        "loading": "lazy",
+        "alt": "LMI",
+        "class": "u-w-100"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-130/30c14c2dc77a222e.txt"
+  },
+  {
+    "id": "0b352c10faa252af",
+    "name": "Maxim Healthcare Services, LLC",
+    "requested_url": "https://www.maximhealthcare.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "57e8c15ef199e6d0",
+    "name": "Missy Edwards Strategies on behalf of Knight-Swift Transportation",
+    "requested_url": "https://mmestrategies.com/",
+    "status": 200,
+    "final_url": "https://mmestrategies.com/",
+    "text_chars": 1816,
+    "logo_candidates": [
+      {
+        "class": " preload-me",
+        "src": "https://mmestrategies.com/wp-content/uploads/2016/04/LogoConceptsV3d.png",
+        "srcset": "https://mmestrategies.com/wp-content/uploads/2016/04/LogoConceptsV3d.png 309w, https://mmestrategies.com/wp-content/uploads/2016/04/weblogo-regular-v2.png 467w",
+        "width": "309",
+        "height": "69",
+        "sizes": "309px",
+        "alt": "Missy Edwards Strategies"
+      },
+      {
+        "class": "mobile-logo preload-me",
+        "src": "https://mmestrategies.com/wp-content/uploads/2016/04/LogoConceptsV3c.png",
+        "srcset": "https://mmestrategies.com/wp-content/uploads/2016/04/LogoConceptsV3c.png 309w, https://mmestrategies.com/wp-content/uploads/2016/04/LogoConceptsV3b.png 300w",
+        "width": "309",
+        "height": "80",
+        "sizes": "309px",
+        "alt": "Missy Edwards Strategies"
+      },
+      {
+        "class": " preload-me",
+        "src": "https://mmestrategies.com/wp-content/uploads/2016/04/LogoConceptsV3b.png",
+        "srcset": "https://mmestrategies.com/wp-content/uploads/2016/04/LogoConceptsV3b.png 300w, https://mmestrategies.com/wp-content/uploads/2016/04/LogoConceptsV3c.png 309w",
+        "width": "300",
+        "height": "77",
+        "sizes": "300px",
+        "alt": "Missy Edwards Strategies"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-130/57e8c15ef199e6d0.txt"
+  },
+  {
+    "id": "567599fbe9645e99",
+    "name": "Offshore Marine Services Association",
+    "requested_url": "https://offshoremarine.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "9ae6457eaedf9579",
+    "name": "Tracy Hills Holding Company LLC",
+    "requested_url": "https://www.tracyhillslife.com/legal/",
+    "status": 200,
+    "final_url": "https://tracyhillslife.com/legal/",
+    "text_chars": 15727,
+    "logo_candidates": [
+      {
+        "src": "https://tracyhillslife.com/wp-content/uploads/2025/06/logo-black-tracy-hills.svg?x70395",
+        "alt": "Tracy Hills",
+        "width": "145",
+        "height": "36"
+      },
+      {
+        "class": "footer-logo",
+        "src": "https://tracyhillslife.com/wp-content/uploads/2025/06/logo-white-tracy-hills.svg?x70395",
+        "alt": "Tracy Hills",
+        "width": "0",
+        "height": "0"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-130/9ae6457eaedf9579.txt"
+  },
+  {
+    "id": "a346872ea0504b40",
+    "name": "City of San Antonio (via Akin Gump)",
+    "requested_url": "https://www.sanantonio.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "fc57f15ec9124451",
+    "name": "CloudFactors LLC",
+    "requested_url": "https://www.cloudfactors.com/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "7d76dd3bcb709762",
+    "name": "Enfragen Management Services",
+    "requested_url": "https://enfragen.com/",
+    "status": 200,
+    "final_url": "https://enfragen.com/",
+    "text_chars": 21992,
+    "logo_candidates": [
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "src": "https://enfragen.com/wp-content/uploads/sites/5/2024/05/Logo_EnfraGen_Vertical_News_2-400x250.png",
+        "alt": "EnfraGen Promotes Marco Fuentes to President, Highlighting the Firm\u2019s Continued Growth in Grid Stability and Renewable Power in Latin America",
+        "class": "",
+        "srcset": "https://enfragen.com/wp-content/uploads/sites/5/2024/05/Logo_EnfraGen_Vertical_News_2.png 479w, https://enfragen.com/wp-content/uploads/sites/5/2024/05/Logo_EnfraGen_Vertical_News_2-400x250.png 480w ",
+        "sizes": "(max-width:479px) 479px, 100vw ",
+        "width": "400",
+        "height": "250"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "460",
+        "height": "164",
+        "src": "https://enfragen.com/wp-content/uploads/sites/5/2024/01/enfragen-logo.png",
+        "alt": "",
+        "title": "enfragen-logo",
+        "srcset": "https://enfragen.com/wp-content/uploads/sites/5/2024/01/enfragen-logo.png 460w, https://enfragen.com/wp-content/uploads/sites/5/2024/01/enfragen-logo-300x107.png 300w",
+        "sizes": "(max-width: 460px) 100vw, 460px",
+        "class": "wp-image-3247"
+      },
+      {
+        "src": "https://enfragen.com/wp-content/plugins/cookie-law-info/legacy/public/images/logo-cookieyes.svg",
+        "alt": "CookieYes Logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-130/7d76dd3bcb709762.txt"
+  },
+  {
+    "id": "df4094aceab8546f",
+    "name": "IKE Smart City, LLC",
+    "requested_url": "https://ikesmartcity.com/",
+    "status": 200,
+    "final_url": "https://www.ikesmartcity.com/",
+    "text_chars": 18294,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-130/df4094aceab8546f.txt"
+  },
+  {
+    "id": "acaeb18379655313",
+    "name": "Kasich Company",
+    "requested_url": "https://kasichcompany.com/",
+    "status": 200,
+    "final_url": "https://kasichcompany.com/",
+    "text_chars": 1068,
+    "logo_candidates": [
+      {
+        "elementtiming": "nbf-header-logo-desktop",
+        "src": "//images.squarespace-cdn.com/content/v1/66d718f8c936d4250c358901/ad8f5951-f285-497a-9b6f-b69a0e688d74/KasichCompany_logo_web.png?format=1500w",
+        "alt": "Kasich Company",
+        "style": "display:block",
+        "fetchpriority": "high",
+        "loading": "eager",
+        "decoding": "async",
+        "data-loader": "raw"
+      },
+      {
+        "elementtiming": "nbf-header-logo-desktop",
+        "src": "//images.squarespace-cdn.com/content/v1/66d718f8c936d4250c358901/ad8f5951-f285-497a-9b6f-b69a0e688d74/KasichCompany_logo_web.png?format=1500w",
+        "alt": "Kasich Company",
+        "style": "display:block",
+        "fetchpriority": "high",
+        "loading": "eager",
+        "decoding": "async",
+        "data-loader": "raw"
+      },
+      {
+        "data-stretch": "true",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/66d718f8c936d4250c358901/5eaa1f11-7c9c-4f28-8356-a34501a3f0c8/KasichCompany_logo_icon_hero.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/66d718f8c936d4250c358901/5eaa1f11-7c9c-4f28-8356-a34501a3f0c8/KasichCompany_logo_icon_hero.png",
+        "data-image-dimensions": "3496x3425",
+        "data-image-focal-point": "0.05310547592796766,0.504031501968873",
+        "data-sqsp-image-block-image": null,
+        "alt": "",
+        "data-licensed-asset-preview": "false",
+        "data-load": "false",
+        "elementtiming": "system-image-block",
+        "src": "https://images.squarespace-cdn.com/content/v1/66d718f8c936d4250c358901/5eaa1f11-7c9c-4f28-8356-a34501a3f0c8/KasichCompany_logo_icon_hero.png",
+        "width": "3496",
+        "height": "3425",
+        "sizes": "auto, 100vw",
+        "style": "display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);",
+        "srcset": "https://images.squarespace-cdn.com/content/v1/66d718f8c936d4250c358901/5eaa1f11-7c9c-4f28-8356-a34501a3f0c8/KasichCompany_logo_icon_hero.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/66d718f8c936d4250c358901/5eaa1f11-7c9c-4f28-8356-a34501a3f0c8/KasichCompany_logo_icon_hero.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/66d718f8c936d4250c358901/5eaa1f11-7c9c-4f28-8356-a34501a3f0c8/KasichCompany_logo_icon_hero.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/66d718f8c936d4250c358901/5eaa1f11-7c9c-4f28-8356-a34501a3f0c8/KasichCompany_logo_icon_hero.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/66d718f8c936d4250c358901/5eaa1f11-7c9c-4f28-8356-a34501a3f0c8/KasichCompany_logo_icon_hero.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/66d718f8c936d4250c358901/5eaa1f11-7c9c-4f28-8356-a34501a3f0c8/KasichCompany_logo_icon_hero.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/66d718f8c936d4250c358901/5eaa1f11-7c9c-4f28-8356-a34501a3f0c8/KasichCompany_logo_icon_hero.png?format=2500w 2500w",
+        "decoding": "auto",
+        "data-loader": "sqs",
+        "data-image-component": "1.0.1"
+      },
+      {
+        "data-stretch": "false",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/66d718f8c936d4250c358901/5eaa1f11-7c9c-4f28-8356-a34501a3f0c8/KasichCompany_logo_icon_hero.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/66d718f8c936d4250c358901/5eaa1f11-7c9c-4f28-8356-a34501a3f0c8/KasichCompany_logo_icon_hero.png",
+        "data-image-dimensions": "3496x3425",
+        "data-image-focal-point": "0.5,0.5",
+        "data-sqsp-image-block-image": null,
+        "alt": "",
+        "data-licensed-asset-preview": "false",
+        "data-load": "false",
+        "elementtiming": "system-image-block",
+        "src": "https://images.squarespace-cdn.com/content/v1/66d718f8c936d4250c358901/5eaa1f11-7c9c-4f28-8356-a34501a3f0c8/KasichCompany_logo_icon_hero.png",
+        "width": "3496",
+        "height": "3425",
+        "sizes": "auto, (max-width: 640px) 100vw, (max-width: 767px) 25.00vw, 12.50vw",
+        "style": "display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);",
+        "srcset": "https://images.squarespace-cdn.com/content/v1/66d718f8c936d4250c358901/5eaa1f11-7c9c-4f28-8356-a34501a3f0c8/KasichCompany_logo_icon_hero.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/66d718f8c936d4250c358901/5eaa1f11-7c9c-4f28-8356-a34501a3f0c8/KasichCompany_logo_icon_hero.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/66d718f8c936d4250c358901/5eaa1f11-7c9c-4f28-8356-a34501a3f0c8/KasichCompany_logo_icon_hero.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/66d718f8c936d4250c358901/5eaa1f11-7c9c-4f28-8356-a34501a3f0c8/KasichCompany_logo_icon_hero.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/66d718f8c936d4250c358901/5eaa1f11-7c9c-4f28-8356-a34501a3f0c8/KasichCompany_logo_icon_hero.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/66d718f8c936d4250c358901/5eaa1f11-7c9c-4f28-8356-a34501a3f0c8/KasichCompany_logo_icon_hero.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/66d718f8c936d4250c358901/5eaa1f11-7c9c-4f28-8356-a34501a3f0c8/KasichCompany_logo_icon_hero.png?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs",
+        "data-image-component": "1.0.1"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-130/acaeb18379655313.txt"
+  },
+  {
+    "id": "2d25dec28aa3a0a7",
+    "name": "Kyle House Group, LLC",
+    "requested_url": "https://www.kylehousegroup.com/",
+    "status": 200,
+    "final_url": "https://www.kylehousegroup.com/",
+    "text_chars": 3316,
+    "logo_candidates": [
+      {
+        "src": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1784220481852-DPRBDG0FYVR0UD947VAD/logo-acet.webp",
+        "alt": "logo-acet.webp"
+      },
+      {
+        "class": "thumb-image",
+        "elementtiming": "system-gallery-block-slider",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1784220481852-DPRBDG0FYVR0UD947VAD/logo-acet.webp",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1784220481852-DPRBDG0FYVR0UD947VAD/logo-acet.webp",
+        "data-image-dimensions": "841x222",
+        "data-image-focal-point": "0.5,0.5",
+        "alt": "logo-acet.webp",
+        "data-load": "false",
+        "data-image-id": "6a590b41434c6a53bd83d5cb",
+        "data-type": "image"
+      },
+      {
+        "src": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1784220826958-OYPIF3GK27NXYKMN4PBU/Coefficient_Logo_Green.png",
+        "alt": "Coefficient_Logo_Green.png"
+      },
+      {
+        "class": "thumb-image",
+        "elementtiming": "system-gallery-block-slider",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1784220826958-OYPIF3GK27NXYKMN4PBU/Coefficient_Logo_Green.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1784220826958-OYPIF3GK27NXYKMN4PBU/Coefficient_Logo_Green.png",
+        "data-image-dimensions": "1280x494",
+        "data-image-focal-point": "0.5,0.5",
+        "alt": "Coefficient_Logo_Green.png",
+        "data-load": "false",
+        "data-image-id": "6a590c9ac046356b641a691b",
+        "data-type": "image"
+      },
+      {
+        "src": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1784221330667-O2TNW16MJN9LTER92S60/concern-worldwide-logo-png_seeklogo-241266.png",
+        "alt": "concern-worldwide-logo-png_seeklogo-241266.png"
+      },
+      {
+        "class": "thumb-image",
+        "elementtiming": "system-gallery-block-slider",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1784221330667-O2TNW16MJN9LTER92S60/concern-worldwide-logo-png_seeklogo-241266.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1784221330667-O2TNW16MJN9LTER92S60/concern-worldwide-logo-png_seeklogo-241266.png",
+        "data-image-dimensions": "600x600",
+        "data-image-focal-point": "0.5,0.5",
+        "alt": "concern-worldwide-logo-png_seeklogo-241266.png",
+        "data-load": "false",
+        "data-image-id": "6a590e92cecce3346008465c",
+        "data-type": "image"
+      },
+      {
+        "src": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1784220825275-TKW76DSFFABXJD7VV7G8/Cummins-Logo-1976-present.png",
+        "alt": "Cummins-Logo-1976-present.png"
+      },
+      {
+        "class": "thumb-image",
+        "elementtiming": "system-gallery-block-slider",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1784220825275-TKW76DSFFABXJD7VV7G8/Cummins-Logo-1976-present.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1784220825275-TKW76DSFFABXJD7VV7G8/Cummins-Logo-1976-present.png",
+        "data-image-dimensions": "3840x2160",
+        "data-image-focal-point": "0.5,0.5",
+        "alt": "Cummins-Logo-1976-present.png",
+        "data-load": "false",
+        "data-image-id": "6a590c994b27de2f42d60963",
+        "data-type": "image"
+      },
+      {
+        "src": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1705531279420-Z8AZLWRF5ND14NN6XZYF/DAC%2BLogo_1.%2BDAC%2BOriginal%2B%2811%29.png",
+        "alt": "DAC+Logo_1.+DAC+Original+(11).png"
+      },
+      {
+        "class": "thumb-image",
+        "elementtiming": "system-gallery-block-slider",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1705531279420-Z8AZLWRF5ND14NN6XZYF/DAC%2BLogo_1.%2BDAC%2BOriginal%2B%2811%29.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1705531279420-Z8AZLWRF5ND14NN6XZYF/DAC%2BLogo_1.%2BDAC%2BOriginal%2B%2811%29.png",
+        "data-image-dimensions": "1937x1070",
+        "data-image-focal-point": "0.4013605442176871,0.0",
+        "alt": "DAC+Logo_1.+DAC+Original+(11).png",
+        "data-load": "false",
+        "data-image-id": "65a8578fea04bc279e6afa4d",
+        "data-type": "image"
+      },
+      {
+        "src": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1784220827373-G8FOSJDHUP61QZ72WY81/GHTC-main-logo.png",
+        "alt": "GHTC-main-logo.png"
+      },
+      {
+        "class": "thumb-image",
+        "elementtiming": "system-gallery-block-slider",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1784220827373-G8FOSJDHUP61QZ72WY81/GHTC-main-logo.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1784220827373-G8FOSJDHUP61QZ72WY81/GHTC-main-logo.png",
+        "data-image-dimensions": "887x302",
+        "data-image-focal-point": "0.5,0.5",
+        "alt": "GHTC-main-logo.png",
+        "data-load": "false",
+        "data-image-id": "6a590c9b4b27de2f42d60972",
+        "data-type": "image"
+      },
+      {
+        "src": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1784220824241-QWZLQGYXSDJ1C7SFH9UQ/GHIC-Logo.png",
+        "alt": "GHIC-Logo.png"
+      },
+      {
+        "class": "thumb-image",
+        "elementtiming": "system-gallery-block-slider",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1784220824241-QWZLQGYXSDJ1C7SFH9UQ/GHIC-Logo.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1784220824241-QWZLQGYXSDJ1C7SFH9UQ/GHIC-Logo.png",
+        "data-image-dimensions": "1696x946",
+        "data-image-focal-point": "0.5,0.5",
+        "alt": "GHIC-Logo.png",
+        "data-load": "false",
+        "data-image-id": "6a590c9832daf12d5b9317a3",
+        "data-type": "image"
+      },
+      {
+        "src": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1784220825134-OB7461DD7UV3QIMURNZ0/givewell-logo-png_seeklogo-573728.png",
+        "alt": "givewell-logo-png_seeklogo-573728.png"
+      },
+      {
+        "class": "thumb-image",
+        "elementtiming": "system-gallery-block-slider",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1784220825134-OB7461DD7UV3QIMURNZ0/givewell-logo-png_seeklogo-573728.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1784220825134-OB7461DD7UV3QIMURNZ0/givewell-logo-png_seeklogo-573728.png",
+        "data-image-dimensions": "600x600",
+        "data-image-focal-point": "0.5,0.5",
+        "alt": "givewell-logo-png_seeklogo-573728.png",
+        "data-load": "false",
+        "data-image-id": "6a590c990e6e1c6f07e3956e",
+        "data-type": "image"
+      },
+      {
+        "src": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1705531355807-NTRML4REI82WRCXS50K8/mana_nutrition_logo.png",
+        "alt": "mana_nutrition_logo.png"
+      },
+      {
+        "class": "thumb-image",
+        "elementtiming": "system-gallery-block-slider",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1705531355807-NTRML4REI82WRCXS50K8/mana_nutrition_logo.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1705531355807-NTRML4REI82WRCXS50K8/mana_nutrition_logo.png",
+        "data-image-dimensions": "360x102",
+        "data-image-focal-point": "0.5,0.5",
+        "alt": "mana_nutrition_logo.png",
+        "data-load": "false",
+        "data-image-id": "65a857db69536f55332eb56f",
+        "data-type": "image"
+      },
+      {
+        "src": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1437331170204-5CKT1GVOEYQWO3PD5UA4/logo-peace.jpg",
+        "alt": "logo-peace.jpg"
+      },
+      {
+        "class": "thumb-image",
+        "elementtiming": "system-gallery-block-slider",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1437331170204-5CKT1GVOEYQWO3PD5UA4/logo-peace.jpg",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1437331170204-5CKT1GVOEYQWO3PD5UA4/logo-peace.jpg",
+        "data-image-dimensions": "320x200",
+        "data-image-focal-point": "0.5,0.5",
+        "alt": "logo-peace.jpg",
+        "data-load": "false",
+        "data-image-id": "55abeee2e4b03f43f2a6e142",
+        "data-type": "image"
+      },
+      {
+        "src": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1784220823164-B5P43DN2T21PMRO7R96Q/walmart-logo-png_seeklogo-151324.png",
+        "alt": "walmart-logo-png_seeklogo-151324.png"
+      },
+      {
+        "class": "thumb-image",
+        "elementtiming": "system-gallery-block-slider",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1784220823164-B5P43DN2T21PMRO7R96Q/walmart-logo-png_seeklogo-151324.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1784220823164-B5P43DN2T21PMRO7R96Q/walmart-logo-png_seeklogo-151324.png",
+        "data-image-dimensions": "320x320",
+        "data-image-focal-point": "0.5,0.5",
+        "alt": "walmart-logo-png_seeklogo-151324.png",
+        "data-load": "false",
+        "data-image-id": "6a590c9798eebc358d4d0c19",
+        "data-type": "image"
+      },
+      {
+        "src": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1784220823207-AB1F8DVBFJPDNFOBNCQF/WorldBank_Logo_optimized-17.png",
+        "alt": "WorldBank_Logo_optimized-17.png"
+      },
+      {
+        "class": "thumb-image",
+        "elementtiming": "system-gallery-block-slider",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1784220823207-AB1F8DVBFJPDNFOBNCQF/WorldBank_Logo_optimized-17.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1784220823207-AB1F8DVBFJPDNFOBNCQF/WorldBank_Logo_optimized-17.png",
+        "data-image-dimensions": "1863x844",
+        "data-image-focal-point": "0.5,0.5",
+        "alt": "WorldBank_Logo_optimized-17.png",
+        "data-load": "false",
+        "data-image-id": "6a590c97bf04790a3261ef09",
+        "data-type": "image"
+      },
+      {
+        "src": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1584720475393-CUCVPR2A3FRMS2G7A3BH/The2030Collaborative_RGB_Logo1_1x.jpg",
+        "alt": "The2030Collaborative_RGB_Logo1_1x.jpg"
+      },
+      {
+        "class": "thumb-image",
+        "elementtiming": "system-gallery-block-slider",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1584720475393-CUCVPR2A3FRMS2G7A3BH/The2030Collaborative_RGB_Logo1_1x.jpg",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1584720475393-CUCVPR2A3FRMS2G7A3BH/The2030Collaborative_RGB_Logo1_1x.jpg",
+        "data-image-dimensions": "600x553",
+        "data-image-focal-point": "0.5,0.5",
+        "alt": "The2030Collaborative_RGB_Logo1_1x.jpg",
+        "data-load": "false",
+        "data-image-id": "5e74ea5b69ee6400427be978",
+        "data-type": "image"
+      },
+      {
+        "src": "https://images.squarespace-cdn.com/content/v1/55a529c7e4b0994cd906ae79/1607544203923-54FB7VLWR2Y3SJ4EMS46/LinkedIn-Logo-02.jpg",
+        "alt": " https://www.linkedin.com/company/kyle-house-group "
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-130/2d25dec28aa3a0a7.txt"
+  },
+  {
+    "id": "8554c364c1216310",
+    "name": "Method Financial",
+    "requested_url": "https://methodfi.com/",
+    "status": 200,
+    "final_url": "https://methodfi.com/",
+    "text_chars": 12090,
+    "logo_candidates": [
+      {
+        "src": "https://framerusercontent.com/assets/TboN4zNWyVNUDofxwmLOyo16ho.svg",
+        "alt": "Robinhood Logo",
+        "style": "display:block;width:auto;height:auto;max-width:100%;max-height:100%;object-fit:contain;aspect-ratio:auto",
+        "draggable": "false"
+      },
+      {
+        "src": "https://framerusercontent.com/assets/Jg3rIuPwD5rE5JdEjXLXBrYnrq0.svg",
+        "alt": "Upstart Logo",
+        "style": "display:block;width:auto;height:auto;max-width:100%;max-height:100%;object-fit:contain;aspect-ratio:auto",
+        "draggable": "false"
+      },
+      {
+        "src": "https://framerusercontent.com/assets/WBMJbEoDbJY4Fztb0oe6juKtg6k.svg",
+        "alt": "Bilt Logo",
+        "style": "display:block;width:auto;height:auto;max-width:100%;max-height:100%;object-fit:contain;aspect-ratio:auto",
+        "draggable": "false"
+      },
+      {
+        "src": "https://framerusercontent.com/assets/xfgapumdFTCFkdW9y9DBVSa2wQs.svg",
+        "alt": "SoFi Logo",
+        "style": "display:block;width:auto;height:auto;max-width:100%;max-height:100%;object-fit:contain;aspect-ratio:auto",
+        "draggable": "false"
+      },
+      {
+        "src": "https://framerusercontent.com/assets/rG7NN7rqNRrctdXtUN0lAK642ug.svg",
+        "alt": "Penfed Logo",
+        "style": "display:block;width:auto;height:auto;max-width:100%;max-height:100%;object-fit:contain;aspect-ratio:auto",
+        "draggable": "false"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-130/8554c364c1216310.txt"
+  },
+  {
+    "id": "d951fd2c3c6bcbed",
+    "name": "Spearmint Renewable Development Company",
+    "requested_url": "https://www.spearmintenergy.com/",
+    "status": 200,
+    "final_url": "https://www.spearmintenergy.com/",
+    "text_chars": 7424,
+    "logo_candidates": [
+      {
+        "draggable": "false",
+        "loading": "lazy",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/68264e5487751aad86583531/682b46ed2697219559b64380_spearmint-energy-logo%20White.svg",
+        "class": "main-nav-logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/68264e5487751aad86583531/682b46ed2697219559b64380_spearmint-energy-logo%20White.svg",
+        "alt": "",
+        "class": "main-nav-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/68264e5487751aad86583531/682b46ed2697219559b64380_spearmint-energy-logo%20White.svg",
+        "loading": "lazy",
+        "style": "opacity:0",
+        "data-w-id": "86e4426d-69d2-28bc-3628-36c67b0e7ad9",
+        "alt": "",
+        "class": "image-11 home"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a3e94bcb18ac277ea04394f_BusinessWire_Logo.png",
+        "loading": "lazy",
+        "alt": "Business Wire",
+        "sizes": "100vw",
+        "srcset": "https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a3e94bcb18ac277ea04394f_BusinessWire_Logo-p-500.png 500w, https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a3e94bcb18ac277ea04394f_BusinessWire_Logo.png 600w",
+        "class": "image-14"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a74f5d612edddeda9388f2e_ipe-real-assets-logo-vector.png",
+        "loading": "lazy",
+        "alt": "IPE Real Assets",
+        "class": "image-14"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a3e94bcb18ac277ea04394f_BusinessWire_Logo.png",
+        "loading": "lazy",
+        "alt": "Businesswire Logo",
+        "sizes": "100vw",
+        "srcset": "https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a3e94bcb18ac277ea04394f_BusinessWire_Logo-p-500.png 500w, https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a3e94bcb18ac277ea04394f_BusinessWire_Logo.png 600w",
+        "class": "image-14"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a1ee87426283c26e0a6a620_Business-Wire-Logo-Small-Navy.png",
+        "loading": "lazy",
+        "alt": "Businesswire Logo",
+        "sizes": "100vw",
+        "srcset": "https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a1ee87426283c26e0a6a620_Business-Wire-Logo-Small-Navy-p-500.png 500w, https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a1ee87426283c26e0a6a620_Business-Wire-Logo-Small-Navy-p-800.png 800w, https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a1ee87426283c26e0a6a620_Business-Wire-Logo-Small-Navy-p-1080.png 1080w, https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a1ee87426283c26e0a6a620_Business-Wire-Logo-Small-Navy-p-1600.png 1600w, https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a1ee87426283c26e0a6a620_Business-Wire-Logo-Small-Navy-p-2000.png 2000w, https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a1ee87426283c26e0a6a620_Business-Wire-Logo-Small-Navy-p-2600.png 2600w, https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a1ee87426283c26e0a6a620_Business-Wire-Logo-Small-Navy-p-3200.png 3200w, https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a1ee87426283c26e0a6a620_Business-Wire-Logo-Small-Navy.png 7625w",
+        "class": "image-14"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a749c4666afd321e126cd0d_ESS-News-Logo_Powered-by-pv.png",
+        "loading": "lazy",
+        "alt": "ESS news",
+        "class": "image-14"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a749bc24c3a5811d8427734_logo-en-25.webp",
+        "loading": "lazy",
+        "alt": "Renewable Energy Magazine ",
+        "sizes": "100vw",
+        "srcset": "https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a749bc24c3a5811d8427734_logo-en-25-p-500.webp 500w, https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a749bc24c3a5811d8427734_logo-en-25.webp 530w",
+        "class": "image-14"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a74f6e8af166e338f9a2915_ESN_New.png",
+        "loading": "lazy",
+        "alt": "Energy Storage News",
+        "sizes": "100vw",
+        "srcset": "https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a74f6e8af166e338f9a2915_ESN_New-p-500.png 500w, https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a74f6e8af166e338f9a2915_ESN_New-p-800.png 800w, https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a74f6e8af166e338f9a2915_ESN_New-p-1080.png 1080w, https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a74f6e8af166e338f9a2915_ESN_New-p-1600.png 1600w, https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a74f6e8af166e338f9a2915_ESN_New-p-2000.png 2000w, https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a74f6e8af166e338f9a2915_ESN_New-p-2600.png 2600w, https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a74f6e8af166e338f9a2915_ESN_New-p-3200.png 3200w, https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a74f6e8af166e338f9a2915_ESN_New.png 13368w",
+        "class": "image-14 logos"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a3e94bcb18ac277ea04394f_BusinessWire_Logo.png",
+        "loading": "lazy",
+        "alt": "Business Wire",
+        "sizes": "100vw",
+        "srcset": "https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a3e94bcb18ac277ea04394f_BusinessWire_Logo-p-500.png 500w, https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a3e94bcb18ac277ea04394f_BusinessWire_Logo.png 600w",
+        "class": "image-14 logos"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a74f5d612edddeda9388f2e_ipe-real-assets-logo-vector.png",
+        "loading": "lazy",
+        "alt": "IPE Real Assets",
+        "class": "image-14 logos"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a3e94bcb18ac277ea04394f_BusinessWire_Logo.png",
+        "loading": "lazy",
+        "alt": "Businesswire Logo",
+        "sizes": "100vw",
+        "srcset": "https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a3e94bcb18ac277ea04394f_BusinessWire_Logo-p-500.png 500w, https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a3e94bcb18ac277ea04394f_BusinessWire_Logo.png 600w",
+        "class": "image-14 logos"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a7a2b01f524d66f8e4c75db_enerdata.png",
+        "loading": "lazy",
+        "alt": "Enerdata",
+        "class": "image-14 logos"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a1ee87426283c26e0a6a620_Business-Wire-Logo-Small-Navy.png",
+        "loading": "lazy",
+        "alt": "Businesswire Logo",
+        "sizes": "100vw",
+        "srcset": "https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a1ee87426283c26e0a6a620_Business-Wire-Logo-Small-Navy-p-500.png 500w, https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a1ee87426283c26e0a6a620_Business-Wire-Logo-Small-Navy-p-800.png 800w, https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a1ee87426283c26e0a6a620_Business-Wire-Logo-Small-Navy-p-1080.png 1080w, https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a1ee87426283c26e0a6a620_Business-Wire-Logo-Small-Navy-p-1600.png 1600w, https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a1ee87426283c26e0a6a620_Business-Wire-Logo-Small-Navy-p-2000.png 2000w, https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a1ee87426283c26e0a6a620_Business-Wire-Logo-Small-Navy-p-2600.png 2600w, https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a1ee87426283c26e0a6a620_Business-Wire-Logo-Small-Navy-p-3200.png 3200w, https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a1ee87426283c26e0a6a620_Business-Wire-Logo-Small-Navy.png 7625w",
+        "class": "image-14 logos"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a749c4666afd321e126cd0d_ESS-News-Logo_Powered-by-pv.png",
+        "loading": "lazy",
+        "alt": "ESS news",
+        "class": "image-14 logos"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a749bc24c3a5811d8427734_logo-en-25.webp",
+        "loading": "lazy",
+        "alt": "Renewable Energy Magazine ",
+        "sizes": "100vw",
+        "srcset": "https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a749bc24c3a5811d8427734_logo-en-25-p-500.webp 500w, https://cdn.prod.website-files.com/68264e5487751aad865835d5/6a749bc24c3a5811d8427734_logo-en-25.webp 530w",
+        "class": "image-14 logos"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/68264e5487751aad86583531/682b46ed1856a08dda99c9f4_spearmint-energy-logo%20Color.svg",
+        "loading": "lazy",
+        "alt": ""
+      },
+      {
+        "draggable": "false",
+        "loading": "lazy",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/68264e5487751aad86583531/682b46ed2697219559b64380_spearmint-energy-logo%20White.svg",
+        "class": "main-nav-logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/68264e5487751aad86583531/682b46ed2697219559b64380_spearmint-energy-logo%20White.svg",
+        "alt": "",
+        "class": "main-nav-logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-130/d951fd2c3c6bcbed.txt"
+  },
+  {
+    "id": "52c9be387c255c5c",
+    "name": "Salt River Project",
+    "requested_url": "https://www.srpnet.com/about/about-srp",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "cbe623df88b42f3e",
+    "name": "Athenahealth",
+    "requested_url": "https://www.athenahealth.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "b1a379a74dceec89",
+    "name": "Indigo Global Development (via Bridgeway Advocacy)",
+    "requested_url": "https://indigoglobalusa.com/",
+    "status": 200,
+    "final_url": "https://indigoglobalusa.com/",
+    "text_chars": 3807,
+    "logo_candidates": [
+      {
+        "width": "1024",
+        "height": "342",
+        "src": "https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2021/01/indigo-global-development-LOGO.png?fit=1024%2C342&ssl=1",
+        "class": "attachment-large size-large wp-image-92",
+        "alt": "Indigo Global Development Logo",
+        "srcset": "https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2021/01/indigo-global-development-LOGO.png?w=2000&ssl=1 2000w, https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2021/01/indigo-global-development-LOGO.png?resize=300%2C100&ssl=1 300w, https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2021/01/indigo-global-development-LOGO.png?resize=1024%2C342&ssl=1 1024w, https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2021/01/indigo-global-development-LOGO.png?resize=768%2C256&ssl=1 768w, https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2021/01/indigo-global-development-LOGO.png?resize=1536%2C512&ssl=1 1536w, https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2021/01/indigo-global-development-LOGO.png?resize=1200%2C400&ssl=1 1200w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px",
+        "data-attachment-id": "92",
+        "data-permalink": "https://indigoglobalusa.com/?attachment_id=92",
+        "data-orig-file": "https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2021/01/indigo-global-development-LOGO.png?fit=2000%2C667&ssl=1",
+        "data-orig-size": "2000,667",
+        "data-comments-opened": "1",
+        "data-image-meta": "{\"aperture\":\"0\",\"credit\":\"\",\"camera\":\"\",\"caption\":\"\",\"created_timestamp\":\"0\",\"copyright\":\"\",\"focal_length\":\"0\",\"iso\":\"0\",\"shutter_speed\":\"0\",\"title\":\"\",\"orientation\":\"0\"}",
+        "data-image-title": "indigo global development LOGO",
+        "data-image-description": "<p>Indigo Global Development Logo</p>\n",
+        "data-image-caption": "",
+        "data-large-file": "https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2021/01/indigo-global-development-LOGO.png?fit=1024%2C342&ssl=1"
+      },
+      {
+        "decoding": "async",
+        "width": "500",
+        "height": "500",
+        "src": "https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2022/02/indigo-transparency.png?fit=500%2C500&ssl=1",
+        "class": "attachment-large size-large wp-image-1488",
+        "alt": "indigo - transparency logo",
+        "srcset": "https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2022/02/indigo-transparency.png?w=500&ssl=1 500w, https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2022/02/indigo-transparency.png?resize=300%2C300&ssl=1 300w, https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2022/02/indigo-transparency.png?resize=150%2C150&ssl=1 150w, https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2022/02/indigo-transparency.png?resize=400%2C400&ssl=1 400w, https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2022/02/indigo-transparency.png?resize=200%2C200&ssl=1 200w, https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2022/02/indigo-transparency.png?resize=480%2C480&ssl=1 480w",
+        "sizes": "(max-width: 500px) 100vw, 500px",
+        "data-attachment-id": "1488",
+        "data-permalink": "https://indigoglobalusa.com/home/indigo-transparency/",
+        "data-orig-file": "https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2022/02/indigo-transparency.png?fit=500%2C500&ssl=1",
+        "data-orig-size": "500,500",
+        "data-comments-opened": "1",
+        "data-image-meta": "{\"aperture\":\"0\",\"credit\":\"\",\"camera\":\"\",\"caption\":\"\",\"created_timestamp\":\"0\",\"copyright\":\"\",\"focal_length\":\"0\",\"iso\":\"0\",\"shutter_speed\":\"0\",\"title\":\"\",\"orientation\":\"0\"}",
+        "data-image-title": "indigo &#8211; transparency",
+        "data-image-description": "",
+        "data-image-caption": "",
+        "data-large-file": "https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2022/02/indigo-transparency.png?fit=500%2C500&ssl=1"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "500",
+        "height": "500",
+        "src": "https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2022/02/indigo-hands-on.png?fit=500%2C500&ssl=1",
+        "class": "attachment-large size-large wp-image-1489",
+        "alt": "indigo - hands on logo",
+        "srcset": "https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2022/02/indigo-hands-on.png?w=500&ssl=1 500w, https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2022/02/indigo-hands-on.png?resize=300%2C300&ssl=1 300w, https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2022/02/indigo-hands-on.png?resize=150%2C150&ssl=1 150w, https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2022/02/indigo-hands-on.png?resize=400%2C400&ssl=1 400w, https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2022/02/indigo-hands-on.png?resize=200%2C200&ssl=1 200w, https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2022/02/indigo-hands-on.png?resize=480%2C480&ssl=1 480w",
+        "sizes": "(max-width: 500px) 100vw, 500px",
+        "data-attachment-id": "1489",
+        "data-permalink": "https://indigoglobalusa.com/home/indigo-hands-on/",
+        "data-orig-file": "https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2022/02/indigo-hands-on.png?fit=500%2C500&ssl=1",
+        "data-orig-size": "500,500",
+        "data-comments-opened": "1",
+        "data-image-meta": "{\"aperture\":\"0\",\"credit\":\"\",\"camera\":\"\",\"caption\":\"\",\"created_timestamp\":\"0\",\"copyright\":\"\",\"focal_length\":\"0\",\"iso\":\"0\",\"shutter_speed\":\"0\",\"title\":\"\",\"orientation\":\"0\"}",
+        "data-image-title": "indigo &#8211; hands on",
+        "data-image-description": "",
+        "data-image-caption": "",
+        "data-large-file": "https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2022/02/indigo-hands-on.png?fit=500%2C500&ssl=1"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "500",
+        "height": "500",
+        "src": "https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2022/02/indigo-anti-corruption.png?fit=500%2C500&ssl=1",
+        "class": "attachment-large size-large wp-image-1491",
+        "alt": "indigo - anti corruption policys logo",
+        "srcset": "https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2022/02/indigo-anti-corruption.png?w=500&ssl=1 500w, https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2022/02/indigo-anti-corruption.png?resize=300%2C300&ssl=1 300w, https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2022/02/indigo-anti-corruption.png?resize=150%2C150&ssl=1 150w, https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2022/02/indigo-anti-corruption.png?resize=400%2C400&ssl=1 400w, https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2022/02/indigo-anti-corruption.png?resize=200%2C200&ssl=1 200w, https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2022/02/indigo-anti-corruption.png?resize=480%2C480&ssl=1 480w",
+        "sizes": "(max-width: 500px) 100vw, 500px",
+        "data-attachment-id": "1491",
+        "data-permalink": "https://indigoglobalusa.com/home/indigo-anti-corruption/",
+        "data-orig-file": "https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2022/02/indigo-anti-corruption.png?fit=500%2C500&ssl=1",
+        "data-orig-size": "500,500",
+        "data-comments-opened": "1",
+        "data-image-meta": "{\"aperture\":\"0\",\"credit\":\"\",\"camera\":\"\",\"caption\":\"\",\"created_timestamp\":\"0\",\"copyright\":\"\",\"focal_length\":\"0\",\"iso\":\"0\",\"shutter_speed\":\"0\",\"title\":\"\",\"orientation\":\"0\"}",
+        "data-image-title": "indigo &#8211; anti corruption",
+        "data-image-description": "",
+        "data-image-caption": "",
+        "data-large-file": "https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2022/02/indigo-anti-corruption.png?fit=500%2C500&ssl=1"
+      },
+      {
+        "width": "1000",
+        "height": "266",
+        "src": "https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2021/02/indigo-global-development-logo-white.png?fit=1000%2C266&ssl=1",
+        "class": "attachment-full size-full wp-image-209",
+        "alt": "indigo global development logo white",
+        "srcset": "https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2021/02/indigo-global-development-logo-white.png?w=1000&ssl=1 1000w, https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2021/02/indigo-global-development-logo-white.png?resize=300%2C80&ssl=1 300w, https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2021/02/indigo-global-development-logo-white.png?resize=768%2C204&ssl=1 768w",
+        "sizes": "(max-width: 1000px) 100vw, 1000px",
+        "data-attachment-id": "209",
+        "data-permalink": "https://indigoglobalusa.com/indigo-global-development-logo-white/",
+        "data-orig-file": "https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2021/02/indigo-global-development-logo-white.png?fit=1000%2C266&ssl=1",
+        "data-orig-size": "1000,266",
+        "data-comments-opened": "1",
+        "data-image-meta": "{\"aperture\":\"0\",\"credit\":\"\",\"camera\":\"\",\"caption\":\"\",\"created_timestamp\":\"0\",\"copyright\":\"\",\"focal_length\":\"0\",\"iso\":\"0\",\"shutter_speed\":\"0\",\"title\":\"\",\"orientation\":\"0\"}",
+        "data-image-title": "indigo global development logo white",
+        "data-image-description": "<p>indigo global development logo white</p>\n",
+        "data-image-caption": "",
+        "data-large-file": "https://i0.wp.com/indigoglobalusa.com/wp-content/uploads/2021/02/indigo-global-development-logo-white.png?fit=1000%2C266&ssl=1"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-130/b1a379a74dceec89.txt"
+  }
+]

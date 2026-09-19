@@ -1,0 +1,2779 @@
+{
+  "689fc334b6c0acb5": {
+    "name": "1 Inc.",
+    "description": "Describes itself as a software company in its federal lobbying registration.",
+    "kind": "Unknown",
+    "ownership": "Unknown",
+    "website": "",
+    "sources": [
+      {
+        "label": "LDA client 70340",
+        "url": "https://lda.gov/api/v1/clients/70340/",
+        "claim": "Self-reported business description and disclosed name."
+      }
+    ],
+    "notes": "The filing lists Delaware. Its website and corporate identity have not been established. Do not confuse this name with other businesses named One or 1.",
+    "featured": false,
+    "as_of": "2026-09-04",
+    "checked_at": "2026-09-04",
+    "status": "unresolved",
+    "legal_form": ""
+  },
+  "b39442bdc274fb46": {
+    "name": "#10 Enterprises LLC",
+    "description": "A Texas-listed lobbying client. Its business has not yet been reliably identified.",
+    "kind": "Unknown",
+    "ownership": "Unknown",
+    "website": "",
+    "sources": [
+      {
+        "label": "LDA registration",
+        "url": "https://lda.gov/api/v1/filings/bb5cec2e-77e8-4dd8-babf-e68f42b8bc69/",
+        "claim": "Disclosed name and Texas location; no general business description."
+      }
+    ],
+    "notes": "The LLC suffix is a legal form, not evidence of who owns this business. Its reported issue areas do not establish its industry.",
+    "featured": false,
+    "as_of": "2026-09-04",
+    "checked_at": "2026-09-04",
+    "status": "unresolved",
+    "legal_form": "LLC (disclosed name)"
+  },
+  "8af369e769021e01": {
+    "name": "1,000 Days",
+    "description": "Advocates for maternal and child nutrition, from pregnancy through a child’s second birthday.",
+    "kind": "Nonprofit / initiative",
+    "ownership": "Not applicable",
+    "website": "https://thousanddays.org/",
+    "sources": [
+      {
+        "label": "1,000 Days — About",
+        "url": "https://thousanddays.org/about/",
+        "claim": "Mission; became an initiative of FHI Solutions in 2020."
+      },
+      {
+        "label": "1,000 Days — organizational statement",
+        "url": "https://thousanddays.org/updates/category/uncategorized/page/7/",
+        "claim": "Describes its nonprofit role."
+      }
+    ],
+    "notes": "Since 2020, an initiative of FHI Solutions, a subsidiary of FHI 360. That structure should not be assumed for its earlier lobbying filings.",
+    "featured": false,
+    "as_of": "2026-09-04",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": ""
+  },
+  "458c30bd9c4bc0ba": {
+    "name": "Anthropic",
+    "description": "AI research and product company behind Claude.",
+    "kind": "Business",
+    "ownership": "Privately held",
+    "website": "https://www.anthropic.com/",
+    "sources": [
+      {
+        "label": "Anthropic — Company",
+        "url": "https://www.anthropic.com/company",
+        "claim": "AI research, Claude and public benefit corporation legal form."
+      },
+      {
+        "label": "Anthropic — proposed IPO",
+        "url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+        "claim": "June 1, 2026 announcement describes a proposed, not completed, IPO."
+      }
+    ],
+    "notes": "Ownership is dated June 1, 2026: the company had submitted confidential papers for a proposed IPO. This is not confirmation of a completed listing. Public benefit corporation does not mean publicly traded.",
+    "featured": true,
+    "as_of": "2026-06-01",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "Public benefit corporation"
+  },
+  "84ea8b08d35574cc": {
+    "name": "OpenAI",
+    "description": "AI research and product organization behind ChatGPT.",
+    "kind": "Business / nonprofit group",
+    "ownership": "Nonprofit-controlled business",
+    "website": "https://openai.com/",
+    "sources": [
+      {
+        "label": "OpenAI — Our structure",
+        "url": "https://openai.com/our-structure/",
+        "claim": "OpenAI Foundation controls OpenAI Group PBC under the October 2025 structure."
+      }
+    ],
+    "notes": "The disclosed name OpenAI refers to a group with both nonprofit and for-profit entities. This profile does not establish which entity signed every historical filing.",
+    "featured": true,
+    "as_of": "2025-10-28",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "Group: nonprofit foundation and public benefit corporation"
+  },
+  "55562347f437d658": {
+    "name": "Apple",
+    "description": "Technology company making products including iPhone, iPad and Mac.",
+    "kind": "Business",
+    "ownership": "Publicly traded",
+    "website": "https://www.apple.com/",
+    "sources": [
+      {
+        "label": "Apple — Newsroom",
+        "url": "https://www.apple.com/newsroom/topics/mac/",
+        "claim": "Products and business."
+      },
+      {
+        "label": "Apple — Investor relations",
+        "url": "https://investor.apple.com/investor-relations/stock-price/default.aspx",
+        "claim": "NASDAQ: AAPL."
+      }
+    ],
+    "notes": "NASDAQ: AAPL.",
+    "featured": true,
+    "as_of": "2026-09-04",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": ""
+  },
+  "bd3d6bea83d8ab47": {
+    "name": "Microsoft",
+    "description": "Technology company providing software, cloud services and AI products.",
+    "kind": "Business",
+    "ownership": "Publicly traded",
+    "website": "https://www.microsoft.com/",
+    "sources": [
+      {
+        "label": "Microsoft — 2026 annual report",
+        "url": "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/msft-20260630.htm",
+        "claim": "Business description."
+      },
+      {
+        "label": "Microsoft — Investor FAQ",
+        "url": "https://www.microsoft.com/en-us/investor/faq",
+        "claim": "NASDAQ: MSFT."
+      }
+    ],
+    "notes": "NASDAQ: MSFT.",
+    "featured": true,
+    "as_of": "2026-09-04",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": ""
+  },
+  "aabb2501084cfbce": {
+    "name": "Google LLC",
+    "description": "Provides search, advertising, YouTube, Android and cloud services.",
+    "kind": "Business",
+    "ownership": "Subsidiary of public company",
+    "website": "https://about.google/",
+    "sources": [
+      {
+        "label": "Alphabet — Business segments",
+        "url": "https://abc.xyz/investor/faqs-and-general-information/default.aspx",
+        "claim": "Google products and services."
+      },
+      {
+        "label": "Alphabet — Subsidiaries, 2025",
+        "url": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000018/googexhibit2101q42025.htm",
+        "claim": "Google LLC listed as an Alphabet subsidiary."
+      },
+      {
+        "label": "Alphabet — Corporate structure",
+        "url": "https://abc.xyz/home/default.aspx",
+        "claim": "Alphabet is the publicly traded parent."
+      }
+    ],
+    "notes": "Parent: Alphabet. Alphabet shares trade as GOOG and GOOGL; Google LLC itself is not the listed parent. Earlier Google Inc. entries remain separate pending historical identity review.",
+    "featured": true,
+    "as_of": "2025-12-31",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "LLC"
+  },
+  "ab82914a3ff47362": {
+    "name": "Meta Platforms",
+    "description": "Technology company behind Facebook, Instagram, Messenger and WhatsApp.",
+    "kind": "Business",
+    "ownership": "Publicly traded",
+    "website": "https://about.meta.com/",
+    "sources": [
+      {
+        "label": "Meta — Investor resources",
+        "url": "https://investor.atmeta.com/resources/default.aspx",
+        "claim": "Company and NASDAQ: META."
+      },
+      {
+        "label": "Meta — Ticker change",
+        "url": "https://investor.atmeta.com/investor-news/press-release-details/2022/Meta-Platforms-Inc.-to-Change-Ticker-Symbol-to-META-on-June-9/default.aspx",
+        "claim": "Products, Facebook rename and June 2022 ticker change."
+      }
+    ],
+    "notes": "NASDAQ: META. Facebook rebranded as Meta in 2021. Other disclosed subsidiary and former-name entries remain separate.",
+    "featured": true,
+    "as_of": "2026-09-04",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": ""
+  },
+  "0890f456684a70f1": {
+    "name": "NVIDIA",
+    "description": "Computing company supplying platforms for AI and accelerated computing.",
+    "kind": "Business",
+    "ownership": "Publicly traded",
+    "website": "https://www.nvidia.com/",
+    "sources": [
+      {
+        "label": "NVIDIA — Company overview",
+        "url": "https://investor.nvidia.com/home/default.aspx",
+        "claim": "AI and computing business."
+      },
+      {
+        "label": "NVIDIA — Investor FAQ",
+        "url": "https://investor.nvidia.com/investor-resources/faqs/",
+        "claim": "NASDAQ: NVDA."
+      }
+    ],
+    "notes": "NASDAQ: NVDA.",
+    "featured": true,
+    "as_of": "2026-09-04",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": ""
+  },
+  "da610f5ca74010e7": {
+    "name": "Tesla",
+    "description": "Makes electric vehicles, batteries and solar energy products.",
+    "kind": "Business",
+    "ownership": "Publicly traded",
+    "website": "https://www.tesla.com/",
+    "sources": [
+      {
+        "label": "Tesla — About",
+        "url": "https://www.tesla.com/about",
+        "claim": "Vehicles and energy products."
+      },
+      {
+        "label": "Tesla — Investor FAQ",
+        "url": "https://ir.tesla.com/node/16",
+        "claim": "NASDAQ: TSLA."
+      }
+    ],
+    "notes": "NASDAQ: TSLA.",
+    "featured": true,
+    "as_of": "2026-09-04",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": ""
+  },
+  "abe909efd45418d3": {
+    "name": "Walmart",
+    "description": "Retailer operating stores and online shopping services.",
+    "kind": "Business",
+    "ownership": "Publicly traded",
+    "website": "https://corporate.walmart.com/",
+    "sources": [
+      {
+        "label": "Walmart — About",
+        "url": "https://corporate.walmart.com/about",
+        "claim": "Retail business."
+      },
+      {
+        "label": "Walmart — FY2026 results",
+        "url": "https://corporate.walmart.com/content/dam/corporate/documents/newsroom/2026/02/19/walmart-releases-q4-fy26-earnings/q4-fy26-earnings-release.pdf",
+        "claim": "NASDAQ: WMT in February 2026."
+      }
+    ],
+    "notes": "NASDAQ: WMT. Exchange labels are dated; older sources may show NYSE.",
+    "featured": true,
+    "as_of": "2026-02-19",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": ""
+  },
+  "f386ad2f0221bb21": {
+    "name": "Boeing",
+    "description": "Develops and manufactures commercial aircraft, defense products and space systems.",
+    "kind": "Business",
+    "ownership": "Publicly traded",
+    "website": "https://www.boeing.com/",
+    "sources": [
+      {
+        "label": "Boeing — Company",
+        "url": "https://www.boeing.com/",
+        "claim": "Aerospace and defense business."
+      },
+      {
+        "label": "Boeing — Investors",
+        "url": "https://investors.boeing.com/investors/overview/default.aspx",
+        "claim": "NYSE: BA."
+      }
+    ],
+    "notes": "NYSE: BA.",
+    "featured": true,
+    "as_of": "2026-09-04",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": ""
+  },
+  "a227ffbe1d3158fb": {
+    "name": "AARP",
+    "description": "Membership and advocacy organization serving people aged 50 and older and their families.",
+    "kind": "Nonprofit / initiative",
+    "ownership": "Not applicable",
+    "website": "https://www.aarp.org/",
+    "sources": [
+      {
+        "label": "AARP — About",
+        "url": "https://www.aarp.org/about-aarp/",
+        "claim": "Nonprofit, nonpartisan organization; mission and advocacy."
+      }
+    ],
+    "notes": "AARP and AARP Foundation are distinct organizations. This profile is for the disclosed AARP names.",
+    "featured": true,
+    "as_of": "2026-09-04",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": ""
+  },
+  "c30d7de51e1e4d3d": {
+    "name": "Cargill",
+    "description": "Sources, trades, processes and transports agricultural commodities and food ingredients.",
+    "kind": "Business",
+    "ownership": "Privately held",
+    "website": "https://www.cargill.com/",
+    "sources": [
+      {
+        "label": "Cargill — Company overview",
+        "url": "https://www.cargill.com/about/cargill-at-a-glance",
+        "claim": "Food, agriculture and trading businesses."
+      },
+      {
+        "label": "UN Global Compact — Cargill",
+        "url": "https://unglobalcompact.org/what-is-gc/participants/120621-Cargill",
+        "claim": "Participant profile lists ownership as privately held."
+      },
+      {
+        "label": "Cargill — About",
+        "url": "https://www.cargill.com/about/about",
+        "claim": "Describes itself as a family company."
+      }
+    ],
+    "notes": "Family company. No ownership percentages are asserted here.",
+    "featured": true,
+    "as_of": "2026-09-04",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": ""
+  },
+  "f0dc3270b3b58b08": {
+    "name": "City of Seattle",
+    "description": "Municipal government of Seattle, Washington.",
+    "kind": "Government",
+    "ownership": "Government body",
+    "website": "https://www.seattle.gov/",
+    "sources": [
+      {
+        "label": "Seattle City Clerk — Form of government",
+        "url": "https://www.seattle.gov/city-clerk/agendas-and-legislative-resources/seattles-form-of-government",
+        "claim": "Charter city with mayor-council government."
+      }
+    ],
+    "notes": "A local government can be a client in federal lobbying disclosures. These filings concern federal lobbying, not a complete record of lobbying at Seattle City Hall.",
+    "featured": false,
+    "as_of": "2026-09-04",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": ""
+  },
+  "ea643ad5bb3061f1": {
+    "name": "U.S. Chamber of Commerce",
+    "description": "Business membership organization advocating on public policy for employers and industry groups.",
+    "kind": "Trade / business association",
+    "ownership": "Not applicable",
+    "website": "https://www.uschamber.com/",
+    "sources": [
+      {
+        "label": "U.S. Chamber — About",
+        "url": "https://www.uschamber.com/about",
+        "claim": "Business membership and policy advocacy."
+      }
+    ],
+    "notes": "Represents business members; it is not a government department.",
+    "featured": true,
+    "as_of": "2026-09-04",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": ""
+  },
+  "7ffad8f57691b82a": {
+    "name": "Fuse Media (formerly SiTV)",
+    "description": "Latino-owned media company operating multicultural entertainment networks and streaming channels.",
+    "kind": "Business",
+    "ownership": "Privately held",
+    "website": "https://about.fuse.tv/",
+    "sources": [
+      {
+        "label": "Fuse Media — company",
+        "url": "https://about.fuse.tv/",
+        "claim": "Describes Fuse as a Latino-owned, independently owned modern media company and lists its Glendale, California address."
+      },
+      {
+        "label": "Fuse Media — majority acquisition announcement",
+        "url": "https://www.prnewswire.com/news-releases/latino-led-management-group-acquires-majority-controlling-interest-in-fuse-media-301177599.html",
+        "claim": "November 19, 2020 announcement says a Latino-led management group acquired a majority controlling interest."
+      }
+    ],
+    "notes": "The LDA name includes the former SiTV name. The 2020 acquisition source supports private management ownership at that date; it does not establish every historical owner.",
+    "featured": false,
+    "as_of": "2020-11-19",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": ""
+  },
+  "05e0af67afd1166e": {
+    "name": "\"I Have A Dream\" Foundation",
+    "description": "Nonprofit organization providing long-term academic, social and emotional support and tuition assistance to young people from under-resourced communities.",
+    "kind": "Nonprofit / initiative",
+    "ownership": "Not applicable",
+    "website": "https://www.ihaveadreamfoundation.org/",
+    "sources": [
+      {
+        "label": "I Have A Dream Foundation — home",
+        "url": "https://www.ihaveadreamfoundation.org/",
+        "claim": "States the organization provides individualized support from kindergarten through college and guaranteed tuition support; gives New York address."
+      },
+      {
+        "label": "I Have A Dream Foundation — impact report",
+        "url": "https://www.ihaveadreamfoundation.org/wp-content/uploads/2025/04/IHDF-Impact-Report-2024-Live.pdf",
+        "claim": "2024 impact report identifies the foundation and its EIN 13-3355315."
+      }
+    ],
+    "notes": "The national foundation is distinct from local affiliate projects using the same program name.",
+    "featured": false,
+    "as_of": "2025-04-01",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "501(c)(3) nonprofit (reported EIN)"
+  },
+  "368ac0ba8300fdcf": {
+    "name": "#NotJustFatigue",
+    "description": "Nonprofit public education and advocacy initiative focused on myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS).",
+    "kind": "Nonprofit / initiative",
+    "ownership": "Not applicable",
+    "website": "https://www.notjustfatigue.org/",
+    "sources": [
+      {
+        "label": "#NotJustFatigue — home",
+        "url": "https://www.notjustfatigue.org/",
+        "claim": "Explains its educational focus on ME/CFS and the condition's impact."
+      },
+      {
+        "label": "#NotJustFatigue — terms",
+        "url": "https://www.notjustfatigue.org/terms",
+        "claim": "Terms identify #NotJustFatigue as the website operator and provide its Newark, Delaware address; page dated January 30, 2024."
+      },
+      {
+        "label": "#NotJustFatigue — 2025 report",
+        "url": "https://www.notjustfatigue.org/NotJustFatigue-Invisible-Illness-Report-2025.pdf",
+        "claim": "Describes #NotJustFatigue as a non-profit sharing educational information about ME/CFS."
+      }
+    ],
+    "notes": "The website and 2025 report support the advocacy identity; no private owner is asserted.",
+    "featured": false,
+    "as_of": "2025-01-30",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "Nonprofit (self-described)"
+  },
+  "5c91ebacf08f34a1": {
+    "name": "Internet of Everything Corp. (formerly Quisnet)",
+    "description": "Technology company developing sustainable computing and Internet of Everything infrastructure solutions.",
+    "kind": "Business",
+    "ownership": "Unknown",
+    "website": "https://ioecorp.com/",
+    "sources": [
+      {
+        "label": "Internet of Everything Corp — about",
+        "url": "https://ioecorp.com/learn-more/about-ioe-corp.html",
+        "claim": "Describes the company’s mission and work in sustainable computing, AI and blockchain-related technology."
+      },
+      {
+        "label": "CES release — IoECorp",
+        "url": "https://ces.vporoom.com/ioecorp/Internet-of-Everything-Corps-Informed-Infrastructure-is-the-IoT-Cloud-Alternative",
+        "claim": "States IoECorp was formed through a merger involving Quisnet Inc. and Quantum1Net."
+      }
+    ],
+    "notes": "The Quisnet predecessor linkage is supported by the CES-hosted company release. No authoritative source found establishing current ownership or traded status.",
+    "featured": false,
+    "as_of": "2023",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "Corporation (company name)"
+  },
+  "257ece6ceeb5cef4": {
+    "name": "BIO — Biotechnology Industry Organization",
+    "description": "Trade and advocacy association representing biotechnology companies, academic and research institutions, state biotechnology centers and related organizations.",
+    "kind": "Trade / business association",
+    "ownership": "Not applicable",
+    "website": "https://www.bio.org/",
+    "sources": [
+      {
+        "label": "BIO — about",
+        "url": "https://www.bio.org/about",
+        "claim": "Describes BIO as the world’s largest advocacy association for biotechnology organizations and gives its Washington, DC address."
+      },
+      {
+        "label": "BIO — 2020 strategic vision",
+        "url": "https://www.bio.org/press-release/new-strategic-vision-biotechnology-innovation-organization",
+        "claim": "October 27, 2020 release identifies the organization as the Biotechnology Innovation Organization and describes its advocacy mission."
+      }
+    ],
+    "notes": "The parenthetical LDA alias is the former Biotechnology Industry Organization name; current branding is BIO (Biotechnology Innovation Organization).",
+    "featured": true,
+    "as_of": "2020-10-27",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "Trade association"
+  },
+  "29e9bf77e2418f24": {
+    "name": "City of Gillette, Wyoming",
+    "description": "Municipal government for Gillette, Wyoming, providing city administration and public services.",
+    "kind": "Government",
+    "ownership": "Government body",
+    "website": "https://www.gillettewy.gov/",
+    "sources": [
+      {
+        "label": "City of Gillette — contact",
+        "url": "https://www.gillettewy.gov/Home/Contact-Us/Who-Do-I-Contact",
+        "claim": "Official city page identifies the City of Gillette and lists City Hall at 201 E. 5th Street, Gillette, WY 82716."
+      },
+      {
+        "label": "City of Gillette — financial report",
+        "url": "https://www.gillettewy.gov/files/assets/public/v/1/finance/documents/cafr-2023.pdf",
+        "claim": "Official comprehensive annual financial report identifies the City of Gillette, Wyoming as the reporting government."
+      }
+    ],
+    "notes": "The LDA parenthetical is a filing alias; this is a municipal government and has no private ownership.",
+    "featured": false,
+    "as_of": "2023-06-30",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "Municipality"
+  },
+  "b90b3f025d087f93": {
+    "name": "City of Inglewood — filed in error",
+    "description": "Municipal government for Inglewood, California.",
+    "kind": "Government",
+    "ownership": "Government body",
+    "website": "https://www.cityofinglewood.org/",
+    "sources": [
+      {
+        "label": "City of Inglewood — official website",
+        "url": "https://www.cityofinglewood.org/?mobile=OFF",
+        "claim": "Official website identifies the City of Inglewood, California and lists City Hall at One Manchester Boulevard, Inglewood, CA 90301."
+      }
+    ],
+    "notes": "The LDA name explicitly says it was filed in error; the source verifies the municipality but not the circumstances of that filing.",
+    "featured": false,
+    "as_of": "2026-09-04",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "Municipality"
+  },
+  "e9961e43b57a6ccc": {
+    "name": "Catalyst Health Solutions / Catamaran Rx (GovBiz filing name)",
+    "description": "Former pharmacy benefit management business associated with Catalyst Health Solutions and Catamaran; Catamaran was acquired by UnitedHealth Group in 2015.",
+    "kind": "Business",
+    "ownership": "Unknown",
+    "website": "https://www.unitedhealthgroup.com/",
+    "sources": [
+      {
+        "label": "SEC — Catalyst Health Solutions 2014 Form 10-K",
+        "url": "https://www.sec.gov/Archives/edgar/data/1363851/000136385115000013/ctrx10k123114.htm",
+        "claim": "SEC filing identifies Catalyst Health Solutions and its merger agreement with Catamaran/SXC Health Solutions."
+      },
+      {
+        "label": "UnitedHealth Group — Catamaran combination",
+        "url": "https://www.unitedhealthgroup.com/newsroom/2015/07/07022catamaran.html",
+        "claim": "July 2015 UnitedHealth release describes completion of the Catamaran combination and integration with OptumRx."
+      }
+    ],
+    "notes": "The LDA name combines GovBiz Advantage, Catalyst Health Solutions and Catamaran Rx. Sources establish the historical Catalyst/Catamaran transaction and current OptumRx successor context; they do not merge GovBiz Advantage into the same legal entity.",
+    "featured": false,
+    "as_of": "2015-07-22",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "Former corporation; successor business within OptumRx"
+  },
+  "1ad9598701b49c24": {
+    "name": "ISC2",
+    "description": "Nonprofit professional association for cybersecurity practitioners and certification holders.",
+    "kind": "Trade / business association",
+    "ownership": "Not applicable",
+    "website": "https://www.isc2.org/",
+    "sources": [
+      {
+        "label": "ISC2 — mission",
+        "url": "https://www.isc2.org/About",
+        "claim": "Describes ISC2 as a member association for cybersecurity professionals and a nonprofit body."
+      },
+      {
+        "label": "ISC2 — governance",
+        "url": "https://www.isc2.org/About/Governance",
+        "claim": "Identifies ISC2 as a United States 501(c)(6) nonprofit professional corporation governed by a member board."
+      }
+    ],
+    "notes": "The organization now styles its name as ISC2; the LDA punctuation is an older form of the name.",
+    "featured": false,
+    "as_of": "2026-09-04",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "501(c)(6) nonprofit professional corporation"
+  },
+  "2303033b707fd5bf": {
+    "name": "(maddox Strategies, Llc) General Synfuels International",
+    "description": "Identity unresolved; the LDA filing links the name to Maddox Strategies and reports energy/nuclear lobbying issues, but available public sources did not establish the operating entity.",
+    "kind": "Unknown",
+    "ownership": "Unknown",
+    "website": "",
+    "sources": [
+      {
+        "label": "LDA filing",
+        "url": "https://lda.gov/api/v1/filings/cabc93f4-0490-4629-8673-572000cdab0a/",
+        "claim": "Disclosed client name and energy/nuclear issue area (2014–2015 directory history)."
+      }
+    ],
+    "notes": "Searches for General Synfuels International, the Maddox Strategies reference and related corporate records did not produce a reliable authoritative company profile or location match. No ownership inferred from the name.",
+    "featured": false,
+    "as_of": "2014–2015",
+    "checked_at": "2026-09-04",
+    "status": "unresolved",
+    "legal_form": ""
+  },
+  "e932688f2e367cb4": {
+    "name": "Applied Signal Technology (Prasam filing name)",
+    "description": "Former California defense and signals technology company acquired by Raytheon in 2011.",
+    "kind": "Business",
+    "ownership": "Unknown",
+    "website": "https://www.rtx.com/",
+    "sources": [
+      {
+        "label": "SEC — Applied Signal merger filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/741696/000095012310115040/w80949e8vk.htm",
+        "claim": "December 2010 SEC filing identifies Applied Signal Technology as a California corporation entering a merger agreement with Raytheon."
+      },
+      {
+        "label": "SEC — Raytheon acquisition note",
+        "url": "https://www.sec.gov/Archives/edgar/vprr/1300/13002373.pdf",
+        "claim": "SEC filing states Raytheon acquired Applied Signal Technology in 2011 and subsequently renamed it Raytheon Applied Signal Technology."
+      }
+    ],
+    "notes": "The filing alias Prasam is retained in the directory name. Ownership claim is historical and tied to the 2011 acquisition; no claim is made that the former standalone company remains active.",
+    "featured": false,
+    "as_of": "2011-01-01",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "California corporation (historical)"
+  },
+  "4e91b2b9596ebec1": {
+    "name": "Applied Signal Technology (Livingston filing name)",
+    "description": "Historical Applied Signal Technology lobbying client, a California signals technology company later acquired by Raytheon.",
+    "kind": "Business",
+    "ownership": "Unknown",
+    "website": "https://www.rtx.com/",
+    "sources": [
+      {
+        "label": "SEC — Applied Signal merger filing",
+        "url": "https://www.sec.gov/Archives/edgar/data/741696/000095012310115040/w80949e8vk.htm",
+        "claim": "SEC filing identifies Applied Signal Technology, Inc. as the merger subject company and Raytheon as parent of the acquiring entity."
+      },
+      {
+        "label": "SEC — acquisition note",
+        "url": "https://www.sec.gov/Archives/edgar/vprr/1300/13002373.pdf",
+        "claim": "States Raytheon acquired Applied Signal Technology in 2011 and renamed it Raytheon Applied Signal Technology."
+      }
+    ],
+    "notes": "The Livingston Group parenthetical identifies the lobbyist context, not a separate owner of Applied Signal. Historical ownership is dated to the acquisition.",
+    "featured": false,
+    "as_of": "2011-01-01",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "California corporation (historical)"
+  },
+  "28e1618503f40093": {
+    "name": "Boys Town USA (Livingston filing name)",
+    "description": "Nonprofit, nonsectarian child and family care organization headquartered in Boys Town, Nebraska.",
+    "kind": "Nonprofit / initiative",
+    "ownership": "Not applicable",
+    "website": "https://www.boystown.org/",
+    "sources": [
+      {
+        "label": "Boys Town — about",
+        "url": "https://www.boystown.org/about",
+        "claim": "Describes Boys Town as one of the largest nonprofit, nonsectarian child and family care organizations and gives its Nebraska headquarters address."
+      },
+      {
+        "label": "Boys Town Research — entity type",
+        "url": "https://www.boystownresearch.org/research-admin-office",
+        "claim": "Identifies the research entity as a nonprofit with IRS 501(c)(3) status."
+      }
+    ],
+    "notes": "The LDA alias uses Boys Town USA; the official organization describes itself as Boys Town and its legal organization as Father Flanagan’s Boys’ Home in some materials.",
+    "featured": false,
+    "as_of": "2026-09-04",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "501(c)(3) nonprofit"
+  },
+  "e8b8f33217faae78": {
+    "name": "(the Livingston Group) ESM SMT Inc",
+    "description": "Identity unresolved; the LDA name does not establish whether this refers to a specific ESM/SMT electronics company.",
+    "kind": "Unknown",
+    "ownership": "Unknown",
+    "website": "",
+    "sources": [
+      {
+        "label": "LDA filing",
+        "url": "https://lda.gov/api/v1/filings/bd40741b-54bc-477f-9e8f-1360e0f770fe/",
+        "claim": "Disclosed client name and historical 2009–2011 directory entry."
+      },
+      {
+        "label": "ESMT company profile checked",
+        "url": "https://www.esmt.com.tw/en/about/introduction?intro-tab=team",
+        "claim": "Describes Elite Semiconductor Microelectronics Technology Inc. in Taiwan, but does not establish that it is the LDA client named ESM SMT Inc."
+      }
+    ],
+    "notes": "Multiple similarly named electronics businesses exist. The available ESMT source is recorded as a searched near match and is not treated as identity verification.",
+    "featured": false,
+    "as_of": "2009–2011",
+    "checked_at": "2026-09-04",
+    "status": "unresolved",
+    "legal_form": ""
+  },
+  "b47e08d5b0fa7dbf": {
+    "name": "UPMC / Amstar",
+    "description": "Nonprofit health care provider and insurer headquartered in Pittsburgh and affiliated with the University of Pittsburgh Schools of the Health Sciences.",
+    "kind": "Nonprofit / initiative",
+    "ownership": "Not applicable",
+    "website": "https://www.upmc.com/",
+    "sources": [
+      {
+        "label": "UPMC — why UPMC",
+        "url": "https://www.upmc.com/about/why-upmc",
+        "claim": "Describes UPMC as a nonprofit health care provider and insurer headquartered in Pittsburgh and affiliated with the University of Pittsburgh."
+      },
+      {
+        "label": "UPMC — story",
+        "url": "https://www.upmc.com/about/why-upmc/story",
+        "claim": "Records adoption of the University of Pittsburgh Medical Center name in 1990 and its development as an integrated health system."
+      }
+    ],
+    "notes": "The LDA name includes Amstar and a UPMC parenthetical; sources verify UPMC but do not establish whether Amstar was a separate affiliate or filing shorthand.",
+    "featured": true,
+    "as_of": "2026-09-04",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "Nonprofit health system"
+  },
+  "ad5f65011409aacf": {
+    "name": "(weil, Gotshal & Manges, Llp) Mina Corp./ RED Star Enterprises Ltd.",
+    "description": "Identity unresolved; the LDA filing names Mina Corp. and Red Star Enterprises Ltd. in a historical lobbying entry, but available authoritative sources did not establish the entities’ business or relationship.",
+    "kind": "Unknown",
+    "ownership": "Unknown",
+    "website": "",
+    "sources": [
+      {
+        "label": "LDA filing",
+        "url": "https://lda.gov/api/v1/filings/ff702377-ef65-440f-8534-8d295d4da43e/",
+        "claim": "Disclosed client name and historical 2010–2011 directory entry."
+      }
+    ],
+    "notes": "Searches for both named companies and the Weil, Gotshal & Manges parenthetical did not produce a reliable identity match. No ownership or relationship between Mina Corp. and Red Star Enterprises is inferred.",
+    "featured": false,
+    "as_of": "2010–2011",
+    "checked_at": "2026-09-04",
+    "status": "unresolved",
+    "legal_form": ""
+  },
+  "d0d526dddc45f025": {
+    "name": "1 Nation Action, Inc.",
+    "description": "Identity unresolved; the current public record did not establish which organization corresponds to this federal lobbying client.",
+    "kind": "Unknown",
+    "ownership": "Unknown",
+    "website": "",
+    "sources": [
+      {
+        "label": "LDA filing",
+        "url": "https://lda.gov/api/v1/filings/8823cd4a-a5b6-4e04-bcef-edd32dfd4b9a/",
+        "claim": "Disclosed name and 2025–2026 Veterans issue entries."
+      },
+      {
+        "label": "Nations In Action — organization",
+        "url": "https://www.nationsinaction.org/",
+        "claim": "Identifies a similarly named 501(c)(4) advocacy organization, but does not establish that it is 1 Nation Action, Inc."
+      }
+    ],
+    "notes": "The similarly named Nations In Action site is recorded as a searched near match only. No merger, alias or corporate identity evidence was found.",
+    "featured": false,
+    "as_of": "2025–2026",
+    "checked_at": "2026-09-04",
+    "status": "unresolved",
+    "legal_form": ""
+  },
+  "d07d3e429f2ccbd7": {
+    "name": "1 Nation, Inc.",
+    "description": "Identity unresolved; the current public record did not establish which organization corresponds to this federal lobbying client.",
+    "kind": "Unknown",
+    "ownership": "Unknown",
+    "website": "",
+    "sources": [
+      {
+        "label": "LDA filing",
+        "url": "https://lda.gov/api/v1/filings/5601a993-8ae9-4107-b793-aff68aa960af/",
+        "claim": "Disclosed name and 2025 Veterans issue entry."
+      },
+      {
+        "label": "Nations In Action — organization",
+        "url": "https://www.nationsinaction.org/",
+        "claim": "Identifies a similarly named 501(c)(4) advocacy organization, but does not establish that it is 1 Nation, Inc."
+      }
+    ],
+    "notes": "The similarly named Nations In Action site is recorded as a searched near match only. No reliable location, filing or alias evidence was found to resolve this client.",
+    "featured": false,
+    "as_of": "2025",
+    "checked_at": "2026-09-04",
+    "status": "unresolved",
+    "legal_form": ""
+  },
+  "13694ee29ef2cf94": {
+    "name": "1-800 Contacts",
+    "description": "Online retailer and provider of contact lenses and related vision products.",
+    "kind": "Business",
+    "ownership": "Privately held",
+    "website": "https://www.1800contacts.com/",
+    "sources": [
+      {
+        "label": "1-800 Contacts — official site",
+        "url": "https://www.1800contacts.com/",
+        "claim": "Official website identifies the 1-800 Contacts contact lens retail service."
+      },
+      {
+        "label": "KKR — investor day",
+        "url": "https://ir.kkr.com/media/document/b1a455e3-374d-48f8-b5ed-ec734e92b07f/assets/KKR-2024-Investor-Day.pdf?disposition=inline",
+        "claim": "KKR investor materials list 1-800 Contacts among businesses in its investment portfolio."
+      },
+      {
+        "label": "KKR — investment portfolio",
+        "url": "https://www.kkr.com/invest/portfolio",
+        "claim": "Lists 1-800 Contacts in its private equity portfolio as of August 24, 2026."
+      }
+    ],
+    "notes": "A KKR private-equity portfolio company as of August 24, 2026. Historical owners may differ; KKR itself being listed does not make 1-800 Contacts publicly traded.",
+    "featured": false,
+    "as_of": "2026-08-24",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": ""
+  },
+  "2db51f1f017c2c7e": {
+    "name": "1-800-doctors, Inc.",
+    "description": "Healthcare information and doctor-referral service that helps users find verified physicians through provider and hospital information.",
+    "kind": "Business",
+    "ownership": "Privately held",
+    "website": "http://1800doctors.com",
+    "sources": [
+      {
+        "label": "1-800-DOCTORS — company profile",
+        "url": "https://www.linkedin.com/company/1-800-doctors",
+        "claim": "Company profile describes its doctor information and referral service, lists Iselin, New Jersey headquarters, 2006 founding and privately held status."
+      }
+    ],
+    "notes": "The LDA entry is historical (2015–2017). The available company profile is the best current identity evidence located; no public listing or parent company was found.",
+    "featured": false,
+    "as_of": "2026-09-04",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "Corporation (disclosed name)"
+  },
+  "f4e127d7f3253504": {
+    "name": "1-800-donotcall",
+    "description": "The exact lobbying client could not be reliably identified from available public records.",
+    "kind": "Unknown",
+    "ownership": "Unknown",
+    "website": "",
+    "sources": [
+      {
+        "label": "Florida Division of Corporations search (accessed 2026-09-04)",
+        "url": "https://search.sunbiz.org/Inquiry/corporationsearch/SearchResults?inquiryType=EntityName&searchTerm=1+800+DELI+SNACKS+INC",
+        "claim": "A similarly named 1-800-DONOTCALL, INC. appears in Florida records as inactive/unauthorized."
+      }
+    ],
+    "notes": "Searched the Florida corporate registry and general web results. The registry hit is inactive and does not establish that it is the federal lobbying client; no current official website or matching business description was found.",
+    "featured": false,
+    "as_of": "2026-09-04",
+    "checked_at": "2026-09-04",
+    "status": "unresolved",
+    "legal_form": ""
+  },
+  "2f209fee078b69fe": {
+    "name": "1-800-FLOWERS.COM",
+    "description": "Consumer floral and gifts company operating the 1-800-Flowers.com brand and related gourmet food and gift businesses.",
+    "kind": "Business",
+    "ownership": "Publicly traded",
+    "website": "https://www.1800flowersinc.com/",
+    "sources": [
+      {
+        "label": "LDA client record (effective 2009-12-07)",
+        "url": "https://lda.gov/api/v1/clients/120695/",
+        "claim": "Names 1-800-FLOWERS.COM, describes flower sales and distribution, and lists New York."
+      },
+      {
+        "label": "1-800-FLOWERS.COM 2025 annual report (accessed 2026-09-04)",
+        "url": "https://www.1800flowersinc.com/~/media/Files/O/One-800-Flowers-V4/documents/annual-reports/flws-2025-annual-report.pdf",
+        "claim": "Describes the company’s Consumer Floral & Gifts, Gourmet Foods & Gift Baskets and BloomNet segments, and identifies the Jericho, New York headquarters and publicly traded issuer."
+      },
+      {
+        "label": "1-800-FLOWERS.COM investor relations (accessed 2026-09-04)",
+        "url": "https://www.1800flowersinc.com/investors",
+        "claim": "Company investor-relations site and SEC filing links for 1-800-FLOWERS.COM, Inc."
+      },
+      {
+        "label": "1-800-FLOWERS — investor announcement",
+        "url": "https://www.1800flowersinc.com/news-and-media/newsroom/press-releases/2025/04-16-2025-140019563",
+        "claim": "NASDAQ: FLWS in the April 16, 2025 company announcement."
+      }
+    ],
+    "notes": "The directory name is a brand/company variant; the listed public issuer is 1-800-FLOWERS.COM, Inc. (NASDAQ: FLWS), supported by the annual report and investor-relations materials.",
+    "featured": false,
+    "as_of": "2025-04-16",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "Corporation"
+  },
+  "0be7eb5dee5b3500": {
+    "name": "1-800 Medivan",
+    "description": "Medical transportation provider serving healthcare transportation needs.",
+    "kind": "Business",
+    "ownership": "Unknown",
+    "website": "https://www.1800medivan.com/",
+    "sources": [
+      {
+        "label": "1-800 Medivan careers/company page (accessed 2026-09-04)",
+        "url": "https://www.1800medivan.com/healthcare-transportation-in-tipton-california",
+        "claim": "Identifies 1-800 Medivan as an employer and healthcare transportation provider in California."
+      },
+      {
+        "label": "Candidate privacy policy (accessed 2026-09-04)",
+        "url": "https://1800medivan-inc.hireonthego.com/agreements/applicant_privacy_policy",
+        "claim": "Uses the legal name 1800Medivan Inc. for the company."
+      }
+    ],
+    "notes": "No authoritative public evidence established a parent or public listing; ownership remains unknown.",
+    "featured": false,
+    "as_of": "2026-09-04",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "Corporation"
+  },
+  "40472e76208f966b": {
+    "name": "1-800-PACK-RAT",
+    "description": "Self-storage and moving company operating under the 1-800-PACK-RAT name.",
+    "kind": "Business",
+    "ownership": "Unknown",
+    "website": "https://www.1800packrat.com/",
+    "sources": [
+      {
+        "label": "LDA client record (effective 2012-09-01)",
+        "url": "https://lda.gov/api/v1/clients/185505/",
+        "claim": "Names 1-800-PACK-RAT, describes moving and portable storage, and lists Maryland."
+      },
+      {
+        "label": "FMCSA Company Snapshot (accessed 2026-09-04)",
+        "url": "https://safer.fmcsa.dot.gov/query.asp?query_param=MC_MX&query_string=648624&query_type=queryCarrierSnapshot&searchtype=ANY",
+        "claim": "Identifies the legal name 1-800-PACK-RAT LLC, DBA 1800PACKRAT, Wake Forest, North Carolina, and active household-goods/moving authority."
+      },
+      {
+        "label": "Illinois Appellate Court opinion (accessed 2026-09-04)",
+        "url": "https://www.illinoiscourts.gov/files/1150383.pdf/opinion",
+        "claim": "Describes Pack-Rat as a Delaware LLC based in North Carolina operating self-storage facilities and a moving company."
+      }
+    ],
+    "notes": "A historical Waste Management exhibit mentions Pack-Rat, but it does not establish current ownership; ownership is therefore Unknown.",
+    "featured": false,
+    "as_of": "2026-09-04",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "LLC"
+  },
+  "4d7d498cc5114a6d": {
+    "name": "10 South Street Master Tenant LLC",
+    "description": "The exact lobbying client could not be reliably distinguished from a residential/property project using the available public sources.",
+    "kind": "Unknown",
+    "ownership": "Unknown",
+    "website": "",
+    "sources": [
+      {
+        "label": "10 South Street project website (accessed 2026-09-04)",
+        "url": "https://www.10southst.com/",
+        "claim": "Identifies a South Street residential project in Jersey City, New Jersey."
+      }
+    ],
+    "notes": "The project website does not name 10 South Street Master Tenant LLC, and no matching registry or filing evidence was found tying that entity to the lobbying record. An LLC suffix does not establish ownership.",
+    "featured": false,
+    "as_of": "2026-09-04",
+    "checked_at": "2026-09-04",
+    "status": "unresolved",
+    "legal_form": "LLC (disclosed name)"
+  },
+  "5152fe3fff182860": {
+    "name": "10 Tanker Air Carrier",
+    "description": "Aerial firefighting operator that converts and operates DC-10 Very Large Air Tankers to deliver fire retardant on wildfires.",
+    "kind": "Business",
+    "ownership": "Unknown",
+    "website": "https://www.10tanker.com/",
+    "sources": [
+      {
+        "label": "10 Tanker About Us (accessed 2026-09-04)",
+        "url": "https://www.10tanker.com/aboutus",
+        "claim": "Identifies 10 Tanker Air Carrier, LLC, its aerial firefighting mission, DC-10 fleet, operations since 2006, and Albuquerque, New Mexico address."
+      },
+      {
+        "label": "Federal award profile (accessed 2026-09-04)",
+        "url": "https://www.highergov.com/awardee/10-tanker-air-carrier-llc-10002838/",
+        "claim": "Identifies 10 TANKER AIR CARRIER, LLC in Albuquerque and its aerial firefighting capability and federal registration."
+      }
+    ],
+    "notes": "Public sources establish the operating company but do not establish current private ownership; the LLC form is not treated as proof of ownership.",
+    "featured": false,
+    "as_of": "2026-09-04",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "LLC"
+  },
+  "caca80580b097785": {
+    "name": "10 X National Security",
+    "description": "Defense technology company focused on accelerating delivery of secure, mission-critical software and capabilities.",
+    "kind": "Business",
+    "ownership": "Unknown",
+    "website": "https://10xnationalsecurity.com/",
+    "sources": [
+      {
+        "label": "10x National Security official website (accessed 2026-09-04)",
+        "url": "https://10xnationalsecurity.com/",
+        "claim": "Describes the company’s operating model and defense technology focus."
+      },
+      {
+        "label": "AFCEA TechNet exhibitor listing (2025, accessed 2026-09-04)",
+        "url": "https://events.afcea.org/augusta25/Public/eBooth.aspx?BoothID=1061070&SSID=8665&Task=PressReleases",
+        "claim": "Reports the company launch and founders’ description of secure mission-critical software delivery."
+      }
+    ],
+    "notes": "The exact federal client record is a name variant; current ownership and legal entity were not established from the official site or exhibitor listing.",
+    "featured": false,
+    "as_of": "2026-09-04",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": ""
+  },
+  "1d5fa3810103509f": {
+    "name": "100x Development Foundation",
+    "description": "A nonprofit development and relief organization that describes work in education, health and community development.",
+    "kind": "Nonprofit / initiative",
+    "ownership": "Not applicable",
+    "website": "http://100xdevelopment.com",
+    "sources": [
+      {
+        "label": "United Nations civil society profile (accessed 2026-09-04)",
+        "url": "https://esango.un.org/civilsociety/showProfileDetail.do?method=showProfileDetails&profileCode=623218&tab=1",
+        "claim": "Lists 100X Development Foundation as a nongovernmental organization with a Washington, DC mailing address and 100xdevelopment.com website."
+      },
+      {
+        "label": "USAID Voluntary Foreign Aid Organizations listing (accessed 2026-09-04)",
+        "url": "https://2017-2020.usaid.gov/sites/default/files/documents/1866/Volag2016.pdf",
+        "claim": "Describes 100X Development Foundation as nonprofit, nonreligious and nonpolitical, working in community development, education and health."
+      }
+    ],
+    "notes": "Nonprofit classification is supported by the cited organizational listings; no ownership applies.",
+    "featured": false,
+    "as_of": "2026-09-04",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": ""
+  },
+  "51f742f70052fd66": {
+    "name": "101 Financial Inc",
+    "description": "The exact 2009–2010 lobbying client could not be reliably matched to the current 101 Financial Group, LLC website.",
+    "kind": "Unknown",
+    "ownership": "Unknown",
+    "website": "",
+    "sources": [
+      {
+        "label": "LDA registration filing (2009-10-15)",
+        "url": "https://lda.gov/api/v1/filings/25dc68a0-d654-4615-af2a-2a4d7216193e/",
+        "claim": "Original filing trail for the directory’s 101 Financial Inc. record."
+      },
+      {
+        "label": "Current 101 Financial website (accessed 2026-09-04)",
+        "url": "https://101financial.com/contact-us/",
+        "claim": "Shows a current 101 Financial contact site and Hawaii mailing address, but does not establish continuity with the 2009–2010 Inc. lobbying client."
+      }
+    ],
+    "notes": "Searched the original filing years and current site. Because the available historical filing does not establish a matching location/business description and the current site uses 101 Financial Group, LLC, identity remains unresolved. No current match is asserted.",
+    "featured": false,
+    "as_of": "2010-04-17",
+    "checked_at": "2026-09-04",
+    "status": "unresolved",
+    "legal_form": "Corporation (historical disclosed name)"
+  },
+  "8f0ca0d8dea3df2e": {
+    "name": "105 West Adams Bldg",
+    "description": "The exact lobbying client could not be reliably identified as a particular building owner or operating organization.",
+    "kind": "Unknown",
+    "ownership": "Unknown",
+    "website": "",
+    "sources": [
+      {
+        "label": "LDA filing trail (1999)",
+        "url": "https://lda.gov/api/v1/filings/1994a254-f473-4fce-96bc-7639a04e9e05/",
+        "claim": "Original filing trail for the disclosed 105 West Adams Bldg record."
+      }
+    ],
+    "notes": "Searched the exact name and likely property variants. No authoritative business website, registry record or location evidence was found that safely connects a specific entity to the lobbying filing.",
+    "featured": false,
+    "as_of": "1999-08-16",
+    "checked_at": "2026-09-04",
+    "status": "unresolved",
+    "legal_form": ""
+  },
+  "02060454eb2b48fa": {
+    "name": "10EQS",
+    "description": "A management consulting platform that assembles independent industry specialists into virtual teams for client work.",
+    "kind": "Business",
+    "ownership": "Unknown",
+    "website": "https://www.10eqs.com/",
+    "sources": [
+      {
+        "label": "10EQS About Us (accessed 2026-09-04)",
+        "url": "https://www.10eqs.com/about-us",
+        "claim": "Describes the company’s consulting model, founding by former McKinsey and Deloitte senior partners, and online specialist network."
+      }
+    ],
+    "notes": "The official site establishes the business and service model. It does not establish a public listing or current ownership, so ownership remains unknown.",
+    "featured": false,
+    "as_of": "2026-09-04",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": ""
+  },
+  "b9e85b95a2ad36ef": {
+    "name": "10Tanker Air Carrier",
+    "description": "Name variant for the aerial firefighting operator 10 Tanker Air Carrier, which operates modified DC-10 Very Large Air Tankers.",
+    "kind": "Business",
+    "ownership": "Unknown",
+    "website": "https://www.10tanker.com/",
+    "sources": [
+      {
+        "label": "10 Tanker About Us (accessed 2026-09-04)",
+        "url": "https://www.10tanker.com/aboutus",
+        "claim": "Identifies 10 Tanker Air Carrier, LLC and its DC-10 aerial firefighting operation from an Albuquerque, New Mexico address."
+      }
+    ],
+    "notes": "The directory record is a spelling/case variant of 10 Tanker Air Carrier; the official site supports the identity match. Ownership remains unknown.",
+    "featured": false,
+    "as_of": "2026-09-04",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "LLC"
+  },
+  "7c82b4dd036a9f7e": {
+    "name": "10X Genomics",
+    "description": "Life-sciences technology company developing single-cell, spatial and in situ tools for biological research.",
+    "kind": "Business",
+    "ownership": "Publicly traded",
+    "website": "https://www.10xgenomics.com/",
+    "sources": [
+      {
+        "label": "10x Genomics company page (accessed 2026-09-04)",
+        "url": "https://www.10xgenomics.com/company",
+        "claim": "Describes the company’s mission, single-cell/spatial/in situ technologies and Pleasanton, California location."
+      },
+      {
+        "label": "10x Genomics investor FAQ (accessed 2026-09-04)",
+        "url": "https://investors.10xgenomics.com/resources/default.aspx",
+        "claim": "Identifies 10x Genomics, Inc., Delaware incorporation and Nasdaq ticker TXG."
+      },
+      {
+        "label": "10x Genomics — stock information",
+        "url": "https://investors.10xgenomics.com/stock-info/default.aspx",
+        "claim": "NASDAQ: TXG."
+      }
+    ],
+    "notes": "NASDAQ: TXG. The directory aliases include 10X Genomics, Inc.; the investor site confirms the public issuer identity.",
+    "featured": false,
+    "as_of": "2026-09-04",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "Corporation"
+  },
+  "1d9c01b9c221ec50": {
+    "name": "11 Good Energy",
+    "description": "A Canton, Ohio company associated with fuel-refining services under the 11 Good Energy mark.",
+    "kind": "Business",
+    "ownership": "Unknown",
+    "website": "http://www.11goodenergy.com",
+    "sources": [
+      {
+        "label": "USPTO Official Gazette (2010, accessed 2026-09-04)",
+        "url": "https://www.uspto.gov/web/trademarks/tmog/20100713_OG.pdf",
+        "claim": "Lists 11 Good Energy, Inc., Canton, Ohio, and a trademark for fuel refining with first use in 2007."
+      },
+      {
+        "label": "Company directory evidence (accessed 2026-09-04)",
+        "url": "https://www.linkedin.com/company/11-good-energy-inc-",
+        "claim": "Lists 11 Good Energy, Inc. executive offices in Canton, Ohio and the 11goodenergy.com website."
+      }
+    ],
+    "notes": "The official trademark record and matching location establish the historical business identity. No current operating site or ownership evidence was found beyond the historical company listing.",
+    "featured": false,
+    "as_of": "2010-07-13",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "Corporation"
+  },
+  "c461b0be9ba797ee": {
+    "name": "1101 - 1125 Hudson Street",
+    "description": "The exact lobbying client could not be reliably identified as a particular property owner or operating organization.",
+    "kind": "Unknown",
+    "ownership": "Unknown",
+    "website": "",
+    "sources": [
+      {
+        "label": "LDA filing trail (2003–2004)",
+        "url": "https://lda.gov/api/v1/filings/9202a7fd-25c4-46e0-94b2-60b25056a056/",
+        "claim": "Original filing trail for the disclosed 1101–1125 Hudson Street record."
+      }
+    ],
+    "notes": "Searched exact address variants and property results. No authoritative source tied a specific owner or business to the lobbying record; address alone is insufficient to infer identity.",
+    "featured": false,
+    "as_of": "2004-08-20",
+    "checked_at": "2026-09-04",
+    "status": "unresolved",
+    "legal_form": ""
+  },
+  "653bbcdcd97a1a2a": {
+    "name": "1199SEIU Healthcare Education Project",
+    "description": "A community-based healthcare advocacy initiative jointly operated by 1199SEIU United Healthcare Workers East and the Greater New York Hospital Association.",
+    "kind": "Nonprofit / initiative",
+    "ownership": "Joint initiative",
+    "website": "https://healthcareeducationproject.org/",
+    "sources": [
+      {
+        "label": "Healthcare Education Project About Us (accessed 2026-09-04)",
+        "url": "https://healthcareeducationproject.org/about-us/",
+        "claim": "States that HEP is a joint effort of 1199SEIU United Healthcare Workers East and GNYHA and describes its healthcare education and advocacy mission."
+      },
+      {
+        "label": "HEP leadership transition announcement (2025, accessed 2026-09-04)",
+        "url": "https://healthcareeducationproject.org/1199seiu-gnyha-announce-leadership-transition-at-healthcare-education-project/",
+        "claim": "Confirms the continuing labor-management relationship between the two organizations."
+      }
+    ],
+    "notes": "This is an initiative/collaboration rather than a conventional stand-alone company; the profile records the two named sponsoring organizations.",
+    "featured": false,
+    "as_of": "2025-11-04",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "Joint initiative"
+  },
+  "459a81174d78aab9": {
+    "name": "1199SEIU United Healthcare Workers East",
+    "description": "A healthcare workers union representing caregivers across several U.S. states and the District of Columbia.",
+    "kind": "Labor union",
+    "ownership": "Not applicable",
+    "website": "https://www.1199seiu.org/",
+    "sources": [
+      {
+        "label": "1199SEIU official site (accessed 2026-09-04)",
+        "url": "https://www.1199seiu.org/",
+        "claim": "Identifies 1199SEIU United Healthcare Workers East and its healthcare-worker union activities."
+      },
+      {
+        "label": "1199SEIU official membership/advocacy page (accessed 2026-09-04)",
+        "url": "https://www.1199seiu.org/joinus_why",
+        "claim": "Describes members’ healthcare-worker representation and legislative advocacy."
+      }
+    ],
+    "notes": "Union ownership is not applicable. The related Healthcare Education Project is separately profiled as a joint initiative.",
+    "featured": false,
+    "as_of": "2026-09-04",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "Labor union"
+  },
+  "945931319d23fa7b": {
+    "name": "11:11 Media Impact",
+    "description": "The exact lobbying client could not be reliably distinguished from similarly named 11:11 media companies and impact programs.",
+    "kind": "Unknown",
+    "ownership": "Unknown",
+    "website": "",
+    "sources": [
+      {
+        "label": "11:11 Media Impact contact page (accessed 2026-09-04)",
+        "url": "https://www.1111mediaimpact.com/contact",
+        "claim": "Shows a contact page for an organization using the 11:11 Media Impact name variant."
+      },
+      {
+        "label": "11:11 Media production site (accessed 2026-09-04)",
+        "url": "https://www.eleven11media.com/",
+        "claim": "Describes a similarly named production company founded by Ben Richardson."
+      },
+      {
+        "label": "Axios reporting on Paris Hilton’s 11:11 (2024, accessed 2026-09-04)",
+        "url": "https://www.axios.com/2024/11/19/paris-hilton-1111-media-company-success",
+        "claim": "Describes another distinct 11:11 media company."
+      }
+    ],
+    "notes": "The exact “Media Impact” entity could not be matched safely to either similarly named media company. The self-reported LDA description was not counted as independent verification.",
+    "featured": false,
+    "as_of": "2026-09-04",
+    "checked_at": "2026-09-04",
+    "status": "unresolved",
+    "legal_form": ""
+  },
+  "9393b56abb78e9a8": {
+    "name": "123 ID Inc",
+    "description": "The exact 2002–2003 lobbying client could not be reliably matched to the modern ID123 digital identity company.",
+    "kind": "Unknown",
+    "ownership": "Unknown",
+    "website": "",
+    "sources": [
+      {
+        "label": "LDA client record (effective 2002-03-15)",
+        "url": "https://lda.gov/api/v1/clients/103202/",
+        "claim": "Names 123 ID INC and lists North Dakota in the original 2002–2003 filing period."
+      },
+      {
+        "label": "Modern ID123 About Us (accessed 2026-09-04)",
+        "url": "https://www.id123.io/about-us/",
+        "claim": "Describes a different-seeming ID123 Inc. founded in 2017 and based in Boston, Massachusetts."
+      }
+    ],
+    "notes": "The modern ID123 company has a different founding period and location from the original filing record. The reversed-name resemblance is insufficient, so this directory entry remains unresolved.",
+    "featured": false,
+    "as_of": "2003-12-31",
+    "checked_at": "2026-09-04",
+    "status": "unresolved",
+    "legal_form": "Corporation (historical disclosed name)"
+  },
+  "65a085bed4d3b491": {
+    "name": "1380 Ocean Associates LLC",
+    "description": "Real-estate development entity for The Ritz-Carlton Residences, Pompano Beach project at 1380 South Ocean Boulevard in Florida.",
+    "kind": "Real-estate development entity",
+    "ownership": "Unknown",
+    "website": "",
+    "sources": [
+      {
+        "label": "Ritz-Carlton Residences Pompano Beach fact sheet (accessed 2026-09-04)",
+        "url": "https://d1e1jt2fj4r8r.cloudfront.net/8c69bbff-17ce-4965-bdc1-77b6338d8d8c/8FBOHuAar/RCRPB%20Fact%20Sheet.pdf",
+        "claim": "Names 1380 Ocean Associates, LLC as developer and places the project at the Ritz-Carlton Residences site in Pompano Beach, Florida."
+      },
+      {
+        "label": "Florida business profile search result (accessed 2026-09-04)",
+        "url": "https://www.bizprofile.net/fl/miami/1380-ocean-associates-llc",
+        "claim": "Identifies the legal name 1380 Ocean Associates, LLC in Florida."
+      }
+    ],
+    "notes": "The cited project fact sheet supports the entity’s development role; current ownership is not established and is left unknown.",
+    "featured": false,
+    "as_of": "2024-12-01",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "LLC"
+  },
+  "04ce9d62458497d5": {
+    "name": "DoorDash",
+    "description": "Local commerce platform connecting consumers, merchants and independent delivery workers through marketplaces and commerce services.",
+    "kind": "Business",
+    "ownership": "Publicly traded",
+    "website": "https://www.doordash.com/",
+    "sources": [
+      {
+        "label": "LDA report",
+        "url": "https://lda.gov/api/v1/filings/745c77eb-cac8-424f-9ab0-ec149209abc4/",
+        "claim": "Directory-linked current report record for this exact organization."
+      },
+      {
+        "label": "House disclosure",
+        "url": "https://disclosurespreview.house.gov/data/LD/2021_Registrations_XML.zip",
+        "claim": "House archive member 301271832.xml: DoorDash, Inc.; San Francisco, CA; signed 5/28/2021."
+      },
+      {
+        "label": "Official company overview",
+        "url": "https://ir.doordash.com/overview/",
+        "claim": "DoorDash describes itself as a local commerce platform and explicitly identifies DoorDash (NASDAQ: DASH)."
+      },
+      {
+        "label": "SEC submissions metadata",
+        "url": "https://data.sec.gov/submissions/CIK0001792789.json",
+        "claim": "SEC issuer DoorDash, Inc.; NASDAQ: DASH."
+      }
+    ],
+    "notes": "The directory name and historical House disclosure are retained as identity evidence. Public listing is dated to current research and is based on the issuer’s stated exchange and ticker; historical lobbying records may predate the listing or use a former legal name.",
+    "featured": true,
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "",
+    "as_of": "2026-09-04"
+  },
+  "7f8a3ddbe97ade33": {
+    "name": "Uber Technologies",
+    "description": "Mobility and delivery technology platform connecting consumers with rides, delivery and other services.",
+    "kind": "Business",
+    "ownership": "Publicly traded",
+    "website": "https://www.uber.com/",
+    "sources": [
+      {
+        "label": "LDA report",
+        "url": "https://lda.gov/api/v1/filings/2a8b69c4-243d-4841-839f-00c3328a0bc6/",
+        "claim": "Directory-linked current report record for this exact organization."
+      },
+      {
+        "label": "House disclosure",
+        "url": "https://disclosurespreview.house.gov/data/LD/2013_Registrations_XML.zip",
+        "claim": "House archive member 300593833.xml: Uber Technologies; Washington, DC; signed 10/15/2013; technology company connecting passengers and drivers."
+      },
+      {
+        "label": "Official company overview",
+        "url": "https://investor.uber.com/faq-resources/",
+        "claim": "Uber identifies its mobility and delivery offerings and states its Class A common stock trades on the New York Stock Exchange under UBER."
+      },
+      {
+        "label": "SEC submissions metadata",
+        "url": "https://data.sec.gov/submissions/CIK0001543151.json",
+        "claim": "SEC issuer Uber Technologies, Inc; NYSE: UBER."
+      }
+    ],
+    "notes": "The directory name and historical House disclosure are retained as identity evidence. Public listing is dated to current research and is based on the issuer’s stated exchange and ticker; historical lobbying records may predate the listing or use a former legal name.",
+    "featured": true,
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "",
+    "as_of": "2026-09-04"
+  },
+  "c49afaf5e9d6ddb6": {
+    "name": "Airbnb",
+    "description": "Online marketplace connecting guests with hosts offering stays and experiences.",
+    "kind": "Business",
+    "ownership": "Publicly traded",
+    "website": "https://www.airbnb.com/",
+    "sources": [
+      {
+        "label": "LDA report",
+        "url": "https://lda.gov/api/v1/filings/190ab5b1-327b-4e47-a892-848344be8e9d/",
+        "claim": "Directory-linked current report record for this exact organization."
+      },
+      {
+        "label": "House disclosure",
+        "url": "https://disclosurespreview.house.gov/data/LD/2012_Registrations_XML.zip",
+        "claim": "House archive member 300486928.xml: Airbnb; San Francisco, CA; signed 7/17/2012; online community marketplace for short-term accommodations."
+      },
+      {
+        "label": "Official company overview",
+        "url": "https://investors.airbnb.com/stock-info/default.aspx",
+        "claim": "Airbnb identifies its stock listing as NASDAQ: ABNB."
+      },
+      {
+        "label": "SEC submissions metadata",
+        "url": "https://data.sec.gov/submissions/CIK0001559720.json",
+        "claim": "SEC issuer Airbnb, Inc.; NASDAQ: ABNB."
+      }
+    ],
+    "notes": "The directory name and historical House disclosure are retained as identity evidence. Public listing is dated to current research and is based on the issuer’s stated exchange and ticker; historical lobbying records may predate the listing or use a former legal name.",
+    "featured": true,
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "",
+    "as_of": "2026-09-04"
+  },
+  "c5a464fb40abee73": {
+    "name": "Netflix",
+    "description": "Entertainment service offering films, television series and other content through streaming and related distribution.",
+    "kind": "Business",
+    "ownership": "Publicly traded",
+    "website": "https://www.netflix.com/",
+    "sources": [
+      {
+        "label": "LDA report",
+        "url": "https://lda.gov/api/v1/filings/46456f2a-2a96-407c-b9a8-e2fbed13aaa2/",
+        "claim": "Directory-linked current report record for this exact organization."
+      },
+      {
+        "label": "House disclosure",
+        "url": "https://disclosurespreview.house.gov/data/LD/2014_Registrations_XML.zip",
+        "claim": "House archive member 300671766.xml: Netflix, Inc.; Washington, DC; signed 8/6/2014; video content distribution."
+      },
+      {
+        "label": "Official company overview",
+        "url": "https://ir.netflix.net/",
+        "claim": "Netflix investor materials identify Netflix, Inc. and its Nasdaq: NFLX listing."
+      },
+      {
+        "label": "SEC submissions metadata",
+        "url": "https://data.sec.gov/submissions/CIK0001065280.json",
+        "claim": "SEC issuer NETFLIX INC; NASDAQ: NFLX."
+      }
+    ],
+    "notes": "The directory name and historical House disclosure are retained as identity evidence. Public listing is dated to current research and is based on the issuer’s stated exchange and ticker; historical lobbying records may predate the listing or use a former legal name.",
+    "featured": true,
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "",
+    "as_of": "2026-09-04"
+  },
+  "005a36a209d27215": {
+    "name": "Exxon Mobil",
+    "description": "Integrated energy and petrochemical company producing and supplying fuels, chemicals, lubricants and lower-emissions technologies.",
+    "kind": "Business",
+    "ownership": "Subsidiary of public company",
+    "website": "https://corporate.exxonmobil.com/",
+    "sources": [
+      {
+        "label": "LDA report",
+        "url": "https://lda.gov/api/v1/filings/84156a75-f3c6-4502-aedf-885ec62a3bdd/",
+        "claim": "Directory-linked current report record for this exact organization."
+      },
+      {
+        "label": "House disclosure",
+        "url": "https://disclosurespreview.house.gov/data/LD/2014_Registrations_XML.zip",
+        "claim": "House archive member 300647027.xml: Exxon Mobil; Washington, DC; signed 4/21/2014; energy company."
+      },
+      {
+        "label": "Official company overview",
+        "url": "https://corporate.exxonmobil.com/who-we-are",
+        "claim": "ExxonMobil describes its petroleum and petrochemical businesses and identifies Exxon Mobil Corporation (XOM) as publicly traded; its investor materials identify NYSE trading."
+      },
+      {
+        "label": "ExxonMobil July 1, 2026 reorganization filing",
+        "url": "https://investor.exxonmobil.com/sec-filings/all-sec-filings/content/0001193125-26-291990/d71068d8k12b.htm",
+        "claim": "ExxonMobil Holdings Corporation replaced Exxon Mobil Corporation as the listed issuer; NYSE: XOM."
+      },
+      {
+        "label": "ExxonMobil Holdings subsidiary list, July 1, 2026",
+        "url": "https://investor.exxonmobil.com/sec-filings/all-sec-filings/content/0001193125-26-291990/d71068dex21.htm",
+        "claim": "Exxon Mobil Corporation, New Jersey, is 100 percent owned by the registrant."
+      }
+    ],
+    "notes": "Exxon Mobil Corporation became a wholly owned subsidiary of ExxonMobil Holdings Corporation on July 1, 2026. The new parent succeeded it as the publicly traded issuer (NYSE: XOM); historical lobbying filings retain the original corporation name.",
+    "featured": true,
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "",
+    "as_of": "2026-07-01"
+  },
+  "96579aea80bc2b2a": {
+    "name": "Pfizer",
+    "description": "Global biopharmaceutical company discovering, developing and manufacturing medicines and vaccines.",
+    "kind": "Business",
+    "ownership": "Publicly traded",
+    "website": "https://www.pfizer.com/",
+    "sources": [
+      {
+        "label": "LDA report",
+        "url": "https://lda.gov/api/v1/filings/2e3b7030-1bb2-4a12-90b5-0c10ad609e87/",
+        "claim": "Directory-linked current report record for this exact organization."
+      },
+      {
+        "label": "House disclosure",
+        "url": "https://disclosurespreview.house.gov/data/LD/2014_Registrations_XML.zip",
+        "claim": "House archive member 300649067.xml: Pfizer Inc.; Washington, DC; signed 4/21/2014; pharmaceutical company."
+      },
+      {
+        "label": "Official company overview",
+        "url": "https://www.pfizer.com/news/media-resources/press-kits/corporate-media-kit",
+        "claim": "Pfizer describes its medicines and vaccines and explicitly identifies its New York Stock Exchange listing as PFE."
+      },
+      {
+        "label": "SEC submissions metadata",
+        "url": "https://data.sec.gov/submissions/CIK0000078003.json",
+        "claim": "SEC issuer PFIZER INC; NYSE: PFE."
+      }
+    ],
+    "notes": "The directory name and historical House disclosure are retained as identity evidence. Public listing is dated to current research and is based on the issuer’s stated exchange and ticker; historical lobbying records may predate the listing or use a former legal name.",
+    "featured": true,
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "",
+    "as_of": "2026-09-04"
+  },
+  "586600071ce3d588": {
+    "name": "Lockheed Martin",
+    "description": "Global security and aerospace company designing and producing defense, space and related technology systems.",
+    "kind": "Business",
+    "ownership": "Publicly traded",
+    "website": "https://www.lockheedmartin.com/",
+    "sources": [
+      {
+        "label": "LDA report",
+        "url": "https://lda.gov/api/v1/filings/a308da0e-ebe8-4245-9ac0-0626372b8467/",
+        "claim": "Directory-linked current report record for this exact organization."
+      },
+      {
+        "label": "House disclosure",
+        "url": "https://disclosurespreview.house.gov/data/LD/2013_Registrations_XML.zip",
+        "claim": "House archive member 300577741.xml: Lockheed Martin; Alexandria, VA; signed 7/19/2013; defense contractor."
+      },
+      {
+        "label": "Official company overview",
+        "url": "https://investors.lockheedmartin.com/shareholder-services/investor-faqs",
+        "claim": "Lockheed Martin describes its security and aerospace business and identifies the New York Stock Exchange and ticker LMT."
+      },
+      {
+        "label": "SEC submissions metadata",
+        "url": "https://data.sec.gov/submissions/CIK0000936468.json",
+        "claim": "SEC issuer LOCKHEED MARTIN CORP; NYSE: LMT."
+      }
+    ],
+    "notes": "The directory name and historical House disclosure are retained as identity evidence. Public listing is dated to current research and is based on the issuer’s stated exchange and ticker; historical lobbying records may predate the listing or use a former legal name.",
+    "featured": true,
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "",
+    "as_of": "2026-09-04"
+  },
+  "afcbc33b98b56710": {
+    "name": "Mastercard",
+    "description": "Technology company operating a global payments network and related payment, security and data services.",
+    "kind": "Business",
+    "ownership": "Publicly traded",
+    "website": "https://www.mastercard.com/",
+    "sources": [
+      {
+        "label": "LDA report",
+        "url": "https://lda.gov/api/v1/filings/0dbd0289-d46b-469e-aae3-e91a576a24df/",
+        "claim": "Directory-linked current report record for this exact organization."
+      },
+      {
+        "label": "House disclosure",
+        "url": "https://disclosurespreview.house.gov/data/LD/2018_Registrations_XML.zip",
+        "claim": "House archive member 300961569.xml: Mastercard; Purchase, NY; signed 6/25/2018; financial services."
+      },
+      {
+        "label": "Official company overview",
+        "url": "https://investor.mastercard.com/overview/default.aspx",
+        "claim": "Mastercard describes its global payments technology business and investor relations page identifies NYSE: MA."
+      },
+      {
+        "label": "SEC submissions metadata",
+        "url": "https://data.sec.gov/submissions/CIK0001141391.json",
+        "claim": "SEC issuer Mastercard Inc; NYSE: MA."
+      }
+    ],
+    "notes": "The directory name and historical House disclosure are retained as identity evidence. Public listing is dated to current research and is based on the issuer’s stated exchange and ticker; historical lobbying records may predate the listing or use a former legal name.",
+    "featured": true,
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "",
+    "as_of": "2026-09-04"
+  },
+  "0f6187133c1bd69e": {
+    "name": "Visa",
+    "description": "Payments technology company operating a global electronic payments network.",
+    "kind": "Business",
+    "ownership": "Publicly traded",
+    "website": "https://usa.visa.com/",
+    "sources": [
+      {
+        "label": "LDA report",
+        "url": "https://lda.gov/filings/public/filing/d69d6cd3-2d0c-4a68-946b-f9e4a0463155/print/",
+        "claim": "Original lobbying filing belonging to this directory entry."
+      },
+      {
+        "label": "House disclosure",
+        "url": "https://disclosurespreview.house.gov/data/LD/2013_Registrations_XML.zip",
+        "claim": "House archive member 300556234.xml: Visa Inc.; Foster City, CA; signed 4/19/2013; electronic payments provider."
+      },
+      {
+        "label": "Official company overview",
+        "url": "https://usa.visa.com/about-visa/newsroom/press-releases.releaseId.7636.html",
+        "claim": "Visa describes its global payments technology business and states its shares trade on the NYSE: V."
+      },
+      {
+        "label": "SEC submissions metadata",
+        "url": "https://data.sec.gov/submissions/CIK0001403161.json",
+        "claim": "SEC issuer VISA INC.; NYSE: V."
+      }
+    ],
+    "notes": "The directory name and historical House disclosure are retained as identity evidence. Public listing is dated to current research and is based on the issuer’s stated exchange and ticker; historical lobbying records may predate the listing or use a former legal name.",
+    "featured": true,
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "",
+    "as_of": "2026-09-04"
+  },
+  "accd170e45c1f1e6": {
+    "name": "Coca-Cola Company",
+    "description": "Global beverage company with a portfolio of sparkling soft drinks, water, sports drinks and other beverages.",
+    "kind": "Business",
+    "ownership": "Publicly traded",
+    "website": "https://www.coca-colacompany.com/",
+    "sources": [
+      {
+        "label": "LDA client record (effective 2007-08-14)",
+        "url": "https://lda.gov/api/v1/clients/181822/",
+        "claim": "Names Coca Cola Company and lists Washington, DC."
+      },
+      {
+        "label": "Coca-Cola company overview (accessed 2026-09-04)",
+        "url": "https://investors.coca-colacompany.com/about",
+        "claim": "Describes The Coca-Cola Company and its global beverage brands."
+      },
+      {
+        "label": "Coca-Cola stock FAQ (accessed 2026-09-04)",
+        "url": "https://www.coca-cola.com/us/en/about-us/faq/what-is-the-coca-cola-company-s-ticker-symbol-and-where-does-you",
+        "claim": "States the stock trades on the NYSE: KO."
+      }
+    ],
+    "notes": "The directory name is normalized to Coca-Cola Company; the filing name and official investor materials identify The Coca-Cola Company.",
+    "featured": true,
+    "as_of": "2026-09-04",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "Corporation"
+  },
+  "9f446c8df2e3321c": {
+    "name": "Chevron",
+    "description": "Integrated energy company involved in producing, transporting and selling oil, gas and related energy products.",
+    "kind": "Business",
+    "ownership": "Publicly traded",
+    "website": "https://www.chevron.com/",
+    "sources": [
+      {
+        "label": "LDA client record (effective 2001-06-01)",
+        "url": "https://lda.gov/api/v1/clients/127523/",
+        "claim": "Names Chevron in the original lobbying client record."
+      },
+      {
+        "label": "Chevron company overview (accessed 2026-09-04)",
+        "url": "https://www.chevron.com/about",
+        "claim": "Describes Chevron’s integrated energy business."
+      },
+      {
+        "label": "Chevron stock and dividend information (accessed 2026-09-04)",
+        "url": "https://www.chevron.com/investors/stock-and-dividend",
+        "claim": "States Chevron common stock is listed on the NYSE: CVX."
+      }
+    ],
+    "notes": "The directory consolidates Chevron name variants; ownership and exchange are current as checked 2026-09-04.",
+    "featured": true,
+    "as_of": "2026-09-04",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "Corporation"
+  },
+  "184f0d66e545b427": {
+    "name": "Cisco Systems",
+    "description": "Technology company providing networking, security, collaboration and observability products and services.",
+    "kind": "Business",
+    "ownership": "Publicly traded",
+    "website": "https://www.cisco.com/",
+    "sources": [
+      {
+        "label": "LDA client record (effective 2007-06-05)",
+        "url": "https://lda.gov/api/v1/clients/152738/",
+        "claim": "Names Cisco Systems, Inc. and lists California."
+      },
+      {
+        "label": "Cisco investor corporate overview (accessed 2026-09-04)",
+        "url": "https://investor.cisco.com/overview/default.aspx?languageid=1",
+        "claim": "Describes Cisco’s networking, security and AI-powered technology business."
+      },
+      {
+        "label": "Cisco 2025 annual report (accessed 2026-09-04)",
+        "url": "https://www.cisco.com/c/dam/en_us/about/annual-report/2025-cisco-full-annual-report.pdf",
+        "claim": "States Cisco stock trades on the NASDAQ: CSCO."
+      }
+    ],
+    "notes": "Official materials support the Cisco Systems, Inc. identity represented by the directory aliases.",
+    "featured": true,
+    "as_of": "2026-09-04",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "Corporation"
+  },
+  "12551ae4163d3955": {
+    "name": "Salesforce",
+    "description": "Customer relationship management technology company providing sales, service, marketing, data, analytics and AI products.",
+    "kind": "Business",
+    "ownership": "Publicly traded",
+    "website": "https://www.salesforce.com/",
+    "sources": [
+      {
+        "label": "LDA client record (effective 2019-02-23)",
+        "url": "https://lda.gov/api/v1/clients/131993/",
+        "claim": "Names Salesforce and lists California."
+      },
+      {
+        "label": "Salesforce 2026 Form 10-K (accessed 2026-09-04)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1108524/000110852426000060/crm-20260131.htm",
+        "claim": "Describes Salesforce, Inc. as a global customer relationship management technology company."
+      },
+      {
+        "label": "Salesforce investor corporate overview (accessed 2026-09-04)",
+        "url": "https://investor.salesforce.com/overview/default.aspx",
+        "claim": "Describes Salesforce’s CRM and Agentforce platform and identifies Salesforce as NYSE: CRM."
+      }
+    ],
+    "notes": "Salesforce, Inc. is the public issuer represented by the directory name and aliases; the SEC filing and investor site support the business identity and NYSE: CRM listing.",
+    "featured": true,
+    "as_of": "2026-09-04",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "Corporation"
+  },
+  "1d3d71b08c835681": {
+    "name": "Oracle",
+    "description": "Enterprise technology company providing cloud infrastructure, databases, applications and related services.",
+    "kind": "Business",
+    "ownership": "Publicly traded",
+    "website": "https://www.oracle.com/",
+    "sources": [
+      {
+        "label": "LDA client record (effective 2007-08-07)",
+        "url": "https://lda.gov/api/v1/clients/165084/",
+        "claim": "Names Oracle in the original lobbying client record."
+      },
+      {
+        "label": "Oracle official database overview (accessed 2026-09-04)",
+        "url": "https://www.oracle.com/database/what-is-a-cloud-database/",
+        "claim": "Describes Oracle cloud database and cloud service products."
+      },
+      {
+        "label": "Oracle stock information (accessed 2026-09-04)",
+        "url": "https://investor.oracle.com/stock-information/default.aspx?LanguageId=1",
+        "claim": "States Oracle stock trades on the NYSE: ORCL."
+      }
+    ],
+    "notes": "The directory consolidates Oracle Corporation and Oracle name variants; the official investor site supports the current public issuer.",
+    "featured": true,
+    "as_of": "2026-09-04",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "Corporation"
+  },
+  "1874b6e11d321e66": {
+    "name": "Intel",
+    "description": "Semiconductor company designing and manufacturing processors, foundry products and computing technologies.",
+    "kind": "Business",
+    "ownership": "Publicly traded",
+    "website": "https://www.intel.com/",
+    "sources": [
+      {
+        "label": "LDA filing trail (directory years 1999–2026)",
+        "url": "https://lda.gov/api/v1/filings/1944920f-d54f-4ff2-a4a0-abf73a7330b9/",
+        "claim": "Original filing trail for the Intel directory record."
+      },
+      {
+        "label": "Intel 2024 annual report, filed 2025",
+        "url": "https://intc.com/filings-reports/all-sec-filings/content/0000050863-25-000052/a2024arsform10-k.pdf",
+        "claim": "Describes Intel Corporation’s semiconductor business and states common stock trades on the NASDAQ: INTC."
+      },
+      {
+        "label": "Intel official company overview (accessed 2026-09-04)",
+        "url": "https://www.intel.com/content/www/us/en/company-overview/company-overview.html",
+        "claim": "Describes Intel’s computing, semiconductor and foundry businesses."
+      }
+    ],
+    "notes": "The filing trail and SEC annual report support the Intel Corporation identity represented by the directory aliases.",
+    "featured": true,
+    "as_of": "2026-09-04",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "Corporation"
+  },
+  "973a4a818d799636": {
+    "name": "IBM",
+    "description": "Technology company providing hybrid cloud, artificial intelligence and enterprise consulting and infrastructure services.",
+    "kind": "Business",
+    "ownership": "Publicly traded",
+    "website": "https://www.ibm.com/",
+    "sources": [
+      {
+        "label": "LDA filing trail (directory years 1999–2026)",
+        "url": "https://lda.gov/api/v1/filings/00c47fc8-2134-479f-a306-f31117c2fe49/",
+        "claim": "Original filing trail for the IBM directory record."
+      },
+      {
+        "label": "IBM 2025 Form 10-K (accessed 2026-09-04)",
+        "url": "https://www.sec.gov/Archives/edgar/data/51143/000005114326000010/ibm-20251231.htm",
+        "claim": "Describes International Business Machines Corporation’s hybrid cloud and AI business."
+      },
+      {
+        "label": "IBM investor FAQ (accessed 2026-09-04)",
+        "url": "https://www.ibm.com/investor/help/general-faqs",
+        "claim": "IBM common stock is listed on NYSE and NYSE Texas under ticker IBM (NYSE: IBM)."
+      }
+    ],
+    "notes": "The filing trail and SEC report support International Business Machines Corporation as the organization represented by the IBM directory name.",
+    "featured": true,
+    "as_of": "2026-09-04",
+    "checked_at": "2026-09-04",
+    "status": "sourced",
+    "legal_form": "Corporation"
+  },
+  "421c83adb2c451d7": {
+    "name": "Anderson University (Indiana)",
+    "description": "Historical filings verified as an Indiana higher education institution. These records belong to a different client from the South Carolina university.",
+    "website": "",
+    "kind": "College / university",
+    "ownership": "Unknown",
+    "status": "unresolved",
+    "review_outcome": "unresolved",
+    "featured": false,
+    "as_of": "2026-09-09",
+    "checked_at": "2026-09-09",
+    "legal_form": "",
+    "notes": "Preserved separately to avoid attributing historical lobbying to the wrong university.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/8985b4f1-6ed4-432a-80cd-80204fb45e63/print/",
+        "label": "Original historical disclosure",
+        "claim": "Original filing retained in the verified partition."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/5889eef7-1362-4ed2-b087-5886352a2875/print/",
+        "label": "Original historical disclosure",
+        "claim": "Original filing retained in the verified partition."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/cd3d1ae6-492b-4897-b7d5-031760a9d65d/print/",
+        "label": "Original historical disclosure",
+        "claim": "Original filing retained in the verified partition."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/ec8ed33c-20e5-4562-95dc-3d61784ab514/print/",
+        "label": "Original historical disclosure",
+        "claim": "Original filing retained in the verified partition."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/7ee9d280-0e43-43f6-83c8-b3bd1950faf5/print/",
+        "label": "Original historical disclosure",
+        "claim": "Original filing retained in the verified partition."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/35ef548d-511d-45f9-b509-81c3ddfe58e4/print/",
+        "label": "Original historical disclosure",
+        "claim": "Original filing retained in the verified partition."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/7b3f3d3f-b708-49cc-8693-6a508ea6dddf/print/",
+        "label": "Original historical disclosure",
+        "claim": "Original filing retained in the verified partition."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/86b35f4c-1c1b-4297-a144-d13da43d4057/print/",
+        "label": "Original historical disclosure",
+        "claim": "Original filing retained in the verified partition."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/cef99e9f-8000-4ef6-a71c-8ac0ed0abee8/print/",
+        "label": "Original historical disclosure",
+        "claim": "Original filing retained in the verified partition."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/b4828c7d-b471-400c-aba4-6c950cadd7bd/print/",
+        "label": "Original historical disclosure",
+        "claim": "Original filing retained in the verified partition."
+      }
+    ]
+  },
+  "fb6e7906e8741c36": {
+    "name": "Anderson University (unassigned historical filings)",
+    "description": "Older filings with the shared name Anderson University. These records have not yet been assigned to a specific institution.",
+    "website": "",
+    "kind": "College / university",
+    "ownership": "Unknown",
+    "status": "unresolved",
+    "review_outcome": "unresolved",
+    "featured": false,
+    "as_of": "2026-09-09",
+    "checked_at": "2026-09-09",
+    "legal_form": "",
+    "notes": "Preserved separately to avoid attributing historical lobbying to the wrong university.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/5cd467a8-0c44-4d94-8572-40fd32de2fca/print/",
+        "label": "Original historical disclosure",
+        "claim": "Original filing retained in the verified partition."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/22ecc41f-7066-42dd-b8f1-dc5bb62b4325/print/",
+        "label": "Original historical disclosure",
+        "claim": "Original filing retained in the verified partition."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/b82e00f3-f1d9-44b3-9840-1ec392f185a4/print/",
+        "label": "Original historical disclosure",
+        "claim": "Original filing retained in the verified partition."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/dfcfa203-2161-413a-9840-126329454467/print/",
+        "label": "Original historical disclosure",
+        "claim": "Original filing retained in the verified partition."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/db19314f-3363-4555-b189-f8d9eb4545fd/print/",
+        "label": "Original historical disclosure",
+        "claim": "Original filing retained in the verified partition."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/8b2cfd43-4f0d-4710-83e3-736d47116c47/print/",
+        "label": "Original historical disclosure",
+        "claim": "Original filing retained in the verified partition."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/6a68e366-c96f-4ba2-a6fb-5dfd10dfc384/print/",
+        "label": "Original historical disclosure",
+        "claim": "Original filing retained in the verified partition."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/0784f5e4-bef4-4b7a-b358-d0084e8f699e/print/",
+        "label": "Original historical disclosure",
+        "claim": "Original filing retained in the verified partition."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/1fd0f090-6c19-4129-9228-f44cce8b8796/print/",
+        "label": "Original historical disclosure",
+        "claim": "Original filing retained in the verified partition."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/81a9d102-c8e7-47ca-a9c1-dc9c357869a3/print/",
+        "label": "Original historical disclosure",
+        "claim": "Original filing retained in the verified partition."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/0d6e3365-c44c-48b8-af2a-ea31f554376a/print/",
+        "label": "Original historical disclosure",
+        "claim": "Original filing retained in the verified partition."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/32e37275-d3ad-4de2-b460-4ff1a01aef08/print/",
+        "label": "Original historical disclosure",
+        "claim": "Original filing retained in the verified partition."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/0c2d0bc8-eebc-4cd0-a21b-30b327a855ac/print/",
+        "label": "Original historical disclosure",
+        "claim": "Original filing retained in the verified partition."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/c117fe7a-daed-4b9a-ae6d-54cde60715c1/print/",
+        "label": "Original historical disclosure",
+        "claim": "Original filing retained in the verified partition."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/21f94005-628b-42d7-99bc-36811d0a6a15/print/",
+        "label": "Original historical disclosure",
+        "claim": "Original filing retained in the verified partition."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/aba81668-53f3-4dbc-971a-d20dfd3a5c4e/print/",
+        "label": "Original historical disclosure",
+        "claim": "Original filing retained in the verified partition."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/28dc88c4-c1ef-4eb0-87d8-742659573b3c/print/",
+        "label": "Original historical disclosure",
+        "claim": "Original filing retained in the verified partition."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/fd70642f-b65a-4a0b-b383-907d945822b3/print/",
+        "label": "Original historical disclosure",
+        "claim": "Original filing retained in the verified partition."
+      }
+    ]
+  },
+  "16cb6f90313f663e": {
+    "name": "Community Memorial Hospital (other historical clients)",
+    "description": "Historical filings for other hospitals sharing the Community Memorial Hospital name. These records are separate from the Burke, South Dakota hospital. Individual identities still require review.",
+    "website": "",
+    "kind": "Hospital",
+    "ownership": "Unknown",
+    "status": "unresolved",
+    "review_outcome": "unresolved",
+    "featured": false,
+    "as_of": "2026-09-09",
+    "checked_at": "2026-09-09",
+    "legal_form": "",
+    "notes": "Includes different registrants and the separate Ohio client; do not apply one hospital location or closure to the entire group.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/785b0a68-d2c5-45de-9234-a3f8aa6ac3e0/print/",
+        "label": "Original historical filing",
+        "claim": "Preserved outside the verified Burke client history."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/c96a5f89-caa1-4b75-8e39-3ec9457b6384/print/",
+        "label": "Original historical filing",
+        "claim": "Preserved outside the verified Burke client history."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/6594a204-9f9f-4b55-a223-b5135dd73cc4/print/",
+        "label": "Original historical filing",
+        "claim": "Preserved outside the verified Burke client history."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/6f30580b-0b63-4c07-9165-92f33dea1a68/print/",
+        "label": "Original historical filing",
+        "claim": "Preserved outside the verified Burke client history."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/84b1b755-dfae-4173-8449-fb949acefe6a/print/",
+        "label": "Original historical filing",
+        "claim": "Preserved outside the verified Burke client history."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/66d5ac91-ebe1-4029-9c93-a2044e962912/print/",
+        "label": "Original historical filing",
+        "claim": "Preserved outside the verified Burke client history."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/898ca313-8b41-4819-b60f-5523bb17dcba/print/",
+        "label": "Original historical filing",
+        "claim": "Preserved outside the verified Burke client history."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/9850d859-85ab-4696-9018-433b9ca9de44/print/",
+        "label": "Original historical filing",
+        "claim": "Preserved outside the verified Burke client history."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/2137fb74-c807-4c2d-b1aa-caa03aa42224/print/",
+        "label": "Original historical filing",
+        "claim": "Preserved outside the verified Burke client history."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/1c0c1268-4f91-4226-a8c8-46a616423df8/print/",
+        "label": "Original historical filing",
+        "claim": "Preserved outside the verified Burke client history."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/7157a336-bb27-4c2c-9904-f21c80d2f1be/print/",
+        "label": "Original historical filing",
+        "claim": "Preserved outside the verified Burke client history."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/7fbb35a8-2034-4a6b-80f6-0fd2caf3a025/print/",
+        "label": "Original historical filing",
+        "claim": "Preserved outside the verified Burke client history."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/714943f6-e4ff-4285-81e7-38493bffd3e6/print/",
+        "label": "Original historical filing",
+        "claim": "Preserved outside the verified Burke client history."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/32d5d093-c262-45f2-b74d-ed5e217ff330/print/",
+        "label": "Original historical filing",
+        "claim": "Preserved outside the verified Burke client history."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/3feb0d91-1f0f-490a-910e-8dc36769c7e0/print/",
+        "label": "Original historical filing",
+        "claim": "Preserved outside the verified Burke client history."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/4600aa93-6727-463a-989e-30d7c8758a88/print/",
+        "label": "Original historical filing",
+        "claim": "Preserved outside the verified Burke client history."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/751e64c4-dd78-4e12-891f-c725d5543577/print/",
+        "label": "Original historical filing",
+        "claim": "Preserved outside the verified Burke client history."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/4bad0bc6-a521-4591-becf-c26d6fd24828/print/",
+        "label": "Original historical filing",
+        "claim": "Preserved outside the verified Burke client history."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/2c4709ad-1f7b-446f-87c5-8b1c8034ac78/print/",
+        "label": "Original historical filing",
+        "claim": "Preserved outside the verified Burke client history."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/bac3e088-fffb-4bcc-9361-566ec57178ca/print/",
+        "label": "Original historical filing",
+        "claim": "Preserved outside the verified Burke client history."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/6d0749d3-48cf-4ac1-90ab-f541d1c06c64/print/",
+        "label": "Original historical filing",
+        "claim": "Preserved outside the verified Burke client history."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/eeb95329-f75a-4f3d-9c1f-c4c42d40fe2d/print/",
+        "label": "Original historical filing",
+        "claim": "Preserved outside the verified Burke client history."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/5988fb73-607a-4c25-829e-777f4b5602f4/print/",
+        "label": "Original historical filing",
+        "claim": "Preserved outside the verified Burke client history."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/dc230c99-dce2-4335-8fb0-507eff2d4533/print/",
+        "label": "Original historical filing",
+        "claim": "Preserved outside the verified Burke client history."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/cced3649-39a9-4684-95e1-48639edeb10d/print/",
+        "label": "Original historical filing",
+        "claim": "Preserved outside the verified Burke client history."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/6df8b4f8-9a95-40a8-a317-673ef29376c6/print/",
+        "label": "Original historical filing",
+        "claim": "Preserved outside the verified Burke client history."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/ef3651ea-816a-49bf-b989-7e417e4d5e01/print/",
+        "label": "Original historical filing",
+        "claim": "Preserved outside the verified Burke client history."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/187dee27-776e-435f-adf6-9b0b17a0083b/print/",
+        "label": "Original historical filing",
+        "claim": "Preserved outside the verified Burke client history."
+      },
+      {
+        "url": "https://lda.gov/filings/public/filing/e1ba9fc4-de71-4bcd-98e9-19c5df8e2549/print/",
+        "label": "Original historical filing",
+        "claim": "Preserved outside the verified Burke client history."
+      }
+    ]
+  },
+  "3624b73887546473": {
+    "name": "Douglas County (Washington)",
+    "description": "County government of Douglas County, Washington. Administers county services including roads, land-use planning, public records and emergency services.",
+    "website": "https://www.douglascountywa.gov/",
+    "kind": "County government",
+    "ownership": "Government",
+    "sources": [
+      {
+        "url": "https://lda.gov/api/v1/filings/b24cbe5c-2928-448a-b0e4-4f29a495ddad/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 61331 reports Douglas County in WA."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/1c1c577a-09e3-4fde-ab37-24695550b07b/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 61331 reports Douglas County in WA."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/b3938491-9ce8-4abc-ac97-338255c6a691/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 61331 reports Douglas County in WA."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/d3745bac-72cc-47cd-ad24-5ad3f9c6e69a/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 61331 reports Douglas County in WA."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/9f558a83-6a7c-4533-a1f2-3cab9c1c9e29/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 61331 reports Douglas County in WA."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/143a8023-8852-414c-a163-57b259a7c378/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 61331 reports Douglas County in WA."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/31d3810a-7bc9-4c66-961f-69b55a871bea/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 61331 reports Douglas County in WA."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/13ca360b-d9fb-4f33-8535-50aab72580a5/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 61331 reports Douglas County in WA."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/af052499-72ba-40f2-a1a7-3fefba075109/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 61331 reports Douglas County in WA."
+      },
+      {
+        "url": "https://www.douglascountywa.gov/",
+        "label": "Official county website",
+        "claim": "Identifies Douglas County, Washington, and lists county services."
+      }
+    ],
+    "identity_evidence": "Each assigned filing was checked against its embedded LDA client state.",
+    "status": "sourced",
+    "review_outcome": "confirmed",
+    "website_status": "verified",
+    "checked_at": "2026-09-09",
+    "as_of": "2026-09-09",
+    "notes": "Separated from a source-name group containing Colorado, Washington and Nebraska. Unchecked historical filings remain in a separate unassigned entry. Logo has not been verified.",
+    "featured": false,
+    "legal_form": "County government",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved"
+  },
+  "cd33bcbafae4badb": {
+    "name": "Douglas County (Nebraska)",
+    "description": "County government of Douglas County, Nebraska.",
+    "website": "",
+    "kind": "County government",
+    "ownership": "Government",
+    "sources": [
+      {
+        "url": "https://lda.gov/api/v1/filings/fbc82af8-d98e-47ce-acf0-1a7bd5e1146a/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 130194 reports Douglas County in NE."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/cbd0b202-d14b-4b8e-8ea5-a333ade54e9b/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 130194 reports Douglas County in NE."
+      }
+    ],
+    "identity_evidence": "Each assigned filing was checked against its embedded LDA client state.",
+    "status": "sourced",
+    "review_outcome": "partial",
+    "website_status": "unresolved",
+    "checked_at": "2026-09-09",
+    "as_of": "2026-09-09",
+    "notes": "Separated from a source-name group containing Colorado, Washington and Nebraska. Unchecked historical filings remain in a separate unassigned entry. Logo has not been verified.",
+    "featured": false,
+    "legal_form": "County government",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved"
+  },
+  "d55cb7e689db1324": {
+    "name": "Douglas County (unassigned historical filings)",
+    "description": "Historical Douglas County filings whose jurisdiction has not yet been verified. These reports are not attributed to a single county.",
+    "website": "",
+    "kind": "County government",
+    "ownership": "Unknown",
+    "sources": [
+      {
+        "url": "https://lda.gov/api/v1/filings/36207c79-34d8-4151-b22e-2a4439d57d56/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 64579 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/df09c4ba-a270-4222-8249-6e2aa1d264b8/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 64579 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/eefe72cf-e392-4fa2-ad2b-8ec8e8e3ad26/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 64579 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/5efbfd91-a88b-412f-b4dc-0f9223f82417/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 64579 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/330e9649-135c-4c86-af6a-76612017ea1a/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 64579 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/bb32b16b-7adc-4d0f-aa8a-7195c96e03ac/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 64579 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/dd1c7b76-290e-4e5e-bdda-6f0e9149b2bd/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 64579 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/03ec0cde-28d7-41da-abda-87105b286582/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 64579 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/cc128dd9-15c6-4580-bfa8-bce585d9b255/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 182213 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/429eed2c-af18-4b5e-b84e-6b6d4c660262/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 182213 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/0a9ec11f-c252-4eb2-baee-163a55304da4/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 182213 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/d8ba8abd-00bf-4148-96fe-585c86d75f99/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 182213 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/82e7920d-8797-4b8d-aba4-619e8d9331da/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 182213 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/d9424a97-5135-4ce0-b1cd-66b1d871f949/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 182213 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/2a1e3ee0-2999-4ff0-844d-23eed465fe9a/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 182213 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/6a8bb9b4-cdf0-41d1-b0e9-ef96207eb09d/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 182213 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/11036cac-2586-4df4-8fe3-62e0fd60bd99/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 182213 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/46716db1-92dd-402b-81d9-a0035116be73/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 182213 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/67645a3b-67a4-4a9b-a8e0-b8b83c920a6f/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 182213 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/2fa4f758-49af-420c-be92-c1784f483b73/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 182213 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/998922f1-86b0-414f-9223-aa0dfbbf6fe9/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 182213 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/bce1ddca-e65c-4f49-8460-1adefa5c0ee5/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 182213 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/5bbb5538-3551-405a-a870-f71f2b26b34b/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 182213 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/9ed94ed8-1704-4a02-97b9-791fe2dcd060/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 182213 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/48eba76c-8d26-4ac4-866f-a5a515f70e52/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 182213 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/68a1d69d-3212-4060-a5cf-d374f6359c26/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 182213 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/84535d8e-87e2-461a-9238-27fb86963502/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 182213 reports Douglas County in CO."
+      },
+      {
+        "url": "https://www.douglasco.gov/",
+        "label": "Official county website",
+        "claim": "Identifies Douglas County, Colorado, and lists county services."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/b24cbe5c-2928-448a-b0e4-4f29a495ddad/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 61331 reports Douglas County in WA."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/1c1c577a-09e3-4fde-ab37-24695550b07b/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 61331 reports Douglas County in WA."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/b3938491-9ce8-4abc-ac97-338255c6a691/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 61331 reports Douglas County in WA."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/d3745bac-72cc-47cd-ad24-5ad3f9c6e69a/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 61331 reports Douglas County in WA."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/9f558a83-6a7c-4533-a1f2-3cab9c1c9e29/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 61331 reports Douglas County in WA."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/143a8023-8852-414c-a163-57b259a7c378/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 61331 reports Douglas County in WA."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/31d3810a-7bc9-4c66-961f-69b55a871bea/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 61331 reports Douglas County in WA."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/13ca360b-d9fb-4f33-8535-50aab72580a5/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 61331 reports Douglas County in WA."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/af052499-72ba-40f2-a1a7-3fefba075109/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 61331 reports Douglas County in WA."
+      },
+      {
+        "url": "https://www.douglascountywa.gov/",
+        "label": "Official county website",
+        "claim": "Identifies Douglas County, Washington, and lists county services."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/fbc82af8-d98e-47ce-acf0-1a7bd5e1146a/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 130194 reports Douglas County in NE."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/cbd0b202-d14b-4b8e-8ea5-a333ade54e9b/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 130194 reports Douglas County in NE."
+      }
+    ],
+    "identity_evidence": "Exact source-name collision; these historical filings await individual jurisdiction verification.",
+    "status": "unresolved",
+    "review_outcome": "unresolved",
+    "website_status": "unresolved",
+    "checked_at": "2026-09-09",
+    "as_of": "2026-09-09",
+    "notes": "Separated from a source-name group containing Colorado, Washington and Nebraska. Unchecked historical filings remain in a separate unassigned entry. Logo has not been verified.",
+    "featured": false,
+    "legal_form": "",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved"
+  },
+  "bca179a3f84ac611": {
+    "name": "City of Lakewood (Ohio)",
+    "description": "Municipal government of Lakewood, Ohio.",
+    "website": "https://lakewoodoh.gov/",
+    "kind": "Government",
+    "ownership": "Government body",
+    "sources": [
+      {
+        "url": "https://lda.gov/api/v1/filings/6b868393-4ee7-421b-a7b2-ded50333a3a0/?format=json",
+        "label": "Original filing client jurisdiction",
+        "claim": "Client 55127 names CITY OF LAKEWOOD in California; both client state fields agree."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/884c3f76-0416-48df-ba50-afce267abc39/?format=json",
+        "label": "Original filing client jurisdiction",
+        "claim": "Client 198635 names CITY OF LAKEWOOD in Ohio; both client state fields agree."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/bcd177c2-2f23-421b-a11e-c5bfa5ed0932/?format=json",
+        "label": "Original filing client jurisdiction",
+        "claim": "Client 189831 names CITY OF LAKEWOOD in Washington; both client state fields agree."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/c4fa362d-6637-4a94-8259-978e3ee58e81/?format=json",
+        "label": "Original filing client jurisdiction",
+        "claim": "Client 55127 names CITY OF LAKEWOOD in California; both client state fields agree."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/1d6c0476-92b3-44c8-bdd2-a33a51a69240/?format=json",
+        "label": "Original filing client jurisdiction",
+        "claim": "Client 198635 names CITY OF LAKEWOOD in Ohio; both client state fields agree."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/8f12e29e-74f4-4485-a60a-5a128a3873a6/?format=json",
+        "label": "Original filing client jurisdiction",
+        "claim": "Client 189831 names CITY OF LAKEWOOD in Washington; both client state fields agree."
+      }
+    ],
+    "identity_evidence": "Only individually checked 2026 filings with matching client state and principal-place-of-business state OH are included. Historical filings not checked remain in a separate unassigned group.",
+    "status": "sourced",
+    "review_outcome": "confirmed",
+    "website_status": "verified",
+    "checked_at": "2026-09-13",
+    "as_of": "2026-09-13",
+    "notes": "Only individually checked 2026 filings with matching client state and principal-place-of-business state OH are included. Historical filings not checked remain in a separate unassigned group.",
+    "featured": false,
+    "legal_form": "",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved"
+  },
+  "5faf82fb4bea2d98": {
+    "name": "City of Lakewood (Washington)",
+    "description": "Municipal government of Lakewood, Washington.",
+    "website": "",
+    "kind": "Government",
+    "ownership": "Government body",
+    "sources": [
+      {
+        "url": "https://lda.gov/api/v1/filings/6b868393-4ee7-421b-a7b2-ded50333a3a0/?format=json",
+        "label": "Original filing client jurisdiction",
+        "claim": "Client 55127 names CITY OF LAKEWOOD in California; both client state fields agree."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/884c3f76-0416-48df-ba50-afce267abc39/?format=json",
+        "label": "Original filing client jurisdiction",
+        "claim": "Client 198635 names CITY OF LAKEWOOD in Ohio; both client state fields agree."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/bcd177c2-2f23-421b-a11e-c5bfa5ed0932/?format=json",
+        "label": "Original filing client jurisdiction",
+        "claim": "Client 189831 names CITY OF LAKEWOOD in Washington; both client state fields agree."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/c4fa362d-6637-4a94-8259-978e3ee58e81/?format=json",
+        "label": "Original filing client jurisdiction",
+        "claim": "Client 55127 names CITY OF LAKEWOOD in California; both client state fields agree."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/1d6c0476-92b3-44c8-bdd2-a33a51a69240/?format=json",
+        "label": "Original filing client jurisdiction",
+        "claim": "Client 198635 names CITY OF LAKEWOOD in Ohio; both client state fields agree."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/8f12e29e-74f4-4485-a60a-5a128a3873a6/?format=json",
+        "label": "Original filing client jurisdiction",
+        "claim": "Client 189831 names CITY OF LAKEWOOD in Washington; both client state fields agree."
+      }
+    ],
+    "identity_evidence": "Only individually checked 2026 filings with matching client state and principal-place-of-business state WA are included. Historical filings not checked remain in a separate unassigned group.",
+    "status": "sourced",
+    "review_outcome": "confirmed",
+    "website_status": "unresolved",
+    "checked_at": "2026-09-13",
+    "as_of": "2026-09-13",
+    "notes": "Only individually checked 2026 filings with matching client state and principal-place-of-business state WA are included. Historical filings not checked remain in a separate unassigned group.",
+    "featured": false,
+    "legal_form": "",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved"
+  },
+  "9aa99e99fb306e06": {
+    "name": "City of Lakewood (unassigned historical filings)",
+    "description": "Historical filings under City of Lakewood whose municipal jurisdiction has not been assigned. These totals must not be attributed to one city.",
+    "website": "",
+    "kind": "Government",
+    "ownership": "Government body",
+    "sources": [
+      {
+        "url": "https://lda.gov/api/v1/filings/6b868393-4ee7-421b-a7b2-ded50333a3a0/?format=json",
+        "label": "Original filing client jurisdiction",
+        "claim": "Client 55127 names CITY OF LAKEWOOD in California; both client state fields agree."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/884c3f76-0416-48df-ba50-afce267abc39/?format=json",
+        "label": "Original filing client jurisdiction",
+        "claim": "Client 198635 names CITY OF LAKEWOOD in Ohio; both client state fields agree."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/bcd177c2-2f23-421b-a11e-c5bfa5ed0932/?format=json",
+        "label": "Original filing client jurisdiction",
+        "claim": "Client 189831 names CITY OF LAKEWOOD in Washington; both client state fields agree."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/c4fa362d-6637-4a94-8259-978e3ee58e81/?format=json",
+        "label": "Original filing client jurisdiction",
+        "claim": "Client 55127 names CITY OF LAKEWOOD in California; both client state fields agree."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/1d6c0476-92b3-44c8-bdd2-a33a51a69240/?format=json",
+        "label": "Original filing client jurisdiction",
+        "claim": "Client 198635 names CITY OF LAKEWOOD in Ohio; both client state fields agree."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/8f12e29e-74f4-4485-a60a-5a128a3873a6/?format=json",
+        "label": "Original filing client jurisdiction",
+        "claim": "Client 189831 names CITY OF LAKEWOOD in Washington; both client state fields agree."
+      }
+    ],
+    "identity_evidence": "All filings not individually checked for client jurisdiction remain here. No assignment is inferred from registrant address or the shared city name.",
+    "status": "sourced",
+    "review_outcome": "partial",
+    "website_status": "unresolved",
+    "checked_at": "2026-09-13",
+    "as_of": "2026-09-13",
+    "notes": "All filings not individually checked for client jurisdiction remain here. No assignment is inferred from registrant address or the shared city name.",
+    "featured": false,
+    "legal_form": "",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved"
+  },
+  "4231fe7057e681fb": {
+    "name": "City of Miami (unassigned historical filings)",
+    "description": "Historical filings under City of Miami whose municipal jurisdiction has not been assigned. These totals must not be attributed to one city.",
+    "website": "",
+    "kind": "Government",
+    "ownership": "Government body",
+    "sources": [
+      {
+        "url": "https://lda.gov/api/v1/filings/e477f61f-72f0-4670-ba01-1f7588b79ccb/?format=json",
+        "label": "Original filing client jurisdiction",
+        "claim": "Client 70311 names CITY OF MIAMI in Florida; both client state fields agree."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/b6f0fad7-45bf-4aa8-9235-919723277884/?format=json",
+        "label": "Original filing client jurisdiction",
+        "claim": "Client 68565 names CITY OF MIAMI in Florida; both client state fields agree."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/218ed7c9-56c3-4689-9639-eba25135b862/?format=json",
+        "label": "Original filing client jurisdiction",
+        "claim": "Client 70311 names CITY OF MIAMI in Florida; both client state fields agree."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/b3c25e61-98fa-4a81-a021-29213cf3cb61/?format=json",
+        "label": "Original filing client jurisdiction",
+        "claim": "Client 68565 names CITY OF MIAMI in Florida; both client state fields agree."
+      }
+    ],
+    "identity_evidence": "All filings not individually checked for client jurisdiction remain here. No assignment is inferred from registrant address or the shared city name.",
+    "status": "sourced",
+    "review_outcome": "partial",
+    "website_status": "unresolved",
+    "checked_at": "2026-09-13",
+    "as_of": "2026-09-13",
+    "notes": "All filings not individually checked for client jurisdiction remain here. No assignment is inferred from registrant address or the shared city name.",
+    "featured": false,
+    "legal_form": "",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved"
+  }
+}

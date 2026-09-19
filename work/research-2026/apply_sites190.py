@@ -1,0 +1,8 @@
+import json,pathlib,copy
+r=pathlib.Path('work/research-2026');p=json.load(open(r/'reviewed.json'));assert not (r/'featured190-before.json').exists();before={};dec=[]
+rows=[('c8979c6792f84a28','https://www.cardahealth.com/privacy','Official website privacy policy explicitly identifies Carda Health, Inc. as Carda, establishing the legal-name and website link. The source is used for identity only, not to substantiate clinical outcomes or ownership.'),('983ac059d2b55fe5','https://careforth.com/privacy/','Official privacy policy explicitly identifies Seniorlink Incorporated d/b/a Careforth, directly linking the filed legal name and operating brand. Its references to subsidiaries do not establish a parent ownership structure.'),('e63ac8f3bca2ba1b','https://cascadedesigns.com/','Official corporate website explicitly names Cascade Designs, Inc. and describes its outdoor-equipment brands and Varilite products. It confirms the exact operating identity; ownership remains separately classified from available evidence.')]
+for i,u,n in rows:
+ v=p[i];before[i]=copy.deepcopy(v);v.update(review_outcome='confirmed',status='sourced',website_status='verified',checked_at='2026-09-13',identity_evidence=n,notes=n);v['sources'].append(dict(url=u,label='Official legal-name evidence',claim=n));dec.append(dict(id=i,decision='confirmed',notes=n))
+for name,value in [('before',before),('decisions',dec)]: (r/f'featured190-{name}.json').write_text(json.dumps(value,indent=2)+'\n')
+for f in [r/'reviewed.json',pathlib.Path('outputs/2026-research-trial/profiles.json')]:f.write_text(json.dumps(p,ensure_ascii=False,indent=2)+'\n')
+pathlib.Path('lobbying-map/research/reviewed-2026.json').write_text(json.dumps(p,ensure_ascii=False));print('3 identities saved')

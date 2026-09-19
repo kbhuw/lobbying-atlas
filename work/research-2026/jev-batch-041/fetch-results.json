@@ -1,0 +1,263 @@
+[
+  {
+    "id": "f27d9e78af643e26",
+    "name": "Energos Infrastructure Management LLC",
+    "requested_url": "https://energosinfra.com/about-us/",
+    "status": 200,
+    "final_url": "https://energosinfra.com/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-041/0-f27d9e78af643e26.txt",
+    "text_chars": 4120
+  },
+  {
+    "id": "c765e7b973363402",
+    "name": "Houghton Mifflin Harcourt Company",
+    "requested_url": "https://www.hmhco.com/policy/terms",
+    "status": 200,
+    "final_url": "https://www.hmhco.com/policy/terms",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-041/1-c765e7b973363402.txt",
+    "text_chars": 7102
+  },
+  {
+    "id": "c765e7b973363402",
+    "name": "Houghton Mifflin Harcourt Company",
+    "requested_url": "https://www.hmhco.com/policy/web-terms-of-use",
+    "status": 200,
+    "final_url": "https://www.hmhco.com/policy/web-terms-of-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-041/2-c765e7b973363402.txt",
+    "text_chars": 34599
+  },
+  {
+    "id": "c686ecf56b09cfea",
+    "name": "the ARC of Loudon",
+    "requested_url": "https://thearcofloudoun.org/about-us/membership/",
+    "status": 202,
+    "final_url": "https://thearcofloudoun.org/about-us/membership/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-041/3-c686ecf56b09cfea.txt",
+    "text_chars": 100
+  },
+  {
+    "id": "19dd4b85f078672a",
+    "name": "South BOW Infrastructure Operations, Inc.",
+    "requested_url": "https://www.southbow.com/about/",
+    "status": 200,
+    "final_url": "https://www.southbow.com/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-041/4-19dd4b85f078672a.txt",
+    "text_chars": 3427
+  },
+  {
+    "id": "19dd4b85f078672a",
+    "name": "South BOW Infrastructure Operations, Inc.",
+    "requested_url": "https://www.southbow.com/about/contact-us/",
+    "status": 200,
+    "final_url": "https://www.southbow.com/about/contact-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-041/5-19dd4b85f078672a.txt",
+    "text_chars": 3271
+  },
+  {
+    "id": "67d1ea416219787b",
+    "name": "Cotton Logistics, Inc.",
+    "requested_url": "https://www.cottonlogistics.com/about-cotton-logistics/",
+    "status": 200,
+    "final_url": "https://www.cottonlogistics.com/about-cotton-logistics/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-041/6-67d1ea416219787b.txt",
+    "text_chars": 12265
+  },
+  {
+    "id": "67d1ea416219787b",
+    "name": "Cotton Logistics, Inc.",
+    "requested_url": "https://www.cottonlogistics.com/about-cotton-logistics/case-studies/",
+    "status": 200,
+    "final_url": "https://www.cottonlogistics.com/about-cotton-logistics/case-studies/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-041/7-67d1ea416219787b.txt",
+    "text_chars": 10905
+  },
+  {
+    "id": "8d93e42b9eff777a",
+    "name": "Washington Gas Light Company (represented by growth[period])",
+    "requested_url": "https://www.washingtongas.com/about/corporate-governance",
+    "status": 200,
+    "final_url": "https://www.washingtongas.com/about/corporate-governance",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-041/8-8d93e42b9eff777a.txt",
+    "text_chars": 8217
+  },
+  {
+    "id": "8d93e42b9eff777a",
+    "name": "Washington Gas Light Company (represented by growth[period])",
+    "requested_url": "https://www.washingtongas.com/about/media-contacts",
+    "status": 200,
+    "final_url": "https://www.washingtongas.com/about/media-contacts",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-041/9-8d93e42b9eff777a.txt",
+    "text_chars": 2111
+  },
+  {
+    "id": "ae08de3d5e949545",
+    "name": "Nofence LLC",
+    "requested_url": "https://www.nofence.com/product-and-subscription-terms-2026-07-01/",
+    "status": 200,
+    "final_url": "https://www.nofence.com/product-and-subscription-terms-2026-07-01/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-041/10-ae08de3d5e949545.txt",
+    "text_chars": 35939
+  },
+  {
+    "id": "ae08de3d5e949545",
+    "name": "Nofence LLC",
+    "requested_url": "https://www.nofence.com/about-us/",
+    "status": 200,
+    "final_url": "https://www.nofence.com/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-041/11-ae08de3d5e949545.txt",
+    "text_chars": 3216
+  },
+  {
+    "id": "ed39531083898b29",
+    "name": "Inquisit, LLC",
+    "requested_url": "https://www.inquisitllc.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.inquisitllc.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-041/12-ed39531083898b29.txt",
+    "text_chars": 3819
+  },
+  {
+    "id": "b316b860098202cf",
+    "name": "Lwrc International LLC",
+    "requested_url": "https://www.lwrci.com/Privacy-Policy_ep_52-1.html",
+    "status": 200,
+    "final_url": "https://www.lwrci.com/Privacy-Policy_ep_52-1.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-041/13-b316b860098202cf.txt",
+    "text_chars": 8242
+  },
+  {
+    "id": "b316b860098202cf",
+    "name": "Lwrc International LLC",
+    "requested_url": "https://www.lwrci.com/Terms-and-Conditions_ep_2-1.html",
+    "status": 200,
+    "final_url": "https://www.lwrci.com/Terms-and-Conditions_ep_2-1.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-041/14-b316b860098202cf.txt",
+    "text_chars": 10711
+  },
+  {
+    "id": "2b39180d6fea8bff",
+    "name": "Morvillo Abramowitz Grand Iason & Anello PC O/b/o Bancamiga Banco Universal, CA",
+    "requested_url": "https://www.maglaw.com/terms",
+    "status": 200,
+    "final_url": "https://www.maglaw.com/terms",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-041/15-2b39180d6fea8bff.txt",
+    "text_chars": 1986
+  },
+  {
+    "id": "2b39180d6fea8bff",
+    "name": "Morvillo Abramowitz Grand Iason & Anello PC O/b/o Bancamiga Banco Universal, CA",
+    "requested_url": "https://www.maglaw.com/about",
+    "status": 200,
+    "final_url": "https://www.maglaw.com/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-041/16-2b39180d6fea8bff.txt",
+    "text_chars": 3235
+  },
+  {
+    "id": "0e4dba7bcef4695d",
+    "name": "Nusano, Inc.",
+    "requested_url": "https://nusano.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://nusano.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-041/17-0e4dba7bcef4695d.txt",
+    "text_chars": 18481
+  },
+  {
+    "id": "0e4dba7bcef4695d",
+    "name": "Nusano, Inc.",
+    "requested_url": "https://nusano.com/terms-of-service/",
+    "status": 200,
+    "final_url": "https://nusano.com/terms-of-service/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-041/18-0e4dba7bcef4695d.txt",
+    "text_chars": 24197
+  },
+  {
+    "id": "47ee50c08f054aee",
+    "name": "Printelect (Owen G. Dunn Co., Inc.)",
+    "requested_url": "https://printelect.com/pages/us-privacy-requests",
+    "status": 200,
+    "final_url": "https://printelect.com/pages/us-privacy-requests",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-041/19-47ee50c08f054aee.txt",
+    "text_chars": 17710
+  },
+  {
+    "id": "563756bad1fb36fe",
+    "name": "Priority Outdoor Products, Inc.",
+    "requested_url": "https://www.prioritybicycles.com/pages/returns_warranty_terms_conditions",
+    "status": 200,
+    "final_url": "https://www.prioritybicycles.com/pages/returns_warranty_terms_conditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-041/20-563756bad1fb36fe.txt",
+    "text_chars": 51970
+  },
+  {
+    "id": "563756bad1fb36fe",
+    "name": "Priority Outdoor Products, Inc.",
+    "requested_url": "https://www.prioritybicycles.com/policies/terms-of-service",
+    "status": 200,
+    "final_url": "https://www.prioritybicycles.com/policies/terms-of-service",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-041/21-563756bad1fb36fe.txt",
+    "text_chars": 10793
+  },
+  {
+    "id": "d6d213224b4a212a",
+    "name": "R2 Wireless, Inc.",
+    "requested_url": "https://r2-wireless.com/about-r2/",
+    "status": 200,
+    "final_url": "https://r2-wireless.com/about-r2/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-041/22-d6d213224b4a212a.txt",
+    "text_chars": 3308
+  },
+  {
+    "id": "ea3746c4e19c5174",
+    "name": "South Carolina House Calls, Inc.",
+    "requested_url": "https://www.yourhealth.org/about",
+    "status": 200,
+    "final_url": "https://www.yourhealth.org/about-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-041/23-ea3746c4e19c5174.txt",
+    "text_chars": 9920
+  },
+  {
+    "id": "ea3746c4e19c5174",
+    "name": "South Carolina House Calls, Inc.",
+    "requested_url": "https://www.yourhealth.org/about-us",
+    "status": 200,
+    "final_url": "https://www.yourhealth.org/about-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-041/24-ea3746c4e19c5174.txt",
+    "text_chars": 9920
+  },
+  {
+    "id": "d7f3c3e2c36b9735",
+    "name": "Invisio Communications",
+    "requested_url": "https://invisio.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://invisio.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-041/25-d7f3c3e2c36b9735.txt",
+    "text_chars": 17479
+  },
+  {
+    "id": "d7f3c3e2c36b9735",
+    "name": "Invisio Communications",
+    "requested_url": "https://invisio.com/company/about-invisio/",
+    "status": 200,
+    "final_url": "https://invisio.com/company/about-invisio/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-041/26-d7f3c3e2c36b9735.txt",
+    "text_chars": 7691
+  },
+  {
+    "id": "2304d5a005d16ad7",
+    "name": "Rayonier Operating Company LLC",
+    "requested_url": "https://www.rayonier.com/legal",
+    "status": 200,
+    "final_url": "https://www.rayonier.com/legal",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-041/27-2304d5a005d16ad7.txt",
+    "text_chars": 42628
+  },
+  {
+    "id": "2304d5a005d16ad7",
+    "name": "Rayonier Operating Company LLC",
+    "requested_url": "https://www.rayonier.com/about",
+    "status": 200,
+    "final_url": "https://www.rayonier.com/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-041/28-2304d5a005d16ad7.txt",
+    "text_chars": 5595
+  }
+]

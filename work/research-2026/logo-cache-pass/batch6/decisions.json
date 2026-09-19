@@ -1,0 +1,35 @@
+{
+  "accepted": [
+    1,
+    2,
+    9,
+    12,
+    14,
+    20,
+    21,
+    22
+  ],
+  "dark": [
+    9,
+    14,
+    20
+  ],
+  "deferred": {
+    "0": "American College of Radiology mark; Association entity use needs verification",
+    "3": "Combined BOMA/BOMI branding; prefer standalone mark",
+    "4": "Photograph, not logo",
+    "5": "California Community Foundation brand rather than named fund",
+    "6": "Award lockup; prefer standalone chamber mark",
+    "7": "Dartmouth Health group brand; exact medical-center usage unresolved",
+    "8": "Shared West Health brand; Institute-specific use unresolved",
+    "10": "Shared international ISD brand; US entity use unresolved",
+    "11": "Lafayette Square Institute name differs from Foundation",
+    "13": "League of Credit Unions rebranding requires former-name verification",
+    "15": "University athletics mark rather than research corporation",
+    "16": "Wrong organization: athenahealth vendor",
+    "17": "Hospital mark rather than health-system identity",
+    "18": "Download failed",
+    "19": "Combined Montefiore Einstein brand; exact medical-center use unresolved",
+    "23": "Wrong organization: Apartments.com sponsor"
+  }
+}

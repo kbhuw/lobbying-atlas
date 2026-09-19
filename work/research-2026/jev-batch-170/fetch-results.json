@@ -1,0 +1,1240 @@
+[
+  {
+    "id": "6c814815d3b40283",
+    "name": "Baxter Healthcare",
+    "requested_url": "https://www.baxter.com/our-story",
+    "status": 200,
+    "final_url": "https://www.baxter.com/about-baxter",
+    "text_chars": 5949,
+    "logo_candidates": [
+      {
+        "src": "/themes/custom/cosmos/logo.svg",
+        "alt": "Home",
+        "fetchpriority": "high"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "class": "aprimo-image",
+        "onerror": "this.onerror=null;this.src='/core/modules/media/images/icons/no-thumbnail.png';this.width=100;this.height=100;",
+        "src": "https://p1.aprimocdn.net/hillrom/41532c7c-507d-412a-9117-b38c003a755d/Baxter_International_Deerfield_Monument-Sign_Media%20Component%20Render%20for%20Web.jpg",
+        "alt": "A large outdoor sign with the Baxter Logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-170/6c814815d3b40283.txt"
+  },
+  {
+    "id": "020d795e017448a0",
+    "name": "Bayan Mining and Minerals",
+    "requested_url": "https://www.bayanminerals.com.au/",
+    "status": 200,
+    "final_url": "https://www.bayanminerals.com.au/",
+    "text_chars": 143,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-170/020d795e017448a0.txt"
+  },
+  {
+    "id": "d47425708b7eb8c4",
+    "name": "Bayer Pharmaceuticals",
+    "requested_url": "https://www.bayer.com/en/about-us",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "212ff28f5e48ee5b",
+    "name": "Bayer Corporation",
+    "requested_url": "https://www.bayer.com/en/about-us",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "236713095f2a3820",
+    "name": "Bayer Corporation (formerly Monsanto Company)",
+    "requested_url": "https://www.bayer.com/en/agriculture",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "18c884e7c2d90dcb",
+    "name": "Bayer Corporation (formerly Monsanto Company)",
+    "requested_url": "https://www.bayer.com/en/about-us",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "423319a452a0b5fe",
+    "name": "Bayer US LLC",
+    "requested_url": "https://www.bayer.com/en/us",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "74fa3f14cfb47706",
+    "name": "Baystate Health",
+    "requested_url": "https://www.baystatehealth.org/about-us",
+    "status": 200,
+    "final_url": "https://www.baystatehealth.org/about-us",
+    "text_chars": 9564,
+    "logo_candidates": [
+      {
+        "class": "primary-nav__logo-img",
+        "src": "/-/media/images/testing/fed-images/static/baystate_health_2l_wht.svg?rev=320f9336013f44f9a9314afd43596670",
+        "alt": "baystate health logo"
+      },
+      {
+        "class": "primary-nav__logo-img",
+        "src": "/-/media/images/testing/fed-images/static/baystate_health_1l_wht.svg?rev=68e0c3a8626047d8b9a176d90748e52f",
+        "alt": "baystate health logo"
+      },
+      {
+        "class": "item__image lazyload",
+        "data-src": "/-/media/images/news/2026/bh-umass-sponsorship600.jpg?rev=7545c29c11cf44f0a38eecceb3750615",
+        "alt": "a picture of the UMass football field with the baystate health logo imprinted on the field"
+      },
+      {
+        "class": "footer__logo",
+        "alt": "Footer Logo",
+        "src": "/-/media/images/logos/baystate-health-white-284.svg?rev=f625035ac9d94d25b5d80eae99e95b8d"
+      },
+      {
+        "class": "footer__logo",
+        "alt": "Footer Logo",
+        "src": "/-/media/images/logos/baystate-health-white-284.svg?rev=f625035ac9d94d25b5d80eae99e95b8d"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-170/74fa3f14cfb47706.txt"
+  },
+  {
+    "id": "f389068605b5cb3d",
+    "name": "BD Peripheral Intervention",
+    "requested_url": "https://www.bd.com/en-menat/products-and-solutions/solutions/peripheral-arterial-disease-pad",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "d1250edbe54ff17d",
+    "name": "Bechtel Group",
+    "requested_url": "https://www.bechtel.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "bc10713140b328d1",
+    "name": "Bee Development Authority",
+    "requested_url": "https://www.beedevelopmentauthority.org/about/",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.beedevelopmentauthority.org'. (_ssl.c:1129)>"
+  },
+  {
+    "id": "b685bd534df300ae",
+    "name": "Beecher Emission Solution Technologies / Ward Diesel",
+    "requested_url": "https://www.warddiesel.com/",
+    "status": 200,
+    "final_url": "https://www.warddiesel.com/",
+    "text_chars": 3653,
+    "logo_candidates": [
+      {
+        "class": "wd-footer-logo-img",
+        "src": "https://www.warddiesel.com/hubfs/Ward%20Diesel%20White.png",
+        "alt": "Ward Diesel White",
+        "loading": "lazy"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-170/b685bd534df300ae.txt"
+  },
+  {
+    "id": "345e138ac8df837c",
+    "name": "Beef Alliance",
+    "requested_url": "https://beefalliance.com/",
+    "status": 200,
+    "final_url": "https://beefalliance.com/",
+    "text_chars": 86,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-170/345e138ac8df837c.txt"
+  },
+  {
+    "id": "e7cf58489159fba2",
+    "name": "Beijing Xiaomi Mobile Software",
+    "requested_url": "https://www.mi.com/global/",
+    "status": 200,
+    "final_url": "https://www.mi.com/global/",
+    "text_chars": 2972,
+    "logo_candidates": [
+      {
+        "class": "site-noscript__logo",
+        "width": "56",
+        "height": "56",
+        "src": "https://i01.appmifile.com/webfile/globalimg/logo/pwa-mi/72x72.png",
+        "alt": "Xiaomi Global"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-170/e7cf58489159fba2.txt"
+  },
+  {
+    "id": "96189b884b5e9a35",
+    "name": "Beijing Xiaomi Mobile Software",
+    "requested_url": "https://www.mi.com/global/",
+    "status": 200,
+    "final_url": "https://www.mi.com/global/",
+    "text_chars": 2972,
+    "logo_candidates": [
+      {
+        "class": "site-noscript__logo",
+        "width": "56",
+        "height": "56",
+        "src": "https://i01.appmifile.com/webfile/globalimg/logo/pwa-mi/72x72.png",
+        "alt": "Xiaomi Global"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-170/96189b884b5e9a35.txt"
+  },
+  {
+    "id": "eb56dd920848332e",
+    "name": "Bekaert Corporation",
+    "requested_url": "https://www.bekaert.com/",
+    "status": 200,
+    "final_url": "https://www.bekaert.com/",
+    "text_chars": 5277,
+    "logo_candidates": [
+      {
+        "class": "logo normal-logo",
+        "alt": "Bekaert Logo",
+        "src": "/content/dam/corporate/en/icons/Bekaert-blue-logo.svg",
+        "height": "60",
+        "width": "200",
+        "fetchpriority": "high",
+        "decoding": "async"
+      },
+      {
+        "class": "logo white-logo",
+        "alt": "Bekaert Logo",
+        "src": "/content/dam/corporate/en/icons/Bekaert-white-logo.svg",
+        "height": "60",
+        "width": "200",
+        "fetchpriority": "high",
+        "decoding": "async"
+      },
+      {
+        "class": "white-logo",
+        "src": "/content/dam/corporate/en/icons/Bekaert-white-logo.svg",
+        "alt": "Bekaert Logo",
+        "height": "60",
+        "width": "200",
+        "fetchpriority": "high",
+        "decoding": "async"
+      },
+      {
+        "class": "normal-logo",
+        "src": "/content/dam/corporate/en/icons/Bekaert-blue-logo.svg",
+        "alt": "Bekaert Logo",
+        "height": "60",
+        "width": "200",
+        "fetchpriority": "high",
+        "decoding": "async"
+      },
+      {
+        "src": "/content/dam/corporate/en/icons/Bekaert-white-logo.svg",
+        "alt": "Bekaert logo footer",
+        "loading": "lazy"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-170/eb56dd920848332e.txt"
+  },
+  {
+    "id": "f7c208288d4bf0f3",
+    "name": "Everglades University (via Bell & Lindsay)",
+    "requested_url": "https://www.evergladesuniversity.edu/",
+    "status": 200,
+    "final_url": "https://www.evergladesuniversity.edu/",
+    "text_chars": 21388,
+    "logo_candidates": [
+      {
+        "class": "eu-logo-img",
+        "src": "https://www.evergladesuniversity.edu/wp-content/themes/university_edited/assets/img/EU-logo.svg",
+        "alt": "Everglades University",
+        "width": "180",
+        "height": "58"
+      },
+      {
+        "src": "https://www.evergladesuniversity.edu/wp-content/themes/university_edited/assets/img/logos/big-logo-icon-7.png",
+        "alt": "Everglades University",
+        "width": "48",
+        "height": "47"
+      },
+      {
+        "src": "https://www.evergladesuniversity.edu/wp-content/uploads/2025/09/Badge-College-SocialMobility-2026.png",
+        "alt": "EU-Logo"
+      },
+      {
+        "src": "https://www.evergladesuniversity.edu/wp-content/themes/university_edited/assets/img/logos/big-logo-icon-7.png",
+        "alt": "35-years"
+      },
+      {
+        "src": "https://www.evergladesuniversity.edu/wp-content/uploads/2025/09/Badge-College-SocialMobility-2026.png",
+        "alt": "EU-Logo"
+      },
+      {
+        "src": "https://www.evergladesuniversity.edu/wp-content/themes/university_edited/assets/img/logos/big-logo-icon-7.png",
+        "alt": "35-years"
+      },
+      {
+        "src": "https://www.evergladesuniversity.edu/wp-content/uploads/2025/09/Badge-College-SocialMobility-2026.png",
+        "alt": "EU-Logo"
+      },
+      {
+        "src": "https://www.evergladesuniversity.edu/wp-content/themes/university_edited/assets/img/logos/big-logo-icon-7.png",
+        "alt": "35-years"
+      },
+      {
+        "src": "https://www.evergladesuniversity.edu/wp-content/uploads/2025/09/Badge-College-SocialMobility-2026.png",
+        "alt": "EU-Logo"
+      },
+      {
+        "src": "https://www.evergladesuniversity.edu/wp-content/themes/university_edited/assets/img/logos/big-logo-icon-7.png",
+        "alt": "35-years"
+      },
+      {
+        "src": "https://www.evergladesuniversity.edu/wp-content/uploads/2025/09/Badge-College-SocialMobility-2026.png",
+        "alt": "EU-Logo"
+      },
+      {
+        "src": "https://www.evergladesuniversity.edu/wp-content/uploads/2025/09/Badge-College-SocialMobility-2026.png",
+        "alt": "EU-Logo"
+      },
+      {
+        "src": "https://www.evergladesuniversity.edu/wp-content/uploads/2025/09/Badge-College-SocialMobility-2026.png",
+        "alt": "EU-Logo"
+      },
+      {
+        "src": "https://www.evergladesuniversity.edu/wp-content/uploads/2025/09/Badge-College-SocialMobility-2026.png",
+        "alt": "EU-Logo"
+      },
+      {
+        "src": "https://www.evergladesuniversity.edu/wp-content/themes/university_edited/assets/img/logos/big-logo-icon-1.png",
+        "loading": "lazy",
+        "alt": "logo-icon-1"
+      },
+      {
+        "src": "https://www.evergladesuniversity.edu/wp-content/themes/university_edited/assets/img/badges/Badge-College-SocialMobility-2026.png",
+        "loading": "lazy",
+        "alt": "logo-icon-2"
+      },
+      {
+        "src": "https://www.evergladesuniversity.edu/wp-content/themes/university_edited/assets/img/logos/big-logo-icon-3.png",
+        "loading": "lazy",
+        "alt": "logo-icon-3"
+      },
+      {
+        "src": "https://www.evergladesuniversity.edu/wp-content/themes/university_edited/assets/img/logos/big-logo-icon-4.png",
+        "loading": "lazy",
+        "alt": "logo-icon-4"
+      },
+      {
+        "src": "https://www.evergladesuniversity.edu/wp-content/themes/university_edited/assets/img/logos/big-logo-icon-5.png",
+        "loading": "lazy",
+        "alt": "logo-icon-5"
+      },
+      {
+        "src": "https://www.evergladesuniversity.edu/wp-content/themes/university_edited/assets/img/logos/big-logo-icon-6.png",
+        "loading": "lazy",
+        "alt": "logo-icon-6"
+      },
+      {
+        "src": "https://www.evergladesuniversity.edu/wp-content/themes/university_edited/assets/img/logos/big-logo-icon-7.png",
+        "loading": "lazy",
+        "alt": "logo-icon-7"
+      },
+      {
+        "src": "https://www.evergladesuniversity.edu/wp-content/themes/university_edited/assets/img/logos/2027-Badge-Niche.png",
+        "loading": "lazy",
+        "alt": "logo-icon-8"
+      },
+      {
+        "src": "https://www.evergladesuniversity.edu/wp-content/themes/university_edited/assets/img/logos/big-logo-icon-9.png",
+        "loading": "lazy",
+        "alt": "logo-icon-9"
+      },
+      {
+        "src": "https://www.evergladesuniversity.edu/wp-content/themes/university_edited/assets/img/logos/big-logo-icon-7.png",
+        "alt": "logo-icon"
+      },
+      {
+        "src": "https://www.evergladesuniversity.edu/wp-content/themes/university_edited/assets/img/logos/Account%20balance.svg",
+        "alt": "Account-balance"
+      },
+      {
+        "src": "https://www.evergladesuniversity.edu/wp-content/themes/university_edited/assets/img/logos/Award%20star.svg",
+        "alt": "Award-star"
+      },
+      {
+        "src": "https://www.evergladesuniversity.edu/wp-content/themes/university_edited/assets/img/logos/People.svg",
+        "alt": "People"
+      },
+      {
+        "src": "https://www.evergladesuniversity.edu/wp-content/themes/university_edited/assets/img/logos/Badge.svg",
+        "alt": "Badge"
+      },
+      {
+        "src": "https://www.evergladesuniversity.edu/wp-content/themes/university_edited/assets/img/logos/Calendar%20clock.svg",
+        "alt": "Calendar-clock"
+      },
+      {
+        "src": "https://www.evergladesuniversity.edu/wp-content/themes/university_edited/assets/img/logos/Military%20tech.svg",
+        "alt": "Military-tech"
+      },
+      {
+        "src": "https://www.evergladesuniversity.edu/wp-content/themes/university_edited/assets/img/eu-footer-logo-green.png",
+        "alt": "Everglades University"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-170/f7c208288d4bf0f3.txt"
+  },
+  {
+    "id": "fe5e5b91f526d47b",
+    "name": "Bendix Commercial Vehicle Systems LLC",
+    "requested_url": "https://bendix.com/",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "id": "1cdacd1bac873541",
+    "name": "Benefis Health System",
+    "requested_url": "https://www.benefis.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "25e396eb49b31adc",
+    "name": "Benefis Hospitals",
+    "requested_url": "https://www.benefis.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "3573f281976c0b8c",
+    "name": "Benjamin Company ON Behalf Of Sutter Health",
+    "requested_url": "https://www.sutterhealth.org/",
+    "status": 200,
+    "final_url": "https://www.sutterhealth.org/",
+    "text_chars": 11217,
+    "logo_candidates": [
+      {
+        "alt": "Healthgrades America's 50 best hospitals 2026",
+        "loading": "lazy",
+        "width": "160",
+        "height": "160",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent;object-fit:contain;width:100%;height:100%",
+        "sizes": "(min-width: 1024px) 160px, (min-width: 640px) 25vw, 40vw",
+        "srcset": "/_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fhealthgrades-americas-50-best-hospitals-2026-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fhealthgrades-americas-50-best-hospitals-2026-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fhealthgrades-americas-50-best-hospitals-2026-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fhealthgrades-americas-50-best-hospitals-2026-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fhealthgrades-americas-50-best-hospitals-2026-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fhealthgrades-americas-50-best-hospitals-2026-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fhealthgrades-americas-50-best-hospitals-2026-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fhealthgrades-americas-50-best-hospitals-2026-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fhealthgrades-americas-50-best-hospitals-2026-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fhealthgrades-americas-50-best-hospitals-2026-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=3840&q=75 3840w",
+        "src": "/_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fhealthgrades-americas-50-best-hospitals-2026-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=3840&q=75"
+      },
+      {
+        "alt": "Modern Healthcare 15 Top Health Systems presented by Premier 2026",
+        "loading": "lazy",
+        "width": "160",
+        "height": "160",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent;object-fit:contain;width:100%;height:100%",
+        "sizes": "(min-width: 1024px) 160px, (min-width: 640px) 25vw, 40vw",
+        "srcset": "/_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fpremier-15-top-health-systems-2026-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fpremier-15-top-health-systems-2026-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fpremier-15-top-health-systems-2026-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fpremier-15-top-health-systems-2026-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fpremier-15-top-health-systems-2026-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fpremier-15-top-health-systems-2026-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fpremier-15-top-health-systems-2026-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fpremier-15-top-health-systems-2026-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fpremier-15-top-health-systems-2026-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fpremier-15-top-health-systems-2026-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=3840&q=75 3840w",
+        "src": "/_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fpremier-15-top-health-systems-2026-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=3840&q=75"
+      },
+      {
+        "alt": "High Performing Hospitals US News & World Report",
+        "loading": "lazy",
+        "width": "160",
+        "height": "160",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent;object-fit:contain;width:100%;height:100%",
+        "sizes": "(min-width: 1024px) 160px, (min-width: 640px) 25vw, 40vw",
+        "srcset": "/_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fhigh-performing-hospitals-us-news-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fhigh-performing-hospitals-us-news-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fhigh-performing-hospitals-us-news-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fhigh-performing-hospitals-us-news-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fhigh-performing-hospitals-us-news-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fhigh-performing-hospitals-us-news-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fhigh-performing-hospitals-us-news-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fhigh-performing-hospitals-us-news-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fhigh-performing-hospitals-us-news-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fhigh-performing-hospitals-us-news-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=3840&q=75 3840w",
+        "src": "/_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fhigh-performing-hospitals-us-news-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=3840&q=75"
+      },
+      {
+        "alt": "Forbes America's Best Large Employers 2026",
+        "loading": "lazy",
+        "width": "160",
+        "height": "160",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent;object-fit:contain;width:100%;height:100%",
+        "sizes": "(min-width: 1024px) 160px, (min-width: 640px) 25vw, 40vw",
+        "srcset": "/_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fforbes-best-in-state-2026.png%3Fh%3D225%26iar%3D0%26w%3D225&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fforbes-best-in-state-2026.png%3Fh%3D225%26iar%3D0%26w%3D225&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fforbes-best-in-state-2026.png%3Fh%3D225%26iar%3D0%26w%3D225&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fforbes-best-in-state-2026.png%3Fh%3D225%26iar%3D0%26w%3D225&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fforbes-best-in-state-2026.png%3Fh%3D225%26iar%3D0%26w%3D225&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fforbes-best-in-state-2026.png%3Fh%3D225%26iar%3D0%26w%3D225&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fforbes-best-in-state-2026.png%3Fh%3D225%26iar%3D0%26w%3D225&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fforbes-best-in-state-2026.png%3Fh%3D225%26iar%3D0%26w%3D225&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fforbes-best-in-state-2026.png%3Fh%3D225%26iar%3D0%26w%3D225&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fforbes-best-in-state-2026.png%3Fh%3D225%26iar%3D0%26w%3D225&w=3840&q=75 3840w",
+        "src": "/_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Fforbes-best-in-state-2026.png%3Fh%3D225%26iar%3D0%26w%3D225&w=3840&q=75"
+      },
+      {
+        "alt": "Reputation the 800 award 2025",
+        "loading": "lazy",
+        "width": "160",
+        "height": "160",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent;object-fit:contain;width:100%;height:100%",
+        "sizes": "(min-width: 1024px) 160px, (min-width: 640px) 25vw, 40vw",
+        "srcset": "/_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Freputation-800-award-2025-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Freputation-800-award-2025-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Freputation-800-award-2025-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Freputation-800-award-2025-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Freputation-800-award-2025-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Freputation-800-award-2025-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Freputation-800-award-2025-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Freputation-800-award-2025-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Freputation-800-award-2025-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Freputation-800-award-2025-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=3840&q=75 3840w",
+        "src": "/_next/image?url=https%3A%2F%2Fedge.sitecorecloud.io%2Fsutterhealt962c-sutterhealt8fce-production57cc-4860%2Fmedia%2FProject%2FSutterHealth%2FSutterHealth%2FImages%2Flogos%2Freputation-800-award-2025-160x160.png%3Fh%3D160%26iar%3D0%26w%3D160&w=3840&q=75"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-170/3573f281976c0b8c.txt"
+  },
+  {
+    "id": "5966d2d475c15e3f",
+    "name": "Benteler Trading International AG",
+    "requested_url": "https://www.benteler-trading.com/",
+    "status": 200,
+    "final_url": "https://benteler-trading.com/",
+    "text_chars": 4405,
+    "logo_candidates": [
+      {
+        "src": "/wp-content/themes/benteler/images/benteler-logo.svg",
+        "style": "width:380px; height:auto;"
+      },
+      {
+        "src": "/wp-content/themes/benteler/images/benteler-logo.svg",
+        "class": "logo-blue"
+      },
+      {
+        "src": "/wp-content/themes/benteler/images/benteler-logo-white.svg",
+        "class": "logo-white"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-170/5966d2d475c15e3f.txt"
+  },
+  {
+    "id": "10d7c42d0e8efadb",
+    "name": "Beretta USA",
+    "requested_url": "https://www.beretta.com/en-us/careers",
+    "status": 200,
+    "final_url": "https://www.beretta.com/en-us/careers",
+    "text_chars": 83,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-170/10d7c42d0e8efadb.txt"
+  },
+  {
+    "id": "e604b9390c665fc1",
+    "name": "Berkshire Hathaway Energy",
+    "requested_url": "https://www.brkenergy.com/",
+    "status": 200,
+    "final_url": "https://www.brkenergy.com/my.logout.php3?errorcode=19",
+    "text_chars": 113,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-170/e604b9390c665fc1.txt"
+  },
+  {
+    "id": "a9227e46aa1af949",
+    "name": "Berquist Recovery Consulting",
+    "requested_url": "https://berquistrecoveryconsulting.com/",
+    "status": 200,
+    "final_url": "https://berquistrecoveryconsulting.com/",
+    "text_chars": 7389,
+    "logo_candidates": [
+      {
+        "data-perfmatters-preload": null,
+        "width": "150",
+        "height": "150",
+        "src": "https://berquistrecoveryconsulting.com/wp-content/uploads/2023/06/cropped-Site-Icon-150x150.png",
+        "class": "attachment-thumbnail size-thumbnail wp-image-1889",
+        "alt": "Berquist Recovery Consulting Logo",
+        "srcset": "https://berquistrecoveryconsulting.com/wp-content/uploads/2023/06/cropped-Site-Icon-150x150.png 150w, https://berquistrecoveryconsulting.com/wp-content/uploads/2023/06/cropped-Site-Icon-300x300.png 300w, https://berquistrecoveryconsulting.com/wp-content/uploads/2023/06/cropped-Site-Icon-270x270.png 270w, https://berquistrecoveryconsulting.com/wp-content/uploads/2023/06/cropped-Site-Icon-192x192.png 192w, https://berquistrecoveryconsulting.com/wp-content/uploads/2023/06/cropped-Site-Icon-180x180.png 180w, https://berquistrecoveryconsulting.com/wp-content/uploads/2023/06/cropped-Site-Icon-32x32.png 32w, https://berquistrecoveryconsulting.com/wp-content/uploads/2023/06/cropped-Site-Icon.png 512w",
+        "sizes": "(max-width: 150px) 100vw, 150px",
+        "fetchpriority": "high"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-170/a9227e46aa1af949.txt"
+  },
+  {
+    "id": "ffd7bb01cc0372d2",
+    "name": "Best Egg",
+    "requested_url": "https://support.bestegg.com/hc/en-us/categories/115000321472-About-Best-Egg",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "8738a364d77c1d38",
+    "name": "Better Mortgage",
+    "requested_url": "https://better.com/",
+    "status": 200,
+    "final_url": "https://better.com/",
+    "text_chars": 1345,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-170/8738a364d77c1d38.txt"
+  },
+  {
+    "id": "e48b7632baa1f352",
+    "name": "Better Solutions for Healthcare",
+    "requested_url": "https://bettersolutionsforhealthcare.org/our-solutions/",
+    "status": 200,
+    "final_url": "https://bettersolutionsforhealthcare.org/our-solutions/",
+    "text_chars": 1614,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "width": "2000",
+        "height": "500",
+        "src": "https://bettersolutionsforhealthcare.org/wp-content/uploads/2023/02/BetterSolutions_Logo-Full_Final-Color2019-3.webp",
+        "class": "attachment-full size-full wp-image-7",
+        "alt": "",
+        "srcset": "https://bettersolutionsforhealthcare.org/wp-content/uploads/2023/02/BetterSolutions_Logo-Full_Final-Color2019-3.webp 2000w, https://bettersolutionsforhealthcare.org/wp-content/uploads/2023/02/BetterSolutions_Logo-Full_Final-Color2019-3-300x75.webp 300w, https://bettersolutionsforhealthcare.org/wp-content/uploads/2023/02/BetterSolutions_Logo-Full_Final-Color2019-3-1024x256.webp 1024w, https://bettersolutionsforhealthcare.org/wp-content/uploads/2023/02/BetterSolutions_Logo-Full_Final-Color2019-3-768x192.webp 768w, https://bettersolutionsforhealthcare.org/wp-content/uploads/2023/02/BetterSolutions_Logo-Full_Final-Color2019-3-1536x384.webp 1536w",
+        "sizes": "(max-width: 2000px) 100vw, 2000px"
+      },
+      {
+        "fetchpriority": "high",
+        "width": "2000",
+        "height": "500",
+        "src": "https://bettersolutionsforhealthcare.org/wp-content/uploads/2023/02/BetterSolutions_Logo-Full_Final-Color2019-3.webp",
+        "class": "attachment-full size-full wp-image-7",
+        "alt": "",
+        "srcset": "https://bettersolutionsforhealthcare.org/wp-content/uploads/2023/02/BetterSolutions_Logo-Full_Final-Color2019-3.webp 2000w, https://bettersolutionsforhealthcare.org/wp-content/uploads/2023/02/BetterSolutions_Logo-Full_Final-Color2019-3-300x75.webp 300w, https://bettersolutionsforhealthcare.org/wp-content/uploads/2023/02/BetterSolutions_Logo-Full_Final-Color2019-3-1024x256.webp 1024w, https://bettersolutionsforhealthcare.org/wp-content/uploads/2023/02/BetterSolutions_Logo-Full_Final-Color2019-3-768x192.webp 768w, https://bettersolutionsforhealthcare.org/wp-content/uploads/2023/02/BetterSolutions_Logo-Full_Final-Color2019-3-1536x384.webp 1536w",
+        "sizes": "(max-width: 2000px) 100vw, 2000px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-170/e48b7632baa1f352.txt"
+  },
+  {
+    "id": "cbf07e730a778e2d",
+    "name": "Overseas Shipholding Group, Inc. (represented by BGR Government Affairs)",
+    "requested_url": "https://www.osg.com/",
+    "status": 200,
+    "final_url": "https://www.osg.com/",
+    "text_chars": 22156,
+    "logo_candidates": [
+      {
+        "decoding": "async",
+        "width": "268",
+        "height": "146",
+        "src": "https://www.osg.com/wp-content/uploads/2024/11/osg-correct-logo-11-24.png",
+        "alt": "osg-logo",
+        "title": "osg-correct logo-11-24",
+        "class": "wp-image-3055"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-170/cbf07e730a778e2d.txt"
+  },
+  {
+    "id": "5ee878439e8786e1",
+    "name": "BHP Minerals Service Company",
+    "requested_url": "https://www.bhp.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "c5357fea0fbadf7b",
+    "name": "Billings Clinic",
+    "requested_url": "https://www.billingsclinic.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "f40c9f1436e6b3bd",
+    "name": "Billmari Inc. / DBA Black Blockchain Summit",
+    "requested_url": "https://www.blackblockchainsummit.com/about-us",
+    "status": 200,
+    "final_url": "https://www.blackblockchainsummit.com/about-us",
+    "text_chars": 5015,
+    "logo_candidates": [
+      {
+        "alt": "Logo Link that leads to home page",
+        "src": "https://cdn.prod.website-files.com/67ee897bb683316babe0c8bd/681d175b4d4abbc10deb9875_Main_Logo.svg",
+        "class": "nav-logo-image"
+      },
+      {
+        "alt": "BitcoinM",
+        "src": "https://cdn.prod.website-files.com/67ee897bb683316babe0c8bd/681249a3da7b7eb1e20bf720_bitcoinmagazine.svg",
+        "class": "logo-image-2 invert"
+      },
+      {
+        "alt": "Uphold",
+        "src": "https://cdn.prod.website-files.com/67ee897bb683316babe0c8bd/6810b4e64d5d1f8488e70915_uphold_BIG.svg",
+        "class": "logo-image-2 invert"
+      },
+      {
+        "alt": "Melanin",
+        "src": "https://cdn.prod.website-files.com/67ee897bb683316babe0c8bd/6810b30a34265047877d50b3_5b20a0803b21489cf26d4da5d91ceb51_Melanin_logo_black.svg",
+        "class": "logo-image-2 invert"
+      },
+      {
+        "alt": "Mac_Venture",
+        "src": "https://cdn.prod.website-files.com/67ee897bb683316babe0c8bd/6810b59faf90b3e97290ce76_Mac_Venture.svg",
+        "class": "logo-image-2 invert"
+      },
+      {
+        "alt": "Galaxy",
+        "src": "https://cdn.prod.website-files.com/67ee897bb683316babe0c8bd/6810b110ac7a31f23e1b89eb_15da355913112e0af5536ebd927567f3_Galaxy_Lockup_Horizontal_Black%201.svg",
+        "class": "logo-image-2 invert"
+      },
+      {
+        "alt": "Perkins",
+        "src": "https://cdn.prod.website-files.com/67ee897bb683316babe0c8bd/6810b478609224108706712d_Perkins_Coie_logo.svg",
+        "class": "logo-image-2 invert"
+      },
+      {
+        "alt": "BitcoinM",
+        "src": "https://cdn.prod.website-files.com/67ee897bb683316babe0c8bd/681249a3da7b7eb1e20bf720_bitcoinmagazine.svg",
+        "class": "logo-image-2 invert"
+      },
+      {
+        "alt": "Uphold",
+        "src": "https://cdn.prod.website-files.com/67ee897bb683316babe0c8bd/6810b4e64d5d1f8488e70915_uphold_BIG.svg",
+        "class": "logo-image-2 invert"
+      },
+      {
+        "alt": "Melanin",
+        "src": "https://cdn.prod.website-files.com/67ee897bb683316babe0c8bd/6810b30a34265047877d50b3_5b20a0803b21489cf26d4da5d91ceb51_Melanin_logo_black.svg",
+        "class": "logo-image-2 invert"
+      },
+      {
+        "alt": "Mac_Venture",
+        "src": "https://cdn.prod.website-files.com/67ee897bb683316babe0c8bd/6810b59faf90b3e97290ce76_Mac_Venture.svg",
+        "class": "logo-image-2 invert"
+      },
+      {
+        "alt": "Galaxy",
+        "src": "https://cdn.prod.website-files.com/67ee897bb683316babe0c8bd/6810b110ac7a31f23e1b89eb_15da355913112e0af5536ebd927567f3_Galaxy_Lockup_Horizontal_Black%201.svg",
+        "class": "logo-image-2 invert"
+      },
+      {
+        "alt": "Perkins",
+        "src": "https://cdn.prod.website-files.com/67ee897bb683316babe0c8bd/6810b478609224108706712d_Perkins_Coie_logo.svg",
+        "class": "logo-image-2 invert"
+      },
+      {
+        "alt": "Main logo link that leads to home page",
+        "src": "https://cdn.prod.website-files.com/67ee897bb683316babe0c8bd/67f2c5b0f531128132fa0d02_BBS_WB.svg"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-170/f40c9f1436e6b3bd.txt"
+  },
+  {
+    "id": "e209397e8642b3fd",
+    "name": "Biologic Input Output Systems, Inc (BIOS)",
+    "requested_url": "https://www.biologicinputoutputsystems.com/",
+    "status": 200,
+    "final_url": "https://www.biologicinputoutputsystems.com/",
+    "text_chars": 1422,
+    "logo_candidates": [
+      {
+        "elementtiming": "nbf-header-logo-desktop",
+        "src": "//images.squarespace-cdn.com/content/v1/646297b2d831bc07d0fdd101/1684183021481-ODM4SKJOOJ4J7RA21IC2/BIOS+logo+white.png?format=1500w",
+        "alt": "Biologic Input Output Systems, Inc",
+        "style": "display:block",
+        "fetchpriority": "high",
+        "loading": "eager",
+        "decoding": "async",
+        "data-loader": "raw"
+      },
+      {
+        "elementtiming": "nbf-header-logo-desktop",
+        "src": "//images.squarespace-cdn.com/content/v1/646297b2d831bc07d0fdd101/1684183021481-ODM4SKJOOJ4J7RA21IC2/BIOS+logo+white.png?format=1500w",
+        "alt": "Biologic Input Output Systems, Inc",
+        "style": "display:block",
+        "fetchpriority": "high",
+        "loading": "eager",
+        "decoding": "async",
+        "data-loader": "raw"
+      },
+      {
+        "data-stretch": "false",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/628667120c77fb6ef0ba96da/967f6105-2648-4b7c-a4eb-f207279aaf99/BIOS+logo+white.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/628667120c77fb6ef0ba96da/967f6105-2648-4b7c-a4eb-f207279aaf99/BIOS+logo+white.png",
+        "data-image-dimensions": "1151x385",
+        "data-image-focal-point": "0.5,0.5",
+        "data-sqsp-image-block-image": null,
+        "alt": "",
+        "data-licensed-asset-preview": "false",
+        "data-load": "false",
+        "elementtiming": "system-image-block",
+        "src": "https://images.squarespace-cdn.com/content/v1/628667120c77fb6ef0ba96da/967f6105-2648-4b7c-a4eb-f207279aaf99/BIOS+logo+white.png",
+        "width": "1151",
+        "height": "385",
+        "sizes": "auto, (max-width: 640px) 100.00vw, (max-width: 767px) 100.00vw, 16.67vw",
+        "style": "display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);",
+        "srcset": "https://images.squarespace-cdn.com/content/v1/628667120c77fb6ef0ba96da/967f6105-2648-4b7c-a4eb-f207279aaf99/BIOS+logo+white.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/628667120c77fb6ef0ba96da/967f6105-2648-4b7c-a4eb-f207279aaf99/BIOS+logo+white.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/628667120c77fb6ef0ba96da/967f6105-2648-4b7c-a4eb-f207279aaf99/BIOS+logo+white.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/628667120c77fb6ef0ba96da/967f6105-2648-4b7c-a4eb-f207279aaf99/BIOS+logo+white.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/628667120c77fb6ef0ba96da/967f6105-2648-4b7c-a4eb-f207279aaf99/BIOS+logo+white.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/628667120c77fb6ef0ba96da/967f6105-2648-4b7c-a4eb-f207279aaf99/BIOS+logo+white.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/628667120c77fb6ef0ba96da/967f6105-2648-4b7c-a4eb-f207279aaf99/BIOS+logo+white.png?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs",
+        "data-image-component": "1.0.1"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-170/e209397e8642b3fd.txt"
+  },
+  {
+    "id": "5a0a96f9e9d5a3c6",
+    "name": "bioM\u00e9rieux",
+    "requested_url": "https://www.biomerieux.com/us/en/who-we-are/biomerieux-at-a-glance.html",
+    "status": 200,
+    "final_url": "https://www.biomerieux.com/us/en/who-we-are/biomerieux-at-a-glance.html",
+    "text_chars": 12803,
+    "logo_candidates": [
+      {
+        "src": "/content/dam/onebmx/logos/biomerieux.svg",
+        "class": "cmp-header__logo-img",
+        "alt": "bioM\u00e9rieux logo"
+      },
+      {
+        "class": "cmp-imagelist__img",
+        "src": "/content/dam/onebmx/logos/facebook.svg",
+        "alt": "Faceboook"
+      },
+      {
+        "class": "cmp-imagelist__img",
+        "src": "/content/dam/onebmx/logos/linkedin.svg",
+        "alt": "LinkedIn"
+      },
+      {
+        "class": "cmp-imagelist__img",
+        "src": "/content/dam/onebmx/logos/youtube.svg",
+        "alt": "YouTube"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-170/5a0a96f9e9d5a3c6.txt"
+  },
+  {
+    "id": "16477ea46c9ee355",
+    "name": "Bioprocess H2O",
+    "requested_url": "https://www.bioprocessh2o.com/",
+    "status": 200,
+    "final_url": "https://www.bioprocessh2o.com/",
+    "text_chars": 7882,
+    "logo_candidates": [
+      {
+        "src": "https://cdn.prod.website-files.com/670ea017f6670ce3d31e90b0/670ea017f6670ce3d31e9203_bp-h20-logo.avif",
+        "loading": "eager",
+        "alt": "",
+        "class": "image-3"
+      },
+      {
+        "loading": "eager",
+        "src": "https://cdn.prod.website-files.com/670ea017f6670ce3d31e90b0/670ea017f6670ce3d31e9367_shamrock-header.webp",
+        "alt": "Trusted by Shamrock Farms",
+        "class": "logos_list-item-img-2 is-shamrock"
+      },
+      {
+        "sizes": "100vw",
+        "srcset": "https://cdn.prod.website-files.com/670ea017f6670ce3d31e90b0/670ea017f6670ce3d31e940a_Haribo-logo.avif 500w, https://cdn.prod.website-files.com/670ea017f6670ce3d31e90b0/670ea017f6670ce3d31e940a_Haribo-logo.avif 800w, https://cdn.prod.website-files.com/670ea017f6670ce3d31e90b0/670ea017f6670ce3d31e940a_Haribo-logo.avif 1080w, https://cdn.prod.website-files.com/670ea017f6670ce3d31e90b0/670ea017f6670ce3d31e940a_Haribo-logo.avif 3840w",
+        "alt": "Trusted by Haribo",
+        "src": "https://cdn.prod.website-files.com/670ea017f6670ce3d31e90b0/670ea017f6670ce3d31e940a_Haribo-logo.avif",
+        "loading": "eager",
+        "class": "logos_list-item-img-2"
+      },
+      {
+        "sizes": "100vw",
+        "srcset": "https://cdn.prod.website-files.com/670ea017f6670ce3d31e90b0/691b4f077582e4dcb0e6ec73_leidos-p-500.png 500w, https://cdn.prod.website-files.com/670ea017f6670ce3d31e90b0/691b4f077582e4dcb0e6ec73_leidos-p-800.png 800w, https://cdn.prod.website-files.com/670ea017f6670ce3d31e90b0/691b4f077582e4dcb0e6ec73_leidos.avif 3413w",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/670ea017f6670ce3d31e90b0/691b4f077582e4dcb0e6ec73_leidos.avif",
+        "loading": "eager",
+        "class": "logos_list-item-img-2 is-heinz"
+      },
+      {
+        "loading": "eager",
+        "src": "https://cdn.prod.website-files.com/670ea017f6670ce3d31e90b0/670ea017f6670ce3d31e93b5_wm-logo-web-header-footer%20(1).svg",
+        "alt": "Trusted by WM",
+        "class": "logos_list-item-img-2"
+      },
+      {
+        "loading": "eager",
+        "src": "https://cdn.prod.website-files.com/670ea017f6670ce3d31e90b0/670ea017f6670ce3d31e9364_the-coca-cola-company-logo.svg",
+        "alt": "Trusted by Cola-Cola",
+        "class": "logos_list-item-img-2 is-coca"
+      },
+      {
+        "sizes": "100vw",
+        "srcset": "https://cdn.prod.website-files.com/670ea017f6670ce3d31e90b0/670ea017f6670ce3d31e9409_us%20customs.avif 500w, https://cdn.prod.website-files.com/670ea017f6670ce3d31e90b0/670ea017f6670ce3d31e9409_us%20customs.avif 1083w",
+        "alt": "Trusted by US Customs ",
+        "src": "https://cdn.prod.website-files.com/670ea017f6670ce3d31e90b0/670ea017f6670ce3d31e9409_us%20customs.avif",
+        "loading": "eager",
+        "class": "logos_list-item-img-2 is-taller is-customs"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/670ea017f6670ce3d31e90b0/670ea017f6670ce3d31e9203_bp-h20-logo.avif",
+        "alt": "",
+        "sizes": "(max-width: 600px) 100vw, 600px",
+        "srcset": "https://cdn.prod.website-files.com/670ea017f6670ce3d31e90b0/670ea017f6670ce3d31e9203_bp-h20-logo-p-500.png 500w, https://cdn.prod.website-files.com/670ea017f6670ce3d31e90b0/670ea017f6670ce3d31e9203_bp-h20-logo.avif 600w",
+        "class": "image-auto h-64"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-170/16477ea46c9ee355.txt"
+  },
+  {
+    "id": "f75e23e0d327ace6",
+    "name": "Biotechnology Industry Organization (historical name)",
+    "requested_url": "https://www.bio.org/about",
+    "status": 200,
+    "final_url": "https://www.bio.org/about",
+    "text_chars": 6831,
+    "logo_candidates": [
+      {
+        "src": "/act-root/bio/assets/images/logo/bio-new-logo-color.svg",
+        "alt": "Logo",
+        "class": "af-image"
+      },
+      {
+        "src": "/act-root/bio/assets/images/logo/bio-new-logo-color.svg",
+        "alt": "Logo",
+        "class": "af-image"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-170/f75e23e0d327ace6.txt"
+  },
+  {
+    "id": "8fa6fdbe52069b57",
+    "name": "Birdi Systems, Inc.",
+    "requested_url": "https://www.birdi-inc.com/",
+    "status": 202,
+    "final_url": "https://www.birdi-inc.com/",
+    "text_chars": 80,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-170/8fa6fdbe52069b57.txt"
+  },
+  {
+    "id": "2325b194384e7c09",
+    "name": "BISSELL Homecare, Inc.",
+    "requested_url": "https://www.bissell.com/",
+    "status": 200,
+    "final_url": "https://www.bissell.com/",
+    "text_chars": 2392,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-170/2325b194384e7c09.txt"
+  },
+  {
+    "id": "88d887035613d075",
+    "name": "Blackberry Corp",
+    "requested_url": "https://www.blackberry.com/",
+    "status": 200,
+    "final_url": "https://www.blackberry.com/",
+    "text_chars": 77,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-170/88d887035613d075.txt"
+  },
+  {
+    "id": "d889c2c65d869d30",
+    "name": "Blackboard T&l, LLC (formerly Anthology Inc.)",
+    "requested_url": "https://www.blackboard.com/",
+    "status": 200,
+    "final_url": "https://www.blackboard.com/",
+    "text_chars": 7940,
+    "logo_candidates": [
+      {
+        "alt": "Blackboard",
+        "loading": "lazy",
+        "width": "38",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "Logo-module-scss-module__9ZC2cW__logo PrimaryNav-module-scss-module__qqJvBa__logoGreen",
+        "style": "color:transparent",
+        "srcset": "/assets/ds/logos/mark-green.svg?w=48&q=75 1x, /assets/ds/logos/mark-green.svg?w=96&q=75 2x",
+        "src": "/assets/ds/logos/mark-green.svg?w=96&q=75"
+      },
+      {
+        "alt": "Blackboard",
+        "loading": "lazy",
+        "width": "38",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "Logo-module-scss-module__9ZC2cW__logo PrimaryNav-module-scss-module__qqJvBa__logoLight",
+        "style": "color:transparent",
+        "srcset": "/assets/ds/logos/mark-light.svg?w=48&q=75 1x, /assets/ds/logos/mark-light.svg?w=96&q=75 2x",
+        "src": "/assets/ds/logos/mark-light.svg?w=96&q=75"
+      },
+      {
+        "alt": "Blackboard",
+        "loading": "lazy",
+        "width": "170",
+        "height": "24",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "Logo-module-scss-module__9ZC2cW__logo",
+        "style": "color:transparent",
+        "srcset": "/assets/ds/logos/logotype-green.svg?w=256&q=75 1x, /assets/ds/logos/logotype-green.svg?w=384&q=75 2x",
+        "src": "/assets/ds/logos/logotype-green.svg?w=384&q=75"
+      },
+      {
+        "src": "/assets/imgs/logo-etih.webp",
+        "alt": "ETIH",
+        "class": "PinnedSlider-module-scss-module__le2vba__cardLogo"
+      },
+      {
+        "src": "/assets/imgs/logo-campus-technology.webp",
+        "alt": "Campus Technology",
+        "class": "PinnedSlider-module-scss-module__le2vba__cardLogo"
+      },
+      {
+        "src": "/assets/imgs/logo-campus-technology.webp",
+        "alt": "Campus Technology",
+        "class": "PinnedSlider-module-scss-module__le2vba__cardLogo"
+      },
+      {
+        "src": "/assets/imgs/logo-tech-learning.webp",
+        "alt": "Tech & Learning",
+        "class": "PinnedSlider-module-scss-module__le2vba__cardLogo"
+      },
+      {
+        "src": "/assets/imgs/logo-tech-learning.webp",
+        "alt": "Tech & Learning",
+        "class": "PinnedSlider-module-scss-module__le2vba__cardLogo"
+      },
+      {
+        "src": "/assets/imgs/logo-tech-learning.webp",
+        "alt": "Tech & Learning",
+        "class": "PinnedSlider-module-scss-module__le2vba__cardLogo"
+      },
+      {
+        "src": "/assets/imgs/logo-stevie-awards.webp",
+        "alt": "Stevie Awards",
+        "class": "PinnedSlider-module-scss-module__le2vba__cardLogo"
+      },
+      {
+        "src": "/assets/imgs/logo-idc.webp",
+        "alt": "IDC",
+        "class": "PinnedSlider-module-scss-module__le2vba__cardLogo"
+      },
+      {
+        "src": "/assets/imgs/logo-tambellini-group.webp",
+        "alt": "Tambellini Group",
+        "class": "PinnedSlider-module-scss-module__le2vba__cardLogo"
+      },
+      {
+        "src": "/assets/imgs/logo-codie-award.webp",
+        "alt": "Tech & Learning logo",
+        "class": "PinnedSlider-module-scss-module__le2vba__cardLogo"
+      },
+      {
+        "src": "/assets/imgs/logo-bett-awards.webp",
+        "alt": "Tech & Learning logo",
+        "class": "PinnedSlider-module-scss-module__le2vba__cardLogo"
+      },
+      {
+        "alt": "Sacred Heart University",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-nimg": "fill",
+        "style": "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent",
+        "sizes": "100vw",
+        "srcset": "/assets/imgs/logo-sacred-heart-university.webp?w=640&q=75 640w, /assets/imgs/logo-sacred-heart-university.webp?w=750&q=75 750w, /assets/imgs/logo-sacred-heart-university.webp?w=828&q=75 828w, /assets/imgs/logo-sacred-heart-university.webp?w=1080&q=75 1080w, /assets/imgs/logo-sacred-heart-university.webp?w=1200&q=75 1200w, /assets/imgs/logo-sacred-heart-university.webp?w=1920&q=75 1920w, /assets/imgs/logo-sacred-heart-university.webp?w=2048&q=75 2048w, /assets/imgs/logo-sacred-heart-university.webp?w=3840&q=75 3840w",
+        "src": "/assets/imgs/logo-sacred-heart-university.webp?w=3840&q=75"
+      },
+      {
+        "alt": "Bridgewater State University",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-nimg": "fill",
+        "style": "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent",
+        "sizes": "100vw",
+        "srcset": "/assets/imgs/logo-bridgewater-state-university.webp?w=640&q=75 640w, /assets/imgs/logo-bridgewater-state-university.webp?w=750&q=75 750w, /assets/imgs/logo-bridgewater-state-university.webp?w=828&q=75 828w, /assets/imgs/logo-bridgewater-state-university.webp?w=1080&q=75 1080w, /assets/imgs/logo-bridgewater-state-university.webp?w=1200&q=75 1200w, /assets/imgs/logo-bridgewater-state-university.webp?w=1920&q=75 1920w, /assets/imgs/logo-bridgewater-state-university.webp?w=2048&q=75 2048w, /assets/imgs/logo-bridgewater-state-university.webp?w=3840&q=75 3840w",
+        "src": "/assets/imgs/logo-bridgewater-state-university.webp?w=3840&q=75"
+      },
+      {
+        "alt": "Grand Valley State University",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-nimg": "fill",
+        "style": "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent",
+        "sizes": "100vw",
+        "srcset": "/assets/imgs/logo-grand-valley-state.webp?w=640&q=75 640w, /assets/imgs/logo-grand-valley-state.webp?w=750&q=75 750w, /assets/imgs/logo-grand-valley-state.webp?w=828&q=75 828w, /assets/imgs/logo-grand-valley-state.webp?w=1080&q=75 1080w, /assets/imgs/logo-grand-valley-state.webp?w=1200&q=75 1200w, /assets/imgs/logo-grand-valley-state.webp?w=1920&q=75 1920w, /assets/imgs/logo-grand-valley-state.webp?w=2048&q=75 2048w, /assets/imgs/logo-grand-valley-state.webp?w=3840&q=75 3840w",
+        "src": "/assets/imgs/logo-grand-valley-state.webp?w=3840&q=75"
+      },
+      {
+        "alt": "MetroHealth",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-nimg": "fill",
+        "style": "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent",
+        "sizes": "100vw",
+        "srcset": "/assets/imgs/logo-metrohealth.webp?w=640&q=75 640w, /assets/imgs/logo-metrohealth.webp?w=750&q=75 750w, /assets/imgs/logo-metrohealth.webp?w=828&q=75 828w, /assets/imgs/logo-metrohealth.webp?w=1080&q=75 1080w, /assets/imgs/logo-metrohealth.webp?w=1200&q=75 1200w, /assets/imgs/logo-metrohealth.webp?w=1920&q=75 1920w, /assets/imgs/logo-metrohealth.webp?w=2048&q=75 2048w, /assets/imgs/logo-metrohealth.webp?w=3840&q=75 3840w",
+        "src": "/assets/imgs/logo-metrohealth.webp?w=3840&q=75"
+      },
+      {
+        "alt": "Wyoming Law Enforcement Academy",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-nimg": "fill",
+        "style": "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;object-fit:contain;color:transparent",
+        "sizes": "100vw",
+        "srcset": "/assets/imgs/logo-wyoming-academy.webp?w=640&q=75 640w, /assets/imgs/logo-wyoming-academy.webp?w=750&q=75 750w, /assets/imgs/logo-wyoming-academy.webp?w=828&q=75 828w, /assets/imgs/logo-wyoming-academy.webp?w=1080&q=75 1080w, /assets/imgs/logo-wyoming-academy.webp?w=1200&q=75 1200w, /assets/imgs/logo-wyoming-academy.webp?w=1920&q=75 1920w, /assets/imgs/logo-wyoming-academy.webp?w=2048&q=75 2048w, /assets/imgs/logo-wyoming-academy.webp?w=3840&q=75 3840w",
+        "src": "/assets/imgs/logo-wyoming-academy.webp?w=3840&q=75"
+      },
+      {
+        "alt": "Sacred Heart University",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-nimg": "fill",
+        "class": "TestimonialCarousel-module-scss-module__O9naWa__brandLogo",
+        "style": "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent",
+        "sizes": "320px",
+        "srcset": "/assets/imgs/logo-sacred-heart-university-white.webp?w=32&q=75 32w, /assets/imgs/logo-sacred-heart-university-white.webp?w=48&q=75 48w, /assets/imgs/logo-sacred-heart-university-white.webp?w=64&q=75 64w, /assets/imgs/logo-sacred-heart-university-white.webp?w=96&q=75 96w, /assets/imgs/logo-sacred-heart-university-white.webp?w=128&q=75 128w, /assets/imgs/logo-sacred-heart-university-white.webp?w=256&q=75 256w, /assets/imgs/logo-sacred-heart-university-white.webp?w=384&q=75 384w, /assets/imgs/logo-sacred-heart-university-white.webp?w=640&q=75 640w, /assets/imgs/logo-sacred-heart-university-white.webp?w=750&q=75 750w, /assets/imgs/logo-sacred-heart-university-white.webp?w=828&q=75 828w, /assets/imgs/logo-sacred-heart-university-white.webp?w=1080&q=75 1080w, /assets/imgs/logo-sacred-heart-university-white.webp?w=1200&q=75 1200w, /assets/imgs/logo-sacred-heart-university-white.webp?w=1920&q=75 1920w, /assets/imgs/logo-sacred-heart-university-white.webp?w=2048&q=75 2048w, /assets/imgs/logo-sacred-heart-university-white.webp?w=3840&q=75 3840w",
+        "src": "/assets/imgs/logo-sacred-heart-university-white.webp?w=3840&q=75"
+      },
+      {
+        "alt": "Bridgewater State University",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-nimg": "fill",
+        "class": "TestimonialCarousel-module-scss-module__O9naWa__brandLogo",
+        "style": "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent",
+        "sizes": "320px",
+        "srcset": "/assets/imgs/logo-bridgewater-state-white.webp?w=32&q=75 32w, /assets/imgs/logo-bridgewater-state-white.webp?w=48&q=75 48w, /assets/imgs/logo-bridgewater-state-white.webp?w=64&q=75 64w, /assets/imgs/logo-bridgewater-state-white.webp?w=96&q=75 96w, /assets/imgs/logo-bridgewater-state-white.webp?w=128&q=75 128w, /assets/imgs/logo-bridgewater-state-white.webp?w=256&q=75 256w, /assets/imgs/logo-bridgewater-state-white.webp?w=384&q=75 384w, /assets/imgs/logo-bridgewater-state-white.webp?w=640&q=75 640w, /assets/imgs/logo-bridgewater-state-white.webp?w=750&q=75 750w, /assets/imgs/logo-bridgewater-state-white.webp?w=828&q=75 828w, /assets/imgs/logo-bridgewater-state-white.webp?w=1080&q=75 1080w, /assets/imgs/logo-bridgewater-state-white.webp?w=1200&q=75 1200w, /assets/imgs/logo-bridgewater-state-white.webp?w=1920&q=75 1920w, /assets/imgs/logo-bridgewater-state-white.webp?w=2048&q=75 2048w, /assets/imgs/logo-bridgewater-state-white.webp?w=3840&q=75 3840w",
+        "src": "/assets/imgs/logo-bridgewater-state-white.webp?w=3840&q=75"
+      },
+      {
+        "alt": "Grand Valley State University",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-nimg": "fill",
+        "class": "TestimonialCarousel-module-scss-module__O9naWa__brandLogo",
+        "style": "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent",
+        "sizes": "320px",
+        "srcset": "/assets/imgs/logo-grand-valley-state-white.webp?w=32&q=75 32w, /assets/imgs/logo-grand-valley-state-white.webp?w=48&q=75 48w, /assets/imgs/logo-grand-valley-state-white.webp?w=64&q=75 64w, /assets/imgs/logo-grand-valley-state-white.webp?w=96&q=75 96w, /assets/imgs/logo-grand-valley-state-white.webp?w=128&q=75 128w, /assets/imgs/logo-grand-valley-state-white.webp?w=256&q=75 256w, /assets/imgs/logo-grand-valley-state-white.webp?w=384&q=75 384w, /assets/imgs/logo-grand-valley-state-white.webp?w=640&q=75 640w, /assets/imgs/logo-grand-valley-state-white.webp?w=750&q=75 750w, /assets/imgs/logo-grand-valley-state-white.webp?w=828&q=75 828w, /assets/imgs/logo-grand-valley-state-white.webp?w=1080&q=75 1080w, /assets/imgs/logo-grand-valley-state-white.webp?w=1200&q=75 1200w, /assets/imgs/logo-grand-valley-state-white.webp?w=1920&q=75 1920w, /assets/imgs/logo-grand-valley-state-white.webp?w=2048&q=75 2048w, /assets/imgs/logo-grand-valley-state-white.webp?w=3840&q=75 3840w",
+        "src": "/assets/imgs/logo-grand-valley-state-white.webp?w=3840&q=75"
+      },
+      {
+        "alt": "MetroHealth",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-nimg": "fill",
+        "class": "TestimonialCarousel-module-scss-module__O9naWa__brandLogo",
+        "style": "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent",
+        "sizes": "320px",
+        "srcset": "/assets/imgs/logo-metrohealth-white.webp?w=32&q=75 32w, /assets/imgs/logo-metrohealth-white.webp?w=48&q=75 48w, /assets/imgs/logo-metrohealth-white.webp?w=64&q=75 64w, /assets/imgs/logo-metrohealth-white.webp?w=96&q=75 96w, /assets/imgs/logo-metrohealth-white.webp?w=128&q=75 128w, /assets/imgs/logo-metrohealth-white.webp?w=256&q=75 256w, /assets/imgs/logo-metrohealth-white.webp?w=384&q=75 384w, /assets/imgs/logo-metrohealth-white.webp?w=640&q=75 640w, /assets/imgs/logo-metrohealth-white.webp?w=750&q=75 750w, /assets/imgs/logo-metrohealth-white.webp?w=828&q=75 828w, /assets/imgs/logo-metrohealth-white.webp?w=1080&q=75 1080w, /assets/imgs/logo-metrohealth-white.webp?w=1200&q=75 1200w, /assets/imgs/logo-metrohealth-white.webp?w=1920&q=75 1920w, /assets/imgs/logo-metrohealth-white.webp?w=2048&q=75 2048w, /assets/imgs/logo-metrohealth-white.webp?w=3840&q=75 3840w",
+        "src": "/assets/imgs/logo-metrohealth-white.webp?w=3840&q=75"
+      },
+      {
+        "alt": "Wyoming Law Enforcement Academy",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-nimg": "fill",
+        "class": "TestimonialCarousel-module-scss-module__O9naWa__brandLogo",
+        "style": "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent",
+        "sizes": "320px",
+        "srcset": "/assets/imgs/logo-wyoming-academy.webp?w=32&q=75 32w, /assets/imgs/logo-wyoming-academy.webp?w=48&q=75 48w, /assets/imgs/logo-wyoming-academy.webp?w=64&q=75 64w, /assets/imgs/logo-wyoming-academy.webp?w=96&q=75 96w, /assets/imgs/logo-wyoming-academy.webp?w=128&q=75 128w, /assets/imgs/logo-wyoming-academy.webp?w=256&q=75 256w, /assets/imgs/logo-wyoming-academy.webp?w=384&q=75 384w, /assets/imgs/logo-wyoming-academy.webp?w=640&q=75 640w, /assets/imgs/logo-wyoming-academy.webp?w=750&q=75 750w, /assets/imgs/logo-wyoming-academy.webp?w=828&q=75 828w, /assets/imgs/logo-wyoming-academy.webp?w=1080&q=75 1080w, /assets/imgs/logo-wyoming-academy.webp?w=1200&q=75 1200w, /assets/imgs/logo-wyoming-academy.webp?w=1920&q=75 1920w, /assets/imgs/logo-wyoming-academy.webp?w=2048&q=75 2048w, /assets/imgs/logo-wyoming-academy.webp?w=3840&q=75 3840w",
+        "src": "/assets/imgs/logo-wyoming-academy.webp?w=3840&q=75"
+      },
+      {
+        "alt": "Blackboard",
+        "loading": "lazy",
+        "width": "96",
+        "height": "101",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "Logo-module-scss-module__9ZC2cW__logo",
+        "style": "color:transparent",
+        "srcset": "/assets/ds/logos/mark-green.svg?w=96&q=75 1x, /assets/ds/logos/mark-green.svg?w=256&q=75 2x",
+        "src": "/assets/ds/logos/mark-green.svg?w=256&q=75"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-170/d889c2c65d869d30.txt"
+  },
+  {
+    "id": "337d4bfe32cfb526",
+    "name": "Blackrock Fund Services Group, LLC",
+    "requested_url": "https://www.blackrock.com/corporate",
+    "status": 200,
+    "final_url": "https://www.blackrock.com/corporate",
+    "text_chars": 8911,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-170/337d4bfe32cfb526.txt"
+  },
+  {
+    "id": "9a4932d85ea436ab",
+    "name": "Blackrock Funds Services, Llc.",
+    "requested_url": "https://www.blackrock.com/corporate",
+    "status": 200,
+    "final_url": "https://www.blackrock.com/corporate",
+    "text_chars": 8907,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-170/9a4932d85ea436ab.txt"
+  },
+  {
+    "id": "3f8960d91ea35840",
+    "name": "Blackrock Funds Services Group LLC",
+    "requested_url": "https://www.blackrock.com/corporate",
+    "status": 200,
+    "final_url": "https://www.blackrock.com/corporate",
+    "text_chars": 8911,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-170/3f8960d91ea35840.txt"
+  },
+  {
+    "id": "9c8732fc9f458ea8",
+    "name": "Blackrock Funds Services Group LLC (formerly Blackrock Capital Management Inc.)",
+    "requested_url": "https://www.blackrock.com/corporate",
+    "status": 200,
+    "final_url": "https://www.blackrock.com/corporate",
+    "text_chars": 8956,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-170/9c8732fc9f458ea8.txt"
+  },
+  {
+    "id": "e3894b9b79cddd3f",
+    "name": "Blacksky Holdings",
+    "requested_url": "https://www.blacksky.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "2fa8eb09107fca7f",
+    "name": "Blackstone",
+    "requested_url": "https://www.blackstone.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "cc9864e661521c4e",
+    "name": "Blackstone Administrative Services Partnership LP",
+    "requested_url": "https://www.blackstone.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "05f9cba70f9dba8d",
+    "name": "Blackstone Administrative Services Partnerships L.p.",
+    "requested_url": "https://www.blackstone.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "c13433f19682314c",
+    "name": "Blackstone Construction LLC",
+    "requested_url": "https://www.blackstone-construction.com/about",
+    "status": 200,
+    "final_url": "https://www.blackstone-construction.com/about",
+    "text_chars": 4016,
+    "logo_candidates": [
+      {
+        "elementtiming": "nbf-header-logo-desktop",
+        "src": "//images.squarespace-cdn.com/content/v1/625976bc22ed5f621ef7a7e7/86c21fe4-962b-41f1-b6d1-1ec72175b1d1/BlackstoneConstructionLogo+BIG.jpg?format=1500w",
+        "alt": "Blackstone Construction",
+        "style": "display:block",
+        "fetchpriority": "high",
+        "loading": "eager",
+        "decoding": "async",
+        "data-loader": "raw"
+      },
+      {
+        "elementtiming": "nbf-header-logo-desktop",
+        "src": "//images.squarespace-cdn.com/content/v1/625976bc22ed5f621ef7a7e7/86c21fe4-962b-41f1-b6d1-1ec72175b1d1/BlackstoneConstructionLogo+BIG.jpg?format=1500w",
+        "alt": "Blackstone Construction",
+        "style": "display:block",
+        "fetchpriority": "high",
+        "loading": "eager",
+        "decoding": "async",
+        "data-loader": "raw"
+      },
+      {
+        "data-stretch": "false",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/625976bc22ed5f621ef7a7e7/86c21fe4-962b-41f1-b6d1-1ec72175b1d1/BlackstoneConstructionLogo+BIG.jpg",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/625976bc22ed5f621ef7a7e7/86c21fe4-962b-41f1-b6d1-1ec72175b1d1/BlackstoneConstructionLogo+BIG.jpg",
+        "data-image-dimensions": "1233x863",
+        "data-image-focal-point": "0.5,0.5",
+        "alt": "",
+        "data-load": "false",
+        "elementtiming": "system-image-block",
+        "data-sqsp-image-classic-block-image": null,
+        "src": "https://images.squarespace-cdn.com/content/v1/625976bc22ed5f621ef7a7e7/86c21fe4-962b-41f1-b6d1-1ec72175b1d1/BlackstoneConstructionLogo+BIG.jpg",
+        "width": "1233",
+        "height": "863",
+        "sizes": "(max-width: 640px) 100vw, (max-width: 767px) 16.666666666666664vw, 16.666666666666664vw",
+        "style": "display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%",
+        "onload": "this.classList.add(\"loaded\")",
+        "srcset": "https://images.squarespace-cdn.com/content/v1/625976bc22ed5f621ef7a7e7/86c21fe4-962b-41f1-b6d1-1ec72175b1d1/BlackstoneConstructionLogo+BIG.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/625976bc22ed5f621ef7a7e7/86c21fe4-962b-41f1-b6d1-1ec72175b1d1/BlackstoneConstructionLogo+BIG.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/625976bc22ed5f621ef7a7e7/86c21fe4-962b-41f1-b6d1-1ec72175b1d1/BlackstoneConstructionLogo+BIG.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/625976bc22ed5f621ef7a7e7/86c21fe4-962b-41f1-b6d1-1ec72175b1d1/BlackstoneConstructionLogo+BIG.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/625976bc22ed5f621ef7a7e7/86c21fe4-962b-41f1-b6d1-1ec72175b1d1/BlackstoneConstructionLogo+BIG.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/625976bc22ed5f621ef7a7e7/86c21fe4-962b-41f1-b6d1-1ec72175b1d1/BlackstoneConstructionLogo+BIG.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/625976bc22ed5f621ef7a7e7/86c21fe4-962b-41f1-b6d1-1ec72175b1d1/BlackstoneConstructionLogo+BIG.jpg?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-170/c13433f19682314c.txt"
+  },
+  {
+    "id": "63a3094eaf3706e1",
+    "name": "Blacksummit Capital, LLC (bsc)",
+    "requested_url": "https://blacksummitcapital.com/",
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  }
+]

@@ -1,0 +1,547 @@
+[
+  {
+    "content": [
+      {
+        "type": "text",
+        "text": "0-6c814815d3b40283: identity=no (P(yes)=0.19), ownership=no (P(yes)=0.13)\n7-74fa3f14cfb47706: identity=no (P(yes)=0.35), ownership=yes (P(yes)=0.94)\n11-b685bd534df300ae: identity=no (P(yes)=0.13), ownership=no (P(yes)=0.05)\n13-e7cf58489159fba2: identity=no (P(yes)=0.06), ownership=no (P(yes)=0.07)\n14-96189b884b5e9a35: identity=no (P(yes)=0.05), ownership=no (P(yes)=0.08)\nInspect uncertain or truncated items. Tool and website judgments depend on the content supplied; they do not predict unseen results."
+      }
+    ],
+    "structuredContent": {
+      "ok": true,
+      "model": "typesafe-ai/jev",
+      "scales": {},
+      "results": [
+        {
+          "id": "0-6c814815d3b40283",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.19
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.13
+            }
+          },
+          "billing": {
+            "cost": "0",
+            "generationId": "gen_01M2VV7Q5MJV638X39SF0GBWF4"
+          },
+          "model": "typesafe-ai/jev"
+        },
+        {
+          "id": "7-74fa3f14cfb47706",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.35
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.94
+            }
+          },
+          "billing": {
+            "cost": "0",
+            "generationId": "gen_01M2VV7Q4NM2M387C0YMDPFPJG"
+          },
+          "model": "typesafe-ai/jev"
+        },
+        {
+          "id": "11-b685bd534df300ae",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.13
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.05
+            }
+          },
+          "billing": {
+            "cost": "0",
+            "generationId": "gen_01M2VV7QED8F4SK1WD4SC0RZM0"
+          },
+          "model": "typesafe-ai/jev"
+        },
+        {
+          "id": "13-e7cf58489159fba2",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.06
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.07
+            }
+          },
+          "billing": {
+            "cost": "0",
+            "generationId": "gen_01M2VV7QCWFYHZ6ARS6M5WH6QN"
+          },
+          "model": "typesafe-ai/jev"
+        },
+        {
+          "id": "14-96189b884b5e9a35",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.05
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.08
+            }
+          },
+          "billing": {
+            "cost": "0",
+            "generationId": "gen_01M2VV7QMDERAKXHYPH5XSEVV1"
+          },
+          "model": "typesafe-ai/jev"
+        }
+      ],
+      "usage": {
+        "inputTokens": 7411
+      }
+    },
+    "isError": false
+  },
+  {
+    "content": [
+      {
+        "type": "text",
+        "text": "15-eb56dd920848332e: identity=no (P(yes)=0.24), ownership=no (P(yes)=0.10)\n16-f7c208288d4bf0f3: identity=no (P(yes)=0.20), ownership=yes (P(yes)=0.89)\n20-3573f281976c0b8c: identity=no (P(yes)=0.05), ownership=yes (P(yes)=0.56)\n21-5966d2d475c15e3f: identity=yes (P(yes)=0.89), ownership=no (P(yes)=0.05)\n24-a9227e46aa1af949: identity=no (P(yes)=0.27), ownership=no (P(yes)=0.07)\nInspect uncertain or truncated items. Tool and website judgments depend on the content supplied; they do not predict unseen results."
+      }
+    ],
+    "structuredContent": {
+      "ok": true,
+      "model": "typesafe-ai/jev",
+      "scales": {},
+      "results": [
+        {
+          "id": "15-eb56dd920848332e",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.24
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.1
+            }
+          },
+          "billing": {
+            "cost": "0",
+            "generationId": "gen_01M2VV7QXXH6E30NYCFTTHSZ1H"
+          },
+          "model": "typesafe-ai/jev"
+        },
+        {
+          "id": "16-f7c208288d4bf0f3",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.2
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.89
+            }
+          },
+          "billing": {
+            "cost": "0",
+            "generationId": "gen_01M2VV7R199PJJ18EGQYK5X8XB"
+          },
+          "model": "typesafe-ai/jev"
+        },
+        {
+          "id": "20-3573f281976c0b8c",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.05
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.56
+            }
+          },
+          "billing": {
+            "cost": "0",
+            "generationId": "gen_01M2VV7R6TQ1KF2MZ1JCV9BM8V"
+          },
+          "model": "typesafe-ai/jev"
+        },
+        {
+          "id": "21-5966d2d475c15e3f",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.89
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.05
+            }
+          },
+          "billing": {
+            "cost": "0",
+            "generationId": "gen_01M2VV7R8JVZJGW2ZXGZQ99S65"
+          },
+          "model": "typesafe-ai/jev"
+        },
+        {
+          "id": "24-a9227e46aa1af949",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.27
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.07
+            }
+          },
+          "billing": {
+            "cost": "0",
+            "generationId": "gen_01M2VV7REH2Q1JMB9KZXKRSQ92"
+          },
+          "model": "typesafe-ai/jev"
+        }
+      ],
+      "usage": {
+        "inputTokens": 13023
+      }
+    },
+    "isError": false
+  },
+  {
+    "content": [
+      {
+        "type": "text",
+        "text": "26-8738a364d77c1d38: identity=no (P(yes)=0.14), ownership=no (P(yes)=0.05)\n27-e48b7632baa1f352: identity=no (P(yes)=0.13), ownership=no (P(yes)=0.07)\n28-cbf07e730a778e2d: identity=yes (P(yes)=0.56), ownership=no (P(yes)=0.33)\n31-f40c9f1436e6b3bd: identity=no (P(yes)=0.10), ownership=no (P(yes)=0.09)\n32-e209397e8642b3fd: identity=yes (P(yes)=0.85), ownership=no (P(yes)=0.06)\nInspect uncertain or truncated items. Tool and website judgments depend on the content supplied; they do not predict unseen results."
+      }
+    ],
+    "structuredContent": {
+      "ok": true,
+      "model": "typesafe-ai/jev",
+      "scales": {},
+      "results": [
+        {
+          "id": "26-8738a364d77c1d38",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.14
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.05
+            }
+          },
+          "billing": {
+            "cost": "0",
+            "generationId": "gen_01M2VV7RPQ9WW47576Z6AE8SYX"
+          },
+          "model": "typesafe-ai/jev"
+        },
+        {
+          "id": "27-e48b7632baa1f352",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.13
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.07
+            }
+          },
+          "billing": {
+            "cost": "0",
+            "generationId": "gen_01M2VV7RQ922D45CZ64MGKMC0N"
+          },
+          "model": "typesafe-ai/jev"
+        },
+        {
+          "id": "28-cbf07e730a778e2d",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.56
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.33
+            }
+          },
+          "billing": {
+            "cost": "0",
+            "generationId": "gen_01M2VV7RYS3B3MASQ8TQG8Z1HW"
+          },
+          "model": "typesafe-ai/jev"
+        },
+        {
+          "id": "31-f40c9f1436e6b3bd",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.1
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.09
+            }
+          },
+          "billing": {
+            "cost": "0",
+            "generationId": "gen_01M2VV7S054DQBCMYD9E0FPQ9T"
+          },
+          "model": "typesafe-ai/jev"
+        },
+        {
+          "id": "32-e209397e8642b3fd",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.85
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.06
+            }
+          },
+          "billing": {
+            "cost": "0",
+            "generationId": "gen_01M2VV7S98B55CKJ4ECK75EQJ2"
+          },
+          "model": "typesafe-ai/jev"
+        }
+      ],
+      "usage": {
+        "inputTokens": 12382
+      }
+    },
+    "isError": false
+  },
+  {
+    "content": [
+      {
+        "type": "text",
+        "text": "33-5a0a96f9e9d5a3c6: identity=no (P(yes)=0.15), ownership=yes (P(yes)=0.92)\n34-16477ea46c9ee355: identity=no (P(yes)=0.13), ownership=no (P(yes)=0.05)\n35-f75e23e0d327ace6: identity=no (P(yes)=0.42), ownership=no (P(yes)=0.18)\n37-2325b194384e7c09: identity=no (P(yes)=0.21), ownership=no (P(yes)=0.08)\n39-d889c2c65d869d30: identity=yes (P(yes)=0.72), ownership=no (P(yes)=0.10)\nInspect uncertain or truncated items. Tool and website judgments depend on the content supplied; they do not predict unseen results."
+      }
+    ],
+    "structuredContent": {
+      "ok": true,
+      "model": "typesafe-ai/jev",
+      "scales": {},
+      "results": [
+        {
+          "id": "33-5a0a96f9e9d5a3c6",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.15
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.92
+            }
+          },
+          "billing": {
+            "cost": "0",
+            "generationId": "gen_01M2VV7SPBTR364DPCYP2E2SXX"
+          },
+          "model": "typesafe-ai/jev"
+        },
+        {
+          "id": "34-16477ea46c9ee355",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.13
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.05
+            }
+          },
+          "billing": {
+            "cost": "0",
+            "generationId": "gen_01M2VV7SPH35PH0BYMB5MK93QJ"
+          },
+          "model": "typesafe-ai/jev"
+        },
+        {
+          "id": "35-f75e23e0d327ace6",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.42
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.18
+            }
+          },
+          "billing": {
+            "cost": "0",
+            "generationId": "gen_01M2VV7SXBK6SAXRD24KXTG0QH"
+          },
+          "model": "typesafe-ai/jev"
+        },
+        {
+          "id": "37-2325b194384e7c09",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.21
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.08
+            }
+          },
+          "billing": {
+            "cost": "0",
+            "generationId": "gen_01M2VV7SXR2FRKPCHZJ3CK7AP6"
+          },
+          "model": "typesafe-ai/jev"
+        },
+        {
+          "id": "39-d889c2c65d869d30",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.72
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.1
+            }
+          },
+          "billing": {
+            "cost": "0",
+            "generationId": "gen_01M2VV7T5KVST3DTZ7YX2A5TKY"
+          },
+          "model": "typesafe-ai/jev"
+        }
+      ],
+      "usage": {
+        "inputTokens": 10576
+      }
+    },
+    "isError": false
+  },
+  {
+    "content": [
+      {
+        "type": "text",
+        "text": "40-337d4bfe32cfb526: identity=no (P(yes)=0.04), ownership=no (P(yes)=0.08)\n41-9a4932d85ea436ab: identity=no (P(yes)=0.05), ownership=no (P(yes)=0.08)\n42-3f8960d91ea35840: identity=no (P(yes)=0.04), ownership=no (P(yes)=0.08)\n43-9c8732fc9f458ea8: identity=no (P(yes)=0.05), ownership=no (P(yes)=0.09)\n48-c13433f19682314c: identity=yes (P(yes)=0.68), ownership=no (P(yes)=0.32)\nInspect uncertain or truncated items. Tool and website judgments depend on the content supplied; they do not predict unseen results."
+      }
+    ],
+    "structuredContent": {
+      "ok": true,
+      "model": "typesafe-ai/jev",
+      "scales": {},
+      "results": [
+        {
+          "id": "40-337d4bfe32cfb526",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.04
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.08
+            }
+          },
+          "billing": {
+            "cost": "0",
+            "generationId": "gen_01M2VV7TH08W68KDDE5JGEE4NG"
+          },
+          "model": "typesafe-ai/jev"
+        },
+        {
+          "id": "41-9a4932d85ea436ab",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.05
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.08
+            }
+          },
+          "billing": {
+            "cost": "0",
+            "generationId": "gen_01M2VV7TGHGV47MRVE09ERD3DX"
+          },
+          "model": "typesafe-ai/jev"
+        },
+        {
+          "id": "42-3f8960d91ea35840",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.04
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.08
+            }
+          },
+          "billing": {
+            "cost": "0",
+            "generationId": "gen_01M2VV7TRFJJZGB2YV60N9SG3T"
+          },
+          "model": "typesafe-ai/jev"
+        },
+        {
+          "id": "43-9c8732fc9f458ea8",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.05
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.09
+            }
+          },
+          "billing": {
+            "cost": "0",
+            "generationId": "gen_01M2VV7TSMARE474NZRWZE7VKS"
+          },
+          "model": "typesafe-ai/jev"
+        },
+        {
+          "id": "48-c13433f19682314c",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.68
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.32
+            }
+          },
+          "billing": {
+            "cost": "0",
+            "generationId": "gen_01M2VV7V3WTG76AR4H90XRHT58"
+          },
+          "model": "typesafe-ai/jev"
+        }
+      ],
+      "usage": {
+        "inputTokens": 11281
+      }
+    },
+    "isError": false
+  }
+]

@@ -1,0 +1,201 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "0-f27d9e78af643e26: identity=no (P(yes)=0.20), ownership=yes (P(yes)=0.77)\n1-c765e7b973363402: identity=no (P(yes)=0.23), ownership=no (P(yes)=0.13)\n2-c765e7b973363402: failed, Cannot reach Jev.\n4-19dd4b85f078672a: identity=no (P(yes)=0.06), ownership=no (P(yes)=0.13)\n5-19dd4b85f078672a: identity=no (P(yes)=0.09), ownership=no (P(yes)=0.10)\n6-67d1ea416219787b: identity=no (P(yes)=0.32), ownership=no (P(yes)=0.47)\n7-67d1ea416219787b: identity=no (P(yes)=0.39), ownership=no (P(yes)=0.14)\n8-8d93e42b9eff777a: identity=yes (P(yes)=0.70), ownership=yes (P(yes)=0.64)\n9-8d93e42b9eff777a: failed, Cannot reach Jev.\n10-ae08de3d5e949545: failed, Cannot reach Jev.\n11-ae08de3d5e949545: failed, Cannot reach Jev.\n12-ed39531083898b29: failed, Cannot reach Jev.\n13-b316b860098202cf: failed, Cannot reach Jev.\n14-b316b860098202cf: failed, Cannot reach Jev.\n15-2b39180d6fea8bff: failed, Cannot reach Jev.\n16-2b39180d6fea8bff: failed, Cannot reach Jev.\n17-0e4dba7bcef4695d: failed, Cannot reach Jev.\n18-0e4dba7bcef4695d: failed, Cannot reach Jev.\n19-47ee50c08f054aee: failed, Cannot reach Jev.\n20-563756bad1fb36fe: failed, Cannot reach Jev.\n21-563756bad1fb36fe: failed, Cannot reach Jev.\n22-d6d213224b4a212a: failed, Cannot reach Jev.\n23-ea3746c4e19c5174: failed, Cannot reach Jev.\n24-ea3746c4e19c5174: failed, Cannot reach Jev.\n25-d7f3c3e2c36b9735: failed, Cannot reach Jev.\n26-d7f3c3e2c36b9735: failed, Cannot reach Jev.\n27-2304d5a005d16ad7: failed, Cannot reach Jev.\n28-2304d5a005d16ad7: failed, Cannot reach Jev.\nInspect uncertain or truncated items. Tool and website judgments depend on the content supplied; they do not predict unseen results."
+    }
+  ],
+  "structuredContent": {
+    "ok": true,
+    "model": "jev-latest",
+    "scales": {},
+    "results": [
+      {
+        "id": "0-f27d9e78af643e26",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.2
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.77
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "1-c765e7b973363402",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.23
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.13
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "2-c765e7b973363402",
+        "error": "Cannot reach Jev."
+      },
+      {
+        "id": "4-19dd4b85f078672a",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.06
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.13
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "5-19dd4b85f078672a",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.09
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.1
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "6-67d1ea416219787b",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.32
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.47
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "7-67d1ea416219787b",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.39
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.14
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "8-8d93e42b9eff777a",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.7
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.64
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "9-8d93e42b9eff777a",
+        "error": "Cannot reach Jev."
+      },
+      {
+        "id": "10-ae08de3d5e949545",
+        "error": "Cannot reach Jev."
+      },
+      {
+        "id": "11-ae08de3d5e949545",
+        "error": "Cannot reach Jev."
+      },
+      {
+        "id": "12-ed39531083898b29",
+        "error": "Cannot reach Jev."
+      },
+      {
+        "id": "13-b316b860098202cf",
+        "error": "Cannot reach Jev."
+      },
+      {
+        "id": "14-b316b860098202cf",
+        "error": "Cannot reach Jev."
+      },
+      {
+        "id": "15-2b39180d6fea8bff",
+        "error": "Cannot reach Jev."
+      },
+      {
+        "id": "16-2b39180d6fea8bff",
+        "error": "Cannot reach Jev."
+      },
+      {
+        "id": "17-0e4dba7bcef4695d",
+        "error": "Cannot reach Jev."
+      },
+      {
+        "id": "18-0e4dba7bcef4695d",
+        "error": "Cannot reach Jev."
+      },
+      {
+        "id": "19-47ee50c08f054aee",
+        "error": "Cannot reach Jev."
+      },
+      {
+        "id": "20-563756bad1fb36fe",
+        "error": "Cannot reach Jev."
+      },
+      {
+        "id": "21-563756bad1fb36fe",
+        "error": "Cannot reach Jev."
+      },
+      {
+        "id": "22-d6d213224b4a212a",
+        "error": "Cannot reach Jev."
+      },
+      {
+        "id": "23-ea3746c4e19c5174",
+        "error": "Cannot reach Jev."
+      },
+      {
+        "id": "24-ea3746c4e19c5174",
+        "error": "Cannot reach Jev."
+      },
+      {
+        "id": "25-d7f3c3e2c36b9735",
+        "error": "Cannot reach Jev."
+      },
+      {
+        "id": "26-d7f3c3e2c36b9735",
+        "error": "Cannot reach Jev."
+      },
+      {
+        "id": "27-2304d5a005d16ad7",
+        "error": "Cannot reach Jev."
+      },
+      {
+        "id": "28-2304d5a005d16ad7",
+        "error": "Cannot reach Jev."
+      }
+    ],
+    "usage": {
+      "inputTokens": 14225
+    }
+  },
+  "isError": false
+}

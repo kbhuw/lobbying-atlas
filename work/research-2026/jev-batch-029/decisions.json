@@ -1,0 +1,86 @@
+{
+  "c93e166e13ff2a23": {
+    "name": "Commissariat of the Holy Land",
+    "description": "U.S. Franciscan religious organization supporting the Christian community and sacred places of the Holy Land through fundraising, awareness, and ministry.",
+    "website": "https://myfranciscan.org/",
+    "kind": "Religious organization",
+    "ownership": "Unknown",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Official leadership page separately identifies the Commissariat of the Holy Land Board. Official 2020 pastor letter identifies its Washington headquarters at 1400 Quincy Street and describes Holy Land fundraising and ministry support. Identity confirmed without merging the separately listed Franciscan Monastery Corporate Board or inferring tax status.",
+    "notes": "Official leadership page separately identifies the Commissariat of the Holy Land Board. Official 2020 pastor letter identifies its Washington headquarters at 1400 Quincy Street and describes Holy Land fundraising and ministry support. Identity confirmed without merging the separately listed Franciscan Monastery Corporate Board or inferring tax status.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/76a40b2b-1c76-4de9-88e9-0dad91fc8d26/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://myfranciscan.org/about/leadership/",
+        "label": "Organization evidence",
+        "claim": "The official U.S. site has a dedicated Commissariat of the Holy Land Board, confirming the organization and its connection to the Franciscan Monastery."
+      },
+      {
+        "url": "https://myfranciscan.org/about/history/",
+        "label": "Organization evidence",
+        "claim": "The official history page identifies the Commissariat of the Holy Land in America and describes its U.S. mission supporting the Holy Land."
+      },
+      {
+        "url": "https://myfranciscan.org/about/leadership/",
+        "label": "Primary organization evidence checked September 18, 2026",
+        "claim": "Official leadership page separately identifies the Commissariat of the Holy Land Board. Official 2020 pastor letter identifies its Washington headquarters at 1400 Quincy Street and describes Holy Land fundraising and ministry support. Identity confirmed without merging the separately listed Franciscan Monastery Corporate Board or inferring tax status."
+      },
+      {
+        "url": "https://myfranciscan.org/wp-content/uploads/2020/03/2020-Pastor-Letter-Generic.pdf",
+        "label": "Official Commissariat letter",
+        "claim": "Names exact organization and Washington address and explains Holy Land collection support."
+      }
+    ],
+    "as_of": "2026-09-18",
+    "checked_at": "2026-09-18",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "0ca3967ef6fc0b0f": {
+    "name": "Sustainable Energy Principles and Manufacturing International, Inc.",
+    "description": "Describes its business as designing, integrating and manufacturing renewable-energy systems combining solar power, hydrogen production and water desalination.",
+    "website": "https://sep-mi.com/",
+    "kind": "Renewable-energy and manufacturing company",
+    "ownership": "Unknown",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Direct official homepage explicitly names Sustainable Energy Principles and Manufacturing International Inc. and describes solar, hydrogen and desalination design-build and manufacturing services. Description represents its stated business, not independent verification of plant performance or operating capacity. Unrelated retail-template remnants are excluded from evidence; ownership remains Unknown.",
+    "notes": "Direct official homepage explicitly names Sustainable Energy Principles and Manufacturing International Inc. and describes solar, hydrogen and desalination design-build and manufacturing services. Description represents its stated business, not independent verification of plant performance or operating capacity. Unrelated retail-template remnants are excluded from evidence; ownership remains Unknown.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/cf0851a5-f435-41a1-969f-bc5c1346b604/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://sep-mi.com/",
+        "label": "Organization evidence",
+        "claim": "SEPMI\u2019s official site identifies Sustainable Energy Principles and Manufacturing International Inc. and describes solar, green-hydrogen, desalination, and integrated renewable-energy solutions."
+      },
+      {
+        "url": "https://sep-mi.com/",
+        "label": "Primary organization evidence checked September 18, 2026",
+        "claim": "Direct official homepage explicitly names Sustainable Energy Principles and Manufacturing International Inc. and describes solar, hydrogen and desalination design-build and manufacturing services. Description represents its stated business, not independent verification of plant performance or operating capacity. Unrelated retail-template remnants are excluded from evidence; ownership remains Unknown."
+      }
+    ],
+    "as_of": "2026-09-18",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://sep-mi.com/wp-content/uploads/2023/09/cca-1.png",
+    "logo_kind": "logo",
+    "logo_source_url": "https://sep-mi.com/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  }
+}

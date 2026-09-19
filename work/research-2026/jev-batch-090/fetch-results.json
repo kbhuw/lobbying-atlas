@@ -1,0 +1,1358 @@
+[
+  {
+    "id": "db4986fb11d27f2c",
+    "name": "Eagle Electronics Inc.",
+    "requested_url": "https://www.eaglewireless.com/",
+    "status": 200,
+    "final_url": "https://www.eaglewireless.com/",
+    "text_chars": 8927,
+    "logo_candidates": [
+      {
+        "width": "2560",
+        "height": "1024",
+        "src": "https://www.eaglewireless.com/wp-content/uploads/2025/12/EagleWireless_Horizontal-Logo-Saphire-2-scaled.png",
+        "class": "logo",
+        "alt": "",
+        "fetchpriority": "high",
+        "decoding": "async",
+        "srcset": "https://www.eaglewireless.com/wp-content/uploads/2025/12/EagleWireless_Horizontal-Logo-Saphire-2-scaled.png 2560w, https://www.eaglewireless.com/wp-content/uploads/2025/12/EagleWireless_Horizontal-Logo-Saphire-2-400x160.png 400w, https://www.eaglewireless.com/wp-content/uploads/2025/12/EagleWireless_Horizontal-Logo-Saphire-2-768x307.png 768w, https://www.eaglewireless.com/wp-content/uploads/2025/12/EagleWireless_Horizontal-Logo-Saphire-2-1536x615.png 1536w, https://www.eaglewireless.com/wp-content/uploads/2025/12/EagleWireless_Horizontal-Logo-Saphire-2-2048x820.png 2048w",
+        "sizes": "(max-width: 2560px) 100vw, 2560px"
+      },
+      {
+        "width": "2560",
+        "height": "1024",
+        "src": "https://www.eaglewireless.com/wp-content/uploads/2025/12/EagleWireless_Horizontal-Logo-Saphire-2-scaled.png",
+        "class": "logo",
+        "alt": "",
+        "fetchpriority": "high",
+        "decoding": "async",
+        "srcset": "https://www.eaglewireless.com/wp-content/uploads/2025/12/EagleWireless_Horizontal-Logo-Saphire-2-scaled.png 2560w, https://www.eaglewireless.com/wp-content/uploads/2025/12/EagleWireless_Horizontal-Logo-Saphire-2-400x160.png 400w, https://www.eaglewireless.com/wp-content/uploads/2025/12/EagleWireless_Horizontal-Logo-Saphire-2-768x307.png 768w, https://www.eaglewireless.com/wp-content/uploads/2025/12/EagleWireless_Horizontal-Logo-Saphire-2-1536x615.png 1536w, https://www.eaglewireless.com/wp-content/uploads/2025/12/EagleWireless_Horizontal-Logo-Saphire-2-2048x820.png 2048w",
+        "sizes": "(max-width: 2560px) 100vw, 2560px"
+      },
+      {
+        "width": "500",
+        "height": "500",
+        "src": "https://www.eaglewireless.com/wp-content/uploads/2026/03/axios-pro.png",
+        "class": "logo-img",
+        "alt": "Axios Pro",
+        "fetchpriority": "high",
+        "decoding": "async",
+        "srcset": "https://www.eaglewireless.com/wp-content/uploads/2026/03/axios-pro.png 500w, https://www.eaglewireless.com/wp-content/uploads/2026/03/axios-pro-400x400.png 400w",
+        "sizes": "(max-width: 500px) 100vw, 500px"
+      },
+      {
+        "width": "500",
+        "height": "500",
+        "src": "https://www.eaglewireless.com/wp-content/uploads/2026/03/axios.png",
+        "class": "logo-img",
+        "alt": "Axios",
+        "fetchpriority": "high",
+        "decoding": "async",
+        "srcset": "https://www.eaglewireless.com/wp-content/uploads/2026/03/axios.png 500w, https://www.eaglewireless.com/wp-content/uploads/2026/03/axios-400x400.png 400w",
+        "sizes": "(max-width: 500px) 100vw, 500px"
+      },
+      {
+        "width": "500",
+        "height": "500",
+        "src": "https://www.eaglewireless.com/wp-content/uploads/2026/03/cleveland-business-journal.png",
+        "class": "logo-img",
+        "alt": "Cleveland Business Journal",
+        "fetchpriority": "high",
+        "decoding": "async",
+        "srcset": "https://www.eaglewireless.com/wp-content/uploads/2026/03/cleveland-business-journal.png 500w, https://www.eaglewireless.com/wp-content/uploads/2026/03/cleveland-business-journal-400x400.png 400w",
+        "sizes": "(max-width: 500px) 100vw, 500px"
+      },
+      {
+        "width": "500",
+        "height": "500",
+        "src": "https://www.eaglewireless.com/wp-content/uploads/2026/03/cleveland-business.png",
+        "class": "logo-img",
+        "alt": "Cleveland Business",
+        "fetchpriority": "high",
+        "decoding": "async",
+        "srcset": "https://www.eaglewireless.com/wp-content/uploads/2026/03/cleveland-business.png 500w, https://www.eaglewireless.com/wp-content/uploads/2026/03/cleveland-business-400x400.png 400w",
+        "sizes": "(max-width: 500px) 100vw, 500px"
+      },
+      {
+        "width": "500",
+        "height": "500",
+        "src": "https://www.eaglewireless.com/wp-content/uploads/2026/03/finsmes.png",
+        "class": "logo-img",
+        "alt": "Finsmes",
+        "fetchpriority": "high",
+        "decoding": "async",
+        "srcset": "https://www.eaglewireless.com/wp-content/uploads/2026/03/finsmes.png 500w, https://www.eaglewireless.com/wp-content/uploads/2026/03/finsmes-400x400.png 400w",
+        "sizes": "(max-width: 500px) 100vw, 500px"
+      },
+      {
+        "width": "500",
+        "height": "500",
+        "src": "https://www.eaglewireless.com/wp-content/uploads/2026/03/ohio-tech-news.png",
+        "class": "logo-img",
+        "alt": "Ohio Tech News",
+        "fetchpriority": "high",
+        "decoding": "async",
+        "srcset": "https://www.eaglewireless.com/wp-content/uploads/2026/03/ohio-tech-news.png 500w, https://www.eaglewireless.com/wp-content/uploads/2026/03/ohio-tech-news-400x400.png 400w",
+        "sizes": "(max-width: 500px) 100vw, 500px"
+      },
+      {
+        "width": "500",
+        "height": "500",
+        "src": "https://www.eaglewireless.com/wp-content/uploads/2026/03/strictly-vc.png",
+        "class": "logo-img",
+        "alt": "Strictly VC",
+        "fetchpriority": "high",
+        "decoding": "async",
+        "srcset": "https://www.eaglewireless.com/wp-content/uploads/2026/03/strictly-vc.png 500w, https://www.eaglewireless.com/wp-content/uploads/2026/03/strictly-vc-400x400.png 400w",
+        "sizes": "(max-width: 500px) 100vw, 500px"
+      },
+      {
+        "width": "500",
+        "height": "500",
+        "src": "https://www.eaglewireless.com/wp-content/uploads/2026/03/tip-ranks.png",
+        "class": "logo-img",
+        "alt": "TipRanks",
+        "fetchpriority": "high",
+        "decoding": "async",
+        "srcset": "https://www.eaglewireless.com/wp-content/uploads/2026/03/tip-ranks.png 500w, https://www.eaglewireless.com/wp-content/uploads/2026/03/tip-ranks-400x400.png 400w",
+        "sizes": "(max-width: 500px) 100vw, 500px"
+      },
+      {
+        "width": "500",
+        "height": "500",
+        "src": "https://www.eaglewireless.com/wp-content/uploads/2026/03/ventureburn.png",
+        "class": "logo-img",
+        "alt": "Ventureburn",
+        "fetchpriority": "high",
+        "decoding": "async",
+        "srcset": "https://www.eaglewireless.com/wp-content/uploads/2026/03/ventureburn.png 500w, https://www.eaglewireless.com/wp-content/uploads/2026/03/ventureburn-400x400.png 400w",
+        "sizes": "(max-width: 500px) 100vw, 500px"
+      },
+      {
+        "width": "500",
+        "height": "500",
+        "src": "https://www.eaglewireless.com/wp-content/uploads/2026/03/wsj.png",
+        "class": "logo-img",
+        "alt": "The Wall Street Journal",
+        "fetchpriority": "high",
+        "decoding": "async",
+        "srcset": "https://www.eaglewireless.com/wp-content/uploads/2026/03/wsj.png 500w, https://www.eaglewireless.com/wp-content/uploads/2026/03/wsj-400x400.png 400w",
+        "sizes": "(max-width: 500px) 100vw, 500px"
+      },
+      {
+        "src": "https://www.eaglewireless.com/wp-content/uploads/2025/12/EagleWireless_Horizontal-Logo-White-1-scaled.png",
+        "alt": "EagleWireless_Horizontal Logo - White (1)"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-090/db4986fb11d27f2c.txt"
+  },
+  {
+    "id": "ed0c6979116627b7",
+    "name": "Egis",
+    "requested_url": "https://www.egis-group.com/locations/north-america/united-states-of-america",
+    "status": 200,
+    "final_url": "https://www.egis-group.com/locations/north-america/united-states-of-america",
+    "text_chars": 4880,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-090/ed0c6979116627b7.txt"
+  },
+  {
+    "id": "71b4f3a7d2f01433",
+    "name": "FLYHT",
+    "requested_url": "https://flyht.com/",
+    "status": 202,
+    "final_url": "https://flyht.com/",
+    "text_chars": 58,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-090/71b4f3a7d2f01433.txt"
+  },
+  {
+    "id": "59ffcfa1131a06fa",
+    "name": "Greenpower BX LLC",
+    "requested_url": "https://greenpowerbx.com/",
+    "status": 200,
+    "final_url": "https://www.greenpowerbx.com/",
+    "text_chars": 297,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-090/59ffcfa1131a06fa.txt"
+  },
+  {
+    "id": "4727ea2fb7f4239c",
+    "name": "Intag Systems",
+    "requested_url": "https://intagsystems.com/",
+    "status": 200,
+    "final_url": "https://intagsystems.com/",
+    "text_chars": 723,
+    "logo_candidates": [
+      {
+        "class": "small-logo sharp-image",
+        "src": "https://intagsystems.com/wp-content/uploads/cropped-Logo-Opt-2-e1774724275605.png",
+        "alt": "Intag Logo",
+        "title": "Intag Logo"
+      },
+      {
+        "class": "social-media-logo linkedin-logo dib sharp-image",
+        "src": "https://intagsystems.com/wp-content/themes/intag/lib/images/linkedin.png",
+        "alt": "linkedin-logo",
+        "title": "linkedin-logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-090/4727ea2fb7f4239c.txt"
+  },
+  {
+    "id": "c581c50dc7718075",
+    "name": "Integrate DG, LLC",
+    "requested_url": "https://integrate-dg.com/",
+    "status": 200,
+    "final_url": "https://integrate-dg.com/",
+    "text_chars": 5294,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "loading": "lazy",
+        "decoding": "async",
+        "src": "https://integrate-dg.com/wp-content/uploads/2022/08/Integrate-DG-logo.png",
+        "width": "7302",
+        "height": "1890",
+        "srcset": "https://integrate-dg.com/wp-content/uploads/2022/08/Integrate-DG-logo.png 7302w, https://integrate-dg.com/wp-content/uploads/2022/08/Integrate-DG-logo-1280x331.png 1280w, https://integrate-dg.com/wp-content/uploads/2022/08/Integrate-DG-logo-980x254.png 980w, https://integrate-dg.com/wp-content/uploads/2022/08/Integrate-DG-logo-480x124.png 480w",
+        "sizes": "(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 7302px, 100vw",
+        "class": "wp-image-15"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "src": "https://integrate-dg.com/wp-content/uploads/2022/08/Integrate-DG-logo.png",
+        "width": "7302",
+        "height": "1890",
+        "srcset": "https://integrate-dg.com/wp-content/uploads/2022/08/Integrate-DG-logo.png 7302w, https://integrate-dg.com/wp-content/uploads/2022/08/Integrate-DG-logo-1280x331.png 1280w, https://integrate-dg.com/wp-content/uploads/2022/08/Integrate-DG-logo-980x254.png 980w, https://integrate-dg.com/wp-content/uploads/2022/08/Integrate-DG-logo-480x124.png 480w",
+        "sizes": "(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 7302px, 100vw",
+        "class": "wp-image-15",
+        "title": "Integrate DG logo"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "src": "https://integrate-dg.com/wp-content/uploads/2022/08/Integrate-DG-logo.png",
+        "width": "7302",
+        "height": "1890",
+        "srcset": "https://integrate-dg.com/wp-content/uploads/2022/08/Integrate-DG-logo.png 7302w, https://integrate-dg.com/wp-content/uploads/2022/08/Integrate-DG-logo-1280x331.png 1280w, https://integrate-dg.com/wp-content/uploads/2022/08/Integrate-DG-logo-980x254.png 980w, https://integrate-dg.com/wp-content/uploads/2022/08/Integrate-DG-logo-480x124.png 480w",
+        "sizes": "(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 7302px, 100vw",
+        "class": "wp-image-15",
+        "title": "Integrate DG logo"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "src": "https://integrate-dg.com/wp-content/uploads/2022/08/Integrate-DG-logo-no-text.png",
+        "width": "1872",
+        "height": "1890",
+        "srcset": "https://integrate-dg.com/wp-content/uploads/2022/08/Integrate-DG-logo-no-text.png 1872w, https://integrate-dg.com/wp-content/uploads/2022/08/Integrate-DG-logo-no-text-1280x1292.png 1280w, https://integrate-dg.com/wp-content/uploads/2022/08/Integrate-DG-logo-no-text-980x989.png 980w, https://integrate-dg.com/wp-content/uploads/2022/08/Integrate-DG-logo-no-text-480x485.png 480w",
+        "sizes": "(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1872px, 100vw",
+        "class": "wp-image-70",
+        "title": "Integrate DG logo no text"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-090/c581c50dc7718075.txt"
+  },
+  {
+    "id": "c3f74ac774abe049",
+    "name": "Labor & Energy Alliance",
+    "requested_url": "https://laborandenergy.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "687df3798418db20",
+    "name": "Mission Springs Water District",
+    "requested_url": "https://www.mswd.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "891bbe5243b9c3f9",
+    "name": "PCC Gulfchem Corporation",
+    "requested_url": "https://www.pcc-gulfchem.com/",
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  {
+    "id": "881c5c7f13f78e60",
+    "name": "Premier Bankcard, LLC",
+    "requested_url": "https://www.premierbankcard.com/",
+    "status": 200,
+    "final_url": "https://www.premierbankcard.com/",
+    "text_chars": 11986,
+    "logo_candidates": [
+      {
+        "src": "/globalassets/images/fdic-logo/fdic-digital-sign.blacktext.svg",
+        "alt": "FDIC - Insured - Backed by the full faith and credit of the U.S. Government",
+        "class": "fdic-head-img"
+      },
+      {
+        "src": "/Static/gfx/Logo.png",
+        "alt": "First PREMIER Bank",
+        "style": "max-width:100%;"
+      },
+      {
+        "src": "/Static/gfx/Logo.png",
+        "style": "max-width:100%;"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-090/881c5c7f13f78e60.txt"
+  },
+  {
+    "id": "af110e999ad10344",
+    "name": "Reconcraft, LLC",
+    "requested_url": "https://reconcraft.com/",
+    "status": 200,
+    "final_url": "https://reconcraft.com/",
+    "text_chars": 1339,
+    "logo_candidates": [
+      {
+        "src": "https://reconcraft.com/wp-content/uploads/2020/03/2020-ReconCraft-Logo.png",
+        "alt": "RECONCRAFT",
+        "class": "logo-img wpex-h-auto wpex-max-w-100 wpex-align-middle",
+        "width": "6936",
+        "height": "839",
+        "data-no-retina": null,
+        "data-skip-lazy": null,
+        "fetchpriority": "high"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-090/af110e999ad10344.txt"
+  },
+  {
+    "id": "b282ac58a6123372",
+    "name": "Redbird Network, LLC",
+    "requested_url": "https://redbirdnetwork.com/",
+    "status": 200,
+    "final_url": "https://redbirdnetwork.com/",
+    "text_chars": 1500,
+    "logo_candidates": [
+      {
+        "src": "//img1.wsimg.com/isteam/ip/19f40245-e839-4c93-a4c2-2eb5f2a0bf7d/Red_Bird_logo.jpg/:/rs=h:75,cg:true,m/qt=q:95",
+        "srcset": "//img1.wsimg.com/isteam/ip/19f40245-e839-4c93-a4c2-2eb5f2a0bf7d/Red_Bird_logo.jpg/:/rs=w:327,h:75,cg:true,m/cr=w:327,h:75/qt=q:95, //img1.wsimg.com/isteam/ip/19f40245-e839-4c93-a4c2-2eb5f2a0bf7d/Red_Bird_logo.jpg/:/rs=w:654,h:150,cg:true,m/cr=w:654,h:150/qt=q:95 2x, //img1.wsimg.com/isteam/ip/19f40245-e839-4c93-a4c2-2eb5f2a0bf7d/Red_Bird_logo.jpg/:/rs=w:980,h:225,cg:true,m/cr=w:980,h:225/qt=q:95 3x",
+        "alt": "RedBird Network",
+        "data-ux": "ImageLogo",
+        "data-aid": "HEADER_LOGO_IMAGE_RENDERED",
+        "id": "n-61008",
+        "class": "x-el x-el-img c1-1 c1-2 c1-4 c1-x c1-t c1-u c1-27 c1-28 c1-29 c1-2a c1-2b c1-2c c1-2d c1-2e c1-y c1-23 c1-z c1-24 c1-2f c1-25 c1-b c1-c c1-2g c1-2h c1-2i c1-2j c1-2k c1-2l c1-2m c1-2n c1-2o c1-2p c1-2q c1-2r c1-2s c1-2t c1-2u c1-d c1-2v c1-2w c1-2x c1-e c1-f c1-g"
+      },
+      {
+        "src": "//img1.wsimg.com/isteam/ip/19f40245-e839-4c93-a4c2-2eb5f2a0bf7d/Red_Bird_logo.jpg/:/rs=h:75,cg:true,m/qt=q:95",
+        "srcset": "//img1.wsimg.com/isteam/ip/19f40245-e839-4c93-a4c2-2eb5f2a0bf7d/Red_Bird_logo.jpg/:/rs=w:327,h:75,cg:true,m/cr=w:327,h:75/qt=q:95, //img1.wsimg.com/isteam/ip/19f40245-e839-4c93-a4c2-2eb5f2a0bf7d/Red_Bird_logo.jpg/:/rs=w:654,h:150,cg:true,m/cr=w:654,h:150/qt=q:95 2x, //img1.wsimg.com/isteam/ip/19f40245-e839-4c93-a4c2-2eb5f2a0bf7d/Red_Bird_logo.jpg/:/rs=w:980,h:225,cg:true,m/cr=w:980,h:225/qt=q:95 3x",
+        "alt": "RedBird Network",
+        "data-ux": "ImageLogo",
+        "data-aid": "HEADER_LOGO_IMAGE_RENDERED",
+        "id": "n-61008",
+        "class": "x-el x-el-img c1-1 c1-2 c1-4 c1-x c1-t c1-u c1-27 c1-28 c1-29 c1-2a c1-2b c1-2c c1-2d c1-2e c1-y c1-23 c1-z c1-24 c1-2f c1-25 c1-b c1-c c1-2g c1-2h c1-2i c1-2j c1-2k c1-2l c1-2m c1-2n c1-2o c1-2p c1-2q c1-2r c1-2s c1-2t c1-2u c1-d c1-2v c1-2w c1-2x c1-e c1-f c1-g"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-090/b282ac58a6123372.txt"
+  },
+  {
+    "id": "5aae96511d725772",
+    "name": "Renfro Corp",
+    "requested_url": "https://www.renfro.com/",
+    "status": 200,
+    "final_url": "https://www.renfro.com/",
+    "text_chars": 869,
+    "logo_candidates": [
+      {
+        "src": "https://www.renfro.com/wp-content/uploads/2020/11/animated-logo-white-bg-240.gif",
+        "srcset": "https://www.renfro.com/wp-content/uploads/2020/11/animated-logo-white-bg-240.gif 1x, https://www.renfro.com/wp-content/uploads/2020/11/animated-logo-white-bg-240.gif 2x",
+        "width": "240",
+        "height": "110",
+        "style": "max-height:110px;height:auto;",
+        "alt": "Renfro Brands Logo",
+        "data-retina_logo_url": "https://www.renfro.com/wp-content/uploads/2020/11/animated-logo-white-bg-240.gif",
+        "class": "fusion-standard-logo"
+      },
+      {
+        "src": "https://www.renfro.com/wp-content/uploads/2020/11/animated-logo-white-bg-240.gif",
+        "srcset": "https://www.renfro.com/wp-content/uploads/2020/11/animated-logo-white-bg-240.gif 1x, https://www.renfro.com/wp-content/uploads/2020/11/animated-logo-white-bg-240.gif 2x",
+        "width": "240",
+        "height": "110",
+        "style": "max-height:110px;height:auto;",
+        "alt": "Renfro Brands Logo",
+        "data-retina_logo_url": "https://www.renfro.com/wp-content/uploads/2020/11/animated-logo-white-bg-240.gif",
+        "class": "fusion-mobile-logo"
+      },
+      {
+        "fetchpriority": "high",
+        "decoding": "async",
+        "width": "920",
+        "height": "920",
+        "title": "polo-logo",
+        "src": "https://www.renfro.com/wp-content/uploads/2020/11/polo-logo.png",
+        "class": "img-responsive wp-image-4223",
+        "srcset": "https://www.renfro.com/wp-content/uploads/2020/11/polo-logo-200x200.png 200w, https://www.renfro.com/wp-content/uploads/2020/11/polo-logo-400x400.png 400w, https://www.renfro.com/wp-content/uploads/2020/11/polo-logo-600x600.png 600w, https://www.renfro.com/wp-content/uploads/2020/11/polo-logo-800x800.png 800w, https://www.renfro.com/wp-content/uploads/2020/11/polo-logo.png 920w",
+        "sizes": "(max-width: 640px) 100vw, 400px"
+      },
+      {
+        "decoding": "async",
+        "width": "300",
+        "height": "300",
+        "title": "Jeep Logo",
+        "src": "https://www.renfro.com/wp-content/uploads/2022/11/Jeep-Logo-300x300.png",
+        "class": "img-responsive wp-image-4458",
+        "srcset": "https://www.renfro.com/wp-content/uploads/2022/11/Jeep-Logo-200x200.png 200w, https://www.renfro.com/wp-content/uploads/2022/11/Jeep-Logo-400x400.png 400w, https://www.renfro.com/wp-content/uploads/2022/11/Jeep-Logo-600x600.png 600w, https://www.renfro.com/wp-content/uploads/2022/11/Jeep-Logo-800x800.png 800w, https://www.renfro.com/wp-content/uploads/2022/11/Jeep-Logo.png 920w",
+        "sizes": "(max-width: 640px) 100vw, 400px"
+      },
+      {
+        "decoding": "async",
+        "width": "920",
+        "height": "920",
+        "title": "hotsox-logo-2",
+        "src": "https://www.renfro.com/wp-content/uploads/2020/11/hotsox-logo-2.png",
+        "class": "img-responsive wp-image-4228",
+        "srcset": "https://www.renfro.com/wp-content/uploads/2020/11/hotsox-logo-2-200x200.png 200w, https://www.renfro.com/wp-content/uploads/2020/11/hotsox-logo-2-400x400.png 400w, https://www.renfro.com/wp-content/uploads/2020/11/hotsox-logo-2-600x600.png 600w, https://www.renfro.com/wp-content/uploads/2020/11/hotsox-logo-2-800x800.png 800w, https://www.renfro.com/wp-content/uploads/2020/11/hotsox-logo-2.png 920w",
+        "sizes": "(max-width: 640px) 100vw, 400px"
+      },
+      {
+        "decoding": "async",
+        "width": "300",
+        "height": "300",
+        "title": "kbell-logo-2",
+        "src": "https://www.renfro.com/wp-content/uploads/2025/06/kbell-logo-2-300x300.png",
+        "class": "img-responsive wp-image-4557",
+        "srcset": "https://www.renfro.com/wp-content/uploads/2025/06/kbell-logo-2-200x200.png 200w, https://www.renfro.com/wp-content/uploads/2025/06/kbell-logo-2-400x400.png 400w, https://www.renfro.com/wp-content/uploads/2025/06/kbell-logo-2-600x600.png 600w, https://www.renfro.com/wp-content/uploads/2025/06/kbell-logo-2-800x800.png 800w, https://www.renfro.com/wp-content/uploads/2025/06/kbell-logo-2.png 920w",
+        "sizes": "(max-width: 640px) 100vw, 400px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-090/5aae96511d725772.txt"
+  },
+  {
+    "id": "cc49d52bcba566d8",
+    "name": "Resolve Marine Group, Inc.",
+    "requested_url": "https://resolvemarine.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "02ab35d0c4421f7b",
+    "name": "Skyborne Technologies Usa, LLC",
+    "requested_url": "https://www.skybornetech.com/",
+    "status": 200,
+    "final_url": "https://www.skybornetech.com/",
+    "text_chars": 1426,
+    "logo_candidates": [
+      {
+        "elementtiming": "nbf-header-logo-desktop",
+        "src": "//images.squarespace-cdn.com/content/v1/54bb6381e4b07f864ed2b6da/1614662051317-84MP8SV3QZK9MYOH4ZVU/SkyborneTech_Logo_R_Nov20+%281%29.png?format=1500w",
+        "alt": "Skyborne Technologies",
+        "style": "display:block",
+        "fetchpriority": "high",
+        "loading": "eager",
+        "decoding": "async",
+        "data-loader": "raw"
+      },
+      {
+        "elementtiming": "nbf-header-logo-desktop",
+        "src": "//images.squarespace-cdn.com/content/v1/54bb6381e4b07f864ed2b6da/1614662051317-84MP8SV3QZK9MYOH4ZVU/SkyborneTech_Logo_R_Nov20+%281%29.png?format=1500w",
+        "alt": "Skyborne Technologies",
+        "style": "display:block",
+        "fetchpriority": "high",
+        "loading": "eager",
+        "decoding": "async",
+        "data-loader": "raw"
+      },
+      {
+        "src": "https://images.squarespace-cdn.com/content/v1/54bb6381e4b07f864ed2b6da/1757546352260-P6IEVWETYOAR3Y57TWSD/logo-sli-midnight-ss.png",
+        "alt": "logo-sli-midnight-ss.png"
+      },
+      {
+        "class": "thumb-image",
+        "elementtiming": "system-gallery-block-grid",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/54bb6381e4b07f864ed2b6da/1757546352260-P6IEVWETYOAR3Y57TWSD/logo-sli-midnight-ss.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/54bb6381e4b07f864ed2b6da/1757546352260-P6IEVWETYOAR3Y57TWSD/logo-sli-midnight-ss.png",
+        "data-image-dimensions": "1020x151",
+        "data-image-focal-point": "0.5,0.5",
+        "alt": "logo-sli-midnight-ss.png",
+        "data-load": "false",
+        "data-image-id": "68c20770b0cea560b2756392",
+        "data-type": "image"
+      },
+      {
+        "src": "https://images.squarespace-cdn.com/content/v1/54bb6381e4b07f864ed2b6da/1578982188584-IKUUOI5UNUZAUJGLLCJ6/DST-Logo-downsized_2.jpg",
+        "alt": "DST-Logo-downsized_2.jpg"
+      },
+      {
+        "class": "thumb-image",
+        "elementtiming": "system-gallery-block-grid",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/54bb6381e4b07f864ed2b6da/1578982188584-IKUUOI5UNUZAUJGLLCJ6/DST-Logo-downsized_2.jpg",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/54bb6381e4b07f864ed2b6da/1578982188584-IKUUOI5UNUZAUJGLLCJ6/DST-Logo-downsized_2.jpg",
+        "data-image-dimensions": "1000x786",
+        "data-image-focal-point": "0.0,0.46117912371134023",
+        "alt": "DST-Logo-downsized_2.jpg",
+        "data-load": "false",
+        "data-image-id": "67e0b1e2e094a35cb4e52006",
+        "data-type": "image"
+      },
+      {
+        "src": "https://images.squarespace-cdn.com/content/v1/54bb6381e4b07f864ed2b6da/1578982111784-7XSZJAZAM7094GSYABBI/TAS_Logo_FA340.png",
+        "alt": "TAS_Logo_FA340.png"
+      },
+      {
+        "class": "thumb-image",
+        "elementtiming": "system-gallery-block-grid",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/54bb6381e4b07f864ed2b6da/1578982111784-7XSZJAZAM7094GSYABBI/TAS_Logo_FA340.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/54bb6381e4b07f864ed2b6da/1578982111784-7XSZJAZAM7094GSYABBI/TAS_Logo_FA340.png",
+        "data-image-dimensions": "340x124",
+        "data-image-focal-point": "0.5,0.5",
+        "alt": "TAS_Logo_FA340.png",
+        "data-load": "false",
+        "data-image-id": "67e0b1e2e094a35cb4e52008",
+        "data-type": "image"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-090/02ab35d0c4421f7b.txt"
+  },
+  {
+    "id": "5721f1490cbd5b9b",
+    "name": "Northbridge University (formerly NUC University)",
+    "requested_url": "https://northbridge.edu/",
+    "status": 200,
+    "final_url": "https://northbridge.edu/en/",
+    "text_chars": 14065,
+    "logo_candidates": [
+      {
+        "src": "https://northbridge.edu/sites/default/files/styles/header_logo_sm/public/NU-Logo-Website.png.avif?itok=DyRLEZee",
+        "alt": "Home",
+        "class": "max-w-52 h-auto",
+        "loading": "eager",
+        "decoding": "sync",
+        "width": "224",
+        "height": "51"
+      },
+      {
+        "src": "/sites/default/files/styles/blog_post_images/public/2026-09/Your%20Path%20to%20Nursing%20Is%20Now%20Closer%20Than%20Ever.jpg.avif?itok=DU-Yz5IF",
+        "alt": "Nursing Student Posing Infront of Northbridge Logo",
+        "class": "size-full object-cover object-center",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "370",
+        "height": "230"
+      },
+      {
+        "src": "/sites/default/files/styles/medium/public/2025-10/Junta-de-Instituciones-Postsecundarias-de-PR-Logo.png.avif?itok=qBbE86eU",
+        "alt": "Junta de Instituciones Postsecundarias de Puerto Rico Logo",
+        "class": "h-13 w-auto object-contain",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "220",
+        "height": "217"
+      },
+      {
+        "src": "/sites/default/files/styles/medium/public/2026-02/ACF-logo.png.avif?itok=jh4zQWjh",
+        "alt": "American Culinary Federation Education Foundation",
+        "class": "h-13 w-auto object-contain",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "220",
+        "height": "198"
+      },
+      {
+        "src": "/sites/default/files/styles/medium/public/2026-03/ACCET-Accredited-Since-2025-logo.png.avif?itok=_c-3Qbdw",
+        "alt": "ACCET",
+        "class": "h-13 w-auto object-contain",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "220",
+        "height": "220"
+      },
+      {
+        "src": "/sites/default/files/styles/large/public/2026-03/NU_Vertical_White.png.avif?itok=Zgj6L4sN",
+        "alt": "Northbridge University Logo",
+        "class": "w-48 h-auto",
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "480",
+        "height": "269"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-090/5721f1490cbd5b9b.txt"
+  },
+  {
+    "id": "473d12b595a885d3",
+    "name": "the Motor & Equipment Manufacturers Association",
+    "requested_url": "https://www.mema.org/",
+    "status": 200,
+    "final_url": "https://www.mema.org/",
+    "text_chars": 5134,
+    "logo_candidates": [
+      {
+        "src": "/themes/_custom/sd_base/logo.svg",
+        "alt": "MEMA Home"
+      },
+      {
+        "loading": "eager",
+        "width": "714",
+        "height": "402",
+        "src": "/sites/default/files/styles/expanding_card/public/2025-02/Sustainability%20Council%20Thumbnail.png?itok=9k2RoQVx",
+        "alt": "Sustainability Council Logo",
+        "data-src": "/sites/default/files/styles/expanding_card/public/2025-02/Sustainability%20Council%20Thumbnail.png?itok=9k2RoQVx"
+      },
+      {
+        "loading": "eager",
+        "width": "714",
+        "height": "402",
+        "src": "/sites/default/files/styles/expanding_card/public/2026-08/26%20HDAD%20Website%20Thumbnail.png?itok=qmgfBun1",
+        "alt": "A woman and man sitting on a stage under a sign that has the Heavy Duty Aftermarket Dialogue, MacKay & Company, and MEMA Aftermarket Suppliers logos",
+        "data-src": "/sites/default/files/styles/expanding_card/public/2026-08/26%20HDAD%20Website%20Thumbnail.png?itok=qmgfBun1"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-090/473d12b595a885d3.txt"
+  },
+  {
+    "id": "a7ad3ef7a7518cd9",
+    "name": "the National Alliance for EYE and Vision Research",
+    "requested_url": "https://www.eyeresearch.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "7679977a9bce4ab8",
+    "name": "Aquatech International, LLC",
+    "requested_url": "https://www.aquatech.com/about",
+    "status": 200,
+    "final_url": "https://www.aquatech.com/about",
+    "text_chars": 7521,
+    "logo_candidates": [
+      {
+        "class": "",
+        "src": "/files/user/logo%2epng",
+        "alt": "Aquatech"
+      },
+      {
+        "class": "",
+        "src": "/files/user/logo%2dlg%2epng",
+        "alt": "Aquatech"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-090/7679977a9bce4ab8.txt"
+  },
+  {
+    "id": "e7f07555a358b2b5",
+    "name": "Southern Airways Express (via Atlas Crossing)",
+    "requested_url": "https://www.iflysouthern.com/",
+    "status": 200,
+    "final_url": "https://www.iflysouthern.com/",
+    "text_chars": 7781,
+    "logo_candidates": [
+      {
+        "width": "200",
+        "height": "45",
+        "src": "https://www.iflysouthern.com/wp-content/uploads/2026/06/2026_SOUTHERN_WHITE-1.svg",
+        "class": "custom-logo",
+        "alt": "Southern Airways Express",
+        "itemprop": "logo",
+        "decoding": "async"
+      },
+      {
+        "src": "https://www.iflysouthern.com/wp-content/uploads/2024/01/logo-offset.svg",
+        "alt": "logo"
+      },
+      {
+        "src": "https://www.iflysouthern.com/wp-content/uploads/2024/01/f-circle-logo.svg",
+        "alt": "logo"
+      },
+      {
+        "decoding": "async",
+        "width": "136",
+        "height": "136",
+        "src": "https://www.iflysouthern.com/wp-content/uploads/2024/01/plan_logo.svg",
+        "class": "vc_single_image-img attachment-full",
+        "alt": ""
+      },
+      {
+        "class": "efb-logo",
+        "src": "https://www.iflysouthern.com/wp-content/uploads/2026/07/elevate-wordmark-small.svg",
+        "alt": "Elevate",
+        "width": "150",
+        "height": "11"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-090/e7f07555a358b2b5.txt"
+  },
+  {
+    "id": "c4ff17a50024f2bb",
+    "name": "Cement Kiln Recycling Coalition",
+    "requested_url": "https://www.ckrc.org/",
+    "status": 202,
+    "final_url": "https://www.ckrc.org/",
+    "text_chars": 87,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-090/c4ff17a50024f2bb.txt"
+  },
+  {
+    "id": "1987030d6f07a5e3",
+    "name": "Chubb INA Holdings, Inc. (formerly ACE INA Holdings, Inc.)",
+    "requested_url": "https://www.chubb.com/",
+    "status": 200,
+    "final_url": "https://www.chubb.com/us-en/",
+    "text_chars": 7963,
+    "logo_candidates": [
+      {
+        "class": "image",
+        "src": "/content/dam/chubb-sites/chubb/us-en/home_page/chubb-logo-black.png",
+        "alt": null
+      },
+      {
+        "class": "image",
+        "src": "/content/dam/chubb-sites/chubb/us-en/home_page/chubb-logo-black.png",
+        "alt": null,
+        "height": "100%",
+        "width": "100%"
+      },
+      {
+        "class": "image",
+        "alt": "logo",
+        "src": "/content/dam/chubbredesignnext/chubb-logo-white.svg",
+        "loading": "lazy",
+        "width": "100%",
+        "height": "100%"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-090/1987030d6f07a5e3.txt"
+  },
+  {
+    "id": "197e37d50590ed46",
+    "name": "City of Kenner, Louisiana",
+    "requested_url": "https://kenner.la.us/",
+    "status": 200,
+    "final_url": "https://kenner.la.us/",
+    "text_chars": 2712,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-090/197e37d50590ed46.txt"
+  },
+  {
+    "id": "67c49bccf67eeffd",
+    "name": "Franklin Square Holdings (Future Standard)",
+    "requested_url": "https://fsinvestments.com/",
+    "status": 200,
+    "final_url": "https://www.futurestandard.com/",
+    "text_chars": 9207,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-090/67c49bccf67eeffd.txt"
+  },
+  {
+    "id": "13e167098086c2ad",
+    "name": "Friendly House",
+    "requested_url": "https://friendlyhouseaz.org/",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "id": "1601172da5e3b7fa",
+    "name": "Fuse Energy Technologies Corp.",
+    "requested_url": "https://www.f.energy/",
+    "status": 200,
+    "final_url": "https://www.f.energy/",
+    "text_chars": 4361,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-090/1601172da5e3b7fa.txt"
+  },
+  {
+    "id": "234ea1c228500e86",
+    "name": "SPIRE Academy (Geneva Holdings Ohio)",
+    "requested_url": "https://www.spireacademy.com/",
+    "status": 200,
+    "final_url": "https://www.spireacademy.com/",
+    "text_chars": 4810,
+    "logo_candidates": [
+      {
+        "src": "/wp-content/themes/spire/assets/images/spire-logo.png",
+        "alt": "SPIRE"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-090/234ea1c228500e86.txt"
+  },
+  {
+    "id": "b3faaac7e2e5ece8",
+    "name": "Lowe Syndrome Association",
+    "requested_url": "https://lowesyndrome.org/",
+    "status": 200,
+    "final_url": "https://lowesyndrome.org/",
+    "text_chars": 1791,
+    "logo_candidates": [
+      {
+        "class": "full-width",
+        "src": "https://lowesyndrome.org/lowesyndrome_org/wp-content/themes/lsa_2020/assets/img/lsa-logo.png"
+      },
+      {
+        "class": "col-12 sm-col sm-col-6 full-widthx footer-logo",
+        "src": "https://lowesyndrome.org/lowesyndrome_org/wp-content/themes/lsa_2020/assets/img/LSAlogoNoBackground1.png",
+        "alt": "Lowe Syndrome Association Logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-090/b3faaac7e2e5ece8.txt"
+  },
+  {
+    "id": "e6bee3045c07178d",
+    "name": "Major County Sheriffs of America (formerly Major County Sheriffs' Association)",
+    "requested_url": "https://mcsheriffs.com/",
+    "status": 200,
+    "final_url": "https://mcsheriffs.com/",
+    "text_chars": 2374,
+    "logo_candidates": [
+      {
+        "src": "https://mcsheriffs.com/images/jch-optimize/ng/images_Logo_MCSA-Logo-206x206.webp",
+        "alt": "Major Country Sheriffs Of America Logo Small",
+        "width": "206",
+        "height": "206"
+      },
+      {
+        "class": "logo-large jchoptimize-responsive-images",
+        "src": "https://mcsheriffs.com/images/jch-optimize/ng/images_Partners_MCM-September-2026.avif",
+        "alt": "MCM Technology",
+        "width": "1000",
+        "height": "1000",
+        "srcset": "https://mcsheriffs.com/images/jch-optimize/rs/480/images_Partners_MCM-September-2026.avif 480w, https://mcsheriffs.com/images/jch-optimize/rs/768/images_Partners_MCM-September-2026.avif 768w, https://mcsheriffs.com/images/jch-optimize/ng/images_Partners_MCM-September-2026.avif 1000w",
+        "sizes": "(max-width: 576px) 1px, 100vw",
+        "loading": "lazy"
+      },
+      {
+        "alt": "Motorola Solutions",
+        "src": "/images/Motorola-Solutions-Logo-52x52.png",
+        "height": "42",
+        "width": "42",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://mcsheriffs.com/images/jch-optimize/ng/images_Logo_MCSA-Logo-52x52.webp",
+        "alt": "Major County Sheriffs of America Seal",
+        "height": "42",
+        "width": "42",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://mcsheriffs.com/images/jch-optimize/ng/images_Logo_MCSA-Logo-206x206.webp",
+        "alt": "Major County Sheriffs Of America Logo",
+        "width": "206",
+        "height": "206",
+        "loading": "lazy"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-090/e6bee3045c07178d.txt"
+  },
+  {
+    "id": "47fe7f6e21893c46",
+    "name": "Marshall Health Network (formerly Mountain Health Network)",
+    "requested_url": "https://www.mhnetwork.org/",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.mhnetwork.org'. (_ssl.c:1129)>"
+  },
+  {
+    "id": "c51e2b94f5983b8c",
+    "name": "Michigan Hospital Association",
+    "requested_url": "https://www.mha.org/",
+    "status": 200,
+    "final_url": "https://www.mha.org/",
+    "text_chars": 11555,
+    "logo_candidates": [
+      {
+        "class": "bde-image2-38876-103 bde-image2",
+        "src": "https://www.mha.org/wp-content/uploads/2025/09/MHA_full_logo_white.png",
+        "alt": "Michigan Health & Hospital Association",
+        "loading": "lazy",
+        "srcset": "https://www.mha.org/wp-content/uploads/2025/09/MHA_full_logo_white.png 912w, https://www.mha.org/wp-content/uploads/2025/09/MHA_full_logo_white-300x87.png 300w, https://www.mha.org/wp-content/uploads/2025/09/MHA_full_logo_white-768x223.png 768w",
+        "sizes": "(max-width: 912px) 100vw, 912px"
+      },
+      {
+        "class": "breakdance-image-object",
+        "src": "https://www.mha.org/wp-content/uploads/2025/04/MHA_UCP_logo_color_2024.png",
+        "width": "1013",
+        "height": "333",
+        "srcset": "https://www.mha.org/wp-content/uploads/2025/04/MHA_UCP_logo_color_2024.png 1013w, https://www.mha.org/wp-content/uploads/2025/04/MHA_UCP_logo_color_2024-300x99.png 300w, https://www.mha.org/wp-content/uploads/2025/04/MHA_UCP_logo_color_2024-768x252.png 768w",
+        "sizes": "(max-width: 1013px) 100vw, 1013px",
+        "alt": "MHA UCP"
+      },
+      {
+        "class": "breakdance-image-object",
+        "src": "https://www.mha.org/wp-content/uploads/2026/04/MHA-CORE_logo_2026.png",
+        "width": "703",
+        "height": "127",
+        "srcset": "https://www.mha.org/wp-content/uploads/2026/04/MHA-CORE_logo_2026.png 703w, https://www.mha.org/wp-content/uploads/2026/04/MHA-CORE_logo_2026-300x54.png 300w",
+        "sizes": "(max-width: 703px) 100vw, 703px",
+        "alt": "MHA CORE"
+      },
+      {
+        "class": "breakdance-image-object",
+        "src": "https://www.mha.org/wp-content/uploads/2021/10/MHAKeystone_logo_color_white_background-min.png",
+        "width": "1014",
+        "height": "331",
+        "srcset": "https://www.mha.org/wp-content/uploads/2021/10/MHAKeystone_logo_color_white_background-min.png 1014w, https://www.mha.org/wp-content/uploads/2021/10/MHAKeystone_logo_color_white_background-min-300x98.png 300w, https://www.mha.org/wp-content/uploads/2021/10/MHAKeystone_logo_color_white_background-min-768x251.png 768w",
+        "sizes": "(max-width: 1014px) 100vw, 1014px",
+        "alt": "MHA Keystone"
+      },
+      {
+        "class": "breakdance-image-object",
+        "src": "https://www.mha.org/wp-content/uploads/2026/04/HealthPac_Logo_color.png",
+        "width": "1080",
+        "height": "268",
+        "srcset": "https://www.mha.org/wp-content/uploads/2026/04/HealthPac_Logo_color.png 1080w, https://www.mha.org/wp-content/uploads/2026/04/HealthPac_Logo_color-300x74.png 300w, https://www.mha.org/wp-content/uploads/2026/04/HealthPac_Logo_color-1024x254.png 1024w, https://www.mha.org/wp-content/uploads/2026/04/HealthPac_Logo_color-768x191.png 768w",
+        "sizes": "(max-width: 1080px) 100vw, 1080px",
+        "alt": "HealthPac"
+      },
+      {
+        "class": "breakdance-image-object",
+        "src": "https://www.mha.org/wp-content/uploads/2026/04/MHAFoundation_logo_color_2024.png",
+        "width": "1077",
+        "height": "254",
+        "srcset": "https://www.mha.org/wp-content/uploads/2026/04/MHAFoundation_logo_color_2024.png 1077w, https://www.mha.org/wp-content/uploads/2026/04/MHAFoundation_logo_color_2024-300x71.png 300w, https://www.mha.org/wp-content/uploads/2026/04/MHAFoundation_logo_color_2024-1024x242.png 1024w, https://www.mha.org/wp-content/uploads/2026/04/MHAFoundation_logo_color_2024-768x181.png 768w",
+        "sizes": "(max-width: 1077px) 100vw, 1077px",
+        "alt": "MHA Health Foundation"
+      },
+      {
+        "class": "breakdance-image-object",
+        "src": "https://www.mha.org/wp-content/uploads/2025/04/MHA_UCP_logo_color_2024.png",
+        "width": "1013",
+        "height": "333",
+        "srcset": "https://www.mha.org/wp-content/uploads/2025/04/MHA_UCP_logo_color_2024.png 1013w, https://www.mha.org/wp-content/uploads/2025/04/MHA_UCP_logo_color_2024-300x99.png 300w, https://www.mha.org/wp-content/uploads/2025/04/MHA_UCP_logo_color_2024-768x252.png 768w",
+        "sizes": "(max-width: 1013px) 100vw, 1013px",
+        "alt": "MHA UCP"
+      },
+      {
+        "class": "breakdance-image-object",
+        "src": "https://www.mha.org/wp-content/uploads/2026/04/MHA-CORE_logo_2026.png",
+        "width": "703",
+        "height": "127",
+        "srcset": "https://www.mha.org/wp-content/uploads/2026/04/MHA-CORE_logo_2026.png 703w, https://www.mha.org/wp-content/uploads/2026/04/MHA-CORE_logo_2026-300x54.png 300w",
+        "sizes": "(max-width: 703px) 100vw, 703px",
+        "alt": "MHA CORE"
+      },
+      {
+        "class": "breakdance-image-object",
+        "src": "https://www.mha.org/wp-content/uploads/2021/10/MHAKeystone_logo_color_white_background-min.png",
+        "width": "1014",
+        "height": "331",
+        "srcset": "https://www.mha.org/wp-content/uploads/2021/10/MHAKeystone_logo_color_white_background-min.png 1014w, https://www.mha.org/wp-content/uploads/2021/10/MHAKeystone_logo_color_white_background-min-300x98.png 300w, https://www.mha.org/wp-content/uploads/2021/10/MHAKeystone_logo_color_white_background-min-768x251.png 768w",
+        "sizes": "(max-width: 1014px) 100vw, 1014px",
+        "alt": "MHA Keystone"
+      },
+      {
+        "class": "breakdance-image-object",
+        "src": "https://www.mha.org/wp-content/uploads/2026/04/HealthPac_Logo_color.png",
+        "width": "1080",
+        "height": "268",
+        "srcset": "https://www.mha.org/wp-content/uploads/2026/04/HealthPac_Logo_color.png 1080w, https://www.mha.org/wp-content/uploads/2026/04/HealthPac_Logo_color-300x74.png 300w, https://www.mha.org/wp-content/uploads/2026/04/HealthPac_Logo_color-1024x254.png 1024w, https://www.mha.org/wp-content/uploads/2026/04/HealthPac_Logo_color-768x191.png 768w",
+        "sizes": "(max-width: 1080px) 100vw, 1080px",
+        "alt": "HealthPac"
+      },
+      {
+        "class": "breakdance-image-object",
+        "src": "https://www.mha.org/wp-content/uploads/2026/04/MHAFoundation_logo_color_2024.png",
+        "width": "1077",
+        "height": "254",
+        "srcset": "https://www.mha.org/wp-content/uploads/2026/04/MHAFoundation_logo_color_2024.png 1077w, https://www.mha.org/wp-content/uploads/2026/04/MHAFoundation_logo_color_2024-300x71.png 300w, https://www.mha.org/wp-content/uploads/2026/04/MHAFoundation_logo_color_2024-1024x242.png 1024w, https://www.mha.org/wp-content/uploads/2026/04/MHAFoundation_logo_color_2024-768x181.png 768w",
+        "sizes": "(max-width: 1077px) 100vw, 1077px",
+        "alt": "MHA Health Foundation"
+      },
+      {
+        "class": "breakdance-image-object",
+        "src": "https://www.mha.org/wp-content/uploads/2025/04/MHA_UCP_logo_color_2024.png",
+        "width": "1013",
+        "height": "333",
+        "srcset": "https://www.mha.org/wp-content/uploads/2025/04/MHA_UCP_logo_color_2024.png 1013w, https://www.mha.org/wp-content/uploads/2025/04/MHA_UCP_logo_color_2024-300x99.png 300w, https://www.mha.org/wp-content/uploads/2025/04/MHA_UCP_logo_color_2024-768x252.png 768w",
+        "sizes": "(max-width: 1013px) 100vw, 1013px",
+        "alt": "MHA UCP"
+      },
+      {
+        "class": "breakdance-image-object",
+        "src": "https://www.mha.org/wp-content/uploads/2026/04/MHA-CORE_logo_2026.png",
+        "width": "703",
+        "height": "127",
+        "srcset": "https://www.mha.org/wp-content/uploads/2026/04/MHA-CORE_logo_2026.png 703w, https://www.mha.org/wp-content/uploads/2026/04/MHA-CORE_logo_2026-300x54.png 300w",
+        "sizes": "(max-width: 703px) 100vw, 703px",
+        "alt": "MHA CORE"
+      },
+      {
+        "class": "breakdance-image-object",
+        "src": "https://www.mha.org/wp-content/uploads/2021/10/MHAKeystone_logo_color_white_background-min.png",
+        "width": "1014",
+        "height": "331",
+        "srcset": "https://www.mha.org/wp-content/uploads/2021/10/MHAKeystone_logo_color_white_background-min.png 1014w, https://www.mha.org/wp-content/uploads/2021/10/MHAKeystone_logo_color_white_background-min-300x98.png 300w, https://www.mha.org/wp-content/uploads/2021/10/MHAKeystone_logo_color_white_background-min-768x251.png 768w",
+        "sizes": "(max-width: 1014px) 100vw, 1014px",
+        "alt": "MHA Keystone"
+      },
+      {
+        "class": "breakdance-image-object",
+        "src": "https://www.mha.org/wp-content/uploads/2026/04/HealthPac_Logo_color.png",
+        "width": "1080",
+        "height": "268",
+        "srcset": "https://www.mha.org/wp-content/uploads/2026/04/HealthPac_Logo_color.png 1080w, https://www.mha.org/wp-content/uploads/2026/04/HealthPac_Logo_color-300x74.png 300w, https://www.mha.org/wp-content/uploads/2026/04/HealthPac_Logo_color-1024x254.png 1024w, https://www.mha.org/wp-content/uploads/2026/04/HealthPac_Logo_color-768x191.png 768w",
+        "sizes": "(max-width: 1080px) 100vw, 1080px",
+        "alt": "HealthPac"
+      },
+      {
+        "class": "breakdance-image-object",
+        "src": "https://www.mha.org/wp-content/uploads/2026/04/MHAFoundation_logo_color_2024.png",
+        "width": "1077",
+        "height": "254",
+        "srcset": "https://www.mha.org/wp-content/uploads/2026/04/MHAFoundation_logo_color_2024.png 1077w, https://www.mha.org/wp-content/uploads/2026/04/MHAFoundation_logo_color_2024-300x71.png 300w, https://www.mha.org/wp-content/uploads/2026/04/MHAFoundation_logo_color_2024-1024x242.png 1024w, https://www.mha.org/wp-content/uploads/2026/04/MHAFoundation_logo_color_2024-768x181.png 768w",
+        "sizes": "(max-width: 1077px) 100vw, 1077px",
+        "alt": "MHA Health Foundation"
+      },
+      {
+        "class": "breakdance-image-object",
+        "src": "https://www.mha.org/wp-content/uploads/2025/04/MHA_UCP_logo_color_2024.png",
+        "width": "1013",
+        "height": "333",
+        "srcset": "https://www.mha.org/wp-content/uploads/2025/04/MHA_UCP_logo_color_2024.png 1013w, https://www.mha.org/wp-content/uploads/2025/04/MHA_UCP_logo_color_2024-300x99.png 300w, https://www.mha.org/wp-content/uploads/2025/04/MHA_UCP_logo_color_2024-768x252.png 768w",
+        "sizes": "(max-width: 1013px) 100vw, 1013px",
+        "alt": "MHA UCP"
+      },
+      {
+        "class": "breakdance-image-object",
+        "src": "https://www.mha.org/wp-content/uploads/2026/04/MHA-CORE_logo_2026.png",
+        "width": "703",
+        "height": "127",
+        "srcset": "https://www.mha.org/wp-content/uploads/2026/04/MHA-CORE_logo_2026.png 703w, https://www.mha.org/wp-content/uploads/2026/04/MHA-CORE_logo_2026-300x54.png 300w",
+        "sizes": "(max-width: 703px) 100vw, 703px",
+        "alt": "MHA CORE"
+      },
+      {
+        "class": "breakdance-image-object",
+        "src": "https://www.mha.org/wp-content/uploads/2021/10/MHAKeystone_logo_color_white_background-min.png",
+        "width": "1014",
+        "height": "331",
+        "srcset": "https://www.mha.org/wp-content/uploads/2021/10/MHAKeystone_logo_color_white_background-min.png 1014w, https://www.mha.org/wp-content/uploads/2021/10/MHAKeystone_logo_color_white_background-min-300x98.png 300w, https://www.mha.org/wp-content/uploads/2021/10/MHAKeystone_logo_color_white_background-min-768x251.png 768w",
+        "sizes": "(max-width: 1014px) 100vw, 1014px",
+        "alt": "MHA Keystone"
+      },
+      {
+        "class": "breakdance-image-object",
+        "src": "https://www.mha.org/wp-content/uploads/2026/04/HealthPac_Logo_color.png",
+        "width": "1080",
+        "height": "268",
+        "srcset": "https://www.mha.org/wp-content/uploads/2026/04/HealthPac_Logo_color.png 1080w, https://www.mha.org/wp-content/uploads/2026/04/HealthPac_Logo_color-300x74.png 300w, https://www.mha.org/wp-content/uploads/2026/04/HealthPac_Logo_color-1024x254.png 1024w, https://www.mha.org/wp-content/uploads/2026/04/HealthPac_Logo_color-768x191.png 768w",
+        "sizes": "(max-width: 1080px) 100vw, 1080px",
+        "alt": "HealthPac"
+      },
+      {
+        "class": "breakdance-image-object",
+        "src": "https://www.mha.org/wp-content/uploads/2026/04/MHAFoundation_logo_color_2024.png",
+        "width": "1077",
+        "height": "254",
+        "srcset": "https://www.mha.org/wp-content/uploads/2026/04/MHAFoundation_logo_color_2024.png 1077w, https://www.mha.org/wp-content/uploads/2026/04/MHAFoundation_logo_color_2024-300x71.png 300w, https://www.mha.org/wp-content/uploads/2026/04/MHAFoundation_logo_color_2024-1024x242.png 1024w, https://www.mha.org/wp-content/uploads/2026/04/MHAFoundation_logo_color_2024-768x181.png 768w",
+        "sizes": "(max-width: 1077px) 100vw, 1077px",
+        "alt": "MHA Health Foundation"
+      },
+      {
+        "class": "breakdance-image-object",
+        "src": "https://www.mha.org/wp-content/uploads/2025/04/MHA_UCP_logo_color_2024.png",
+        "width": "1013",
+        "height": "333",
+        "srcset": "https://www.mha.org/wp-content/uploads/2025/04/MHA_UCP_logo_color_2024.png 1013w, https://www.mha.org/wp-content/uploads/2025/04/MHA_UCP_logo_color_2024-300x99.png 300w, https://www.mha.org/wp-content/uploads/2025/04/MHA_UCP_logo_color_2024-768x252.png 768w",
+        "sizes": "(max-width: 1013px) 100vw, 1013px",
+        "alt": "MHA UCP"
+      },
+      {
+        "class": "breakdance-image-object",
+        "src": "https://www.mha.org/wp-content/uploads/2026/04/MHA-CORE_logo_2026.png",
+        "width": "703",
+        "height": "127",
+        "srcset": "https://www.mha.org/wp-content/uploads/2026/04/MHA-CORE_logo_2026.png 703w, https://www.mha.org/wp-content/uploads/2026/04/MHA-CORE_logo_2026-300x54.png 300w",
+        "sizes": "(max-width: 703px) 100vw, 703px",
+        "alt": "MHA CORE"
+      },
+      {
+        "class": "breakdance-image-object",
+        "src": "https://www.mha.org/wp-content/uploads/2021/10/MHAKeystone_logo_color_white_background-min.png",
+        "width": "1014",
+        "height": "331",
+        "srcset": "https://www.mha.org/wp-content/uploads/2021/10/MHAKeystone_logo_color_white_background-min.png 1014w, https://www.mha.org/wp-content/uploads/2021/10/MHAKeystone_logo_color_white_background-min-300x98.png 300w, https://www.mha.org/wp-content/uploads/2021/10/MHAKeystone_logo_color_white_background-min-768x251.png 768w",
+        "sizes": "(max-width: 1014px) 100vw, 1014px",
+        "alt": "MHA Keystone"
+      },
+      {
+        "class": "breakdance-image-object",
+        "src": "https://www.mha.org/wp-content/uploads/2026/04/HealthPac_Logo_color.png",
+        "width": "1080",
+        "height": "268",
+        "srcset": "https://www.mha.org/wp-content/uploads/2026/04/HealthPac_Logo_color.png 1080w, https://www.mha.org/wp-content/uploads/2026/04/HealthPac_Logo_color-300x74.png 300w, https://www.mha.org/wp-content/uploads/2026/04/HealthPac_Logo_color-1024x254.png 1024w, https://www.mha.org/wp-content/uploads/2026/04/HealthPac_Logo_color-768x191.png 768w",
+        "sizes": "(max-width: 1080px) 100vw, 1080px",
+        "alt": "HealthPac"
+      },
+      {
+        "class": "breakdance-image-object",
+        "src": "https://www.mha.org/wp-content/uploads/2026/04/MHAFoundation_logo_color_2024.png",
+        "width": "1077",
+        "height": "254",
+        "srcset": "https://www.mha.org/wp-content/uploads/2026/04/MHAFoundation_logo_color_2024.png 1077w, https://www.mha.org/wp-content/uploads/2026/04/MHAFoundation_logo_color_2024-300x71.png 300w, https://www.mha.org/wp-content/uploads/2026/04/MHAFoundation_logo_color_2024-1024x242.png 1024w, https://www.mha.org/wp-content/uploads/2026/04/MHAFoundation_logo_color_2024-768x181.png 768w",
+        "sizes": "(max-width: 1077px) 100vw, 1077px",
+        "alt": "MHA Health Foundation"
+      },
+      {
+        "class": "breakdance-image-object",
+        "src": "https://www.mha.org/wp-content/uploads/2025/04/MHA_UCP_logo_color_2024.png",
+        "width": "1013",
+        "height": "333",
+        "srcset": "https://www.mha.org/wp-content/uploads/2025/04/MHA_UCP_logo_color_2024.png 1013w, https://www.mha.org/wp-content/uploads/2025/04/MHA_UCP_logo_color_2024-300x99.png 300w, https://www.mha.org/wp-content/uploads/2025/04/MHA_UCP_logo_color_2024-768x252.png 768w",
+        "sizes": "(max-width: 1013px) 100vw, 1013px",
+        "alt": "MHA UCP"
+      },
+      {
+        "class": "breakdance-image-object",
+        "src": "https://www.mha.org/wp-content/uploads/2026/04/MHA-CORE_logo_2026.png",
+        "width": "703",
+        "height": "127",
+        "srcset": "https://www.mha.org/wp-content/uploads/2026/04/MHA-CORE_logo_2026.png 703w, https://www.mha.org/wp-content/uploads/2026/04/MHA-CORE_logo_2026-300x54.png 300w",
+        "sizes": "(max-width: 703px) 100vw, 703px",
+        "alt": "MHA CORE"
+      },
+      {
+        "class": "breakdance-image-object",
+        "src": "https://www.mha.org/wp-content/uploads/2021/10/MHAKeystone_logo_color_white_background-min.png",
+        "width": "1014",
+        "height": "331",
+        "srcset": "https://www.mha.org/wp-content/uploads/2021/10/MHAKeystone_logo_color_white_background-min.png 1014w, https://www.mha.org/wp-content/uploads/2021/10/MHAKeystone_logo_color_white_background-min-300x98.png 300w, https://www.mha.org/wp-content/uploads/2021/10/MHAKeystone_logo_color_white_background-min-768x251.png 768w",
+        "sizes": "(max-width: 1014px) 100vw, 1014px",
+        "alt": "MHA Keystone"
+      },
+      {
+        "class": "breakdance-image-object",
+        "src": "https://www.mha.org/wp-content/uploads/2026/04/HealthPac_Logo_color.png",
+        "width": "1080",
+        "height": "268",
+        "srcset": "https://www.mha.org/wp-content/uploads/2026/04/HealthPac_Logo_color.png 1080w, https://www.mha.org/wp-content/uploads/2026/04/HealthPac_Logo_color-300x74.png 300w, https://www.mha.org/wp-content/uploads/2026/04/HealthPac_Logo_color-1024x254.png 1024w, https://www.mha.org/wp-content/uploads/2026/04/HealthPac_Logo_color-768x191.png 768w",
+        "sizes": "(max-width: 1080px) 100vw, 1080px",
+        "alt": "HealthPac"
+      },
+      {
+        "class": "breakdance-image-object",
+        "src": "https://www.mha.org/wp-content/uploads/2026/04/MHAFoundation_logo_color_2024.png",
+        "width": "1077",
+        "height": "254",
+        "srcset": "https://www.mha.org/wp-content/uploads/2026/04/MHAFoundation_logo_color_2024.png 1077w, https://www.mha.org/wp-content/uploads/2026/04/MHAFoundation_logo_color_2024-300x71.png 300w, https://www.mha.org/wp-content/uploads/2026/04/MHAFoundation_logo_color_2024-1024x242.png 1024w, https://www.mha.org/wp-content/uploads/2026/04/MHAFoundation_logo_color_2024-768x181.png 768w",
+        "sizes": "(max-width: 1077px) 100vw, 1077px",
+        "alt": "MHA Health Foundation"
+      },
+      {
+        "class": "breakdance-image-object",
+        "src": "https://www.mha.org/wp-content/uploads/2025/09/MHA_full_logo_color_2024.png",
+        "width": "913",
+        "height": "266",
+        "srcset": "https://www.mha.org/wp-content/uploads/2025/09/MHA_full_logo_color_2024.png 913w, https://www.mha.org/wp-content/uploads/2025/09/MHA_full_logo_color_2024-300x87.png 300w, https://www.mha.org/wp-content/uploads/2025/09/MHA_full_logo_color_2024-768x224.png 768w",
+        "sizes": "(max-width: 913px) 100vw, 913px",
+        "alt": "Michigan Health & Hospital Association"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-090/c51e2b94f5983b8c.txt"
+  },
+  {
+    "id": "57eae87be0bdff0b",
+    "name": "Mojo Mobility Inc.",
+    "requested_url": "https://mojomobility.com/",
+    "status": 200,
+    "final_url": "https://mojomobility.com/",
+    "text_chars": 78,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-090/57eae87be0bdff0b.txt"
+  },
+  {
+    "id": "feae1b1661edc6a7",
+    "name": "National Association of Assistant United States Attorneys",
+    "requested_url": "https://www.naausa.org/",
+    "status": 200,
+    "final_url": "https://www.naausa.org/",
+    "text_chars": 2980,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-090/feae1b1661edc6a7.txt"
+  },
+  {
+    "id": "7c4df68dd1b74d2e",
+    "name": "National Fire Sprinkler Association",
+    "requested_url": "https://nfsa.org/",
+    "status": 200,
+    "final_url": "https://nfsa.org/",
+    "text_chars": 3759,
+    "logo_candidates": [
+      {
+        "class": "img-responsive small-logo lazyload",
+        "data-src": "https://nfsa.org/wp-content/themes/nfsa/assets/img/NFSA-logo.png",
+        "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "style": "--smush-placeholder-width: 225px; --smush-placeholder-aspect-ratio: 225/80;"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-090/7c4df68dd1b74d2e.txt"
+  },
+  {
+    "id": "e514f71aeafd041a",
+    "name": "New Mexico Independent Community Colleges, Inc.",
+    "requested_url": "https://nmicc.org/",
+    "status": 200,
+    "final_url": "https://nmicc.org/",
+    "text_chars": 3749,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-090/e514f71aeafd041a.txt"
+  },
+  {
+    "id": "be6bcbcbbce15d61",
+    "name": "North American Olive Oil Association (fka Alliance for Olive Oil Qlty Stndrds)",
+    "requested_url": "https://www.aboutoliveoil.org/",
+    "status": 200,
+    "final_url": "https://www.aboutoliveoil.org/",
+    "text_chars": 3495,
+    "logo_candidates": [
+      {
+        "src": "https://www.aboutoliveoil.org/hs-fs/hubfs/website-logo2.jpg?width=500&height=100&name=website-logo2.jpg",
+        "class": "hs-image-widget ",
+        "height": "100",
+        "style": "height: auto;width:500px;border-width:0px;border:0px;",
+        "width": "500",
+        "alt": "website-logo2",
+        "title": "website-logo2",
+        "srcset": "https://www.aboutoliveoil.org/hs-fs/hubfs/website-logo2.jpg?width=250&height=50&name=website-logo2.jpg 250w, https://www.aboutoliveoil.org/hs-fs/hubfs/website-logo2.jpg?width=500&height=100&name=website-logo2.jpg 500w, https://www.aboutoliveoil.org/hs-fs/hubfs/website-logo2.jpg?width=750&height=150&name=website-logo2.jpg 750w, https://www.aboutoliveoil.org/hs-fs/hubfs/website-logo2.jpg?width=1000&height=200&name=website-logo2.jpg 1000w, https://www.aboutoliveoil.org/hs-fs/hubfs/website-logo2.jpg?width=1250&height=250&name=website-logo2.jpg 1250w, https://www.aboutoliveoil.org/hs-fs/hubfs/website-logo2.jpg?width=1500&height=300&name=website-logo2.jpg 1500w",
+        "sizes": "(max-width: 500px) 100vw, 500px"
+      },
+      {
+        "src": "https://www.aboutoliveoil.org/hubfs/logo-certified.svg",
+        "width": "0",
+        "loading": "lazy",
+        "alt": "logo-certified",
+        "style": "height: auto; max-width: 100%; width: 90px; float: left; margin: 0px 20px 0px 0px;"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-090/be6bcbcbbce15d61.txt"
+  },
+  {
+    "id": "32410ed46635c99b",
+    "name": "Paul Mitchell Advanced Education",
+    "requested_url": "https://paulmitchell.edu/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "db2c31fd8e0e5c8b",
+    "name": "Pennsylvania State University",
+    "requested_url": "https://psu.edu/",
+    "status": 200,
+    "final_url": "https://www.psu.edu:443/",
+    "text_chars": 6289,
+    "logo_candidates": [
+      {
+        "alt": "Penn State",
+        "src": "https://images.ctfassets.net/p7x3ai5plaz1/1wVBvFkhF0ArrdaMlzLiCi/125b0659267cacef241e88b5517a51eb/logotype.svg",
+        "class": "theme-cache-jo0541"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-090/db2c31fd8e0e5c8b.txt"
+  },
+  {
+    "id": "5a4c7cfb0c586a5e",
+    "name": "Public Access to Sunscreens (pass) Coalition",
+    "requested_url": "https://www.sunscreencoalition.org/",
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  {
+    "id": "730552fe237b3e67",
+    "name": "Quantum Capital Group",
+    "requested_url": "https://quantumcapitalgroup.com/",
+    "status": 200,
+    "final_url": "https://quantumcapitalgroup.com/",
+    "text_chars": 88,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-090/730552fe237b3e67.txt"
+  },
+  {
+    "id": "c79a352979b46f2e",
+    "name": "REE Medical LLC",
+    "requested_url": "https://reemedical.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "5fca4c5b28ec1505",
+    "name": "Risant Health",
+    "requested_url": "https://risanthealth.com/",
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  {
+    "id": "4e425cc111e3045b",
+    "name": "SCO Family of Services",
+    "requested_url": "https://sco.org/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "cdb9c2543a5833de",
+    "name": "Sierra Pacific Industries",
+    "requested_url": "https://www.sierrapacific.com/",
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  {
+    "id": "abe58043003cb77a",
+    "name": "Solace Inc.",
+    "requested_url": "https://www.solace.health/",
+    "status": 200,
+    "final_url": "https://www.solace.health/",
+    "text_chars": 4985,
+    "logo_candidates": [
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/632a21d0ec93a082b11988a0/69b5bdb5970e13a7390d41e8_gna_proud_partner_white%201.avif",
+        "alt": "Circular logo with a gear icon and text stating GNA Proud Partner in white.",
+        "class": "footer-cert"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-090/abe58043003cb77a.txt"
+  },
+  {
+    "id": "ebfb82a8701bec28",
+    "name": "Specialty Care Management, LLC",
+    "requested_url": "https://www.specialtycm.com/",
+    "status": 200,
+    "final_url": "https://www.specialtycm.com/",
+    "text_chars": 1335,
+    "logo_candidates": [
+      {
+        "width": "223",
+        "height": "46",
+        "src": "https://www.specialtycm.com/wp-content/uploads/2023/03/logo2.svg",
+        "class": "attachment-large size-large wp-image-369",
+        "alt": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-090/ebfb82a8701bec28.txt"
+  },
+  {
+    "id": "fc87aa6877f30c07",
+    "name": "the Lovelady Center, Inc.",
+    "requested_url": "https://loveladycenter.org/",
+    "status": 202,
+    "final_url": "https://loveladycenter.org/",
+    "text_chars": 87,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-090/fc87aa6877f30c07.txt"
+  },
+  {
+    "id": "be609bc432db4039",
+    "name": "the Sisters of Charity St.augustine Health System, Inc.",
+    "requested_url": "https://sistersofcharityhealth.org/",
+    "status": 200,
+    "final_url": "https://sistersofcharityhealth.org/",
+    "text_chars": 37976,
+    "logo_candidates": [
+      {
+        "decoding": "async",
+        "id": "n2-ss-2item16",
+        "alt": "",
+        "class": "skip-lazy",
+        "width": "244",
+        "height": "297",
+        "data-skip-lazy": "1",
+        "src": "//sistersofcharityhealth.org/wp-content/uploads/2026/01/SOC_HS_logo_rev.png"
+      },
+      {
+        "class": "design-size2 design-border2",
+        "src": "https://sistersofcharityhealth.org/wp-content/plugins/accessibility-onetap/assets/images/admin/Original_Logo_Icon.svg",
+        "alt": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-090/be609bc432db4039.txt"
+  },
+  {
+    "id": "775451273ffeadc1",
+    "name": "Vineyard Offshore LLC",
+    "requested_url": "https://www.vineyardoffshore.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "33454da19d24c5ff",
+    "name": "Wakefern Food Corp.",
+    "requested_url": "https://www.wakefern.com/",
+    "error": "<urlopen error timed out>"
+  }
+]

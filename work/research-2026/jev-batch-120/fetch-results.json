@@ -1,0 +1,302 @@
+[
+  {
+    "id": "c51e2b94f5983b8c",
+    "name": "Michigan Hospital Association",
+    "requested_url": "https://www.mha.org/MHA-Keystone-Center-Patient-Safety-Organization/About-the-MHA-Keystone-Center/",
+    "status": 200,
+    "final_url": "https://www.mha.org/MHA-Keystone-Center-Patient-Safety-Organization/About-the-MHA-Keystone-Center/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-120/0-c51e2b94f5983b8c.txt",
+    "text_chars": 11503
+  },
+  {
+    "id": "c51e2b94f5983b8c",
+    "name": "Michigan Hospital Association",
+    "requested_url": "https://www.mha.org/about/awards/speak-up-award/",
+    "status": 200,
+    "final_url": "https://www.mha.org/about/awards/speak-up-award/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-120/1-c51e2b94f5983b8c.txt",
+    "text_chars": 23657
+  },
+  {
+    "id": "be6bcbcbbce15d61",
+    "name": "North American Olive Oil Association (fka Alliance for Olive Oil Qlty Stndrds)",
+    "requested_url": "https://www.aboutoliveoil.org/olive-oil-and-endometriosis",
+    "status": 200,
+    "final_url": "https://www.aboutoliveoil.org/olive-oil-and-endometriosis",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-120/2-be6bcbcbbce15d61.txt",
+    "text_chars": 5852
+  },
+  {
+    "id": "be6bcbcbbce15d61",
+    "name": "North American Olive Oil Association (fka Alliance for Olive Oil Qlty Stndrds)",
+    "requested_url": "https://www.aboutoliveoil.org/smoke-point-olive-avocado-oil",
+    "status": 200,
+    "final_url": "https://www.aboutoliveoil.org/smoke-point-olive-avocado-oil",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-120/3-be6bcbcbbce15d61.txt",
+    "text_chars": 7832
+  },
+  {
+    "id": "f25012a2cca6c095",
+    "name": "CDFI Coalition Financial Institutions, Inc.",
+    "requested_url": "https://cdfi.org/2026/08/31/upcoming-webinar-learn-more-about-the-community-infrastructure-center-and-community-power-accelerator/",
+    "status": 200,
+    "final_url": "https://cdfi.org/2026/08/31/upcoming-webinar-learn-more-about-the-community-infrastructure-center-and-community-power-accelerator/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-120/4-f25012a2cca6c095.txt",
+    "text_chars": 4808
+  },
+  {
+    "id": "ac0cd4098f04d150",
+    "name": "Atkinsrealis Nuclear Secured, LLC",
+    "requested_url": "https://www.atkinsrealis.com/en/about/our-approach",
+    "status": 200,
+    "final_url": "https://www.atkinsrealis.com/en/about/our-approach",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-120/5-ac0cd4098f04d150.txt",
+    "text_chars": 122347
+  },
+  {
+    "id": "ac0cd4098f04d150",
+    "name": "Atkinsrealis Nuclear Secured, LLC",
+    "requested_url": "https://www.atkinsrealis.com/en/about/our-leadership",
+    "status": 200,
+    "final_url": "https://www.atkinsrealis.com/en/about/our-leadership",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-120/6-ac0cd4098f04d150.txt",
+    "text_chars": 140271
+  },
+  {
+    "id": "813a40996cdfcef6",
+    "name": "Wison NEW Energies Company",
+    "requested_url": "https://www.wison.com/about_us",
+    "status": 200,
+    "final_url": "https://www.wison.com/about_us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-120/7-813a40996cdfcef6.txt",
+    "text_chars": 1695
+  },
+  {
+    "id": "813a40996cdfcef6",
+    "name": "Wison NEW Energies Company",
+    "requested_url": "https://www.wison.com/about_center",
+    "status": 200,
+    "final_url": "https://www.wison.com/about_center",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-120/8-813a40996cdfcef6.txt",
+    "text_chars": 1500
+  },
+  {
+    "id": "51c56c3a3b3db3bb",
+    "name": "American FED of Government Employees Afl-cio",
+    "requested_url": "https://www.afge.org/link/6cdfc2b3db964b03b8a780b8d68b1ae1.aspx?utm_source=web&utm_medium=About&utm_campaign=MOD",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "51c56c3a3b3db3bb",
+    "name": "American FED of Government Employees Afl-cio",
+    "requested_url": "https://www.afge.org/about-us/career-opportunities/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "0e414f0740f7aae4",
+    "name": "Eckert & Ziegler CNL Scientific Resources",
+    "requested_url": "https://www.ezag.com/terms-of-use/",
+    "status": 200,
+    "final_url": "https://www.ezag.com/terms-of-use/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-120/11-0e414f0740f7aae4.txt",
+    "text_chars": 4882
+  },
+  {
+    "id": "5387195f6a7fe1cb",
+    "name": "Hyperice Inc.",
+    "requested_url": "https://hyperice.com/policies/privacy-policy",
+    "status": 200,
+    "final_url": "https://hyperice.com/policies/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-120/12-5387195f6a7fe1cb.txt",
+    "text_chars": 21485
+  },
+  {
+    "id": "5387195f6a7fe1cb",
+    "name": "Hyperice Inc.",
+    "requested_url": "https://hyperice.com/policies/terms-of-service",
+    "status": 200,
+    "final_url": "https://hyperice.com/policies/terms-of-service",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-120/13-5387195f6a7fe1cb.txt",
+    "text_chars": 23534
+  },
+  {
+    "id": "1219409541cbf649",
+    "name": "Hyperion Materials and Technologies",
+    "requested_url": "https://www.hyperionmt.com/en/Resources/terms-conditions/",
+    "status": 200,
+    "final_url": "https://www.hyperionmt.com/en/Resources/terms-conditions/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-120/14-1219409541cbf649.txt",
+    "text_chars": 21132
+  },
+  {
+    "id": "1219409541cbf649",
+    "name": "Hyperion Materials and Technologies",
+    "requested_url": "https://www.hyperionmt.com/en/Company/governance/privacy-notice/",
+    "status": 200,
+    "final_url": "https://www.hyperionmt.com/en/Company/governance/privacy-notice/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-120/15-1219409541cbf649.txt",
+    "text_chars": 44112
+  },
+  {
+    "id": "41e60ebfa71b1e97",
+    "name": "Liberty Utilities (represented by Public Strategies Washington)",
+    "requested_url": "https://libertyutilities.com/terms-of-use.html",
+    "status": 200,
+    "final_url": "https://libertyutilities.com/terms-of-use.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-120/16-41e60ebfa71b1e97.txt",
+    "text_chars": 13386
+  },
+  {
+    "id": "41e60ebfa71b1e97",
+    "name": "Liberty Utilities (represented by Public Strategies Washington)",
+    "requested_url": "https://libertyutilities.com/privacy-policy.html",
+    "status": 200,
+    "final_url": "https://libertyutilities.com/privacy-policy.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-120/17-41e60ebfa71b1e97.txt",
+    "text_chars": 26240
+  },
+  {
+    "id": "6ca0895f14a88ca0",
+    "name": "Boundary Stone Partners ON Behalf Of Cauldron Molecules",
+    "requested_url": "https://www.cauldronferm.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.cauldronferm.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-120/18-6ca0895f14a88ca0.txt",
+    "text_chars": 16491
+  },
+  {
+    "id": "6ca0895f14a88ca0",
+    "name": "Boundary Stone Partners ON Behalf Of Cauldron Molecules",
+    "requested_url": "https://www.cauldronferm.com/privacy-collection-notice",
+    "status": 200,
+    "final_url": "https://www.cauldronferm.com/privacy-collection-notice",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-120/19-6ca0895f14a88ca0.txt",
+    "text_chars": 2560
+  },
+  {
+    "id": "3bb21115646f8d07",
+    "name": "McKesson Corporation and affiliates: US Oncology and Rx Savings Solutions (former Distribution)",
+    "requested_url": "https://www.mckesson.com/utility/terms-of-use/",
+    "status": 200,
+    "final_url": "https://www.mckesson.com/utility/terms-of-use/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-120/20-3bb21115646f8d07.txt",
+    "text_chars": 31076
+  },
+  {
+    "id": "3bb21115646f8d07",
+    "name": "McKesson Corporation and affiliates: US Oncology and Rx Savings Solutions (former Distribution)",
+    "requested_url": "https://www.mckesson.com/utility/privacy-notice/",
+    "status": 200,
+    "final_url": "https://www.mckesson.com/utility/privacy-notice/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-120/21-3bb21115646f8d07.txt",
+    "text_chars": 5555
+  },
+  {
+    "id": "16b2b6e40128ae67",
+    "name": "Orano USA LLC",
+    "requested_url": "https://www.orano.group/usa/en/legal-notice",
+    "status": 200,
+    "final_url": "https://www.orano.group/usa/en/legal-notice",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-120/22-16b2b6e40128ae67.txt",
+    "text_chars": 17552
+  },
+  {
+    "id": "16b2b6e40128ae67",
+    "name": "Orano USA LLC",
+    "requested_url": "https://www.orano.group/usa/en/about-us",
+    "status": 200,
+    "final_url": "https://www.orano.group/usa/en/about-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-120/23-16b2b6e40128ae67.txt",
+    "text_chars": 6815
+  },
+  {
+    "id": "8b8f5148d373c985",
+    "name": "ZeroEyes Government Solution",
+    "requested_url": "https://zeroeyes.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://zeroeyes.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-120/24-8b8f5148d373c985.txt",
+    "text_chars": 13245
+  },
+  {
+    "id": "8b8f5148d373c985",
+    "name": "ZeroEyes Government Solution",
+    "requested_url": "https://zeroeyes.com/terms-conditions",
+    "status": 200,
+    "final_url": "https://zeroeyes.com/terms-conditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-120/25-8b8f5148d373c985.txt",
+    "text_chars": 14157
+  },
+  {
+    "id": "6474bc40198db5f8",
+    "name": "Geminus AI",
+    "requested_url": "https://www.geminus.ai/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.geminus.ai/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-120/26-6474bc40198db5f8.txt",
+    "text_chars": 25828
+  },
+  {
+    "id": "6474bc40198db5f8",
+    "name": "Geminus AI",
+    "requested_url": "https://www.geminus.ai/about",
+    "status": 200,
+    "final_url": "https://www.geminus.ai/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-120/27-6474bc40198db5f8.txt",
+    "text_chars": 4485
+  },
+  {
+    "id": "e930153f00de1508",
+    "name": "Good DAY Farm, LLC",
+    "requested_url": "https://www.gooddayfarm.com/about",
+    "status": 200,
+    "final_url": "https://www.gooddayfarm.com/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-120/28-e930153f00de1508.txt",
+    "text_chars": 3255
+  },
+  {
+    "id": "fe72171570c31dae",
+    "name": "Innovairrs & Co.",
+    "requested_url": "https://innovairrs.com/about-us",
+    "status": 200,
+    "final_url": "https://innovairrs.com/about-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-120/29-fe72171570c31dae.txt",
+    "text_chars": 944
+  },
+  {
+    "id": "8a4a344749ea858e",
+    "name": "Reflection AI",
+    "requested_url": "https://reflection.ai/legal/privacy-policy",
+    "status": 200,
+    "final_url": "https://reflection.ai/legal/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-120/30-8a4a344749ea858e.txt",
+    "text_chars": 16518
+  },
+  {
+    "id": "8a4a344749ea858e",
+    "name": "Reflection AI",
+    "requested_url": "https://reflection.ai/legal/terms-of-service",
+    "status": 200,
+    "final_url": "https://reflection.ai/legal/terms-of-service",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-120/31-8a4a344749ea858e.txt",
+    "text_chars": 13929
+  },
+  {
+    "id": "a929df09eedc8ec4",
+    "name": "Uzurv Holdings, Inc.",
+    "requested_url": "https://uzurv.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://uzurv.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-120/32-a929df09eedc8ec4.txt",
+    "text_chars": 45363
+  },
+  {
+    "id": "a929df09eedc8ec4",
+    "name": "Uzurv Holdings, Inc.",
+    "requested_url": "https://uzurv.com/uzurv-terms-and-policies/",
+    "status": 200,
+    "final_url": "https://uzurv.com/uzurv-terms-and-policies/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-120/33-a929df09eedc8ec4.txt",
+    "text_chars": 904
+  }
+]

@@ -1,0 +1,815 @@
+[
+  {
+    "id": "ea0237bfaa7041c9",
+    "name": "City of Carlsbad, New Mexico",
+    "requested_url": "https://www.cityofcarlsbadnm.com",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "a1464927c575144a",
+    "name": "Enstructure LLC",
+    "requested_url": "https://enstructure.com/",
+    "status": 202,
+    "final_url": "https://enstructure.com/",
+    "text_chars": 74,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-058/a1464927c575144a.txt"
+  },
+  {
+    "id": "d81988bdee8f2307",
+    "name": "Great Lakes Indian Fish and Wildlife Commission",
+    "requested_url": "https://glifwc.org/",
+    "status": 200,
+    "final_url": "https://glifwc.org/",
+    "text_chars": 7811,
+    "logo_candidates": [
+      {
+        "src": "/themes/custom/glifwc/logo.png",
+        "alt": "Home",
+        "fetchpriority": "high"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-058/d81988bdee8f2307.txt"
+  },
+  {
+    "id": "4dd4b49397206822",
+    "name": "Hardwood Federation",
+    "requested_url": "https://www.hardwoodfederation.com/",
+    "status": 200,
+    "final_url": "https://www.hardwoodfederation.com/",
+    "text_chars": 5851,
+    "logo_candidates": [
+      {
+        "style": "POSITION: absolute; WIDTH: 325px; BOTTOM: auto; HEIGHT: 137px; RIGHT: auto; TOP: 13px; LEFT: 0px",
+        "id": "idHeaderLogo",
+        "name": "idHeaderLogo",
+        "alt": "Place your organization logo here",
+        "src": "/resources/Pictures/HF-logo_Email.jpg?t=1351787015010",
+        "x": "0",
+        "y": "13"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-058/4dd4b49397206822.txt"
+  },
+  {
+    "id": "a5aa654456388983",
+    "name": "IHI Americas",
+    "requested_url": "https://ihi-americas.com/",
+    "status": 202,
+    "final_url": "https://ihi-americas.com/",
+    "text_chars": 72,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-058/a5aa654456388983.txt"
+  },
+  {
+    "id": "4cd649e0d81042f8",
+    "name": "International Auto Logistics",
+    "requested_url": "https://www.internationalautologistics.com/",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "id": "95233a95dff693e8",
+    "name": "INX International INK CO.",
+    "requested_url": "https://inxinternational.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "59b3e89b8d55c2f9",
+    "name": "Lincoln Community Hospital & Care Center",
+    "requested_url": "https://hugohospital.com/",
+    "status": 202,
+    "final_url": "https://hugohospital.com/",
+    "text_chars": 100,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-058/59b3e89b8d55c2f9.txt"
+  },
+  {
+    "id": "a20f70f147680e89",
+    "name": "Mack Defense LLC",
+    "requested_url": "https://www.mackdefense.com/",
+    "status": 202,
+    "final_url": "https://www.mackdefense.com/",
+    "text_chars": 79,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-058/a20f70f147680e89.txt"
+  },
+  {
+    "id": "a90cc5ca5a9c5c21",
+    "name": "Mark IV Capital",
+    "requested_url": "https://markiv.com/",
+    "status": 202,
+    "final_url": "https://markiv.com/",
+    "text_chars": 69,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-058/a90cc5ca5a9c5c21.txt"
+  },
+  {
+    "id": "1e6a8265c1acdde4",
+    "name": "Mediterranean Shipping Company SA",
+    "requested_url": "https://www.msc.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "4125bceeff0d14fe",
+    "name": "Monterey Salinas Transit",
+    "requested_url": "https://mst.org/",
+    "status": 200,
+    "final_url": "https://mst.org/",
+    "text_chars": 2527,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "decoding": "async",
+        "width": "453",
+        "height": "168",
+        "src": "https://mst.org/wp-content/media/commute-logo.png",
+        "class": "attachment-full size-full wp-image-34647",
+        "alt": "",
+        "srcset": "https://mst.org/wp-content/media/commute-logo.png 453w, https://mst.org/wp-content/media/commute-logo-240x89.png 240w, https://mst.org/wp-content/media/commute-logo-300x111.png 300w",
+        "sizes": "(max-width: 453px) 100vw, 453px"
+      },
+      {
+        "src": "https://mst.org/wp-content/media/elementor/thumbs/MST-logo-blue-qu2argvx3zk8cnfhwcyhgpyt8p7lu7vdoyc4rqqo9k.png",
+        "title": "MST-logo-blue",
+        "alt": "MST-logo-blue",
+        "loading": "lazy"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-058/4125bceeff0d14fe.txt"
+  },
+  {
+    "id": "ec8e0a8957f3b2ac",
+    "name": "NALEO Educational Fund",
+    "requested_url": "https://naleo.org/",
+    "status": 202,
+    "final_url": "https://naleo.org/",
+    "text_chars": 75,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-058/ec8e0a8957f3b2ac.txt"
+  },
+  {
+    "id": "b903c942ad1065a3",
+    "name": "National Older Workers Career Center",
+    "requested_url": "https://nowcc.org/",
+    "status": 202,
+    "final_url": "https://newsolutions.org/",
+    "text_chars": 96,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-058/b903c942ad1065a3.txt"
+  },
+  {
+    "id": "8ed4a02f3d28b922",
+    "name": "National Partnership for Hospice Innovation",
+    "requested_url": "https://www.nphi.org/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "dc4c1cdddc0e7163",
+    "name": "National Thoroughbred Racing Association",
+    "requested_url": "https://www.ntra.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "b4aebcda75842f06",
+    "name": "Protective Life Corp.",
+    "requested_url": "https://www.protective.com/",
+    "status": 200,
+    "final_url": "https://www.protective.com/",
+    "text_chars": 6967,
+    "logo_candidates": [
+      {
+        "src": "/-/media/project/pli/protective/protectivelogo.svg?iar=0&hash=9312BD00C2D4A7E0DD24F4AF32DCBAAE",
+        "alt": "Protective Life Logo",
+        "data-variantitemid": "{3ADA5C39-258A-4B60-810B-8AE9348D4D0D}",
+        "data-variantfieldname": "Image"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-058/b4aebcda75842f06.txt"
+  },
+  {
+    "id": "e4e82196595aa8e3",
+    "name": "RAI Services Company (fka Reynolds American, Inc.",
+    "requested_url": "https://www.reynoldsamerican.com/",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  {
+    "id": "723c891f07ac1a96",
+    "name": "Semi (fka Flextech Alliance)",
+    "requested_url": "https://www.semi.org/en/about-semi-membership/about-semi",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "37d35ffac9dc1292",
+    "name": "Snap Finance, LLC",
+    "requested_url": "https://snapfinance.com/",
+    "status": 200,
+    "final_url": "https://snapfinance.com/",
+    "text_chars": 6397,
+    "logo_candidates": [
+      {
+        "alt": "Snap Finance",
+        "width": "100",
+        "height": "100",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-w-full h-auto",
+        "style": "color:transparent;max-width:100px;height:auto",
+        "src": "https://a.storyblok.com/f/341045/c09892e605/adcrdydwj-7kspq1_snapfinance-logo-fullcolor.svg"
+      },
+      {
+        "alt": "Snap Finance",
+        "width": "100",
+        "height": "100",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-w-full h-auto",
+        "style": "color:transparent;max-width:100px;height:auto",
+        "src": "https://a.storyblok.com/f/341045/c09892e605/adcrdydwj-7kspq1_snapfinance-logo-fullcolor.svg"
+      },
+      {
+        "alt": "Snap Finance",
+        "width": "100",
+        "height": "100",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-w-full h-auto mr-3 xxl:mr-[50px]",
+        "style": "color:transparent;max-width:100px;height:auto",
+        "src": "https://a.storyblok.com/f/341045/c09892e605/adcrdydwj-7kspq1_snapfinance-logo-fullcolor.svg"
+      },
+      {
+        "alt": "Google Reviews | See all",
+        "loading": "lazy",
+        "width": "24",
+        "height": "24",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-w-full h-auto self-start order-0 mr-[2px]",
+        "style": "color:transparent;max-width:24px;height:auto",
+        "src": "/assets/icons/system/google-logo.svg"
+      },
+      {
+        "alt": "A phone with an example image from the Snap mobile app. Overlaid is an logo that says \"Fintech Breakthrough Award 2025\".",
+        "loading": "lazy",
+        "width": "727",
+        "height": "976",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-w-full h-auto block w-full",
+        "style": "color:transparent;max-width:727px;height:auto",
+        "srcset": "/_next/image?url=https%3A%2F%2Fa.storyblok.com%2Ff%2F341045%2F5f3fd078b8%2Faaenb-vxedbnpm9f_desktop-app-phone2.png&w=750&q=75 1x, /_next/image?url=https%3A%2F%2Fa.storyblok.com%2Ff%2F341045%2F5f3fd078b8%2Faaenb-vxedbnpm9f_desktop-app-phone2.png&w=1920&q=75 2x",
+        "src": "/_next/image?url=https%3A%2F%2Fa.storyblok.com%2Ff%2F341045%2F5f3fd078b8%2Faaenb-vxedbnpm9f_desktop-app-phone2.png&w=1920&q=75"
+      },
+      {
+        "data-testid": "mobile-footer-logo",
+        "alt": "Snap Finance",
+        "width": "100",
+        "height": "100",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-w-full h-auto",
+        "style": "color:transparent;max-width:100px;height:auto",
+        "src": "https://a.storyblok.com/f/341045/c09892e605/adcrdydwj-7kspq1_snapfinance-logo-fullcolor.svg"
+      },
+      {
+        "data-testid": "desktop-footer-logo",
+        "alt": "Snap Finance",
+        "width": "100",
+        "height": "100",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-w-full h-auto",
+        "style": "color:transparent;max-width:100px;height:auto",
+        "src": "https://a.storyblok.com/f/341045/c09892e605/adcrdydwj-7kspq1_snapfinance-logo-fullcolor.svg"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-058/37d35ffac9dc1292.txt"
+  },
+  {
+    "id": "b55361f8792c2fa6",
+    "name": "South Carolina Peach Council",
+    "requested_url": "https://scpeach.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "32f8aca78748873e",
+    "name": "Sutter County-ca",
+    "requested_url": "https://www.sutter.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "dbc86e7ff0d02256",
+    "name": "the Armored Group LLC",
+    "requested_url": "https://www.armoredcars.com/",
+    "status": 200,
+    "final_url": "https://www.armoredcars.com/",
+    "text_chars": 11102,
+    "logo_candidates": [
+      {
+        "width": "300",
+        "height": "151",
+        "id": "image-359-8736",
+        "alt": "logo",
+        "src": "https://www.armoredcars.com/wp-content/uploads/2019/02/logo.png",
+        "class": "ct-image"
+      },
+      {
+        "id": "n2-ss-2item5",
+        "alt": "TAG logo 2 white png transparent background",
+        "class": "skip-lazy",
+        "width": "500",
+        "height": "251",
+        "data-skip-lazy": "1",
+        "src": "//www.armoredcars.com/wp-content/uploads/2019/01/AGLOGO2.png"
+      },
+      {
+        "id": "n2-ss-2item6",
+        "alt": "TAG logo 2 white png transparent background",
+        "class": "skip-lazy",
+        "width": "500",
+        "height": "251",
+        "data-skip-lazy": "1",
+        "src": "//www.armoredcars.com/wp-content/uploads/2019/01/AGLOGO2.png"
+      },
+      {
+        "id": "n2-ss-2item8",
+        "alt": "TAG logo 2 white png transparent background",
+        "class": "skip-lazy",
+        "width": "500",
+        "height": "251",
+        "data-skip-lazy": "1",
+        "src": "//www.armoredcars.com/wp-content/uploads/2019/01/AGLOGO2.png"
+      },
+      {
+        "width": "300",
+        "height": "151",
+        "id": "image-115-8736",
+        "alt": "logo",
+        "src": "https://www.armoredcars.com/wp-content/uploads/2019/02/logo.png",
+        "class": "ct-image"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-058/dbc86e7ff0d02256.txt"
+  },
+  {
+    "id": "e8db4e2297512eef",
+    "name": "Valley Health System",
+    "requested_url": "https://www.valleyhealth.com/about-us",
+    "status": 200,
+    "final_url": "https://www.valleyhealth.com/about-us",
+    "text_chars": 4401,
+    "logo_candidates": [
+      {
+        "src": "/sites/default/files/images/logos/logo.png",
+        "alt": "Valley Health Care Logo"
+      },
+      {
+        "src": "/sites/default/files/logo-white.png",
+        "alt": "Valley Health Care Logo"
+      },
+      {
+        "data-entity-uuid": "7a834b51-4272-4083-a6b0-2b44b658f055",
+        "data-entity-type": "file",
+        "src": "/sites/default/files/inline-images/Valley%2075%20Years%20Lockup%20Logo%20KNOCKOUT%20Transparent.png",
+        "height": "84",
+        "alt": "75th anniversary logo",
+        "width": "368",
+        "loading": "lazy"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-058/e8db4e2297512eef.txt"
+  },
+  {
+    "id": "16c4a3be51d74fbd",
+    "name": "Village of Plainfield, IL",
+    "requested_url": "https://www.plainfieldil.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "b23c63963cd0dc3a",
+    "name": "Chelan County Public Utility District",
+    "requested_url": "https://www.chelanpud.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "6f3e61afd446cd82",
+    "name": "Great Plains Health",
+    "requested_url": "https://www.gphealth.org/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "9d8a9ea227898e18",
+    "name": "Icelaven Development Group",
+    "requested_url": "https://icelaven.com/real-estate-development/",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "88e5a566ea99b338",
+    "name": "ITEM Coalition",
+    "requested_url": "https://itemcoalition.org/",
+    "status": 200,
+    "final_url": "https://itemcoalition.org/",
+    "text_chars": 11973,
+    "logo_candidates": [
+      {
+        "src": "https://itemcoalition.org/wp-content/uploads/2012/01/cropped-item1-logo.jpg",
+        "width": "990",
+        "height": "180",
+        "alt": ""
+      },
+      {
+        "loading": "lazy",
+        "alt": "",
+        "src": "https://secure.gravatar.com/blavatar/f3b3f74be119104fbf862dd6fe9cf5e5dbf6bb9f47a18f3fa6a0261d9453b42d?s=50&d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png",
+        "srcset": "https://secure.gravatar.com/blavatar/f3b3f74be119104fbf862dd6fe9cf5e5dbf6bb9f47a18f3fa6a0261d9453b42d?s=50&d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png 1x, https://secure.gravatar.com/blavatar/f3b3f74be119104fbf862dd6fe9cf5e5dbf6bb9f47a18f3fa6a0261d9453b42d?s=75&d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png 1.5x, https://secure.gravatar.com/blavatar/f3b3f74be119104fbf862dd6fe9cf5e5dbf6bb9f47a18f3fa6a0261d9453b42d?s=100&d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png 2x, https://secure.gravatar.com/blavatar/f3b3f74be119104fbf862dd6fe9cf5e5dbf6bb9f47a18f3fa6a0261d9453b42d?s=150&d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png 3x, https://secure.gravatar.com/blavatar/f3b3f74be119104fbf862dd6fe9cf5e5dbf6bb9f47a18f3fa6a0261d9453b42d?s=200&d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png 4x",
+        "class": "avatar avatar-50",
+        "height": "50",
+        "width": "50"
+      },
+      {
+        "loading": "lazy",
+        "alt": "",
+        "src": "https://secure.gravatar.com/blavatar/f3b3f74be119104fbf862dd6fe9cf5e5dbf6bb9f47a18f3fa6a0261d9453b42d?s=50&d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png",
+        "srcset": "https://secure.gravatar.com/blavatar/f3b3f74be119104fbf862dd6fe9cf5e5dbf6bb9f47a18f3fa6a0261d9453b42d?s=50&d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png 1x, https://secure.gravatar.com/blavatar/f3b3f74be119104fbf862dd6fe9cf5e5dbf6bb9f47a18f3fa6a0261d9453b42d?s=75&d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png 1.5x, https://secure.gravatar.com/blavatar/f3b3f74be119104fbf862dd6fe9cf5e5dbf6bb9f47a18f3fa6a0261d9453b42d?s=100&d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png 2x, https://secure.gravatar.com/blavatar/f3b3f74be119104fbf862dd6fe9cf5e5dbf6bb9f47a18f3fa6a0261d9453b42d?s=150&d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png 3x, https://secure.gravatar.com/blavatar/f3b3f74be119104fbf862dd6fe9cf5e5dbf6bb9f47a18f3fa6a0261d9453b42d?s=200&d=https%3A%2F%2Fs2.wp.com%2Fi%2Flogo%2Fwpcom-gray-white.png 4x",
+        "class": "avatar avatar-50",
+        "height": "50",
+        "width": "50"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-058/88e5a566ea99b338.txt"
+  },
+  {
+    "id": "c8c698d82ab23fbc",
+    "name": "Insights Association (fka: Marketing Research Association)",
+    "requested_url": "https://insightsassociation.org/",
+    "status": 200,
+    "final_url": "https://www.insightsassociation.org/",
+    "text_chars": 6537,
+    "logo_candidates": [
+      {
+        "src": "/Portals/INSIGHTS/ThemePluginPro/uploads/2025/8/18/IA_Logo_Primary_Horizontal_RGB_Color.png",
+        "class": "header-logo floating-header-logo",
+        "alt": "Insights Association"
+      },
+      {
+        "id": "dnn_dnnLOGO212110_imgLogo",
+        "class": "header-logo",
+        "src": "/Portals/INSIGHTS/IA_Logo_Primary_Horizontal_RGB_Color.png?ver=Uzrq8oSaTf_cpJ6kpx9mLA%3d%3d",
+        "alt": "Insights Association",
+        "style": "border-width:0px;"
+      },
+      {
+        "id": "dnn_floatingLOGO212110_imgLogo",
+        "class": "floating-header-logo",
+        "src": "/Portals/INSIGHTS/IA_Logo_Primary_Horizontal_RGB_Color.png?ver=Uzrq8oSaTf_cpJ6kpx9mLA%3d%3d",
+        "alt": "Insights Association",
+        "style": "border-width:0px;"
+      },
+      {
+        "src": "/Portals/INSIGHTS/ThemePluginPro/uploads/2025/8/20/logo-footer.png",
+        "alt": "Insights Association logo",
+        "style": "width:200px;"
+      },
+      {
+        "src": "/Portals/INSIGHTS/ThemePluginPro/uploads/2025/8/20/linkedin.png",
+        "alt": "LInkedIN Logo",
+        "class": "footerSocial"
+      },
+      {
+        "src": "/Portals/INSIGHTS/ThemePluginPro/uploads/2025/8/20/instagram.png",
+        "alt": "Instagram logo",
+        "class": "footerSocial"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-058/c8c698d82ab23fbc.txt"
+  },
+  {
+    "id": "9833d738036b1b12",
+    "name": "LOS Angeles Unified School District",
+    "requested_url": "https://www.lausd.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "c5c704dab012afe3",
+    "name": "Magna Petra",
+    "requested_url": "https://magnapetra.com/",
+    "status": 202,
+    "final_url": "https://magnapetra.com/",
+    "text_chars": 69,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-058/c5c704dab012afe3.txt"
+  },
+  {
+    "id": "b8cd565970009daa",
+    "name": "Mortgage Research Center LLC AKA Veterans United (through Robert Zimmer)",
+    "requested_url": "https://www.veteransunited.com/",
+    "status": 200,
+    "final_url": "https://www.veteransunited.com/",
+    "text_chars": 7213,
+    "logo_candidates": [
+      {
+        "src": "/assets/v5/images/brand/logo-veterans-united-home-loans-white.png",
+        "alt": "Veterans United Home Loans",
+        "title": "Back to Veterans United Home Loans Homepage",
+        "width": "245",
+        "height": "44"
+      },
+      {
+        "src": "/assets/v5/images/brand/logo-veterans-united-home-loans-white.png",
+        "alt": "Veterans United Home Loans",
+        "title": "Back to Veterans United Home Loans Homepage",
+        "width": "245",
+        "height": "44"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-058/b8cd565970009daa.txt"
+  },
+  {
+    "id": "456a75e61b16c3bd",
+    "name": "National Troopers Coalition",
+    "requested_url": "https://nationaltrooperscoalition.org/",
+    "status": 200,
+    "final_url": "https://nationaltrooperscoalition.org/",
+    "text_chars": 100,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-058/456a75e61b16c3bd.txt"
+  },
+  {
+    "id": "f9acf841bb381bbb",
+    "name": "New York Bankers Association",
+    "requested_url": "https://www.nyba.com/",
+    "status": 200,
+    "final_url": "https://www.nyba.com/",
+    "text_chars": 1287,
+    "logo_candidates": [
+      {
+        "alt": "",
+        "style": "width: 250px; height: 42px; float: left;",
+        "src": "/images/.nyba_web_images/Homepage/NYBALogo.svg?version=F96495E4"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-058/f9acf841bb381bbb.txt"
+  },
+  {
+    "id": "30c8209c201ff7a1",
+    "name": "Nrdc Action Fund",
+    "requested_url": "https://www.nrdcactionfund.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "4f4228d5e915b66e",
+    "name": "Outpost Brands, LLC",
+    "requested_url": "https://www.outpostbrands.com/aboutus",
+    "status": 200,
+    "final_url": "https://www.outpostbrands.com/aboutus",
+    "text_chars": 10391,
+    "logo_candidates": [
+      {
+        "alt": "",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/64d80f29aa9e7a50d87cf233/a67142b6-6d31-4f93-9762-834ae5f6fdd4/NSF_Logo_Blue.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/64d80f29aa9e7a50d87cf233/a67142b6-6d31-4f93-9762-834ae5f6fdd4/NSF_Logo_Blue.png",
+        "data-image-dimensions": "2000x2000",
+        "data-image-focal-point": "0.5,0.5",
+        "data-load": "false",
+        "elementtiming": "nbf-list-simple",
+        "src": "https://images.squarespace-cdn.com/content/v1/64d80f29aa9e7a50d87cf233/a67142b6-6d31-4f93-9762-834ae5f6fdd4/NSF_Logo_Blue.png",
+        "width": "2000",
+        "height": "2000",
+        "sizes": "(max-width: 575px) calc((100vw - 0px) / 1), (max-width: 767px) calc((100vw - 20px) / 2), (max-width: 1099px) calc((100vw - 40px) / 3), (max-width: 1199px) calc((100vw - 60px) / 4), calc((100vw - 60px) / 4)",
+        "class": "list-image",
+        "style": "display:block;object-position: 50% 50%;",
+        "srcset": "https://images.squarespace-cdn.com/content/v1/64d80f29aa9e7a50d87cf233/a67142b6-6d31-4f93-9762-834ae5f6fdd4/NSF_Logo_Blue.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/64d80f29aa9e7a50d87cf233/a67142b6-6d31-4f93-9762-834ae5f6fdd4/NSF_Logo_Blue.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/64d80f29aa9e7a50d87cf233/a67142b6-6d31-4f93-9762-834ae5f6fdd4/NSF_Logo_Blue.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/64d80f29aa9e7a50d87cf233/a67142b6-6d31-4f93-9762-834ae5f6fdd4/NSF_Logo_Blue.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/64d80f29aa9e7a50d87cf233/a67142b6-6d31-4f93-9762-834ae5f6fdd4/NSF_Logo_Blue.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/64d80f29aa9e7a50d87cf233/a67142b6-6d31-4f93-9762-834ae5f6fdd4/NSF_Logo_Blue.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/64d80f29aa9e7a50d87cf233/a67142b6-6d31-4f93-9762-834ae5f6fdd4/NSF_Logo_Blue.png?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-058/4f4228d5e915b66e.txt"
+  },
+  {
+    "id": "24c75aae4772fdd3",
+    "name": "Right AT Home",
+    "requested_url": "https://www.rightathome.net/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "3268cbf5ae50a087",
+    "name": "Rsbix Co",
+    "requested_url": "https://rsbix.com/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "14da81747f509a52",
+    "name": "S.a.f.e. Structure Designs, LLC",
+    "requested_url": "https://safestructuredesigns.com/",
+    "status": 200,
+    "final_url": "https://safestructuredesigns.com/",
+    "text_chars": 7929,
+    "logo_candidates": [
+      {
+        "width": "398",
+        "height": "159",
+        "src": "https://safestructuredesigns.com/wp-content/uploads/2019/11/safe-structure-logo.png",
+        "class": "custom-logo",
+        "alt": "SAFE Structure Designs",
+        "decoding": "async",
+        "fetchpriority": "high",
+        "srcset": "https://safestructuredesigns.com/wp-content/uploads/2019/11/safe-structure-logo.png 398w, https://safestructuredesigns.com/wp-content/uploads/2019/11/safe-structure-logo-300x120.png 300w",
+        "sizes": "(max-width: 398px) 100vw, 398px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "class": "fl-photo-img wp-image-3626 size-full",
+        "src": "https://safestructuredesigns.com/wp-content/uploads/2018/08/department-of-defense-logo.jpg",
+        "alt": "SAFE Structure Designs Department of Defense Logo",
+        "height": "250",
+        "width": "250",
+        "title": "department-of-defense-logo",
+        "itemprop": "image",
+        "srcset": "https://safestructuredesigns.com/wp-content/uploads/2018/08/department-of-defense-logo.jpg 250w, https://safestructuredesigns.com/wp-content/uploads/2018/08/department-of-defense-logo-150x150.jpg 150w, https://safestructuredesigns.com/wp-content/uploads/2018/08/department-of-defense-logo-100x100.jpg 100w, https://safestructuredesigns.com/wp-content/uploads/2018/08/department-of-defense-logo-200x200.jpg 200w",
+        "sizes": "auto, (max-width: 250px) 100vw, 250px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "class": "fl-photo-img wp-image-3628 size-full",
+        "src": "https://safestructuredesigns.com/wp-content/uploads/2018/08/columbia-helicopters-logo.jpg",
+        "alt": "SAFE Structure Designs Columbia Helicopters Logo",
+        "height": "250",
+        "width": "250",
+        "title": "columbia-helicopters-logo",
+        "itemprop": "image",
+        "srcset": "https://safestructuredesigns.com/wp-content/uploads/2018/08/columbia-helicopters-logo.jpg 250w, https://safestructuredesigns.com/wp-content/uploads/2018/08/columbia-helicopters-logo-150x150.jpg 150w, https://safestructuredesigns.com/wp-content/uploads/2018/08/columbia-helicopters-logo-100x100.jpg 100w, https://safestructuredesigns.com/wp-content/uploads/2018/08/columbia-helicopters-logo-200x200.jpg 200w",
+        "sizes": "auto, (max-width: 250px) 100vw, 250px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "class": "fl-photo-img wp-image-3627 size-full",
+        "src": "https://safestructuredesigns.com/wp-content/uploads/2018/08/uscg-logo.jpg",
+        "alt": "SAFE Structure Designs US Coast Guard Logo",
+        "height": "250",
+        "width": "250",
+        "title": "uscg-logo",
+        "itemprop": "image",
+        "srcset": "https://safestructuredesigns.com/wp-content/uploads/2018/08/uscg-logo.jpg 250w, https://safestructuredesigns.com/wp-content/uploads/2018/08/uscg-logo-150x150.jpg 150w, https://safestructuredesigns.com/wp-content/uploads/2018/08/uscg-logo-100x100.jpg 100w, https://safestructuredesigns.com/wp-content/uploads/2018/08/uscg-logo-200x200.jpg 200w",
+        "sizes": "auto, (max-width: 250px) 100vw, 250px"
+      },
+      {
+        "class": "footer-logo",
+        "src": "https://safestructuredesigns.com/wp-content/uploads/2018/08/SAFE-logo-footer-2.png"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-058/14da81747f509a52.txt"
+  },
+  {
+    "id": "177d9c7290c7233a",
+    "name": "SAN Francisco BAR Pilots Assn",
+    "requested_url": "https://sfbarpilots.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+  },
+  {
+    "id": "d93954328ab017bf",
+    "name": "SAN Jacinto College Community District",
+    "requested_url": "https://www.sanjac.edu/",
+    "status": 200,
+    "final_url": "https://www.sanjac.edu/",
+    "text_chars": 18727,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-058/d93954328ab017bf.txt"
+  },
+  {
+    "id": "35def593e9ebe735",
+    "name": "Science and Engineering Services, LLC",
+    "requested_url": "https://sesllc-us.com/about.html",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'sesllc-us.com'. (_ssl.c:1129)>"
+  },
+  {
+    "id": "1e43abb9e2e606eb",
+    "name": "Smithville Communications",
+    "requested_url": "https://www.smithville.com/",
+    "status": 202,
+    "final_url": "https://www.smithville.com/",
+    "text_chars": 87,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-058/1e43abb9e2e606eb.txt"
+  },
+  {
+    "id": "42ae1fad4198e85e",
+    "name": "University of Mount Saint Vincent",
+    "requested_url": "https://mountsaintvincent.edu/about/",
+    "status": 200,
+    "final_url": "https://mountsaintvincent.edu/about/",
+    "text_chars": 104,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-058/42ae1fad4198e85e.txt"
+  },
+  {
+    "id": "fa024f9ec4960a1d",
+    "name": "Water Research Foundation",
+    "requested_url": "https://www.waterrf.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "a8624ba51c90d249",
+    "name": "Velaura AI (formerly Auradine)",
+    "requested_url": "https://velaura.ai/",
+    "status": 200,
+    "final_url": "https://velaura.ai/",
+    "text_chars": 1460,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-058/a8624ba51c90d249.txt"
+  },
+  {
+    "id": "3f325bc8e8ce938b",
+    "name": "City of Aiken, South Carolina",
+    "requested_url": "https://www.cityofaikensc.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "e9cdf20a0c635d19",
+    "name": "Cube Recovery Company (dba Tempiq)",
+    "requested_url": "https://tempiq.com/",
+    "status": 200,
+    "final_url": "https://tempiq.com/",
+    "text_chars": 5346,
+    "logo_candidates": [
+      {
+        "src": "images/tempiq-logo.svg",
+        "alt": "",
+        "class": "preloader-logo"
+      },
+      {
+        "src": "images/tempiq-logo.svg",
+        "alt": "TempIQ"
+      },
+      {
+        "src": "images/tempiq-logo.svg",
+        "alt": "TempIQ",
+        "style": "height: 20px; width: auto;"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-058/e9cdf20a0c635d19.txt"
+  },
+  {
+    "id": "b2a5332f39351edb",
+    "name": "EDEMSA \u2014 Empresa Distribuidora de Electricidad de Mendoza",
+    "requested_url": "https://www.edemsa.com",
+    "status": 200,
+    "final_url": "https://www.edemsa.com",
+    "text_chars": 3786,
+    "logo_candidates": [
+      {
+        "loading": "lazy",
+        "width": "407",
+        "height": "189",
+        "src": "https://www.edemsa.com/wp-content/uploads/2026/01/cropped-edemsa_Isologotipo-con-claim_full-color.png",
+        "class": "attachment-large size-large wp-image-4248",
+        "alt": "",
+        "srcset": "https://www.edemsa.com/wp-content/uploads/2026/01/cropped-edemsa_Isologotipo-con-claim_full-color.png 407w, https://www.edemsa.com/wp-content/uploads/2026/01/cropped-edemsa_Isologotipo-con-claim_full-color-300x139.png 300w",
+        "sizes": "(max-width: 407px) 100vw, 407px"
+      },
+      {
+        "loading": "lazy",
+        "width": "407",
+        "height": "189",
+        "src": "https://www.edemsa.com/wp-content/uploads/2026/01/cropped-edemsa_Isologotipo-con-claim_full-color.png",
+        "class": "attachment-large size-large wp-image-4248",
+        "alt": "",
+        "srcset": "https://www.edemsa.com/wp-content/uploads/2026/01/cropped-edemsa_Isologotipo-con-claim_full-color.png 407w, https://www.edemsa.com/wp-content/uploads/2026/01/cropped-edemsa_Isologotipo-con-claim_full-color-300x139.png 300w",
+        "sizes": "(max-width: 407px) 100vw, 407px"
+      },
+      {
+        "width": "407",
+        "height": "189",
+        "src": "https://www.edemsa.com/wp-content/uploads/2026/01/cropped-edemsa_Isologotipo-con-claim_full-color.png",
+        "class": "attachment-large size-large wp-image-4248",
+        "alt": "",
+        "srcset": "https://www.edemsa.com/wp-content/uploads/2026/01/cropped-edemsa_Isologotipo-con-claim_full-color.png 407w, https://www.edemsa.com/wp-content/uploads/2026/01/cropped-edemsa_Isologotipo-con-claim_full-color-300x139.png 300w",
+        "sizes": "(max-width: 407px) 100vw, 407px"
+      },
+      {
+        "width": "276",
+        "height": "280",
+        "src": "https://www.edemsa.com/wp-content/uploads/2025/11/IQ-net-logo.png",
+        "class": "attachment-large size-large wp-image-2137",
+        "alt": ""
+      },
+      {
+        "width": "276",
+        "height": "280",
+        "src": "https://www.edemsa.com/wp-content/uploads/2025/11/IQ-net-logo.png",
+        "class": "attachment-large size-large wp-image-2137",
+        "alt": ""
+      },
+      {
+        "width": "276",
+        "height": "280",
+        "src": "https://www.edemsa.com/wp-content/uploads/2025/11/IQ-net-logo.png",
+        "class": "attachment-large size-large wp-image-2137",
+        "alt": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-058/b2a5332f39351edb.txt"
+  }
+]

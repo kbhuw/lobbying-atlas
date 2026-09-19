@@ -1,0 +1,54 @@
+{
+  "418c1cbc56a23842": {
+    "name": "National Organization of Social Security Claimants Representatives (nosscr)",
+    "description": "NOSSCR is the professional association for Social Security disability and SSI claimant representatives.",
+    "website": "https://nosscr.org/",
+    "kind": "Professional association",
+    "ownership": "Nonprofit / tax-exempt",
+    "legal_form": "501(c)(6) nonprofit corporation",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Exact expanded organization name plus NOSSCR acronym matches the official homepage and the other filing-name entry. Both stored filing records describe representation of Social Security disability and SSI claimants. Official 2025 exhibitor agreement explicitly establishes 501(c)(6) nonprofit status. Original IDs and filing provenance are preserved in the merged display; PAC remains separate.",
+    "notes": "Exact expanded organization name plus NOSSCR acronym matches the official homepage and the other filing-name entry. Both stored filing records describe representation of Social Security disability and SSI claimants. Official 2025 exhibitor agreement explicitly establishes 501(c)(6) nonprofit status. Original IDs and filing provenance are preserved in the merged display; PAC remains separate.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/413e52b2-d3e8-4456-9861-487d2e99dc61/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://nosscr.org/",
+        "label": "Organization evidence",
+        "claim": "The NOSSCR site identifies the National Organization of Social Security Claimants\u2019 Representatives as a professional association for disability and SSI claimant representatives."
+      },
+      {
+        "url": "https://nosscr.org/wp-content/uploads/2025/01/2025-NOSSCR-Exhibitor-Agreement-01272025.pdf",
+        "label": "Official legal identity evidence",
+        "claim": "Exact expanded organization name plus NOSSCR acronym matches the official homepage and the other filing-name entry. Both stored filing records describe representation of Social Security disability and SSI claimants. Official 2025 exhibitor agreement explicitly establishes 501(c)(6) nonprofit status. Original IDs and filing provenance are preserved in the merged display; PAC remains separate."
+      }
+    ],
+    "as_of": "2026-09-18",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://nosscr.org/wp-content/uploads/2024/01/National-Organization-of-Social-Security-Claimants-Representatives.png",
+    "logo_kind": "logo",
+    "logo_source_url": "https://nosscr.org/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "merge": {
+    "canonical_id": "9e5fa580087398b8",
+    "source_ids": [
+      "9e5fa580087398b8",
+      "418c1cbc56a23842"
+    ],
+    "rationale": "Exact expanded organization name plus NOSSCR acronym matches the official homepage and the other filing-name entry. Both stored filing records describe representation of Social Security disability and SSI claimants. Official 2025 exhibitor agreement explicitly establishes 501(c)(6) nonprofit status. Original IDs and filing provenance are preserved in the merged display; PAC remains separate.",
+    "sources": [
+      {
+        "url": "https://nosscr.org/",
+        "claim": "Homepage explicitly expands National Organization of Social Security Claimants Representatives and NOSSCR; both exact filing names differ only by punctuation and acronym."
+      }
+    ],
+    "reviewed_at": "2026-09-18"
+  }
+}

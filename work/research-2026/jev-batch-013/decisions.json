@@ -1,0 +1,118 @@
+{
+  "ca2b8b88d36d028b": {
+    "name": "Chester County Wastewater Recovery",
+    "description": "South Carolina special-purpose sewer district transporting, treating, and disposing of wastewater and operating collection systems and treatment plants in the Chester and Richburg area.",
+    "website": "https://cwr.services/",
+    "kind": "Public wastewater special-purpose district",
+    "ownership": "Government body",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Official website explicitly identifies Chester County Wastewater Recovery, formerly Chester Sewer District, as a South Carolina special-purpose district with governor-appointed commissioners. Chester Metropolitan District is its billing partner and is not merged. Direct HTTP200 page text inspected September 18, 2026 after JEV screening; original HTML/text and classifier scores retained in batch013.",
+    "notes": "Official website explicitly identifies Chester County Wastewater Recovery, formerly Chester Sewer District, as a South Carolina special-purpose district with governor-appointed commissioners. Chester Metropolitan District is its billing partner and is not merged. Direct HTTP200 page text inspected September 18, 2026 after JEV screening; original HTML/text and classifier scores retained in batch013.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/69834877-971b-4183-9247-23ab806660f7/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://cwr.services/about/",
+        "label": "Organization evidence",
+        "claim": "Official about page says Chester County Wastewater Recovery is a special-purpose district created by South Carolina legislative acts to transport, treat, and dispose of wastewater, governed by a five-member commission appointed by the Governor."
+      },
+      {
+        "url": "https://cwr.services/",
+        "label": "Direct official identity evidence",
+        "claim": "Official website explicitly identifies Chester County Wastewater Recovery, formerly Chester Sewer District, as a South Carolina special-purpose district with governor-appointed commissioners. Chester Metropolitan District is its billing partner and is not merged. Direct HTTP200 page text inspected September 18, 2026 after JEV screening; original HTML/text and classifier scores retained in batch013."
+      }
+    ],
+    "as_of": "2026-09-05",
+    "checked_at": "2026-09-18",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "b950f12475d88f8c": {
+    "name": "Riverside Transit Agency",
+    "description": "Riverside Transit Agency is a California joint-powers public transit agency providing local and regional bus and microtransit services across western Riverside County.",
+    "website": "https://web.riversidetransit.com/",
+    "kind": "Public transit agency",
+    "ownership": "Government body",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Official Riverside Transit Agency homepage identifies its Riverside California offices and bus, microtransit and transit fare services. Exact agency name and activity match the filing profile. Direct HTTP200 page text inspected September 18, 2026 after JEV screening; original HTML/text and classifier scores retained in batch013.",
+    "notes": "Official Riverside Transit Agency homepage identifies its Riverside California offices and bus, microtransit and transit fare services. Exact agency name and activity match the filing profile. Direct HTTP200 page text inspected September 18, 2026 after JEV screening; original HTML/text and classifier scores retained in batch013.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/fffbb7f0-f430-4037-bf18-e28e0e637462/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://lda.gov/api/v1/clients/57189/?format=json",
+        "label": "Organization evidence",
+        "claim": "Self-reported client activity identifies Riverside Transit Agency."
+      },
+      {
+        "url": "https://web.riversidetransit.com/index.php/about-rta/who-we-are",
+        "label": "Organization evidence",
+        "claim": "Riverside Transit Agency\u2019s official page identifies its joint-powers-agency status, western Riverside County service area, local and regional routes, and transit services."
+      },
+      {
+        "url": "https://web.riversidetransit.com/",
+        "label": "Direct official identity evidence",
+        "claim": "Official Riverside Transit Agency homepage identifies its Riverside California offices and bus, microtransit and transit fare services. Exact agency name and activity match the filing profile. Direct HTTP200 page text inspected September 18, 2026 after JEV screening; original HTML/text and classifier scores retained in batch013."
+      }
+    ],
+    "as_of": "2026-09-07",
+    "checked_at": "2026-09-18",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "cb9f1c145c4844e2": {
+    "name": "National Onsite Wastewater Recycling Association (nowra)",
+    "description": "NOWRA is the national association for onsite and decentralized wastewater professionals, providing education, networking, and policy advocacy.",
+    "website": "https://www.nowra.org/",
+    "kind": "Trade association",
+    "ownership": "Unknown",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Official homepage spells out National Onsite Wastewater Recycling Association and describes onsite wastewater industry education, professional development and advocacy. Tax exemption is not established by association status alone. Direct HTTP200 page text inspected September 18, 2026 after JEV screening; original HTML/text and classifier scores retained in batch013.",
+    "notes": "Official homepage spells out National Onsite Wastewater Recycling Association and describes onsite wastewater industry education, professional development and advocacy. Tax exemption is not established by association status alone. Direct HTTP200 page text inspected September 18, 2026 after JEV screening; original HTML/text and classifier scores retained in batch013.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/8f5df123-3a41-4c09-84e7-ab90f3175bbd/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.nowra.org/",
+        "label": "Organization evidence",
+        "claim": "The NOWRA site identifies the National Onsite Wastewater Recycling Association as an association serving onsite and decentralized wastewater professionals through education and policy advocacy."
+      },
+      {
+        "url": "https://www.nowra.org/",
+        "label": "Direct official identity evidence",
+        "claim": "Official homepage spells out National Onsite Wastewater Recycling Association and describes onsite wastewater industry education, professional development and advocacy. Tax exemption is not established by association status alone. Direct HTTP200 page text inspected September 18, 2026 after JEV screening; original HTML/text and classifier scores retained in batch013."
+      }
+    ],
+    "as_of": "2026-09-06",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://www.nowra.org/images/logo.svg",
+    "logo_kind": "logo",
+    "logo_source_url": "https://www.nowra.org/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  }
+}

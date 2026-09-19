@@ -1,0 +1,86 @@
+{
+  "fe5b2f39407d74c5": {
+    "name": "Rainmaker Technology Corporation",
+    "description": "Develops cloud-seeding technology using radar, unmanned aircraft and weather software to target precipitation.",
+    "website": "https://www.rainmaker.com/",
+    "kind": "Climate technology company",
+    "ownership": "Unknown",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Direct official homepage copyright names Rainmaker Technology Corporation in El Segundo, California and describes radar, unmanned aircraft and software for cloud seeding. This is not a marketing-services namesake. Activity is described without endorsing claimed precipitation outcomes; ownership remains Unknown.",
+    "notes": "Direct official homepage copyright names Rainmaker Technology Corporation in El Segundo, California and describes radar, unmanned aircraft and software for cloud seeding. This is not a marketing-services namesake. Activity is described without endorsing claimed precipitation outcomes; ownership remains Unknown.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/e757f9b2-28a8-4f8a-bd5e-c43090fd75a6/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://lda.gov/api/v1/clients/73536/?format=json",
+        "label": "Organization evidence",
+        "claim": "LDA filing describes a drone-based climate technology company."
+      },
+      {
+        "url": "https://www.rainmaker.com/",
+        "label": "Organization evidence",
+        "claim": "Official Rainmaker site identifies Rainmaker Technology Corporation and describes cloud-seeding technology using radar and unmanned aircraft."
+      },
+      {
+        "label": "Official website branding",
+        "url": "https://www.rainmaker.com/",
+        "claim": "Organization logo or site icon identified on the official site; image response verified September 9, 2026."
+      },
+      {
+        "url": "https://www.rainmaker.com/",
+        "label": "Primary organization evidence checked September 18, 2026",
+        "claim": "Direct official homepage copyright names Rainmaker Technology Corporation in El Segundo, California and describes radar, unmanned aircraft and software for cloud seeding. This is not a marketing-services namesake. Activity is described without endorsing claimed precipitation outcomes; ownership remains Unknown."
+      }
+    ],
+    "as_of": "2026-09-18",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://www.rainmaker.com/favicon.png",
+    "logo_kind": "site_icon",
+    "logo_source_url": "https://www.rainmaker.com/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "8ebc35528bc0608e": {
+    "name": "Institute for Cetacean Research",
+    "description": "Japanese whale-research foundation studying cetacean populations and marine resources, including research supporting the sustainable use of whales and whaling.",
+    "website": "https://www.icrwhale.org/",
+    "kind": "Marine research",
+    "ownership": "Unknown",
+    "legal_form": "General incorporated foundation (Japan)",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Direct Japanese homepage identifies Nihon Geirui Kenkyujo and its Tokyo address. Official English Overview and Purpose page identifies Institute of Cetacean Research, its whale-resource research and 2015 transition to a general incorporated foundation. Filed/displayed name variant is retained; government designation alone is not classified as government ownership.",
+    "notes": "Direct Japanese homepage identifies Nihon Geirui Kenkyujo and its Tokyo address. Official English Overview and Purpose page identifies Institute of Cetacean Research, its whale-resource research and 2015 transition to a general incorporated foundation. Filed/displayed name variant is retained; government designation alone is not classified as government ownership.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/e0259da6-1c9c-45ba-90f0-3ec796398ce0/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.icrwhale.org/",
+        "label": "Organization evidence",
+        "claim": "Official Institute for Cetacean Research website identifies the organization and its cetacean and marine-resource research work."
+      },
+      {
+        "url": "https://www.icrwhale.org/abouticr.html",
+        "label": "Primary organization evidence checked September 18, 2026",
+        "claim": "Direct Japanese homepage identifies Nihon Geirui Kenkyujo and its Tokyo address. Official English Overview and Purpose page identifies Institute of Cetacean Research, its whale-resource research and 2015 transition to a general incorporated foundation. Filed/displayed name variant is retained; government designation alone is not classified as government ownership."
+      }
+    ],
+    "as_of": "2026-09-18",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://www.icrwhale.org/img/logo.png",
+    "logo_kind": "logo",
+    "logo_source_url": "https://www.icrwhale.org/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  }
+}

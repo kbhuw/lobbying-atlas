@@ -1,0 +1,8 @@
+import json,pathlib,sys
+root=pathlib.Path('work/research-2026');folder=root/'logo-cache-pass'/sys.argv[1];review=json.loads((folder/'decisions.json').read_text());jobs=json.loads((folder/'candidates.json').read_text());p=json.loads((root/'reviewed.json').read_text());accepted=review['accepted'];before={jobs[i]['id']:p[jobs[i]['id']].copy() for i in accepted};assert not (folder/'before.json').exists();(folder/'before.json').write_text(json.dumps(before,indent=2)+'\n')
+assert all(jobs[i]['url'].startswith('https://') for i in accepted), 'Verify HTTPS URLs before applying'
+for i in accepted:
+ j=jobs[i];v=p[j['id']];assert not v.get('logo_url') and j.get('preview_ok');v.update(logo_url=j['url'],logo_source_url=j['source'],logo_kind='logo',logo_status='official_site_asset',checked_at=review.get('checked_at','2026-09-09'));v['sources'].append(dict(url=j['source'],label='Official website branding',claim='Saved official-site evidence supplied this logo; asset downloaded and visually reviewed on '+review.get('checked_at','2026-09-09')+'.'))
+ if i in review.get('dark',[]):v['logo_background']='dark'
+for path,compact in [(root/'reviewed.json',False),(pathlib.Path('lobbying-map/research/reviewed-2026.json'),True),(pathlib.Path('outputs/2026-research-trial/profiles.json'),False)]:path.write_text((json.dumps(p,separators=(',',':')) if compact else json.dumps(p,indent=2))+'\n')
+(folder/'review.json').write_text(json.dumps({'accepted':[jobs[i]['id'] for i in accepted],'deferred':{jobs[int(i)]['id']:reason for i,reason in review['deferred'].items()}},indent=2)+'\n');print('Saved',len(accepted),'verified logos')

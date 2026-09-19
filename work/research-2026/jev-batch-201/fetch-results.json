@@ -1,0 +1,451 @@
+[
+  {
+    "id": "8621bb707a4de7a2",
+    "name": "DJI Technologies, Inc.",
+    "requested_url": "https://www.dji.com/terms?site=brandsite&from=footer",
+    "status": 200,
+    "final_url": "https://www.dji.com/terms?site=brandsite&from=footer",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/0-8621bb707a4de7a2.txt",
+    "text_chars": 128706
+  },
+  {
+    "id": "b65a40664f2da46a",
+    "name": "Dominion Energy (formerly Dominion Virginia Power)",
+    "requested_url": "https://www.dominionenergy.com/en/Privacy",
+    "status": 200,
+    "final_url": "https://www.dominionenergy.com/privacy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/1-b65a40664f2da46a.txt",
+    "text_chars": 23938
+  },
+  {
+    "id": "b65a40664f2da46a",
+    "name": "Dominion Energy (formerly Dominion Virginia Power)",
+    "requested_url": "https://www.dominionenergy.com/en/Terms-and-Conditions",
+    "status": 200,
+    "final_url": "https://www.dominionenergy.com/terms-and-conditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/2-b65a40664f2da46a.txt",
+    "text_chars": 30645
+  },
+  {
+    "id": "528a3c1d377ff142",
+    "name": "Dominion Resources Service, Inc.",
+    "requested_url": "https://www.dominionenergy.com/en/Privacy",
+    "status": 200,
+    "final_url": "https://www.dominionenergy.com/privacy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/3-528a3c1d377ff142.txt",
+    "text_chars": 23920
+  },
+  {
+    "id": "528a3c1d377ff142",
+    "name": "Dominion Resources Service, Inc.",
+    "requested_url": "https://www.dominionenergy.com/en/Terms-and-Conditions",
+    "status": 200,
+    "final_url": "https://www.dominionenergy.com/terms-and-conditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/4-528a3c1d377ff142.txt",
+    "text_chars": 30627
+  },
+  {
+    "id": "d22d28c8c9e30c53",
+    "name": "Donohoe Commercial Real Estate",
+    "requested_url": "https://www.donohoe.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.donohoe.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/5-d22d28c8c9e30c53.txt",
+    "text_chars": 8448
+  },
+  {
+    "id": "d22d28c8c9e30c53",
+    "name": "Donohoe Commercial Real Estate",
+    "requested_url": "https://www.donohoe.com/development/about-us/",
+    "status": 200,
+    "final_url": "https://www.donohoe.com/development/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/6-d22d28c8c9e30c53.txt",
+    "text_chars": 3276
+  },
+  {
+    "id": "25db2dc89f334298",
+    "name": "DYCM Power, LLC",
+    "requested_url": "https://dycmsolarmodules.com/about",
+    "status": 200,
+    "final_url": "https://dycmsolarmodules.com/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/7-25db2dc89f334298.txt",
+    "text_chars": 9589
+  },
+  {
+    "id": "25db2dc89f334298",
+    "name": "DYCM Power, LLC",
+    "requested_url": "https://dycmsolarmodules.com/about-1",
+    "status": 200,
+    "final_url": "https://dycmsolarmodules.com/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/8-25db2dc89f334298.txt",
+    "text_chars": 9589
+  },
+  {
+    "id": "b98e9b81ab7f4ef1",
+    "name": "Dynamo AI (DynamoFL, Inc.)",
+    "requested_url": "https://www.dynamo.ai/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.dynamo.ai/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/9-b98e9b81ab7f4ef1.txt",
+    "text_chars": 32433
+  },
+  {
+    "id": "b98e9b81ab7f4ef1",
+    "name": "Dynamo AI (DynamoFL, Inc.)",
+    "requested_url": "https://www.dynamo.ai/terms-of-service",
+    "status": 200,
+    "final_url": "https://www.dynamo.ai/terms-of-service",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/10-b98e9b81ab7f4ef1.txt",
+    "text_chars": 25465
+  },
+  {
+    "id": "c8adfd4ec0fa24b1",
+    "name": "Eagle Express Lines",
+    "requested_url": "https://10roadsexpress.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://10roadsexpress.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/11-c8adfd4ec0fa24b1.txt",
+    "text_chars": 14746
+  },
+  {
+    "id": "70e111421bfeffd8",
+    "name": "Edgemark Development LLC",
+    "requested_url": "https://www.edgemark.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.edgemark.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/12-70e111421bfeffd8.txt",
+    "text_chars": 2735
+  },
+  {
+    "id": "70e111421bfeffd8",
+    "name": "Edgemark Development LLC",
+    "requested_url": "https://www.edgemark.com/terms-of-service",
+    "status": 200,
+    "final_url": "https://www.edgemark.com/terms-of-service",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/13-70e111421bfeffd8.txt",
+    "text_chars": 2613
+  },
+  {
+    "id": "5b15f8398b93af84",
+    "name": "Electricity Customer Alliance",
+    "requested_url": "https://www.electricitycustomers.org/about-1",
+    "status": 200,
+    "final_url": "https://www.electricitycustomers.org/staff",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/14-5b15f8398b93af84.txt",
+    "text_chars": 1061
+  },
+  {
+    "id": "d5ade7eae9e2e3e3",
+    "name": "ELLWOOD Quality Steels",
+    "requested_url": "https://www.ellwoodgroup.com/files/content/Ellwood---Terms-and-Conditions-June-2026.pdf",
+    "source_format": "pdf",
+    "status": 200,
+    "final_url": "https://www.ellwoodgroup.com/files/content/Ellwood---Terms-and-Conditions-June-2026.pdf",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/15-d5ade7eae9e2e3e3.txt",
+    "text_chars": 19981
+  },
+  {
+    "id": "d5ade7eae9e2e3e3",
+    "name": "ELLWOOD Quality Steels",
+    "requested_url": "https://www.ellwoodgroup.com/files/content/Ellwood---Privacy-and-Cookie-Notice-June-2026.pdf",
+    "source_format": "pdf",
+    "status": 200,
+    "final_url": "https://www.ellwoodgroup.com/files/content/Ellwood---Privacy-and-Cookie-Notice-June-2026.pdf",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/16-d5ade7eae9e2e3e3.txt",
+    "text_chars": 18142
+  },
+  {
+    "id": "2a27ff38024b20b3",
+    "name": "Empirical Foods (fka Beef Products Inc.)",
+    "requested_url": "https://empiricalfoods.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://empiricalfoods.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/17-2a27ff38024b20b3.txt",
+    "text_chars": 23598
+  },
+  {
+    "id": "2a27ff38024b20b3",
+    "name": "Empirical Foods (fka Beef Products Inc.)",
+    "requested_url": "https://empiricalfoods.com/about-us",
+    "status": 200,
+    "final_url": "https://empiricalfoods.com/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/18-2a27ff38024b20b3.txt",
+    "text_chars": 8767
+  },
+  {
+    "id": "945009b86d9d4cf9",
+    "name": "Empower Retirement LLC (filed as formerly Great-West Life & Annuity)",
+    "requested_url": "https://www.empower.com/terms",
+    "status": 200,
+    "final_url": "https://www.empower.com/terms",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/19-945009b86d9d4cf9.txt",
+    "text_chars": 17892
+  },
+  {
+    "id": "945009b86d9d4cf9",
+    "name": "Empower Retirement LLC (filed as formerly Great-West Life & Annuity)",
+    "requested_url": "https://www.empower.com/privacy",
+    "status": 200,
+    "final_url": "https://www.empower.com/privacy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/20-945009b86d9d4cf9.txt",
+    "text_chars": 10008
+  },
+  {
+    "id": "aa8ced73e5f3a07e",
+    "name": "Envision Healthcare (americans for Fair Health Care)",
+    "requested_url": "https://www.envisionhealth.com/website-privacy-policy",
+    "status": 200,
+    "final_url": "https://www.envisionhealth.com/website-privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/21-aa8ced73e5f3a07e.txt",
+    "text_chars": 40981
+  },
+  {
+    "id": "aa8ced73e5f3a07e",
+    "name": "Envision Healthcare (americans for Fair Health Care)",
+    "requested_url": "https://www.envisionhealth.com/About",
+    "status": 200,
+    "final_url": "https://www.envisionhealth.com/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/22-aa8ced73e5f3a07e.txt",
+    "text_chars": 4504
+  },
+  {
+    "id": "1308a1f159c86769",
+    "name": "Envision Healthcare (filed as formerly EmCare Inc.)",
+    "requested_url": "https://www.envisionhealth.com/website-privacy-policy",
+    "status": 200,
+    "final_url": "https://www.envisionhealth.com/website-privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/23-1308a1f159c86769.txt",
+    "text_chars": 40980
+  },
+  {
+    "id": "1308a1f159c86769",
+    "name": "Envision Healthcare (filed as formerly EmCare Inc.)",
+    "requested_url": "https://www.envisionhealth.com/About",
+    "status": 200,
+    "final_url": "https://www.envisionhealth.com/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/24-1308a1f159c86769.txt",
+    "text_chars": 4503
+  },
+  {
+    "id": "0caf998ed8f58690",
+    "name": "Express Employment Professionals (formerly Express Personnel Services)",
+    "requested_url": "https://www.expresspros.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.expresspros.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/25-0caf998ed8f58690.txt",
+    "text_chars": 22833
+  },
+  {
+    "id": "0caf998ed8f58690",
+    "name": "Express Employment Professionals (formerly Express Personnel Services)",
+    "requested_url": "https://www.expresspros.com/website-terms-and-conditions",
+    "status": 200,
+    "final_url": "https://www.expresspros.com/website-terms-and-conditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/26-0caf998ed8f58690.txt",
+    "text_chars": 22940
+  },
+  {
+    "id": "03b6a677fdbcfe30",
+    "name": "Federal Hearings & Appeals Services, Inc.",
+    "requested_url": "https://www.fhas.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.fhas.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/27-03b6a677fdbcfe30.txt",
+    "text_chars": 22716
+  },
+  {
+    "id": "03b6a677fdbcfe30",
+    "name": "Federal Hearings & Appeals Services, Inc.",
+    "requested_url": "https://www.fhas.com/about-fhas/careers/",
+    "status": 200,
+    "final_url": "https://www.fhas.com/about-fhas/careers/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/28-03b6a677fdbcfe30.txt",
+    "text_chars": 2326
+  },
+  {
+    "id": "0e01b844089f69fa",
+    "name": "Femwell Group Health, Inc.",
+    "requested_url": "https://www.femwell.com/terms-of-use/",
+    "status": 200,
+    "final_url": "https://www.femwell.com/terms-of-use/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/29-0e01b844089f69fa.txt",
+    "text_chars": 19995
+  },
+  {
+    "id": "0e01b844089f69fa",
+    "name": "Femwell Group Health, Inc.",
+    "requested_url": "https://www.femwell.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.femwell.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/30-0e01b844089f69fa.txt",
+    "text_chars": 19939
+  },
+  {
+    "id": "b654323eb16b8991",
+    "name": "Financial Data and Technology Association (FDATA)",
+    "requested_url": "https://fdata.global/privacy-policy/",
+    "status": 200,
+    "final_url": "https://fdata.global/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/31-b654323eb16b8991.txt",
+    "text_chars": 7527
+  },
+  {
+    "id": "b654323eb16b8991",
+    "name": "Financial Data and Technology Association (FDATA)",
+    "requested_url": "https://fdata.global/advocacy-issues/data-privacy/",
+    "status": 200,
+    "final_url": "https://fdata.global/advocacy-issues/data-privacy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/32-b654323eb16b8991.txt",
+    "text_chars": 2644
+  },
+  {
+    "id": "24693eb53050e176",
+    "name": "FirstEnergy Services Company",
+    "requested_url": "https://www.firstenergycorp.com/corporate/website-terms.html",
+    "status": 200,
+    "final_url": "https://www.firstenergycorp.com/corporate/website-terms.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/33-24693eb53050e176.txt",
+    "text_chars": 20080
+  },
+  {
+    "id": "24693eb53050e176",
+    "name": "FirstEnergy Services Company",
+    "requested_url": "https://www.firstenergycorp.com/corporate/privacy-notice.html",
+    "status": 200,
+    "final_url": "https://www.firstenergycorp.com/corporate/privacy-notice.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/34-24693eb53050e176.txt",
+    "text_chars": 22005
+  },
+  {
+    "id": "8030ada0da4c7af1",
+    "name": "Flash Steelworks, LLC",
+    "requested_url": "https://flashsteelworks.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://flashsteelworks.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/35-8030ada0da4c7af1.txt",
+    "text_chars": 3015
+  },
+  {
+    "id": "8030ada0da4c7af1",
+    "name": "Flash Steelworks, LLC",
+    "requested_url": "https://flashsteelworks.com/terms-conditions/",
+    "status": 200,
+    "final_url": "https://flashsteelworks.com/terms-conditions/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/36-8030ada0da4c7af1.txt",
+    "text_chars": 2593
+  },
+  {
+    "id": "f48e781f510fd4b3",
+    "name": "Flora Food Group US, Inc.",
+    "requested_url": "https://www.florafoodgroup.com/privacypolicy/en.html",
+    "status": 200,
+    "final_url": "https://www.FloraFoodGroup.com/privacypolicy/index-html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/37-f48e781f510fd4b3.txt",
+    "text_chars": 1382
+  },
+  {
+    "id": "f48e781f510fd4b3",
+    "name": "Flora Food Group US, Inc.",
+    "requested_url": "https://www.florafoodgroup.com/termsandconditions/en.html",
+    "status": 200,
+    "final_url": "https://www.FloraFoodGroup.com/terms-and-conditions/index-html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/38-f48e781f510fd4b3.txt",
+    "text_chars": 1363
+  },
+  {
+    "id": "428649a4a6d591d1",
+    "name": "Florida Primary Care Association",
+    "requested_url": "https://fachc.org/about-us/",
+    "status": 200,
+    "final_url": "https://fachc.org/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/39-428649a4a6d591d1.txt",
+    "text_chars": 9611
+  },
+  {
+    "id": "0d40837e0f188af4",
+    "name": "Distilleria Serralles",
+    "requested_url": "https://donq.com/terms-and-conditions",
+    "status": 200,
+    "final_url": "https://donq.com/terms-and-conditions/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/40-0d40837e0f188af4.txt",
+    "text_chars": 11599
+  },
+  {
+    "id": "d31094a53f90b6e5",
+    "name": "Bria Artificial Intelligence Inc.",
+    "requested_url": "https://bria.ai/privacy-policy",
+    "status": 200,
+    "final_url": "https://bria.ai/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/41-d31094a53f90b6e5.txt",
+    "text_chars": 17671
+  },
+  {
+    "id": "d31094a53f90b6e5",
+    "name": "Bria Artificial Intelligence Inc.",
+    "requested_url": "https://bria.ai/about-bria",
+    "status": 200,
+    "final_url": "https://bria.ai/about-bria",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/42-d31094a53f90b6e5.txt",
+    "text_chars": 3062
+  },
+  {
+    "id": "5ea12ebe38faae5a",
+    "name": "Brightline Holdings LLC (formerly Virgin Trains Usa)",
+    "requested_url": "https://www.gobrightline.com/account-terms-of-use",
+    "status": 200,
+    "final_url": "https://www.gobrightline.com/account-terms-of-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/43-5ea12ebe38faae5a.txt",
+    "text_chars": 25909
+  },
+  {
+    "id": "5ea12ebe38faae5a",
+    "name": "Brightline Holdings LLC (formerly Virgin Trains Usa)",
+    "requested_url": "https://www.gobrightline.com/website-terms-of-use",
+    "status": 200,
+    "final_url": "https://www.gobrightline.com/website-terms-of-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/44-5ea12ebe38faae5a.txt",
+    "text_chars": 23896
+  },
+  {
+    "id": "5aca58282d7f4885",
+    "name": "Brightnight US LLC",
+    "requested_url": "https://brightnightpower.com/about-us/",
+    "status": 200,
+    "final_url": "https://brightnightpower.com/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/45-5aca58282d7f4885.txt",
+    "text_chars": 1801
+  },
+  {
+    "id": "5aca58282d7f4885",
+    "name": "Brightnight US LLC",
+    "requested_url": "https://brightnightpower.com/about-us/careers/",
+    "status": 200,
+    "final_url": "https://brightnightpower.com/about-us/careers/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/46-5aca58282d7f4885.txt",
+    "text_chars": 3943
+  },
+  {
+    "id": "d50316833958892d",
+    "name": "Briotech Inc",
+    "requested_url": "https://www.briotech.com/about-us",
+    "status": 200,
+    "final_url": "https://www.briotech.com/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/47-d50316833958892d.txt",
+    "text_chars": 5751
+  },
+  {
+    "id": "7b5de9ef71113d59",
+    "name": "Brooklyn Chamber Of Commerce",
+    "requested_url": "https://www.brooklynchamber.com/about/leadership/",
+    "status": 200,
+    "final_url": "https://www.brooklynchamber.com/who-we-are/leadership/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-201/48-7b5de9ef71113d59.txt",
+    "text_chars": 9359
+  },
+  {
+    "id": "ea6a0a20652c25a4",
+    "name": "Reinsurance Association Of America (via Brownstein)",
+    "requested_url": "https://www.reinsurance.org/RAA/RAA/About-the-RAA/Glossary/Glossary of Reinsurance Terms.aspx",
+    "error": "URL can't contain control characters. '/RAA/RAA/About-the-RAA/Glossary/Glossary of Reinsurance Terms.aspx' (found at least ' ')"
+  }
+]

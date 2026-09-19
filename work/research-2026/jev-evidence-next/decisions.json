@@ -1,0 +1,266 @@
+{
+  "5c4e942c1bbb3c0e": {
+    "name": "City of Statesville, North Carolina",
+    "description": "Municipal government serving Statesville, North Carolina, through local administration and resident services.",
+    "website": "https://www.statesvillenc.net/",
+    "kind": "Municipal government",
+    "ownership": "Government body",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Indexed official municipal page checked: exact city and state match the existing disclosed locality. Government identity and official domain supported. Direct page retrieval returned HTTP 403; evidence is indexed official content, not a successful direct fetch.",
+    "notes": "Identity matched to the official Statesville website and the filing locality (North Carolina).",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/cc72deda-5b7e-4bb4-b561-2b2a76c36df3/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.statesvillenc.net/",
+        "label": "Organization evidence",
+        "claim": "Official website identifies City of Statesville, North Carolina and provides current local government, municipal, utility, public-safety or resident services in North Carolina."
+      },
+      {
+        "url": "https://www.statesvillenc.net/departments",
+        "label": "Official identity and activity evidence checked September 18, 2026",
+        "claim": "Indexed official municipal page checked: exact city and state match the existing disclosed locality. Government identity and official domain supported. Direct page retrieval returned HTTP 403; evidence is indexed official content, not a successful direct fetch."
+      }
+    ],
+    "as_of": "2026-09-05",
+    "checked_at": "2026-09-18",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "5834a5e9c1612656": {
+    "name": "City of Sunnyvale, California",
+    "description": "Municipal government serving Sunnyvale, California, through local administration and resident services.",
+    "website": "https://www.sunnyvale.ca.gov/",
+    "kind": "Municipal government",
+    "ownership": "Government body",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Indexed official municipal page checked: exact city and state match the existing disclosed locality. Government identity and official domain supported. Direct page retrieval returned HTTP 403; evidence is indexed official content, not a successful direct fetch.",
+    "notes": "Identity matched to the official Sunnyvale website and the filing locality (California).",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/76eece83-e9ea-41bf-bb05-15f55a5014ba/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.sunnyvale.ca.gov/",
+        "label": "Organization evidence",
+        "claim": "Official website identifies City of Sunnyvale, California and provides current local government, municipal, utility, public-safety or resident services in California."
+      },
+      {
+        "url": "https://www.sunnyvale.ca.gov/your-government/about/about-sunnyvale",
+        "label": "Official identity and activity evidence checked September 18, 2026",
+        "claim": "Indexed official municipal page checked: exact city and state match the existing disclosed locality. Government identity and official domain supported. Direct page retrieval returned HTTP 403; evidence is indexed official content, not a successful direct fetch."
+      }
+    ],
+    "as_of": "2026-09-05",
+    "checked_at": "2026-09-18",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "da9784325530907a": {
+    "name": "City of Torrance, California",
+    "description": "Municipal government serving Torrance, California, through local administration and resident services.",
+    "website": "https://www.torranceca.gov/",
+    "kind": "Municipal government",
+    "ownership": "Government body",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Indexed official municipal page checked: exact city and state match the existing disclosed locality. Government identity and official domain supported. Direct page retrieval returned HTTP 403; evidence is indexed official content, not a successful direct fetch.",
+    "notes": "Identity matched to the official Torrance website and the filing locality (California).",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/01f5d9dd-0276-445f-824a-ea4f72f7c16a/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.torranceca.gov/",
+        "label": "Organization evidence",
+        "claim": "Official website identifies City of Torrance, California and provides current local government, municipal, utility, public-safety or resident services in California."
+      },
+      {
+        "url": "https://www.torranceca.gov/Government",
+        "label": "Official identity and activity evidence checked September 18, 2026",
+        "claim": "Indexed official municipal page checked: exact city and state match the existing disclosed locality. Government identity and official domain supported. Direct page retrieval returned HTTP 403; evidence is indexed official content, not a successful direct fetch."
+      }
+    ],
+    "as_of": "2026-09-05",
+    "checked_at": "2026-09-18",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "d4dc5fa5103492c2": {
+    "name": "City of Trinity, North Carolina",
+    "description": "Municipal government serving Trinity, North Carolina, through local administration and resident services.",
+    "website": "https://www.trinity-nc.gov/",
+    "kind": "Municipal government",
+    "ownership": "Government body",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Indexed official municipal page checked: exact city and state match the existing disclosed locality. Government identity and official domain supported. Direct page retrieval returned HTTP 403; evidence is indexed official content, not a successful direct fetch.",
+    "notes": "Identity matched to the official Trinity website and the filing locality (North Carolina).",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/c91026ad-ed4c-41ae-b269-d5f90e9c294c/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.trinity-nc.gov/",
+        "label": "Organization evidence",
+        "claim": "Official website identifies City of Trinity, North Carolina and provides current local government, municipal, utility, public-safety or resident services in North Carolina."
+      },
+      {
+        "url": "https://www.trinity-nc.gov/",
+        "label": "Official identity and activity evidence checked September 18, 2026",
+        "claim": "Indexed official municipal page checked: exact city and state match the existing disclosed locality. Government identity and official domain supported. Direct page retrieval returned HTTP 403; evidence is indexed official content, not a successful direct fetch."
+      }
+    ],
+    "as_of": "2026-09-05",
+    "checked_at": "2026-09-18",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "694dc69bc5cbac59": {
+    "name": "City of Tulare, California",
+    "description": "Municipal government serving Tulare, California, through local administration and resident services.",
+    "website": "https://www.tulare.ca.gov/",
+    "kind": "Municipal government",
+    "ownership": "Government body",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Indexed official municipal page checked: exact city and state match the existing disclosed locality. Government identity and official domain supported. Direct page retrieval returned HTTP 403; evidence is indexed official content, not a successful direct fetch.",
+    "notes": "Identity matched to the official Tulare website and the filing locality (California).",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/914e606c-acf2-4711-a6d9-46dc5a6a3b58/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.tulare.ca.gov/",
+        "label": "Organization evidence",
+        "claim": "Official website identifies City of Tulare, California and provides current local government, municipal, utility, public-safety or resident services in California."
+      },
+      {
+        "url": "https://www.tulare.ca.gov/government",
+        "label": "Official identity and activity evidence checked September 18, 2026",
+        "claim": "Indexed official municipal page checked: exact city and state match the existing disclosed locality. Government identity and official domain supported. Direct page retrieval returned HTTP 403; evidence is indexed official content, not a successful direct fetch."
+      }
+    ],
+    "as_of": "2026-09-05",
+    "checked_at": "2026-09-18",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "ad6e3d9ddf4845a7": {
+    "name": "City of West Hollywood, California",
+    "description": "Municipal government serving West Hollywood, California, through local administration and resident services.",
+    "website": "https://www.weho.org/",
+    "kind": "Municipal government",
+    "ownership": "Government body",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Indexed official municipal page checked: exact city and state match the existing disclosed locality. Government identity and official domain supported. Direct page retrieval returned HTTP 403; evidence is indexed official content, not a successful direct fetch.",
+    "notes": "Identity matched to the official West Hollywood website and the filing locality (California).",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/d26f83ce-dce9-4183-b69b-52622fee48f8/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.weho.org/",
+        "label": "Organization evidence",
+        "claim": "Official website identifies City of West Hollywood, California and provides current local government, municipal, utility, public-safety or resident services in California."
+      },
+      {
+        "url": "https://www.weho.org/",
+        "label": "Official identity and activity evidence checked September 18, 2026",
+        "claim": "Indexed official municipal page checked: exact city and state match the existing disclosed locality. Government identity and official domain supported. Direct page retrieval returned HTTP 403; evidence is indexed official content, not a successful direct fetch."
+      }
+    ],
+    "as_of": "2026-09-05",
+    "checked_at": "2026-09-18",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "cdd3988391bd8e81": {
+    "name": "Eavor Technologies, Inc.",
+    "description": "Geothermal technology company developing closed-loop geothermal systems.",
+    "website": "https://eavor.com/",
+    "kind": "Geothermal technology",
+    "ownership": "Unknown",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Official homepage directly retrieved and text reviewed: exact Eavor Technologies Inc. name and geothermal technology activity. Ownership remains unknown; no ownership inference from investment or company naming.",
+    "notes": "Eavor\u2019s official materials verify the exact closed-loop geothermal technology company, but the reviewed primary sources do not establish a controlled private/public ownership category.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/748354ed-cb83-4812-94d7-9d50233ab557/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.eavor.com/",
+        "label": "Organization evidence",
+        "claim": "Eavor\u2019s official site describes its closed-loop geothermal technology and projects."
+      },
+      {
+        "url": "https://lda.gov/api/v1/clients/55697/?format=json",
+        "label": "Organization evidence",
+        "claim": "The exact LDA client record identifies Eavor Technologies, Inc. as a closed-loop geothermal technology company."
+      },
+      {
+        "url": "https://eavor.com/",
+        "label": "Official identity and activity evidence checked September 18, 2026",
+        "claim": "Official homepage directly retrieved and text reviewed: exact Eavor Technologies Inc. name and geothermal technology activity. Ownership remains unknown; no ownership inference from investment or company naming."
+      }
+    ],
+    "as_of": "2026-09-06",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://eavor.com/wp-content/uploads/2021/07/Eavor-logo-New-White.png",
+    "logo_kind": "logo",
+    "logo_source_url": "https://eavor.com/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  }
+}

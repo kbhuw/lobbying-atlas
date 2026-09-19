@@ -1,0 +1,1106 @@
+[
+  {
+    "id": "ca4d3f88e5bfdf5a",
+    "name": "Melbourne Airport Authority",
+    "requested_url": "https://www.mlbair.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "45ec8311b4109db1",
+    "name": "Mellon Financial Services Corporation #1",
+    "requested_url": "https://www.bny.com/",
+    "status": 200,
+    "final_url": "https://www.bny.com/corporate/global/en.html",
+    "text_chars": 8594,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-225/45ec8311b4109db1.txt"
+  },
+  {
+    "id": "19410aa983c8faff",
+    "name": "Mellon Financial Services Corporation #1",
+    "requested_url": "https://www.bny.com/",
+    "status": 200,
+    "final_url": "https://www.bny.com/corporate/global/en.html",
+    "text_chars": 8594,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-225/19410aa983c8faff.txt"
+  },
+  {
+    "id": "4ea0779691e2df22",
+    "name": "Mellon Financial Services Corporation #1",
+    "requested_url": "https://www.bny.com/",
+    "status": 200,
+    "final_url": "https://www.bny.com/corporate/global/en.html",
+    "text_chars": 8594,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-225/4ea0779691e2df22.txt"
+  },
+  {
+    "id": "3a8383719013235a",
+    "name": "Project for Election Infrastructure \u2014 via Meltsner Strategies",
+    "requested_url": "https://electioninfrastructure.org/",
+    "status": 200,
+    "final_url": "https://electioninfrastructure.org/",
+    "text_chars": 2560,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-225/3a8383719013235a.txt"
+  },
+  {
+    "id": "2d8fdb454280ec50",
+    "name": "Project for Election Infrastructure \u2014 via Meltsner Strategies",
+    "requested_url": "https://electioninfrastructure.org/",
+    "status": 200,
+    "final_url": "https://electioninfrastructure.org/",
+    "text_chars": 2560,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-225/2d8fdb454280ec50.txt"
+  },
+  {
+    "id": "1f9f2acaa8cb8cb9",
+    "name": "Members Exchange (MEMX)",
+    "requested_url": "https://memx.com/",
+    "status": 200,
+    "final_url": "https://memx.com/",
+    "text_chars": 1744,
+    "logo_candidates": [
+      {
+        "src": "https://cdn.craft.cloud/9fb2ef98-fcc6-431d-b09d-d12ff28cf0f0/assets/images/MEMX-Equities_logo_RGB_white-yellow.png?fit=contain&format=webp&width=300&s=w8WJnQyFXxmMX_qf-PBe6dSalpMg1AcWMJKC6X2L0Rk",
+        "loading": "lazy",
+        "width": "300",
+        "height": "109",
+        "alt": "MEMX Equities logo RGB white yellow"
+      },
+      {
+        "src": "https://cdn.craft.cloud/9fb2ef98-fcc6-431d-b09d-d12ff28cf0f0/assets/images/MEMX-Options_logo_RGB_white-yellow.png?fit=contain&format=webp&width=300&s=z2sANfQelCZmXDNqERfpgol-5osecxSdQw8nVAphIaU",
+        "loading": "lazy",
+        "width": "300",
+        "height": "108",
+        "alt": "MEMX Options logo RGB white yellow"
+      },
+      {
+        "src": "https://cdn.craft.cloud/9fb2ef98-fcc6-431d-b09d-d12ff28cf0f0/assets/images/MX2-Options-logo.png?fit=contain&format=webp&width=300&s=VAz5UOjQMTwXM_XZTkFOcLCLhKBCl8P14P52VI6DXBM",
+        "loading": "lazy",
+        "width": "300",
+        "height": "108",
+        "alt": "MX2 Options logo"
+      },
+      {
+        "class": "floating-image image-three",
+        "loading": "lazy",
+        "src": "https://cdn.craft.cloud/9fb2ef98-fcc6-431d-b09d-d12ff28cf0f0/assets/images/Homepage-Careers-section.jpg?fit=contain&format=webp&width=220&s=jc3HOOq9SD3OKtZuzZ8_lGAiJ_Rk4BthZY4Lr6Lfj7o",
+        "width": "220",
+        "height": "133",
+        "alt": "Homepage Careers section"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-225/1f9f2acaa8cb8cb9.txt"
+  },
+  {
+    "id": "49443466a5e6d070",
+    "name": "MERC Aerospace",
+    "requested_url": "https://www.merc-md.com/",
+    "status": 202,
+    "final_url": "https://www.merc-md.com/",
+    "text_chars": 73,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-225/49443466a5e6d070.txt"
+  },
+  {
+    "id": "2f499220189c0024",
+    "name": "Mercedes-Benz USA, LLC",
+    "requested_url": "https://www.mbusa.com/",
+    "error": "'NoneType' object has no attribute 'lower'"
+  },
+  {
+    "id": "832217c4660f0676",
+    "name": "Mercer Associates LLC on behalf of Escape International / AirTEP",
+    "requested_url": "https://www.escape-international.com/",
+    "status": 200,
+    "final_url": "https://www.escape-international.com/",
+    "text_chars": 2359,
+    "logo_candidates": [
+      {
+        "class": "transparent-logo dark-scheme-logo",
+        "src": "https://www.escape-international.com/wp-content/uploads/2015/12/LOGO_accueil-01@2x.png",
+        "alt": "ESCAPE International"
+      },
+      {
+        "class": "transparent-logo dark-scheme-logo",
+        "src": "https://www.escape-international.com/wp-content/uploads/2015/12/LOGO_accueil-01@2x.png",
+        "alt": "ESCAPE International"
+      },
+      {
+        "class": "transparent-logo light-scheme-logo",
+        "src": "https://www.escape-international.com/wp-content/uploads/2015/12/LOGO_accueil-01@2x.png",
+        "alt": "ESCAPE International"
+      },
+      {
+        "class": "normal-logo",
+        "src": "https://www.escape-international.com/wp-content/uploads/2015/12/LOGO_accueil-01@2x.png",
+        "alt": "ESCAPE International"
+      },
+      {
+        "class": "sticky-logo",
+        "src": "https://www.escape-international.com/wp-content/uploads/2015/12/LOGO_accueil-01@2x.png",
+        "alt": "ESCAPE International"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-225/832217c4660f0676.txt"
+  },
+  {
+    "id": "9d96673426d18984",
+    "name": "Mercury Public Affairs LLC on behalf of Cabot Corporation",
+    "requested_url": "https://www.cabotcorp.com/",
+    "status": 200,
+    "final_url": "https://www.cabotcorp.com/",
+    "text_chars": 4490,
+    "logo_candidates": [
+      {
+        "src": "/images/cabot_logo2x.png",
+        "alt": ""
+      },
+      {
+        "alt": "Responsible Care",
+        "data-object-fit": "cover",
+        "class": "js-banner-media",
+        "src": "https://www.cabotcorp.com/-/media/images/cards/events/responsible-care-logo-cta.png?rev=7b7949b370134918ada44572086a296d&w=1170&hash=601817AD40EFBA2ACF18E6D3F1CF2D72"
+      },
+      {
+        "src": "/images/logo_footer.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.cabotcorp.com/-/media/images/interface/icons/social/wechat-logo-002-png.png?rev=80b579f8aaf8422ab3f3c8e496ca9bda",
+        "alt": "WeChat"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-225/9d96673426d18984.txt"
+  },
+  {
+    "id": "016099b5701d8a46",
+    "name": "Mercury Technologies, Inc.",
+    "requested_url": "https://mercury.com/",
+    "status": 200,
+    "final_url": "https://mercury.com/",
+    "text_chars": 8904,
+    "logo_candidates": [
+      {
+        "src": "https://www.datocms-assets.com/115132/1781551637-homepage-2025-in-the-press-cnbc.png?ar64=Mzoy&auto=format&fit=crop",
+        "alt": "CNBC logo",
+        "title": "CNBC logo",
+        "sizes": "(max-width: 1320px) 100vw, 1320px",
+        "loading": "lazy",
+        "style": "background-image:url(\"data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoIDxQUDQgXDhgQDg4HCBEJDQ4NFxUZGBYTFhUaHysjGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLBQUFEAUFEC8cFhwvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABAAGAMBIgACEQEDEQH/xAAXAAEAAwAAAAAAAAAAAAAAAAAEAAEH/8QAHBAAAgMBAAMAAAAAAAAAAAAAAwQAAhEBBRIV/8QAFgEAAwAAAAAAAAAAAAAAAAAAAAID/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8Az6irNy5G/JY7XYCjLVCbGU8qznrKlCIuwI3eSSFYYIbZcA//2Q==\");background-size:cover;background-repeat:no-repeat;background-position:50% 50%;color:transparent;aspect-ratio:1320 / 880;width:100%;max-width:1320px;height:auto",
+        "referrerpolicy": "no-referrer-when-downgrade"
+      },
+      {
+        "src": "https://www.datocms-assets.com/115132/1764097598-2025_fem_homepage_in-the-press-fortune_3x2.webp?ar64=Mzoy&auto=format&fit=crop",
+        "alt": "Fortune logo",
+        "sizes": "(max-width: 1320px) 100vw, 1320px",
+        "loading": "lazy",
+        "style": "background-image:url(\"data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBhYIEQgKCg0IDRgHBwYGCREJDQcYFxUZGBYTFhUaHysjGh0oHRUiJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLBQUFEAUFEC8cFhwvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABAAGAMBIgACEQEDEQH/xAAYAAACAwAAAAAAAAAAAAAAAAAAAwEEBv/EABkQAAMBAQEAAAAAAAAAAAAAAAADBAIBBf/EABYBAAMAAAAAAAAAAAAAAAAAAAACA//EABQRAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhEDEQA/AMHPI9nR2fNo6wrKqpVsfn0aebKlKfHSlgEvspbsAD//2Q==\");background-size:cover;background-repeat:no-repeat;background-position:50% 50%;color:transparent;aspect-ratio:1320 / 880;width:100%;max-width:1320px;height:auto",
+        "referrerpolicy": "no-referrer-when-downgrade"
+      },
+      {
+        "src": "https://www.datocms-assets.com/115132/1764097626-2025_fem_homepage_in-the-press-wsj_3x2-webp.webp?ar64=Mzoy&auto=format&fit=crop",
+        "alt": "Wall Street Journal logo",
+        "sizes": "(max-width: 1320px) 100vw, 1320px",
+        "loading": "lazy",
+        "style": "background-image:url(\"data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAoHBwgHBgoIEA8LDw0LDhMQDQ4JDhUJFg0YGBQZGBYVFhUdHysjGh0oHRUWJDUlKC0vMjIyGSI4PTcwPCsxMi8BCgsLBQUFEAUFEC8cFhwvLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vLy8vL//AABEIABAAGAMBIgACEQEDEQH/xAAXAAEAAwAAAAAAAAAAAAAAAAAFAAEH/8QAGxAAAQUBAQAAAAAAAAAAAAAAAwABAgQTYQX/xAAWAQADAAAAAAAAAAAAAAAAAAAAAgP/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwDN4gO5miln8Uzg04h4msatJKR9mxjnxVKNJXNEjxUVksGcjyUQH//Z\");background-size:cover;background-repeat:no-repeat;background-position:50% 50%;color:transparent;aspect-ratio:1320 / 880;width:100%;max-width:1320px;height:auto",
+        "referrerpolicy": "no-referrer-when-downgrade"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-225/016099b5701d8a46.txt"
+  },
+  {
+    "id": "82e37681a4f13c10",
+    "name": "Meridiam Infrastructure",
+    "requested_url": "https://www.meridiam.com/",
+    "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)>"
+  },
+  {
+    "id": "894f37d770279b87",
+    "name": "Methanex (dba Methanex USA Llc, Methanex Louisiana Llc, Methanex Geismar III LLC",
+    "requested_url": "https://www.methanex.com/",
+    "status": 200,
+    "final_url": "https://www.methanex.com/",
+    "text_chars": 5016,
+    "logo_candidates": [
+      {
+        "src": "https://www.methanex.com/wp-content/themes/methanex/img/logo_white.svg",
+        "alt": "Methanex - The Power of Agility",
+        "class": "white"
+      },
+      {
+        "src": "https://www.methanex.com/wp-content/themes/methanex/img/logo_colour.svg",
+        "alt": "Methanex - The Power of Agility",
+        "class": "colour"
+      },
+      {
+        "src": "https://www.methanex.com/wp-content/themes/methanex/img/logo_white.svg",
+        "alt": "Methanex - The Power of Agility",
+        "class": "white"
+      },
+      {
+        "src": "https://www.methanex.com/wp-content/themes/methanex/img/logo_colour.svg",
+        "alt": "Methanex - The Power of Agility",
+        "class": "colour"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-225/894f37d770279b87.txt"
+  },
+  {
+    "id": "f1ff39449c42986c",
+    "name": "Metlife Group, Inc.",
+    "requested_url": "https://www.metlife.com/",
+    "status": 200,
+    "final_url": "https://www.metlife.com/",
+    "text_chars": 28157,
+    "logo_candidates": [
+      {
+        "src": "/content/dam/metlifecom/us/homepage/metlife-global/metlife-logos/MetLife_primary_RGB_darkblue.png",
+        "alt": "MetLife",
+        "aria-hidden": "true"
+      },
+      {
+        "src": "/content/dam/metlifecom/global/icons-header/MetLife_white.svg",
+        "alt": "MetLife",
+        "class": "global-header__logo"
+      },
+      {
+        "class": "footer-logo__image",
+        "src": "/content/dam/metlifecom/us/homepage/metlife-global/metlife-logos/MetLife_primary_RGB_white.png",
+        "alt": "MetLife Footer Logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-225/f1ff39449c42986c.txt"
+  },
+  {
+    "id": "687000676b872303",
+    "name": "Metlife Group, Inc. (fka Metlife Services and Solutions, Llc)",
+    "requested_url": "https://www.metlife.com/",
+    "status": 200,
+    "final_url": "https://www.metlife.com/",
+    "text_chars": 28199,
+    "logo_candidates": [
+      {
+        "src": "/content/dam/metlifecom/us/homepage/metlife-global/metlife-logos/MetLife_primary_RGB_darkblue.png",
+        "alt": "MetLife",
+        "aria-hidden": "true"
+      },
+      {
+        "src": "/content/dam/metlifecom/global/icons-header/MetLife_white.svg",
+        "alt": "MetLife",
+        "class": "global-header__logo"
+      },
+      {
+        "class": "footer-logo__image",
+        "src": "/content/dam/metlifecom/us/homepage/metlife-global/metlife-logos/MetLife_primary_RGB_white.png",
+        "alt": "MetLife Footer Logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-225/687000676b872303.txt"
+  },
+  {
+    "id": "5ff7d2e3bd9c05cd",
+    "name": "Mexichem Fluor (Orbia Fluor & Energy Materials)",
+    "requested_url": "https://www.orbia-fem.com/",
+    "status": 200,
+    "final_url": "https://www.orbia-fem.com/",
+    "text_chars": 4760,
+    "logo_candidates": [
+      {
+        "alt": "Logo",
+        "width": "256",
+        "height": "44",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-xl:max-w-50",
+        "style": "color:transparent",
+        "src": "https://eu-images.contentstack.com/v3/assets/bltc0c9bdc4ed027973/blt86187ec188e1b848/693f2527587e50017832e099/Orbia24-F&EM-BG_White_1.svg"
+      },
+      {
+        "alt": "orbia_logo_white_bg_padded.png",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-nimg": "fill",
+        "class": "w-full h-full object-cover",
+        "style": "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw",
+        "srcset": "/_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fbltc0c9bdc4ed027973%2Fblta086c4fa719c2512%2F69b275294a1593391b984ed0%2Forbia_logo_white_bg_padded.png&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fbltc0c9bdc4ed027973%2Fblta086c4fa719c2512%2F69b275294a1593391b984ed0%2Forbia_logo_white_bg_padded.png&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fbltc0c9bdc4ed027973%2Fblta086c4fa719c2512%2F69b275294a1593391b984ed0%2Forbia_logo_white_bg_padded.png&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fbltc0c9bdc4ed027973%2Fblta086c4fa719c2512%2F69b275294a1593391b984ed0%2Forbia_logo_white_bg_padded.png&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fbltc0c9bdc4ed027973%2Fblta086c4fa719c2512%2F69b275294a1593391b984ed0%2Forbia_logo_white_bg_padded.png&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fbltc0c9bdc4ed027973%2Fblta086c4fa719c2512%2F69b275294a1593391b984ed0%2Forbia_logo_white_bg_padded.png&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fbltc0c9bdc4ed027973%2Fblta086c4fa719c2512%2F69b275294a1593391b984ed0%2Forbia_logo_white_bg_padded.png&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fbltc0c9bdc4ed027973%2Fblta086c4fa719c2512%2F69b275294a1593391b984ed0%2Forbia_logo_white_bg_padded.png&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fbltc0c9bdc4ed027973%2Fblta086c4fa719c2512%2F69b275294a1593391b984ed0%2Forbia_logo_white_bg_padded.png&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fbltc0c9bdc4ed027973%2Fblta086c4fa719c2512%2F69b275294a1593391b984ed0%2Forbia_logo_white_bg_padded.png&w=3840&q=75 3840w",
+        "src": "/_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fbltc0c9bdc4ed027973%2Fblta086c4fa719c2512%2F69b275294a1593391b984ed0%2Forbia_logo_white_bg_padded.png&w=3840&q=75"
+      },
+      {
+        "alt": "orbia_logo_white_bg_padded.png",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-nimg": "fill",
+        "class": "w-full h-full object-cover",
+        "style": "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw",
+        "srcset": "/_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fbltc0c9bdc4ed027973%2Fblta086c4fa719c2512%2F69b275294a1593391b984ed0%2Forbia_logo_white_bg_padded.png&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fbltc0c9bdc4ed027973%2Fblta086c4fa719c2512%2F69b275294a1593391b984ed0%2Forbia_logo_white_bg_padded.png&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fbltc0c9bdc4ed027973%2Fblta086c4fa719c2512%2F69b275294a1593391b984ed0%2Forbia_logo_white_bg_padded.png&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fbltc0c9bdc4ed027973%2Fblta086c4fa719c2512%2F69b275294a1593391b984ed0%2Forbia_logo_white_bg_padded.png&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fbltc0c9bdc4ed027973%2Fblta086c4fa719c2512%2F69b275294a1593391b984ed0%2Forbia_logo_white_bg_padded.png&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fbltc0c9bdc4ed027973%2Fblta086c4fa719c2512%2F69b275294a1593391b984ed0%2Forbia_logo_white_bg_padded.png&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fbltc0c9bdc4ed027973%2Fblta086c4fa719c2512%2F69b275294a1593391b984ed0%2Forbia_logo_white_bg_padded.png&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fbltc0c9bdc4ed027973%2Fblta086c4fa719c2512%2F69b275294a1593391b984ed0%2Forbia_logo_white_bg_padded.png&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fbltc0c9bdc4ed027973%2Fblta086c4fa719c2512%2F69b275294a1593391b984ed0%2Forbia_logo_white_bg_padded.png&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fbltc0c9bdc4ed027973%2Fblta086c4fa719c2512%2F69b275294a1593391b984ed0%2Forbia_logo_white_bg_padded.png&w=3840&q=75 3840w",
+        "src": "/_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fbltc0c9bdc4ed027973%2Fblta086c4fa719c2512%2F69b275294a1593391b984ed0%2Forbia_logo_white_bg_padded.png&w=3840&q=75"
+      },
+      {
+        "alt": "orbia_logo_white_bg_padded.png",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-nimg": "fill",
+        "class": "w-full h-full object-cover",
+        "style": "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1200px) 50vw, 33vw",
+        "srcset": "/_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fbltc0c9bdc4ed027973%2Fblta086c4fa719c2512%2F69b275294a1593391b984ed0%2Forbia_logo_white_bg_padded.png&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fbltc0c9bdc4ed027973%2Fblta086c4fa719c2512%2F69b275294a1593391b984ed0%2Forbia_logo_white_bg_padded.png&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fbltc0c9bdc4ed027973%2Fblta086c4fa719c2512%2F69b275294a1593391b984ed0%2Forbia_logo_white_bg_padded.png&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fbltc0c9bdc4ed027973%2Fblta086c4fa719c2512%2F69b275294a1593391b984ed0%2Forbia_logo_white_bg_padded.png&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fbltc0c9bdc4ed027973%2Fblta086c4fa719c2512%2F69b275294a1593391b984ed0%2Forbia_logo_white_bg_padded.png&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fbltc0c9bdc4ed027973%2Fblta086c4fa719c2512%2F69b275294a1593391b984ed0%2Forbia_logo_white_bg_padded.png&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fbltc0c9bdc4ed027973%2Fblta086c4fa719c2512%2F69b275294a1593391b984ed0%2Forbia_logo_white_bg_padded.png&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fbltc0c9bdc4ed027973%2Fblta086c4fa719c2512%2F69b275294a1593391b984ed0%2Forbia_logo_white_bg_padded.png&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fbltc0c9bdc4ed027973%2Fblta086c4fa719c2512%2F69b275294a1593391b984ed0%2Forbia_logo_white_bg_padded.png&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fbltc0c9bdc4ed027973%2Fblta086c4fa719c2512%2F69b275294a1593391b984ed0%2Forbia_logo_white_bg_padded.png&w=3840&q=75 3840w",
+        "src": "/_next/image?url=https%3A%2F%2Feu-images.contentstack.com%2Fv3%2Fassets%2Fbltc0c9bdc4ed027973%2Fblta086c4fa719c2512%2F69b275294a1593391b984ed0%2Forbia_logo_white_bg_padded.png&w=3840&q=75"
+      },
+      {
+        "alt": "logo",
+        "loading": "lazy",
+        "width": "368",
+        "height": "65",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "mb-10 h-auto w-auto max-w-full",
+        "style": "color:transparent",
+        "src": "https://eu-images.contentstack.com/v3/assets/bltc0c9bdc4ed027973/bltc3bf3cacbfb063e5/69449d1815343d86b1361878/logo-footer-orbia.svg"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-225/5ff7d2e3bd9c05cd.txt"
+  },
+  {
+    "id": "90661cec58c9ced9",
+    "name": "Michigan Potash Company, LLC",
+    "requested_url": "https://michiganpotash.com/",
+    "status": 200,
+    "final_url": "https://michiganpotash.com/",
+    "text_chars": 6587,
+    "logo_candidates": [
+      {
+        "class": "dsvy-main-logo",
+        "src": "https://michiganpotash.com/wp-content/uploads/2024/11/Michigan-Potash-Logo-6c.png",
+        "alt": "Michigan Potash & Salt Company (MPSC)",
+        "title": "Michigan Potash & Salt Company (MPSC)"
+      },
+      {
+        "class": "dsvy-responsive-logo",
+        "src": "https://michiganpotash.com/wp-content/uploads/2024/11/Michigan-Potash-Logo-6c.png",
+        "alt": "Michigan Potash & Salt Company (MPSC)",
+        "title": "Michigan Potash & Salt Company (MPSC)"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "512",
+        "height": "500",
+        "src": "https://michiganpotash.com/wp-content/uploads/2024/11/cropped-Michigan-Potash-Logo-5-512x500.png",
+        "class": "attachment-dsvy-img-770x500 size-dsvy-img-770x500 wp-post-image",
+        "alt": "",
+        "srcset": "https://michiganpotash.com/wp-content/uploads/2024/11/cropped-Michigan-Potash-Logo-5-512x500.png 512w, https://michiganpotash.com/wp-content/uploads/2024/11/cropped-Michigan-Potash-Logo-5-32x32.png 32w",
+        "sizes": "(max-width: 512px) 100vw, 512px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "512",
+        "height": "500",
+        "src": "https://michiganpotash.com/wp-content/uploads/2024/11/cropped-Michigan-Potash-Logo-5-512x500.png",
+        "class": "attachment-dsvy-img-770x500 size-dsvy-img-770x500 wp-post-image",
+        "alt": "",
+        "srcset": "https://michiganpotash.com/wp-content/uploads/2024/11/cropped-Michigan-Potash-Logo-5-512x500.png 512w, https://michiganpotash.com/wp-content/uploads/2024/11/cropped-Michigan-Potash-Logo-5-32x32.png 32w",
+        "sizes": "(max-width: 512px) 100vw, 512px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "512",
+        "height": "500",
+        "src": "https://michiganpotash.com/wp-content/uploads/2024/11/cropped-Michigan-Potash-Logo-5-512x500.png",
+        "class": "attachment-dsvy-img-770x500 size-dsvy-img-770x500 wp-post-image",
+        "alt": "",
+        "srcset": "https://michiganpotash.com/wp-content/uploads/2024/11/cropped-Michigan-Potash-Logo-5-512x500.png 512w, https://michiganpotash.com/wp-content/uploads/2024/11/cropped-Michigan-Potash-Logo-5-32x32.png 32w",
+        "sizes": "(max-width: 512px) 100vw, 512px"
+      },
+      {
+        "loading": "lazy",
+        "class": "alignnone wp-image-27922",
+        "src": "/wp-content/uploads/2024/11/Michigan-Potash-Logo-6.png",
+        "alt": "",
+        "width": "249",
+        "height": "60"
+      },
+      {
+        "width": "150",
+        "height": "150",
+        "src": "https://michiganpotash.com/wp-content/uploads/2024/11/cropped-Michigan-Potash-Logo-5-150x150.png",
+        "class": "attachment-thumbnail size-thumbnail wp-post-image",
+        "alt": "",
+        "decoding": "async",
+        "srcset": "https://michiganpotash.com/wp-content/uploads/2024/11/cropped-Michigan-Potash-Logo-5-150x150.png 150w, https://michiganpotash.com/wp-content/uploads/2024/11/cropped-Michigan-Potash-Logo-5-300x300.png 300w, https://michiganpotash.com/wp-content/uploads/2024/11/cropped-Michigan-Potash-Logo-5-270x270.png 270w, https://michiganpotash.com/wp-content/uploads/2024/11/cropped-Michigan-Potash-Logo-5-192x192.png 192w, https://michiganpotash.com/wp-content/uploads/2024/11/cropped-Michigan-Potash-Logo-5-180x180.png 180w, https://michiganpotash.com/wp-content/uploads/2024/11/cropped-Michigan-Potash-Logo-5-32x32.png 32w, https://michiganpotash.com/wp-content/uploads/2024/11/cropped-Michigan-Potash-Logo-5.png 512w",
+        "sizes": "(max-width: 150px) 100vw, 150px"
+      },
+      {
+        "width": "150",
+        "height": "150",
+        "src": "https://michiganpotash.com/wp-content/uploads/2024/11/cropped-Michigan-Potash-Logo-5-150x150.png",
+        "class": "attachment-thumbnail size-thumbnail wp-post-image",
+        "alt": "",
+        "decoding": "async",
+        "srcset": "https://michiganpotash.com/wp-content/uploads/2024/11/cropped-Michigan-Potash-Logo-5-150x150.png 150w, https://michiganpotash.com/wp-content/uploads/2024/11/cropped-Michigan-Potash-Logo-5-300x300.png 300w, https://michiganpotash.com/wp-content/uploads/2024/11/cropped-Michigan-Potash-Logo-5-270x270.png 270w, https://michiganpotash.com/wp-content/uploads/2024/11/cropped-Michigan-Potash-Logo-5-192x192.png 192w, https://michiganpotash.com/wp-content/uploads/2024/11/cropped-Michigan-Potash-Logo-5-180x180.png 180w, https://michiganpotash.com/wp-content/uploads/2024/11/cropped-Michigan-Potash-Logo-5-32x32.png 32w, https://michiganpotash.com/wp-content/uploads/2024/11/cropped-Michigan-Potash-Logo-5.png 512w",
+        "sizes": "(max-width: 150px) 100vw, 150px"
+      },
+      {
+        "width": "150",
+        "height": "150",
+        "src": "https://michiganpotash.com/wp-content/uploads/2024/11/cropped-Michigan-Potash-Logo-5-150x150.png",
+        "class": "attachment-thumbnail size-thumbnail wp-post-image",
+        "alt": "",
+        "decoding": "async",
+        "srcset": "https://michiganpotash.com/wp-content/uploads/2024/11/cropped-Michigan-Potash-Logo-5-150x150.png 150w, https://michiganpotash.com/wp-content/uploads/2024/11/cropped-Michigan-Potash-Logo-5-300x300.png 300w, https://michiganpotash.com/wp-content/uploads/2024/11/cropped-Michigan-Potash-Logo-5-270x270.png 270w, https://michiganpotash.com/wp-content/uploads/2024/11/cropped-Michigan-Potash-Logo-5-192x192.png 192w, https://michiganpotash.com/wp-content/uploads/2024/11/cropped-Michigan-Potash-Logo-5-180x180.png 180w, https://michiganpotash.com/wp-content/uploads/2024/11/cropped-Michigan-Potash-Logo-5-32x32.png 32w, https://michiganpotash.com/wp-content/uploads/2024/11/cropped-Michigan-Potash-Logo-5.png 512w",
+        "sizes": "(max-width: 150px) 100vw, 150px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-225/90661cec58c9ced9.txt"
+  },
+  {
+    "id": "d5ecb79ee241bf76",
+    "name": "Micron Technologies, Inc.",
+    "requested_url": "https://www.micron.com/",
+    "status": 200,
+    "final_url": "https://www.micron.com/",
+    "text_chars": 9899,
+    "logo_candidates": [
+      {
+        "src": "https://assets.micron.com/adobe/assets/urn:aaid:aem:652506f6-3869-4e9b-a1bd-d5b4209f850c/as/Micron-logo-white.svg?width=1500&preferwebp=true",
+        "loading": "lazy",
+        "class": "cmp-image__image",
+        "itemprop": "contentUrl",
+        "alt": "Micron logo"
+      },
+      {
+        "src": "https://assets.micron.com/adobe/assets/urn:aaid:aem:652506f6-3869-4e9b-a1bd-d5b4209f850c/as/Micron-logo-white.svg?preferwebp=true",
+        "alt": "Micron",
+        "loading": "lazy"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-225/d5ecb79ee241bf76.txt"
+  },
+  {
+    "id": "70a5fc5dbd6035de",
+    "name": "Midwest Dairy Coalition",
+    "requested_url": "https://midwestdairycoalition.com/",
+    "status": 200,
+    "final_url": "https://midwestdairycoalition.com/",
+    "text_chars": 4351,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-225/70a5fc5dbd6035de.txt"
+  },
+  {
+    "id": "c677883e132c99e2",
+    "name": "Milacron Holdings Corp",
+    "requested_url": "https://www.milacron.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "cf873f2457e35111",
+    "name": "Military Backpay (formerly Military Backpay LLC)",
+    "requested_url": "https://militarybackpay.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "9e82ecf2747b720d",
+    "name": "Milk Care Co Inc (dba Harmony Baby Nutrition)",
+    "requested_url": "https://harmonybaby.com/",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "id": "0ff6cfe7173c32dd",
+    "name": "Mill Industries, Inc. (formerly Known AS Chewie Labs)",
+    "requested_url": "https://www.mill.com/",
+    "status": 200,
+    "final_url": "https://www.mill.com/",
+    "text_chars": 3153,
+    "logo_candidates": [
+      {
+        "loading": "lazy",
+        "class": "flex-none select-none h-5 lg:h-7 svelte-jsk6s9",
+        "src": "https://a-us.storyblok.com/f/1019164/183x24/4ababa97f6/food-and-wine-logo.svg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "loading": "lazy",
+        "class": "flex-none select-none h-5 lg:h-7 svelte-jsk6s9",
+        "src": "https://a-us.storyblok.com/f/1019164/110x72/368a615c04/architectural-digest-logo.svg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "loading": "lazy",
+        "class": "flex-none select-none h-5 lg:h-7 svelte-jsk6s9",
+        "src": "https://a-us.storyblok.com/f/1019164/53x16/62a60b1f8b/time_logo_black.svg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "loading": "lazy",
+        "class": "flex-none select-none h-5 lg:h-7 svelte-jsk6s9",
+        "src": "https://a-us.storyblok.com/f/1019164/1280x109/d69b7b123f/wsj_logo-svg.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "loading": "lazy",
+        "class": "flex-none select-none h-5 lg:h-7 svelte-jsk6s9",
+        "src": "https://a-us.storyblok.com/f/1019164/800x168/f80f1cd35a/goo-housekeeping-logo.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "loading": "lazy",
+        "class": "flex-none select-none h-5 lg:h-7 svelte-jsk6s9",
+        "src": "https://a-us.storyblok.com/f/1019164/1000x147/848a198c39/esquire_logo_-2017.svg",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "loading": "lazy",
+        "class": "flex-none select-none h-5 lg:h-7 svelte-jsk6s9",
+        "src": "https://a-us.storyblok.com/f/1019164/800x158/d829a160f6/bon_appetit_logo.png",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "loading": "lazy",
+        "class": "flex-none select-none h-5 lg:h-7 svelte-jsk6s9",
+        "src": "https://a-us.storyblok.com/f/1019164/3840x906/b3dc254cb2/new_york_magazine_logo.webp",
+        "alt": "",
+        "title": ""
+      },
+      {
+        "src": "https://a-us.storyblok.com/f/1019164/725x725/334bdabfd7/whole_foods_market_201x_logo.svg",
+        "srcset": "https://a-us.storyblok.com/f/1019164/725x725/334bdabfd7/whole_foods_market_201x_logo.svg 1x, https://a-us.storyblok.com/f/1019164/725x725/334bdabfd7/whole_foods_market_201x_logo.svg 2x",
+        "alt": "Whole Foods Market",
+        "title": "",
+        "loading": "lazy",
+        "decoding": "async",
+        "class": "h-full w-full object-contain object-center rounded-none aspect-auto lg:aspect-auto",
+        "width": "3",
+        "height": "3",
+        "onload": "this.__e=event",
+        "onerror": "this.__e=event"
+      },
+      {
+        "src": "https://a-us.storyblok.com/f/1019164/725x725/334bdabfd7/whole_foods_market_201x_logo.svg",
+        "srcset": "https://a-us.storyblok.com/f/1019164/725x725/334bdabfd7/whole_foods_market_201x_logo.svg 1x, https://a-us.storyblok.com/f/1019164/725x725/334bdabfd7/whole_foods_market_201x_logo.svg 2x",
+        "alt": "Whole Foods Market",
+        "title": "",
+        "loading": "lazy",
+        "decoding": "async",
+        "class": "h-full w-full object-contain object-center rounded-none aspect-auto",
+        "width": "3",
+        "height": "3",
+        "onload": "this.__e=event",
+        "onerror": "this.__e=event"
+      },
+      {
+        "src": "https://a-us.storyblok.com/f/1019164/300x106/2f222699cd/abc_news_logo.svg",
+        "srcset": "https://a-us.storyblok.com/f/1019164/300x106/2f222699cd/abc_news_logo.svg 1x, https://a-us.storyblok.com/f/1019164/300x106/2f222699cd/abc_news_logo.svg 2x",
+        "alt": "",
+        "title": "",
+        "loading": "lazy",
+        "decoding": "async",
+        "class": "absolute top-3 left-3 z-10 h-7 lg:top-5 lg:left-5",
+        "height": "28",
+        "onload": "this.__e=event",
+        "onerror": "this.__e=event"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-225/0ff6cfe7173c32dd.txt"
+  },
+  {
+    "id": "55d9961e988d2372",
+    "name": "MilliporeSigma",
+    "requested_url": "https://www.sigmaaldrich.com/US/en",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "93d477667b05ce54",
+    "name": "Minerva Meats USA, Inc.",
+    "requested_url": "https://www.minervafoods.com/",
+    "status": 200,
+    "final_url": "https://minervafoods.com/",
+    "text_chars": 4437,
+    "logo_candidates": [
+      {
+        "width": "1964",
+        "height": "865",
+        "src": "https://minervafoods.com/wp-content/uploads/2024/08/logo.webp",
+        "class": "custom-logo",
+        "alt": "logo",
+        "decoding": "async",
+        "fetchpriority": "high",
+        "srcset": "https://minervafoods.com/wp-content/uploads/2024/08/logo.webp 1964w, https://minervafoods.com/wp-content/uploads/2024/08/logo-1024x451.webp 1024w, https://minervafoods.com/wp-content/uploads/2024/08/logo-1920x846.webp 1920w, https://minervafoods.com/wp-content/uploads/2024/08/logo-768x338.webp 768w, https://minervafoods.com/wp-content/uploads/2024/08/logo-1536x676.webp 1536w, https://minervafoods.com/wp-content/uploads/2024/08/logo-96x42.webp 96w, https://minervafoods.com/wp-content/uploads/2024/08/logo-320x141.webp 320w, https://minervafoods.com/wp-content/uploads/2024/08/logo-795x350.webp 795w",
+        "sizes": "(max-width: 1964px) 100vw, 1964px"
+      },
+      {
+        "decoding": "async",
+        "class": "wp-image-32539 alignleft",
+        "src": "https://minervafoods.com/wp-content/uploads/2023/03/receitas-de-sabor-mimerva-foods-logo-e1679624461726.png",
+        "width": "337",
+        "height": "159",
+        "srcset": "https://minervafoods.com/wp-content/uploads/2023/03/receitas-de-sabor-mimerva-foods-logo-e1679624461726.png 568w, https://minervafoods.com/wp-content/uploads/2023/03/receitas-de-sabor-mimerva-foods-logo-e1679624461726-96x45.png 96w, https://minervafoods.com/wp-content/uploads/2023/03/receitas-de-sabor-mimerva-foods-logo-e1679624461726-320x151.png 320w",
+        "sizes": "(max-width: 337px) 100vw, 337px",
+        "loading": "lazy"
+      },
+      {
+        "decoding": "async",
+        "src": "https://minervafoods.com/wp-content/uploads/2025/12/Screenshot_21.png",
+        "class": "remote-left-logo",
+        "alt": "",
+        "loading": "lazy"
+      },
+      {
+        "decoding": "async",
+        "loading": "lazy",
+        "src": "https://minervafoods.com/wp-content/uploads/2025/08/Logo-Sovereign_169x119-02.png",
+        "srcset": "https://minervafoods.com/wp-content/uploads/2025/08/Logo-Sovereign_169x119-02.png 169w, https://minervafoods.com/wp-content/uploads/2025/08/Logo-Sovereign_169x119-02-96x68.png 96w",
+        "sizes": "(max-width: 169px) 100vw, 169px",
+        "title": "Logo Sovereign_169x119-02",
+        "alt": "Logo Sovereign_169x119-02"
+      },
+      {
+        "decoding": "async",
+        "loading": "lazy",
+        "src": "https://minervafoods.com/wp-content/uploads/2025/08/Logo-Ambassador_169x119-01.png",
+        "srcset": "https://minervafoods.com/wp-content/uploads/2025/08/Logo-Ambassador_169x119-01.png 169w, https://minervafoods.com/wp-content/uploads/2025/08/Logo-Ambassador_169x119-01-96x68.png 96w",
+        "sizes": "(max-width: 169px) 100vw, 169px",
+        "title": "Logo Ambassador_169x119-01",
+        "alt": "Logo Ambassador_169x119-01"
+      },
+      {
+        "src": "https://minervafoods.com/wp-content/themes/infobase-wp-theme/public/img/logo.svg",
+        "aria-label": "Minerva Foods",
+        "alt": "Minerva Foods",
+        "loading": "lazy"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-225/93d477667b05ce54.txt"
+  },
+  {
+    "id": "e3fe3a60fefcc9d8",
+    "name": "Minicap Coalition",
+    "requested_url": "https://minicapnews.com/",
+    "status": 200,
+    "final_url": "https://minicapnews.com/",
+    "text_chars": 3265,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-225/e3fe3a60fefcc9d8.txt"
+  },
+  {
+    "id": "6e7a482299d6d9bb",
+    "name": "Minidoka Pilgrimage Planning Committee",
+    "requested_url": "https://www.minidokapilgrimage.org/",
+    "status": 200,
+    "final_url": "https://www.minidokapilgrimage.org/",
+    "text_chars": 930,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-225/6e7a482299d6d9bb.txt"
+  },
+  {
+    "id": "5893b4c057694c00",
+    "name": "Mission Essential Group, LLC",
+    "requested_url": "https://missionessential.com/",
+    "status": 200,
+    "final_url": "https://missionessential.com/",
+    "text_chars": 139,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-225/5893b4c057694c00.txt"
+  },
+  {
+    "id": "2e4172b94b1d65b8",
+    "name": "Missy Edwards Strategies on behalf of Truckload Carriers Association",
+    "requested_url": "https://mmestrategies.com/",
+    "status": 200,
+    "final_url": "https://mmestrategies.com/",
+    "text_chars": 1819,
+    "logo_candidates": [
+      {
+        "class": " preload-me",
+        "src": "https://mmestrategies.com/wp-content/uploads/2016/04/LogoConceptsV3d.png",
+        "srcset": "https://mmestrategies.com/wp-content/uploads/2016/04/LogoConceptsV3d.png 309w, https://mmestrategies.com/wp-content/uploads/2016/04/weblogo-regular-v2.png 467w",
+        "width": "309",
+        "height": "69",
+        "sizes": "309px",
+        "alt": "Missy Edwards Strategies"
+      },
+      {
+        "class": "mobile-logo preload-me",
+        "src": "https://mmestrategies.com/wp-content/uploads/2016/04/LogoConceptsV3c.png",
+        "srcset": "https://mmestrategies.com/wp-content/uploads/2016/04/LogoConceptsV3c.png 309w, https://mmestrategies.com/wp-content/uploads/2016/04/LogoConceptsV3b.png 300w",
+        "width": "309",
+        "height": "80",
+        "sizes": "309px",
+        "alt": "Missy Edwards Strategies"
+      },
+      {
+        "class": " preload-me",
+        "src": "https://mmestrategies.com/wp-content/uploads/2016/04/LogoConceptsV3b.png",
+        "srcset": "https://mmestrategies.com/wp-content/uploads/2016/04/LogoConceptsV3b.png 300w, https://mmestrategies.com/wp-content/uploads/2016/04/LogoConceptsV3c.png 309w",
+        "width": "300",
+        "height": "77",
+        "sizes": "300px",
+        "alt": "Missy Edwards Strategies"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-225/2e4172b94b1d65b8.txt"
+  },
+  {
+    "id": "49a2be44764b7f46",
+    "name": "Mistral Group (formerly AS Mistral Security, Inc.)",
+    "requested_url": "https://www.mistralgroup.com/",
+    "status": 200,
+    "final_url": "https://www.mistralgroup.com/",
+    "text_chars": 237,
+    "logo_candidates": [
+      {
+        "height": "188",
+        "src": "logo.jpg",
+        "width": "600"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-225/49a2be44764b7f46.txt"
+  },
+  {
+    "id": "5a476133c8af1467",
+    "name": "Mitra Future Technologies, Inc.",
+    "requested_url": "https://mitrachem.com/",
+    "status": 200,
+    "final_url": "https://www.mitrachem.com/",
+    "text_chars": 2892,
+    "logo_candidates": [
+      {
+        "src": "assets/mitra-chem-logo.svg",
+        "alt": "Mitra Chem"
+      },
+      {
+        "class": "pb-logo",
+        "src": "assets/logos/alpha-wave.svg",
+        "alt": "Alpha Wave Global"
+      },
+      {
+        "class": "pb-logo",
+        "src": "assets/logos/gm-ventures.svg",
+        "alt": "GM Ventures",
+        "style": "height:48px"
+      },
+      {
+        "class": "pb-logo",
+        "src": "assets/logos/social-capital.png",
+        "alt": "Social Capital"
+      },
+      {
+        "class": "pb-logo",
+        "src": "assets/logos/in-q-tel.svg",
+        "alt": "In-Q-Tel"
+      },
+      {
+        "loading": "lazy",
+        "class": "pb-logo pb-prewhite pb-keep",
+        "src": "assets/logos/doe-white.png",
+        "alt": "U.S. Department of Energy"
+      },
+      {
+        "class": "pb-logo",
+        "src": "assets/logos/sun-chemical.svg",
+        "alt": "Sun Chemical"
+      },
+      {
+        "loading": "lazy",
+        "class": "pb-logo pb-keep",
+        "src": "assets/logos/ocp.svg",
+        "alt": "OCP Group"
+      },
+      {
+        "loading": "lazy",
+        "class": "pb-logo pb-keep",
+        "src": "assets/logos/landf.png",
+        "alt": "L&F"
+      },
+      {
+        "class": "pb-logo",
+        "src": "assets/logos/alpha-wave.svg",
+        "alt": "Alpha Wave Ventures logo"
+      },
+      {
+        "class": "pb-logo",
+        "src": "assets/logos/gm-ventures.svg",
+        "alt": "GM Ventures logo"
+      },
+      {
+        "class": "pb-logo",
+        "src": "assets/logos/social-capital.png",
+        "alt": "Social Capital logo"
+      },
+      {
+        "class": "pb-logo",
+        "src": "assets/logos/in-q-tel.svg",
+        "alt": "In-Q-Tel logo"
+      },
+      {
+        "loading": "lazy",
+        "class": "pb-logo pb-prewhite pb-keep",
+        "src": "assets/logos/doe-white.png",
+        "alt": "U.S. Department of Energy logo"
+      },
+      {
+        "class": "pb-logo",
+        "src": "assets/logos/sun-chemical.svg",
+        "alt": "Sun Chemical logo"
+      },
+      {
+        "loading": "lazy",
+        "class": "pb-logo pb-keep",
+        "src": "assets/logos/ocp.svg",
+        "alt": "OCP logo"
+      },
+      {
+        "loading": "lazy",
+        "class": "pb-logo pb-keep",
+        "src": "assets/logos/landf.png",
+        "alt": "",
+        "assets": null,
+        "logos": null,
+        "landf.png\"": null,
+        "f": null,
+        "logo\"": null
+      },
+      {
+        "loading": "lazy",
+        "src": "assets/mitra-chem-logo.svg",
+        "alt": "Mitra Chem",
+        "style": "height:28px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-225/5a476133c8af1467.txt"
+  },
+  {
+    "id": "7535914098d09484",
+    "name": "Mitsubishi Power Americas, Inc.",
+    "requested_url": "https://power.mhi.com/",
+    "error": "'NoneType' object has no attribute 'lower'"
+  },
+  {
+    "id": "11e06d768924fb37",
+    "name": "MO Strategies, Inc. on behalf of Robert Smalley Jr. and Randall Smalley",
+    "requested_url": "https://www.mostrat.com/",
+    "status": 200,
+    "final_url": "https://www.mostrat.com/",
+    "text_chars": 314,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-225/11e06d768924fb37.txt"
+  },
+  {
+    "id": "ba665c79172dc6ba",
+    "name": "Mobivolt Defense LLC",
+    "requested_url": "https://mobivolt.energy/",
+    "status": 200,
+    "final_url": "https://mobivolt.energy/",
+    "text_chars": 867,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-225/ba665c79172dc6ba.txt"
+  },
+  {
+    "id": "45d5d9ee754ef3f5",
+    "name": "Modivcare Solutions (formerly Logisticare Solutions)",
+    "requested_url": "https://www.modivcare.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "36ac378018ff8af8",
+    "name": "Moffitt Cancer Center",
+    "requested_url": "https://www.moffitt.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "f61bb5b65d7378b0",
+    "name": "Momentive Performance Materials Quartz, Inc.",
+    "requested_url": "https://www.momentivetech.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "b1186d8a4f97eb1e",
+    "name": "Momentum Technologies, Inc.",
+    "requested_url": "https://momentum.technology/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "cf66ceca8461c936",
+    "name": "Monarch Information Security Consulting",
+    "requested_url": "https://monarchisc.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "9864791d877a879a",
+    "name": "Mondelez Global LLC (successor by Merger to Clif BAR & Company)",
+    "requested_url": "https://www.mondelezinternational.com/",
+    "status": 200,
+    "final_url": "https://www.mondelezinternational.com/",
+    "text_chars": 4334,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-225/9864791d877a879a.txt"
+  },
+  {
+    "id": "2c766ffb67a6ba50",
+    "name": "Money Metals Depository LLC",
+    "requested_url": "https://depository.moneymetals.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "2e2ec01213d26016",
+    "name": "Money Metals Depository Llc/money Metals Exchange LLC",
+    "requested_url": "https://www.moneymetals.com/privacy/legal-disclosures",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "74d9ae59cc974286",
+    "name": "Money Metals Exchange",
+    "requested_url": "https://www.moneymetals.com/about",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "dedb364f1a5fdb94",
+    "name": "Monument Strategies, LLC",
+    "requested_url": "https://www.monument-strategies.com/",
+    "status": 200,
+    "final_url": "https://monument-strategies.com/",
+    "text_chars": 680,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "decoding": "async",
+        "width": "580",
+        "height": "156",
+        "src": "https://monument-strategies.com/wordpress/wp-content/uploads/2024/05/MonumentStrategiesnobklogo.png",
+        "alt": "Monument Strategies",
+        "class": "wp-image-498",
+        "style": "width:298px;height:auto",
+        "srcset": "https://monument-strategies.com/wordpress/wp-content/uploads/2024/05/MonumentStrategiesnobklogo.png 580w, https://monument-strategies.com/wordpress/wp-content/uploads/2024/05/MonumentStrategiesnobklogo-300x81.png 300w",
+        "sizes": "(max-width: 580px) 100vw, 580px"
+      },
+      {
+        "width": "130",
+        "height": "130",
+        "src": "https://monument-strategies.com/wordpress/wp-content/uploads/2024/05/FreeConfCalllogoHome.png",
+        "alt": "FreeConferenceCall",
+        "class": "wp-image-440",
+        "style": "object-fit:cover"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "580",
+        "height": "156",
+        "src": "https://monument-strategies.com/wordpress/wp-content/uploads/2024/05/MonumentStrategiesnobklogo.png",
+        "alt": "",
+        "class": "wp-image-498",
+        "style": "width:237px;height:auto",
+        "srcset": "https://monument-strategies.com/wordpress/wp-content/uploads/2024/05/MonumentStrategiesnobklogo.png 580w, https://monument-strategies.com/wordpress/wp-content/uploads/2024/05/MonumentStrategiesnobklogo-300x81.png 300w",
+        "sizes": "auto, (max-width: 580px) 100vw, 580px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-225/dedb364f1a5fdb94.txt"
+  },
+  {
+    "id": "51dbe249cac3022d",
+    "name": "Morgan Stanley Dean Witter & Company",
+    "requested_url": "https://www.morganstanley.com/",
+    "error": "'NoneType' object has no attribute 'lower'"
+  },
+  {
+    "id": "f040f554a7df7640",
+    "name": "Morningstar Dbrs, Inc.",
+    "requested_url": "https://dbrs.morningstar.com/",
+    "status": 200,
+    "final_url": "https://dbrs.morningstar.com/",
+    "text_chars": 6738,
+    "logo_candidates": [
+      {
+        "src": "/images/morningstar-dbrs-red.svg",
+        "alt": "Morningstar Logo",
+        "class": "h-10 w-auto"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-225/f040f554a7df7640.txt"
+  },
+  {
+    "id": "10c1b6cdd7753b35",
+    "name": "Mosaik Solutions LLC (now DBA Ookla)",
+    "requested_url": "https://www.ookla.com/",
+    "status": 200,
+    "final_url": "https://www.ookla.com/",
+    "text_chars": 7015,
+    "logo_candidates": [
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "686",
+        "height": "190",
+        "src": "/s/media/2025/02/Ekahau-Logo-Solid-White.svg",
+        "class": "attachment-large size-large",
+        "alt": ""
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "686",
+        "height": "190",
+        "src": "/s/media/2025/02/Ekahau-Logo-Heatbar-White.svg",
+        "class": "attachment-large size-large",
+        "alt": ""
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "1201",
+        "height": "629",
+        "src": "/s/media/2025/04/ookla-boingo-wireless-thumbnail.png",
+        "alt": "ookla and boingo logos on top of airport setting",
+        "class": "wp-image-40168",
+        "style": "aspect-ratio:3/2;object-fit:cover",
+        "srcset": "/s/media/2025/04/ookla-boingo-wireless-thumbnail.png 1201w, /s/media/2025/04/ookla-boingo-wireless-thumbnail-720x377.png 720w, /s/media/2025/04/ookla-boingo-wireless-thumbnail-432x226.png 432w, /s/media/2025/04/ookla-boingo-wireless-thumbnail-768x402.png 768w, /s/media/2025/04/ookla-boingo-wireless-thumbnail-24x13.png 24w",
+        "sizes": "auto, (max-width: 1201px) 100vw, 1201px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-225/10c1b6cdd7753b35.txt"
+  },
+  {
+    "id": "7d29a61e8db88c4a",
+    "name": "Mount Sinai Medical Center",
+    "requested_url": "https://www.msmc.com/",
+    "status": 200,
+    "final_url": "https://www.msmc.com/",
+    "text_chars": 82,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-225/7d29a61e8db88c4a.txt"
+  },
+  {
+    "id": "3e7ee1ea44aa4e04",
+    "name": "Mountainstar Capital, LLC",
+    "requested_url": "https://www.mountainstarcapital.com/",
+    "status": 200,
+    "final_url": "https://www.mountainstarcapital.com/",
+    "text_chars": 3749,
+    "logo_candidates": [
+      {
+        "src": "https://www.mountainstarcapital.com/wp-content/uploads/2025/01/MountainStarPartners_Logo_White.png.webp",
+        "alt": "",
+        "title": "MountainStar-Capital"
+      },
+      {
+        "src": "https://www.mountainstarcapital.com/wp-content/uploads/2025/01/MountainStarPartners_Logo_White.png.webp",
+        "alt": "",
+        "title": "MountainStar-Capital"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-225/3e7ee1ea44aa4e04.txt"
+  }
+]

@@ -1,0 +1,84 @@
+{
+  "raw": {
+    "content": [
+      {
+        "type": "text",
+        "text": "sanjuan: failed, Webpage contains no readable text; it may require JavaScript or login.\neavor: page_type=business, identity=no (P(yes)=0.14) (truncated)\nInspect uncertain or truncated items. Tool and website judgments depend on the content supplied; they do not predict unseen results."
+      }
+    ],
+    "structuredContent": {
+      "ok": true,
+      "model": "jev-latest",
+      "scales": {},
+      "results": [
+        {
+          "id": "sanjuan",
+          "error": "Webpage contains no readable text; it may require JavaScript or login."
+        },
+        {
+          "id": "eavor",
+          "answers": {
+            "page_type": {
+              "type": "choice",
+              "choice": "business",
+              "probabilities": {
+                "government": 0,
+                "tourism": 0,
+                "business": 1,
+                "uncertain": 0
+              },
+              "confidence": 1
+            },
+            "identity": {
+              "type": "boolean",
+              "probability": 0.14
+            }
+          },
+          "model": "jev-1.13.0",
+          "truncated": true
+        }
+      ],
+      "usage": {
+        "inputTokens": 19744
+      }
+    },
+    "isError": false
+  },
+  "cleaned": {
+    "content": [
+      {
+        "type": "text",
+        "text": "eavor: exact_name=yes (P(yes)=0.95), activity=yes (P(yes)=0.98), ownership=no (P(yes)=0.07)\nInspect uncertain or truncated items. Tool and website judgments depend on the content supplied; they do not predict unseen results."
+      }
+    ],
+    "structuredContent": {
+      "ok": true,
+      "model": "jev-latest",
+      "scales": {},
+      "results": [
+        {
+          "id": "eavor",
+          "answers": {
+            "exact_name": {
+              "type": "boolean",
+              "probability": 0.95
+            },
+            "activity": {
+              "type": "boolean",
+              "probability": 0.98
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.07
+            }
+          },
+          "model": "jev-1.13.0"
+        }
+      ],
+      "usage": {
+        "inputTokens": 1898
+      }
+    },
+    "isError": false
+  }
+}

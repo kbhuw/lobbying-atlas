@@ -1,0 +1,690 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "0-f27d9e78af643e26: identity=no (P(yes)=0.12), ownership=no (P(yes)=0.05), contamination=no (P(yes)=0.12)\n1-f27d9e78af643e26: identity=no (P(yes)=0.17), ownership=no (P(yes)=0.04), contamination=no (P(yes)=0.20)\n2-0bdbd886919f8d4d: identity=no (P(yes)=0.12), ownership=no (P(yes)=0.39), contamination=no (P(yes)=0.09)\n3-0bdbd886919f8d4d: identity=no (P(yes)=0.11), ownership=yes (P(yes)=0.51), contamination=no (P(yes)=0.05)\n4-528cbaa493987234: identity=no (P(yes)=0.04), ownership=no (P(yes)=0.07), contamination=no (P(yes)=0.16)\n5-c765e7b973363402: identity=no (P(yes)=0.31), ownership=no (P(yes)=0.05), contamination=no (P(yes)=0.08)\n6-c765e7b973363402: failed, Cannot reach Jev.\n9-a65405f2491329e4: identity=no (P(yes)=0.05), ownership=no (P(yes)=0.04), contamination=no (P(yes)=0.32)\n10-7b80483778492e0d: identity=no (P(yes)=0.31), ownership=yes (P(yes)=0.78), contamination=no (P(yes)=0.11)\n11-0879615371ecf099: identity=yes (P(yes)=0.62), ownership=no (P(yes)=0.08), contamination=no (P(yes)=0.12)\n12-19dd4b85f078672a: identity=no (P(yes)=0.04), ownership=no (P(yes)=0.17), contamination=no (P(yes)=0.09)\n13-19dd4b85f078672a: identity=no (P(yes)=0.06), ownership=no (P(yes)=0.06), contamination=no (P(yes)=0.09)\n14-cbe5ca03c6774b51: identity=yes (P(yes)=0.80), ownership=no (P(yes)=0.06), contamination=no (P(yes)=0.04)\n15-cbe5ca03c6774b51: identity=no (P(yes)=0.22), ownership=no (P(yes)=0.06), contamination=no (P(yes)=0.04)\n16-59c465ec91514b6d: identity=yes (P(yes)=0.51), ownership=no (P(yes)=0.04), contamination=no (P(yes)=0.15)\n17-59c465ec91514b6d: identity=yes (P(yes)=0.65), ownership=no (P(yes)=0.07), contamination=no (P(yes)=0.20)\n18-8be4c8effaf2e50e: identity=yes (P(yes)=0.62), ownership=yes (P(yes)=0.61), contamination=no (P(yes)=0.08)\n19-233ee487d44a820e: identity=yes (P(yes)=0.78), ownership=no (P(yes)=0.05), contamination=no (P(yes)=0.06)\n20-233ee487d44a820e: identity=yes (P(yes)=0.79), ownership=no (P(yes)=0.09), contamination=no (P(yes)=0.05)\n21-b54bfc0c4d453a47: identity=yes (P(yes)=0.62), ownership=no (P(yes)=0.10), contamination=no (P(yes)=0.16)\n22-5d3526c0806f0376: identity=yes (P(yes)=0.87), ownership=no (P(yes)=0.04), contamination=no (P(yes)=0.16)\n23-5d3526c0806f0376: identity=yes (P(yes)=0.85), ownership=no (P(yes)=0.04), contamination=no (P(yes)=0.18)\n24-67d1ea416219787b: identity=yes (P(yes)=0.69), ownership=no (P(yes)=0.10), contamination=no (P(yes)=0.08)\n25-67d1ea416219787b: identity=no (P(yes)=0.29), ownership=yes (P(yes)=0.69), contamination=no (P(yes)=0.08)\n26-d3ff3d3de7f7bab1: identity=yes (P(yes)=0.84), ownership=no (P(yes)=0.04), contamination=no (P(yes)=0.06)\n27-d3ff3d3de7f7bab1: identity=yes (P(yes)=0.81), ownership=no (P(yes)=0.05), contamination=no (P(yes)=0.07)\n28-7369e80f9cf4733b: identity=no (P(yes)=0.14), ownership=no (P(yes)=0.04), contamination=no (P(yes)=0.09)\n29-7369e80f9cf4733b: identity=yes (P(yes)=0.86), ownership=no (P(yes)=0.05), contamination=no (P(yes)=0.06)\n30-c407f31bbaa54f27: identity=yes (P(yes)=0.59), ownership=no (P(yes)=0.03), contamination=no (P(yes)=0.08)\n31-8d93e42b9eff777a: identity=no (P(yes)=0.41), ownership=yes (P(yes)=0.59), contamination=no (P(yes)=0.05)\n32-8d93e42b9eff777a: identity=yes (P(yes)=0.70), ownership=no (P(yes)=0.05), contamination=no (P(yes)=0.05) (truncated)\n33-ae08de3d5e949545: identity=yes (P(yes)=0.57), ownership=no (P(yes)=0.05), contamination=no (P(yes)=0.06)\n34-ae08de3d5e949545: identity=no (P(yes)=0.06), ownership=no (P(yes)=0.05), contamination=no (P(yes)=0.07)\n35-c1e7f52c8edca595: identity=no (P(yes)=0.09), ownership=no (P(yes)=0.19), contamination=no (P(yes)=0.10)\n36-c79a7b32c699fd05: identity=no (P(yes)=0.43), ownership=no (P(yes)=0.05), contamination=no (P(yes)=0.07)\n37-c79a7b32c699fd05: identity=no (P(yes)=0.41), ownership=no (P(yes)=0.05), contamination=no (P(yes)=0.07)\n38-ff0f25c824238a47: identity=no (P(yes)=0.12), ownership=no (P(yes)=0.07), contamination=no (P(yes)=0.11)\n39-ff0f25c824238a47: identity=no (P(yes)=0.13), ownership=no (P(yes)=0.24), contamination=no (P(yes)=0.13)\nInspect uncertain or truncated items. Tool and website judgments depend on the content supplied; they do not predict unseen results."
+    }
+  ],
+  "structuredContent": {
+    "ok": true,
+    "model": "jev-latest",
+    "scales": {},
+    "results": [
+      {
+        "id": "0-f27d9e78af643e26",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.12
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.05
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.12
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "1-f27d9e78af643e26",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.17
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.04
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.2
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "2-0bdbd886919f8d4d",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.12
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.39
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.09
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "3-0bdbd886919f8d4d",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.11
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.51
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.05
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "4-528cbaa493987234",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.04
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.07
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.16
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "5-c765e7b973363402",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.31
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.05
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.08
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "6-c765e7b973363402",
+        "error": "Cannot reach Jev."
+      },
+      {
+        "id": "9-a65405f2491329e4",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.05
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.04
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.32
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "10-7b80483778492e0d",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.31
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.78
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.11
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "11-0879615371ecf099",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.62
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.08
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.12
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "12-19dd4b85f078672a",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.04
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.17
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.09
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "13-19dd4b85f078672a",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.06
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.06
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.09
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "14-cbe5ca03c6774b51",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.8
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.06
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.04
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "15-cbe5ca03c6774b51",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.22
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.06
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.04
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "16-59c465ec91514b6d",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.51
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.04
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.15
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "17-59c465ec91514b6d",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.65
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.07
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.2
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "18-8be4c8effaf2e50e",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.62
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.61
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.08
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "19-233ee487d44a820e",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.78
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.05
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.06
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "20-233ee487d44a820e",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.79
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.09
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.05
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "21-b54bfc0c4d453a47",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.62
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.1
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.16
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "22-5d3526c0806f0376",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.87
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.04
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.16
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "23-5d3526c0806f0376",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.85
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.04
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.18
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "24-67d1ea416219787b",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.69
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.1
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.08
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "25-67d1ea416219787b",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.29
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.69
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.08
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "26-d3ff3d3de7f7bab1",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.84
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.04
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.06
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "27-d3ff3d3de7f7bab1",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.81
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.05
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.07
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "28-7369e80f9cf4733b",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.14
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.04
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.09
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "29-7369e80f9cf4733b",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.86
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.05
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.06
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "30-c407f31bbaa54f27",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.59
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.03
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.08
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "31-8d93e42b9eff777a",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.41
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.59
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.05
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "32-8d93e42b9eff777a",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.7
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.05
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.05
+          }
+        },
+        "model": "jev-1.13.0",
+        "truncated": true
+      },
+      {
+        "id": "33-ae08de3d5e949545",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.57
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.05
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.06
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "34-ae08de3d5e949545",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.06
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.05
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.07
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "35-c1e7f52c8edca595",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.09
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.19
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.1
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "36-c79a7b32c699fd05",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.43
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.05
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.07
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "37-c79a7b32c699fd05",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.41
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.05
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.07
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "38-ff0f25c824238a47",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.12
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.07
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.11
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "39-ff0f25c824238a47",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.13
+          },
+          "ownership": {
+            "type": "boolean",
+            "probability": 0.24
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.13
+          }
+        },
+        "model": "jev-1.13.0"
+      }
+    ],
+    "usage": {
+      "inputTokens": 99035
+    }
+  },
+  "isError": false
+}

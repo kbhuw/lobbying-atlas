@@ -1,0 +1,91 @@
+{
+  "24c3c49d4e1634cb": {
+    "name": "Socure Inc.",
+    "description": "Provides identity-verification and fraud-prevention software using machine learning and data signals.",
+    "website": "https://www.socure.com/",
+    "kind": "Identity technology company",
+    "ownership": "Private company",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Official June 19, 2026 Global Privacy Policy names Socure Inc. and describes identity verification and fraud prevention. Direct current homepage corroborates products and explicitly describes its CNBC recognition among private companies, supporting a self-reported private-company classification. No current ownership percentages are claimed.",
+    "notes": "Official June 19, 2026 Global Privacy Policy names Socure Inc. and describes identity verification and fraud prevention. Direct current homepage corroborates products and explicitly describes its CNBC recognition among private companies, supporting a self-reported private-company classification. No current ownership percentages are claimed.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/5daa0b6a-750c-4433-ad1d-6df69ec9e8ba/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.socure.com/company",
+        "label": "Organization evidence",
+        "claim": "Socure describes its AI-powered digital identity verification, fraud prevention, sanctions screening, and risk-decisioning business."
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1566310/000123191921000031/000123191921000031-index.htm",
+        "label": "Organization evidence",
+        "claim": "SEC Form D identifies Socure Inc. as the exact filer at 132 West 22nd Street, New York, but does not itself establish a current ownership category."
+      },
+      {
+        "url": "https://www.socure.com/privacy-en",
+        "label": "Primary organization evidence checked September 18, 2026",
+        "claim": "Official June 19, 2026 Global Privacy Policy names Socure Inc. and describes identity verification and fraud prevention. Direct current homepage corroborates products and explicitly describes its CNBC recognition among private companies, supporting a self-reported private-company classification. No current ownership percentages are claimed."
+      },
+      {
+        "url": "https://www.socure.com/",
+        "label": "Current official ownership self-description",
+        "claim": "Homepage CNBC Disruptor 50 panel describes Socure among private companies."
+      }
+    ],
+    "as_of": "2026-09-18",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://www.socure.com/images/PR-News-Page-Socure-Logo-2.png",
+    "logo_kind": "logo",
+    "logo_source_url": "https://www.socure.com/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "8daa381c645ea40a": {
+    "name": "Medical Micro Instruments (mmi, Inc.)",
+    "description": "Medical Microinstruments develops robotic microsurgery technology, including the Symani surgical system and miniature surgical instruments.",
+    "website": "https://www.mmimicro.com/",
+    "kind": "Medical robotics company",
+    "ownership": "Unknown",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Direct current official homepage copyright names Medical Microinstruments, Inc., and describes MMI robotic microsurgery, Symani and NanoWrist instruments. Exact company identity and activity confirmed; effectiveness claims and clinical outcome percentages are not reproduced as independent facts. Ownership remains Unknown.",
+    "notes": "Direct current official homepage copyright names Medical Microinstruments, Inc., and describes MMI robotic microsurgery, Symani and NanoWrist instruments. Exact company identity and activity confirmed; effectiveness claims and clinical outcome percentages are not reproduced as independent facts. Ownership remains Unknown.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/0597ce99-62a4-4a9e-8c4b-d84e3438f8dd/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.mmimicro.com/blog/2024/04/08/symani-awarded-de-novo-authorization/",
+        "label": "Organization evidence",
+        "claim": "Official release names MMI (Medical Microinstruments, Inc.) and describes its robotic microsurgery business."
+      },
+      {
+        "url": "https://www.accessdata.fda.gov/cdrh_docs/pdf25/K250014.pdf",
+        "label": "Organization evidence",
+        "claim": "FDA device record identifies Medical Microinstruments, Inc. and its instruments for the Symani system."
+      },
+      {
+        "url": "https://www.mmimicro.com/",
+        "label": "Primary organization evidence checked September 18, 2026",
+        "claim": "Direct current official homepage copyright names Medical Microinstruments, Inc., and describes MMI robotic microsurgery, Symani and NanoWrist instruments. Exact company identity and activity confirmed; effectiveness claims and clinical outcome percentages are not reproduced as independent facts. Ownership remains Unknown."
+      }
+    ],
+    "as_of": "2026-09-18",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://www.mmimicro.com/wp-content/uploads/2024/04/MMI_Logo_Stacked_Tagline_Positive_RGB1.png",
+    "logo_kind": "logo",
+    "logo_source_url": "https://www.mmimicro.com/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  }
+}

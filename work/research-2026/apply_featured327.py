@@ -1,0 +1,18 @@
+import json
+from pathlib import Path
+r=Path('work/research-2026');p=json.load(open(r/'reviewed.json'));rows=json.load(open(r/'identity325-batch.json'))['records'];ids=[q['id'] for q in rows]
+b=r/'featured327-before.json';assert not b.exists();b.write_text(json.dumps({i:p[i] for i in ids},indent=2,ensure_ascii=False)+'\n')
+notes={
+'adc02d83e8f348f3':('https://creditbuildersalliance.org/wp-content/uploads/2023/06/CBA-990-2022-Client.pdf','The organization-hosted 2022 Form 990 identifies Credit Builders Alliance Inc, EIN 20-8351782, its matching domain and nonprofit mission of helping organizations support credit building. Its current About page identifies the same nonprofit network. The tax return is dated 2022, not a current-year return.'),
+'3537cbd34c90f0f5':('https://www.cipatoday.com/','The official homepage identifies Crop Insurance Professionals Association as a national organization of agents advocating the Federal Crop Insurance Program. It also gives a Combest-Sell contact, consistent with the intermediary named in the filing. The represented association is confirmed; its intermediary is not classified as its owner.'),
+'6120588624a58985':('https://www.crueltyfreeinternational.org/','The official homepage identifies Cruelty Free International and its campaigns to end animal testing through work with policymakers, regulators and companies. Operating identity is confirmed. The separate Cruelty Free International Trust is not assumed to be the same legal entity, and no tax classification is imported from that trust.'),
+'594853f75dc2ca19':('https://cruising.org/about-cruise-lines-international-association','The official About page identifies Cruise Lines International Association as the cruise-industry trade association representing cruise lines, maritime businesses, ports, destinations, shipyards and travel professionals, with global headquarters in Washington DC. This confirms its operating identity. Its stated sustainability goals are not presented as achieved results. Historical corporate records are not treated as current tax-status determinations.'),
+'f69516b603b9008a':('https://cryptoforinnovation.org/team/','The official leadership page identifies Crypto Council for Innovation as a global alliance conducting digital-asset research, education and policy advocacy. Its published November 4, 2025 Treasury comment letter independently identifies the same alliance. Operating identity confirmed; separate legal form and ownership remain unknown.')}
+for q in rows:
+ i=q['id'];u,n=notes[i];n+=' Official body reviewed September 14, 2026, using indexed official content where direct retrieval was unavailable.'
+ p[i].update(review_outcome='confirmed',description=q['description'],website_status='verified',checked_at='2026-09-14',notes=n,identity_evidence=n)
+ p[i]['sources'].append({'url':u,'label':'Official organization evidence reviewed September 14, 2026','claim':n})
+p['adc02d83e8f348f3']['legal_form']='Nonprofit corporation'
+p['f69516b603b9008a']['description']='Digital-asset industry alliance conducting research, educating policymakers and advocating regulation that supports its members and crypto innovation.'
+(r/'featured327-decisions.json').write_text(json.dumps({i:p[i] for i in ids},indent=2,ensure_ascii=False)+'\n');(r/'reviewed.json').write_text(json.dumps(p,indent=2,ensure_ascii=False)+'\n');Path('lobbying-map/research/reviewed-2026.json').write_text(json.dumps(p,ensure_ascii=False,separators=(',',':')));Path('outputs/2026-research-trial/profiles.json').write_text(json.dumps(p,indent=2,ensure_ascii=False)+'\n')
+print('Five operating identities confirmed, source dates and entity boundaries retained.')

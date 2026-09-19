@@ -1,0 +1,33 @@
+{
+  "accepted": [
+    0,
+    2,
+    3,
+    4,
+    5,
+    7,
+    10,
+    11,
+    16,
+    17
+  ],
+  "dark": [
+    10
+  ],
+  "deferred": {
+    "1": "Black/blank rendered image",
+    "6": "Download failed",
+    "8": "Parent group brand; government subsidiary use needs verification",
+    "9": "Parent group brand; Systems Corporation use needs verification",
+    "12": "Parent campaign lockup rather than Federal Services mark",
+    "13": "End-client logo; intermediary representation needs explicit labeling",
+    "14": "End-client logo; intermediary representation needs explicit labeling",
+    "15": "End-client logo; intermediary representation needs explicit labeling",
+    "18": "Download failed",
+    "19": "Download failed",
+    "20": "Consortium/manager representation needs explicit labeling",
+    "21": "Download failed",
+    "22": "Parent group brand; Consult subsidiary use needs verification",
+    "23": "Parent group brand; Technical Services subsidiary use needs verification"
+  }
+}

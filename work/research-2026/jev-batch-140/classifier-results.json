@@ -1,0 +1,39 @@
+[
+  {
+    "content": [
+      {
+        "type": "text",
+        "text": "0-591ad776b2850534: identity=yes (P(yes)=0.72), ownership=no (P(yes)=0.13)\nInspect uncertain or truncated items. Tool and website judgments depend on the content supplied; they do not predict unseen results."
+      }
+    ],
+    "structuredContent": {
+      "ok": true,
+      "model": "typesafe-ai/jev",
+      "scales": {},
+      "results": [
+        {
+          "id": "0-591ad776b2850534",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.72
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.13
+            }
+          },
+          "billing": {
+            "cost": "0",
+            "generationId": "gen_01M2VT8FJFF1MCWSZVKCWQ92XH"
+          },
+          "model": "typesafe-ai/jev"
+        }
+      ],
+      "usage": {
+        "inputTokens": 2151
+      }
+    },
+    "isError": false
+  }
+]

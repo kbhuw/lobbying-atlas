@@ -1,0 +1,447 @@
+[
+  {
+    "id": "38bb8833027d85c0",
+    "name": "Cenovus Energy (filing label)",
+    "requested_url": "https://www.cenovus.com/Privacy",
+    "status": 200,
+    "final_url": "https://www.cenovus.com/Privacy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/0-38bb8833027d85c0.txt",
+    "text_chars": 4282
+  },
+  {
+    "id": "38bb8833027d85c0",
+    "name": "Cenovus Energy (filing label)",
+    "requested_url": "https://www.cenovus.com/Legal-notice",
+    "status": 200,
+    "final_url": "https://www.cenovus.com/Legal-notice",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/1-38bb8833027d85c0.txt",
+    "text_chars": 31366
+  },
+  {
+    "id": "3d0b44e30fceb933",
+    "name": "Cenovus US Corporation",
+    "requested_url": "https://www.cenovus.com/Privacy",
+    "status": 200,
+    "final_url": "https://www.cenovus.com/Privacy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/2-3d0b44e30fceb933.txt",
+    "text_chars": 4275
+  },
+  {
+    "id": "3d0b44e30fceb933",
+    "name": "Cenovus US Corporation",
+    "requested_url": "https://www.cenovus.com/Legal-notice",
+    "status": 200,
+    "final_url": "https://www.cenovus.com/Legal-notice",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/3-3d0b44e30fceb933.txt",
+    "text_chars": 31359
+  },
+  {
+    "id": "8a2e6d6dd4d7d840",
+    "name": "Centegix Holdings, LLC",
+    "requested_url": "https://www.centegix.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.centegix.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/4-8a2e6d6dd4d7d840.txt",
+    "text_chars": 8401
+  },
+  {
+    "id": "8a2e6d6dd4d7d840",
+    "name": "Centegix Holdings, LLC",
+    "requested_url": "https://www.centegix.com/legal/tc",
+    "status": 200,
+    "final_url": "https://www.centegix.com/legal/tc",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/5-8a2e6d6dd4d7d840.txt",
+    "text_chars": 60470
+  },
+  {
+    "id": "b84a4d85946e3959",
+    "name": "Centrient Pharmaceuticals LLC",
+    "requested_url": "https://centrient.com/privacy-statement",
+    "status": 200,
+    "final_url": "https://centrient.com/privacy-statement",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/6-b84a4d85946e3959.txt",
+    "text_chars": 14414
+  },
+  {
+    "id": "b84a4d85946e3959",
+    "name": "Centrient Pharmaceuticals LLC",
+    "requested_url": "https://centrient.com/legal-notice-terms-use",
+    "status": 200,
+    "final_url": "https://centrient.com/legal-notice-terms-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/7-b84a4d85946e3959.txt",
+    "text_chars": 10942
+  },
+  {
+    "id": "d428c7b7616de476",
+    "name": "Ceres Environmental Services, Inc.",
+    "requested_url": "https://ceresenvironmental.com/privacy",
+    "status": 200,
+    "final_url": "https://ceresenvironmental.com/privacy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/8-d428c7b7616de476.txt",
+    "text_chars": 9482
+  },
+  {
+    "id": "37d127777f0be149",
+    "name": "CH4 Systems LLC",
+    "requested_url": "https://www.ch4-systems.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.ch4-systems.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/9-37d127777f0be149.txt",
+    "text_chars": 5122
+  },
+  {
+    "id": "37d127777f0be149",
+    "name": "CH4 Systems LLC",
+    "requested_url": "https://www.ch4-systems.com/about-us/",
+    "status": 200,
+    "final_url": "https://www.ch4-systems.com/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/10-37d127777f0be149.txt",
+    "text_chars": 6934
+  },
+  {
+    "id": "a9e1886e5bf4a188",
+    "name": "Chartwell Strategy Group on behalf of Hyundai Motor Company",
+    "requested_url": "https://www.hyundai.com/worldwide/en/footer/contact-legal/legal",
+    "status": 200,
+    "final_url": "https://www.hyundai.com/worldwide/en/footer/contact-legal/legal",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/11-a9e1886e5bf4a188.txt",
+    "text_chars": 6767
+  },
+  {
+    "id": "a9e1886e5bf4a188",
+    "name": "Chartwell Strategy Group on behalf of Hyundai Motor Company",
+    "requested_url": "https://www.hyundai.com/worldwide/en/footer/contact-legal/site-map",
+    "status": 200,
+    "final_url": "https://www.hyundai.com/worldwide/en/footer/contact-legal/site-map",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/12-a9e1886e5bf4a188.txt",
+    "text_chars": 16770
+  },
+  {
+    "id": "b8720f5dfaf58a44",
+    "name": "Chattem, Inc. d/b/a Opella",
+    "requested_url": "https://www.opella.com/en/data-privacy",
+    "status": 200,
+    "final_url": "https://www.opella.com/en/data-privacy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/13-b8720f5dfaf58a44.txt",
+    "text_chars": 11648
+  },
+  {
+    "id": "b8720f5dfaf58a44",
+    "name": "Chattem, Inc. d/b/a Opella",
+    "requested_url": "https://www.opella.com/en/legal-notice",
+    "status": 200,
+    "final_url": "https://www.opella.com/en/legal-notice",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/14-b8720f5dfaf58a44.txt",
+    "text_chars": 21400
+  },
+  {
+    "id": "b0c148f07b9fd482",
+    "name": "Chicago Atlantic Advisors, LLC",
+    "requested_url": "https://www.chicagoatlantic.com/terms-of-use/",
+    "status": 200,
+    "final_url": "https://www.chicagoatlantic.com/terms-of-use/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/15-b0c148f07b9fd482.txt",
+    "text_chars": 5175
+  },
+  {
+    "id": "9cd2dbfdcfe7502e",
+    "name": "Chrysalis Holdings, Inc. (d.b.a. NewDay)",
+    "requested_url": "https://www.newdayusa.com/privacy",
+    "status": 200,
+    "final_url": "https://www.newdayusa.com/privacy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/16-9cd2dbfdcfe7502e.txt",
+    "text_chars": 21467
+  },
+  {
+    "id": "9cd2dbfdcfe7502e",
+    "name": "Chrysalis Holdings, Inc. (d.b.a. NewDay)",
+    "requested_url": "https://www.newdayusa.com/terms-conditions",
+    "status": 200,
+    "final_url": "https://www.newdayusa.com/terms-conditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/17-9cd2dbfdcfe7502e.txt",
+    "text_chars": 50809
+  },
+  {
+    "id": "361bd9179dc564d8",
+    "name": "Chubb INA Holding Company Inc",
+    "requested_url": "https://www.chubb.com/us-en/terms-of-use.html",
+    "status": 200,
+    "final_url": "https://www.chubb.com/us-en/terms-of-use.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/18-361bd9179dc564d8.txt",
+    "text_chars": 39126
+  },
+  {
+    "id": "361bd9179dc564d8",
+    "name": "Chubb INA Holding Company Inc",
+    "requested_url": "https://www.chubb.com/us-en/online-privacy-policy.html",
+    "status": 200,
+    "final_url": "https://www.chubb.com/us-en/online-privacy-policy.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/19-361bd9179dc564d8.txt",
+    "text_chars": 49418
+  },
+  {
+    "id": "4cc7f488396975ec",
+    "name": "Cigna Corporation and subsidiaries",
+    "requested_url": "https://www.thecignagroup.com/about-us/",
+    "status": 200,
+    "final_url": "https://www.thecignagroup.com/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/20-4cc7f488396975ec.txt",
+    "text_chars": 3489
+  },
+  {
+    "id": "4cc7f488396975ec",
+    "name": "Cigna Corporation and subsidiaries",
+    "requested_url": "https://www.thecignagroup.com/about-us/contact-us",
+    "status": 200,
+    "final_url": "https://www.thecignagroup.com/about-us/contact-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/21-4cc7f488396975ec.txt",
+    "text_chars": 2323
+  },
+  {
+    "id": "bafc1edb50991fa2",
+    "name": "City of Hitchcock Economic Development Corporation, TX",
+    "requested_url": "https://www.hitchcockedc.com/privacy_policy/index.php",
+    "status": 200,
+    "final_url": "https://www.hitchcockedc.com/privacy_policy/index.php",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/22-bafc1edb50991fa2.txt",
+    "text_chars": 6123
+  },
+  {
+    "id": "bafc1edb50991fa2",
+    "name": "City of Hitchcock Economic Development Corporation, TX",
+    "requested_url": "https://www.hitchcockedc.com/terms_and_conditions/index.php",
+    "status": 200,
+    "final_url": "https://www.hitchcockedc.com/terms_and_conditions/index.php",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/23-bafc1edb50991fa2.txt",
+    "text_chars": 5966
+  },
+  {
+    "id": "6f8cf8a9f9464f07",
+    "name": "Stillwater Utilities Authority, Oklahoma",
+    "requested_url": "https://stillwaterok.gov/privacy",
+    "status": 200,
+    "final_url": "https://stillwaterok.gov/privacy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/24-6f8cf8a9f9464f07.txt",
+    "text_chars": 5128
+  },
+  {
+    "id": "6f8cf8a9f9464f07",
+    "name": "Stillwater Utilities Authority, Oklahoma",
+    "requested_url": "https://stillwaterok.gov/473/About-Your-Water-Meter",
+    "status": 200,
+    "final_url": "https://stillwaterok.gov/473/About-Your-Water-Meter",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/25-6f8cf8a9f9464f07.txt",
+    "text_chars": 3759
+  },
+  {
+    "id": "0d89458e1a9d3a87",
+    "name": "Cellcube Energy Systems (filing label)",
+    "requested_url": "https://www.cellcube.com/about-us/",
+    "status": 200,
+    "final_url": "https://www.cellcube.com/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/26-0d89458e1a9d3a87.txt",
+    "text_chars": 4071
+  },
+  {
+    "id": "5a0a96f9e9d5a3c6",
+    "name": "bioM\u00e9rieux",
+    "requested_url": "https://www.biomerieux.com/us/en/us-privacy-policy.html",
+    "source_format": "pdf",
+    "status": 200,
+    "final_url": "https://www.biomerieux.com/content/dam/biomerieux-com/10---footer/countries/usa/privacy/bioMerieux-US-CCPA-CPRA-Privacy-Notice-website-01.25.2023-bioMerieux-INC-Clean.pdf",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/27-5a0a96f9e9d5a3c6.txt",
+    "text_chars": 26975
+  },
+  {
+    "id": "5a0a96f9e9d5a3c6",
+    "name": "bioM\u00e9rieux",
+    "requested_url": "https://www.biomerieux.com/us/en/service-and-support/terms-conditions.html",
+    "status": 200,
+    "final_url": "https://www.biomerieux.com/us/en/service-and-support/terms-conditions.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/28-5a0a96f9e9d5a3c6.txt",
+    "text_chars": 4456
+  },
+  {
+    "id": "2325b194384e7c09",
+    "name": "BISSELL Homecare, Inc.",
+    "requested_url": "https://www.bissell.com/en-us/about-us.html",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "2325b194384e7c09",
+    "name": "BISSELL Homecare, Inc.",
+    "requested_url": "https://www.bissell.com/en-us/about-us/sustainability.html",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "337d4bfe32cfb526",
+    "name": "Blackrock Fund Services Group, LLC",
+    "requested_url": "https://www.blackrock.com/corporate/about-us",
+    "status": 200,
+    "final_url": "https://www.blackrock.com/corporate/about-us/who-we-are/about-blackrock",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/31-337d4bfe32cfb526.txt",
+    "text_chars": 13450
+  },
+  {
+    "id": "337d4bfe32cfb526",
+    "name": "Blackrock Fund Services Group, LLC",
+    "requested_url": "https://www.blackrock.com/corporate/about-us/who-we-are/history",
+    "status": 200,
+    "final_url": "https://www.blackrock.com/corporate/about-us/who-we-are/history",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/32-337d4bfe32cfb526.txt",
+    "text_chars": 6790
+  },
+  {
+    "id": "9a4932d85ea436ab",
+    "name": "Blackrock Funds Services, Llc.",
+    "requested_url": "https://www.blackrock.com/corporate/about-us",
+    "status": 200,
+    "final_url": "https://www.blackrock.com/corporate/about-us/who-we-are/about-blackrock",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/33-9a4932d85ea436ab.txt",
+    "text_chars": 13446
+  },
+  {
+    "id": "9a4932d85ea436ab",
+    "name": "Blackrock Funds Services, Llc.",
+    "requested_url": "https://www.blackrock.com/corporate/about-us/who-we-are/history",
+    "status": 200,
+    "final_url": "https://www.blackrock.com/corporate/about-us/who-we-are/history",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/34-9a4932d85ea436ab.txt",
+    "text_chars": 6786
+  },
+  {
+    "id": "3f8960d91ea35840",
+    "name": "Blackrock Funds Services Group LLC",
+    "requested_url": "https://www.blackrock.com/corporate/about-us",
+    "status": 200,
+    "final_url": "https://www.blackrock.com/corporate/about-us/who-we-are/about-blackrock",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/35-3f8960d91ea35840.txt",
+    "text_chars": 13450
+  },
+  {
+    "id": "3f8960d91ea35840",
+    "name": "Blackrock Funds Services Group LLC",
+    "requested_url": "https://www.blackrock.com/corporate/about-us/who-we-are/history",
+    "status": 200,
+    "final_url": "https://www.blackrock.com/corporate/about-us/who-we-are/history",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/36-3f8960d91ea35840.txt",
+    "text_chars": 6790
+  },
+  {
+    "id": "9c8732fc9f458ea8",
+    "name": "Blackrock Funds Services Group LLC (formerly Blackrock Capital Management Inc.)",
+    "requested_url": "https://www.blackrock.com/corporate/about-us",
+    "status": 200,
+    "final_url": "https://www.blackrock.com/corporate/about-us/who-we-are/about-blackrock",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/37-9c8732fc9f458ea8.txt",
+    "text_chars": 13495
+  },
+  {
+    "id": "9c8732fc9f458ea8",
+    "name": "Blackrock Funds Services Group LLC (formerly Blackrock Capital Management Inc.)",
+    "requested_url": "https://www.blackrock.com/corporate/about-us/who-we-are/history",
+    "status": 200,
+    "final_url": "https://www.blackrock.com/corporate/about-us/who-we-are/history",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/38-9c8732fc9f458ea8.txt",
+    "text_chars": 6835
+  },
+  {
+    "id": "d8a1dd0d78d8fb72",
+    "name": "Slate Auto (represented by Blue Owl Group)",
+    "requested_url": "https://www.slate.auto/en/about",
+    "status": 200,
+    "final_url": "https://www.slate.auto/en/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/39-d8a1dd0d78d8fb72.txt",
+    "text_chars": 3227
+  },
+  {
+    "id": "1f0962497402630c",
+    "name": "BMO Bank N.a. (fka BMO Harris Bank N.a.)",
+    "requested_url": "https://www.bmo.com/main/about-bmo/privacy-security/our-privacy-code/digital-privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.bmo.com/en-ca/main/about-bmo/who-we-are/business-conduct/privacy-code/digital-privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/40-1f0962497402630c.txt",
+    "text_chars": 24743
+  },
+  {
+    "id": "1f0962497402630c",
+    "name": "BMO Bank N.a. (fka BMO Harris Bank N.a.)",
+    "requested_url": "https://www.bmo.com/en-us/main/about-us/",
+    "status": 200,
+    "final_url": "https://www.bmo.com/en-us/main/about-bmo/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/41-1f0962497402630c.txt",
+    "text_chars": 12426
+  },
+  {
+    "id": "678af83b0f71271c",
+    "name": "BMO Financial Corp. F/k/a BMO Harris Bank",
+    "requested_url": "https://www.bmo.com/main/about-bmo/privacy-security/our-privacy-code/?icid=tl-FEAT2953BRND4-AJBMOH351",
+    "status": 200,
+    "final_url": "https://www.bmo.com/en-ca/main/about-bmo/who-we-are/business-conduct/privacy-code/?icid=tl-FEAT2953BRND4-AJBMOH351",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/42-678af83b0f71271c.txt",
+    "text_chars": 6199
+  },
+  {
+    "id": "678af83b0f71271c",
+    "name": "BMO Financial Corp. F/k/a BMO Harris Bank",
+    "requested_url": "https://www.bmo.com/main/about-bmo/?icid=tl-FEAT2953BRND4-AJBMOH348",
+    "status": 200,
+    "final_url": "https://www.bmo.com/en-ca/main/about-bmo/?icid=tl-FEAT2953BRND4-AJBMOH348",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/43-678af83b0f71271c.txt",
+    "text_chars": 11183
+  },
+  {
+    "id": "4730408907d61aba",
+    "name": "Nareit (via Bockorny Group)",
+    "requested_url": "https://www.reit.com/what-reit/frequently-asked-questions-about-reits",
+    "status": 200,
+    "final_url": "https://www.reit.com/what-reit/frequently-asked-questions-about-reits",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/44-4730408907d61aba.txt",
+    "text_chars": 11457
+  },
+  {
+    "id": "432464f4a631a55a",
+    "name": "Boldyn Networks (fka Signal Point Systems, Inc.)",
+    "requested_url": "https://www.boldyn.com/about-us",
+    "status": 200,
+    "final_url": "https://www.boldyn.com/about-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/45-432464f4a631a55a.txt",
+    "text_chars": 7388
+  },
+  {
+    "id": "207660a3e944c480",
+    "name": "Boston Scientific (office-based Facility Assn Obfa) (fka Uspa)",
+    "requested_url": "https://www.bostonscientific.com/en-US/consumer-health-data-privacy-policy.html",
+    "status": 200,
+    "final_url": "https://www.bostonscientific.com/en-US/consumer-health-data-privacy-policy.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/46-207660a3e944c480.txt",
+    "text_chars": 15123
+  },
+  {
+    "id": "207660a3e944c480",
+    "name": "Boston Scientific (office-based Facility Assn Obfa) (fka Uspa)",
+    "requested_url": "https://www.bostonscientific.com/en-US/about-us.html",
+    "status": 200,
+    "final_url": "https://www.bostonscientific.com/en-US/about-us.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/47-207660a3e944c480.txt",
+    "text_chars": 7994
+  },
+  {
+    "id": "96d884a883507f54",
+    "name": "Branded Cities DC, LLC",
+    "requested_url": "https://brandedcities.com/aboutus/ourcompany/",
+    "status": 200,
+    "final_url": "https://brandedcities.com/aboutus/ourcompany/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/48-96d884a883507f54.txt",
+    "text_chars": 2722
+  },
+  {
+    "id": "96d884a883507f54",
+    "name": "Branded Cities DC, LLC",
+    "requested_url": "https://brandedcities.com/aboutus/corpsocialresponsibility/",
+    "status": 200,
+    "final_url": "https://brandedcities.com/aboutus/corpsocialresponsibility/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-188/49-96d884a883507f54.txt",
+    "text_chars": 1728
+  }
+]

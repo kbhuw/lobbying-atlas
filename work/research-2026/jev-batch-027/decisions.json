@@ -1,0 +1,118 @@
+{
+  "ce68a7160ea26063": {
+    "name": "Specialty Steel Industy of North America",
+    "description": "Trade association representing North American specialty-metals producers through trade-policy advocacy and technical education.",
+    "website": "https://www.ssina.com/",
+    "kind": "Trade association",
+    "ownership": "Unknown",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Direct official SSINA homepage expands Specialty Steel Industry of North America and describes specialty-metals trade advocacy and technical resources. Confirms the filed Industy spelling variant, already included in a verified merge. Ownership remains Unknown.",
+    "notes": "Direct official SSINA homepage expands Specialty Steel Industry of North America and describes specialty-metals trade advocacy and technical resources. Confirms the filed Industy spelling variant, already included in a verified merge. Ownership remains Unknown.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/57d817e3-a476-4193-88f4-fc3d38b44c3d/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.ssina.com/about-us/",
+        "label": "Organization evidence",
+        "claim": "Official SSINA page identifies the association and its specialty-metal industry representation."
+      },
+      {
+        "url": "https://www.ssina.com/",
+        "label": "Primary organization evidence checked September 18, 2026",
+        "claim": "Direct official SSINA homepage expands Specialty Steel Industry of North America and describes specialty-metals trade advocacy and technical resources. Confirms the filed Industy spelling variant, already included in a verified merge. Ownership remains Unknown."
+      }
+    ],
+    "as_of": "2026-09-18",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://www.ssina.com/wp-content/themes/ssina/resources/img/Logo/SSINA__logo__Medium.png",
+    "logo_kind": "logo",
+    "logo_source_url": "https://www.ssina.com/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "5ff10fc21ede7e12": {
+    "name": "Reinsurance Assn of America",
+    "description": "Trade association representing reinsurance companies and advocating on U.S. insurance and reinsurance policy.",
+    "website": "https://www.reinsurance.org/RAA/RAA/Default.aspx",
+    "kind": "Association",
+    "ownership": "Unknown",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Direct official Reinsurance Association of America homepage expands RAA in board-election and advocacy notices and describes reinsurance education, research and policy work. Member companies are separate; tax status remains unverified.",
+    "notes": "Direct official Reinsurance Association of America homepage expands RAA in board-election and advocacy notices and describes reinsurance education, research and policy work. Member companies are separate; tax status remains unverified.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/b0bf4977-7344-4ba9-be69-f402ef2943c7/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.reinsurance.org/RAA/RAA/Default.aspx",
+        "label": "Organization evidence",
+        "claim": "RAA publishes current member activity, officer elections, legislative testimony and reinsurance policy advocacy."
+      },
+      {
+        "url": "https://www.reinsurance.org/RAA/RAA/Default.aspx",
+        "label": "Primary organization evidence checked September 18, 2026",
+        "claim": "Direct official Reinsurance Association of America homepage expands RAA in board-election and advocacy notices and describes reinsurance education, research and policy work. Member companies are separate; tax status remains unverified."
+      }
+    ],
+    "as_of": "2026-09-18",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://www.reinsurance.org/images/favicon.ico",
+    "logo_kind": "site_icon",
+    "logo_source_url": "https://www.reinsurance.org/RAA/RAA/Default.aspx",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "fb6ef2a94940196d": {
+    "name": "Association Of Independent Research Institutes",
+    "description": "Association representing independent biomedical and behavioral research institutes and supporting their ability to conduct health research.",
+    "kind": "Trade / professional association",
+    "ownership": "Nonprofit / tax-exempt",
+    "website": "https://www.airi.org/",
+    "status": "sourced",
+    "review_outcome": "confirmed",
+    "identity_evidence": "Official eligibility page expands Association of Independent Research Institutes and describes biomedical and behavioral research membership. Official articles of incorporation identify the exact corporation under the District of Columbia Non-Profit Corporation Act. Current homepage mission corroborates activity; unrelated placeholder template text is not used as evidence.",
+    "notes": "Official eligibility page expands Association of Independent Research Institutes and describes biomedical and behavioral research membership. Official articles of incorporation identify the exact corporation under the District of Columbia Non-Profit Corporation Act. Current homepage mission corroborates activity; unrelated placeholder template text is not used as evidence.",
+    "as_of": "2026-09-18",
+    "checked_at": "2026-09-18",
+    "featured": false,
+    "legal_form": "District of Columbia nonprofit corporation",
+    "logo_url": "https://www.airi.org/assets/site/logo.png",
+    "logo_kind": "logo",
+    "logo_source_url": "https://www.airi.org/",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/915e7274-8a21-4b26-aa8e-42ebb1855f28/print/",
+        "label": "Lobbying disclosure",
+        "claim": "Original disclosed client name."
+      },
+      {
+        "url": "https://www.airi.org/",
+        "label": "Official organization evidence",
+        "claim": "Association representing independent biomedical and behavioral research institutes and supporting their ability to conduct health research."
+      },
+      {
+        "label": "Official website branding",
+        "url": "https://www.airi.org/",
+        "claim": "Organization logo or site icon identified on official site; image response verified September 9, 2026."
+      },
+      {
+        "url": "https://airi.org/images/downloads/Governance/airi_articles_of_incorpration_.pdf",
+        "label": "Primary organization evidence checked September 18, 2026",
+        "claim": "Official eligibility page expands Association of Independent Research Institutes and describes biomedical and behavioral research membership. Official articles of incorporation identify the exact corporation under the District of Columbia Non-Profit Corporation Act. Current homepage mission corroborates activity; unrelated placeholder template text is not used as evidence."
+      }
+    ],
+    "logo_status": "official_site_asset",
+    "website_status": "verified"
+  }
+}

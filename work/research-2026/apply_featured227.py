@@ -1,0 +1,16 @@
+import json,pathlib,copy
+r=pathlib.Path('work/research-2026');p=json.load(open(r/'reviewed.json'));assert not (r/'featured227-before.json').exists();before={};dec=[]
+items={
+'1e4b1987ae376ea1':('https://www.americancirculartextiles.com/terms-of-use','The official terms explicitly identify American Circular Textiles as a registered DBA of Circular Services Group II, LLC, matching the disclosed organization. Identity is confirmed; current ownership remains unknown.'),
+'6d3b37da0af97231':('https://trynowadays.com/pages/terms-of-service','Nowadays’ official terms explicitly identify Disruptive Beverage, Inc. as the website and service operator, matching the disclosed DBA. Identity is confirmed; current ownership remains unknown.'),
+'d86bcea9808142ca':('https://www.ditto.com/legal/privacy-policy','The official privacy policy explicitly identifies DittoLive Incorporated as Ditto, matching the reported company and official software business. Identity is confirmed; current ownership remains unknown.'),
+'5c2a78e092644db8':('https://mindsetdc.com/news-press/mindset-in-the-news/','Mindset’s official newsroom explicitly reports the Cypress Group rebranding as Mindset and describes its public-policy advice and advocacy business. The operating-name continuity is confirmed; ownership remains unknown.'),
+'6ed7603a43b4253b':('https://www.fortrexsolutions.com/fortrex-website-terms-and-conditions/','Official terms dated May 21, 2026 identify Packers Sanitation Services, Inc., Ltd. doing business as Fortrex. This confirms the corrected operating name and legal identity; current ownership remains unknown.'),
+'83af0c05307c49aa':('https://www.lppcombustion.com/management-team','The official management page identifies LPP Combustion, LLC and its combustion-engineering team. This corroborates the company behind the reported LPP Combustion label. Identity is confirmed; current ownership remains unknown.'),
+'16b90f4ca0d97620':('https://www.ebf.eu/about-us/','The European Banking Federation’s official profile identifies the federation and its role representing national banking associations in Europe. The organization identity is confirmed; no tax-exempt status or ownership category is inferred merely from being a federation.'),
+'269f917d11349107':('https://www.jama.or.jp/english/about/profile.html','JAMA’s official profile gives the exact Japan Automobile Manufacturers Association, Inc. name, industry mission, and North American office in Washington, DC. The organization identity is confirmed; tax status and ownership remain separately unverified.')}
+for i,(url,n) in items.items():
+ v=p[i];before[i]=copy.deepcopy(v);v.update(review_outcome='confirmed',checked_at='2026-09-13',notes=n,identity_evidence=n);v['sources'].append(dict(url=url,label='Primary identity review',claim=n));dec.append(dict(id=i,url=url,notes=n))
+for k,v in [('before',before),('decisions',dec)]: (r/f'featured227-{k}.json').write_text(json.dumps(v,indent=2)+'\n')
+for f in [r/'reviewed.json',pathlib.Path('outputs/2026-research-trial/profiles.json')]:f.write_text(json.dumps(p,ensure_ascii=False,indent=2)+'\n')
+pathlib.Path('lobbying-map/research/reviewed-2026.json').write_text(json.dumps(p,ensure_ascii=False));print('8 identities confirmed; ownership fields preserved')

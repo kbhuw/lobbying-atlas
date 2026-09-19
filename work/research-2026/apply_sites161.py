@@ -1,0 +1,25 @@
+import json,pathlib,copy
+from bs4 import BeautifulSoup
+r=pathlib.Path('work/research-2026');p=json.load(open(r/'reviewed.json'));xs=json.load(open(r/'verified-sites162-next100-review.json'));before={};dec=[]
+assert not (r/'featured161-before.json').exists()
+fix={19:'Compounds sterile medications for healthcare facilities.'}
+special={3:'Official TriEst About body describes agricultural distribution and application services and identifies membership in the TriCal Group. No exact equity ownership is inferred.',8:'Official Trideum body names Trideum Corporation and describes defense engineering, simulation and testing. Certifications and performance claims are not independently validated.',9:'Official Trillium Engineering About body describes gimbaled imaging-system design and production.',11:'Official Triple P contact page explicitly assigns U.S. program implementation and practitioner-training inquiries to Triple P America Inc. Other countries have separate entities.',12:'Official True Photonic, Inc. body describes photonic-computing development and distinguishes modeled performance from a reported measurement. Neither is independently validated here.',13:'Official True Source Honey, LLC body explicitly describes a not-for-profit organization and its traceability/certification program. Certification does not independently establish every member product claim.',15:'Official Trusted Semiconductor Solutions body names Trusted Semiconductor Solutions Inc. and describes a fabless semiconductor design business. Accreditation and product reliability are not independently certified.',16:'Official TS Conductor About page describes power-conductor development. Efficiency and field-performance claims are not independently established.',19:'Official Turbare Manufacturing body describes sterile compounding. Its FDA registration and cGMP compliance claims are not independently verified.',21:'Official Turfgrass Producers International body identifies turfgrass industry education, events and advocacy.',23:'Official Twinza body names Twinza Oil Limited and describes development of the Pasca gas and condensate project. Planned production and lower-carbon claims are not established operating outcomes.'}
+for n,v in enumerate(xs):
+ if v['decision']!='confirmed' or n>=24 or n==20:continue
+ i=v['id'];assert p[i]['name']==v['original_name'] and p[i]['review_outcome']!='confirmed';before[i]=copy.deepcopy(p[i]);note=special.get(n,'Official organization body text identifies this organization and supports the activity summarized. Existing ownership evidence is retained without inferring additional ownership from its name.')
+ p[i].update(description=fix.get(n,v['description']),notes=note,identity_evidence=note,review_outcome='confirmed',checked_at='2026-09-13',as_of='2026-09-13')
+ 
+
+ if n==13:p[i]['ownership']='Nonprofit'
+ e=v['fetched_evidence'][0];assert e['http_status']==200
+ s=BeautifulSoup(open(e['cache_path']).read(),'html.parser')
+ for t in s(['script','style','nav','header']):t.decompose()
+ body=' '.join(s.stripped_strings)
+ ss={s['url']:s for s in p[i]['sources']};ss[e['url']]={'url':e['url'],'label':'Official organization evidence','claim':note};p[i]['sources']=list(ss.values());dec.append(dict(id=i,name=p[i]['name'],decision='confirmed',notes=note,fetched_evidence=v['fetched_evidence'],reviewed_body=body))
+(r/'featured161-before.json').write_text(json.dumps(before,indent=2)+'\n');(r/'featured161-decisions.json').write_text(json.dumps(dec,indent=2)+'\n')
+v=json.load(open(r/'verified-sites160-root-input.json'))[5];i=v['id'];before[i]=copy.deepcopy(p[i]);e=json.load(open(r/'featured161-extra-evidence.json'))[1];note='Official Technology Applications Group, Inc. About page explicitly names the company and describes development of Tagnite magnesium coatings. Comparative performance and health claims are not independently validated.'
+p[i].update(description='Develops magnesium coatings, including the Tagnite anodizing process used on aerospace and other industrial components.',review_outcome='confirmed',notes=note,identity_evidence=note,checked_at='2026-09-13',as_of='2026-09-13');p[i]['sources'].append(dict(url=e['url'],label='Official company identity and activity',claim=note));dec.append(dict(id=i,name=p[i]['name'],decision='confirmed',notes=note,fetched_evidence=[e]));(r/'featured161-before.json').write_text(json.dumps(before,indent=2)+'\n');(r/'featured161-decisions.json').write_text(json.dumps(dec,indent=2)+'\n')
+(r/'featured161-deferred.json').write_text(json.dumps([dict(id=xs[20]['id'],name=xs[20]['original_name'],reason='News index lists headlines; inspect article or company body before acceptance.')],indent=2)+'\n')
+(r/'featured161-remaining162.json').write_text(json.dumps([v for n,v in enumerate(xs) if n>=24],indent=2)+'\n')
+for f in [r/'reviewed.json',pathlib.Path('outputs/2026-research-trial/profiles.json')]:f.write_text(json.dumps(p,ensure_ascii=False,indent=2)+'\n')
+pathlib.Path('lobbying-map/research/reviewed-2026.json').write_text(json.dumps(p,ensure_ascii=False));print(len(dec),'identity confirmations saved')

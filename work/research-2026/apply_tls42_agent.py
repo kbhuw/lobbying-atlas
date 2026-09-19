@@ -1,0 +1,11 @@
+import json,pathlib,copy,collections
+r=pathlib.Path(__file__).resolve().parents[2];b=r/'work/research-2026/tls-recovery42';path=r/'work/research-2026/reviewed.json';p=json.loads(path.read_text());a=json.load(open(b/'agent-first30.json'));m={x['id']:x for x in json.load(open(b/'matches.json'))};backup={x['id']:copy.deepcopy(p[x['id']]) for x in a}
+for d in a:
+ id=d['id'];d['decision']='confirm' if d['decision']=='propose' else 'hold'
+ if id in {'cc77ddc1840de27f','44dbef629ab17e81','89d76fba2cdd9a0b'}:d.update(decision='hold',evidence='Exact filed Inc legal identity still requires direct corroboration; cached pages establish operating brand and address.')
+ if d['decision']!='confirm':continue
+ x=p[id];assert x['review_outcome']=='partial';reg=m[id]['matches'][0]['registration'];proof=d['evidence']+' Registration: '+reg['client_name']+', '+reg['address']+', '+reg['city']+'; '+reg['archive']+' / '+reg['member'];old=x.get('identity_evidence','');x.update(review_outcome='confirmed',website_status='verified',status='sourced',checked_at='2026-09-12',as_of='2026-09-12',identity_evidence=(old if isinstance(old,str) else json.dumps(old))+' '+proof);x['sources'] += [{'url':d['url'],'label':'Official identity and address corroboration','claim':proof},{'url':reg['source_url'],'label':'House registration archive: '+reg['member'],'claim':proof}]
+ if id=='68c14fb3f2601144':x['notes']=x.get('notes','')+' Official Ravelin Defense site says formerly ArmorWorks and describes its formation from ArmorWorks Enterprises and Fox Valley Metal Tech. Original lobbying name retained; this does not merge those legal entities.'
+(b/'agent30-before.json').write_text(json.dumps(backup,indent=2,ensure_ascii=False));(b/'agent30-decisions.json').write_text(json.dumps(a,indent=2,ensure_ascii=False));ids=[x['id'] for x in a+json.load(open(b/'local28-decisions.json'))];assert len(ids)==58 and set(ids)==set(m)
+for f,pretty in [(path,True),(r/'lobbying-map/research/reviewed-2026.json',False),(r/'outputs/2026-research-trial/profiles.json',True)]:f.write_text(json.dumps(p,indent=2 if pretty else None,ensure_ascii=False))
+print(collections.Counter(x['decision'] for x in a));print(collections.Counter(x['review_outcome'] for x in p.values()))

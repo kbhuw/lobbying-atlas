@@ -1,0 +1,692 @@
+[
+  {
+    "id": "3d0b44e30fceb933",
+    "name": "Cenovus US Corporation",
+    "requested_url": "https://www.cenovus.com/",
+    "status": 200,
+    "final_url": "https://www.cenovus.com/",
+    "text_chars": 3820,
+    "logo_candidates": [
+      {
+        "src": "https://mc-3405db07-6660-4b4e-8bc8-1763-cdn-endpoint.azureedge.net/-/media/Project/WWW/Images/Brand/Cenovus-logo.svg?iar=0&rev=82570005e0574489ac4907fd58fbb93f&hash=978FB6CA2A7572EA5858E9269CF9AAF6",
+        "alt": "Cenovus Energy"
+      },
+      {
+        "alt": "Cenovus logo in white",
+        "src": "Theme/-/media/Themes/Cenovus/WWW/WWWTheme/images/custom/2021-CVE-Logo-RGB.png"
+      },
+      {
+        "alt": "Cenovus logo",
+        "src": "Theme/-/media/Themes/Cenovus/WWW/WWWTheme/images/custom/2021-CVE-Logo-RGB.png"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-186/3d0b44e30fceb933.txt"
+  },
+  {
+    "id": "8a2e6d6dd4d7d840",
+    "name": "Centegix Holdings, LLC",
+    "requested_url": "https://www.centegix.com/",
+    "status": 200,
+    "final_url": "https://www.centegix.com/",
+    "text_chars": 11132,
+    "logo_candidates": [
+      {
+        "src": "https://cdn.prod.website-files.com/6a68cb038b09643c6a1a517d/6a72292f8c9792b340ace35f_centegix_logo.svg",
+        "loading": "lazy",
+        "alt": "",
+        "class": "nav_logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a68cb038b09643c6a1a517d/6a762cbb9c6d278c5bf4e81a_Aldine_black_logo.svg",
+        "loading": "lazy",
+        "alt": "",
+        "class": "logos_logo-item"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a68cb038b09643c6a1a517d/6a762cbb9c6d278c5bf4e81d_CCSD_black_logo.svg",
+        "loading": "lazy",
+        "alt": "",
+        "class": "logos_logo-item"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a68cb038b09643c6a1a517d/6a762cbbc7f94e3604d23c8a_FUSD_black_logo.svg",
+        "loading": "lazy",
+        "alt": "",
+        "class": "logos_logo-item"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a68cb038b09643c6a1a517d/6a762cbbe8270c08b1ef318a_Martin_County_black_logo.svg",
+        "loading": "lazy",
+        "alt": "",
+        "class": "logos_logo-item"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a68cb038b09643c6a1a517d/6a762cbb4697b3c02101fcbd_Miami_black_logo.svg",
+        "loading": "lazy",
+        "alt": "",
+        "class": "logos_logo-item"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a68cb038b09643c6a1a517d/6a762cbb732b499a3754f8c1_Vail_Health_black_logo.svg",
+        "loading": "lazy",
+        "alt": "",
+        "class": "logos_logo-item"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a68cb038b09643c6a1a517d/6a72292f8c9792b340ace35f_centegix_logo.svg",
+        "loading": "lazy",
+        "alt": "",
+        "class": "footer_logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a68cb038b09643c6a1a517d/6a6d481e43f86e56dba6fa41_Aldine_logo.svg",
+        "loading": "lazy",
+        "alt": "Aldine Independent School District",
+        "class": "footer_trust_logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a68cb038b09643c6a1a517d/6a6d4806ba67a12647d50da7_CCSD_logo.svg",
+        "loading": "lazy",
+        "alt": "Clark County School District",
+        "class": "footer_trust_logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a68cb038b09643c6a1a517d/6a6d47b0b57a3becc8953668_FUSD_logo.svg",
+        "loading": "lazy",
+        "alt": "Fontana Unified School District",
+        "class": "footer_trust_logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a68cb038b09643c6a1a517d/6a6d473943f86e56dba6e1b2_Miami%201.svg",
+        "loading": "lazy",
+        "alt": "Miami-Dade County Public Schools",
+        "class": "footer_trust_logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a68cb038b09643c6a1a517d/6a6d48932bbe9fe135b5183b_Martin%20County%201.svg",
+        "loading": "lazy",
+        "alt": "Martin County School District",
+        "class": "footer_trust_logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6a68cb038b09643c6a1a517d/6a6d48d4a1c4172e09db6c8d_Vail%20Health%201.svg",
+        "loading": "lazy",
+        "alt": "Vail Health",
+        "class": "footer_trust_logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-186/8a2e6d6dd4d7d840.txt"
+  },
+  {
+    "id": "90d02823316d6083",
+    "name": "Center for Organ Recovery and Education \u2014 on behalf of Donor Alliance",
+    "requested_url": "https://www.core.org/",
+    "error": "HTTP Error 406: Not Acceptable"
+  },
+  {
+    "id": "63a26bd3030c0a3c",
+    "name": "Centre Firearms Co.",
+    "requested_url": "https://www.centrefirearms.com/",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.centrefirearms.com'. (_ssl.c:1129)>"
+  },
+  {
+    "id": "b84a4d85946e3959",
+    "name": "Centrient Pharmaceuticals LLC",
+    "requested_url": "https://centrient.com/",
+    "status": 200,
+    "final_url": "https://centrient.com/",
+    "text_chars": 3074,
+    "logo_candidates": [
+      {
+        "class": "img-responsive",
+        "src": "/assets/images/logo.png",
+        "alt": "logo Centrient"
+      },
+      {
+        "src": "/assets/images/logo-white.png",
+        "alt": "Logo Centrient White"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-186/b84a4d85946e3959.txt"
+  },
+  {
+    "id": "a586c56e9bfbfafe",
+    "name": "CEO Advisors",
+    "requested_url": "https://www.ceoadvisors.net/",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)>"
+  },
+  {
+    "id": "d428c7b7616de476",
+    "name": "Ceres Environmental Services, Inc.",
+    "requested_url": "https://www.ceresenvironmental.com/",
+    "status": 200,
+    "final_url": "https://ceresenvironmental.com/",
+    "text_chars": 8225,
+    "logo_candidates": [
+      {
+        "src": "/ceres-logo.png",
+        "alt": "CERES Env Logo",
+        "class": "h-8 w-auto sm:h-10"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-186/d428c7b7616de476.txt"
+  },
+  {
+    "id": "b4e063e4022a9e47",
+    "name": "Cerescan",
+    "requested_url": "https://cerescan.com/",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "e53c25e96327fc89",
+    "name": "CFI Custom Military Solutions",
+    "requested_url": "https://cfi-solutions.com/",
+    "status": 202,
+    "final_url": "https://cfi-solutions.com/",
+    "text_chars": 90,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-186/e53c25e96327fc89.txt"
+  },
+  {
+    "id": "411dadce4230d620",
+    "name": "CGCN Group \u2014 on behalf of Bradford White Corporation",
+    "requested_url": "https://www.bradfordwhitecorporation.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "37d127777f0be149",
+    "name": "CH4 Systems LLC",
+    "requested_url": "https://www.ch4-systems.com/",
+    "status": 200,
+    "final_url": "https://www.ch4-systems.com/",
+    "text_chars": 4086,
+    "logo_candidates": [
+      {
+        "width": "1184",
+        "height": "816",
+        "src": "https://www.ch4-systems.com/wp-content/uploads/2025/09/CH4-Group-Logo_New.png",
+        "class": "attachment-full size-full",
+        "alt": "CH4 Systems - Energy Solutions",
+        "loading": "lazy",
+        "decoding": "async",
+        "srcset": "https://www.ch4-systems.com/wp-content/uploads/2025/09/CH4-Group-Logo_New.png 1184w, https://www.ch4-systems.com/wp-content/uploads/2025/09/CH4-Group-Logo_New-300x207.png 300w, https://www.ch4-systems.com/wp-content/uploads/2025/09/CH4-Group-Logo_New-1024x706.png 1024w",
+        "sizes": "auto, (max-width: 1184px) 100vw, 1184px"
+      },
+      {
+        "width": "1184",
+        "height": "816",
+        "src": "https://www.ch4-systems.com/wp-content/uploads/2025/09/CH4-Group-Logo_New.png",
+        "class": "attachment-full size-full",
+        "alt": "CH4 Systems - Energy Solutions",
+        "loading": "lazy",
+        "decoding": "async",
+        "srcset": "https://www.ch4-systems.com/wp-content/uploads/2025/09/CH4-Group-Logo_New.png 1184w, https://www.ch4-systems.com/wp-content/uploads/2025/09/CH4-Group-Logo_New-300x207.png 300w, https://www.ch4-systems.com/wp-content/uploads/2025/09/CH4-Group-Logo_New-1024x706.png 1024w",
+        "sizes": "auto, (max-width: 1184px) 100vw, 1184px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-186/37d127777f0be149.txt"
+  },
+  {
+    "id": "bf53efddefc53f4f",
+    "name": "CF Secured LLC",
+    "requested_url": "https://www.cantor.com/cf-secured-llc-disclosures/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "1b7852474b270b98",
+    "name": "Charleston County Aviation Authority",
+    "requested_url": "https://www.iflychs.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "3876fb56244e8e3c",
+    "name": "Chapman Development LLC",
+    "requested_url": "https://www.chapmandevelopment.com/",
+    "status": 200,
+    "final_url": "https://www.chapmandevelopment.com/",
+    "text_chars": 118,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-186/3876fb56244e8e3c.txt"
+  },
+  {
+    "id": "a9e1886e5bf4a188",
+    "name": "Chartwell Strategy Group on behalf of Hyundai Motor Company",
+    "requested_url": "https://www.hyundai.com/worldwide/en/",
+    "status": 200,
+    "final_url": "https://www.hyundai.com/worldwide/en",
+    "text_chars": 3672,
+    "logo_candidates": [
+      {
+        "src": "/etc/designs/hyundai/ww/en/images/common/logo.png",
+        "width": "155",
+        "height": "22",
+        "alt": "hyundai",
+        "class": "logo-default"
+      },
+      {
+        "src": "/content/dam/hyundai/ww/en/images/main/new/common/logo-wh.png",
+        "width": "155",
+        "height": "22",
+        "alt": "hyundai",
+        "class": "logo-wh"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-186/a9e1886e5bf4a188.txt"
+  },
+  {
+    "id": "789870a296dc32b0",
+    "name": "Cheese Importers Association of America",
+    "requested_url": "https://theciaa.org/",
+    "status": 202,
+    "final_url": "https://theciaa.org/",
+    "text_chars": 94,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-186/789870a296dc32b0.txt"
+  },
+  {
+    "id": "5af3f4d561c4f3d7",
+    "name": "Chemo Mouthpiece",
+    "requested_url": "https://chemomouthpiece.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "b8720f5dfaf58a44",
+    "name": "Chattem, Inc. d/b/a Opella",
+    "requested_url": "https://www.opella.com/",
+    "status": 200,
+    "final_url": "https://www.opella.com/en",
+    "text_chars": 3530,
+    "logo_candidates": [
+      {
+        "class": "max-w-60 max-h-[40px] w-auto md:block h-auto pr-2 lg:pr-0",
+        "src": "/dam/jcr:a6c86de8-25cd-480c-a76e-5078fcbd0fa1/Opella%20logo.svg",
+        "alt": "Home | Opella | go to homepage"
+      },
+      {
+        "class": "h-[32px] w-auto my-[14px]",
+        "src": "/dam/jcr:a6c86de8-25cd-480c-a76e-5078fcbd0fa1/Opella%20logo.svg",
+        "alt": "Opella"
+      },
+      {
+        "class": "h-[32px] w-auto my-[14px]",
+        "src": "/dam/jcr:a6c86de8-25cd-480c-a76e-5078fcbd0fa1/Opella%20logo.svg",
+        "alt": "Opella"
+      },
+      {
+        "src": "/dam/jcr:f38ea294-efa2-4b65-95ed-f58b3c5f103f/opella_logo-intro-anim.svg",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-fade-in": "true",
+        "class": "w-full object-cover block ",
+        "alt": "Opella"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-186/b8720f5dfaf58a44.txt"
+  },
+  {
+    "id": "8b4f5b4be3b5372e",
+    "name": "CHC Community Care, LLC",
+    "requested_url": "https://continuecare.org/",
+    "status": 202,
+    "final_url": "https://continuecare.org/",
+    "text_chars": 83,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-186/8b4f5b4be3b5372e.txt"
+  },
+  {
+    "id": "b1233c508b258071",
+    "name": "Chickasaw Telephone Company",
+    "requested_url": "https://chickasawphone.net/",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "id": "45fd69bd8779c674",
+    "name": "Chey Institute for Advanced Studies",
+    "requested_url": "https://chey.org/Eng/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "633024cfa07ec9ae",
+    "name": "CHG Healthcare",
+    "requested_url": "https://chghealthcare.com/",
+    "status": 200,
+    "final_url": "https://chghealthcare.com/",
+    "text_chars": 75,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-186/633024cfa07ec9ae.txt"
+  },
+  {
+    "id": "b0c148f07b9fd482",
+    "name": "Chicago Atlantic Advisors, LLC",
+    "requested_url": "https://www.chicagoatlantic.com/",
+    "status": 200,
+    "final_url": "https://www.chicagoatlantic.com/",
+    "text_chars": 6053,
+    "logo_candidates": [
+      {
+        "decoding": "async",
+        "src": "https://www.chicagoatlantic.com/wp-content/uploads/2026/01/Hugo_logo-for-website.png",
+        "class": "attachment-post-thumbnail size-post-thumbnail wp-post-image",
+        "alt": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-186/b0c148f07b9fd482.txt"
+  },
+  {
+    "id": "d1f45a3d9f55b3e3",
+    "name": "Children\u2019s Tumor Foundation",
+    "requested_url": "https://www.ctf.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "9cd2dbfdcfe7502e",
+    "name": "Chrysalis Holdings, Inc. (d.b.a. NewDay)",
+    "requested_url": "https://www.newdayusa.com/about/leadership/rob-posner",
+    "status": 200,
+    "final_url": "https://www.newdayusa.com/about/leadership/rob-posner",
+    "text_chars": 2483,
+    "logo_candidates": [
+      {
+        "alt": "NewDay USA Logo",
+        "fetchpriority": "high",
+        "loading": "eager",
+        "width": "163",
+        "height": "23",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "",
+        "style": "color:transparent;display:block",
+        "src": "https://d2es99c6y96mlu.cloudfront.net/logo_main_1_785dfdcea5.svg"
+      },
+      {
+        "alt": "NewDay USA Home Logo",
+        "fetchpriority": "high",
+        "loading": "eager",
+        "width": "65",
+        "height": "50",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "",
+        "style": "color:transparent;display:block",
+        "src": "https://d2es99c6y96mlu.cloudfront.net/Clip_path_group_c331d57f7b.svg"
+      },
+      {
+        "alt": "",
+        "fetchpriority": "auto",
+        "loading": "lazy",
+        "width": "212",
+        "height": "32",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "",
+        "style": "color:transparent;display:block",
+        "src": "https://d2es99c6y96mlu.cloudfront.net/NDUSA_Logo_Blue_Red_rgb_1_1_5e5bee780f.webp"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-186/9cd2dbfdcfe7502e.txt"
+  },
+  {
+    "id": "361bd9179dc564d8",
+    "name": "Chubb INA Holding Company Inc",
+    "requested_url": "https://www.chubb.com/",
+    "status": 200,
+    "final_url": "https://www.chubb.com/us-en/",
+    "text_chars": 7934,
+    "logo_candidates": [
+      {
+        "class": "image",
+        "src": "/content/dam/chubb-sites/chubb/us-en/home_page/chubb-logo-black.png",
+        "alt": null
+      },
+      {
+        "class": "image",
+        "src": "/content/dam/chubb-sites/chubb/us-en/home_page/chubb-logo-black.png",
+        "alt": null,
+        "height": "100%",
+        "width": "100%"
+      },
+      {
+        "class": "image",
+        "alt": "logo",
+        "src": "/content/dam/chubbredesignnext/chubb-logo-white.svg",
+        "loading": "lazy",
+        "width": "100%",
+        "height": "100%"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-186/361bd9179dc564d8.txt"
+  },
+  {
+    "id": "4cc7f488396975ec",
+    "name": "Cigna Corporation and subsidiaries",
+    "requested_url": "https://www.thecignagroup.com/",
+    "status": 200,
+    "final_url": "https://www.thecignagroup.com/",
+    "text_chars": 4017,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-186/4cc7f488396975ec.txt"
+  },
+  {
+    "id": "ad3e535ab7fbac33",
+    "name": "Citadel",
+    "requested_url": "https://www.citadel.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "c938beea0e4db11f",
+    "name": "Citadel Investment Group",
+    "requested_url": "https://www.citadel.com/who-we-are/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "bafc1edb50991fa2",
+    "name": "City of Hitchcock Economic Development Corporation, TX",
+    "requested_url": "https://www.hitchcockedc.com/",
+    "status": 200,
+    "final_url": "https://www.hitchcockedc.com/",
+    "text_chars": 4971,
+    "logo_candidates": [
+      {
+        "loading": "lazy",
+        "src": "website_assets/header-logo 1.png?t=202602171443150",
+        "alt": "Hitchcock, TX EDC",
+        "class": "logo-no-scroll header-logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "website_assets/header-logo2.png?t=202604020930180",
+        "alt": "Hitchcock, TX EDC",
+        "class": "logo-on-scroll d-none"
+      },
+      {
+        "src": "HEDC_Logo_Color (004).jpg?t=202609151220400",
+        "class": "w-100 ",
+        "alt": "",
+        "style": "border-radius:16px;"
+      },
+      {
+        "loading": "lazy",
+        "src": "website_assets/footer-loog.png?t=202602171446220",
+        "alt": "Hitchcock, TX EDC",
+        "class": "footer-logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-186/bafc1edb50991fa2.txt"
+  },
+  {
+    "id": "14e647680796f589",
+    "name": "City of Hope Medical Center",
+    "requested_url": "https://www.cityofhope.org/about-city-of-hope",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "1670835ac78d72d3",
+    "name": "City of Industry, California",
+    "requested_url": "https://cityofindustry.org/",
+    "status": 200,
+    "final_url": "https://cityofindustry.org/",
+    "text_chars": 1496,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-186/1670835ac78d72d3.txt"
+  },
+  {
+    "id": "a21a7f38dc16b27a",
+    "name": "City of Inglewood, California",
+    "requested_url": "https://cityofinglewood.gov/",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)>"
+  },
+  {
+    "id": "5bc871677246ba39",
+    "name": "City of Ithaca, New York",
+    "requested_url": "https://www.cityofithacany.gov/",
+    "status": 200,
+    "final_url": "https://www.cityofithacany.gov/",
+    "text_chars": 3129,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-186/5bc871677246ba39.txt"
+  },
+  {
+    "id": "50d2f066c4941916",
+    "name": "City of Kotzebue, Alaska",
+    "requested_url": "https://cityofkotzebue.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "78c0ae1c4887add3",
+    "name": "City of Lakeville, Minnesota",
+    "requested_url": "https://lakevillemn.gov/",
+    "status": 200,
+    "final_url": "https://lakevillemn.gov/",
+    "text_chars": 2860,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-186/78c0ae1c4887add3.txt"
+  },
+  {
+    "id": "c0d0e44b3ea11141",
+    "name": "City of Laredo, Texas",
+    "requested_url": "https://www.cityoflaredo.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "b8b5d195a0f90476",
+    "name": "City of Lauderdale Lakes, Florida",
+    "requested_url": "https://lauderdalelakes.org/",
+    "status": 200,
+    "final_url": "https://lauderdalelakes.org/",
+    "text_chars": 5908,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-186/b8b5d195a0f90476.txt"
+  },
+  {
+    "id": "f5f25d3540681545",
+    "name": "City of Lincoln, Nebraska",
+    "requested_url": "https://www.lincoln.ne.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "1bdbef3007858846",
+    "name": "City of Lompoc, California",
+    "requested_url": "https://cityoflompoc.gov/",
+    "status": 200,
+    "final_url": "https://cityoflompoc.gov/",
+    "text_chars": 86,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-186/1bdbef3007858846.txt"
+  },
+  {
+    "id": "4026d28a67bc533e",
+    "name": "City of Lynnwood, Washington",
+    "requested_url": "https://www.lynnwoodwa.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "294cc8009cfa30a8",
+    "name": "City of McKinney, Texas",
+    "requested_url": "https://www.mckinneytexas.org/",
+    "status": 200,
+    "final_url": "https://www.mckinneytexas.org/",
+    "text_chars": 2742,
+    "logo_candidates": [
+      {
+        "class": "media",
+        "src": "/ImageRepository/Document?documentID=22031",
+        "alt": "Unidos Logo",
+        "data-delayed-image": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-186/294cc8009cfa30a8.txt"
+  },
+  {
+    "id": "83277a7b8029dd73",
+    "name": "City of Mendota, California",
+    "requested_url": "https://www.cityofmendota.com/",
+    "status": 202,
+    "final_url": "https://www.cityofmendota.com/",
+    "text_chars": 92,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-186/83277a7b8029dd73.txt"
+  },
+  {
+    "id": "83e5ce38516f040c",
+    "name": "City of Mesa, Arizona",
+    "requested_url": "https://www.mesaaz.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "6f8cf8a9f9464f07",
+    "name": "Stillwater Utilities Authority, Oklahoma",
+    "requested_url": "https://stillwaterok.gov/273/Utilities",
+    "status": 200,
+    "final_url": "https://stillwaterok.gov/273/Utilities",
+    "text_chars": 3145,
+    "logo_candidates": [
+      {
+        "alt": "Stillwater OK Logo",
+        "class": "bannerObject",
+        "height": "216",
+        "src": "/ImageRepository/Document?documentID=5637",
+        "width": "500"
+      },
+      {
+        "src": "/ImageRepository/Document?documentID=5637",
+        "class": "fr-dib",
+        "alt": "City of Stillwater Logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-186/6f8cf8a9f9464f07.txt"
+  },
+  {
+    "id": "9520c496b135d582",
+    "name": "City of Yucaipa, California",
+    "requested_url": "https://yucaipa.gov/",
+    "status": 202,
+    "final_url": "https://yucaipa.gov/",
+    "text_chars": 82,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-186/9520c496b135d582.txt"
+  },
+  {
+    "id": "581e0096f6c5803e",
+    "name": "Clark County Water Reclamation District",
+    "requested_url": "https://www.cleanwaterteam.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "da3f9b7e2973f4d9",
+    "name": "Ceibo Technology (via Clark Street Associates)",
+    "requested_url": "https://ceibo.tech/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "2c830f3cefeae2e7",
+    "name": "Clatsop County, Oregon",
+    "requested_url": "https://www.co.clatsop.or.us/",
+    "error": "<urlopen error [Errno 54] Connection reset by peer>"
+  },
+  {
+    "id": "b5f8b9a0cc4c5281",
+    "name": "Cleco Corp",
+    "requested_url": "https://www.cleco.com/about/our-company",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

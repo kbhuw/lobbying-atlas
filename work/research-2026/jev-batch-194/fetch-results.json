@@ -1,0 +1,452 @@
+[
+  {
+    "id": "1719e0db222f7858",
+    "name": "Climavision Operating LLC",
+    "requested_url": "https://climavision.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://climavision.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/0-1719e0db222f7858.txt",
+    "text_chars": 22045
+  },
+  {
+    "id": "1719e0db222f7858",
+    "name": "Climavision Operating LLC",
+    "requested_url": "https://climavision.com/terms-of-service/",
+    "status": 200,
+    "final_url": "https://climavision.com/terms-of-service/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/1-1719e0db222f7858.txt",
+    "text_chars": 23396
+  },
+  {
+    "id": "447187ae70bf1ba4",
+    "name": "County Line Rail (via CLR Fund I, LP)",
+    "requested_url": "https://www.clrail.com/privacypolicy",
+    "status": 200,
+    "final_url": "https://www.clrail.com/privacypolicy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/2-447187ae70bf1ba4.txt",
+    "text_chars": 3723
+  },
+  {
+    "id": "462f441fef0c5909",
+    "name": "CMH Services, Inc. (Clayton)",
+    "requested_url": "https://www.claytonhomes.com/legal",
+    "status": 200,
+    "final_url": "https://www.claytonhomes.com/legal",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/3-462f441fef0c5909.txt",
+    "text_chars": 21556
+  },
+  {
+    "id": "462f441fef0c5909",
+    "name": "CMH Services, Inc. (Clayton)",
+    "requested_url": "https://www.claytonhomes.com/privacy",
+    "status": 200,
+    "final_url": "https://www.claytonhomes.com/privacy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/4-462f441fef0c5909.txt",
+    "text_chars": 1433
+  },
+  {
+    "id": "089c5d8c1ad47b6d",
+    "name": "CN F/k/a Grand Trunk Corporation",
+    "requested_url": "https://www.cn.ca/en/privacy/",
+    "status": 200,
+    "final_url": "https://www.cn.ca/en/privacy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/5-089c5d8c1ad47b6d.txt",
+    "text_chars": 19378
+  },
+  {
+    "id": "089c5d8c1ad47b6d",
+    "name": "CN F/k/a Grand Trunk Corporation",
+    "requested_url": "https://www.cn.ca/en/terms-conditions/",
+    "status": 200,
+    "final_url": "https://www.cn.ca/en/terms-conditions/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/6-089c5d8c1ad47b6d.txt",
+    "text_chars": 28364
+  },
+  {
+    "id": "856cbed1b664ac4a",
+    "name": "Coalition to Preserve Independent Contractor Status",
+    "requested_url": "https://iccoalition.org/about-us/",
+    "status": 200,
+    "final_url": "https://iccoalition.org/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/7-856cbed1b664ac4a.txt",
+    "text_chars": 3197
+  },
+  {
+    "id": "856cbed1b664ac4a",
+    "name": "Coalition to Preserve Independent Contractor Status",
+    "requested_url": "https://iccoalition.org/about-us/contact-us/",
+    "status": 200,
+    "final_url": "https://iccoalition.org/about-us/contact-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/8-856cbed1b664ac4a.txt",
+    "text_chars": 587
+  },
+  {
+    "id": "ca249285bab9372b",
+    "name": "Cohere US, Inc.",
+    "requested_url": "https://cohere.com/legal",
+    "status": 200,
+    "final_url": "https://cohere.com/legal",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/9-ca249285bab9372b.txt",
+    "text_chars": 6497
+  },
+  {
+    "id": "ca249285bab9372b",
+    "name": "Cohere US, Inc.",
+    "requested_url": "https://cohere.com/privacy",
+    "status": 200,
+    "final_url": "https://cohere.com/privacy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/10-ca249285bab9372b.txt",
+    "text_chars": 50012
+  },
+  {
+    "id": "5759e76534530f5f",
+    "name": "Colosseum Rare Metals, Inc.",
+    "requested_url": "https://www.datelineresources.com.au/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.datelineresources.com.au/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/11-5759e76534530f5f.txt",
+    "text_chars": 4840
+  },
+  {
+    "id": "5759e76534530f5f",
+    "name": "Colosseum Rare Metals, Inc.",
+    "requested_url": "https://www.datelineresources.com.au/about-us/",
+    "status": 200,
+    "final_url": "https://www.datelineresources.com.au/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/12-5759e76534530f5f.txt",
+    "text_chars": 4013
+  },
+  {
+    "id": "be671687c8c0ab88",
+    "name": "Community Bank Advisory Services, LLC",
+    "requested_url": "https://www.communitybankadvisory.com/legal/",
+    "status": 200,
+    "final_url": "https://www.communitybankadvisory.com/legal/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/13-be671687c8c0ab88.txt",
+    "text_chars": 3276
+  },
+  {
+    "id": "be671687c8c0ab88",
+    "name": "Community Bank Advisory Services, LLC",
+    "requested_url": "https://www.communitybankadvisory.com/about/",
+    "status": 200,
+    "final_url": "https://www.communitybankadvisory.com/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/14-be671687c8c0ab88.txt",
+    "text_chars": 6559
+  },
+  {
+    "id": "16df2b70ce4bf58d",
+    "name": "Community Choice Financial Holdings, LLC",
+    "requested_url": "https://www.ccfi.com/privacy",
+    "status": 200,
+    "final_url": "https://www.ccfi.com/privacy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/15-16df2b70ce4bf58d.txt",
+    "text_chars": 5890
+  },
+  {
+    "id": "16df2b70ce4bf58d",
+    "name": "Community Choice Financial Holdings, LLC",
+    "requested_url": "https://www.ccfi.com/about",
+    "status": 200,
+    "final_url": "https://www.ccfi.com/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/16-16df2b70ce4bf58d.txt",
+    "text_chars": 7376
+  },
+  {
+    "id": "45af18082e8f37ed",
+    "name": "Composite Energy Technologies, D/b/a Goetz Composites",
+    "requested_url": "https://www.compositeenergytechnologies.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.compositeenergytechnologies.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/17-45af18082e8f37ed.txt",
+    "text_chars": 5700
+  },
+  {
+    "id": "7fec3360b201f841",
+    "name": "Continental Strategy LLC (o/b/o Plexos Group LLC)",
+    "requested_url": "https://www.plexosgroup.com/terms-of-use",
+    "status": 200,
+    "final_url": "https://www.plexosgroup.com/terms-of-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/18-7fec3360b201f841.txt",
+    "text_chars": 8095
+  },
+  {
+    "id": "7fec3360b201f841",
+    "name": "Continental Strategy LLC (o/b/o Plexos Group LLC)",
+    "requested_url": "https://www.plexosgroup.com/privacy-notice",
+    "status": 200,
+    "final_url": "https://www.plexosgroup.com/privacy-notice",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/19-7fec3360b201f841.txt",
+    "text_chars": 15085
+  },
+  {
+    "id": "150dd7bd33afb37a",
+    "name": "Continuing Medical Education Coalition",
+    "requested_url": "https://www.cmecoalition.org/privacy-policies.html",
+    "status": 200,
+    "final_url": "https://www.cmecoalition.org/privacy-policies",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/20-150dd7bd33afb37a.txt",
+    "text_chars": 1538
+  },
+  {
+    "id": "150dd7bd33afb37a",
+    "name": "Continuing Medical Education Coalition",
+    "requested_url": "https://www.cmecoalition.org/about.html",
+    "status": 200,
+    "final_url": "https://www.cmecoalition.org/about.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/21-150dd7bd33afb37a.txt",
+    "text_chars": 2884
+  },
+  {
+    "id": "7fa26bb4973384c1",
+    "name": "Control AI US, Inc.",
+    "requested_url": "https://controlai.org/privacy",
+    "status": 200,
+    "final_url": "https://controlai.org/privacy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/22-7fa26bb4973384c1.txt",
+    "text_chars": 7764
+  },
+  {
+    "id": "7fa26bb4973384c1",
+    "name": "Control AI US, Inc.",
+    "requested_url": "https://controlai.org/about",
+    "status": 200,
+    "final_url": "https://controlai.org/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/23-7fa26bb4973384c1.txt",
+    "text_chars": 4784
+  },
+  {
+    "id": "8e61c2580cd9d60d",
+    "name": "Convatec, Inc. F/k/a Triad Life Sciences, Inc.",
+    "requested_url": "https://www.convatec.com/about-us/",
+    "status": 200,
+    "final_url": "https://www.convatec.com/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/24-8e61c2580cd9d60d.txt",
+    "text_chars": 4778
+  },
+  {
+    "id": "8e61c2580cd9d60d",
+    "name": "Convatec, Inc. F/k/a Triad Life Sciences, Inc.",
+    "requested_url": "https://www.convatec.com/about-us/forever-caring/",
+    "status": 200,
+    "final_url": "https://www.convatec.com/about-us/forever-caring/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/25-8e61c2580cd9d60d.txt",
+    "text_chars": 15456
+  },
+  {
+    "id": "b502442cb751c97c",
+    "name": "Cooper Group of Companies",
+    "requested_url": "https://thecoopergroup.com/terms",
+    "status": 200,
+    "final_url": "https://thecoopergroup.com/terms",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/26-b502442cb751c97c.txt",
+    "text_chars": 14055
+  },
+  {
+    "id": "b502442cb751c97c",
+    "name": "Cooper Group of Companies",
+    "requested_url": "https://thecoopergroup.com/privacy",
+    "status": 200,
+    "final_url": "https://thecoopergroup.com/privacy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/27-b502442cb751c97c.txt",
+    "text_chars": 7372
+  },
+  {
+    "id": "49ed464aa9daf9b5",
+    "name": "Cora Systems US Inc",
+    "requested_url": "https://corasystems.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://corasystems.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/28-49ed464aa9daf9b5.txt",
+    "text_chars": 12953
+  },
+  {
+    "id": "49ed464aa9daf9b5",
+    "name": "Cora Systems US Inc",
+    "requested_url": "https://corasystems.com/about",
+    "status": 200,
+    "final_url": "https://corasystems.com/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/29-49ed464aa9daf9b5.txt",
+    "text_chars": 6484
+  },
+  {
+    "id": "a7edd2e919ff3a68",
+    "name": "CoreCivic (formerly CCA of Tennessee)",
+    "requested_url": "https://www.corecivic.com/about",
+    "status": 200,
+    "final_url": "https://www.corecivic.com/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/30-a7edd2e919ff3a68.txt",
+    "text_chars": 2570
+  },
+  {
+    "id": "a7edd2e919ff3a68",
+    "name": "CoreCivic (formerly CCA of Tennessee)",
+    "requested_url": "https://www.corecivic.com/the-facts-about-corecivics-role-in-immigration",
+    "status": 200,
+    "final_url": "https://www.corecivic.com/the-facts-about-corecivics-role-in-immigration",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/31-a7edd2e919ff3a68.txt",
+    "text_chars": 5433
+  },
+  {
+    "id": "fb4f193197dde185",
+    "name": "Google Client Services LLC (via Cornerstone Government Affairs)",
+    "requested_url": "https://about.google/products/",
+    "status": 200,
+    "final_url": "https://about.google/products/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/32-fb4f193197dde185.txt",
+    "text_chars": 5249
+  },
+  {
+    "id": "fb4f193197dde185",
+    "name": "Google Client Services LLC (via Cornerstone Government Affairs)",
+    "requested_url": "https://about.google/company-info/",
+    "status": 200,
+    "final_url": "https://about.google/company-info/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/33-fb4f193197dde185.txt",
+    "text_chars": 2766
+  },
+  {
+    "id": "527c98141e19bf10",
+    "name": "Corrigan & Ussery on Behalf of Dewberry Engineers",
+    "requested_url": "https://www.dewberry.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.dewberry.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/34-527c98141e19bf10.txt",
+    "text_chars": 14784
+  },
+  {
+    "id": "527c98141e19bf10",
+    "name": "Corrigan & Ussery on Behalf of Dewberry Engineers",
+    "requested_url": "https://www.dewberry.com/legal-disclaimer",
+    "status": 200,
+    "final_url": "https://www.dewberry.com/legal-disclaimer",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/35-527c98141e19bf10.txt",
+    "text_chars": 2191
+  },
+  {
+    "id": "ed3eb2cace8b5822",
+    "name": "Credit.com (formerly Progrexion ASG)",
+    "requested_url": "https://credit.com/terms/",
+    "status": 200,
+    "final_url": "https://credit.com/terms",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/36-ed3eb2cace8b5822.txt",
+    "text_chars": 51293
+  },
+  {
+    "id": "ed3eb2cace8b5822",
+    "name": "Credit.com (formerly Progrexion ASG)",
+    "requested_url": "https://credit.com/privacy/",
+    "status": 200,
+    "final_url": "https://credit.com/privacy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/37-ed3eb2cace8b5822.txt",
+    "text_chars": 29846
+  },
+  {
+    "id": "0125e227c725bda2",
+    "name": "Crusoe Technologies (fka Crusoe Energy)",
+    "requested_url": "https://www.crusoe.ai/about/impact",
+    "status": 200,
+    "final_url": "https://www.crusoe.ai/about/impact",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/38-0125e227c725bda2.txt",
+    "text_chars": 9111
+  },
+  {
+    "id": "0125e227c725bda2",
+    "name": "Crusoe Technologies (fka Crusoe Energy)",
+    "requested_url": "https://www.crusoe.ai/about/careers",
+    "status": 200,
+    "final_url": "https://www.crusoe.ai/about/careers",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/39-0125e227c725bda2.txt",
+    "text_chars": 3879
+  },
+  {
+    "id": "808e950f6d2e043f",
+    "name": "CVS Previously Aetna",
+    "requested_url": "https://www.cvshealth.com/terms-of-use.html",
+    "status": 200,
+    "final_url": "https://www.cvshealth.com/terms-of-use.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/40-808e950f6d2e043f.txt",
+    "text_chars": 58175
+  },
+  {
+    "id": "808e950f6d2e043f",
+    "name": "CVS Previously Aetna",
+    "requested_url": "https://www.cvshealth.com/privacy-center.html",
+    "status": 200,
+    "final_url": "https://www.cvshealth.com/privacy-center.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/41-808e950f6d2e043f.txt",
+    "text_chars": 4383
+  },
+  {
+    "id": "5ee11251ae2237ef",
+    "name": "POSCO International (via Daeryook & AJU)",
+    "requested_url": "https://www.poscointl.com/privacy",
+    "status": 200,
+    "final_url": "https://www.poscointl.com/privacy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/42-5ee11251ae2237ef.txt",
+    "text_chars": 2676
+  },
+  {
+    "id": "5ee11251ae2237ef",
+    "name": "POSCO International (via Daeryook & AJU)",
+    "requested_url": "https://www.poscointl.com/about",
+    "status": 200,
+    "final_url": "https://www.poscointl.com/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/43-5ee11251ae2237ef.txt",
+    "text_chars": 3119
+  },
+  {
+    "id": "8239a5e484b3fd20",
+    "name": "Huntington Ingalls (via Dahlberg Strategic)",
+    "requested_url": "https://www.hii.com/privacy-statement",
+    "status": 200,
+    "final_url": "https://www.hii.com/privacy-statement",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/44-8239a5e484b3fd20.txt",
+    "text_chars": 4134
+  },
+  {
+    "id": "e2e2668c90a07d66",
+    "name": "DemeRx, Inc.",
+    "requested_url": "https://www.demerx.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.demerx.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/45-e2e2668c90a07d66.txt",
+    "text_chars": 9964
+  },
+  {
+    "id": "e2e2668c90a07d66",
+    "name": "DemeRx, Inc.",
+    "requested_url": "https://www.demerx.com/about-us/",
+    "status": 200,
+    "final_url": "https://www.demerx.com/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/46-e2e2668c90a07d66.txt",
+    "text_chars": 2912
+  },
+  {
+    "id": "3fd17ae75f4a80f3",
+    "name": "Development InfoStructure (Devis)",
+    "requested_url": "https://www.devis.com/about",
+    "status": 200,
+    "final_url": "https://www.devis.com/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/47-3fd17ae75f4a80f3.txt",
+    "text_chars": 3069
+  },
+  {
+    "id": "fba07997a66cbc9f",
+    "name": "Diamond Plastic Corporation",
+    "requested_url": "https://www.dpcpipe.com/privacy-policy.php",
+    "status": 200,
+    "final_url": "https://www.dpcpipe.com/privacy-policy.php",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/48-fba07997a66cbc9f.txt",
+    "text_chars": 6521
+  },
+  {
+    "id": "0d40837e0f188af4",
+    "name": "Distilleria Serralles",
+    "requested_url": "https://donq.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://donq.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-194/49-0d40837e0f188af4.txt",
+    "text_chars": 6760
+  }
+]

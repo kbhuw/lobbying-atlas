@@ -1,0 +1,452 @@
+[
+  {
+    "id": "c765e7b973363402",
+    "name": "Houghton Mifflin Harcourt Company",
+    "requested_url": "https://www.hmhco.com/about-us/hmh-policy-framework",
+    "status": 200,
+    "final_url": "https://www.hmhco.com/about-us/hmh-policy-framework",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/0-c765e7b973363402.txt",
+    "text_chars": 14907
+  },
+  {
+    "id": "c765e7b973363402",
+    "name": "Houghton Mifflin Harcourt Company",
+    "requested_url": "https://www.hmhco.com/about-us/leadership",
+    "status": 200,
+    "final_url": "https://www.hmhco.com/about-us/leadership",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/1-c765e7b973363402.txt",
+    "text_chars": 8111
+  },
+  {
+    "id": "67d1ea416219787b",
+    "name": "Cotton Logistics, Inc.",
+    "requested_url": "https://www.cottonlogistics.com/about-cotton-logistics/news/3-ways-temporary-facilities-help-businesses-stay-operational-after-a-hurricane/",
+    "status": 200,
+    "final_url": "https://www.cottonlogistics.com/about-cotton-logistics/news/3-ways-temporary-facilities-help-businesses-stay-operational-after-a-hurricane/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/2-67d1ea416219787b.txt",
+    "text_chars": 15557
+  },
+  {
+    "id": "67d1ea416219787b",
+    "name": "Cotton Logistics, Inc.",
+    "requested_url": "https://www.cottonlogistics.com/about-cotton-logistics/news/5-essential-tips-to-keep-your-crew-camp-osha-compliant/",
+    "status": 200,
+    "final_url": "https://www.cottonlogistics.com/about-cotton-logistics/news/5-essential-tips-to-keep-your-crew-camp-osha-compliant/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/3-67d1ea416219787b.txt",
+    "text_chars": 13803
+  },
+  {
+    "id": "d7f3c3e2c36b9735",
+    "name": "Invisio Communications",
+    "requested_url": "https://invisio.com/company/about-invisio/sustainability/",
+    "status": 200,
+    "final_url": "https://invisio.com/company/about-invisio/sustainability/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/4-d7f3c3e2c36b9735.txt",
+    "text_chars": 6544
+  },
+  {
+    "id": "9baa62c4b78a2d00",
+    "name": "Nidec Americas Holding Corporation",
+    "requested_url": "https://www.nidec.com/en/corporate/about/board/",
+    "status": 200,
+    "final_url": "https://www.nidec.com/en/corporate/about/board/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/5-9baa62c4b78a2d00.txt",
+    "text_chars": 10094
+  },
+  {
+    "id": "9baa62c4b78a2d00",
+    "name": "Nidec Americas Holding Corporation",
+    "requested_url": "https://www.nidec.com/en/corporate/about/business/",
+    "status": 200,
+    "final_url": "https://www.nidec.com/en/corporate/about/business/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/6-9baa62c4b78a2d00.txt",
+    "text_chars": 4656
+  },
+  {
+    "id": "9100875e56a777ab",
+    "name": "Grip Pod Systems International LLC",
+    "requested_url": "https://grippod.com/about-us/aboutus-company-history/",
+    "status": 200,
+    "final_url": "https://grippod.com/about-us/aboutus-company-history/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/7-9100875e56a777ab.txt",
+    "text_chars": 13730
+  },
+  {
+    "id": "9100875e56a777ab",
+    "name": "Grip Pod Systems International LLC",
+    "requested_url": "https://grippod.com/about-us/competitive-comparison/",
+    "status": 200,
+    "final_url": "https://grippod.com/about-us/competitive-comparison/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/8-9100875e56a777ab.txt",
+    "text_chars": 12749
+  },
+  {
+    "id": "ecc30b0851d4b875",
+    "name": "Inveris Training Solutions",
+    "requested_url": "https://www.inveristraining.com/resources/policies/terms-of-use/",
+    "status": 200,
+    "final_url": "https://www.inveristraining.com/resources/policies/terms-of-use/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/9-ecc30b0851d4b875.txt",
+    "text_chars": 12310
+  },
+  {
+    "id": "ecc30b0851d4b875",
+    "name": "Inveris Training Solutions",
+    "requested_url": "https://www.inveristraining.com/about/",
+    "status": 200,
+    "final_url": "https://www.inveristraining.com/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/10-ecc30b0851d4b875.txt",
+    "text_chars": 9910
+  },
+  {
+    "id": "15995ae6235a004e",
+    "name": "Magnet Forensics LLC",
+    "requested_url": "https://www.magnetforensics.com/magnet-privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.magnetforensics.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/11-15995ae6235a004e.txt",
+    "text_chars": 34463
+  },
+  {
+    "id": "15995ae6235a004e",
+    "name": "Magnet Forensics LLC",
+    "requested_url": "https://www.magnetforensics.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.magnetforensics.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/12-15995ae6235a004e.txt",
+    "text_chars": 34463
+  },
+  {
+    "id": "9e8c45a56b5e7364",
+    "name": "Int'l Ass'n of Sheet Metal AIR Rail & Transp Workers Transp DIV",
+    "requested_url": "https://www.smart-union.org/about-smart/",
+    "status": 200,
+    "final_url": "https://www.smart-union.org/about-smart/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/13-9e8c45a56b5e7364.txt",
+    "text_chars": 16520
+  },
+  {
+    "id": "9e8c45a56b5e7364",
+    "name": "Int'l Ass'n of Sheet Metal AIR Rail & Transp Workers Transp DIV",
+    "requested_url": "https://www.smart-union.org/about-smart/leadership/",
+    "status": 200,
+    "final_url": "https://www.smart-union.org/about-smart/leadership/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/14-9e8c45a56b5e7364.txt",
+    "text_chars": 36437
+  },
+  {
+    "id": "54cc142d2aac45ab",
+    "name": "Owens Valley Indian Water Commission",
+    "requested_url": "https://www.oviwc.org/about",
+    "status": 200,
+    "final_url": "https://www.oviwc.org/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/15-54cc142d2aac45ab.txt",
+    "text_chars": 3199
+  },
+  {
+    "id": "54cc142d2aac45ab",
+    "name": "Owens Valley Indian Water Commission",
+    "requested_url": "https://www.oviwc.org/about-us",
+    "status": 200,
+    "final_url": "https://www.oviwc.org/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/16-54cc142d2aac45ab.txt",
+    "text_chars": 3199
+  },
+  {
+    "id": "66525502845f6a8a",
+    "name": "RMV PA3 Development LLC",
+    "requested_url": "https://www.ranchomissionviejo.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.ranchomissionviejo.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/17-66525502845f6a8a.txt",
+    "text_chars": 28778
+  },
+  {
+    "id": "66525502845f6a8a",
+    "name": "RMV PA3 Development LLC",
+    "requested_url": "https://www.ranchomissionviejo.com/terms-of-use",
+    "status": 200,
+    "final_url": "https://www.ranchomissionviejo.com/terms-of-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/18-66525502845f6a8a.txt",
+    "text_chars": 18012
+  },
+  {
+    "id": "ec09e3c52cde9294",
+    "name": "SAN Francisco Wholesale Produce Market",
+    "requested_url": "https://thesfmarket.org/thesfmarket.org/about-the-sf-market/",
+    "status": 200,
+    "final_url": "https://thesfmarket.org/about-the-sf-market/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/19-ec09e3c52cde9294.txt",
+    "text_chars": 6250
+  },
+  {
+    "id": "ec09e3c52cde9294",
+    "name": "SAN Francisco Wholesale Produce Market",
+    "requested_url": "https://thesfmarket.org/about-the-sf-market/",
+    "status": 200,
+    "final_url": "https://thesfmarket.org/about-the-sf-market/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/20-ec09e3c52cde9294.txt",
+    "text_chars": 6250
+  },
+  {
+    "id": "7c759601baebb932",
+    "name": "Sentinel Midstream LLC",
+    "requested_url": "https://www.sentinelmidstream.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.sentinelmidstream.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/21-7c759601baebb932.txt",
+    "text_chars": 6319
+  },
+  {
+    "id": "7c759601baebb932",
+    "name": "Sentinel Midstream LLC",
+    "requested_url": "https://www.sentinelmidstream.com/terms-of-use/",
+    "status": 200,
+    "final_url": "https://www.sentinelmidstream.com/terms-of-use/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/22-7c759601baebb932.txt",
+    "text_chars": 18740
+  },
+  {
+    "id": "d2d033a77fffbf18",
+    "name": "the Policy Shop LLC",
+    "requested_url": "https://thepolicyshop.com/terms-conditions/",
+    "status": 200,
+    "final_url": "https://thepolicyshop.com/terms-conditions/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/23-d2d033a77fffbf18.txt",
+    "text_chars": 53181
+  },
+  {
+    "id": "d2d033a77fffbf18",
+    "name": "the Policy Shop LLC",
+    "requested_url": "https://thepolicyshop.com/about-us/",
+    "status": 200,
+    "final_url": "https://thepolicyshop.com/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/24-d2d033a77fffbf18.txt",
+    "text_chars": 45816
+  },
+  {
+    "id": "dcb085cba6f82591",
+    "name": "Housing Authority of the County of Santa Barbara (via Arnall Golden Gregory)",
+    "requested_url": "https://www.hasbarco.org/terms_of_service/index.php",
+    "status": 200,
+    "final_url": "https://www.hasbarco.org/terms_of_service/index.php",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/25-dcb085cba6f82591.txt",
+    "text_chars": 6876
+  },
+  {
+    "id": "dcb085cba6f82591",
+    "name": "Housing Authority of the County of Santa Barbara (via Arnall Golden Gregory)",
+    "requested_url": "https://www.hasbarco.org/about/board_of_commissioners/agendas_and_minutes.php",
+    "status": 200,
+    "final_url": "https://www.hasbarco.org/about/board_of_commissioners/agendas_and_minutes.php",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/26-dcb085cba6f82591.txt",
+    "text_chars": 11513
+  },
+  {
+    "id": "2bfd1c5667564363",
+    "name": "East Lake Metals",
+    "requested_url": "https://eastlakemetals.com/about-us/",
+    "status": 200,
+    "final_url": "https://eastlakemetals.com/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/27-2bfd1c5667564363.txt",
+    "text_chars": 9289
+  },
+  {
+    "id": "2bfd1c5667564363",
+    "name": "East Lake Metals",
+    "requested_url": "https://eastlakemetals.com/about-us/our-knowledge/",
+    "status": 200,
+    "final_url": "https://eastlakemetals.com/about-us/our-knowledge/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/28-2bfd1c5667564363.txt",
+    "text_chars": 1566
+  },
+  {
+    "id": "bd41539328acc160",
+    "name": "Herenow Help, Inc.",
+    "requested_url": "https://herenowhelp.com/about/our-story",
+    "status": 200,
+    "final_url": "https://herenowhelp.com/about/our-story",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/29-bd41539328acc160.txt",
+    "text_chars": 2942
+  },
+  {
+    "id": "bd41539328acc160",
+    "name": "Herenow Help, Inc.",
+    "requested_url": "https://herenowhelp.com/about/our-vision",
+    "status": 200,
+    "final_url": "https://herenowhelp.com/about/our-vision",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/30-bd41539328acc160.txt",
+    "text_chars": 1464
+  },
+  {
+    "id": "396fd20b0b732f72",
+    "name": "Liv-connected, Inc.",
+    "requested_url": "https://liv-connected.com/about",
+    "status": 200,
+    "final_url": "https://liv-connected.com/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/31-396fd20b0b732f72.txt",
+    "text_chars": 4334
+  },
+  {
+    "id": "3e183e97beea47db",
+    "name": "National Football League (nfl)",
+    "requested_url": "https://www.nfl.com/legal/accessibility",
+    "status": 200,
+    "final_url": "https://www.nfl.com/legal/accessibility",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/32-3e183e97beea47db.txt",
+    "text_chars": 4739
+  },
+  {
+    "id": "3e183e97beea47db",
+    "name": "National Football League (nfl)",
+    "requested_url": "https://www.nfl.com/legal/privacy/",
+    "status": 200,
+    "final_url": "https://www.nfl.com/legal/privacy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/33-3e183e97beea47db.txt",
+    "text_chars": 51939
+  },
+  {
+    "id": "c633a0907c5565f4",
+    "name": "National Reverse Mortgage Lenders Association (through Fennel Consulting, Llc)",
+    "requested_url": "https://www.reversemortgage.org/about-nrmla/privacy-statement/",
+    "status": 200,
+    "final_url": "https://www.reversemortgage.org/about-nrmla/privacy-statement/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/34-c633a0907c5565f4.txt",
+    "text_chars": 8605
+  },
+  {
+    "id": "c633a0907c5565f4",
+    "name": "National Reverse Mortgage Lenders Association (through Fennel Consulting, Llc)",
+    "requested_url": "https://www.reversemortgage.org/about-nrmla/terms-of-use/",
+    "status": 200,
+    "final_url": "https://www.reversemortgage.org/about-nrmla/terms-of-use/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/35-c633a0907c5565f4.txt",
+    "text_chars": 15536
+  },
+  {
+    "id": "ec2ed8bb69becbe8",
+    "name": "Nevada Northern Railway Foundation",
+    "requested_url": "https://nnry.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://nnry.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/36-ec2ed8bb69becbe8.txt",
+    "text_chars": 30482
+  },
+  {
+    "id": "ec2ed8bb69becbe8",
+    "name": "Nevada Northern Railway Foundation",
+    "requested_url": "https://nnry.com/about/",
+    "status": 200,
+    "final_url": "https://nnry.com/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/37-ec2ed8bb69becbe8.txt",
+    "text_chars": 10180
+  },
+  {
+    "id": "7e74fcf8afca774b",
+    "name": "New Eurasian Strategies Centre, Inc.",
+    "requested_url": "https://nestcentre.org/about/",
+    "status": 200,
+    "final_url": "https://nestcentre.org/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/38-7e74fcf8afca774b.txt",
+    "text_chars": 8925
+  },
+  {
+    "id": "7e74fcf8afca774b",
+    "name": "New Eurasian Strategies Centre, Inc.",
+    "requested_url": "https://nestcentre.org/putin-should-worry-about-the-trump-xi-relationship/",
+    "status": 200,
+    "final_url": "https://nestcentre.org/putin-should-worry-about-the-trump-xi-relationship/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/39-7e74fcf8afca774b.txt",
+    "text_chars": 12238
+  },
+  {
+    "id": "fdd757e74fe5ae00",
+    "name": "Overview Energy, Inc.",
+    "requested_url": "https://www.overviewenergy.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.overviewenergy.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/40-fdd757e74fe5ae00.txt",
+    "text_chars": 7931
+  },
+  {
+    "id": "fdd757e74fe5ae00",
+    "name": "Overview Energy, Inc.",
+    "requested_url": "https://www.overviewenergy.com/terms",
+    "status": 200,
+    "final_url": "https://www.overviewenergy.com/terms",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/41-fdd757e74fe5ae00.txt",
+    "text_chars": 10269
+  },
+  {
+    "id": "91f9d4f27312477a",
+    "name": "Promise Network Inc.",
+    "requested_url": "https://www.promise-pay.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.promise-pay.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/42-91f9d4f27312477a.txt",
+    "text_chars": 30135
+  },
+  {
+    "id": "91f9d4f27312477a",
+    "name": "Promise Network Inc.",
+    "requested_url": "https://www.promise-pay.com/terms",
+    "status": 200,
+    "final_url": "https://www.promise-pay.com/terms",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/43-91f9d4f27312477a.txt",
+    "text_chars": 52646
+  },
+  {
+    "id": "91dfe774831d6f06",
+    "name": "Witham Hospital",
+    "requested_url": "https://www.witham.org/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.witham.org/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/44-91dfe774831d6f06.txt",
+    "text_chars": 2717
+  },
+  {
+    "id": "91dfe774831d6f06",
+    "name": "Witham Hospital",
+    "requested_url": "https://www.witham.org/about-us/community-health-needs-assessment",
+    "status": 200,
+    "final_url": "https://www.witham.org/about-us/community-health-needs-assessment",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/45-91dfe774831d6f06.txt",
+    "text_chars": 4257
+  },
+  {
+    "id": "a919b3c12955a5ae",
+    "name": "Association of Multisite Research Corporations",
+    "requested_url": "https://amrc.org/legal-note/",
+    "status": 200,
+    "final_url": "https://amrc.org/legal-note/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/46-a919b3c12955a5ae.txt",
+    "text_chars": 2547
+  },
+  {
+    "id": "a919b3c12955a5ae",
+    "name": "Association of Multisite Research Corporations",
+    "requested_url": "https://amrc.org/privacy-policy-2/",
+    "status": 200,
+    "final_url": "https://amrc.org/privacy-policy-2/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/47-a919b3c12955a5ae.txt",
+    "text_chars": 2982
+  },
+  {
+    "id": "2676b2444f507b4e",
+    "name": "Curie Bio Operations, LLC",
+    "requested_url": "https://curie.bio/privacy-policy",
+    "status": 200,
+    "final_url": "https://curie.bio/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/48-2676b2444f507b4e.txt",
+    "text_chars": 243
+  },
+  {
+    "id": "2676b2444f507b4e",
+    "name": "Curie Bio Operations, LLC",
+    "requested_url": "https://curie.bio/terms-of-use",
+    "status": 200,
+    "final_url": "https://curie.bio/terms-of-use/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-055/49-2676b2444f507b4e.txt",
+    "text_chars": 239
+  }
+]

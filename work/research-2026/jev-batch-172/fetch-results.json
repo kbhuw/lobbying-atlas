@@ -1,0 +1,443 @@
+[
+  {
+    "id": "6c814815d3b40283",
+    "name": "Baxter Healthcare",
+    "requested_url": "https://www.baxter.com/terms-use",
+    "status": 200,
+    "final_url": "https://www.baxter.com/terms-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/0-6c814815d3b40283.txt",
+    "text_chars": 15406
+  },
+  {
+    "id": "6c814815d3b40283",
+    "name": "Baxter Healthcare",
+    "requested_url": "https://www.baxter.com/us-privacy-policy",
+    "status": 200,
+    "final_url": "https://www.baxter.com/us-privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/1-6c814815d3b40283.txt",
+    "text_chars": 1806
+  },
+  {
+    "id": "74fa3f14cfb47706",
+    "name": "Baystate Health",
+    "requested_url": "https://www.baystatehealth.org/terms-of-use",
+    "status": 200,
+    "final_url": "https://www.baystatehealth.org/terms-of-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/2-74fa3f14cfb47706.txt",
+    "text_chars": 10122
+  },
+  {
+    "id": "74fa3f14cfb47706",
+    "name": "Baystate Health",
+    "requested_url": "https://www.baystatehealth.org/website-privacy-policy",
+    "status": 200,
+    "final_url": "https://www.baystatehealth.org/website-privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/3-74fa3f14cfb47706.txt",
+    "text_chars": 13134
+  },
+  {
+    "id": "b685bd534df300ae",
+    "name": "Beecher Emission Solution Technologies / Ward Diesel",
+    "requested_url": "https://www.warddiesel.com/about-us",
+    "status": 200,
+    "final_url": "https://www.warddiesel.com/about-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/4-b685bd534df300ae.txt",
+    "text_chars": 5081
+  },
+  {
+    "id": "b685bd534df300ae",
+    "name": "Beecher Emission Solution Technologies / Ward Diesel",
+    "requested_url": "https://www.warddiesel.com/about-us?hsLang=en",
+    "status": 200,
+    "final_url": "https://www.warddiesel.com/about-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/5-b685bd534df300ae.txt",
+    "text_chars": 5081
+  },
+  {
+    "id": "e7cf58489159fba2",
+    "name": "Beijing Xiaomi Mobile Software",
+    "requested_url": "https://www.mi.com/global/about/privacy/",
+    "status": 200,
+    "final_url": "https://www.mi.com/global/about/privacy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/6-e7cf58489159fba2.txt",
+    "text_chars": 47807
+  },
+  {
+    "id": "e7cf58489159fba2",
+    "name": "Beijing Xiaomi Mobile Software",
+    "requested_url": "https://www.mi.com/global/support/terms/accessibility/",
+    "status": 200,
+    "final_url": "https://www.mi.com/global/support/terms/accessibility/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/7-e7cf58489159fba2.txt",
+    "text_chars": 3435
+  },
+  {
+    "id": "96189b884b5e9a35",
+    "name": "Beijing Xiaomi Mobile Software",
+    "requested_url": "https://www.mi.com/global/about/privacy/",
+    "status": 200,
+    "final_url": "https://www.mi.com/global/about/privacy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/8-96189b884b5e9a35.txt",
+    "text_chars": 47807
+  },
+  {
+    "id": "96189b884b5e9a35",
+    "name": "Beijing Xiaomi Mobile Software",
+    "requested_url": "https://www.mi.com/global/support/terms/accessibility/",
+    "status": 200,
+    "final_url": "https://www.mi.com/global/support/terms/accessibility/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/9-96189b884b5e9a35.txt",
+    "text_chars": 3435
+  },
+  {
+    "id": "eb56dd920848332e",
+    "name": "Bekaert Corporation",
+    "requested_url": "https://www.bekaert.com/en/functional/web-privacy-policy",
+    "status": 200,
+    "final_url": "https://www.bekaert.com/en/functional/web-privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/10-eb56dd920848332e.txt",
+    "text_chars": 12125
+  },
+  {
+    "id": "eb56dd920848332e",
+    "name": "Bekaert Corporation",
+    "requested_url": "https://www.bekaert.com/en/product-catalog/content/terms-of-sale",
+    "status": 200,
+    "final_url": "https://www.bekaert.com/en/product-catalog/content/terms-of-sale",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/11-eb56dd920848332e.txt",
+    "text_chars": 3132
+  },
+  {
+    "id": "f7c208288d4bf0f3",
+    "name": "Everglades University (via Bell & Lindsay)",
+    "requested_url": "https://www.evergladesuniversity.edu/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.evergladesuniversity.edu/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/12-f7c208288d4bf0f3.txt",
+    "text_chars": 14614
+  },
+  {
+    "id": "3573f281976c0b8c",
+    "name": "Benjamin Company ON Behalf Of Sutter Health",
+    "requested_url": "https://www.sutterhealth.org/patient-resources/privacy/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.sutterhealth.org/patient-resources/privacy/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/13-3573f281976c0b8c.txt",
+    "text_chars": 26109
+  },
+  {
+    "id": "3573f281976c0b8c",
+    "name": "Benjamin Company ON Behalf Of Sutter Health",
+    "requested_url": "https://www.sutterhealth.org/about-us",
+    "status": 200,
+    "final_url": "https://www.sutterhealth.org/about-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/14-3573f281976c0b8c.txt",
+    "text_chars": 12917
+  },
+  {
+    "id": "a9227e46aa1af949",
+    "name": "Berquist Recovery Consulting",
+    "requested_url": "https://berquistrecoveryconsulting.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://berquistrecoveryconsulting.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/15-a9227e46aa1af949.txt",
+    "text_chars": 19013
+  },
+  {
+    "id": "a9227e46aa1af949",
+    "name": "Berquist Recovery Consulting",
+    "requested_url": "https://berquistrecoveryconsulting.com/about/",
+    "status": 200,
+    "final_url": "https://berquistrecoveryconsulting.com/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/16-a9227e46aa1af949.txt",
+    "text_chars": 7777
+  },
+  {
+    "id": "e48b7632baa1f352",
+    "name": "Better Solutions for Healthcare",
+    "requested_url": "https://bettersolutionsforhealthcare.org/privacy-policy",
+    "status": 200,
+    "final_url": "https://bettersolutionsforhealthcare.org/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/17-e48b7632baa1f352.txt",
+    "text_chars": 42221
+  },
+  {
+    "id": "e48b7632baa1f352",
+    "name": "Better Solutions for Healthcare",
+    "requested_url": "https://bettersolutionsforhealthcare.org/terms-of-service/",
+    "status": 200,
+    "final_url": "https://bettersolutionsforhealthcare.org/terms-of-service/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/18-e48b7632baa1f352.txt",
+    "text_chars": 25707
+  },
+  {
+    "id": "5a0a96f9e9d5a3c6",
+    "name": "bioM\u00e9rieux",
+    "requested_url": "https://www.biomerieux.com/corp/en/privacy.html",
+    "status": 200,
+    "final_url": "https://www.biomerieux.com/corp/en/privacy.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/19-5a0a96f9e9d5a3c6.txt",
+    "text_chars": 5924
+  },
+  {
+    "id": "5a0a96f9e9d5a3c6",
+    "name": "bioM\u00e9rieux",
+    "requested_url": "https://www.biomerieux.com/us/en/legal-notice.html",
+    "status": 200,
+    "final_url": "https://www.biomerieux.com/us/en/legal-notice.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/20-5a0a96f9e9d5a3c6.txt",
+    "text_chars": 17492
+  },
+  {
+    "id": "16477ea46c9ee355",
+    "name": "Bioprocess H2O",
+    "requested_url": "https://www.bioprocessh2o.com/legal",
+    "status": 200,
+    "final_url": "https://www.bioprocessh2o.com/legal",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/21-16477ea46c9ee355.txt",
+    "text_chars": 10357
+  },
+  {
+    "id": "16477ea46c9ee355",
+    "name": "Bioprocess H2O",
+    "requested_url": "https://www.bioprocessh2o.com/about",
+    "status": 200,
+    "final_url": "https://www.bioprocessh2o.com/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/22-16477ea46c9ee355.txt",
+    "text_chars": 3419
+  },
+  {
+    "id": "f75e23e0d327ace6",
+    "name": "Biotechnology Industry Organization (historical name)",
+    "requested_url": "https://www.bio.org/terms-use",
+    "status": 200,
+    "final_url": "https://www.bio.org/terms-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/23-f75e23e0d327ace6.txt",
+    "text_chars": 27382
+  },
+  {
+    "id": "f75e23e0d327ace6",
+    "name": "Biotechnology Industry Organization (historical name)",
+    "requested_url": "https://www.bio.org/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.bio.org/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/24-f75e23e0d327ace6.txt",
+    "text_chars": 18518
+  },
+  {
+    "id": "2325b194384e7c09",
+    "name": "BISSELL Homecare, Inc.",
+    "requested_url": "https://www.bissell.com/en-us/privacy-notice/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "2325b194384e7c09",
+    "name": "BISSELL Homecare, Inc.",
+    "requested_url": "https://www.bissell.com/en-us/terms-of-service/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "d889c2c65d869d30",
+    "name": "Blackboard T&l, LLC (formerly Anthology Inc.)",
+    "requested_url": "https://www.blackboard.com/trust-center/terms-of-use",
+    "status": 200,
+    "final_url": "https://www.blackboard.com/trust-center/terms-of-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/27-d889c2c65d869d30.txt",
+    "text_chars": 42509
+  },
+  {
+    "id": "d889c2c65d869d30",
+    "name": "Blackboard T&l, LLC (formerly Anthology Inc.)",
+    "requested_url": "https://www.blackboard.com/trust-center/privacy-statement",
+    "status": 200,
+    "final_url": "https://www.blackboard.com/trust-center/privacy-statement",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/28-d889c2c65d869d30.txt",
+    "text_chars": 50555
+  },
+  {
+    "id": "337d4bfe32cfb526",
+    "name": "Blackrock Fund Services Group, LLC",
+    "requested_url": "https://www.blackrock.com/corporate/compliance/privacy-notice",
+    "status": 200,
+    "final_url": "https://www.blackrock.com/corporate/compliance/privacy-notice",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/29-337d4bfe32cfb526.txt",
+    "text_chars": 394498
+  },
+  {
+    "id": "337d4bfe32cfb526",
+    "name": "Blackrock Fund Services Group, LLC",
+    "requested_url": "https://www.blackrock.com/corporate/compliance/terms-conditions",
+    "status": 200,
+    "final_url": "https://www.blackrock.com/corporate/compliance/terms-conditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/30-337d4bfe32cfb526.txt",
+    "text_chars": 26327
+  },
+  {
+    "id": "9a4932d85ea436ab",
+    "name": "Blackrock Funds Services, Llc.",
+    "requested_url": "https://www.blackrock.com/corporate/compliance/privacy-notice",
+    "status": 200,
+    "final_url": "https://www.blackrock.com/corporate/compliance/privacy-notice",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/31-9a4932d85ea436ab.txt",
+    "text_chars": 394494
+  },
+  {
+    "id": "9a4932d85ea436ab",
+    "name": "Blackrock Funds Services, Llc.",
+    "requested_url": "https://www.blackrock.com/corporate/compliance/terms-conditions",
+    "status": 200,
+    "final_url": "https://www.blackrock.com/corporate/compliance/terms-conditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/32-9a4932d85ea436ab.txt",
+    "text_chars": 26323
+  },
+  {
+    "id": "3f8960d91ea35840",
+    "name": "Blackrock Funds Services Group LLC",
+    "requested_url": "https://www.blackrock.com/corporate/compliance/privacy-notice",
+    "status": 200,
+    "final_url": "https://www.blackrock.com/corporate/compliance/privacy-notice",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/33-3f8960d91ea35840.txt",
+    "text_chars": 394498
+  },
+  {
+    "id": "3f8960d91ea35840",
+    "name": "Blackrock Funds Services Group LLC",
+    "requested_url": "https://www.blackrock.com/corporate/compliance/terms-conditions",
+    "status": 200,
+    "final_url": "https://www.blackrock.com/corporate/compliance/terms-conditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/34-3f8960d91ea35840.txt",
+    "text_chars": 26327
+  },
+  {
+    "id": "9c8732fc9f458ea8",
+    "name": "Blackrock Funds Services Group LLC (formerly Blackrock Capital Management Inc.)",
+    "requested_url": "https://www.blackrock.com/corporate/compliance/privacy-notice",
+    "status": 200,
+    "final_url": "https://www.blackrock.com/corporate/compliance/privacy-notice",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/35-9c8732fc9f458ea8.txt",
+    "text_chars": 394543
+  },
+  {
+    "id": "9c8732fc9f458ea8",
+    "name": "Blackrock Funds Services Group LLC (formerly Blackrock Capital Management Inc.)",
+    "requested_url": "https://www.blackrock.com/corporate/compliance/terms-conditions",
+    "status": 200,
+    "final_url": "https://www.blackrock.com/corporate/compliance/terms-conditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/36-9c8732fc9f458ea8.txt",
+    "text_chars": 26372
+  },
+  {
+    "id": "c13433f19682314c",
+    "name": "Blackstone Construction LLC",
+    "requested_url": "https://www.blackstone-construction.com/about-folder/",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "3161eaa9768530de",
+    "name": "Vast (via Arnold & Porter)",
+    "requested_url": "https://www.vastspace.com/media-assets-terms-of-use",
+    "status": 200,
+    "final_url": "https://www.vastspace.com/media-assets-terms-of-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/38-3161eaa9768530de.txt",
+    "text_chars": 1764
+  },
+  {
+    "id": "4906cbad441f683e",
+    "name": "Association of Critical Care Transport",
+    "requested_url": "https://acctforpatients.org/about/board/",
+    "status": 200,
+    "final_url": "https://acctforpatients.org/about/board/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/39-4906cbad441f683e.txt",
+    "text_chars": 12037
+  },
+  {
+    "id": "4906cbad441f683e",
+    "name": "Association of Critical Care Transport",
+    "requested_url": "https://acctforpatients.org/about/staff/",
+    "status": 200,
+    "final_url": "https://acctforpatients.org/about/staff/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/40-4906cbad441f683e.txt",
+    "text_chars": 1681
+  },
+  {
+    "id": "7291dfe664a75774",
+    "name": "Atlas Air",
+    "requested_url": "https://www.atlasair.com/about-us/history/",
+    "status": 200,
+    "final_url": "https://www.atlasair.com/about-us/history/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/41-7291dfe664a75774.txt",
+    "text_chars": 6200
+  },
+  {
+    "id": "7291dfe664a75774",
+    "name": "Atlas Air",
+    "requested_url": "https://www.atlasair.com/about-us/our-team/",
+    "status": 200,
+    "final_url": "https://www.atlasair.com/about-us/our-team/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/42-7291dfe664a75774.txt",
+    "text_chars": 18629
+  },
+  {
+    "id": "c9074ac098aa1990",
+    "name": "Atlas Copco North America",
+    "requested_url": "https://www.atlascopco.com/en-us/about-atlas-copco/group",
+    "status": 200,
+    "final_url": "https://www.atlascopco.com/en-us/about-atlas-copco/group",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/43-c9074ac098aa1990.txt",
+    "text_chars": 10367
+  },
+  {
+    "id": "c9074ac098aa1990",
+    "name": "Atlas Copco North America",
+    "requested_url": "https://www.atlascopco.com/en-us/about-atlas-copco/work-with-us",
+    "status": 200,
+    "final_url": "https://www.atlascopco.com/en-us/about-atlas-copco/work-with-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/44-c9074ac098aa1990.txt",
+    "text_chars": 10003
+  },
+  {
+    "id": "2f736509baa1bb75",
+    "name": "Avara Pharmaceuticals Inc.",
+    "requested_url": "https://www.avara.com/about-2",
+    "status": 200,
+    "final_url": "https://www.avara.com/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/45-2f736509baa1bb75.txt",
+    "text_chars": 2954
+  },
+  {
+    "id": "9692574a19e9033c",
+    "name": "Avaya Government Solutions",
+    "requested_url": "https://www.avaya.com/en/legal/termsofuse/",
+    "status": 200,
+    "final_url": "https://www.avaya.com/en/legal/termsofuse/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/46-9692574a19e9033c.txt",
+    "text_chars": 34967
+  },
+  {
+    "id": "9692574a19e9033c",
+    "name": "Avaya Government Solutions",
+    "requested_url": "https://www.avaya.com/en/legal/investor-relations/",
+    "status": 200,
+    "final_url": "https://www.avaya.com/en/legal/investor-relations/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/47-9692574a19e9033c.txt",
+    "text_chars": 5476
+  },
+  {
+    "id": "f725b5f2f2e97a3d",
+    "name": "Avidity Biosciences, Inc.",
+    "requested_url": "https://www.novartis.com/healthcare-professionals/managed-access-programs/managed-access-patient-privacy-notice-and-consent-templates",
+    "status": 200,
+    "final_url": "https://www.novartis.com/healthcare-professionals/managed-access-programs/managed-access-patient-privacy-notice-and-consent-templates",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/48-f725b5f2f2e97a3d.txt",
+    "text_chars": 10800
+  },
+  {
+    "id": "f725b5f2f2e97a3d",
+    "name": "Avidity Biosciences, Inc.",
+    "requested_url": "https://www.novartis.com/about",
+    "status": 200,
+    "final_url": "https://www.novartis.com/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-172/49-f725b5f2f2e97a3d.txt",
+    "text_chars": 11154
+  }
+]

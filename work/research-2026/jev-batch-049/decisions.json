@@ -1,0 +1,23 @@
+{
+  "canonical_id": "bf7a220290c8e0ce",
+  "source_ids": [
+    "bf7a220290c8e0ce",
+    "1ff81c1632ebc9c0"
+  ],
+  "rationale": "Both independently reviewed profiles identify the same Association of Schools and Programs of Public Health on aspph.org. One source name appends a truncated OLD name; its filings are in-house, while the other reports Cornerstone Government Affairs representation. Consolidate the organization card while preserving both source IDs, original aliases and all separate reports. Do not sum in-house expense and outside-firm income as independent spending.",
+  "sources": [
+    {
+      "url": "https://aspph.org/",
+      "claim": "Official homepage expands the exact current association name and describes its academic public-health mission."
+    },
+    {
+      "url": "https://lda.gov/filings/public/filing/0672df8b-ebcb-4b6f-b8ba-273bbe64eb1d/print/",
+      "claim": "Saved filing shard: 2026 Q2 Cornerstone report for expanded-name source."
+    },
+    {
+      "url": "https://lda.gov/filings/public/filing/3f01471e-ce5b-4db1-a8db-004c1743e3f9/print/",
+      "claim": "Saved filing shard: 2026 Q2 in-house report under current name plus truncated OLD label."
+    }
+  ],
+  "reviewed_at": "2026-09-18"
+}

@@ -1,0 +1,40 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "ace: identity=yes (P(yes)=0.61)\nogp: identity=yes (P(yes)=0.73)\nInspect uncertain or truncated items. Tool and website judgments depend on the content supplied; they do not predict unseen results."
+    }
+  ],
+  "structuredContent": {
+    "ok": true,
+    "model": "jev-latest",
+    "scales": {},
+    "results": [
+      {
+        "id": "ace",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.61
+          }
+        },
+        "source": "https://www.nationalace.org/news/seattle-roundtable-press-release",
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "ogp",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.73
+          }
+        },
+        "model": "jev-1.13.0"
+      }
+    ],
+    "usage": {
+      "inputTokens": 4012
+    }
+  },
+  "isError": false
+}

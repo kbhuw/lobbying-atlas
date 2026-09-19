@@ -1,0 +1,108 @@
+{
+  "profiles": {
+    "f3bd539a9182e386": {
+      "name": "Nippon Keizai Dantai Rengokai (japan Business Federation)",
+      "description": "Represents Japanese businesses and develops consensus and policy positions on domestic and international economic issues.",
+      "website": "https://www.keidanren.or.jp/en/",
+      "kind": "Business association",
+      "ownership": "Unknown",
+      "legal_form": "General incorporated association (Japan)",
+      "review_outcome": "confirmed",
+      "featured": false,
+      "identity_evidence": "Article 1 of official Articles of Incorporation, amended May 31, 2024, explicitly equates Ippan Shadan Hojin Nippon Keizai Dantai Rengokai, Keidanren and Japan Business Federation. Official profile records general incorporated association status. These are language/name variants of one organization; original IDs and filings remain preserved. No tax exemption inferred.",
+      "notes": "Article 1 of official Articles of Incorporation, amended May 31, 2024, explicitly equates Ippan Shadan Hojin Nippon Keizai Dantai Rengokai, Keidanren and Japan Business Federation. Official profile records general incorporated association status. These are language/name variants of one organization; original IDs and filings remain preserved. No tax exemption inferred.",
+      "sources": [
+        {
+          "url": "https://lda.gov/filings/public/filing/13bcdda7-ede5-4ac5-97a6-584ecd24f7ca/print/",
+          "label": "Original lobbying disclosure",
+          "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+        },
+        {
+          "url": "https://www.keidanren.or.jp/en/profile/pro001.html",
+          "label": "Organization evidence",
+          "claim": "Keidanren's official profile identifies Ippan Shadan Hojin Nippon Keizai Dantai Rengokai as Japan Business Federation and describes its membership and economic-policy mission."
+        },
+        {
+          "url": "https://www.keidanren.or.jp/en/profile/teikan.pdf",
+          "label": "Official articles of incorporation, Article 1",
+          "claim": "Article 1 of official Articles of Incorporation, amended May 31, 2024, explicitly equates Ippan Shadan Hojin Nippon Keizai Dantai Rengokai, Keidanren and Japan Business Federation. Official profile records general incorporated association status. These are language/name variants of one organization; original IDs and filings remain preserved. No tax exemption inferred."
+        }
+      ],
+      "as_of": "2026-09-18",
+      "checked_at": "2026-09-18",
+      "logo_url": "https://www.keidanren.or.jp/images/logo_keidanren02.png",
+      "logo_kind": "logo",
+      "logo_source_url": "https://www.keidanren.or.jp/en/",
+      "logo_status": "official_site_asset",
+      "website_status": "verified",
+      "status": "sourced"
+    },
+    "20a62d58a45596fc": {
+      "name": "Keidanren",
+      "description": "Keidanren, the Japan Business Federation, represents Japanese companies and advocates on economic and business policy.",
+      "website": "https://www.keidanren.or.jp/en/",
+      "kind": "Business federation",
+      "ownership": "Unknown",
+      "legal_form": "General incorporated association (Japan)",
+      "review_outcome": "confirmed",
+      "featured": false,
+      "identity_evidence": "Article 1 of official Articles of Incorporation, amended May 31, 2024, explicitly equates Ippan Shadan Hojin Nippon Keizai Dantai Rengokai, Keidanren and Japan Business Federation. Official profile records general incorporated association status. These are language/name variants of one organization; original IDs and filings remain preserved. No tax exemption inferred.",
+      "notes": "Article 1 of official Articles of Incorporation, amended May 31, 2024, explicitly equates Ippan Shadan Hojin Nippon Keizai Dantai Rengokai, Keidanren and Japan Business Federation. Official profile records general incorporated association status. These are language/name variants of one organization; original IDs and filings remain preserved. No tax exemption inferred.",
+      "sources": [
+        {
+          "url": "https://lda.gov/filings/public/filing/ffdc1ad0-5344-45f5-acac-d6088902323b/print/",
+          "label": "Original lobbying disclosure",
+          "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+        },
+        {
+          "url": "https://lda.gov/api/v1/clients/101195/?format=json",
+          "label": "Organization evidence",
+          "claim": "LDA client record provides the exact disclosed name and self-reported activity."
+        },
+        {
+          "url": "https://www.keidanren.or.jp/en/",
+          "label": "Organization evidence",
+          "claim": "Official organization website identifies the organization and describes the stated activity."
+        },
+        {
+          "label": "Official organization branding",
+          "url": "https://www.keidanren.or.jp/en/",
+          "claim": "Official organization branding. The recipient is the same organization or a documented filing-name variant as the donor; the recipient's official identity evidence supports the shared organization branding. Disclosed name and activity compared with the cited primary organization evidence. Identity is tied to the exact disclosed client name and filing context. Ownership is stated only where organizational or public-sector evidence supports it; no LLC or absence-of-IPO inference was used."
+        },
+        {
+          "url": "https://www.keidanren.or.jp/en/profile/pro001.html",
+          "label": "Official identity evidence",
+          "claim": "Official About page explicitly identifies KEIDANREN as Japan Business Federation and describes corporate and industry-association membership. Direct homepage has economic and business policy publications. Indexed official About page checked September 18, 2026; ownership remains unknown."
+        },
+        {
+          "url": "https://www.keidanren.or.jp/en/profile/teikan.pdf",
+          "label": "Official articles of incorporation, Article 1",
+          "claim": "Article 1 of official Articles of Incorporation, amended May 31, 2024, explicitly equates Ippan Shadan Hojin Nippon Keizai Dantai Rengokai, Keidanren and Japan Business Federation. Official profile records general incorporated association status. These are language/name variants of one organization; original IDs and filings remain preserved. No tax exemption inferred."
+        }
+      ],
+      "as_of": "2026-09-18",
+      "checked_at": "2026-09-18",
+      "logo_url": "https://www.keidanren.or.jp/images/logo_keidanren02.png",
+      "logo_kind": "logo",
+      "logo_source_url": "https://www.keidanren.or.jp/en/",
+      "logo_status": "official_site_asset",
+      "website_status": "verified",
+      "status": "sourced"
+    }
+  },
+  "merge": {
+    "canonical_id": "20a62d58a45596fc",
+    "source_ids": [
+      "20a62d58a45596fc",
+      "f3bd539a9182e386"
+    ],
+    "rationale": "Article 1 of official Articles of Incorporation, amended May 31, 2024, explicitly equates Ippan Shadan Hojin Nippon Keizai Dantai Rengokai, Keidanren and Japan Business Federation. Official profile records general incorporated association status. These are language/name variants of one organization; original IDs and filings remain preserved. No tax exemption inferred.",
+    "sources": [
+      {
+        "url": "https://www.keidanren.or.jp/en/profile/teikan.pdf",
+        "claim": "Article 1 of official Articles of Incorporation, amended May 31, 2024, explicitly equates Ippan Shadan Hojin Nippon Keizai Dantai Rengokai, Keidanren and Japan Business Federation. Official profile records general incorporated association status. These are language/name variants of one organization; original IDs and filings remain preserved. No tax exemption inferred."
+      }
+    ],
+    "reviewed_at": "2026-09-18"
+  }
+}

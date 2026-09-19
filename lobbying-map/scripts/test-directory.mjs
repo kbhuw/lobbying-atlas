@@ -1,0 +1,18 @@
+import assert from 'node:assert/strict';
+import {groupReports,normalized} from '../lib/directory.ts';
+import {readFileSync} from 'node:fs';
+import {gunzipSync} from 'node:zlib';
+const base={registrant:'FIRM, INC.',year:2025,posted:'',amount:'$10,000.00',kind:'1st Quarter - Report'};
+const old={...base,id:'old',posted_iso:'2025-04-01T00:00:00'};
+const amendment={...base,id:'new',registrant:'FIRM INC',kind:'1st Quarter - Amendment',posted_iso:'2025-05-01T00:00:00',amount:'$20,000.00'};
+let g=groupReports([old,old,amendment]);assert.equal(g.length,1);assert.equal(g[0].versions.length,2);assert.equal(g[0].latest[0].id,'new');
+g=groupReports([old,{...amendment,kind:'1st Quarter - Amendment (No Activity)'}]);assert.equal(g[0].active,false);
+g=groupReports([amendment,{...amendment,id:'tied',kind:'1st Quarter - Amendment (No Activity)'}]);assert.equal(g[0].latest.length,2);assert.equal(g[0].active,false);
+assert.equal(groupReports([old,{...old,id:'other',registrant:'OTHER FIRM'}]).length,2);
+assert.equal(normalized('A & B, L.L.C.'),normalized('A AND B LLC'));
+const d=JSON.parse(gunzipSync(readFileSync('public/data/directory-v2.json.gz')));
+const anthropic=d.companies.filter(c=>c.name==='Anthropic');assert.equal(anthropic.length,1);assert.equal(anthropic[0].members.length,3);
+const c=anthropic[0],records=[...new Set(c.members.map(id=>id.slice(0,2)))].flatMap(prefix=>{const shard=JSON.parse(gunzipSync(readFileSync('public/data/reports/'+prefix+'.json.gz')));return c.members.flatMap(id=>shard[id]||[])});
+const grouped=groupReports(records);for(const [y,n] of Object.entries(c.years))assert.equal(grouped.filter(g=>g.year===Number(y)&&g.active).length,n);
+assert.equal(d.companies.flatMap(c=>c.members).length,85426);assert.equal(new Set(d.companies.flatMap(c=>c.members)).size,85426);
+console.log(JSON.stringify({tests:'passed',organizations:d.companies.length,mergedVariants:d.merged_name_variants,anthropicSourceFilings:records.length,anthropic2026Rows:grouped.filter(g=>g.year===2026&&g.active).length}));

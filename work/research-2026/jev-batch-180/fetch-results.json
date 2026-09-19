@@ -1,0 +1,1612 @@
+[
+  {
+    "id": "2e997dbd7c963af2",
+    "name": "Save Our Standards (via Bridge Street Group)",
+    "requested_url": "https://www.saveourstandards.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "1160dac5e5add057",
+    "name": "Bridger Aerospace Group, LLC",
+    "requested_url": "https://ir.bridgeraerospace.com/",
+    "status": 200,
+    "final_url": "https://ir.bridgeraerospace.com/",
+    "text_chars": 3167,
+    "logo_candidates": [
+      {
+        "src": "https://d1io3yog0oux5.cloudfront.net/_e667bc722539efc66711912a64cc494b/bridgeraerospace/files/theme/images/logo.svg",
+        "width": "154",
+        "height": "50",
+        "alt": "Bridger Aerospace Group Holdings, Inc."
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-180/1160dac5e5add057.txt"
+  },
+  {
+    "id": "f41a47b1e2238a95",
+    "name": "Briess Industries, Inc.",
+    "requested_url": "https://briess.com/",
+    "status": 200,
+    "final_url": "https://briess.com/",
+    "text_chars": 684,
+    "logo_candidates": [
+      {
+        "src": "/assets/images/briessLogoL.png",
+        "id": "logo-header",
+        "alt": ""
+      },
+      {
+        "src": "/assets/images/briessLogoL.png",
+        "alt": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-180/f41a47b1e2238a95.txt"
+  },
+  {
+    "id": "3e471757420dfb4b",
+    "name": "Bright Path Laboratories, Inc.",
+    "requested_url": "https://brightpathlabs.com/",
+    "status": 200,
+    "final_url": "https://brightpathlabs.com/",
+    "text_chars": 4595,
+    "logo_candidates": [
+      {
+        "src": "https://brightpathlabs.com/wp-content/uploads/2022/04/22_BrightPath_Logo.png",
+        "width": "1476",
+        "height": "681",
+        "alt": "Bright Path",
+        "id": "logo",
+        "data-height-percentage": "70"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "1476",
+        "height": "681",
+        "src": "https://brightpathlabs.com/wp-content/uploads/2022/04/22_BrightPath_Logo.webp",
+        "alt": "",
+        "title": "22_BrightPath_Logo",
+        "srcset": "https://brightpathlabs.com/wp-content/uploads/2022/04/22_BrightPath_Logo.webp 1476w, https://brightpathlabs.com/wp-content/uploads/2022/04/22_BrightPath_Logo-1280x591.webp 1280w, https://brightpathlabs.com/wp-content/uploads/2022/04/22_BrightPath_Logo-980x452.webp 980w, https://brightpathlabs.com/wp-content/uploads/2022/04/22_BrightPath_Logo-480x221.webp 480w",
+        "sizes": "auto, (min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1476px, 100vw",
+        "class": "wp-image-241731"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-180/3e471757420dfb4b.txt"
+  },
+  {
+    "id": "5ea12ebe38faae5a",
+    "name": "Brightline Holdings LLC (formerly Virgin Trains Usa)",
+    "requested_url": "https://www.gobrightline.com/",
+    "status": 200,
+    "final_url": "https://www.gobrightline.com/",
+    "text_chars": 3820,
+    "logo_candidates": [
+      {
+        "src": "/content/dam/brightline/images/logos/newblack.svg",
+        "alt": "Brightline"
+      },
+      {
+        "src": "/content/dam/brightline/images/logos/x-white-logo.png",
+        "alt": "X",
+        "class": "blte-img-btn__img blte-img-btn--imageSocialMedia"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-180/5ea12ebe38faae5a.txt"
+  },
+  {
+    "id": "5aca58282d7f4885",
+    "name": "Brightnight US LLC",
+    "requested_url": "https://brightnightpower.com/",
+    "status": 200,
+    "final_url": "https://brightnightpower.com/",
+    "text_chars": 4088,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-180/5aca58282d7f4885.txt"
+  },
+  {
+    "id": "d50316833958892d",
+    "name": "Briotech Inc",
+    "requested_url": "https://briotech.com/",
+    "status": 200,
+    "final_url": "https://www.briotech.com/",
+    "text_chars": 11902,
+    "logo_candidates": [
+      {
+        "class": "stnd skip-lazy default-logo",
+        "width": "842.31",
+        "height": "463.59",
+        "alt": "Briotech",
+        "src": "https://www.briotech.com/wp-content/uploads/2022/05/brio-black-1.svg",
+        "srcset": "https://www.briotech.com/wp-content/uploads/2022/05/brio-black-1.svg 1x, https://www.briotech.com/wp-content/uploads/2022/05/brio-black-1.svg 2x"
+      },
+      {
+        "class": "mobile-only-logo skip-lazy",
+        "alt": "Briotech",
+        "width": "842.31",
+        "height": "463.59",
+        "src": "https://www.briotech.com/wp-content/uploads/2022/05/brio-black-1.svg"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "class": "img-with-animation skip-lazy ",
+        "data-delay": "0",
+        "height": "400",
+        "width": "400",
+        "data-animation": "fade-in",
+        "src": "https://www.briotech.com/wp-content/uploads/2024/10/Middle-East-Logo-400400-1.png",
+        "alt": "",
+        "srcset": "https://www.briotech.com/wp-content/uploads/2024/10/Middle-East-Logo-400400-1.png 400w, https://www.briotech.com/wp-content/uploads/2024/10/Middle-East-Logo-400400-1-300x300.png 300w, https://www.briotech.com/wp-content/uploads/2024/10/Middle-East-Logo-400400-1-150x150.png 150w, https://www.briotech.com/wp-content/uploads/2024/10/Middle-East-Logo-400400-1-100x100.png 100w, https://www.briotech.com/wp-content/uploads/2024/10/Middle-East-Logo-400400-1-140x140.png 140w, https://www.briotech.com/wp-content/uploads/2024/10/Middle-East-Logo-400400-1-350x350.png 350w",
+        "sizes": "auto, (max-width: 400px) 100vw, 400px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "class": "img-with-animation skip-lazy ",
+        "data-delay": "0",
+        "height": "400",
+        "width": "400",
+        "data-animation": "fade-in",
+        "src": "https://www.briotech.com/wp-content/uploads/2024/10/Middle-East-Logo-400400.png",
+        "alt": "",
+        "srcset": "https://www.briotech.com/wp-content/uploads/2024/10/Middle-East-Logo-400400.png 400w, https://www.briotech.com/wp-content/uploads/2024/10/Middle-East-Logo-400400-300x300.png 300w, https://www.briotech.com/wp-content/uploads/2024/10/Middle-East-Logo-400400-150x150.png 150w, https://www.briotech.com/wp-content/uploads/2024/10/Middle-East-Logo-400400-100x100.png 100w, https://www.briotech.com/wp-content/uploads/2024/10/Middle-East-Logo-400400-140x140.png 140w, https://www.briotech.com/wp-content/uploads/2024/10/Middle-East-Logo-400400-350x350.png 350w",
+        "sizes": "auto, (max-width: 400px) 100vw, 400px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "class": "img-with-animation skip-lazy ",
+        "data-delay": "0",
+        "height": "400",
+        "width": "400",
+        "data-animation": "fade-in",
+        "src": "https://www.briotech.com/wp-content/uploads/2024/10/Kaleshwari-Logos-400400.png",
+        "alt": "",
+        "srcset": "https://www.briotech.com/wp-content/uploads/2024/10/Kaleshwari-Logos-400400.png 400w, https://www.briotech.com/wp-content/uploads/2024/10/Kaleshwari-Logos-400400-300x300.png 300w, https://www.briotech.com/wp-content/uploads/2024/10/Kaleshwari-Logos-400400-150x150.png 150w, https://www.briotech.com/wp-content/uploads/2024/10/Kaleshwari-Logos-400400-100x100.png 100w, https://www.briotech.com/wp-content/uploads/2024/10/Kaleshwari-Logos-400400-140x140.png 140w, https://www.briotech.com/wp-content/uploads/2024/10/Kaleshwari-Logos-400400-350x350.png 350w",
+        "sizes": "auto, (max-width: 400px) 100vw, 400px"
+      },
+      {
+        "decoding": "async",
+        "alt": "",
+        "src": "https://www.briotech.com/wp-content/uploads/2024/10/Perk-Logo-white-background.png",
+        "title": "Name"
+      },
+      {
+        "decoding": "async",
+        "alt": "",
+        "src": "https://www.briotech.com/wp-content/uploads/2025/02/mio-logo-500sq-1.png",
+        "title": "Name"
+      },
+      {
+        "decoding": "async",
+        "alt": "",
+        "src": "https://www.briotech.com/wp-content/uploads/2025/02/crowdstrike-logo-500sq.png",
+        "title": "Name"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-180/d50316833958892d.txt"
+  },
+  {
+    "id": "7b0c21a493785ddd",
+    "name": "Broadcom Limited",
+    "requested_url": "https://www.broadcom.com/",
+    "status": 200,
+    "final_url": "https://www.broadcom.com/",
+    "text_chars": 113,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-180/7b0c21a493785ddd.txt"
+  },
+  {
+    "id": "4e3cb0b3aabf1fde",
+    "name": "Brookfield Power US Asset Management",
+    "requested_url": "https://bep.brookfield.com/",
+    "status": 200,
+    "final_url": "https://bep.brookfield.com/",
+    "text_chars": 8232,
+    "logo_candidates": [
+      {
+        "class": "image header__logo",
+        "src": "/sites/brookfield-bn-v2/files/brookfield-bn/brookfirld-bn-black-text-logo.png",
+        "alt": "brookfield logo",
+        "typeof": "foaf:Image"
+      },
+      {
+        "src": "/sites/brookfield-bep-v2/files/brookfield-bn/brookfirld-bn-white-text-logo.png",
+        "width": "141",
+        "height": "41",
+        "alt": "Brookfield-bn",
+        "loading": "lazy",
+        "typeof": "foaf:Image"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-180/4e3cb0b3aabf1fde.txt"
+  },
+  {
+    "id": "e5536fba7abc1179",
+    "name": "Brookfield US Power US Asset Management LLC",
+    "requested_url": "https://bep.brookfield.com/",
+    "status": 200,
+    "final_url": "https://bep.brookfield.com/",
+    "text_chars": 8239,
+    "logo_candidates": [
+      {
+        "class": "image header__logo",
+        "src": "/sites/brookfield-bn-v2/files/brookfield-bn/brookfirld-bn-black-text-logo.png",
+        "alt": "brookfield logo",
+        "typeof": "foaf:Image"
+      },
+      {
+        "src": "/sites/brookfield-bep-v2/files/brookfield-bn/brookfirld-bn-white-text-logo.png",
+        "width": "141",
+        "height": "41",
+        "alt": "Brookfield-bn",
+        "loading": "lazy",
+        "typeof": "foaf:Image"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-180/e5536fba7abc1179.txt"
+  },
+  {
+    "id": "7b5de9ef71113d59",
+    "name": "Brooklyn Chamber Of Commerce",
+    "requested_url": "https://www.brooklynchamber.com/",
+    "status": 200,
+    "final_url": "https://www.brooklynchamber.com/",
+    "text_chars": 2089,
+    "logo_candidates": [
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "306",
+        "height": "100",
+        "class": "fl-photo-img wp-image-69",
+        "src": "https://wordpress-376037-1244439.cloudwaysapps.com/wp-content/uploads/2019/10/brooklyn-chamber-of-commerce-logo.png",
+        "alt": "brooklyn-chamber-of-commerce-logo",
+        "title": "brooklyn-chamber-of-commerce-logo",
+        "data-no-lazy": "1",
+        "itemprop": "image"
+      },
+      {
+        "class": "uabb-gallery-img",
+        "src": "https://www.brooklynchamber.com/wp-content/uploads/2019/12/Alma-Bank-HiRes-Logo-600x75.png",
+        "alt": "",
+        "title": "Alma Bank HiRes Logo"
+      },
+      {
+        "class": "uabb-gallery-img",
+        "src": "https://www.brooklynchamber.com/wp-content/uploads/2019/12/Bank-of-America-Logo-600x338.png",
+        "alt": "",
+        "title": "Bank-of-America-Logo"
+      },
+      {
+        "class": "uabb-gallery-img",
+        "src": "https://www.brooklynchamber.com/wp-content/uploads/2019/12/BCS160-logo_color-600x492.png",
+        "alt": "",
+        "title": "BCS160-logo_color"
+      },
+      {
+        "class": "uabb-gallery-img",
+        "src": "https://www.brooklynchamber.com/wp-content/uploads/2019/12/CP-logo-600x211.png",
+        "alt": "",
+        "title": "CP - logo"
+      },
+      {
+        "class": "uabb-gallery-img",
+        "src": "https://www.brooklynchamber.com/wp-content/uploads/2019/12/Dime_Logo_rgb-512x298-1.jpg",
+        "alt": "",
+        "title": "Dime_Logo_rgb-512x298"
+      },
+      {
+        "class": "uabb-gallery-img",
+        "src": "https://www.brooklynchamber.com/wp-content/uploads/2019/12/doordash-logo--600x291.png",
+        "alt": "",
+        "title": "doordash-logo-"
+      },
+      {
+        "class": "uabb-gallery-img",
+        "src": "https://www.brooklynchamber.com/wp-content/uploads/2019/12/downstate-logo-light-1000-1000-600x600.png",
+        "alt": "",
+        "title": "downstate-logo-light-1000-1000"
+      },
+      {
+        "class": "uabb-gallery-img",
+        "src": "https://www.brooklynchamber.com/wp-content/uploads/2019/12/ExxonMobil-Logo-600x230.png",
+        "alt": "",
+        "title": "ExxonMobil-Logo"
+      },
+      {
+        "class": "uabb-gallery-img",
+        "src": "https://www.brooklynchamber.com/wp-content/uploads/2019/12/Haugland-logo-600x338.png",
+        "alt": "",
+        "title": "Haugland logo"
+      },
+      {
+        "class": "uabb-gallery-img",
+        "src": "https://www.brooklynchamber.com/wp-content/uploads/2019/12/MSK-logo-Vertical-BLUE-1-600x297.png",
+        "alt": "",
+        "title": "MSK logo Vertical BLUE (1)"
+      },
+      {
+        "class": "uabb-gallery-img",
+        "src": "https://www.brooklynchamber.com/wp-content/uploads/2019/12/JPMorgan-Chase-Logo-SVG-preview-600x360.jpg",
+        "alt": "",
+        "title": "JPMorgan-Chase-Logo-SVG-preview"
+      },
+      {
+        "class": "uabb-gallery-img",
+        "src": "https://www.brooklynchamber.com/wp-content/uploads/2019/12/maimonides-logo-2_1_orig-600x355.png",
+        "alt": "",
+        "title": "maimonides-logo-2_1_orig"
+      },
+      {
+        "class": "uabb-gallery-img",
+        "src": "https://www.brooklynchamber.com/wp-content/uploads/2019/12/Meta-Logo-600x338.webp",
+        "alt": "",
+        "title": "Meta-Logo"
+      },
+      {
+        "class": "uabb-gallery-img",
+        "src": "https://www.brooklynchamber.com/wp-content/uploads/2019/12/National_Grid_Logo_PNG_National_Grid_Logo_RGB-600x192.png",
+        "alt": "",
+        "title": "National_Grid_Logo_PNG_National_Grid_Logo_RGB"
+      },
+      {
+        "class": "uabb-gallery-img",
+        "src": "https://www.brooklynchamber.com/wp-content/uploads/2019/12/One-Brooklyn-Health-logo-1536x323-1-600x126.jpg",
+        "alt": "",
+        "title": "One-Brooklyn-Health-logo-1536x323"
+      },
+      {
+        "class": "uabb-gallery-img",
+        "src": "https://www.brooklynchamber.com/wp-content/uploads/2019/12/PACHA-LOGO-HORIZONTAL_COLOR-600x103.png",
+        "alt": "",
+        "title": "PACHA LOGO HORIZONTAL_COLOR"
+      },
+      {
+        "class": "uabb-gallery-img",
+        "src": "https://www.brooklynchamber.com/wp-content/uploads/2019/12/pilot-logo.png",
+        "alt": "",
+        "title": "pilot-logo"
+      },
+      {
+        "class": "uabb-gallery-img",
+        "src": "https://www.brooklynchamber.com/wp-content/uploads/2019/12/Perfered-PMI_US_logo_PMI_US_hor-600x282.jpg",
+        "alt": "",
+        "title": "Perfered-PMI_US_logo_PMI_US_hor"
+      },
+      {
+        "class": "uabb-gallery-img",
+        "src": "https://www.brooklynchamber.com/wp-content/uploads/2019/12/td-bank-logo-2048x1152-1-600x338.png",
+        "alt": "",
+        "title": "td-bank-logo-2048x1152"
+      },
+      {
+        "class": "uabb-gallery-img",
+        "src": "https://www.brooklynchamber.com/wp-content/uploads/2019/12/New-TB-Logo-591x600.png",
+        "alt": "",
+        "title": "New TB Logo"
+      },
+      {
+        "class": "uabb-gallery-img",
+        "src": "https://www.brooklynchamber.com/wp-content/uploads/2019/12/Verizon_2015_logo_-vector.svg.png",
+        "alt": "",
+        "title": "Verizon_2015_logo_-vector.svg"
+      },
+      {
+        "class": "uabb-gallery-img",
+        "src": "https://www.brooklynchamber.com/wp-content/uploads/2019/12/Wells_Fargo_Logo_2020.svg-950x1024-1-557x600.png",
+        "alt": "",
+        "title": "Wells_Fargo_Logo_2020.svg-950x1024"
+      },
+      {
+        "class": "uabb-gallery-img",
+        "src": "https://www.brooklynchamber.com/wp-content/uploads/2019/12/zayo-logo-orange-2-600x194.png",
+        "alt": "",
+        "title": "zayo-logo-orange (2)"
+      },
+      {
+        "class": "uabb-gallery-img",
+        "src": "https://www.brooklynchamber.com/wp-content/uploads/2019/12/Zelle-logo-no-tagline-CMYK-purple-600x278.png",
+        "alt": "",
+        "title": "Zelle-logo-no-tagline-CMYK-purple"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "class": "fl-photo-img wp-image-69 size-full",
+        "src": "https://www.brooklynchamber.com/wp-content/uploads/2019/10/brooklyn-chamber-of-commerce-logo.png",
+        "alt": "brooklyn-chamber-of-commerce-logo",
+        "height": "100",
+        "width": "306",
+        "title": "brooklyn-chamber-of-commerce-logo",
+        "itemprop": "image"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-180/7b5de9ef71113d59.txt"
+  },
+  {
+    "id": "ea6a0a20652c25a4",
+    "name": "Reinsurance Association Of America (via Brownstein)",
+    "requested_url": "https://www.reinsurance.org/RAA/RAA/About-the-RAA/About-the-RAA.aspx",
+    "status": 200,
+    "final_url": "https://www.reinsurance.org/RAA/RAA/About-the-RAA/About-the-RAA.aspx",
+    "text_chars": 9348,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-180/ea6a0a20652c25a4.txt"
+  },
+  {
+    "id": "e789fb57feb8a125",
+    "name": "Apollo Management Holding (via Brownstein)",
+    "requested_url": "https://www.apollo.com/",
+    "status": 200,
+    "final_url": "https://www.apollo.com/",
+    "text_chars": 12200,
+    "logo_candidates": [
+      {
+        "src": "/content/dam/apolloaem/logo/Apollo%20Footer%20Logo.svg",
+        "loading": "lazy",
+        "alt": "Apollo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-180/e789fb57feb8a125.txt"
+  },
+  {
+    "id": "d592a662ec051fff",
+    "name": "Bakelite US Holdco, Inc. (via Brownstein)",
+    "requested_url": "https://www.bakelite.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "c55abc4bd4e84507",
+    "name": "Barrick Gold Of North America (via Brownstein)",
+    "requested_url": "https://www.barrick.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "b6d90d89989ec9de",
+    "name": "Beep, Inc. (via Brownstein)",
+    "requested_url": "https://ridebeep.com/",
+    "status": 200,
+    "final_url": "https://ridebeep.com/",
+    "text_chars": 8011,
+    "logo_candidates": [
+      {
+        "src": "https://ride-beep.transforms.svdcdn.com/production/logo-mobileye_2026-09-10-124140_zfba.png?w=781&h=301&auto=compress%2Cformat&fit=crop&dm=1789044100&s=7db42e404d013af431998921db19dd7c",
+        "alt": "Logo mobileye",
+        "class": "max-h-24 mt-12"
+      },
+      {
+        "src": "https://ride-beep.transforms.svdcdn.com/production/logo-jta-full-black.png?w=781&h=301&auto=compress%2Cformat&fit=crop&dm=1697655312&s=88d49d2d998bed1bb2363f4645ea0f5b",
+        "alt": "Logo jta full black",
+        "class": "max-h-24 mt-12"
+      },
+      {
+        "src": "https://ride-beep.transforms.svdcdn.com/production/CumberlandCID_Logo_Pantone-1024x392.png?w=1024&h=392&auto=compress%2Cformat&fit=crop&dm=1697660584&s=5eb5da8788c891dc0631474c420f54a0",
+        "alt": "Cumberland CID Logo Pantone 1024x392",
+        "class": "max-h-24 mt-12"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-180/b6d90d89989ec9de.txt"
+  },
+  {
+    "id": "53a147f99eced163",
+    "name": "Eptura, Inc. (via Brownstein)",
+    "requested_url": "https://www.eptura.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "2f9e065197e7a96c",
+    "name": "Invacare America (via Brownstein)",
+    "requested_url": "https://www.invacare.com/",
+    "status": 200,
+    "final_url": "https://www.invacare.com/",
+    "text_chars": 1712,
+    "logo_candidates": [
+      {
+        "width": "500",
+        "height": "237",
+        "src": "https://www.invacare.com/storage/2025/04/logo-invacare-1.png",
+        "class": "attachment-large size-large wp-image-153",
+        "alt": "Invacare Logo",
+        "srcset": "https://www.invacare.com/storage/2025/04/logo-invacare-1.png 500w, https://www.invacare.com/storage/2025/04/logo-invacare-1-300x142.png 300w",
+        "sizes": "(max-width: 500px) 100vw, 500px"
+      },
+      {
+        "width": "500",
+        "height": "237",
+        "src": "https://www.invacare.com/storage/2025/06/logo-invacare.png",
+        "class": "attachment-full size-full wp-image-2299",
+        "alt": "",
+        "srcset": "https://www.invacare.com/storage/2025/06/logo-invacare.png 500w, https://www.invacare.com/storage/2025/06/logo-invacare-300x142.png 300w",
+        "sizes": "(max-width: 500px) 100vw, 500px"
+      },
+      {
+        "width": "500",
+        "height": "237",
+        "src": "https://www.invacare.com/storage/2025/06/logo-invacare.png",
+        "class": "attachment-full size-full wp-image-2299",
+        "alt": "",
+        "srcset": "https://www.invacare.com/storage/2025/06/logo-invacare.png 500w, https://www.invacare.com/storage/2025/06/logo-invacare-300x142.png 300w",
+        "sizes": "(max-width: 500px) 100vw, 500px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-180/2f9e065197e7a96c.txt"
+  },
+  {
+    "id": "7c1a7c2eb3c3803f",
+    "name": "ArcelorMittal Liberia (via Bryan Cave Leighton Paisner)",
+    "requested_url": "https://corporate.arcelormittal.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "9e310fef8e347b9c",
+    "name": "Bumble Bee Seafoods, LLC",
+    "requested_url": "https://bumblebee.com/",
+    "status": 200,
+    "final_url": "https://www.bumblebee.com/",
+    "text_chars": 2221,
+    "logo_candidates": [
+      {
+        "src": "https://www.bumblebee.com/wp-content/uploads/2022/03/logo_color.svg",
+        "class": "img-fluid ",
+        "alt": "Bumble Bee color logo"
+      },
+      {
+        "role": "presentation",
+        "class": "roundLogo",
+        "src": "/wp-content/uploads/2024/09/lighthouse_round_color.png",
+        "alt": "Round Bumble Bee"
+      },
+      {
+        "src": "https://www.bumblebee.com/wp-content/uploads/2022/03/logo_color.svg",
+        "class": "img-fluid",
+        "alt": "Bumble Bee Seafoods logo"
+      },
+      {
+        "src": "https://www.bumblebee.com/wp-content/uploads/2022/03/logo_white.svg",
+        "class": "img-fluid",
+        "style": "min-height: 35px;",
+        "alt": "Bumble Bee Seafood"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-180/9e310fef8e347b9c.txt"
+  },
+  {
+    "id": "369c6dc842ba93a7",
+    "name": "BY Light Professional IT Services, Inc.",
+    "requested_url": "https://bylight.com/",
+    "status": 200,
+    "final_url": "https://bylight.com/",
+    "text_chars": 9329,
+    "logo_candidates": [
+      {
+        "src": "https://bylight.com/wp-content/uploads/2023/10/footer-logo.svg",
+        "alt": "bylight"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-180/369c6dc842ba93a7.txt"
+  },
+  {
+    "id": "9d0b86fdc8e56563",
+    "name": "C&S Wholesale Grocers (filed as Inc.)",
+    "requested_url": "https://www.cswg.com/",
+    "status": 200,
+    "final_url": "https://www.cswg.com/",
+    "text_chars": 5890,
+    "logo_candidates": [
+      {
+        "width": "70",
+        "height": "28",
+        "src": "https://www.cswg.com/wp-content/uploads/2026/05/CS_Wholesale_Grocers_logo.svg",
+        "class": "attachment-full size-full wp-image-67510",
+        "alt": ""
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "433",
+        "height": "101",
+        "src": "https://www.cswg.com/wp-content/uploads/2026/06/cares-logo_white-1.png",
+        "class": "attachment-large size-large wp-image-67681",
+        "alt": "",
+        "srcset": "https://www.cswg.com/wp-content/uploads/2026/06/cares-logo_white-1.png 433w, https://www.cswg.com/wp-content/uploads/2026/06/cares-logo_white-1-300x70.png 300w",
+        "sizes": "(max-width: 433px) 100vw, 433px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-180/9d0b86fdc8e56563.txt"
+  },
+  {
+    "id": "2e658c89a1089dcd",
+    "name": "Secondary Materials and Recycled Textiles Association (via C2 Association Strategies)",
+    "requested_url": "https://www.smartasn.org/",
+    "status": 200,
+    "final_url": "https://www.smartasn.org/",
+    "text_chars": 3682,
+    "logo_candidates": [
+      {
+        "src": "/SMARTASN/assets/Image/m-logo.jpg",
+        "alt": "SMART Logo"
+      },
+      {
+        "src": "/SMARTASN/assets/Image/m-logo.jpg",
+        "alt": "SMART Logo"
+      },
+      {
+        "alt": "Twitter",
+        "src": "/SMARTASN/assets/Image/xlogo.jpg"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-180/2e658c89a1089dcd.txt"
+  },
+  {
+    "id": "dd304b3fd4586505",
+    "name": "Bluesky Innovations Holdings, Inc. (via C2 Strategies)",
+    "requested_url": "https://www.blueskyinnovations.com/",
+    "status": 200,
+    "final_url": "https://www.blueskyinnovations.com/",
+    "text_chars": 4292,
+    "logo_candidates": [
+      {
+        "width": "200",
+        "loading": "lazy",
+        "alt": "BlueSky Innovations logo",
+        "src": "https://cdn.prod.website-files.com/6978d859788fd1d2425b7b4f/697ba22dd583ae298b358748_relume-682495.avif",
+        "sizes": "200px",
+        "srcset": "https://cdn.prod.website-files.com/6978d859788fd1d2425b7b4f/697ba22dd583ae298b358748_relume-682495-p-500.png 500w, https://cdn.prod.website-files.com/6978d859788fd1d2425b7b4f/697ba22dd583ae298b358748_relume-682495.avif 792w",
+        "class": "navbar5_logo w-variant-57d9f098-a9e4-864a-4f1a-5fd63dadaed7"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/6978d859788fd1d2425b7b4f/69baae8ab110e9911f82f4d9_LOGO_BSM_wh_bl_tagline.avif",
+        "alt": "BlueSky Mast Elevating Solutions",
+        "class": "logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/6978d859788fd1d2425b7b4f/69baae89200e0abac30fed52_LOGO_BSMP_wh_bl_tagline.avif",
+        "alt": "BlueSky Mobile Power Energizing Solutions",
+        "class": "logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/6978d859788fd1d2425b7b4f/69baae8abd45c4919efeafee_LOGO_BSI_wh_bl_tagline.avif",
+        "alt": "BlueSky Innovations pioneering defense solutions",
+        "class": "logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/6978d859788fd1d2425b7b4f/69b96fd9ec64cd9a7bf75b0f_LOGO-ARMY.webp",
+        "alt": "ARMY wordmark logo in bold black uppercase letters.",
+        "class": "logo3_logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/6978d859788fd1d2425b7b4f/69b96fffb6b8ab290db2d549_LOGO-AIRFORCE.webp",
+        "alt": "United States Air Force emblem featuring a stylized silver eagle and star.",
+        "class": "logo3_logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/6978d859788fd1d2425b7b4f/69b97000733aebd9fd7056c1_LOGO-CIA.webp",
+        "alt": "Seal of the Central Intelligence Agency with an eagle above a shield featuring a compass rose and the text 'Central Intelligence Agency United States of America'.",
+        "class": "logo3_logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/6978d859788fd1d2425b7b4f/69b97000a8327d70fbd20924_LOGO-COASTGUARD.webp",
+        "alt": "Seal of the United States Coast Guard with crossed anchors and rope border.",
+        "class": "logo3_logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/6978d859788fd1d2425b7b4f/69b97004a566ae997d7fa956_LOGO-DEPT-JUSTICE.webp",
+        "alt": "Seal of the Federal Bureau of Investigation, Department of Justice, with an eagle, shield, and 13 stars.",
+        "class": "logo3_logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/6978d859788fd1d2425b7b4f/69b970049833c31abbbb7235_LOGO-HOMELANDSECURITY.webp",
+        "alt": "Seal of the U.S. Department of Homeland Security featuring an eagle with a shield on its chest.",
+        "class": "logo3_logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/6978d859788fd1d2425b7b4f/69b97004282ff45761a0f5b6_LOGO-NASA.webp",
+        "alt": "NASA logo with white letters and a swoosh orbit design featuring stars on a dark blue background.",
+        "class": "logo3_logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/6978d859788fd1d2425b7b4f/69b97014882c57e5d26d8b5b_LOGO-TechPartner_NORTHROPGRUMMAN.webp",
+        "alt": "Northrop Grumman logo",
+        "class": "logo3_logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/6978d859788fd1d2425b7b4f/69b9700fd9f04a67a2d9d339_LOGO-TechPartner_LEIDOS.webp",
+        "alt": "Leidos Tech Partner logo text.",
+        "class": "logo3_logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/6978d859788fd1d2425b7b4f/69b9700ecac7fd29563367f7_LOGO-TechPartner_L3HARRIS.webp",
+        "alt": "L3Harris Technologies logo",
+        "class": "logo3_logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/6978d859788fd1d2425b7b4f/69b9701092897dbe12227eb6_LOGO-TechPartner_LOCKHEEDMARTIN.webp",
+        "alt": "Simplified dark blue silhouette of a tank facing left on a white background.",
+        "class": "logo3_logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/6978d859788fd1d2425b7b4f/69b970128c11dba81f60b0ed_LOGO-TechPartner_ULTRA.webp",
+        "alt": "TechPartner logo in dark blue letters.",
+        "class": "logo3_logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/6978d859788fd1d2425b7b4f/69b9700e14ffaf21ac8ff8f6_LOGO-TechPartner_GOSIGER.webp",
+        "alt": "Gosiger Tech Partner logo.",
+        "class": "logo3_logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/6978d859788fd1d2425b7b4f/69b97010defb78bf49ceb42d_LOGO-TechPartner_OKUMA.webp",
+        "alt": "TechPartner OKUMA company logo in dark blue text.",
+        "class": "logo3_logo"
+      },
+      {
+        "width": "200",
+        "loading": "lazy",
+        "alt": "BlueSky Innovations logo",
+        "src": "https://cdn.prod.website-files.com/6978d859788fd1d2425b7b4f/697ba22dd583ae298b358748_relume-682495.avif",
+        "class": "footer4_logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-180/dd304b3fd4586505.txt"
+  },
+  {
+    "id": "60d06838332fd0cb",
+    "name": "Axnes Aviation (via C2 Strategies)",
+    "requested_url": "https://axnes.com/about",
+    "status": 200,
+    "final_url": "https://axnes.com/about",
+    "text_chars": 4121,
+    "logo_candidates": [
+      {
+        "decoding": "async",
+        "width": "496",
+        "height": "70",
+        "src": "https://temp.axnes.com/wp-content/uploads/2025/10/Axnes_logo_WHITE-YELLOW.png",
+        "alt": "",
+        "srcset": "https://axnes.com/wp-content/uploads/2025/10/Axnes_logo_WHITE-YELLOW.png 496w, https://axnes.com/wp-content/uploads/2025/10/Axnes_logo_WHITE-YELLOW-480x68.png 480w",
+        "sizes": "(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 496px, 100vw",
+        "class": "wp-image-40"
+      },
+      {
+        "fetchpriority": "high",
+        "decoding": "async",
+        "width": "468",
+        "height": "145",
+        "src": "https://temp.axnes.com/wp-content/uploads/2025/11/Vipe-21-Logo-white.webp",
+        "alt": "",
+        "title": "Vipe 21 Logo white",
+        "srcset": "https://axnes.com/wp-content/uploads/2025/11/Vipe-21-Logo-white.webp 468w, https://axnes.com/wp-content/uploads/2025/11/Vipe-21-Logo-white-300x93.webp 300w",
+        "sizes": "(max-width: 468px) 100vw, 468px",
+        "class": "wp-image-659"
+      },
+      {
+        "decoding": "async",
+        "width": "745",
+        "height": "364",
+        "src": "https://temp.axnes.com/wp-content/uploads/2025/11/Nvolo-Logo.png",
+        "alt": "",
+        "title": "Nvolo Logo",
+        "srcset": "https://axnes.com/wp-content/uploads/2025/11/Nvolo-Logo.png 745w, https://axnes.com/wp-content/uploads/2025/11/Nvolo-Logo-480x235.png 480w",
+        "sizes": "(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 745px, 100vw",
+        "class": "wp-image-730"
+      },
+      {
+        "decoding": "async",
+        "width": "1181",
+        "height": "600",
+        "src": "https://temp.axnes.com/wp-content/uploads/2025/11/Logo_100mm300dpi-1200x600-1.jpg",
+        "alt": "",
+        "title": "Logo_100mm300dpi-1200x600-1",
+        "srcset": "https://axnes.com/wp-content/uploads/2025/11/Logo_100mm300dpi-1200x600-1.jpg 1181w, https://axnes.com/wp-content/uploads/2025/11/Logo_100mm300dpi-1200x600-1-980x498.jpg 980w, https://axnes.com/wp-content/uploads/2025/11/Logo_100mm300dpi-1200x600-1-480x244.jpg 480w",
+        "sizes": "(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1181px, 100vw",
+        "class": "wp-image-732"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "500",
+        "height": "254",
+        "src": "https://temp.axnes.com/wp-content/uploads/2025/10/Footer-logo-AS-9100.png",
+        "alt": "",
+        "title": "Footer logo AS 9100",
+        "srcset": "https://axnes.com/wp-content/uploads/2025/10/Footer-logo-AS-9100.png 500w, https://axnes.com/wp-content/uploads/2025/10/Footer-logo-AS-9100-480x244.png 480w",
+        "sizes": "(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 500px, 100vw",
+        "class": "wp-image-74"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "500",
+        "height": "422",
+        "src": "https://temp.axnes.com/wp-content/uploads/2025/10/Footer-Logo-Cyber-Essentials.png",
+        "alt": "",
+        "title": "Footer Logo Cyber Essentials",
+        "srcset": "https://axnes.com/wp-content/uploads/2025/10/Footer-Logo-Cyber-Essentials.png 500w, https://axnes.com/wp-content/uploads/2025/10/Footer-Logo-Cyber-Essentials-480x405.png 480w",
+        "sizes": "(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 500px, 100vw",
+        "class": "wp-image-73"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-180/60d06838332fd0cb.txt"
+  },
+  {
+    "id": "79abcc20b1d2869c",
+    "name": "Avlite Systems (via C2 Strategies)",
+    "requested_url": "https://www.avlite.com/",
+    "status": 200,
+    "final_url": "https://www.avlite.com/",
+    "text_chars": 34209,
+    "logo_candidates": [
+      {
+        "class": "logo-inner",
+        "src": "/wp-content/uploads/2023/04/Avlite-SPX.png",
+        "width": "300",
+        "height": "100",
+        "alt": "Avlite Systems",
+        "style": "padding-top:15px"
+      },
+      {
+        "class": "logo-inner-responsive",
+        "src": "/wp-content/uploads/2023/04/Avlite-SPX.png",
+        "width": "300",
+        "height": "100",
+        "alt": "Avlite Systems style=\n",
+        "padding-top:15px\"": null
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-180/79abcc20b1d2869c.txt"
+  },
+  {
+    "id": "6ad3cf674a4f8676",
+    "name": "HDT Global (via C2 Strategies)",
+    "requested_url": "https://www.hdtglobal.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "113f7a279b0b8d2a",
+    "name": "Cocoon (via C2 Strategies)",
+    "requested_url": "https://www.cocoon-inc.com/",
+    "status": 200,
+    "final_url": "https://www.cocoon-inc.com/",
+    "text_chars": 2161,
+    "logo_candidates": [
+      {
+        "src": "//images.squarespace-cdn.com/content/v1/612f90349bc183142e580583/54018dde-0bdc-4d45-91a8-ff6259e7bbe7/cocoon-logo-2x.png",
+        "alt": "Cocoon, Inc.",
+        "sizes": "240px",
+        "class": "Mobile-bar-branding-logo",
+        "style": "display:block",
+        "srcset": "//images.squarespace-cdn.com/content/v1/612f90349bc183142e580583/54018dde-0bdc-4d45-91a8-ff6259e7bbe7/cocoon-logo-2x.png?format=100w 100w, //images.squarespace-cdn.com/content/v1/612f90349bc183142e580583/54018dde-0bdc-4d45-91a8-ff6259e7bbe7/cocoon-logo-2x.png?format=300w 300w, //images.squarespace-cdn.com/content/v1/612f90349bc183142e580583/54018dde-0bdc-4d45-91a8-ff6259e7bbe7/cocoon-logo-2x.png?format=500w 500w, //images.squarespace-cdn.com/content/v1/612f90349bc183142e580583/54018dde-0bdc-4d45-91a8-ff6259e7bbe7/cocoon-logo-2x.png?format=750w 750w, //images.squarespace-cdn.com/content/v1/612f90349bc183142e580583/54018dde-0bdc-4d45-91a8-ff6259e7bbe7/cocoon-logo-2x.png?format=1000w 1000w, //images.squarespace-cdn.com/content/v1/612f90349bc183142e580583/54018dde-0bdc-4d45-91a8-ff6259e7bbe7/cocoon-logo-2x.png?format=1500w 1500w, //images.squarespace-cdn.com/content/v1/612f90349bc183142e580583/54018dde-0bdc-4d45-91a8-ff6259e7bbe7/cocoon-logo-2x.png?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs"
+      },
+      {
+        "src": "//images.squarespace-cdn.com/content/v1/612f90349bc183142e580583/54018dde-0bdc-4d45-91a8-ff6259e7bbe7/cocoon-logo-2x.png",
+        "alt": "Cocoon, Inc.",
+        "sizes": "320px",
+        "class": "Header-branding-logo",
+        "style": "display:block",
+        "srcset": "//images.squarespace-cdn.com/content/v1/612f90349bc183142e580583/54018dde-0bdc-4d45-91a8-ff6259e7bbe7/cocoon-logo-2x.png?format=100w 100w, //images.squarespace-cdn.com/content/v1/612f90349bc183142e580583/54018dde-0bdc-4d45-91a8-ff6259e7bbe7/cocoon-logo-2x.png?format=300w 300w, //images.squarespace-cdn.com/content/v1/612f90349bc183142e580583/54018dde-0bdc-4d45-91a8-ff6259e7bbe7/cocoon-logo-2x.png?format=500w 500w, //images.squarespace-cdn.com/content/v1/612f90349bc183142e580583/54018dde-0bdc-4d45-91a8-ff6259e7bbe7/cocoon-logo-2x.png?format=750w 750w, //images.squarespace-cdn.com/content/v1/612f90349bc183142e580583/54018dde-0bdc-4d45-91a8-ff6259e7bbe7/cocoon-logo-2x.png?format=1000w 1000w, //images.squarespace-cdn.com/content/v1/612f90349bc183142e580583/54018dde-0bdc-4d45-91a8-ff6259e7bbe7/cocoon-logo-2x.png?format=1500w 1500w, //images.squarespace-cdn.com/content/v1/612f90349bc183142e580583/54018dde-0bdc-4d45-91a8-ff6259e7bbe7/cocoon-logo-2x.png?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs"
+      },
+      {
+        "src": "https://static1.squarespace.com/static/612f90349bc183142e580583/t/6130cd422ef5ee39939de3e9/1630588226341/cocoon-logo-footer-2x.png"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-180/113f7a279b0b8d2a.txt"
+  },
+  {
+    "id": "ac4a722410d9e961",
+    "name": "Calportland Corporation",
+    "requested_url": "https://www.calportland.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "7eba156a6301e7bc",
+    "name": "Campaign For Family Farms And The Environment",
+    "requested_url": "https://fightfactoryfarms.org/",
+    "status": 202,
+    "final_url": "https://fightfactoryfarms.org/",
+    "text_chars": 110,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-180/7eba156a6301e7bc.txt"
+  },
+  {
+    "id": "b548c4b82bed5cba",
+    "name": "Canadian National Railroad",
+    "requested_url": "https://www.cn.ca/",
+    "status": 200,
+    "final_url": "https://www.cn.ca/en/",
+    "text_chars": 11942,
+    "logo_candidates": [
+      {
+        "src": "/Images/CN/CN_one_logo.png"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-180/b548c4b82bed5cba.txt"
+  },
+  {
+    "id": "f88b61c24c5c39c9",
+    "name": "Novocoast Federal Inc. (filed through Canfield Consulting)",
+    "requested_url": "https://www.novacoastfederal.com/",
+    "status": 200,
+    "final_url": "https://www.novacoastfederal.com/",
+    "text_chars": 2154,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-180/f88b61c24c5c39c9.txt"
+  },
+  {
+    "id": "e8821e65121a3ba5",
+    "name": "Cann Inc.",
+    "requested_url": "https://drinkcann.com/",
+    "status": 200,
+    "final_url": "https://drinkcann.com/",
+    "text_chars": 5448,
+    "logo_candidates": [
+      {
+        "src": "//drinkcann.com/cdn/shop/files/nav-logo.png?v=1731511140&width=560",
+        "alt": "",
+        "srcset": "//drinkcann.com/cdn/shop/files/nav-logo.png?v=1731511140&width=160 160w, //drinkcann.com/cdn/shop/files/nav-logo.png?v=1731511140&width=240 240w",
+        "width": "560",
+        "height": "720",
+        "sizes": "80px",
+        "class": "header__logo-image"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-180/e8821e65121a3ba5.txt"
+  },
+  {
+    "id": "cde7f6485cbdccd3",
+    "name": "TCOM LP (via CAPCVENTURES)",
+    "requested_url": "https://www.tcomsystems.com/",
+    "error": "HTTP Error 401: Unauthorized"
+  },
+  {
+    "id": "1c649db611f6fbd6",
+    "name": "Capital Power Operations (USA) Inc.",
+    "requested_url": "https://www.capitalpower.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "046c31d4d337a1fb",
+    "name": "Bridger Aerospace Group, LLC (via Capitol Counsel)",
+    "requested_url": "https://ir.bridgeraerospace.com/",
+    "status": 200,
+    "final_url": "https://ir.bridgeraerospace.com/",
+    "text_chars": 3189,
+    "logo_candidates": [
+      {
+        "src": "https://d1io3yog0oux5.cloudfront.net/_e667bc722539efc66711912a64cc494b/bridgeraerospace/files/theme/images/logo.svg",
+        "width": "154",
+        "height": "50",
+        "alt": "Bridger Aerospace Group Holdings, Inc."
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-180/046c31d4d337a1fb.txt"
+  },
+  {
+    "id": "7df9ecbd30483a02",
+    "name": "Intterra Group (via Capitol Counsel)",
+    "requested_url": "https://www.intterra.io/",
+    "status": 200,
+    "final_url": "https://www.intterra.io/",
+    "text_chars": 4787,
+    "logo_candidates": [
+      {
+        "sizes": "(max-width: 479px) 98vw, (max-width: 767px) 99vw, (max-width: 2728px) 100vw, 2728px",
+        "srcset": "https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/68ee4b26ba6faaed8326cf38_Intterra_logo-black-p-500.webp 500w, https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/68ee4b26ba6faaed8326cf38_Intterra_logo-black-p-800.webp 800w, https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/68ee4b26ba6faaed8326cf38_Intterra_logo-black-p-1080.png 1080w, https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/68ee4b26ba6faaed8326cf38_Intterra_logo-black.webp 2728w",
+        "alt": "Interra Logo in Black",
+        "src": "https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/68ee4b26ba6faaed8326cf38_Intterra_logo-black.webp",
+        "loading": "lazy",
+        "class": "logo-nav"
+      },
+      {
+        "width": "Auto",
+        "loading": "lazy",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a30043e6d9a9e4adbf0ced0_6a2f41743abdfa31921a6246_Rectangle-removebg-preview.png",
+        "class": "marquee-logo large"
+      },
+      {
+        "width": "Auto",
+        "sizes": "(max-width: 726px) 100vw, 726px",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a3984c004afeecf6668bc3b_3.png",
+        "loading": "lazy",
+        "srcset": "https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a3984c004afeecf6668bc3b_3-p-500.png 500w, https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a3984c004afeecf6668bc3b_3.png 726w",
+        "class": "marquee-logo large"
+      },
+      {
+        "width": "Auto",
+        "sizes": "(max-width: 726px) 100vw, 726px",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a3984c03f8238fbc75fd14b_4.png",
+        "loading": "lazy",
+        "srcset": "https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a3984c03f8238fbc75fd14b_4-p-500.png 500w, https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a3984c03f8238fbc75fd14b_4.png 726w",
+        "class": "marquee-logo large"
+      },
+      {
+        "width": "Auto",
+        "sizes": "(max-width: 767px) 100vw, (max-width: 991px) 728px, 771px",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a2f4173278a501dda378a4a_Group%202085664040.png",
+        "loading": "lazy",
+        "srcset": "https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a2f4173278a501dda378a4a_Group%202085664040-p-500.png 500w, https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a2f4173278a501dda378a4a_Group%202085664040.png 771w",
+        "class": "marquee-logo large is-small"
+      },
+      {
+        "width": "Auto",
+        "sizes": "(max-width: 767px) 100vw, (max-width: 991px) 728px, 940px",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a84cfa6f695651145154bc6_SDL.png",
+        "loading": "lazy",
+        "srcset": "https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a84cfa6f695651145154bc6_SDL-p-500.png 500w, https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a84cfa6f695651145154bc6_SDL-p-800.png 800w, https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a84cfa6f695651145154bc6_SDL-p-1080.png 1080w, https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a84cfa6f695651145154bc6_SDL.png 1200w",
+        "class": "marquee-logo large is-small"
+      },
+      {
+        "width": "Auto",
+        "sizes": "(max-width: 726px) 100vw, 726px",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a3985a5e1dac340f6b9b9b6_3.png",
+        "loading": "lazy",
+        "srcset": "https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a3985a5e1dac340f6b9b9b6_3-p-500.png 500w, https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a3985a5e1dac340f6b9b9b6_3.png 726w",
+        "class": "marquee-logo large is-small"
+      },
+      {
+        "width": "Auto",
+        "sizes": "(max-width: 726px) 100vw, 726px",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a3985a5d367195273b4fc24_2.png",
+        "loading": "lazy",
+        "srcset": "https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a3985a5d367195273b4fc24_2-p-500.png 500w, https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a3985a5d367195273b4fc24_2.png 726w",
+        "class": "marquee-logo large"
+      },
+      {
+        "width": "Auto",
+        "sizes": "(max-width: 767px) 100vw, (max-width: 991px) 728px, 940px",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a2f4174a77c1ee08cb6bd5b_Clip%20path%20group.png",
+        "loading": "lazy",
+        "srcset": "https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a2f4174a77c1ee08cb6bd5b_Clip%20path%20group-p-500.png 500w, https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a2f4174a77c1ee08cb6bd5b_Clip%20path%20group-p-800.png 800w, https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a2f4174a77c1ee08cb6bd5b_Clip%20path%20group-p-1080.png 1080w, https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a2f4174a77c1ee08cb6bd5b_Clip%20path%20group.png 1227w",
+        "class": "marquee-logo large"
+      },
+      {
+        "width": "Auto",
+        "sizes": "(max-width: 767px) 100vw, (max-width: 991px) 728px, 940px",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a2f4174943cc8f04dcd80bb_Clip%20path%20group-1.png",
+        "loading": "lazy",
+        "srcset": "https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a2f4174943cc8f04dcd80bb_Clip%20path%20group-1-p-500.png 500w, https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a2f4174943cc8f04dcd80bb_Clip%20path%20group-1-p-800.png 800w, https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a2f4174943cc8f04dcd80bb_Clip%20path%20group-1.png 992w",
+        "class": "marquee-logo large"
+      },
+      {
+        "width": "Auto",
+        "sizes": "(max-width: 767px) 100vw, (max-width: 991px) 728px, 900px",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a79ee47ec8062230b7fc5d1_SacramentoMetro%20Copy.png",
+        "loading": "lazy",
+        "srcset": "https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a79ee47ec8062230b7fc5d1_SacramentoMetro%20Copy-p-500.png 500w, https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a79ee47ec8062230b7fc5d1_SacramentoMetro%20Copy-p-800.png 800w, https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a79ee47ec8062230b7fc5d1_SacramentoMetro%20Copy.png 900w",
+        "class": "marquee-logo large is-small"
+      },
+      {
+        "width": "Auto",
+        "sizes": "(max-width: 726px) 100vw, 726px",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a2f4172b79970e94d955a30_Group%202085664041.png",
+        "loading": "lazy",
+        "srcset": "https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a2f4172b79970e94d955a30_Group%202085664041-p-500.png 500w, https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a2f4172b79970e94d955a30_Group%202085664041.png 726w",
+        "class": "marquee-logo large is-small"
+      },
+      {
+        "width": "Auto",
+        "sizes": "(max-width: 767px) 100vw, (max-width: 991px) 728px, 800px",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a79ece4dddda417fc117475_3.png",
+        "loading": "lazy",
+        "srcset": "https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a79ece4dddda417fc117475_3-p-500.png 500w, https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a79ece4dddda417fc117475_3.png 800w",
+        "class": "marquee-logo large"
+      },
+      {
+        "width": "Auto",
+        "sizes": "(max-width: 767px) 100vw, (max-width: 991px) 728px, 800px",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a79ece4dddda417fc1174a7_1.png",
+        "loading": "lazy",
+        "srcset": "https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a79ece4dddda417fc1174a7_1-p-500.png 500w, https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a79ece4dddda417fc1174a7_1.png 800w",
+        "class": "marquee-logo large"
+      },
+      {
+        "width": "Auto",
+        "loading": "lazy",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a79ee47e60e6aab33fe9fa9_OrangeCountyFireAuthority%20Copy.png",
+        "class": "marquee-logo large"
+      },
+      {
+        "width": "Auto",
+        "sizes": "(max-width: 767px) 100vw, (max-width: 991px) 728px, 940px",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a79ee470627c1e7f74a06f9_BurbankFire%20Copy.png",
+        "loading": "lazy",
+        "srcset": "https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a79ee470627c1e7f74a06f9_BurbankFire%20Copy-p-500.png 500w, https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a79ee470627c1e7f74a06f9_BurbankFire%20Copy-p-800.png 800w, https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a79ee470627c1e7f74a06f9_BurbankFire%20Copy-p-1080.png 1080w, https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a79ee470627c1e7f74a06f9_BurbankFire%20Copy-p-1600.png 1600w, https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a79ee470627c1e7f74a06f9_BurbankFire%20Copy-p-2000.png 2000w, https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a79ee470627c1e7f74a06f9_BurbankFire%20Copy.png 2370w",
+        "class": "marquee-logo large is-small"
+      },
+      {
+        "width": "Auto",
+        "sizes": "(max-width: 767px) 100vw, (max-width: 991px) 728px, 940px",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a79ee47e60e6aab33fe9fa4_PasadenaFire%20Copy.png",
+        "loading": "lazy",
+        "srcset": "https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a79ee47e60e6aab33fe9fa4_PasadenaFire%20Copy-p-500.png 500w, https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a79ee47e60e6aab33fe9fa4_PasadenaFire%20Copy-p-800.png 800w, https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a79ee47e60e6aab33fe9fa4_PasadenaFire%20Copy-p-1080.png 1080w, https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/6a79ee47e60e6aab33fe9fa4_PasadenaFire%20Copy.png 1500w",
+        "class": "marquee-logo large is-small"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/68cd6703e75d954138e87b2d/68ea47eaec46b10a79448d8d_white-logo.svg",
+        "loading": "lazy",
+        "alt": "Intterra Logo ",
+        "class": "logo-footer w-variant-d768a5d9-bd9a-2dfe-8f57-177c237c7748"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-180/7df9ecbd30483a02.txt"
+  },
+  {
+    "id": "619c492cc418640e",
+    "name": "TracPlus (via Capitol Counsel)",
+    "requested_url": "https://www.tracplus.com/",
+    "status": 200,
+    "final_url": "https://www.tracplus.com/",
+    "text_chars": 23578,
+    "logo_candidates": [
+      {
+        "src": "https://www.tracplus.com/hubfs/CWS%20assets/Common/Logos/tracplus%20logo-2.svg",
+        "alt": "TracPlus logo",
+        "width": "194",
+        "height": "60",
+        "class": "kl-navbar__logo"
+      },
+      {
+        "src": "https://www.tracplus.com/hubfs/02%20-%20Marketing%20Websites/01%20-%20TracPlus/Customer%20Logos/CAL%20FIRE%20(emblem2).png",
+        "alt": "CAL FIRE ",
+        "style": "max-width: 100%; height: auto;",
+        "loading": ""
+      },
+      {
+        "src": "https://www.tracplus.com/hubfs/02%20-%20Marketing%20Websites/01%20-%20TracPlus/Customer%20Logos/logo-kestrel-aviation.jpg",
+        "alt": "Kestrel",
+        "style": "max-width: 100%; height: auto;",
+        "loading": ""
+      },
+      {
+        "src": "https://www.tracplus.com/hubfs/Archives/Archives%20pre%202024/logo-titan-h.png",
+        "alt": "Titan",
+        "style": "max-width: 100%; height: auto;",
+        "loading": ""
+      },
+      {
+        "src": "https://www.tracplus.com/hubfs/02%20-%20Marketing%20Websites/01%20-%20TracPlus/Customer%20Logos/CHI.png",
+        "alt": "CHI",
+        "style": "max-width: 100%; height: auto;",
+        "loading": ""
+      },
+      {
+        "src": "https://www.tracplus.com/hubfs/Archives/Archives%20pre%202024/nafc-logo__ScaleWidthWzYwMF0%20-%20Edited.png",
+        "alt": "NAFC",
+        "style": "max-width: 100%; height: auto;",
+        "loading": ""
+      },
+      {
+        "src": "https://www.tracplus.com/hubfs/02%20-%20Marketing%20Websites/01%20-%20TracPlus/Customer%20Logos/McDermott.png",
+        "alt": "McDermott",
+        "style": "max-width: 100%; height: auto;",
+        "loading": ""
+      },
+      {
+        "src": "https://www.tracplus.com/hubfs/02%20-%20Marketing%20Websites/01%20-%20TracPlus/Customer%20Logos/Heli%20Korea.png",
+        "alt": "Heli Korea",
+        "width": "100%",
+        "style": "max-width: 1200px; max-height: 600px",
+        "loading": ""
+      },
+      {
+        "src": "https://www.tracplus.com/hubfs/Website%20Updates/FireFlyte%20Logo-small.png",
+        "class": "hs-image-widget ",
+        "style": "max-width: 100%; height: auto;",
+        "alt": "FireFlyte Logo-small",
+        "title": "FireFlyte Logo-small",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://www.tracplus.com/hubfs/ROTOR-v3__ScaleWidthWzE1MF0.org_logo_01.webp",
+        "alt": "ROTOR-v3__ScaleWidthWzE1MF0.org_logo_01",
+        "style": "max-width: 100%; height: auto;",
+        "loading": ""
+      },
+      {
+        "src": "https://www.tracplus.com/hs-fs/hubfs/HELIOPS_logo_1797-no_tagline-1.png?width=180&height=55&name=HELIOPS_logo_1797-no_tagline-1.png",
+        "alt": "HELIOPS_logo_1797-no_tagline-1",
+        "width": "180",
+        "height": "55",
+        "loading": "",
+        "srcset": "https://www.tracplus.com/hs-fs/hubfs/HELIOPS_logo_1797-no_tagline-1.png?width=90&height=28&name=HELIOPS_logo_1797-no_tagline-1.png 90w, https://www.tracplus.com/hs-fs/hubfs/HELIOPS_logo_1797-no_tagline-1.png?width=180&height=55&name=HELIOPS_logo_1797-no_tagline-1.png 180w, https://www.tracplus.com/hs-fs/hubfs/HELIOPS_logo_1797-no_tagline-1.png?width=270&height=83&name=HELIOPS_logo_1797-no_tagline-1.png 270w, https://www.tracplus.com/hs-fs/hubfs/HELIOPS_logo_1797-no_tagline-1.png?width=360&height=110&name=HELIOPS_logo_1797-no_tagline-1.png 360w, https://www.tracplus.com/hs-fs/hubfs/HELIOPS_logo_1797-no_tagline-1.png?width=450&height=138&name=HELIOPS_logo_1797-no_tagline-1.png 450w, https://www.tracplus.com/hs-fs/hubfs/HELIOPS_logo_1797-no_tagline-1.png?width=540&height=165&name=HELIOPS_logo_1797-no_tagline-1.png 540w",
+        "sizes": "(max-width: 180px) 100vw, 180px"
+      },
+      {
+        "src": "https://www.tracplus.com/hubfs/CWS%20assets/Common/Logos/logo-TracPlus-left-crop.svg",
+        "alt": "logo-TracPlus-left-crop",
+        "width": "100%",
+        "style": "max-width: 250px; max-height: 123px",
+        "loading": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-180/619c492cc418640e.txt"
+  },
+  {
+    "id": "0d62106f5c327576",
+    "name": "Vibrant Planet PBC (via Capitol Counsel)",
+    "requested_url": "https://vibrantplanet.com/",
+    "status": 200,
+    "final_url": "https://vibrantplanet.com/",
+    "text_chars": 3292,
+    "logo_candidates": [
+      {
+        "src": "https://cdn.prod.website-files.com/65ef36ee5c5eaee3ecc4f156/664e97ee4a25e0723d4671db_VP%20Home%20Logos-05.png",
+        "loading": "lazy",
+        "alt": "",
+        "sizes": "(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px",
+        "srcset": "https://cdn.prod.website-files.com/65ef36ee5c5eaee3ecc4f156/664e97ee4a25e0723d4671db_VP%20Home%20Logos-05-p-500.png 500w, https://cdn.prod.website-files.com/65ef36ee5c5eaee3ecc4f156/664e97ee4a25e0723d4671db_VP%20Home%20Logos-05.png 760w",
+        "class": "img-company-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/65ef36ee5c5eaee3ecc4f156/69e295125545f3fb1cf7d22e_logo-marin-county-fd.png",
+        "loading": "lazy",
+        "alt": "",
+        "sizes": "(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px",
+        "srcset": "https://cdn.prod.website-files.com/65ef36ee5c5eaee3ecc4f156/69e295125545f3fb1cf7d22e_logo-marin-county-fd-p-500.png 500w, https://cdn.prod.website-files.com/65ef36ee5c5eaee3ecc4f156/69e295125545f3fb1cf7d22e_logo-marin-county-fd.png 760w",
+        "class": "img-company-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/65ef36ee5c5eaee3ecc4f156/664e97c56db3a683ff15a016_VP%20Home%20Logos-02.png",
+        "loading": "lazy",
+        "alt": "",
+        "sizes": "(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px",
+        "srcset": "https://cdn.prod.website-files.com/65ef36ee5c5eaee3ecc4f156/664e97c56db3a683ff15a016_VP%20Home%20Logos-02-p-500.png 500w, https://cdn.prod.website-files.com/65ef36ee5c5eaee3ecc4f156/664e97c56db3a683ff15a016_VP%20Home%20Logos-02.png 759w",
+        "class": "img-company-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/65ef36ee5c5eaee3ecc4f156/664e97d2f43a8a93cf28a5b8_VP%20Home%20Logos-03.png",
+        "loading": "lazy",
+        "alt": "",
+        "sizes": "(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px",
+        "srcset": "https://cdn.prod.website-files.com/65ef36ee5c5eaee3ecc4f156/664e97d2f43a8a93cf28a5b8_VP%20Home%20Logos-03-p-500.png 500w, https://cdn.prod.website-files.com/65ef36ee5c5eaee3ecc4f156/664e97d2f43a8a93cf28a5b8_VP%20Home%20Logos-03.png 759w",
+        "class": "img-company-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/65ef36ee5c5eaee3ecc4f156/69e2950cc7ee482dbfab41a2_logo-pge.png",
+        "loading": "lazy",
+        "alt": "",
+        "sizes": "(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px",
+        "srcset": "https://cdn.prod.website-files.com/65ef36ee5c5eaee3ecc4f156/69e2950cc7ee482dbfab41a2_logo-pge-p-500.png 500w, https://cdn.prod.website-files.com/65ef36ee5c5eaee3ecc4f156/69e2950cc7ee482dbfab41a2_logo-pge.png 760w",
+        "class": "img-company-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/65ef36ee5c5eaee3ecc4f156/6675a23357bd15aa3dc31545_PGE%20(1).png",
+        "loading": "lazy",
+        "alt": "",
+        "sizes": "(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px",
+        "srcset": "https://cdn.prod.website-files.com/65ef36ee5c5eaee3ecc4f156/6675a23357bd15aa3dc31545_PGE%20(1)-p-500.png 500w, https://cdn.prod.website-files.com/65ef36ee5c5eaee3ecc4f156/6675a23357bd15aa3dc31545_PGE%20(1).png 760w",
+        "class": "img-company-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/65ef36ee5c5eaee3ecc4f156/6674bc3e0904968588267fe9_Group%205%20(1).png",
+        "loading": "lazy",
+        "alt": "",
+        "sizes": "(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px",
+        "srcset": "https://cdn.prod.website-files.com/65ef36ee5c5eaee3ecc4f156/6674bc3e0904968588267fe9_Group%205%20(1)-p-500.png 500w, https://cdn.prod.website-files.com/65ef36ee5c5eaee3ecc4f156/6674bc3e0904968588267fe9_Group%205%20(1).png 760w",
+        "class": "img-company-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/65ef36ee5c5eaee3ecc4f156/69e2950695a202763dc27992_logo-pnnl.png",
+        "loading": "lazy",
+        "alt": "",
+        "sizes": "(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px",
+        "srcset": "https://cdn.prod.website-files.com/65ef36ee5c5eaee3ecc4f156/69e2950695a202763dc27992_logo-pnnl-p-500.png 500w, https://cdn.prod.website-files.com/65ef36ee5c5eaee3ecc4f156/69e2950695a202763dc27992_logo-pnnl.png 760w",
+        "class": "img-company-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/65ef36ee5c5eaee3ecc4f156/664e97b3a4ac314bd684c49c_VP%20Home%20Logos-01.png",
+        "loading": "lazy",
+        "alt": "",
+        "sizes": "(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px",
+        "srcset": "https://cdn.prod.website-files.com/65ef36ee5c5eaee3ecc4f156/664e97b3a4ac314bd684c49c_VP%20Home%20Logos-01-p-500.png 500w, https://cdn.prod.website-files.com/65ef36ee5c5eaee3ecc4f156/664e97b3a4ac314bd684c49c_VP%20Home%20Logos-01.png 759w",
+        "class": "img-company-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/65ef36ee5c5eaee3ecc4f156/6679c5272b5b6b82a836e60d_Group%203%20(9).png",
+        "loading": "lazy",
+        "alt": "",
+        "sizes": "(max-width: 767px) 100vw, (max-width: 991px) 95vw, 940px",
+        "srcset": "https://cdn.prod.website-files.com/65ef36ee5c5eaee3ecc4f156/6679c5272b5b6b82a836e60d_Group%203%20(9)-p-500.png 500w, https://cdn.prod.website-files.com/65ef36ee5c5eaee3ecc4f156/6679c5272b5b6b82a836e60d_Group%203%20(9).png 760w",
+        "class": "img-company-logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-180/0d62106f5c327576.txt"
+  },
+  {
+    "id": "c7349578030ee0fd",
+    "name": "Firstfloor (via Capitol Counsel)",
+    "requested_url": "https://www.firstfloor.biz/",
+    "status": 200,
+    "final_url": "https://www.firstfloor.biz/",
+    "text_chars": 2054,
+    "logo_candidates": [
+      {
+        "src": "https://www.firstfloor.biz/wp-content/themes/Brasco-2017-Theme/img/company_logo.png",
+        "id": "main-logo"
+      },
+      {
+        "src": "https://www.firstfloor.biz/wp-content/themes/Brasco-2017-Theme/img/company_logo.png"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-180/c7349578030ee0fd.txt"
+  },
+  {
+    "id": "2f76d91876a7001c",
+    "name": "Prime Minute, Inc. (via Capitol Counsel)",
+    "requested_url": "https://prime-minute.com/",
+    "status": 200,
+    "final_url": "https://prime-minute.com/",
+    "text_chars": 4017,
+    "logo_candidates": [
+      {
+        "src": "assets/images/logo-wordmark.svg",
+        "alt": "Prime Minute",
+        "width": "215",
+        "height": "20"
+      },
+      {
+        "src": "assets/images/logo-mark.svg",
+        "width": "43",
+        "height": "34",
+        "alt": ""
+      },
+      {
+        "class": "testimonial__logo",
+        "src": "assets/images/logo-coe-colorado.svg",
+        "alt": "Colorado Center of Excellence for Advanced Technology Aerial Firefighting",
+        "loading": "lazy"
+      },
+      {
+        "class": "footer__brand-mark",
+        "src": "assets/images/logo-mark.svg",
+        "alt": "",
+        "width": "54",
+        "height": "43"
+      },
+      {
+        "src": "assets/images/logo-wordmark.svg",
+        "alt": "Prime Minute",
+        "width": "215",
+        "height": "20"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-180/2f76d91876a7001c.txt"
+  },
+  {
+    "id": "ccc00e35f74f2abd",
+    "name": "American Camp Association (via Capitol Hill Partners)",
+    "requested_url": "https://www.acacamps.org/",
+    "status": 200,
+    "final_url": "https://www.acacamps.org/",
+    "text_chars": 7179,
+    "logo_candidates": [
+      {
+        "class": "logo__image",
+        "src": "/themes/custom/acacamps/images/logo.svg",
+        "alt": "American Camp Association Logo -- Home"
+      },
+      {
+        "class": "logo__image",
+        "src": "/themes/custom/acacamps/images/logo.svg",
+        "alt": "American Camp Association Logo -- Home"
+      },
+      {
+        "class": "image",
+        "src": "https://www.acacamps.org/sites/default/files/styles/wide_1080/public/2026-05/Character-Grant-Program-media-left.jpg?h=a8e369e6&itok=K_Ky-WJe",
+        "alt": "Character at Camp logo green and blue"
+      },
+      {
+        "alt": "American Camp Association Logo",
+        "class": "logo__image",
+        "src": "/themes/custom/acacamps/images/logo-footer.png"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-180/ccc00e35f74f2abd.txt"
+  },
+  {
+    "id": "ebcf6de3b3bcff4a",
+    "name": "Vaulted Deep (Carbon Removal Co., Inc.)",
+    "requested_url": "https://vaulteddeep.com/",
+    "status": 200,
+    "final_url": "https://vaulteddeep.com/",
+    "text_chars": 4510,
+    "logo_candidates": [
+      {
+        "decoding": "async",
+        "width": "1720",
+        "height": "990",
+        "src": "https://vaulteddeep.com/wp-content/uploads/2026/08/Derby_3c_RGB_logo-01.png",
+        "class": "attachment-hero-xl size-hero-xl",
+        "alt": "",
+        "srcset": "https://vaulteddeep.com/wp-content/uploads/2026/08/Derby_3c_RGB_logo-01.png 1720w, https://vaulteddeep.com/wp-content/uploads/2026/08/Derby_3c_RGB_logo-01-300x173.png 300w, https://vaulteddeep.com/wp-content/uploads/2026/08/Derby_3c_RGB_logo-01-1024x589.png 1024w, https://vaulteddeep.com/wp-content/uploads/2026/08/Derby_3c_RGB_logo-01-768x442.png 768w, https://vaulteddeep.com/wp-content/uploads/2026/08/Derby_3c_RGB_logo-01-1536x884.png 1536w, https://vaulteddeep.com/wp-content/uploads/2026/08/Derby_3c_RGB_logo-01-1700x978.png 1700w, https://vaulteddeep.com/wp-content/uploads/2026/08/Derby_3c_RGB_logo-01-1300x748.png 1300w, https://vaulteddeep.com/wp-content/uploads/2026/08/Derby_3c_RGB_logo-01-1000x576.png 1000w",
+        "sizes": "(max-width: 1720px) 100vw, 1720px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-180/ebcf6de3b3bcff4a.txt"
+  },
+  {
+    "id": "1e1ea8aa79dbe48e",
+    "name": "Cardiovascular Institute of the South (CardioVascular Coalition filing)",
+    "requested_url": "https://www.cardio.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "667ecab17ee1f868",
+    "name": "Carlyle Investment Management, Inc. (filing label)",
+    "requested_url": "https://www.carlyle.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "2104b6307dc97e1a",
+    "name": "Carnival Corporation (former-name filing label)",
+    "requested_url": "https://www.carnivalcorp.com/",
+    "status": 200,
+    "final_url": "https://www.carnivalcorp.com/",
+    "text_chars": 3670,
+    "logo_candidates": [
+      {
+        "decoding": "async",
+        "src": "https://www.carnivalcorp.com/wp-content/uploads/2024/11/logo-aida-dark.svg",
+        "alt": "AIDA Cruises"
+      },
+      {
+        "decoding": "async",
+        "src": "https://www.carnivalcorp.com/wp-content/uploads/2024/11/logo-carnival-dark.svg",
+        "alt": "Carnival Cruise Line"
+      },
+      {
+        "decoding": "async",
+        "src": "https://www.carnivalcorp.com/wp-content/uploads/2024/11/logo-costa-dark.svg",
+        "alt": "Costa Cruises"
+      },
+      {
+        "decoding": "async",
+        "src": "https://www.carnivalcorp.com/wp-content/uploads/2024/11/logo-cunard-dark.svg",
+        "alt": "Cunard"
+      },
+      {
+        "decoding": "async",
+        "src": "https://www.carnivalcorp.com/wp-content/uploads/2024/11/logo-holland-america-dark.svg",
+        "alt": "Holland America Line"
+      },
+      {
+        "decoding": "async",
+        "src": "https://www.carnivalcorp.com/wp-content/uploads/2024/11/logo-p-o-cruises-dark.svg",
+        "alt": "P&O Cruises (UK)"
+      },
+      {
+        "decoding": "async",
+        "src": "https://www.carnivalcorp.com/wp-content/uploads/2024/11/logo-seabourn-dark.svg",
+        "alt": "Seabourn"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-180/2104b6307dc97e1a.txt"
+  },
+  {
+    "id": "feb87e88573419e8",
+    "name": "CB&I Storage Tank Solutions LLC",
+    "requested_url": "https://www.cbi.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "b7b2e29c3ff2e612",
+    "name": "CC Media Partners / True Prices (filing label)",
+    "requested_url": "https://trueprices.com/en-us",
+    "status": 200,
+    "final_url": "https://trueprices.com/en-us",
+    "text_chars": 10423,
+    "logo_candidates": [
+      {
+        "alt": "True Prices",
+        "width": "136",
+        "height": "32",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-theme-fixed-3 w-auto",
+        "style": "color:transparent",
+        "src": "/trueprices_logo.svg?dpl=dpl_D5qB91rCmjrXicyf7oabUEtyXuQE"
+      },
+      {
+        "alt": "TruePrices",
+        "loading": "lazy",
+        "width": "170",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "src": "/trueprices_logo.svg?dpl=dpl_D5qB91rCmjrXicyf7oabUEtyXuQE"
+      },
+      {
+        "alt": "True Prices",
+        "width": "136",
+        "height": "32",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-theme-fixed-3 w-auto theme-tablet:h-theme-fixed-3",
+        "style": "color:transparent",
+        "src": "/trueprices_logo.svg?dpl=dpl_D5qB91rCmjrXicyf7oabUEtyXuQE"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-180/b7b2e29c3ff2e612.txt"
+  },
+  {
+    "id": "0d89458e1a9d3a87",
+    "name": "Cellcube Energy Systems (filing label)",
+    "requested_url": "https://www.cellcube.com/",
+    "status": 200,
+    "final_url": "https://www.cellcube.com/",
+    "text_chars": 4166,
+    "logo_candidates": [
+      {
+        "width": "331",
+        "height": "93",
+        "src": "https://www.cellcube.com/wp-content/uploads/cellcube-logo-blue.svg",
+        "class": "attachment-full size-full wp-image-13760",
+        "alt": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-180/0d89458e1a9d3a87.txt"
+  },
+  {
+    "id": "38bb8833027d85c0",
+    "name": "Cenovus Energy (filing label)",
+    "requested_url": "https://www.cenovus.com/",
+    "status": 200,
+    "final_url": "https://www.cenovus.com/",
+    "text_chars": 3827,
+    "logo_candidates": [
+      {
+        "src": "https://mc-3405db07-6660-4b4e-8bc8-1763-cdn-endpoint.azureedge.net/-/media/Project/WWW/Images/Brand/Cenovus-logo.svg?iar=0&rev=82570005e0574489ac4907fd58fbb93f&hash=978FB6CA2A7572EA5858E9269CF9AAF6",
+        "alt": "Cenovus Energy"
+      },
+      {
+        "alt": "Cenovus logo in white",
+        "src": "Theme/-/media/Themes/Cenovus/WWW/WWWTheme/images/custom/2021-CVE-Logo-RGB.png"
+      },
+      {
+        "alt": "Cenovus logo",
+        "src": "Theme/-/media/Themes/Cenovus/WWW/WWWTheme/images/custom/2021-CVE-Logo-RGB.png"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-180/38bb8833027d85c0.txt"
+  }
+]

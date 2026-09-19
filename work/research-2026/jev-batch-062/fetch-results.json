@@ -1,0 +1,32 @@
+[
+  {
+    "id": "15995ae6235a004e",
+    "name": "Magnet Forensics LLC",
+    "requested_url": "https://www.magnetforensics.com/wp-content/uploads/2024/10/Privacy-Policy-09-26-2024.pdf",
+    "final_url": "https://www.magnetforensics.com/wp-content/uploads/2024/10/Privacy-Policy-09-26-2024.pdf",
+    "source_format": "pdf",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-062/0-15995ae6235a004e.txt",
+    "text_chars": 40042,
+    "status": 200
+  },
+  {
+    "id": "15995ae6235a004e",
+    "name": "Magnet Forensics LLC",
+    "requested_url": "https://www.magnetforensics.com/wp-content/uploads/2024/10/Website-Terms-of-Use-09-26-2024.pdf",
+    "final_url": "https://www.magnetforensics.com/wp-content/uploads/2024/10/Website-Terms-of-Use-09-26-2024.pdf",
+    "source_format": "pdf",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-062/1-15995ae6235a004e.txt",
+    "text_chars": 32341,
+    "status": 200
+  },
+  {
+    "id": "a8624ba51c90d249",
+    "name": "Velaura AI (formerly Auradine)",
+    "requested_url": "https://velaura.ai/wp-content/uploads/2026/09/VelauraAI-Privacy-Notice-August-2024.pdf",
+    "final_url": "https://velaura.ai/wp-content/uploads/2026/09/VelauraAI-Privacy-Notice-August-2024.pdf",
+    "source_format": "pdf",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-062/2-a8624ba51c90d249.txt",
+    "text_chars": 32553,
+    "status": 200
+  }
+]

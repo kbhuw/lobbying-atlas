@@ -1,0 +1,16 @@
+[
+  {
+    "id": "b5c2b7d8fa86c3cc",
+    "name": "Novolex formerly Hilex Poly",
+    "requested_url": "https://www.kohlberg.com/novolex-to-acquire-packaging-dynamics-corporation/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "bdecafd9b1e5a00f",
+    "name": "Bank Policy Institute formerly Financial Services Roundtable",
+    "requested_url": "https://bpi.com/leading-banks-launch-bank-policy-institute/",
+    "final_url": "https://bpi.com/leading-banks-launch-bank-policy-institute/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-103/bdecafd9b1e5a00f.txt",
+    "text_chars": 154
+  }
+]

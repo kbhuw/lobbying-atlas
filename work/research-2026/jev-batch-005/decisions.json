@@ -1,0 +1,318 @@
+{
+  "e7af306127162782": {
+    "name": "City of West Lafayette, Indiana",
+    "description": "Municipal government serving West Lafayette, Indiana, through local administration and resident services.",
+    "website": "https://www.westlafayette.in.gov/",
+    "kind": "Municipal government",
+    "ownership": "Government body",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "City contact page gives West Lafayette, Indiana and municipal office address. Indexed official source content checked September 18, 2026; direct retrieval was blocked, so no successful direct-fetch claim. Exact named locality matched existing filing profile; original filings retained.",
+    "notes": "City contact page gives West Lafayette, Indiana and municipal office address. Indexed official source content checked September 18, 2026; direct retrieval was blocked, so no successful direct-fetch claim. Exact named locality matched existing filing profile; original filings retained.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/c004e5e4-0f2e-4d9d-91f6-94f17fd89a82/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.westlafayette.in.gov/",
+        "label": "Organization evidence",
+        "claim": "Official website identifies City of West Lafayette, Indiana and provides current local government, municipal, utility, public-safety or resident services in Indiana."
+      },
+      {
+        "url": "https://www.westlafayette.in.gov/government/dtkhome/about-us",
+        "label": "Official identity and government source",
+        "claim": "City contact page gives West Lafayette, Indiana and municipal office address. Indexed official source content checked September 18, 2026; direct retrieval was blocked, so no successful direct-fetch claim. Exact named locality matched existing filing profile; original filings retained."
+      }
+    ],
+    "as_of": "2026-09-05",
+    "checked_at": "2026-09-18",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "18425d720d8a85c5": {
+    "name": "City of Bloomington, Illinois",
+    "description": "Municipal government providing utilities, public works, permits, public safety, parks, libraries, water, and civic services for Bloomington, Illinois.",
+    "website": "https://www.bloomingtonil.gov/",
+    "kind": "Municipal government",
+    "ownership": "Government body",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Official About the City identifies Bloomington, Illinois and its city government. Indexed official source content checked September 18, 2026; direct retrieval was blocked, so no successful direct-fetch claim. Exact named locality matched existing filing profile; original filings retained.",
+    "notes": "Official About the City identifies Bloomington, Illinois and its city government. Indexed official source content checked September 18, 2026; direct retrieval was blocked, so no successful direct-fetch claim. Exact named locality matched existing filing profile; original filings retained.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/f18e65b7-043b-4ff7-bd2a-27034a4c5f88/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.bloomingtonil.gov/government/",
+        "label": "Organization evidence",
+        "claim": "Official City of Bloomington, Illinois government page identifies city council, departments, transparency, FOIA, permits, public safety, public works, water, parks, and other city services."
+      },
+      {
+        "url": "https://github.com/cisagov/dotgov-data/blob/main/current-full.csv",
+        "label": "Organization evidence",
+        "claim": "CISA registry identifies bloomingtonil.gov as registered to City of Bloomington in Bloomington, IL; website content was checked separately."
+      },
+      {
+        "url": "https://www.bloomingtonil.gov/community/about-the-city",
+        "label": "Official identity and government source",
+        "claim": "Official About the City identifies Bloomington, Illinois and its city government. Indexed official source content checked September 18, 2026; direct retrieval was blocked, so no successful direct-fetch claim. Exact named locality matched existing filing profile; original filings retained."
+      }
+    ],
+    "as_of": "2026-09-05",
+    "checked_at": "2026-09-18",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "abc63bb14cde4ec6": {
+    "name": "City of Stamford, Connecticut",
+    "description": "Municipal government serving Stamford, Connecticut, through local administration and resident services.",
+    "website": "https://www.stamfordct.gov/",
+    "kind": "Municipal government",
+    "ownership": "Government body",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Municipal department page identifies Stamford Government Center in Stamford, Connecticut and city health services. Indexed official source content checked September 18, 2026; direct retrieval was blocked, so no successful direct-fetch claim. Exact named locality matched existing filing profile; original filings retained.",
+    "notes": "Municipal department page identifies Stamford Government Center in Stamford, Connecticut and city health services. Indexed official source content checked September 18, 2026; direct retrieval was blocked, so no successful direct-fetch claim. Exact named locality matched existing filing profile; original filings retained.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/1678ba93-3247-465c-b7ba-6889e609f657/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.stamfordct.gov/",
+        "label": "Organization evidence",
+        "claim": "Official website identifies City of Stamford, Connecticut and provides current local government, municipal, utility, public-safety or resident services in Connecticut."
+      },
+      {
+        "url": "https://www.stamfordct.gov/government/public-safety-health-welfare/health-human-services/about",
+        "label": "Official identity and government source",
+        "claim": "Municipal department page identifies Stamford Government Center in Stamford, Connecticut and city health services. Indexed official source content checked September 18, 2026; direct retrieval was blocked, so no successful direct-fetch claim. Exact named locality matched existing filing profile; original filings retained."
+      }
+    ],
+    "as_of": "2026-09-05",
+    "checked_at": "2026-09-18",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "84f72b75e55ebbe2": {
+    "name": "City of Victorville, California",
+    "description": "Municipal government serving Victorville, California, through local administration and resident services.",
+    "website": "https://www.victorvilleca.gov/",
+    "kind": "Municipal government",
+    "ownership": "Government body",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Official Government page identifies Victorville, California as a charter city operating under council-manager government. Indexed official source content checked September 18, 2026; direct retrieval was blocked, so no successful direct-fetch claim. Exact named locality matched existing filing profile; original filings retained.",
+    "notes": "Official Government page identifies Victorville, California as a charter city operating under council-manager government. Indexed official source content checked September 18, 2026; direct retrieval was blocked, so no successful direct-fetch claim. Exact named locality matched existing filing profile; original filings retained.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/b0a61d6c-eb7e-4fa2-8907-988842a6095d/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.victorvilleca.gov/",
+        "label": "Organization evidence",
+        "claim": "Official website identifies City of Victorville, California and provides current local government, municipal, utility, public-safety or resident services in California."
+      },
+      {
+        "url": "https://www.victorvilleca.gov/Government",
+        "label": "Official identity and government source",
+        "claim": "Official Government page identifies Victorville, California as a charter city operating under council-manager government. Indexed official source content checked September 18, 2026; direct retrieval was blocked, so no successful direct-fetch claim. Exact named locality matched existing filing profile; original filings retained."
+      }
+    ],
+    "as_of": "2026-09-05",
+    "checked_at": "2026-09-18",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "bb61f7cc34085573": {
+    "name": "City of Albany, Georgia",
+    "description": "Municipal government providing utilities, public safety, transportation, planning, and community services for Albany, Georgia.",
+    "website": "https://www.albanyga.gov/",
+    "kind": "Municipal government",
+    "ownership": "Government body",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Official city commission page identifies Albany incorporation by the Georgia General Assembly and commission-manager government. Indexed official source content checked September 18, 2026; direct retrieval was blocked, so no successful direct-fetch claim. Exact named locality matched existing filing profile; original filings retained.",
+    "notes": "Official city commission page identifies Albany incorporation by the Georgia General Assembly and commission-manager government. Indexed official source content checked September 18, 2026; direct retrieval was blocked, so no successful direct-fetch claim. Exact named locality matched existing filing profile; original filings retained.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/b9d4494c-2939-45b1-b7b0-c6a4d60d7a54/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.albanyga.gov/Home",
+        "label": "Organization evidence",
+        "claim": "Official City of Albany, Georgia website identifies the city government and lists utility, public-safety, transportation, planning, and other municipal services."
+      },
+      {
+        "url": "https://github.com/cisagov/dotgov-data/blob/main/current-full.csv",
+        "label": "Organization evidence",
+        "claim": "CISA registry identifies albanyga.gov as registered to City of Albany in Albany, GA; website content was checked separately."
+      },
+      {
+        "url": "https://www.albanyga.gov/about-us/city-commission",
+        "label": "Official identity and government source",
+        "claim": "Official city commission page identifies Albany incorporation by the Georgia General Assembly and commission-manager government. Indexed official source content checked September 18, 2026; direct retrieval was blocked, so no successful direct-fetch claim. Exact named locality matched existing filing profile; original filings retained."
+      }
+    ],
+    "as_of": "2026-09-05",
+    "checked_at": "2026-09-18",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "16068c689516fb03": {
+    "name": "Denver Regional Council of Governments",
+    "description": "DRCOG coordinates regional planning and services for the Denver metropolitan area.",
+    "website": "https://drcog.org/",
+    "kind": "Regional planning council",
+    "ownership": "Government body",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Exact Denver Regional Council of Governments name; official page describes local-government collaboration on transportation, regional development and aging/disability resources. Indexed official source content checked September 18, 2026; direct retrieval was blocked, so no successful direct-fetch claim. Exact named locality matched existing filing profile; original filings retained.",
+    "notes": "Exact Denver Regional Council of Governments name; official page describes local-government collaboration on transportation, regional development and aging/disability resources. Indexed official source content checked September 18, 2026; direct retrieval was blocked, so no successful direct-fetch claim. Exact named locality matched existing filing profile; original filings retained.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/0ca81407-dd27-4f97-8c7c-6fac3a2247d5/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://lda.gov/api/v1/clients/56370/?format=json",
+        "label": "Organization evidence",
+        "claim": "LDA source identifies the exact disclosed client or beneficiary label for Denver Regional Council Of Governments."
+      },
+      {
+        "url": "https://drcog.org/",
+        "label": "Organization evidence",
+        "claim": "Official source identifies Denver Regional Council Of Governments and supports its current organizational role and business description."
+      },
+      {
+        "url": "https://drcog.org/about-drcog",
+        "label": "Official identity and government source",
+        "claim": "Exact Denver Regional Council of Governments name; official page describes local-government collaboration on transportation, regional development and aging/disability resources. Indexed official source content checked September 18, 2026; direct retrieval was blocked, so no successful direct-fetch claim. Exact named locality matched existing filing profile; original filings retained."
+      }
+    ],
+    "as_of": "2026-09-06",
+    "checked_at": "2026-09-18",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "be2f71a31398f0bc": {
+    "name": "City of West Palm Beach, Florida",
+    "description": "Municipal government serving West Palm Beach, Florida, through local administration and resident services.",
+    "website": "https://www.wpb.org/",
+    "kind": "Municipal government",
+    "ownership": "Government body",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Official municipal announcement explicitly identifies City of West Palm Beach and its own official website. Indexed official source content checked September 18, 2026; direct retrieval was blocked, so no successful direct-fetch claim. Exact named locality matched existing filing profile; original filings retained.",
+    "notes": "Official municipal announcement explicitly identifies City of West Palm Beach and its own official website. Indexed official source content checked September 18, 2026; direct retrieval was blocked, so no successful direct-fetch claim. Exact named locality matched existing filing profile; original filings retained.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/03a78012-79d0-47b8-b007-8886f7eaa105/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.wpb.org/",
+        "label": "Organization evidence",
+        "claim": "Official website identifies City of West Palm Beach, Florida and provides current local government, municipal, utility, public-safety or resident services in Florida."
+      },
+      {
+        "url": "https://www.wpb.org/News-Folder/News-2026/042126-Granicus",
+        "label": "Official identity and government source",
+        "claim": "Official municipal announcement explicitly identifies City of West Palm Beach and its own official website. Indexed official source content checked September 18, 2026; direct retrieval was blocked, so no successful direct-fetch claim. Exact named locality matched existing filing profile; original filings retained."
+      }
+    ],
+    "as_of": "2026-09-05",
+    "checked_at": "2026-09-18",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "01684c05e28c8d65": {
+    "name": "City of Delray Beach, Florida",
+    "description": "Municipal government serving Delray Beach, Florida.",
+    "website": "https://www.delraybeachfl.gov/",
+    "kind": "Municipal government",
+    "ownership": "Government body",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Official municipal page identifies Delray Beach, Florida and describes city administration and government services. Indexed official source content checked September 18, 2026; direct retrieval was blocked, so no successful direct-fetch claim. Exact named locality matched existing filing profile; original filings retained.",
+    "notes": "Official municipal page identifies Delray Beach, Florida and describes city administration and government services. Indexed official source content checked September 18, 2026; direct retrieval was blocked, so no successful direct-fetch claim. Exact named locality matched existing filing profile; original filings retained.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/eeec1662-7092-4fcb-b939-2525905fb056/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.delraybeachfl.gov/",
+        "label": "Organization evidence",
+        "claim": "Official municipal website identifies the City of Delray Beach, FL and provides city government or resident services."
+      },
+      {
+        "url": "https://github.com/cisagov/dotgov-data/blob/main/current-full.csv",
+        "label": "Organization evidence",
+        "claim": "CISA registry identifies delraybeachfl.gov as registered to City of Delray Beach in Delray Beach, FL; website content was checked separately."
+      },
+      {
+        "url": "https://www.delraybeachfl.gov/government/city-manager/virtual-citizen-s-academy",
+        "label": "Official identity and government source",
+        "claim": "Official municipal page identifies Delray Beach, Florida and describes city administration and government services. Indexed official source content checked September 18, 2026; direct retrieval was blocked, so no successful direct-fetch claim. Exact named locality matched existing filing profile; original filings retained."
+      }
+    ],
+    "as_of": "2026-09-05",
+    "checked_at": "2026-09-18",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved",
+    "website_status": "verified",
+    "status": "sourced"
+  }
+}

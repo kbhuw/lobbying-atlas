@@ -1,0 +1,35 @@
+{
+  "accepted": [
+    14,
+    15,
+    21,
+    23
+  ],
+  "dark": [
+    14,
+    15,
+    23
+  ],
+  "deferred": {
+    "0": "Shared group/operating brand; exact legal-entity or representation relationship needs verification",
+    "1": "Vascular Center service brand rather than named association",
+    "2": "Vascular Center service brand rather than named company",
+    "3": "Shared group/operating brand; exact legal-entity or representation relationship needs verification",
+    "4": "Shared group/operating brand; exact legal-entity or representation relationship needs verification",
+    "5": "Shared group/operating brand; exact legal-entity or representation relationship needs verification",
+    "6": "Shared group/operating brand; exact legal-entity or representation relationship needs verification",
+    "7": "Shared group/operating brand; exact legal-entity or representation relationship needs verification",
+    "8": "Shared group/operating brand; exact legal-entity or representation relationship needs verification",
+    "9": "Shared group/operating brand; exact legal-entity or representation relationship needs verification",
+    "10": "Shared group/operating brand; exact legal-entity or representation relationship needs verification",
+    "11": "Shared group/operating brand; exact legal-entity or representation relationship needs verification",
+    "12": "Shared group/operating brand; exact legal-entity or representation relationship needs verification",
+    "13": "Shared group/operating brand; exact legal-entity or representation relationship needs verification",
+    "16": "Shared group/operating brand; exact legal-entity or representation relationship needs verification",
+    "17": "Download failed",
+    "18": "Image rendering failed",
+    "19": "Shared group/operating brand; exact legal-entity or representation relationship needs verification",
+    "20": "Shared group/operating brand; exact legal-entity or representation relationship needs verification",
+    "22": "Shared group/operating brand; exact legal-entity or representation relationship needs verification"
+  }
+}

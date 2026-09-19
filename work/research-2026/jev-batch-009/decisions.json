@@ -1,0 +1,128 @@
+{
+  "118ad8762e2c0f76": {
+    "name": "Gmre, Inc",
+    "description": "GMRE, short for Gauss Management Research and Engineering, provides defense aviation engineering, integration, sustainment, logistics, manufacturing, and technical services.",
+    "website": "https://gmre-inc.com/",
+    "kind": "defense engineering and technical services",
+    "ownership": "Unknown",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "GMRE INC copyright and official defense engineering, integration, sustainment and Air Force contract material match the existing NAVAIR identity evidence. Ownership remains unknown. Direct official homepage text inspected September 18, 2026 following JEV screening; saved HTML/text in jev-batch-007.",
+    "notes": "GMRE INC copyright and official defense engineering, integration, sustainment and Air Force contract material match the existing NAVAIR identity evidence. Ownership remains unknown. Direct official homepage text inspected September 18, 2026 following JEV screening; saved HTML/text in jev-batch-007.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/356a79d0-c35f-43c1-90f1-40b9fd63e571/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://gmre-inc.com/history/",
+        "label": "Organization evidence",
+        "claim": "Official GMRE history describes defense engineering, aviation integration, sustainment, and Air Force contracts."
+      },
+      {
+        "url": "https://www.navair.navy.mil/osbp/node/3866",
+        "label": "Organization evidence",
+        "claim": "NAVAIR profile identifies Gauss Management Research and Engineering, Inc. as GMRE in South Ogden, Utah."
+      },
+      {
+        "url": "https://gmre-inc.com/",
+        "label": "Direct official identity evidence",
+        "claim": "GMRE INC copyright and official defense engineering, integration, sustainment and Air Force contract material match the existing NAVAIR identity evidence. Ownership remains unknown. Direct official homepage text inspected September 18, 2026 following JEV screening; saved HTML/text in jev-batch-007."
+      }
+    ],
+    "as_of": "2026-09-06",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://i0.wp.com/gmre-inc.com/wp-content/uploads/2021/04/1B_GMRE-Logo.png?fit=2000%2C527&ssl=1",
+    "logo_kind": "logo",
+    "logo_source_url": "https://gmre-inc.com/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "74b48e7a2a2e7467": {
+    "name": "Metal Technologies, Inc.",
+    "description": "Iron-casting and machining company producing engineered castings and vertically integrated manufacturing solutions.",
+    "website": "https://metal-technologies.com/",
+    "kind": "Iron casting and machining company",
+    "ownership": "Family-owned",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Official page independently names METAL TECHNOLOGIES, INC. in copyright, describes iron casting and machining, and explicitly says MTI is family-owned. Family ownership is organization-reported; no named family or shareholding percentages inferred. Direct official homepage text inspected September 18, 2026 following JEV screening; saved HTML/text in jev-batch-007.",
+    "notes": "Official page independently names METAL TECHNOLOGIES, INC. in copyright, describes iron casting and machining, and explicitly says MTI is family-owned. Family ownership is organization-reported; no named family or shareholding percentages inferred. Direct official homepage text inspected September 18, 2026 following JEV screening; saved HTML/text in jev-batch-007.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/827b3d43-0cb7-47b9-a9fe-c487664da0cf/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://metal-technologies.com/about-us/",
+        "label": "Organization evidence",
+        "claim": "Official Metal Technologies page identifies the company and its casting and machining work."
+      },
+      {
+        "url": "https://metal-technologies.com/",
+        "label": "Direct official identity evidence",
+        "claim": "Official page independently names METAL TECHNOLOGIES, INC. in copyright, describes iron casting and machining, and explicitly says MTI is family-owned. Family ownership is organization-reported; no named family or shareholding percentages inferred. Direct official homepage text inspected September 18, 2026 following JEV screening; saved HTML/text in jev-batch-007."
+      }
+    ],
+    "as_of": "2026-09-06",
+    "checked_at": "2026-09-18",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "10fb3867c325e135": {
+    "name": "Northwest Renal Clinic, Inc. (dvac Ref)",
+    "description": "Nephrology practice providing kidney disease, dialysis, transplant consultation, and vascular-access care.",
+    "website": "https://www.nwrc.com/",
+    "kind": "Medical clinic",
+    "ownership": "Unknown",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Official page independently names Northwest Renal Clinic, Inc. in copyright and describes kidney disease, dialysis, transplant and vascular access care. Hospital affiliations are not ownership evidence; ownership remains unknown. Direct official homepage text inspected September 18, 2026 following JEV screening; saved HTML/text in jev-batch-007.",
+    "notes": "Official page independently names Northwest Renal Clinic, Inc. in copyright and describes kidney disease, dialysis, transplant and vascular access care. Hospital affiliations are not ownership evidence; ownership remains unknown. Direct official homepage text inspected September 18, 2026 following JEV screening; saved HTML/text in jev-batch-007.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/3423ff88-7318-4f2d-8ff3-2d4e3cc68424/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.nwrc.com/",
+        "label": "Organization evidence",
+        "claim": "Official Northwest Renal Clinic site identifies the practice and describes kidney disease, dialysis, transplant, and related nephrology care."
+      },
+      {
+        "url": "https://www.nwrc.com/services-1",
+        "label": "Organization evidence",
+        "claim": "Official services page identifies Northwest Renal Clinic, Inc. and lists vascular-access intervention among its services."
+      },
+      {
+        "url": "https://www.nwrc.com/locations",
+        "label": "Organization evidence",
+        "claim": "Official locations page lists the practice\u2019s Oregon clinics and dialysis access center."
+      },
+      {
+        "url": "https://www.nwrc.com/",
+        "label": "Direct official identity evidence",
+        "claim": "Official page independently names Northwest Renal Clinic, Inc. in copyright and describes kidney disease, dialysis, transplant and vascular access care. Hospital affiliations are not ownership evidence; ownership remains unknown. Direct official homepage text inspected September 18, 2026 following JEV screening; saved HTML/text in jev-batch-007."
+      }
+    ],
+    "as_of": "2026-09-06",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://images.squarespace-cdn.com/content/v1/58b46719cd0f68b719c846a9/1591229069318-686XAIX5IPOU66CXG53F/nwrc+logo.png",
+    "logo_kind": "logo",
+    "logo_source_url": "https://www.nwrc.com/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  }
+}

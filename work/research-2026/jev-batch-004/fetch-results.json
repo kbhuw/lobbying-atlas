@@ -1,0 +1,187 @@
+[
+  {
+    "id": "493bbd648cfc1e86",
+    "name": "END Chronic Disease Inc. DBA Make America Healthy",
+    "requested_url": "https://makeamericahealthy.org/",
+    "status": 200,
+    "final_url": "https://makeamericahealthy.org/",
+    "text_chars": 115,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-004/493bbd648cfc1e86.txt"
+  },
+  {
+    "id": "e7af306127162782",
+    "name": "City of West Lafayette, Indiana",
+    "requested_url": "https://www.westlafayette.in.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "ca5de86040019b33",
+    "name": "Coconut Grove Condo, LLC",
+    "requested_url": "https://zigguratcoconutgrove.com/legal-notices",
+    "status": 202,
+    "final_url": "https://zigguratcoconutgrove.com/legal-notices",
+    "text_chars": 105,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-004/ca5de86040019b33.txt"
+  },
+  {
+    "id": "493ed46113778bb9",
+    "name": "Rocktree USA LLC",
+    "requested_url": "https://rocktree.com/",
+    "status": 200,
+    "final_url": "https://rocktree.com/",
+    "text_chars": 3122,
+    "logo_candidates": [
+      {
+        "class": "img-with-animation trans_svg skip-lazy",
+        "data-delay": "0",
+        "height": "115",
+        "width": "397",
+        "data-animation": "none",
+        "src": "https://rocktree.com/wp-content/uploads/2024/10/logo_rocktree_wtotal.svg",
+        "alt": "Pixelated black and white abstract design, possibly a footer element"
+      },
+      {
+        "class": "img-with-animation last_svg skip-lazy",
+        "data-delay": "0",
+        "height": "105",
+        "width": "437",
+        "data-animation": "none",
+        "src": "https://rocktree.com/wp-content/uploads/2024/10/unlocking_opportunities.svg",
+        "alt": "Urban Opportunities logo in pixelated white text on black background"
+      },
+      {
+        "class": "img-with-animation trans_svg skip-lazy",
+        "data-delay": "0",
+        "height": "115",
+        "width": "397",
+        "data-animation": "none",
+        "src": "https://rocktree.com/wp-content/uploads/2024/10/logo_rocktree_wtotal.svg",
+        "alt": "Pixelated black and white abstract design, possibly a footer element"
+      },
+      {
+        "class": "img-with-animation last_svg skip-lazy",
+        "data-delay": "0",
+        "height": "105",
+        "width": "437",
+        "data-animation": "none",
+        "src": "https://rocktree.com/wp-content/uploads/2024/10/unlocking_opportunities.svg",
+        "alt": "Urban Opportunities logo in pixelated white text on black background"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-004/493ed46113778bb9.txt"
+  },
+  {
+    "id": "345dcada4d62a356",
+    "name": "Arctic Slope Regional Corp",
+    "requested_url": "https://www.asrc.com/",
+    "error": "HTTP Error 307: Temporary Redirect"
+  },
+  {
+    "id": "18425d720d8a85c5",
+    "name": "City of Bloomington, Illinois",
+    "requested_url": "https://www.bloomingtonil.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "abc63bb14cde4ec6",
+    "name": "City of Stamford, Connecticut",
+    "requested_url": "https://www.stamfordct.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "84f72b75e55ebbe2",
+    "name": "City of Victorville, California",
+    "requested_url": "https://www.victorvilleca.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "39799360b43826f4",
+    "name": "City of Visalia, California",
+    "requested_url": "https://www.visaliaca.gov/",
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  {
+    "id": "88e52caa225aecc1",
+    "name": "City of Warrenton, Oregon",
+    "requested_url": "https://www.ci.warrenton.or.us/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "16068c689516fb03",
+    "name": "Denver Regional Council of Governments",
+    "requested_url": "https://drcog.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "31b92e827e3d5106",
+    "name": "LI Ning (china) Sports Goods Co., Ltd.",
+    "requested_url": "https://www.lining.com/en/",
+    "status": 200,
+    "final_url": "https://www.lining.com/en/",
+    "text_chars": 99,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-004/31b92e827e3d5106.txt"
+  },
+  {
+    "id": "58d69148a4ab8409",
+    "name": "Managed Health Care Associates, Inc.",
+    "requested_url": "https://mhainc.com/",
+    "status": 202,
+    "final_url": "https://mhainc.com/",
+    "text_chars": 90,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-004/58d69148a4ab8409.txt"
+  },
+  {
+    "id": "ca686cf850cc23ab",
+    "name": "Augusta-Richmond County Coliseum Authority",
+    "requested_url": "https://newaugustaarena.com/",
+    "status": 202,
+    "final_url": "https://newaugustaarena.com/",
+    "text_chars": 105,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-004/ca686cf850cc23ab.txt"
+  },
+  {
+    "id": "bb61f7cc34085573",
+    "name": "City of Albany, Georgia",
+    "requested_url": "https://www.albanyga.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "2f61a2b1b4dac278",
+    "name": "City of Claremont, New Hampshire",
+    "requested_url": "https://claremontnh.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "ba908ec19fe2bf39",
+    "name": "City of Coral Springs, Florida",
+    "requested_url": "https://www.coralsprings.gov/Home",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "01684c05e28c8d65",
+    "name": "City of Delray Beach, Florida",
+    "requested_url": "https://www.delraybeachfl.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "be2f71a31398f0bc",
+    "name": "City of West Palm Beach, Florida",
+    "requested_url": "https://www.wpb.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "6a9bc290661f0834",
+    "name": "Douglas PUD",
+    "requested_url": "https://douglaspud.org/",
+    "status": 202,
+    "final_url": "https://douglaspud.org/",
+    "text_chars": 69,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-004/6a9bc290661f0834.txt"
+  }
+]

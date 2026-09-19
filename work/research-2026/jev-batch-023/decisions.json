@@ -1,0 +1,128 @@
+{
+  "6852f38ce6f98e3d": {
+    "name": "City Water, Light and Power, Springfield, Illinois",
+    "description": "City Water, Light and Power, Springfield, Illinois providing public utility or municipal services in Illinois.",
+    "website": "https://www.springfield.il.us/",
+    "kind": "Municipal utility department",
+    "ownership": "Government body",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Official financial-data page identifies City Water, Light and Power as Springfield Illinois municipally owned water and electric utilities. Each utility is a separate enterprise fund; the page supports government ownership without collapsing separate funds or other city entities.",
+    "notes": "Official financial-data page identifies City Water, Light and Power as Springfield Illinois municipally owned water and electric utilities. Each utility is a separate enterprise fund; the page supports government ownership without collapsing separate funds or other city entities.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/21f8ba48-df9f-44ae-bf67-fe7894ebc775/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.springfield.il.us/",
+        "label": "Organization evidence",
+        "claim": "Official website identifies City Water, Light and Power, Springfield, Illinois and provides current local government, municipal, utility, public-safety or resident services in Illinois."
+      },
+      {
+        "url": "https://www.cwlp.com/FinancialData.aspx",
+        "label": "Primary evidence checked September 18, 2026",
+        "claim": "Official financial-data page identifies City Water, Light and Power as Springfield Illinois municipally owned water and electric utilities. Each utility is a separate enterprise fund; the page supports government ownership without collapsing separate funds or other city entities."
+      }
+    ],
+    "as_of": "2026-09-18",
+    "checked_at": "2026-09-18",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "d2f96f2dbdf0f8f2": {
+    "name": "Dry Prairie Rural Water Authority",
+    "description": "Rural-water authority delivering clean, affordable drinking water across Northeast Montana.",
+    "website": "https://dryprairie.com/",
+    "kind": "Rural water authority",
+    "ownership": "Unknown",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Direct official homepage identifies Northeast Montana water services and offices. Official Federal Lobbying page identifies Dry Prairie Rural Water as a regional water authority, describes its federal lobbying and provides historical expenditure tables. Ownership classification remains Unknown pending a governing document; historical expenditures are not treated as 2026 figures.",
+    "notes": "Direct official homepage identifies Northeast Montana water services and offices. Official Federal Lobbying page identifies Dry Prairie Rural Water as a regional water authority, describes its federal lobbying and provides historical expenditure tables. Ownership classification remains Unknown pending a governing document; historical expenditures are not treated as 2026 figures.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/b7177839-f4c5-4427-b67d-0ee7bf7e8a3c/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://dryprairie.com/",
+        "label": "Organization evidence",
+        "claim": "Dry Prairie Rural Water\u2019s official site states its mission to deliver drinking water throughout Northeast Montana and lists Glasgow, Culbertson and Scobey offices."
+      },
+      {
+        "url": "https://dnrc.mt.gov/_docs/conservation/ARPA/CommissionMeetings/IAC-Agenda-and-Minutes-01.27.22-FINAL.pdf",
+        "label": "Organization evidence",
+        "claim": "Montana DNRC materials refer to Dry Prairie Rural Water Authority as the regional rural-water authority."
+      },
+      {
+        "url": "https://dryprairie.com/federal-lobbying.html",
+        "label": "Primary evidence checked September 18, 2026",
+        "claim": "Direct official homepage identifies Northeast Montana water services and offices. Official Federal Lobbying page identifies Dry Prairie Rural Water as a regional water authority, describes its federal lobbying and provides historical expenditure tables. Ownership classification remains Unknown pending a governing document; historical expenditures are not treated as 2026 figures."
+      }
+    ],
+    "as_of": "2026-09-18",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://dryprairie.com/assets/dprw_logo74804.gif",
+    "logo_kind": "logo",
+    "logo_source_url": "https://dryprairie.com/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "ab97b0acfd51e915": {
+    "name": "Geothermal Rising Action, Inc",
+    "description": "Geothermal Rising Action is the advocacy entity associated with Geothermal Rising, advancing geothermal energy policy and public outreach.",
+    "website": "https://www.geothermal.org/our-organization",
+    "kind": "Geothermal policy advocacy organization",
+    "ownership": "Unknown",
+    "legal_form": "Social welfare organization",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Official June 10, 2025 Senate letter explicitly names Geothermal Rising Action, Inc. and its Palm Springs address, describes it as a social welfare organization affiliated with Geothermal Rising, and documents geothermal tax-credit advocacy. Exact affiliate identity confirmed; tax subsection is not inferred from the broader group homepage.",
+    "notes": "Official June 10, 2025 Senate letter explicitly names Geothermal Rising Action, Inc. and its Palm Springs address, describes it as a social welfare organization affiliated with Geothermal Rising, and documents geothermal tax-credit advocacy. Exact affiliate identity confirmed; tax subsection is not inferred from the broader group homepage.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/f83b1f6d-4383-4ef0-9a58-b66df2a36798/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.geothermal.org/our-organization",
+        "label": "Organization evidence",
+        "claim": "Official Geothermal Rising page describes geothermal advocacy, public outreach, and its 501(c)(3) and 501(c)(4) organizations."
+      },
+      {
+        "url": "https://lda.gov/api/v1/clients/67917/?format=json",
+        "label": "Organization evidence",
+        "claim": "LDA API identifies the exact filed client as Geothermal Rising Action, Inc. and describes it as a geothermal-energy trade association."
+      },
+      {
+        "url": "https://geothermal.org/sites/default/files/2025-06/PTC-ITC%20Senate%20Letter-FINAL%206_10_25.docx-1.pdf",
+        "label": "Official Action organization letter",
+        "claim": "The June 10, 2025 letter names Geothermal Rising Action, Inc., states its social-welfare form and affiliation with Geothermal Rising, and provides its Palm Springs address."
+      },
+      {
+        "url": "https://geothermal.org/sites/default/files/2025-06/PTC-ITC%20Senate%20Letter-FINAL%206_10_25.docx-1.pdf",
+        "label": "Primary evidence checked September 18, 2026",
+        "claim": "Official June 10, 2025 Senate letter explicitly names Geothermal Rising Action, Inc. and its Palm Springs address, describes it as a social welfare organization affiliated with Geothermal Rising, and documents geothermal tax-credit advocacy. Exact affiliate identity confirmed; tax subsection is not inferred from the broader group homepage."
+      }
+    ],
+    "as_of": "2026-09-18",
+    "checked_at": "2026-09-18",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved",
+    "website_status": "verified",
+    "status": "sourced"
+  }
+}

@@ -1,0 +1,3 @@
+# Identity 232 batch
+
+Confirmed or qualified identity matches were recorded for Charm Industrial, PointClickCare Technologies USA Corp., Pole Star Space Applications USA Inc., Polo Custom Products LLC, Pontera Inc., Project FoodBox, Project Omega, Qualtrics International Inc., Regard Technologies Inc., Revision Military Inc., and Rhoback Inc. OBO/intermediary boundaries are preserved for Charm and Supply-Build Canada. Policy & Taxation Group, Medlytix, and Reconview remain partial because the official body was unavailable or returned 403. All source URLs, excerpts, retrieval references, and statuses are in the JSON.

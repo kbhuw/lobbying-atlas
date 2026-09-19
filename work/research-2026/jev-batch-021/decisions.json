@@ -1,0 +1,125 @@
+{
+  "42e53e4f780a7bac": {
+    "name": "Associa\u00e7\u00e3o Brasileira dos Exportadores de Mel (ABEMEL)",
+    "description": "Brazilian honey-exporters association promoting exports of honey and other bee products.",
+    "kind": "Trade association",
+    "ownership": "Unknown",
+    "website": "https://www.brazilletsbee.com.br/abemel.aspx",
+    "status": "sourced",
+    "featured": false,
+    "as_of": "2026-09-18",
+    "checked_at": "2026-09-18",
+    "legal_form": "",
+    "notes": "Direct Portuguese ABEMEL page expands Associa\u00e7\u00e3o Brasileira dos Exportadores de Mel, identifies its honey-exporter membership and Rio Claro address. Brazil Lets Bee is the export-promotion site carrying the association page; tax status remains Unknown.",
+    "sources": [
+      {
+        "url": "https://lda.gov/api/v1/clients/74009/?format=json",
+        "label": "LDA client 74009",
+        "claim": "Self-reported description; client effective date 2026-06-04"
+      },
+      {
+        "url": "https://www.brazilletsbee.com.br/abemel.aspx",
+        "label": "Official organization evidence",
+        "claim": "Brazilian honey-exporters association promoting exports of honey and other bee products."
+      },
+      {
+        "url": "https://www.brazilletsbee.com.br/abemel.aspx",
+        "label": "Official page directly reviewed September 18, 2026",
+        "claim": "Direct Portuguese ABEMEL page expands Associa\u00e7\u00e3o Brasileira dos Exportadores de Mel, identifies its honey-exporter membership and Rio Claro address. Brazil Lets Bee is the export-promotion site carrying the association page; tax status remains Unknown."
+      }
+    ],
+    "other_descriptions": [],
+    "review_outcome": "confirmed",
+    "identity_evidence": "Direct Portuguese ABEMEL page expands Associa\u00e7\u00e3o Brasileira dos Exportadores de Mel, identifies its honey-exporter membership and Rio Claro address. Brazil Lets Bee is the export-promotion site carrying the association page; tax status remains Unknown.",
+    "logo_url": "https://www.brazilletsbee.com.br/images/abemel_logo.jpg",
+    "logo_kind": "logo",
+    "logo_source_url": "https://www.brazilletsbee.com.br/abemel.aspx",
+    "logo_status": "official_site_asset",
+    "website_status": "verified"
+  },
+  "b243accec63d6351": {
+    "name": "City of North Lauderdale, Florida",
+    "description": "Municipal government serving North Lauderdale, Florida.",
+    "website": "https://www.nlauderdale.org/",
+    "kind": "Municipal government",
+    "ownership": "Government body",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Direct North Lauderdale official homepage identifies North Lauderdale, Florida, City Commission and municipal utility billing, public works and resident services. Separate housing authority and water-control district links do not establish a merger.",
+    "notes": "Direct North Lauderdale official homepage identifies North Lauderdale, Florida, City Commission and municipal utility billing, public works and resident services. Separate housing authority and water-control district links do not establish a merger.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/11d6f32a-ef7e-49aa-8f54-ebddd2d0c626/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.nlauderdale.org/",
+        "label": "Official organization website",
+        "claim": "City municipal agendas and official payment portal identify nlauderdale.org for North Lauderdale, Florida."
+      },
+      {
+        "label": "Official website branding",
+        "url": "https://www.nlauderdale.org/",
+        "claim": "Organization logo or site icon identified on official site; image response verified September 9, 2026."
+      },
+      {
+        "url": "https://www.nlauderdale.org/",
+        "label": "Visually reviewed official logo",
+        "claim": "Official https://www.nlauderdale.org/ organization site exposes this asset for City of North Lauderdale, Florida; fetched successfully and visually inspected as the organization brand mark."
+      },
+      {
+        "url": "https://www.nlauderdale.org/",
+        "label": "Official page directly reviewed September 18, 2026",
+        "claim": "Direct North Lauderdale official homepage identifies North Lauderdale, Florida, City Commission and municipal utility billing, public works and resident services. Separate housing authority and water-control district links do not establish a merger."
+      }
+    ],
+    "as_of": "2026-09-18",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://www.nlauderdale.org/_assets_/images/logo.jpg",
+    "logo_kind": "logo",
+    "logo_source_url": "https://www.nlauderdale.org/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced",
+    "logo_background": "light"
+  },
+  "0a7a34e860b7922f": {
+    "name": "Korea Iron and Steel Association (kosa)",
+    "description": "Korea Iron and Steel Association represents South Korea\u2019s steel industry and publishes industry information and statistics.",
+    "website": "https://kosa.or.kr/eng/main.jsp",
+    "kind": "Steel industry trade association",
+    "ownership": "Unknown",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Direct official English homepage names Korea Iron and Steel Association, gives its Seoul address and states its Korean steel-industry development purpose. Industry statistics and member directories are provided; specific nonprofit or tax status remains unverified.",
+    "notes": "Direct official English homepage names Korea Iron and Steel Association, gives its Seoul address and states its Korean steel-industry development purpose. Industry statistics and member directories are provided; specific nonprofit or tax status remains unverified.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/64c5d610-3ce0-491a-a31f-5eaf410f7db1/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://kosa.or.kr/eng/main.jsp",
+        "label": "Organization evidence",
+        "claim": "Official association website identifies KOSA, its steel-industry role and Seoul address."
+      },
+      {
+        "url": "https://kosa.or.kr/eng/main.jsp",
+        "label": "Official page directly reviewed September 18, 2026",
+        "claim": "Direct official English homepage names Korea Iron and Steel Association, gives its Seoul address and states its Korean steel-industry development purpose. Industry statistics and member directories are provided; specific nonprofit or tax status remains unverified."
+      }
+    ],
+    "as_of": "2026-09-18",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://kosa.or.kr/eng/img/foot_logo.png",
+    "logo_kind": "logo",
+    "logo_source_url": "https://kosa.or.kr/eng/main.jsp",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  }
+}

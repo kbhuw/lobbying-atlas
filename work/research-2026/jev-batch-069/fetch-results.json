@@ -1,0 +1,419 @@
+[
+  {
+    "id": "c633a0907c5565f4",
+    "name": "National Reverse Mortgage Lenders Association (through Fennel Consulting, Llc)",
+    "requested_url": "https://www.reversemortgage.org/about/an-inside-look/an-appraisal/",
+    "status": 200,
+    "final_url": "https://www.reversemortgage.org/about/an-inside-look/an-appraisal/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/0-c633a0907c5565f4.txt",
+    "text_chars": 9682
+  },
+  {
+    "id": "c633a0907c5565f4",
+    "name": "National Reverse Mortgage Lenders Association (through Fennel Consulting, Llc)",
+    "requested_url": "https://www.reversemortgage.org/about/an-inside-look/loan-origination/",
+    "status": 200,
+    "final_url": "https://www.reversemortgage.org/about/an-inside-look/loan-origination/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/1-c633a0907c5565f4.txt",
+    "text_chars": 12532
+  },
+  {
+    "id": "91dfe774831d6f06",
+    "name": "Witham Hospital",
+    "requested_url": "https://www.witham.org/about-us/mission-values-and-vision",
+    "status": 200,
+    "final_url": "https://www.witham.org/about-us/mission-values-and-vision",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/2-91dfe774831d6f06.txt",
+    "text_chars": 1917
+  },
+  {
+    "id": "a1128160911cf226",
+    "name": "Atada",
+    "requested_url": "https://atada.org/atada-blog/2020/10/5/world-customs-organization-report-heritage-trafficking-is-tiny-percentage-of-illegal-trade",
+    "status": 200,
+    "final_url": "https://atada.org/atada-blog/2020/10/5/world-customs-organization-report-heritage-trafficking-is-tiny-percentage-of-illegal-trade",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/3-a1128160911cf226.txt",
+    "text_chars": 3379
+  },
+  {
+    "id": "a1128160911cf226",
+    "name": "Atada",
+    "requested_url": "https://atada.org/atada-blog/2020/2/17/legal-committee-report-february-2020",
+    "status": 200,
+    "final_url": "https://atada.org/atada-blog/2020/2/17/legal-committee-report-february-2020",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/4-a1128160911cf226.txt",
+    "text_chars": 9575
+  },
+  {
+    "id": "c8c698d82ab23fbc",
+    "name": "Insights Association (fka: Marketing Research Association)",
+    "requested_url": "https://www.insightsassociation.org/Resources/Data-Privacy-Framework/Privacy-Application",
+    "status": 200,
+    "final_url": "https://www.insightsassociation.org/Resources/Data-Privacy-Framework/Privacy-Application",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/5-c8c698d82ab23fbc.txt",
+    "text_chars": 6749
+  },
+  {
+    "id": "c8c698d82ab23fbc",
+    "name": "Insights Association (fka: Marketing Research Association)",
+    "requested_url": "https://www.insightsassociation.org/Terms",
+    "status": 200,
+    "final_url": "https://www.insightsassociation.org/Terms",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/6-c8c698d82ab23fbc.txt",
+    "text_chars": 23292
+  },
+  {
+    "id": "d93954328ab017bf",
+    "name": "SAN Jacinto College Community District",
+    "requested_url": "https://www.sanjac.edu/about/contact-us/index.php",
+    "status": 200,
+    "final_url": "https://www.sanjac.edu/about/contact-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/7-d93954328ab017bf.txt",
+    "text_chars": 6503
+  },
+  {
+    "id": "d93954328ab017bf",
+    "name": "SAN Jacinto College Community District",
+    "requested_url": "https://www.sanjac.edu/about/facts-figures/index.php",
+    "status": 200,
+    "final_url": "https://www.sanjac.edu/about/facts-figures/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/8-d93954328ab017bf.txt",
+    "text_chars": 5051
+  },
+  {
+    "id": "4c308c8da94d819a",
+    "name": "the American Border Story Action",
+    "requested_url": "https://theamericanborderstory.com/about-us/",
+    "status": 200,
+    "final_url": "https://theamericanborderstory.com/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/9-4c308c8da94d819a.txt",
+    "text_chars": 2160
+  },
+  {
+    "id": "7a60d60981d285f9",
+    "name": "Cigna Corporate Services, LLC and affiliates",
+    "requested_url": "https://www.thecignagroup.com/about-us/supplier-community/",
+    "status": 200,
+    "final_url": "https://www.thecignagroup.com/about-us/supplier-community/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/10-7a60d60981d285f9.txt",
+    "text_chars": 11501
+  },
+  {
+    "id": "e13bffd26fb60c91",
+    "name": "Standard Bots Inc.",
+    "requested_url": "https://standardbots.com/about",
+    "status": 200,
+    "final_url": "https://standardbots.com/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/11-e13bffd26fb60c91.txt",
+    "text_chars": 14213
+  },
+  {
+    "id": "4b47ff4f23e29d26",
+    "name": "Damera Bus Sales Canada",
+    "requested_url": "https://www.dameracorp.com/ca/events/about-its-world-congress-2025",
+    "status": 200,
+    "final_url": "https://www.dameracorp.com/ca/events/about-its-world-congress-2025",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/12-4b47ff4f23e29d26.txt",
+    "text_chars": 21313
+  },
+  {
+    "id": "07a152b0ad38021f",
+    "name": "Golden Pass LNG Terminal LLC (formerly Golden Pass Products LLC)",
+    "requested_url": "https://www.goldenpasslng.com/about/a-clean-solution",
+    "status": 200,
+    "final_url": "https://www.goldenpasslng.com/about/a-clean-solution",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/13-07a152b0ad38021f.txt",
+    "text_chars": 3203
+  },
+  {
+    "id": "07a152b0ad38021f",
+    "name": "Golden Pass LNG Terminal LLC (formerly Golden Pass Products LLC)",
+    "requested_url": "https://www.goldenpasslng.com/about/about-golden-pass",
+    "status": 200,
+    "final_url": "https://www.goldenpasslng.com/about/about-golden-pass",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/14-07a152b0ad38021f.txt",
+    "text_chars": 12727
+  },
+  {
+    "id": "10ff09825564593f",
+    "name": "ICON Electric Vehicles",
+    "requested_url": "https://iconev.com/terms-and-conditions/",
+    "status": 200,
+    "final_url": "https://iconev.com/terms-and-conditions/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/15-10ff09825564593f.txt",
+    "text_chars": 11571
+  },
+  {
+    "id": "10ff09825564593f",
+    "name": "ICON Electric Vehicles",
+    "requested_url": "https://iconev.com/about-us",
+    "status": 200,
+    "final_url": "https://iconev.com/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/16-10ff09825564593f.txt",
+    "text_chars": 4912
+  },
+  {
+    "id": "f6191934de9b20d9",
+    "name": "Ioneer USA Corporation",
+    "requested_url": "https://www.ioneer.com/about/corporate-governance/",
+    "status": 200,
+    "final_url": "https://www.ioneer.com/about/corporate-governance/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/17-f6191934de9b20d9.txt",
+    "text_chars": 3027
+  },
+  {
+    "id": "f6191934de9b20d9",
+    "name": "Ioneer USA Corporation",
+    "requested_url": "https://www.ioneer.com/about/leadership/",
+    "status": 200,
+    "final_url": "https://www.ioneer.com/about/leadership/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/18-f6191934de9b20d9.txt",
+    "text_chars": 2534
+  },
+  {
+    "id": "7b4d1943244a5af9",
+    "name": "Msi-defense Systems US, Inc",
+    "requested_url": "https://msi-defencesystemsus.com/about/history-of-success/",
+    "status": 200,
+    "final_url": "https://msi-defencesystemsus.com/about/history-of-success/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/19-7b4d1943244a5af9.txt",
+    "text_chars": 2102
+  },
+  {
+    "id": "5f810d522653cf43",
+    "name": "Oritain USA",
+    "requested_url": "https://oritain.com/company/about-oritain",
+    "status": 200,
+    "final_url": "https://oritain.com/company/about-oritain",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/20-5f810d522653cf43.txt",
+    "text_chars": 5986
+  },
+  {
+    "id": "9c83af10b383d3d5",
+    "name": "Qeuk on Behalf of Palladian Partners, L.p. and HBK Master Fund L.p.",
+    "requested_url": "https://www.quinnemanuel.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.quinnemanuel.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/21-9c83af10b383d3d5.txt",
+    "text_chars": 29509
+  },
+  {
+    "id": "9c83af10b383d3d5",
+    "name": "Qeuk on Behalf of Palladian Partners, L.p. and HBK Master Fund L.p.",
+    "requested_url": "https://www.quinnemanuel.com/the-firm/news-events/quinn-emanuel-recognized-as-a-leading-law-firm-in-legal-500-s-usa-2026-guide/",
+    "status": 200,
+    "final_url": "https://www.quinnemanuel.com/the-firm/news-events/quinn-emanuel-recognized-as-a-leading-law-firm-in-legal-500-s-usa-2026-guide/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/22-9c83af10b383d3d5.txt",
+    "text_chars": 11596
+  },
+  {
+    "id": "9b1b00e217e4370c",
+    "name": "Electrical Apparatus Service Association (EASA)",
+    "requested_url": "https://easa.com/Privacy-policy",
+    "status": 200,
+    "final_url": "https://easa.com/about-easa/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/23-9b1b00e217e4370c.txt",
+    "text_chars": 24195
+  },
+  {
+    "id": "9b1b00e217e4370c",
+    "name": "Electrical Apparatus Service Association (EASA)",
+    "requested_url": "https://easa.com/accreditation/terms",
+    "status": 200,
+    "final_url": "https://easa.com/accreditation/terms",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/24-9b1b00e217e4370c.txt",
+    "text_chars": 18510
+  },
+  {
+    "id": "d62db93239a9aa1f",
+    "name": "Field AI Inc.",
+    "requested_url": "https://www.fieldai.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.fieldai.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/25-d62db93239a9aa1f.txt",
+    "text_chars": 22935
+  },
+  {
+    "id": "d62db93239a9aa1f",
+    "name": "Field AI Inc.",
+    "requested_url": "https://www.fieldai.com/terms-of-use",
+    "status": 200,
+    "final_url": "https://www.fieldai.com/terms-of-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/26-d62db93239a9aa1f.txt",
+    "text_chars": 25779
+  },
+  {
+    "id": "89e70490e4a997d9",
+    "name": "Intersoft Electronics, Inc.",
+    "requested_url": "https://intersoft-electronics.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://intersoft-electronics.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/27-89e70490e4a997d9.txt",
+    "text_chars": 5818
+  },
+  {
+    "id": "89e70490e4a997d9",
+    "name": "Intersoft Electronics, Inc.",
+    "requested_url": "https://intersoft-electronics.com/terms-conditions/",
+    "status": 200,
+    "final_url": "https://intersoft-electronics.com/terms-conditions/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/28-89e70490e4a997d9.txt",
+    "text_chars": 46086
+  },
+  {
+    "id": "12bf3006b372b0de",
+    "name": "Newrange Copper Nickel LLC",
+    "requested_url": "https://www.newrangecoppernickel.com/legal-notice/",
+    "status": 200,
+    "final_url": "https://www.newrangecoppernickel.com/legal-notice/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/29-12bf3006b372b0de.txt",
+    "text_chars": 7443
+  },
+  {
+    "id": "12bf3006b372b0de",
+    "name": "Newrange Copper Nickel LLC",
+    "requested_url": "https://www.newrangecoppernickel.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.newrangecoppernickel.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/30-12bf3006b372b0de.txt",
+    "text_chars": 3431
+  },
+  {
+    "id": "40dba74906a915d5",
+    "name": "Sound Physicians (fka Sound Inpatient Physicians, Inc.)",
+    "requested_url": "https://www.soundphysicians.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.soundphysicians.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/31-40dba74906a915d5.txt",
+    "text_chars": 31575
+  },
+  {
+    "id": "40dba74906a915d5",
+    "name": "Sound Physicians (fka Sound Inpatient Physicians, Inc.)",
+    "requested_url": "https://www.soundphysicians.com/terms-of-use/",
+    "status": 200,
+    "final_url": "https://www.soundphysicians.com/terms-of-use/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/32-40dba74906a915d5.txt",
+    "text_chars": 21529
+  },
+  {
+    "id": "c69aa9932622029f",
+    "name": "Vantor Parent Inc",
+    "requested_url": "https://vantor.com/legal/",
+    "status": 200,
+    "final_url": "https://vantor.com/legal/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/33-c69aa9932622029f.txt",
+    "text_chars": 4104
+  },
+  {
+    "id": "c69aa9932622029f",
+    "name": "Vantor Parent Inc",
+    "requested_url": "https://vantor.com/resources/website-terms-of-use/",
+    "status": 200,
+    "final_url": "https://vantor.com/resources/website-terms-of-use/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/34-c69aa9932622029f.txt",
+    "text_chars": 1438
+  },
+  {
+    "id": "a18bcaf8d3e4527a",
+    "name": "Country Casual Teak, Inc.",
+    "requested_url": "https://www.countrycasualteak.com/privacy-and-security",
+    "status": 200,
+    "final_url": "https://www.countrycasualteak.com/privacy-and-security",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/35-a18bcaf8d3e4527a.txt",
+    "text_chars": 15681
+  },
+  {
+    "id": "a18bcaf8d3e4527a",
+    "name": "Country Casual Teak, Inc.",
+    "requested_url": "https://www.countrycasualteak.com/terms-and-conditions",
+    "status": 200,
+    "final_url": "https://www.countrycasualteak.com/terms-and-conditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/36-a18bcaf8d3e4527a.txt",
+    "text_chars": 46700
+  },
+  {
+    "id": "ba8ca1a3d97582c9",
+    "name": "MicroAutomation, Inc.",
+    "requested_url": "https://microautomation.com/about/careers/",
+    "status": 200,
+    "final_url": "https://microautomation.com/about/careers/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/37-ba8ca1a3d97582c9.txt",
+    "text_chars": 6369
+  },
+  {
+    "id": "ba8ca1a3d97582c9",
+    "name": "MicroAutomation, Inc.",
+    "requested_url": "https://microautomation.com/about/",
+    "status": 200,
+    "final_url": "https://microautomation.com/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/38-ba8ca1a3d97582c9.txt",
+    "text_chars": 7604
+  },
+  {
+    "id": "9edc2729b77362c3",
+    "name": "MIT45, Inc.",
+    "requested_url": "https://mit45.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://mit45.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/39-9edc2729b77362c3.txt",
+    "text_chars": 17071
+  },
+  {
+    "id": "9edc2729b77362c3",
+    "name": "MIT45, Inc.",
+    "requested_url": "https://mit45.com/terms-and-conditions/",
+    "status": 200,
+    "final_url": "https://mit45.com/terms-and-conditions/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/40-9edc2729b77362c3.txt",
+    "text_chars": 10908
+  },
+  {
+    "id": "c9e7d67e1e73329a",
+    "name": "Mitsubishi Chemical Advanced Materials Inc.",
+    "requested_url": "https://us.mitsubishi-chemical.com/terms-and-conditions/",
+    "status": 200,
+    "final_url": "https://us.mitsubishi-chemical.com/terms-and-conditions/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/41-c9e7d67e1e73329a.txt",
+    "text_chars": 27944
+  },
+  {
+    "id": "c9e7d67e1e73329a",
+    "name": "Mitsubishi Chemical Advanced Materials Inc.",
+    "requested_url": "https://us.mitsubishi-chemical.com/about-mca/",
+    "status": 200,
+    "final_url": "https://us.mitsubishi-chemical.com/about-mca/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/42-c9e7d67e1e73329a.txt",
+    "text_chars": 5932
+  },
+  {
+    "id": "6131e34d00c3e065",
+    "name": "North American Insulation Manufacturing Association",
+    "requested_url": "https://insulationinstitute.org/about-naima/ https:/insulationinstitute.org/about-naima/health-and-safety/ ",
+    "error": "URL can't contain control characters. '/about-naima/ https:/insulationinstitute.org/about-naima/health-and-safety/' (found at least ' ')"
+  },
+  {
+    "id": "6131e34d00c3e065",
+    "name": "North American Insulation Manufacturing Association",
+    "requested_url": "https://insulationinstitute.org/about-naima/ https:/insulationinstitute.org/about-naima/naima-members/ ",
+    "error": "URL can't contain control characters. '/about-naima/ https:/insulationinstitute.org/about-naima/naima-members/' (found at least ' ')"
+  },
+  {
+    "id": "8ca1ad6653e4ddee",
+    "name": "Ripple Labs",
+    "requested_url": "https://ripple.com/legal/money-transfer-license/",
+    "status": 200,
+    "final_url": "https://ripple.com/legal/money-transfer-license/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/45-8ca1ad6653e4ddee.txt",
+    "text_chars": 21960
+  },
+  {
+    "id": "8ca1ad6653e4ddee",
+    "name": "Ripple Labs",
+    "requested_url": "https://ripple.com/legal/privacy-policy/",
+    "status": 200,
+    "final_url": "https://ripple.com/legal/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-069/46-8ca1ad6653e4ddee.txt",
+    "text_chars": 32205
+  }
+]

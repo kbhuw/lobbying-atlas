@@ -1,0 +1,128 @@
+{
+  "6554a7de90beac23": {
+    "name": "National Athletic Trainers Association",
+    "description": "NATA is the professional membership association for athletic trainers, supporting education, professional standards, advocacy, research, and member resources.",
+    "website": "https://www.nata.org/",
+    "kind": "Professional association",
+    "ownership": "Unknown",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Official homepage spells out National Athletic Trainers Association in copyright and podcast description, and describes professional education, advocacy and member services. NATA Foundation is separately named and not merged. Tax status remains unknown. Direct official page body fetched and inspected September 18, 2026 following JEV screening; source retained in jev-batch-007.",
+    "notes": "Official homepage spells out National Athletic Trainers Association in copyright and podcast description, and describes professional education, advocacy and member services. NATA Foundation is separately named and not merged. Tax status remains unknown. Direct official page body fetched and inspected September 18, 2026 following JEV screening; source retained in jev-batch-007.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/2711ee24-dd1c-44f0-9b4d-ce5bce15ec34/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.nata.org/about",
+        "label": "Organization evidence",
+        "claim": "Official NATA about page describes the association\u2019s athletic-training membership, education, advocacy, and professional mission."
+      },
+      {
+        "url": "https://lda.gov/api/v1/clients/50760/?format=json",
+        "label": "Organization evidence",
+        "claim": "LDA record supplies the disclosed client name and effective-date context used to validate the exact input identity."
+      },
+      {
+        "url": "https://www.nata.org/",
+        "label": "Direct official identity and activity evidence",
+        "claim": "Official homepage spells out National Athletic Trainers Association in copyright and podcast description, and describes professional education, advocacy and member services. NATA Foundation is separately named and not merged. Tax status remains unknown. Direct official page body fetched and inspected September 18, 2026 following JEV screening; source retained in jev-batch-007."
+      }
+    ],
+    "as_of": "2026-09-06",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://www.nata.org/themes/custom/nata/logo.png",
+    "logo_kind": "logo",
+    "logo_source_url": "https://www.nata.org/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "8139c9e4a7d223c1": {
+    "name": "National Association of State Treasurers (NAST)",
+    "description": "Association of state and territorial treasurers providing policy coordination, education, and research.",
+    "website": "https://nast.org/",
+    "kind": "organization",
+    "ownership": "Unknown",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Official homepage names National Association of State Treasurers and describes state finance education, policy coordination and member resources. Association status does not by itself establish federal tax exemption; ownership remains unknown. Direct official page body fetched and inspected September 18, 2026 following JEV screening; source retained in jev-batch-007.",
+    "notes": "Official homepage names National Association of State Treasurers and describes state finance education, policy coordination and member resources. Association status does not by itself establish federal tax exemption; ownership remains unknown. Direct official page body fetched and inspected September 18, 2026 following JEV screening; source retained in jev-batch-007.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/2670d5ee-ae38-41e0-b4a9-f45532cd37f6/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://nast.org/",
+        "label": "Organization evidence",
+        "claim": "NAST describes its membership of state and territorial treasurers and its education and policy work."
+      },
+      {
+        "url": "https://nast.org/about/",
+        "label": "Organization evidence",
+        "claim": "NAST\u2019s official materials describe its state-treasurer membership and public-finance policy work; no exact NAST tax-exemption evidence was found."
+      },
+      {
+        "url": "https://nast.org/",
+        "label": "Direct official identity and activity evidence",
+        "claim": "Official homepage names National Association of State Treasurers and describes state finance education, policy coordination and member resources. Association status does not by itself establish federal tax exemption; ownership remains unknown. Direct official page body fetched and inspected September 18, 2026 following JEV screening; source retained in jev-batch-007."
+      }
+    ],
+    "as_of": "2026-09-06",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://nast.org/wp-content/uploads/2019/09/nast2019_logo_color-web.png",
+    "logo_kind": "logo",
+    "logo_source_url": "https://nast.org/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "7d2213442954df43": {
+    "name": "Prairie Band LLC",
+    "description": "A holding company that expands and diversifies the Prairie Band Potawatomi Nation's economic portfolio.",
+    "website": "https://prairiebandllc.com/",
+    "kind": "Holding company",
+    "ownership": "Subsidiary",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Official homepage identifies Prairie Band LLC at Holton, Kansas, and describes its economic-development mission for the Prairie Band Potawatomi Nation. Tribal affiliates and subsidiary companies remain distinct. Direct official page body fetched and inspected September 18, 2026 following JEV screening; source retained in jev-batch-007.",
+    "notes": "Official homepage identifies Prairie Band LLC at Holton, Kansas, and describes its economic-development mission for the Prairie Band Potawatomi Nation. Tribal affiliates and subsidiary companies remain distinct. Direct official page body fetched and inspected September 18, 2026 following JEV screening; source retained in jev-batch-007.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/edb6aea7-ecdd-4141-ab78-6aedc7a78e00/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.pbpindiantribe.com/prairie-band-potawatomi-nation-seeking-2-two-for-prairie-band-llc-board-of-directors",
+        "label": "Organization evidence",
+        "claim": "Prairie Band Potawatomi Nation states that Prairie Band, LLC is the Nation's economic development company wholly owned by the Nation and links to prairiebandllc.com."
+      },
+      {
+        "url": "https://docs.house.gov/meetings/II/II24/20220914/115095/HHRG-117-II24-Wstate-RupnickJ-20220914-SD978.pdf",
+        "label": "Organization evidence",
+        "claim": "U.S. House hearing exhibit describes Prairie Band LLC as established by the Nation and a wholly owned holding company whose leadership reports to the Tribal Council."
+      },
+      {
+        "url": "https://prairiebandllc.com/",
+        "label": "Direct official identity and activity evidence",
+        "claim": "Official homepage identifies Prairie Band LLC at Holton, Kansas, and describes its economic-development mission for the Prairie Band Potawatomi Nation. Tribal affiliates and subsidiary companies remain distinct. Direct official page body fetched and inspected September 18, 2026 following JEV screening; source retained in jev-batch-007."
+      }
+    ],
+    "as_of": "2026-09-07",
+    "checked_at": "2026-09-18",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved",
+    "website_status": "verified",
+    "status": "sourced"
+  }
+}

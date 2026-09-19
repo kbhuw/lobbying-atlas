@@ -1,0 +1,128 @@
+{
+  "fb9aa0af81ebac9c": {
+    "name": "Ri-corp. Development, Inc.",
+    "description": "Operates the Gilberton Power Company / John B. Rich Memorial Power Station and generates electricity from coal-refuse fuel in Schuylkill County, Pennsylvania.",
+    "website": "",
+    "kind": "Company",
+    "ownership": "Unknown",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Pennsylvania regulator-hosted October 12, 2021 company comment explicitly identifies Ri-Corp. Development, Inc. dba Gilberton Power Company. EPA facility record independently links RI-CORP DEVELOPMENT INC to Gilberton Power. Indexed primary-source text checked September 18, 2026. Identity confirmed; standalone website and ownership remain unknown.",
+    "notes": "Pennsylvania regulator-hosted October 12, 2021 company comment explicitly identifies Ri-Corp. Development, Inc. dba Gilberton Power Company. EPA facility record independently links RI-CORP DEVELOPMENT INC to Gilberton Power. Indexed primary-source text checked September 18, 2026. Identity confirmed; standalone website and ownership remain unknown.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/75b3eb09-5872-4bfe-8e6f-6dbc0519aa33/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.pacodeandbulletin.gov/secure/pabulletin/data/vol51/51-22/857.html",
+        "label": "Organization evidence",
+        "claim": "Pennsylvania DEP notice identifies Ri-Corp Development Inc., the Gilberton Power facility, and its industrial power-station activity."
+      },
+      {
+        "url": "https://www.irrc.state.pa.us/docs/3310/COMMENTS_PUBLIC/3310%2010-13-21%20Gilberton%20Power%20Company.pdf",
+        "label": "Primary identity evidence",
+        "claim": "Pennsylvania regulator-hosted October 12, 2021 company comment explicitly identifies Ri-Corp. Development, Inc. dba Gilberton Power Company. EPA facility record independently links RI-CORP DEVELOPMENT INC to Gilberton Power. Indexed primary-source text checked September 18, 2026. Identity confirmed; standalone website and ownership remain unknown."
+      }
+    ],
+    "as_of": "2026-09-07",
+    "checked_at": "2026-09-18",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved",
+    "website_status": "unresolved",
+    "status": "sourced"
+  },
+  "c4a1db8b5dfd8444": {
+    "name": "Markham Irrigation and Water Conservation District",
+    "description": "Irrigation and water conservation district in Graham County, Arizona.",
+    "website": "",
+    "kind": "Organization",
+    "ownership": "Government body",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Graham County official archive explicitly lists Markham Irrigation and Water Conservation District budgets, matching the exact Arizona district in the saved LDA record. Indexed county archive checked September 18, 2026; direct fetch blocked HTTP403. Identity confirmed; county archive is not assigned as a standalone district website.",
+    "notes": "Graham County official archive explicitly lists Markham Irrigation and Water Conservation District budgets, matching the exact Arizona district in the saved LDA record. Indexed county archive checked September 18, 2026; direct fetch blocked HTTP403. Identity confirmed; county archive is not assigned as a standalone district website.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/421bebb2-cc24-42fb-bd93-5a3af85327c2/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://lda.gov/api/v1/clients/70833/?format=json",
+        "label": "Organization evidence",
+        "claim": "LDA client record identifies Markham Irrigation and Water Conservation District in state AZ."
+      },
+      {
+        "url": "https://www.graham.az.gov/Archive.aspx?AMID=41",
+        "label": "Organization evidence",
+        "claim": "Graham County official archive lists the exact Markham Irrigation and Water Conservation District."
+      },
+      {
+        "url": "https://www.azwater.gov/ama/agriculture-program",
+        "label": "Organization evidence",
+        "claim": "Arizona Department of Water Resources describes irrigation districts as municipal corporations and political subdivisions."
+      },
+      {
+        "url": "https://www.graham.az.gov/Archive.aspx?AMID=41",
+        "label": "Primary identity evidence",
+        "claim": "Graham County official archive explicitly lists Markham Irrigation and Water Conservation District budgets, matching the exact Arizona district in the saved LDA record. Indexed county archive checked September 18, 2026; direct fetch blocked HTTP403. Identity confirmed; county archive is not assigned as a standalone district website."
+      }
+    ],
+    "as_of": "2026-09-06",
+    "checked_at": "2026-09-18",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved",
+    "website_status": "unresolved",
+    "status": "sourced"
+  },
+  "923764be889973d7": {
+    "name": "Integris International, Inc. DBA Bri-steel Manufacturing",
+    "description": "Integris International operates Bri-Steel Manufacturing, producing ferritic seamless steel line pipe through thermal pipe expansion in Edmonton, Alberta.",
+    "website": "https://www.bri-steel.com/",
+    "kind": "Seamless steel pipe manufacturer",
+    "ownership": "Unknown",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Official certifications page explicitly names Integris International, Inc. DBA Bri-Steel Manufacturing in its APEGA permit and describes manufacture of steel pipe. JEV exact-DBA and activity checks agree with inspected indexed primary text. Checked September 18, 2026. Public/private ownership remains unknown.",
+    "notes": "Official certifications page explicitly names Integris International, Inc. DBA Bri-Steel Manufacturing in its APEGA permit and describes manufacture of steel pipe. JEV exact-DBA and activity checks agree with inspected indexed primary text. Checked September 18, 2026. Public/private ownership remains unknown.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/77cd12a2-aeac-4471-9777-0c3d9cf11c62/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.bri-steel.com/certifications",
+        "label": "Organization evidence",
+        "claim": "Bri-Steel certification page identifies Integris International, Inc. d/b/a Bri-Steel Manufacturing and its line-pipe certifications."
+      },
+      {
+        "url": "https://www.cbsa-asfc.gc.ca/sima-lmsi/er-rre/lp22022/lp22022-de-eng.pdf",
+        "label": "Organization evidence",
+        "claim": "Canadian Border Services record describes Integris International d/b/a Bri-Steel as a domestic producer of seamless line pipe in Edmonton."
+      },
+      {
+        "url": "https://www.bri-steel.com/certifications",
+        "label": "Primary identity evidence",
+        "claim": "Official certifications page explicitly names Integris International, Inc. DBA Bri-Steel Manufacturing in its APEGA permit and describes manufacture of steel pipe. JEV exact-DBA and activity checks agree with inspected indexed primary text. Checked September 18, 2026. Public/private ownership remains unknown."
+      }
+    ],
+    "as_of": "2026-09-06",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://static.wixstatic.com/media/13fe72_92e3f6937fe94f4984b658d0fcb2bf74~mv2.jpg/v1/fill/w_255,h_87,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/2014%20Bri-Steel%20Manufacturing%20Logo%20300%20DP.jpg",
+    "logo_kind": "logo",
+    "logo_source_url": "https://www.bri-steel.com/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  }
+}

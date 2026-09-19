@@ -1,0 +1,57 @@
+[
+  {
+    "content": [
+      {
+        "type": "text",
+        "text": "0-3e471757420dfb4b: identity=yes (P(yes)=0.88), ownership=no (P(yes)=0.09)\n1-d889c2c65d869d30: identity=yes (P(yes)=0.92), ownership=no (P(yes)=0.09)\nInspect uncertain or truncated items. Tool and website judgments depend on the content supplied; they do not predict unseen results."
+      }
+    ],
+    "structuredContent": {
+      "ok": true,
+      "model": "typesafe-ai/jev",
+      "scales": {},
+      "results": [
+        {
+          "id": "0-3e471757420dfb4b",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.88
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.09
+            }
+          },
+          "billing": {
+            "cost": "0",
+            "generationId": "gen_01M2VVQW1KM9EPKF1MQ69VVC08"
+          },
+          "model": "typesafe-ai/jev"
+        },
+        {
+          "id": "1-d889c2c65d869d30",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.92
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.09
+            }
+          },
+          "billing": {
+            "cost": "0",
+            "generationId": "gen_01M2VVQVTMPXH31C7FH1YB9YFE"
+          },
+          "model": "typesafe-ai/jev"
+        }
+      ],
+      "usage": {
+        "inputTokens": 4606
+      }
+    },
+    "isError": false
+  }
+]

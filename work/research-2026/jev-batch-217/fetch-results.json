@@ -1,0 +1,450 @@
+[
+  {
+    "id": "f6a0cdf2388ebb12",
+    "name": "Kent Worldwide",
+    "requested_url": "https://www.kentcorporation.com/about-us/",
+    "status": 200,
+    "final_url": "https://www.kentcorporation.com/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/0-f6a0cdf2388ebb12.txt",
+    "text_chars": 3357
+  },
+  {
+    "id": "18e6fb306d0386ce",
+    "name": "Kidney Care Access Coalition, Inc.",
+    "requested_url": "https://www.kidneycareaccess.org/about-us",
+    "status": 200,
+    "final_url": "https://www.kidneycareaccess.org/about-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/1-18e6fb306d0386ce.txt",
+    "text_chars": 1240
+  },
+  {
+    "id": "567fa882671c5883",
+    "name": "Kindred Healthcare D/b/a Scionhealth",
+    "requested_url": "https://www.scionhealth.com/website-privacy-policy",
+    "source_format": "pdf",
+    "status": 200,
+    "final_url": "https://www.scionhealth.com/content/dam/Home/ScionHealth/web-assets/scionhealth-com/files/Website-Privacy-Policy.pdf",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/2-567fa882671c5883.txt",
+    "text_chars": 19407
+  },
+  {
+    "id": "567fa882671c5883",
+    "name": "Kindred Healthcare D/b/a Scionhealth",
+    "requested_url": "https://www.scionhealth.com/content/dam/Home/ScionHealth/web-assets/scionhealth-com/files/policy/scionhealth-terms-of-use.pdf",
+    "source_format": "pdf",
+    "status": 200,
+    "final_url": "https://www.scionhealth.com/content/dam/Home/ScionHealth/web-assets/scionhealth-com/files/policy/scionhealth-terms-of-use.pdf",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/3-567fa882671c5883.txt",
+    "text_chars": 21298
+  },
+  {
+    "id": "63018f94836dd5a0",
+    "name": "Kindred Healthcare D/b/a Scionhealth (fka Kindred Healthcare Operating, Inc)",
+    "requested_url": "https://www.scionhealth.com/website-privacy-policy",
+    "source_format": "pdf",
+    "status": 200,
+    "final_url": "https://www.scionhealth.com/content/dam/Home/ScionHealth/web-assets/scionhealth-com/files/Website-Privacy-Policy.pdf",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/4-63018f94836dd5a0.txt",
+    "text_chars": 19447
+  },
+  {
+    "id": "63018f94836dd5a0",
+    "name": "Kindred Healthcare D/b/a Scionhealth (fka Kindred Healthcare Operating, Inc)",
+    "requested_url": "https://www.scionhealth.com/content/dam/Home/ScionHealth/web-assets/scionhealth-com/files/policy/scionhealth-terms-of-use.pdf",
+    "source_format": "pdf",
+    "status": 200,
+    "final_url": "https://www.scionhealth.com/content/dam/Home/ScionHealth/web-assets/scionhealth-com/files/policy/scionhealth-terms-of-use.pdf",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/5-63018f94836dd5a0.txt",
+    "text_chars": 21338
+  },
+  {
+    "id": "6cf70c7874b32ed9",
+    "name": "Kodiak Robotics",
+    "requested_url": "https://kodiak.ai/terms-of-use",
+    "status": 200,
+    "final_url": "https://kodiak.ai/terms-of-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/6-6cf70c7874b32ed9.txt",
+    "text_chars": 15972
+  },
+  {
+    "id": "6cf70c7874b32ed9",
+    "name": "Kodiak Robotics",
+    "requested_url": "https://kodiak.ai/privacy-policy",
+    "status": 200,
+    "final_url": "https://kodiak.ai/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/7-6cf70c7874b32ed9.txt",
+    "text_chars": 11816
+  },
+  {
+    "id": "e5c17b8eb22739a2",
+    "name": "Kohlberg Kravis Roberts & Company",
+    "requested_url": "https://www.kkr.com/terms-of-use",
+    "status": 200,
+    "final_url": "https://www.kkr.com/terms-of-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/8-e5c17b8eb22739a2.txt",
+    "text_chars": 19106
+  },
+  {
+    "id": "e5c17b8eb22739a2",
+    "name": "Kohlberg Kravis Roberts & Company",
+    "requested_url": "https://www.kkr.com/privacy-and-cookies",
+    "status": 200,
+    "final_url": "https://www.kkr.com/privacy-and-cookies",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/9-e5c17b8eb22739a2.txt",
+    "text_chars": 14862
+  },
+  {
+    "id": "e24879b3fa58da09",
+    "name": "Kongsberg Defence & Aerospace",
+    "requested_url": "https://www.kongsberg.com/privacy/",
+    "status": 200,
+    "final_url": "https://www.kongsberg.com/privacy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/10-e24879b3fa58da09.txt",
+    "text_chars": 19232
+  },
+  {
+    "id": "e24879b3fa58da09",
+    "name": "Kongsberg Defence & Aerospace",
+    "requested_url": "https://www.kongsberg.com/about-us/",
+    "status": 200,
+    "final_url": "https://www.kongsberg.com/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/11-e24879b3fa58da09.txt",
+    "text_chars": 8623
+  },
+  {
+    "id": "ccdbbc74d3b33d00",
+    "name": "Kroll Bond Rating Agency, Inc.",
+    "requested_url": "https://www.kbra.com/legal/cookie-policy",
+    "status": 200,
+    "final_url": "https://www.kbra.com/legal/cookie-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/12-ccdbbc74d3b33d00.txt",
+    "text_chars": 52522
+  },
+  {
+    "id": "ccdbbc74d3b33d00",
+    "name": "Kroll Bond Rating Agency, Inc.",
+    "requested_url": "https://www.kbra.com/legal/privacy-notice",
+    "status": 200,
+    "final_url": "https://www.kbra.com/legal/privacy-notice",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/13-ccdbbc74d3b33d00.txt",
+    "text_chars": 53376
+  },
+  {
+    "id": "815cea0b093205ee",
+    "name": "Kulanu Center for Special Services",
+    "requested_url": "https://kulanukids.org/privacy-policy",
+    "status": 200,
+    "final_url": "https://kulanukids.org/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/14-815cea0b093205ee.txt",
+    "text_chars": 5998
+  },
+  {
+    "id": "3642aa9a125461b1",
+    "name": "Kuwait & Gulf Link Holding",
+    "requested_url": "http://www.kgl.com/about-us/",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "id": "3642aa9a125461b1",
+    "name": "Kuwait & Gulf Link Holding",
+    "requested_url": "https://www.kgl.com/about-us/",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "3d3c8722b2f4390e",
+    "name": "Kyocera International (fka Kyocera Avx)",
+    "requested_url": "https://americas.kyocera.com/other/legal/",
+    "status": 200,
+    "final_url": "https://americas.kyocera.com/other/legal/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/17-3d3c8722b2f4390e.txt",
+    "text_chars": 14669
+  },
+  {
+    "id": "3d3c8722b2f4390e",
+    "name": "Kyocera International (fka Kyocera Avx)",
+    "requested_url": "https://americas.kyocera.com/other/privacy/",
+    "status": 200,
+    "final_url": "https://americas.kyocera.com/other/privacy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/18-3d3c8722b2f4390e.txt",
+    "text_chars": 2912
+  },
+  {
+    "id": "a0627b03288bd63e",
+    "name": "L 'oreal",
+    "requested_url": "https://www.loreal.com/en/privacy-policy/privacy-policy-links/",
+    "status": 200,
+    "final_url": "https://www.loreal.com/en/privacy-policy/privacy-policy-links/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/19-a0627b03288bd63e.txt",
+    "text_chars": 10090
+  },
+  {
+    "id": "a0627b03288bd63e",
+    "name": "L 'oreal",
+    "requested_url": "https://www.loreal.com/en/privacy-policy/global-privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.loreal.com/en/privacy-policy/global-privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/20-a0627b03288bd63e.txt",
+    "text_chars": 17546
+  },
+  {
+    "id": "6dbc442cc5ff8c8e",
+    "name": "L3 Harris (formerly L-3 Technologies)",
+    "requested_url": "https://www.l3harris.com/terms",
+    "status": 200,
+    "final_url": "https://www.l3harris.com/terms",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/21-6dbc442cc5ff8c8e.txt",
+    "text_chars": 34722
+  },
+  {
+    "id": "6dbc442cc5ff8c8e",
+    "name": "L3 Harris (formerly L-3 Technologies)",
+    "requested_url": "https://www.l3harris.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.l3harris.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/22-6dbc442cc5ff8c8e.txt",
+    "text_chars": 32059
+  },
+  {
+    "id": "18eae43a97206f0b",
+    "name": "Laboratory Corporation of America",
+    "requested_url": "https://www.labcorp.com/compliance/privacy/hipaa",
+    "status": 200,
+    "final_url": "https://www.labcorp.com/compliance/privacy/hipaa",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/23-18eae43a97206f0b.txt",
+    "text_chars": 18904
+  },
+  {
+    "id": "18eae43a97206f0b",
+    "name": "Laboratory Corporation of America",
+    "requested_url": "https://www.labcorp.com/compliance/privacy/privacy-notice",
+    "status": 200,
+    "final_url": "https://www.labcorp.com/compliance/privacy/privacy-notice",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/24-18eae43a97206f0b.txt",
+    "text_chars": 101562
+  },
+  {
+    "id": "deacf227bdbe5c11",
+    "name": "Leavitt Partners, LLC on Behalf of Sickle Cell Disease Partnership",
+    "requested_url": "https://sicklecellpartnership.org/privacy-policy/",
+    "status": 200,
+    "final_url": "https://sicklecellpartnership.org/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/25-deacf227bdbe5c11.txt",
+    "text_chars": 22195
+  },
+  {
+    "id": "deacf227bdbe5c11",
+    "name": "Leavitt Partners, LLC on Behalf of Sickle Cell Disease Partnership",
+    "requested_url": "https://sicklecellpartnership.org/about-sickle-cell-disease/",
+    "status": 200,
+    "final_url": "https://sicklecellpartnership.org/about-sickle-cell-disease/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/26-deacf227bdbe5c11.txt",
+    "text_chars": 6697
+  },
+  {
+    "id": "42e694f227c5dbfc",
+    "name": "AMERIPEN (via Legacy Public Policy)",
+    "requested_url": "https://www.ameripen.org/home-2/privacy-policy-page/",
+    "status": 200,
+    "final_url": "https://www.ameripen.org/home-2/privacy-policy-page/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/27-42e694f227c5dbfc.txt",
+    "text_chars": 23187
+  },
+  {
+    "id": "42e694f227c5dbfc",
+    "name": "AMERIPEN (via Legacy Public Policy)",
+    "requested_url": "https://www.ameripen.org/about/",
+    "status": 200,
+    "final_url": "https://www.ameripen.org/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/28-42e694f227c5dbfc.txt",
+    "text_chars": 3742
+  },
+  {
+    "id": "debd07412f8389d6",
+    "name": "Legalzoom, Inc.",
+    "requested_url": "https://www.legalzoom.com/legal-services/",
+    "status": 200,
+    "final_url": "https://www.legalzoom.com/attorneys/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/29-debd07412f8389d6.txt",
+    "text_chars": 22124
+  },
+  {
+    "id": "debd07412f8389d6",
+    "name": "Legalzoom, Inc.",
+    "requested_url": "https://www.legalzoom.com/legal/general-terms/lz-guarantee",
+    "status": 200,
+    "final_url": "https://www.legalzoom.com/legal/general-terms/lz-guarantee",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/30-debd07412f8389d6.txt",
+    "text_chars": 7272
+  },
+  {
+    "id": "fb960f940b3681ec",
+    "name": "Leica Geosystems Inc.",
+    "requested_url": "https://leica-geosystems.com/about-us/compliance-standards/legal-documents",
+    "status": 200,
+    "final_url": "https://leica-geosystems.com/about-us/compliance-standards/legal-documents",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/31-fb960f940b3681ec.txt",
+    "text_chars": 12361
+  },
+  {
+    "id": "fb960f940b3681ec",
+    "name": "Leica Geosystems Inc.",
+    "requested_url": "https://leica-geosystems.com/about-us",
+    "status": 200,
+    "final_url": "https://leica-geosystems.com/about-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/32-fb960f940b3681ec.txt",
+    "text_chars": 10663
+  },
+  {
+    "id": "392e24261eb42308",
+    "name": "America\u2019s Promise Alliance (via Liberty Partners Group)",
+    "requested_url": "https://www.americaspromise.org/about-apa",
+    "status": 200,
+    "final_url": "https://www.americaspromise.org/about-apa-",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/33-392e24261eb42308.txt",
+    "text_chars": 3814
+  },
+  {
+    "id": "392e24261eb42308",
+    "name": "America\u2019s Promise Alliance (via Liberty Partners Group)",
+    "requested_url": "https://www.americaspromise.org/about-apa-",
+    "status": 200,
+    "final_url": "https://www.americaspromise.org/about-apa-",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/34-392e24261eb42308.txt",
+    "text_chars": 3814
+  },
+  {
+    "id": "1852ce1027916973",
+    "name": "Lifeline Vascular Care (Dialysis Vascular Access Coalition)",
+    "requested_url": "https://lifelinevascular.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://lifelinevascular.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/35-1852ce1027916973.txt",
+    "text_chars": 4533
+  },
+  {
+    "id": "b742cea0a7c96428",
+    "name": "Lihc Investment Corp",
+    "requested_url": "https://lihc.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://lihc.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/36-b742cea0a7c96428.txt",
+    "text_chars": 3081
+  },
+  {
+    "id": "ca4c610fdf490d48",
+    "name": "Lilette Advisors on Behalf of Audubon Nature Institute",
+    "requested_url": "https://audubonnatureinstitute.org/privacy-policy",
+    "status": 200,
+    "final_url": "https://audubonnatureinstitute.org/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/37-ca4c610fdf490d48.txt",
+    "text_chars": 10225
+  },
+  {
+    "id": "ca4c610fdf490d48",
+    "name": "Lilette Advisors on Behalf of Audubon Nature Institute",
+    "requested_url": "https://audubonnatureinstitute.org/about",
+    "status": 200,
+    "final_url": "https://audubonnatureinstitute.org/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/38-ca4c610fdf490d48.txt",
+    "text_chars": 8014
+  },
+  {
+    "id": "946b4d823c106fcd",
+    "name": "Linde Inc., Linde, PLC and Other Entities Related to Linde, PLC",
+    "requested_url": "https://www.linde.com/terms-of-use",
+    "status": 200,
+    "final_url": "https://www.linde.com/terms-of-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/39-946b4d823c106fcd.txt",
+    "text_chars": 16714
+  },
+  {
+    "id": "946b4d823c106fcd",
+    "name": "Linde Inc., Linde, PLC and Other Entities Related to Linde, PLC",
+    "requested_url": "https://www.linde.com/privacy-notice",
+    "status": 200,
+    "final_url": "https://www.linde.com/privacy-notice",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/40-946b4d823c106fcd.txt",
+    "text_chars": 29363
+  },
+  {
+    "id": "b5719617d52783dd",
+    "name": "Lipower PTY LTD",
+    "requested_url": "https://lipower.energy/terms-of-use/",
+    "status": 200,
+    "final_url": "https://lipower.energy/terms-of-use/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/41-b5719617d52783dd.txt",
+    "text_chars": 8996
+  },
+  {
+    "id": "b5719617d52783dd",
+    "name": "Lipower PTY LTD",
+    "requested_url": "https://lipower.energy/privacy-policy/",
+    "status": 200,
+    "final_url": "https://lipower.energy/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/42-b5719617d52783dd.txt",
+    "text_chars": 8740
+  },
+  {
+    "id": "45ef9a40a5564d5f",
+    "name": "Live OAK Bank",
+    "requested_url": "https://www.liveoak.bank/privacy-security/",
+    "status": 200,
+    "final_url": "https://www.liveoak.bank/privacy-security/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/43-45ef9a40a5564d5f.txt",
+    "text_chars": 17419
+  },
+  {
+    "id": "45ef9a40a5564d5f",
+    "name": "Live OAK Bank",
+    "requested_url": "https://www.liveoak.bank/online-privacy-notice/",
+    "status": 200,
+    "final_url": "https://www.liveoak.bank/online-privacy-notice/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/44-45ef9a40a5564d5f.txt",
+    "text_chars": 38251
+  },
+  {
+    "id": "4d2166c1ef0f130d",
+    "name": "Lockton Companies, LLC",
+    "requested_url": "https://global.lockton.com/us/en/terms-of-use",
+    "status": 200,
+    "final_url": "https://global.lockton.com/us/en/terms-of-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/45-4d2166c1ef0f130d.txt",
+    "text_chars": 17582
+  },
+  {
+    "id": "4d2166c1ef0f130d",
+    "name": "Lockton Companies, LLC",
+    "requested_url": "https://global.lockton.com/us/en/privacy-notice",
+    "status": 200,
+    "final_url": "https://global.lockton.com/us/en/privacy-notice",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/46-4d2166c1ef0f130d.txt",
+    "text_chars": 38713
+  },
+  {
+    "id": "bafc1edb50991fa2",
+    "name": "City of Hitchcock Economic Development Corporation, TX",
+    "requested_url": "https://www.hitchcockedc.com/about_us/team.php",
+    "status": 200,
+    "final_url": "https://www.hitchcockedc.com/about_us/team.php",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/47-bafc1edb50991fa2.txt",
+    "text_chars": 10408
+  },
+  {
+    "id": "bafc1edb50991fa2",
+    "name": "City of Hitchcock Economic Development Corporation, TX",
+    "requested_url": "https://www.hitchcockedc.com/about_us/index.php",
+    "status": 200,
+    "final_url": "https://www.hitchcockedc.com/about_us/index.php",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/48-bafc1edb50991fa2.txt",
+    "text_chars": 4783
+  },
+  {
+    "id": "6f8cf8a9f9464f07",
+    "name": "Stillwater Utilities Authority, Oklahoma",
+    "requested_url": "https://stillwaterok.gov/303/About-Your-Utility-Account",
+    "status": 200,
+    "final_url": "https://stillwaterok.gov/303/About-Your-Utility-Account",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-217/49-6f8cf8a9f9464f07.txt",
+    "text_chars": 4470
+  }
+]

@@ -1,0 +1,449 @@
+[
+  {
+    "id": "c765e7b973363402",
+    "name": "Houghton Mifflin Harcourt Company",
+    "requested_url": "https://www.hmhco.com/about-us/our-legacy",
+    "status": 200,
+    "final_url": "https://www.hmhco.com/about-us/our-legacy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/0-c765e7b973363402.txt",
+    "text_chars": 18979
+  },
+  {
+    "id": "c765e7b973363402",
+    "name": "Houghton Mifflin Harcourt Company",
+    "requested_url": "https://www.hmhco.com/about-us/press-releases",
+    "status": 200,
+    "final_url": "https://www.hmhco.com/about-us/press-releases",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/1-c765e7b973363402.txt",
+    "text_chars": 12426
+  },
+  {
+    "id": "67d1ea416219787b",
+    "name": "Cotton Logistics, Inc.",
+    "requested_url": "https://www.cottonlogistics.com/about-cotton-logistics/our-story/",
+    "status": 200,
+    "final_url": "https://www.cottonlogistics.com/about-cotton-logistics/our-story/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/2-67d1ea416219787b.txt",
+    "text_chars": 12275
+  },
+  {
+    "id": "67d1ea416219787b",
+    "name": "Cotton Logistics, Inc.",
+    "requested_url": "https://www.cottonlogistics.com/about-cotton-logistics/our-team/",
+    "status": 200,
+    "final_url": "https://www.cottonlogistics.com/about-cotton-logistics/our-team/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/3-67d1ea416219787b.txt",
+    "text_chars": 16504
+  },
+  {
+    "id": "9baa62c4b78a2d00",
+    "name": "Nidec Americas Holding Corporation",
+    "requested_url": "https://www.nidec.com/en/corporate/about/cg/",
+    "status": 200,
+    "final_url": "https://www.nidec.com/en/corporate/about/cg/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/4-9baa62c4b78a2d00.txt",
+    "text_chars": 4812
+  },
+  {
+    "id": "9baa62c4b78a2d00",
+    "name": "Nidec Americas Holding Corporation",
+    "requested_url": "https://www.nidec.com/en/corporate/about/history/",
+    "status": 200,
+    "final_url": "https://www.nidec.com/en/corporate/about/history/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/5-9baa62c4b78a2d00.txt",
+    "text_chars": 19923
+  },
+  {
+    "id": "9100875e56a777ab",
+    "name": "Grip Pod Systems International LLC",
+    "requested_url": "https://grippod.com/about-us/patents/",
+    "status": 200,
+    "final_url": "https://grippod.com/about-us/patents/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/6-9100875e56a777ab.txt",
+    "text_chars": 12336
+  },
+  {
+    "id": "9100875e56a777ab",
+    "name": "Grip Pod Systems International LLC",
+    "requested_url": "https://grippod.com/about-us/product-testing/",
+    "status": 200,
+    "final_url": "https://grippod.com/about-us/product-testing/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/7-9100875e56a777ab.txt",
+    "text_chars": 13447
+  },
+  {
+    "id": "15995ae6235a004e",
+    "name": "Magnet Forensics LLC",
+    "requested_url": "https://www.magnetforensics.com/resources/legal-unpacked-s1e12-presenting-the-proof-incorporating-digital-evidence-into-opening-statements-and-closing-arguments/",
+    "status": 200,
+    "final_url": "https://www.magnetforensics.com/resources/legal-unpacked-s1e12-presenting-the-proof-incorporating-digital-evidence-into-opening-statements-and-closing-arguments/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/8-15995ae6235a004e.txt",
+    "text_chars": 9381
+  },
+  {
+    "id": "15995ae6235a004e",
+    "name": "Magnet Forensics LLC",
+    "requested_url": "https://www.magnetforensics.com/wp-content/uploads/2024/10/Privacy-Policy-09-26-2024.pdf",
+    "status": 200,
+    "final_url": "https://www.magnetforensics.com/wp-content/uploads/2024/10/Privacy-Policy-09-26-2024.pdf",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/9-15995ae6235a004e.txt",
+    "text_chars": 110984
+  },
+  {
+    "id": "9e8c45a56b5e7364",
+    "name": "Int'l Ass'n of Sheet Metal AIR Rail & Transp Workers Transp DIV",
+    "requested_url": "https://www.smart-union.org/about-smart/leadership/transportation-division-leadership/",
+    "status": 200,
+    "final_url": "https://www.smart-union.org/about-smart/leadership/transportation-division-leadership/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/10-9e8c45a56b5e7364.txt",
+    "text_chars": 17102
+  },
+  {
+    "id": "9e8c45a56b5e7364",
+    "name": "Int'l Ass'n of Sheet Metal AIR Rail & Transp Workers Transp DIV",
+    "requested_url": "https://www.smart-union.org/learn-more-about-smart-td/",
+    "status": 200,
+    "final_url": "https://www.smart-union.org/learn-more-about-smart-td/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/11-9e8c45a56b5e7364.txt",
+    "text_chars": 11557
+  },
+  {
+    "id": "7c759601baebb932",
+    "name": "Sentinel Midstream LLC",
+    "requested_url": "https://www.sentinelmidstream.com/about/",
+    "status": 200,
+    "final_url": "https://www.sentinelmidstream.com/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/12-7c759601baebb932.txt",
+    "text_chars": 1962
+  },
+  {
+    "id": "dcb085cba6f82591",
+    "name": "Housing Authority of the County of Santa Barbara (via Arnall Golden Gregory)",
+    "requested_url": "https://www.hasbarco.org/about/board_of_commissioners/index.php",
+    "status": 200,
+    "final_url": "https://www.hasbarco.org/about/board_of_commissioners/index.php",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/13-dcb085cba6f82591.txt",
+    "text_chars": 5049
+  },
+  {
+    "id": "dcb085cba6f82591",
+    "name": "Housing Authority of the County of Santa Barbara (via Arnall Golden Gregory)",
+    "requested_url": "https://www.hasbarco.org/about/careers/index.php",
+    "status": 200,
+    "final_url": "https://www.hasbarco.org/about/careers/index.php",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/14-dcb085cba6f82591.txt",
+    "text_chars": 4949
+  },
+  {
+    "id": "3e183e97beea47db",
+    "name": "National Football League (nfl)",
+    "requested_url": "https://www.nfl.com/legal/subscriptions_terms/",
+    "status": 200,
+    "final_url": "https://www.nfl.com/legal/subscriptions_terms",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/15-3e183e97beea47db.txt",
+    "text_chars": 26534
+  },
+  {
+    "id": "3e183e97beea47db",
+    "name": "National Football League (nfl)",
+    "requested_url": "https://www.nfl.com/legal/terms/",
+    "status": 200,
+    "final_url": "https://www.nfl.com/legal/terms/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/16-3e183e97beea47db.txt",
+    "text_chars": 69152
+  },
+  {
+    "id": "c633a0907c5565f4",
+    "name": "National Reverse Mortgage Lenders Association (through Fennel Consulting, Llc)",
+    "requested_url": "https://www.reversemortgage.org/get-help/glossary-of-terms/",
+    "status": 200,
+    "final_url": "https://www.reversemortgage.org/get-help/glossary-of-terms/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/17-c633a0907c5565f4.txt",
+    "text_chars": 7577
+  },
+  {
+    "id": "c633a0907c5565f4",
+    "name": "National Reverse Mortgage Lenders Association (through Fennel Consulting, Llc)",
+    "requested_url": "https://www.reversemortgage.org/about-nrmla/",
+    "status": 200,
+    "final_url": "https://www.reversemortgage.org/about-nrmla/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/18-c633a0907c5565f4.txt",
+    "text_chars": 4407
+  },
+  {
+    "id": "91dfe774831d6f06",
+    "name": "Witham Hospital",
+    "requested_url": "https://www.witham.org/about-us/community-outreach",
+    "status": 200,
+    "final_url": "https://www.witham.org/about-us/community-outreach",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/19-91dfe774831d6f06.txt",
+    "text_chars": 2183
+  },
+  {
+    "id": "91dfe774831d6f06",
+    "name": "Witham Hospital",
+    "requested_url": "https://www.witham.org/about-us/community-outreach/sponsorships",
+    "status": 200,
+    "final_url": "https://www.witham.org/about-us/community-outreach/sponsorships",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/20-91dfe774831d6f06.txt",
+    "text_chars": 5374
+  },
+  {
+    "id": "e410023430040852",
+    "name": "Makpar Corporation",
+    "requested_url": "https://makpar.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://makpar.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/21-e410023430040852.txt",
+    "text_chars": 16804
+  },
+  {
+    "id": "e410023430040852",
+    "name": "Makpar Corporation",
+    "requested_url": "https://makpar.com/about",
+    "status": 200,
+    "final_url": "https://makpar.com/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/22-e410023430040852.txt",
+    "text_chars": 6991
+  },
+  {
+    "id": "7d9cd2c93b90f77b",
+    "name": "Nola Education, LLC",
+    "requested_url": "https://staracademyprogram.com/about-us/",
+    "status": 200,
+    "final_url": "https://staracademyprogram.com/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/23-7d9cd2c93b90f77b.txt",
+    "text_chars": 1979
+  },
+  {
+    "id": "5d5805c00dc95eb3",
+    "name": "Office of U.s. Senator for the District of Columbia Ankit Jain",
+    "requested_url": "https://statehood.dc.gov/page/about-dc-statehood",
+    "status": 200,
+    "final_url": "https://statehood.dc.gov/page/about-dc-statehood",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/24-5d5805c00dc95eb3.txt",
+    "text_chars": 3321
+  },
+  {
+    "id": "fa68e043a0cd4fab",
+    "name": "Oklahoma Arthritis Center, P.c.",
+    "requested_url": "https://www.okarthritis.com/about-us",
+    "status": 200,
+    "final_url": "https://www.okarthritis.com/about-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/25-fa68e043a0cd4fab.txt",
+    "text_chars": 1845
+  },
+  {
+    "id": "7712ca809b234448",
+    "name": "Outpatient Endovascular and Interventional Society (cardiovascular Coalition)",
+    "requested_url": "https://oeisweb.com/about",
+    "status": 200,
+    "final_url": "https://oeisweb.com/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/26-7712ca809b234448.txt",
+    "text_chars": 3045
+  },
+  {
+    "id": "7712ca809b234448",
+    "name": "Outpatient Endovascular and Interventional Society (cardiovascular Coalition)",
+    "requested_url": "https://oeisweb.com/information-about-reimbursement-for-obls-and-ascs",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "a6e60717613addfa",
+    "name": "Peregrine Technologies, Inc.",
+    "requested_url": "https://peregrine.io/privacy-policy",
+    "status": 200,
+    "final_url": "https://peregrine.io/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/28-a6e60717613addfa.txt",
+    "text_chars": 44407
+  },
+  {
+    "id": "a6e60717613addfa",
+    "name": "Peregrine Technologies, Inc.",
+    "requested_url": "https://peregrine.io/terms-of-use",
+    "status": 200,
+    "final_url": "https://peregrine.io/terms-of-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/29-a6e60717613addfa.txt",
+    "text_chars": 16226
+  },
+  {
+    "id": "f70fcda52e78c602",
+    "name": "Seagatespace",
+    "requested_url": "https://seagatespace.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://seagatespace.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/30-f70fcda52e78c602.txt",
+    "text_chars": 5630
+  },
+  {
+    "id": "f70fcda52e78c602",
+    "name": "Seagatespace",
+    "requested_url": "https://seagatespace.com/terms-of-service/",
+    "status": 200,
+    "final_url": "https://seagatespace.com/terms-of-service/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/31-f70fcda52e78c602.txt",
+    "text_chars": 4445
+  },
+  {
+    "id": "7850de5ba95af841",
+    "name": "Shine Technologies (fka Phoenix, Llc)",
+    "requested_url": "https://www.shinefusion.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.shinefusion.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/32-7850de5ba95af841.txt",
+    "text_chars": 13861
+  },
+  {
+    "id": "7850de5ba95af841",
+    "name": "Shine Technologies (fka Phoenix, Llc)",
+    "requested_url": "https://www.shinefusion.com/terms-and-conditions",
+    "status": 200,
+    "final_url": "https://www.shinefusion.com/terms-and-conditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/33-7850de5ba95af841.txt",
+    "text_chars": 9896
+  },
+  {
+    "id": "5a9034c3e83dcc84",
+    "name": "Skynrg Americas, Inc.",
+    "requested_url": "https://skynrg.com/privacy-statement/",
+    "status": 200,
+    "final_url": "https://skynrg.com/privacy-statement/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/34-5a9034c3e83dcc84.txt",
+    "text_chars": 7136
+  },
+  {
+    "id": "5a9034c3e83dcc84",
+    "name": "Skynrg Americas, Inc.",
+    "requested_url": "https://skynrg.com/about-us/",
+    "status": 200,
+    "final_url": "https://skynrg.com/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/35-5a9034c3e83dcc84.txt",
+    "text_chars": 3472
+  },
+  {
+    "id": "189f72a06f3a96e4",
+    "name": "Snap Diagnostics, LLP",
+    "requested_url": "https://snapdiagnostics.com/privacy",
+    "status": 200,
+    "final_url": "https://snapdiagnostics.com/privacy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/36-189f72a06f3a96e4.txt",
+    "text_chars": 20173
+  },
+  {
+    "id": "189f72a06f3a96e4",
+    "name": "Snap Diagnostics, LLP",
+    "requested_url": "https://snapdiagnostics.com/about",
+    "status": 200,
+    "final_url": "https://snapdiagnostics.com/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/37-189f72a06f3a96e4.txt",
+    "text_chars": 3546
+  },
+  {
+    "id": "dc8d574c7858c087",
+    "name": "Supply Energetics, Inc.",
+    "requested_url": "https://www.supplyenergetics.com/privacy",
+    "status": 200,
+    "final_url": "https://www.supplyenergetics.com/privacy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/38-dc8d574c7858c087.txt",
+    "text_chars": 3153
+  },
+  {
+    "id": "dc8d574c7858c087",
+    "name": "Supply Energetics, Inc.",
+    "requested_url": "https://www.supplyenergetics.com/terms",
+    "status": 200,
+    "final_url": "https://www.supplyenergetics.com/terms",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/39-dc8d574c7858c087.txt",
+    "text_chars": 2895
+  },
+  {
+    "id": "63af1d8ee6cad61e",
+    "name": "the Judge Rotenberg Educational Center, Inc.",
+    "requested_url": "https://judgerc.org/privacy-policy/",
+    "status": 200,
+    "final_url": "https://judgerc.org/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/40-63af1d8ee6cad61e.txt",
+    "text_chars": 6699
+  },
+  {
+    "id": "697c62ff1ad544a3",
+    "name": "Exia Labs",
+    "requested_url": "https://www.exialabs.com/about/",
+    "status": 200,
+    "final_url": "https://www.exialabs.com/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/41-697c62ff1ad544a3.txt",
+    "text_chars": 600
+  },
+  {
+    "id": "b413dcbc1f8461bb",
+    "name": "Little Giant Ladder Systems, LLC",
+    "requested_url": "https://www.littlegiantladders.com/pages/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.littlegiantladders.com/pages/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/42-b413dcbc1f8461bb.txt",
+    "text_chars": 12817
+  },
+  {
+    "id": "b413dcbc1f8461bb",
+    "name": "Little Giant Ladder Systems, LLC",
+    "requested_url": "https://www.littlegiantladders.com/pages/terms-and-conditions",
+    "status": 200,
+    "final_url": "https://www.littlegiantladders.com/pages/terms-and-conditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/43-b413dcbc1f8461bb.txt",
+    "text_chars": 14429
+  },
+  {
+    "id": "deb24c3790caf598",
+    "name": "Reinvestment Fund",
+    "requested_url": "https://www.reinvestment.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.reinvestment.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/44-deb24c3790caf598.txt",
+    "text_chars": 19952
+  },
+  {
+    "id": "deb24c3790caf598",
+    "name": "Reinvestment Fund",
+    "requested_url": "https://www.reinvestment.com/terms/",
+    "status": 200,
+    "final_url": "https://www.reinvestment.com/terms-of-use/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/45-deb24c3790caf598.txt",
+    "text_chars": 17123
+  },
+  {
+    "id": "fdcd3d194092e284",
+    "name": "Seeqc, Inc",
+    "requested_url": "https://seeqc.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://seeqc.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/46-fdcd3d194092e284.txt",
+    "text_chars": 5939
+  },
+  {
+    "id": "fdcd3d194092e284",
+    "name": "Seeqc, Inc",
+    "requested_url": "https://seeqc.com/terms-of-use",
+    "status": 200,
+    "final_url": "https://seeqc.com/terms-of-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/47-fdcd3d194092e284.txt",
+    "text_chars": 4186
+  },
+  {
+    "id": "81c9926da7bc2ade",
+    "name": "Xanterra Leisure Holding LLC",
+    "requested_url": "https://www.xanterra.com/health-privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.xanterra.com/health-privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/48-81c9926da7bc2ade.txt",
+    "text_chars": 10381
+  },
+  {
+    "id": "81c9926da7bc2ade",
+    "name": "Xanterra Leisure Holding LLC",
+    "requested_url": "https://www.xanterra.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.xanterra.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-057/49-81c9926da7bc2ade.txt",
+    "text_chars": 73675
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "accepted": [
+    0,
+    10,
+    20,
+    22
+  ],
+  "dark": [
+    22
+  ],
+  "deferred": {
+    "1": "Group or related-entity branding; verify exact entity or document brand scope before attaching.",
+    "2": "Group or related-entity branding; verify exact entity or document brand scope before attaching.",
+    "3": "Group or related-entity branding; verify exact entity or document brand scope before attaching.",
+    "4": "Asset download failed; association relationship remains unresolved.",
+    "5": "Group or related-entity branding; verify exact entity or document brand scope before attaching.",
+    "6": "DTC branding does not establish exact Codan Communications entity.",
+    "7": "Group or related-entity branding; verify exact entity or document brand scope before attaching.",
+    "8": "Group or related-entity branding; verify exact entity or document brand scope before attaching.",
+    "9": "Group or related-entity branding; verify exact entity or document brand scope before attaching.",
+    "11": "Group or related-entity branding; verify exact entity or document brand scope before attaching.",
+    "12": "Group or related-entity branding; verify exact entity or document brand scope before attaching.",
+    "13": "Group or related-entity branding; verify exact entity or document brand scope before attaching.",
+    "14": "Group or related-entity branding; verify exact entity or document brand scope before attaching.",
+    "15": "Group or related-entity branding; verify exact entity or document brand scope before attaching.",
+    "16": "Group or related-entity branding; verify exact entity or document brand scope before attaching.",
+    "17": "Group or related-entity branding; verify exact entity or document brand scope before attaching.",
+    "18": "Exact Holdings identity remains unverified.",
+    "19": "Group or related-entity branding; verify exact entity or document brand scope before attaching.",
+    "21": "Group or related-entity branding; verify exact entity or document brand scope before attaching.",
+    "23": "Group or related-entity branding; verify exact entity or document brand scope before attaching."
+  },
+  "checked_at": "2026-09-10"
+}

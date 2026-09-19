@@ -1,0 +1,344 @@
+[
+  {
+    "id": "c51e2b94f5983b8c",
+    "name": "Michigan Hospital Association",
+    "requested_url": "https://www.mha.org/about/member-benefits/bylaws/",
+    "status": 200,
+    "final_url": "https://www.mha.org/about/member-benefits/bylaws/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-127/0-c51e2b94f5983b8c.txt",
+    "text_chars": 38006
+  },
+  {
+    "id": "c51e2b94f5983b8c",
+    "name": "Michigan Hospital Association",
+    "requested_url": "https://www.mha.org/about/awards/advancing-safe-care-award/",
+    "status": 200,
+    "final_url": "https://www.mha.org/about/awards/advancing-safe-care-award/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-127/1-c51e2b94f5983b8c.txt",
+    "text_chars": 13689
+  },
+  {
+    "id": "be6bcbcbbce15d61",
+    "name": "North American Olive Oil Association (fka Alliance for Olive Oil Qlty Stndrds)",
+    "requested_url": "https://www.aboutoliveoil.org/avocado-oil-for-high-heat-cooking",
+    "status": 200,
+    "final_url": "https://www.aboutoliveoil.org/avocado-oil-for-high-heat-cooking",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-127/2-be6bcbcbbce15d61.txt",
+    "text_chars": 6560
+  },
+  {
+    "id": "be6bcbcbbce15d61",
+    "name": "North American Olive Oil Association (fka Alliance for Olive Oil Qlty Stndrds)",
+    "requested_url": "https://www.aboutoliveoil.org/extra-virgin-olive-oil-granola-recipe",
+    "status": 200,
+    "final_url": "https://www.aboutoliveoil.org/extra-virgin-olive-oil-granola-recipe",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-127/3-be6bcbcbbce15d61.txt",
+    "text_chars": 4146
+  },
+  {
+    "id": "ac0cd4098f04d150",
+    "name": "Atkinsrealis Nuclear Secured, LLC",
+    "requested_url": "https://www.atkinsrealis.com/en/about/corporate-governance",
+    "status": 200,
+    "final_url": "https://www.atkinsrealis.com/en/about/corporate-governance",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-127/4-ac0cd4098f04d150.txt",
+    "text_chars": 102664
+  },
+  {
+    "id": "ac0cd4098f04d150",
+    "name": "Atkinsrealis Nuclear Secured, LLC",
+    "requested_url": "https://www.atkinsrealis.com/en/about/indigenous-relations",
+    "status": 200,
+    "final_url": "https://www.atkinsrealis.com/en/about/indigenous-relations",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-127/5-ac0cd4098f04d150.txt",
+    "text_chars": 150297
+  },
+  {
+    "id": "813a40996cdfcef6",
+    "name": "Wison NEW Energies Company",
+    "requested_url": "https://www.wison.com/about_vision",
+    "status": 200,
+    "final_url": "https://www.wison.com/about_vision",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-127/6-813a40996cdfcef6.txt",
+    "text_chars": 1660
+  },
+  {
+    "id": "813a40996cdfcef6",
+    "name": "Wison NEW Energies Company",
+    "requested_url": "https://www.wison.com/about_coruscate",
+    "status": 200,
+    "final_url": "https://www.wison.com/about_coruscate",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-127/7-813a40996cdfcef6.txt",
+    "text_chars": 1547
+  },
+  {
+    "id": "41e60ebfa71b1e97",
+    "name": "Liberty Utilities (represented by Public Strategies Washington)",
+    "requested_url": "https://libertyutilities.com/about.html",
+    "status": 200,
+    "final_url": "https://libertyutilities.com/about.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-127/8-41e60ebfa71b1e97.txt",
+    "text_chars": 1309
+  },
+  {
+    "id": "6ca0895f14a88ca0",
+    "name": "Boundary Stone Partners ON Behalf Of Cauldron Molecules",
+    "requested_url": "https://www.cauldronferm.com/about",
+    "status": 200,
+    "final_url": "https://www.cauldronferm.com/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-127/9-6ca0895f14a88ca0.txt",
+    "text_chars": 2573
+  },
+  {
+    "id": "3bb21115646f8d07",
+    "name": "McKesson Corporation and affiliates: US Oncology and Rx Savings Solutions (former Distribution)",
+    "requested_url": "https://www.mckesson.com/about-us/",
+    "status": 200,
+    "final_url": "https://www.mckesson.com/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-127/10-3bb21115646f8d07.txt",
+    "text_chars": 10000
+  },
+  {
+    "id": "3bb21115646f8d07",
+    "name": "McKesson Corporation and affiliates: US Oncology and Rx Savings Solutions (former Distribution)",
+    "requested_url": "https://www.mckesson.com/about-us/history/",
+    "status": 200,
+    "final_url": "https://www.mckesson.com/about-us/history/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-127/11-3bb21115646f8d07.txt",
+    "text_chars": 13317
+  },
+  {
+    "id": "8b8f5148d373c985",
+    "name": "ZeroEyes Government Solution",
+    "requested_url": "https://zeroeyes.com/about-us",
+    "status": 200,
+    "final_url": "https://zeroeyes.com/about-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-127/12-8b8f5148d373c985.txt",
+    "text_chars": 3262
+  },
+  {
+    "id": "941de9d63ccba347",
+    "name": "Washington 2 Advocates on Behalf of Kymeta Corporation",
+    "requested_url": "https://www.kymetacorp.com/legal?q=terms-of-use",
+    "status": 200,
+    "final_url": "https://www.kymetacorp.com/legal?q=terms-of-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-127/13-941de9d63ccba347.txt",
+    "text_chars": 69318
+  },
+  {
+    "id": "941de9d63ccba347",
+    "name": "Washington 2 Advocates on Behalf of Kymeta Corporation",
+    "requested_url": "https://www.kymetacorp.com/legal?q=privacy-policy",
+    "status": 200,
+    "final_url": "https://www.kymetacorp.com/legal?q=privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-127/14-941de9d63ccba347.txt",
+    "text_chars": 69322
+  },
+  {
+    "id": "307f9d18e4c032d6",
+    "name": "Path Robotics, Inc. (via Clark Street Associates)",
+    "requested_url": "https://www.path-robotics.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.path-robotics.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-127/15-307f9d18e4c032d6.txt",
+    "text_chars": 5123
+  },
+  {
+    "id": "562b9e022652cf9a",
+    "name": "Infin, A Financial Services Alliance (f/k/a Financial Service Centers America)",
+    "requested_url": "https://infinalliance.org/Dev/About/Dev/Content/About.aspx",
+    "status": 200,
+    "final_url": "https://infinalliance.org/Dev/About/Dev/Content/About.aspx",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-127/16-562b9e022652cf9a.txt",
+    "text_chars": 1450
+  },
+  {
+    "id": "0ee06d909f0bd925",
+    "name": "International Association of Refrigerated Warehouses",
+    "requested_url": "https://www.gcca.org/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.gcca.org/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-127/17-0ee06d909f0bd925.txt",
+    "text_chars": 9059
+  },
+  {
+    "id": "0ee06d909f0bd925",
+    "name": "International Association of Refrigerated Warehouses",
+    "requested_url": "https://www.gcca.org/terms-conditions/",
+    "status": 200,
+    "final_url": "https://www.gcca.org/terms-conditions/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-127/18-0ee06d909f0bd925.txt",
+    "text_chars": 8393
+  },
+  {
+    "id": "e8e6a39bb210ac83",
+    "name": "Management Health Systems, LLC (d/b/a Medpro)",
+    "requested_url": "https://medprostaffing.com/terms-of-use/",
+    "status": 200,
+    "final_url": "https://medprostaffing.com/terms-of-use/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-127/19-e8e6a39bb210ac83.txt",
+    "text_chars": 5085
+  },
+  {
+    "id": "e8e6a39bb210ac83",
+    "name": "Management Health Systems, LLC (d/b/a Medpro)",
+    "requested_url": "https://medprostaffing.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://medprostaffing.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-127/20-e8e6a39bb210ac83.txt",
+    "text_chars": 19666
+  },
+  {
+    "id": "46ae2d92170e0604",
+    "name": "Tunica Biloxi Economic Development Authority",
+    "requested_url": "https://www.tunicabiloxi.org/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.tunicabiloxi.org/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-127/21-46ae2d92170e0604.txt",
+    "text_chars": 2956
+  },
+  {
+    "id": "46ae2d92170e0604",
+    "name": "Tunica Biloxi Economic Development Authority",
+    "requested_url": "https://www.tunicabiloxi.org/about/",
+    "status": 200,
+    "final_url": "https://www.tunicabiloxi.org/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-127/22-46ae2d92170e0604.txt",
+    "text_chars": 862
+  },
+  {
+    "id": "a43cbdeb19bcd00c",
+    "name": "U.S Aviation",
+    "requested_url": "https://www.usaviationacademy.com/terms/",
+    "status": 200,
+    "final_url": "https://www.usaviationacademy.com/terms/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-127/23-a43cbdeb19bcd00c.txt",
+    "text_chars": 5581
+  },
+  {
+    "id": "a43cbdeb19bcd00c",
+    "name": "U.S Aviation",
+    "requested_url": "https://www.usaviationacademy.com/privacy/",
+    "status": 200,
+    "final_url": "https://www.usaviationacademy.com/privacy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-127/24-a43cbdeb19bcd00c.txt",
+    "text_chars": 6411
+  },
+  {
+    "id": "6786b72533286e62",
+    "name": "Association of Floral Importers of Florida",
+    "requested_url": "https://www.weareafia.org/about",
+    "status": 200,
+    "final_url": "https://www.weareafia.org/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-127/25-6786b72533286e62.txt",
+    "text_chars": 7583
+  },
+  {
+    "id": "0c5e7a62e34a7ebb",
+    "name": "Atlanta University Center Consortium, Inc.",
+    "requested_url": "https://www.aucconsortium.org/about-the-executive-director/",
+    "status": 200,
+    "final_url": "https://www.aucconsortium.org/about-the-executive-director/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-127/26-0c5e7a62e34a7ebb.txt",
+    "text_chars": 2799
+  },
+  {
+    "id": "e75e65ff5dad01cd",
+    "name": "Brightstar Global Solutions Corporation (formerly Known AS IGT Global SOL Corp)",
+    "requested_url": "https://www.brightstarlottery.com/terms-of-use",
+    "status": 200,
+    "final_url": "https://www.brightstarlottery.com/terms-of-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-127/27-e75e65ff5dad01cd.txt",
+    "text_chars": 15726
+  },
+  {
+    "id": "43f6d9bbfda1e229",
+    "name": "CRS Institute",
+    "requested_url": "https://www.crsinstitute.org/about-1",
+    "status": 200,
+    "final_url": "https://www.crsinstitute.org/about-1",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-127/28-43f6d9bbfda1e229.txt",
+    "text_chars": 1902
+  },
+  {
+    "id": "71f3815ad3b9bd48",
+    "name": "Ivim Health LLC",
+    "requested_url": "https://www.ivimhealth.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.ivimhealth.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-127/29-71f3815ad3b9bd48.txt",
+    "text_chars": 23195
+  },
+  {
+    "id": "71f3815ad3b9bd48",
+    "name": "Ivim Health LLC",
+    "requested_url": "https://www.ivimhealth.com/terms-and-conditions/",
+    "status": 200,
+    "final_url": "https://www.ivimhealth.com/terms-and-conditions/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-127/30-71f3815ad3b9bd48.txt",
+    "text_chars": 59496
+  },
+  {
+    "id": "a7d4abe2827bcc7d",
+    "name": "Metrika Inc",
+    "requested_url": "https://www.metrika.co/company/about",
+    "status": 200,
+    "final_url": "https://www.metrika.co/company/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-127/31-a7d4abe2827bcc7d.txt",
+    "text_chars": 3929
+  },
+  {
+    "id": "0dcaa8417549b4f3",
+    "name": "Qualtrate, LLC",
+    "requested_url": "https://www.qualtrate.com/about-us/",
+    "status": 200,
+    "final_url": "https://www.qualtrate.com/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-127/32-0dcaa8417549b4f3.txt",
+    "text_chars": 3851
+  },
+  {
+    "id": "953453064fd0c676",
+    "name": "GSI Service Group, Inc.",
+    "requested_url": "https://gsi-companies.com/about-us",
+    "status": 200,
+    "final_url": "https://gsi-companies.com/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-127/33-953453064fd0c676.txt",
+    "text_chars": 2910
+  },
+  {
+    "id": "1bd77fa787cbfe28",
+    "name": "DRAI Health (represented through Hartwell Capitol Consulting)",
+    "requested_url": "https://www.draihealth.com/terms.html",
+    "status": 200,
+    "final_url": "https://www.draihealth.com/terms.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-127/34-1bd77fa787cbfe28.txt",
+    "text_chars": 4651
+  },
+  {
+    "id": "1bd77fa787cbfe28",
+    "name": "DRAI Health (represented through Hartwell Capitol Consulting)",
+    "requested_url": "https://www.draihealth.com/privacy.html",
+    "status": 200,
+    "final_url": "https://www.draihealth.com/privacy.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-127/35-1bd77fa787cbfe28.txt",
+    "text_chars": 5857
+  },
+  {
+    "id": "fb0495809a465db3",
+    "name": "Ivim Services, LLC",
+    "requested_url": "https://www.ivimhealth.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.ivimhealth.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-127/36-fb0495809a465db3.txt",
+    "text_chars": 23198
+  },
+  {
+    "id": "fb0495809a465db3",
+    "name": "Ivim Services, LLC",
+    "requested_url": "https://www.ivimhealth.com/terms-and-conditions/",
+    "status": 200,
+    "final_url": "https://www.ivimhealth.com/terms-and-conditions/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-127/37-fb0495809a465db3.txt",
+    "text_chars": 59499
+  }
+]

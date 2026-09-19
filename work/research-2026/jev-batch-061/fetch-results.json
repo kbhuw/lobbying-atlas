@@ -1,0 +1,891 @@
+[
+  {
+    "id": "cfdf16020e3c4173",
+    "name": "FirstHealth of the Carolinas",
+    "requested_url": "https://www.firsthealth.org",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "c8d60098c93532b9",
+    "name": "Goshen Irrigation District",
+    "requested_url": "https://www.goshenirrigation.com/",
+    "error": "<urlopen error [Errno 54] Connection reset by peer>"
+  },
+  {
+    "id": "eea532a6b5fb720e",
+    "name": "H Cycle, LLC",
+    "requested_url": "https://hcycle.com/",
+    "status": 202,
+    "final_url": "https://hcycle.com/",
+    "text_chars": 66,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-061/eea532a6b5fb720e.txt"
+  },
+  {
+    "id": "4cc26a320ca6e150",
+    "name": "I-Mei Foods Co., Ltd.",
+    "requested_url": "https://www.imeifoods.com.tw/",
+    "status": 200,
+    "final_url": "https://www.imeifoods.com.tw/",
+    "text_chars": 226,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-061/4cc26a320ca6e150.txt"
+  },
+  {
+    "id": "99c09c1a7aa8a7c8",
+    "name": "InMarket Media, LLC",
+    "requested_url": "https://inmarket.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "28b5fbeb62073450",
+    "name": "International Union of Police Associations AFL-CIO",
+    "requested_url": "https://www.iupa.org/",
+    "status": 200,
+    "final_url": "https://iupa.org/",
+    "text_chars": 6868,
+    "logo_candidates": [
+      {
+        "decoding": "async",
+        "width": "358",
+        "height": "120",
+        "src": "https://iupa.org/wp-content/uploads/2025/08/iupa_LOGO_2025_120px.png",
+        "alt": null,
+        "class": "img-responsive wp-image-5678 disable-lazyload",
+        "srcset": "https://iupa.org/wp-content/uploads/2025/08/iupa_LOGO_2025_120px-200x67.png 200w, https://iupa.org/wp-content/uploads/2025/08/iupa_LOGO_2025_120px.png 358w",
+        "sizes": "(max-width: 1024px) 100vw, (max-width: 640px) 100vw, 358px"
+      },
+      {
+        "fetchpriority": "high",
+        "decoding": "async",
+        "width": "298",
+        "height": "300",
+        "title": "iupa_logo",
+        "src": "https://iupa.org/wp-content/uploads/2025/05/iupa_logo.png",
+        "data-orig-src": "https://iupa.org/wp-content/uploads/2025/05/iupa_logo-298x300.png",
+        "alt": null,
+        "class": "lazyload img-responsive wp-image-3858",
+        "srcset": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%272192%27%20height%3D%272207%27%20viewBox%3D%270%200%202192%202207%27%3E%3Crect%20width%3D%272192%27%20height%3D%272207%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "data-srcset": "https://iupa.org/wp-content/uploads/2025/05/iupa_logo-200x201.png 200w, https://iupa.org/wp-content/uploads/2025/05/iupa_logo-400x403.png 400w, https://iupa.org/wp-content/uploads/2025/05/iupa_logo-600x604.png 600w, https://iupa.org/wp-content/uploads/2025/05/iupa_logo-800x805.png 800w, https://iupa.org/wp-content/uploads/2025/05/iupa_logo-1200x1208.png 1200w",
+        "data-sizes": "auto",
+        "data-orig-sizes": "(max-width: 1024px) 100vw, (max-width: 640px) 100vw, 400px"
+      },
+      {
+        "decoding": "async",
+        "width": "669",
+        "height": "118",
+        "title": "IUPA-Logo",
+        "src": "https://iupa.org/wp-content/uploads/2025/05/IUPA-Logo.png",
+        "data-orig-src": "https://iupa.org/wp-content/uploads/2025/05/IUPA-Logo.png",
+        "alt": null,
+        "class": "lazyload img-responsive wp-image-3806",
+        "srcset": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27669%27%20height%3D%27118%27%20viewBox%3D%270%200%20669%20118%27%3E%3Crect%20width%3D%27669%27%20height%3D%27118%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "data-srcset": "https://iupa.org/wp-content/uploads/2025/05/IUPA-Logo-200x35.png 200w, https://iupa.org/wp-content/uploads/2025/05/IUPA-Logo-400x71.png 400w, https://iupa.org/wp-content/uploads/2025/05/IUPA-Logo-600x106.png 600w, https://iupa.org/wp-content/uploads/2025/05/IUPA-Logo.png 669w",
+        "data-sizes": "auto",
+        "data-orig-sizes": "(max-width: 1024px) 100vw, (max-width: 640px) 100vw, 669px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-061/28b5fbeb62073450.txt"
+  },
+  {
+    "id": "7924ec0445345446",
+    "name": "Kentucky Association of Hospice & Palliative Care",
+    "requested_url": "https://kahpc.org/",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'kahpc.org'. (_ssl.c:1129)>"
+  },
+  {
+    "id": "11e5fd2d2d22ee81",
+    "name": "LEE Health System",
+    "requested_url": "https://www.leehealth.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "d8c0e319351b0c1b",
+    "name": "Maui Foodbank",
+    "requested_url": "https://mauifoodbank.org/about/",
+    "status": 200,
+    "final_url": "https://mauifoodbank.org/about/",
+    "text_chars": 8181,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "decoding": "async",
+        "width": "500",
+        "height": "141",
+        "src": "https://mauifoodbank.org/wp-content/uploads/2024/10/MauiFoodBank-Logo.png",
+        "alt": "Maui Food Bank Logo",
+        "srcset": "https://mauifoodbank.org/wp-content/uploads/2024/10/MauiFoodBank-Logo.png 500w, https://mauifoodbank.org/wp-content/uploads/2024/10/MauiFoodBank-Logo-480x135.png 480w",
+        "sizes": "(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 500px, 100vw",
+        "class": "wp-image-43"
+      },
+      {
+        "fetchpriority": "high",
+        "decoding": "async",
+        "width": "500",
+        "height": "141",
+        "src": "https://mauifoodbank.org/wp-content/uploads/2024/10/MauiFoodBank-Logo.png",
+        "alt": "Maui Food Bank Logo",
+        "srcset": "https://mauifoodbank.org/wp-content/uploads/2024/10/MauiFoodBank-Logo.png 500w, https://mauifoodbank.org/wp-content/uploads/2024/10/MauiFoodBank-Logo-480x135.png 480w",
+        "sizes": "(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 500px, 100vw",
+        "class": "wp-image-43"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "500",
+        "height": "139",
+        "src": "https://mauifoodbank.org/wp-content/uploads/2024/10/MauiFoodBank-Logo-white.png",
+        "alt": "",
+        "title": "MauiFoodBank-Logo-white",
+        "srcset": "https://mauifoodbank.org/wp-content/uploads/2024/10/MauiFoodBank-Logo-white.png 500w, https://mauifoodbank.org/wp-content/uploads/2024/10/MauiFoodBank-Logo-white-480x133.png 480w",
+        "sizes": "(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 500px, 100vw",
+        "class": "wp-image-274"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-061/d8c0e319351b0c1b.txt"
+  },
+  {
+    "id": "79e180fec4be1094",
+    "name": "Miami-Dade County Public Schools",
+    "requested_url": "https://www.dadeschools.net/",
+    "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)>"
+  },
+  {
+    "id": "197cf658dfc7a97d",
+    "name": "Mojave Desert AIR Quality Management District",
+    "requested_url": "https://www.mdaqmd.ca.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "5cd84ca6a9acd10a",
+    "name": "Newhouse Broadcasting Corporation",
+    "requested_url": "https://www.advance.com/",
+    "status": 200,
+    "final_url": "https://www.advance.com/",
+    "text_chars": 3006,
+    "logo_candidates": [
+      {
+        "src": "//images.squarespace-cdn.com/content/v1/5cd2f9dbebfc7fd7777477a9/1557772925022-QMW9SPD0TN0KG1J35Y54/transparent.gif?format=1500w",
+        "alt": "Advance",
+        "class": "Mobile-bar-branding-logo"
+      },
+      {
+        "src": "//images.squarespace-cdn.com/content/v1/5cd2f9dbebfc7fd7777477a9/1557772925022-QMW9SPD0TN0KG1J35Y54/transparent.gif?format=1500w",
+        "alt": "Advance",
+        "class": "Header-branding-logo"
+      },
+      {
+        "data-src": "https://images.squarespace-cdn.com/content/v1/5cd2f9dbebfc7fd7777477a9/1557775795494-RV80J220KH2AA21I5WN2/LOGO_STATIC_COLOR.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/5cd2f9dbebfc7fd7777477a9/1557775795494-RV80J220KH2AA21I5WN2/LOGO_STATIC_COLOR.png",
+        "data-image-dimensions": "1920x1080",
+        "data-image-focal-point": "0.5,0.5",
+        "alt": "LOGO_STATIC_COLOR.png",
+        "class": "custom-fallback-image",
+        "data-load": "false"
+      },
+      {
+        "src": "https://images.squarespace-cdn.com/content/v1/5cd2f9dbebfc7fd7777477a9/1557774389284-YCK9QWPS8V99SRV1I91H/Advance_web_conde-12.png",
+        "alt": "Conde Nast Logo"
+      },
+      {
+        "class": "thumb-image",
+        "elementtiming": "system-gallery-block-grid",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/5cd2f9dbebfc7fd7777477a9/1557774389284-YCK9QWPS8V99SRV1I91H/Advance_web_conde-12.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/5cd2f9dbebfc7fd7777477a9/1557774389284-YCK9QWPS8V99SRV1I91H/Advance_web_conde-12.png",
+        "data-image-dimensions": "1944x1937",
+        "data-image-focal-point": "0.5,0.5",
+        "alt": "Conde Nast Logo",
+        "data-load": "false",
+        "data-image-id": "5cd9c0353c3ab800014dc831",
+        "data-type": "image"
+      },
+      {
+        "src": "https://images.squarespace-cdn.com/content/v1/5cd2f9dbebfc7fd7777477a9/1557759138593-86E4RNTZJ5Q14DMKQD76/Advance_web_logo-07.png",
+        "alt": "Advance Local Logo"
+      },
+      {
+        "class": "thumb-image",
+        "elementtiming": "system-gallery-block-grid",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/5cd2f9dbebfc7fd7777477a9/1557759138593-86E4RNTZJ5Q14DMKQD76/Advance_web_logo-07.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/5cd2f9dbebfc7fd7777477a9/1557759138593-86E4RNTZJ5Q14DMKQD76/Advance_web_logo-07.png",
+        "data-image-dimensions": "1944x1938",
+        "data-image-focal-point": "0.5,0.5",
+        "alt": "Advance Local Logo",
+        "data-load": "false",
+        "data-image-id": "5cd984a2523cf800019414f6",
+        "data-type": "image"
+      },
+      {
+        "src": "https://images.squarespace-cdn.com/content/v1/5cd2f9dbebfc7fd7777477a9/1557759057481-ZKANHPYK8MMTCVVXKSXO/Advance_web_logo-04.png",
+        "alt": "Stage Entertainment Logo"
+      },
+      {
+        "class": "thumb-image",
+        "elementtiming": "system-gallery-block-grid",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/5cd2f9dbebfc7fd7777477a9/1557759057481-ZKANHPYK8MMTCVVXKSXO/Advance_web_logo-04.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/5cd2f9dbebfc7fd7777477a9/1557759057481-ZKANHPYK8MMTCVVXKSXO/Advance_web_logo-04.png",
+        "data-image-dimensions": "1944x1937",
+        "data-image-focal-point": "0.0,0.4880952380952381",
+        "alt": "Stage Entertainment Logo",
+        "data-load": "false",
+        "data-image-id": "5cd98451e5e5f07ef6aa41d2",
+        "data-type": "image"
+      },
+      {
+        "src": "https://images.squarespace-cdn.com/content/v1/5cd2f9dbebfc7fd7777477a9/1694279855259-RTM8GYLWOREGQ0T77QY9/POP_logo_2023.png",
+        "alt": "POP_logo_2023.png"
+      },
+      {
+        "class": "thumb-image",
+        "elementtiming": "system-gallery-block-grid",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/5cd2f9dbebfc7fd7777477a9/1694279855259-RTM8GYLWOREGQ0T77QY9/POP_logo_2023.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/5cd2f9dbebfc7fd7777477a9/1694279855259-RTM8GYLWOREGQ0T77QY9/POP_logo_2023.png",
+        "data-image-dimensions": "1563x880",
+        "data-image-focal-point": "0.5,0.5",
+        "alt": "POP_logo_2023.png",
+        "data-load": "false",
+        "data-image-id": "64fca8afdb26f915dd2097fd",
+        "data-type": "image"
+      },
+      {
+        "src": "https://images.squarespace-cdn.com/content/v1/5cd2f9dbebfc7fd7777477a9/1558040202503-ULPG8BJ2RLK0NFRPXLJ2/advance_updated_web_logos-01.jpg",
+        "alt": "Charter Comm Logo"
+      },
+      {
+        "class": "thumb-image",
+        "elementtiming": "system-gallery-block-grid",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/5cd2f9dbebfc7fd7777477a9/1558040202503-ULPG8BJ2RLK0NFRPXLJ2/advance_updated_web_logos-01.jpg",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/5cd2f9dbebfc7fd7777477a9/1558040202503-ULPG8BJ2RLK0NFRPXLJ2/advance_updated_web_logos-01.jpg",
+        "data-image-dimensions": "2101x2101",
+        "data-image-focal-point": "0.5,0.5",
+        "alt": "Charter Comm Logo",
+        "data-load": "false",
+        "data-image-id": "5cddce8a3c588e0001d1d614",
+        "data-type": "image"
+      },
+      {
+        "src": "https://images.squarespace-cdn.com/content/v1/5cd2f9dbebfc7fd7777477a9/1558040118876-FEA3IQJ15B9HB1840SN2/Advance_web_logo-10.png",
+        "alt": "Reddit Logo"
+      },
+      {
+        "class": "thumb-image",
+        "elementtiming": "system-gallery-block-grid",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/5cd2f9dbebfc7fd7777477a9/1558040118876-FEA3IQJ15B9HB1840SN2/Advance_web_logo-10.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/5cd2f9dbebfc7fd7777477a9/1558040118876-FEA3IQJ15B9HB1840SN2/Advance_web_logo-10.png",
+        "data-image-dimensions": "1944x1937",
+        "data-image-focal-point": "0.5,0.5",
+        "alt": "Reddit Logo",
+        "data-load": "false",
+        "data-image-id": "5cddce363c588e0001d1d254",
+        "data-type": "image"
+      },
+      {
+        "src": "https://images.squarespace-cdn.com/content/v1/5cd2f9dbebfc7fd7777477a9/1651007670886-VJJ8I7ESLQPK5CF6WJFM/SQ_WBD_HorizontalLogo_Blue-01.png",
+        "alt": "Warner Bros. Discovery"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-061/5cd84ca6a9acd10a.txt"
+  },
+  {
+    "id": "d8506a92a379cf59",
+    "name": "Port of Pasco",
+    "requested_url": "https://portofpasco.com/",
+    "status": 200,
+    "final_url": "https://portofpasco.com/",
+    "text_chars": 72,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-061/d8506a92a379cf59.txt"
+  },
+  {
+    "id": "137490d66c56bda1",
+    "name": "Propel",
+    "requested_url": "https://www.propel.app/",
+    "status": 200,
+    "final_url": "https://www.propel.app/",
+    "text_chars": 6282,
+    "logo_candidates": [
+      {
+        "src": "https://cdn.sanity.io/images/udsdasqu/production/65a5c01cef081dd67a9965eb2e48406b4b631dd6-242x74.png?auto=format&dpr=2&crop=entropy&fit=crop&w=121&h=37",
+        "width": "121",
+        "height": "37",
+        "alt": "Propel's logo",
+        "fetchpriority": "auto",
+        "loading": "lazy",
+        "class": "mx-auto mb-6 md:mb-8"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-061/137490d66c56bda1.txt"
+  },
+  {
+    "id": "399fb36fc1bf3d96",
+    "name": "Sabi, Inc.",
+    "requested_url": "https://sabi.am/",
+    "status": 200,
+    "final_url": "https://sabi.am/",
+    "text_chars": 3481,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-061/399fb36fc1bf3d96.txt"
+  },
+  {
+    "id": "a3e92013a7f7aadd",
+    "name": "Safety and Advocacy for Empowerment (safe)",
+    "requested_url": "https://www.safedrive.org/",
+    "status": 200,
+    "final_url": "https://www.safedrive.org/",
+    "text_chars": 3562,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-061/a3e92013a7f7aadd.txt"
+  },
+  {
+    "id": "433b71275cba03c9",
+    "name": "Scholar Rock, Inc.",
+    "requested_url": "https://investors.scholarrock.com/",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "fdb47fa43ce5059a",
+    "name": "Schweiger Dermatology Group",
+    "requested_url": "https://www.schweigerderm.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "8cf26aa3499dfc09",
+    "name": "Silentium Defense Corporation",
+    "requested_url": "https://silentiumdefense.com/",
+    "status": 200,
+    "final_url": "https://silentiumdefense.com/",
+    "text_chars": 9108,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-061/8cf26aa3499dfc09.txt"
+  },
+  {
+    "id": "e6173bd78db576e0",
+    "name": "Spartan Education Group, LLC",
+    "requested_url": "https://www.spartan.edu/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "7f966287d2c48d71",
+    "name": "Tennessee Rural Health Improvement Association",
+    "requested_url": "https://www.fbhp.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "4c308c8da94d819a",
+    "name": "the American Border Story Action",
+    "requested_url": "https://theamericanborderstory.com/",
+    "status": 200,
+    "final_url": "https://theamericanborderstory.com/",
+    "text_chars": 5035,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "decoding": "async",
+        "width": "1000",
+        "height": "200",
+        "src": "https://theamericanborderstory.com/wp-content/uploads/2025/03/resized-header-logo-left-aligned.png",
+        "alt": "",
+        "srcset": "https://theamericanborderstory.com/wp-content/uploads/2025/03/resized-header-logo-left-aligned.png 1000w, https://theamericanborderstory.com/wp-content/uploads/2025/03/resized-header-logo-left-aligned-980x196.png 980w, https://theamericanborderstory.com/wp-content/uploads/2025/03/resized-header-logo-left-aligned-480x96.png 480w",
+        "sizes": "(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1000px, 100vw",
+        "class": "wp-image-518"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "1024",
+        "height": "683",
+        "src": "https://theamericanborderstory.com/wp-content/uploads/2025/03/Logo-1024x683.png",
+        "alt": "",
+        "title": "Logo",
+        "srcset": "https://theamericanborderstory.com/wp-content/uploads/2025/03/Logo-980x653.png 980w, https://theamericanborderstory.com/wp-content/uploads/2025/03/Logo-480x320.png 480w",
+        "sizes": "(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1024px, 100vw",
+        "class": "wp-image-500"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-061/4c308c8da94d819a.txt"
+  },
+  {
+    "id": "2f15eff49cb360b5",
+    "name": "the Amherst Group, LLC",
+    "requested_url": "https://www.amherst.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "59757e7214c068f5",
+    "name": "the Cavalry Group LLC",
+    "requested_url": "https://www.thecavalrygroup.com/",
+    "status": 200,
+    "final_url": "https://www.thecavalrygroup.com/",
+    "text_chars": 166,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-061/59757e7214c068f5.txt"
+  },
+  {
+    "id": "3a4da481dcaa74cf",
+    "name": "the Sequoia Project",
+    "requested_url": "https://sequoiaproject.org/about-us/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "7b052e42153f2e29",
+    "name": "Utah Department of Transportation",
+    "requested_url": "https://www.udot.utah.gov/",
+    "status": 200,
+    "final_url": "https://www.udot.utah.gov/",
+    "text_chars": 94,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-061/7b052e42153f2e29.txt"
+  },
+  {
+    "id": "cb2973fa086133de",
+    "name": "Amphenol Corporation",
+    "requested_url": "https://www.amphenol.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "076e1de319afb9dc",
+    "name": "Association of O&C Counties",
+    "requested_url": "https://www.oandc.org/",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self signed certificate (_ssl.c:1129)>"
+  },
+  {
+    "id": "ea3e2ed757b4e61f",
+    "name": "Aventra Defense Systems, Inc.",
+    "requested_url": "https://www.aventra.io/",
+    "status": 200,
+    "final_url": "https://www.aventra.io/",
+    "text_chars": 2047,
+    "logo_candidates": [
+      {
+        "elementtiming": "nbf-header-logo-desktop",
+        "src": "//images.squarespace-cdn.com/content/v1/68ac6bd9eed44669dd53d707/6dab1474-80d5-4132-a76f-7f5e6672ffef/logo.png?format=1500w",
+        "alt": "Aventra",
+        "style": "display:block",
+        "fetchpriority": "high",
+        "loading": "eager",
+        "decoding": "async",
+        "data-loader": "raw"
+      },
+      {
+        "elementtiming": "nbf-header-logo-desktop",
+        "src": "//images.squarespace-cdn.com/content/v1/68ac6bd9eed44669dd53d707/6dab1474-80d5-4132-a76f-7f5e6672ffef/logo.png?format=1500w",
+        "alt": "Aventra",
+        "style": "display:block",
+        "fetchpriority": "high",
+        "loading": "eager",
+        "decoding": "async",
+        "data-loader": "raw"
+      },
+      {
+        "data-stretch": "false",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/68ac6bd9eed44669dd53d707/82209fd2-7657-43ac-862c-ff3cde4090c9/logo+%281%29.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/68ac6bd9eed44669dd53d707/82209fd2-7657-43ac-862c-ff3cde4090c9/logo+%281%29.png",
+        "data-image-dimensions": "545x106",
+        "data-image-focal-point": "0.5,0.5",
+        "data-sqsp-image-block-image": null,
+        "alt": "",
+        "data-licensed-asset-preview": "false",
+        "data-load": "false",
+        "elementtiming": "system-image-block",
+        "src": "https://images.squarespace-cdn.com/content/v1/68ac6bd9eed44669dd53d707/82209fd2-7657-43ac-862c-ff3cde4090c9/logo+%281%29.png",
+        "width": "545",
+        "height": "106",
+        "sizes": "auto, (max-width: 640px) 100.00vw, (max-width: 767px) 50.00vw, 20.83vw",
+        "style": "display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);",
+        "srcset": "https://images.squarespace-cdn.com/content/v1/68ac6bd9eed44669dd53d707/82209fd2-7657-43ac-862c-ff3cde4090c9/logo+%281%29.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/68ac6bd9eed44669dd53d707/82209fd2-7657-43ac-862c-ff3cde4090c9/logo+%281%29.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/68ac6bd9eed44669dd53d707/82209fd2-7657-43ac-862c-ff3cde4090c9/logo+%281%29.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/68ac6bd9eed44669dd53d707/82209fd2-7657-43ac-862c-ff3cde4090c9/logo+%281%29.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/68ac6bd9eed44669dd53d707/82209fd2-7657-43ac-862c-ff3cde4090c9/logo+%281%29.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/68ac6bd9eed44669dd53d707/82209fd2-7657-43ac-862c-ff3cde4090c9/logo+%281%29.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/68ac6bd9eed44669dd53d707/82209fd2-7657-43ac-862c-ff3cde4090c9/logo+%281%29.png?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs",
+        "data-image-component": "1.0.1"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-061/ea3e2ed757b4e61f.txt"
+  },
+  {
+    "id": "14dea841bf876a97",
+    "name": "Banilla Games, Inc",
+    "requested_url": "https://banillagames.com/",
+    "status": 202,
+    "final_url": "https://banillagames.com/",
+    "text_chars": 78,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-061/14dea841bf876a97.txt"
+  },
+  {
+    "id": "7dd1ad76582edd51",
+    "name": "Advance Casper (Casper Area Economic Development Alliance)",
+    "requested_url": "https://advancecasper.com/",
+    "status": 200,
+    "final_url": "https://advancecasper.com/",
+    "text_chars": 6845,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "width": "768",
+        "height": "156",
+        "src": "https://advancecasper.com/wp-content/uploads/2023/01/compressed-advance_casper_logo_updated2-768x156-1.webp",
+        "class": "attachment-full size-full wp-image-3203",
+        "alt": "",
+        "srcset": "https://advancecasper.com/wp-content/uploads/2023/01/compressed-advance_casper_logo_updated2-768x156-1.webp 768w, https://advancecasper.com/wp-content/uploads/2023/01/compressed-advance_casper_logo_updated2-768x156-1-300x61.webp 300w",
+        "sizes": "(max-width: 768px) 100vw, 768px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "800",
+        "height": "206",
+        "src": "https://advancecasper.com/wp-content/uploads/2025/03/new_logo_final-1024x264.png",
+        "class": "attachment-large size-large wp-image-330",
+        "alt": "Casper/Natrona County International Airport logo",
+        "srcset": "https://advancecasper.com/wp-content/uploads/2025/03/new_logo_final-1024x264.png 1024w, https://advancecasper.com/wp-content/uploads/2025/03/new_logo_final-300x77.png 300w, https://advancecasper.com/wp-content/uploads/2025/03/new_logo_final-768x198.png 768w, https://advancecasper.com/wp-content/uploads/2025/03/new_logo_final-1536x396.png 1536w, https://advancecasper.com/wp-content/uploads/2025/03/new_logo_final-2048x528.png 2048w",
+        "sizes": "(max-width: 800px) 100vw, 800px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "225",
+        "height": "225",
+        "src": "https://advancecasper.com/wp-content/uploads/2025/03/images.jpeg",
+        "class": "attachment-large size-large wp-image-333",
+        "alt": "Lum Studio Logo",
+        "srcset": "https://advancecasper.com/wp-content/uploads/2025/03/images.jpeg 225w, https://advancecasper.com/wp-content/uploads/2025/03/images-150x150.jpeg 150w",
+        "sizes": "(max-width: 225px) 100vw, 225px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "400",
+        "height": "202",
+        "src": "https://advancecasper.com/wp-content/uploads/2025/04/JJM-Group-Hotels-Elephant-Logo-ELEPHANT-ONLY-.webp",
+        "class": "attachment-large size-large wp-image-336",
+        "alt": "JJM Group Hotels",
+        "srcset": "https://advancecasper.com/wp-content/uploads/2025/04/JJM-Group-Hotels-Elephant-Logo-ELEPHANT-ONLY-.webp 400w, https://advancecasper.com/wp-content/uploads/2025/04/JJM-Group-Hotels-Elephant-Logo-ELEPHANT-ONLY--300x152.webp 300w",
+        "sizes": "(max-width: 400px) 100vw, 400px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "800",
+        "height": "449",
+        "src": "https://advancecasper.com/wp-content/uploads/2025/04/FLY_CASPER_PURPLE_LOGO.png",
+        "class": "attachment-large size-large wp-image-341",
+        "alt": "Fly Casper Alliance",
+        "srcset": "https://advancecasper.com/wp-content/uploads/2025/04/FLY_CASPER_PURPLE_LOGO.png 890w, https://advancecasper.com/wp-content/uploads/2025/04/FLY_CASPER_PURPLE_LOGO-300x169.png 300w, https://advancecasper.com/wp-content/uploads/2025/04/FLY_CASPER_PURPLE_LOGO-768x431.png 768w",
+        "sizes": "(max-width: 800px) 100vw, 800px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "800",
+        "height": "355",
+        "src": "https://advancecasper.com/wp-content/uploads/2025/04/disa-1024x454.png",
+        "class": "attachment-large size-large wp-image-345",
+        "alt": "Disa logo",
+        "srcset": "https://advancecasper.com/wp-content/uploads/2025/04/disa-1024x454.png 1024w, https://advancecasper.com/wp-content/uploads/2025/04/disa-300x133.png 300w, https://advancecasper.com/wp-content/uploads/2025/04/disa-768x341.png 768w, https://advancecasper.com/wp-content/uploads/2025/04/disa.png 1292w",
+        "sizes": "(max-width: 800px) 100vw, 800px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "600",
+        "height": "380",
+        "src": "https://advancecasper.com/wp-content/uploads/2025/04/BHE-Ready-black-orange.webp",
+        "class": "attachment-large size-large wp-image-357",
+        "alt": "Black Hills Energy Logo",
+        "srcset": "https://advancecasper.com/wp-content/uploads/2025/04/BHE-Ready-black-orange.webp 600w, https://advancecasper.com/wp-content/uploads/2025/04/BHE-Ready-black-orange-300x190.webp 300w",
+        "sizes": "(max-width: 600px) 100vw, 600px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "400",
+        "height": "127",
+        "src": "https://advancecasper.com/wp-content/uploads/2025/04/Donells-Candies.png",
+        "class": "attachment-large size-large wp-image-361",
+        "alt": "Donells Candies Logo",
+        "srcset": "https://advancecasper.com/wp-content/uploads/2025/04/Donells-Candies.png 400w, https://advancecasper.com/wp-content/uploads/2025/04/Donells-Candies-300x95.png 300w",
+        "sizes": "(max-width: 400px) 100vw, 400px"
+      },
+      {
+        "width": "768",
+        "height": "156",
+        "src": "https://advancecasper.com/wp-content/uploads/2023/01/compressed-advance_casper_logo_updated2-768x156-1.webp",
+        "class": "attachment-full size-full wp-image-3203",
+        "alt": "",
+        "srcset": "https://advancecasper.com/wp-content/uploads/2023/01/compressed-advance_casper_logo_updated2-768x156-1.webp 768w, https://advancecasper.com/wp-content/uploads/2023/01/compressed-advance_casper_logo_updated2-768x156-1-300x61.webp 300w",
+        "sizes": "(max-width: 768px) 100vw, 768px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-061/7dd1ad76582edd51.txt"
+  },
+  {
+    "id": "7a60d60981d285f9",
+    "name": "Cigna Corporate Services, LLC and affiliates",
+    "requested_url": "https://www.thecignagroup.com/",
+    "status": 200,
+    "final_url": "https://www.thecignagroup.com/",
+    "text_chars": 4027,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-061/7a60d60981d285f9.txt"
+  },
+  {
+    "id": "dbe8c392b739fbe8",
+    "name": "City and Borough of Sitka",
+    "requested_url": "https://www.cityofsitka.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "f14c92e8f0fd1045",
+    "name": "City of Lauderhill, Florida",
+    "requested_url": "https://www.lauderhill-fl.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "be8a7cf8c385a781",
+    "name": "Echandia Marine US",
+    "requested_url": "https://www.echandia.com/en/",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "id": "c2afcb5a33da4e72",
+    "name": "Hudson County Improvement Authority",
+    "requested_url": "https://www.hcia.org/",
+    "status": 200,
+    "final_url": "https://hcia.org/",
+    "text_chars": 8275,
+    "logo_candidates": [
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "135",
+        "height": "90",
+        "src": "https://hcia.org/wp-content/uploads/2025/02/HCIA_Logo_PNG_Gold_1-1-3.png",
+        "class": "attachment-large size-large wp-image-384",
+        "alt": "",
+        "srcset": "https://hcia.org/wp-content/uploads/2025/02/HCIA_Logo_PNG_Gold_1-1-3.png 135w, https://hcia.org/wp-content/uploads/2025/02/HCIA_Logo_PNG_Gold_1-1-3-24x16.png 24w, https://hcia.org/wp-content/uploads/2025/02/HCIA_Logo_PNG_Gold_1-1-3-36x24.png 36w, https://hcia.org/wp-content/uploads/2025/02/HCIA_Logo_PNG_Gold_1-1-3-48x32.png 48w",
+        "sizes": "(max-width: 135px) 100vw, 135px"
+      },
+      {
+        "width": "123",
+        "height": "82",
+        "src": "https://hcia.org/wp-content/uploads/2025/02/HCIA_Logo_PNG_Gold_1-1-2.png",
+        "class": "attachment-large size-large wp-image-96",
+        "alt": "",
+        "srcset": "https://hcia.org/wp-content/uploads/2025/02/HCIA_Logo_PNG_Gold_1-1-2.png 123w, https://hcia.org/wp-content/uploads/2025/02/HCIA_Logo_PNG_Gold_1-1-2-24x16.png 24w, https://hcia.org/wp-content/uploads/2025/02/HCIA_Logo_PNG_Gold_1-1-2-36x24.png 36w, https://hcia.org/wp-content/uploads/2025/02/HCIA_Logo_PNG_Gold_1-1-2-48x32.png 48w",
+        "sizes": "(max-width: 123px) 100vw, 123px"
+      },
+      {
+        "src": "https://hcia.org/wp-content/uploads/elementor/thumbs/COUNTY-LOGO-WHITE.Transparent-ri8aa7legy2nauhz8wxy6809olbg5sxp0ilgcjm8f4.png",
+        "title": "COUNTY LOGO WHITE.Transparent",
+        "alt": "COUNTY LOGO WHITE.Transparent",
+        "loading": "lazy"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-061/c2afcb5a33da4e72.txt"
+  },
+  {
+    "id": "75a4289c56c63716",
+    "name": "Hunts Point Terminal Produce Cooperative Association, Inc",
+    "requested_url": "https://www.huntspointmarket.com/",
+    "error": "HTTP Error 410: Gone"
+  },
+  {
+    "id": "d3a5168141f3ac3c",
+    "name": "Icarus Devices",
+    "requested_url": "https://www.icarusdevices.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "5b010404d3d7c8e8",
+    "name": "Jaia Robotics",
+    "requested_url": "https://jaiarobotics.com/",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "id": "32da9b7e410fa51d",
+    "name": "JSX",
+    "requested_url": "https://www.jsx.com/",
+    "status": 200,
+    "final_url": "https://www.jsx.com/",
+    "text_chars": 95,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-061/32da9b7e410fa51d.txt"
+  },
+  {
+    "id": "eeab1170b482cecc",
+    "name": "Kings County, California",
+    "requested_url": "https://www.countyofkingsca.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "b237ae5691ee029f",
+    "name": "Mahi Pono, LLC",
+    "requested_url": "https://www.mahipono.com/",
+    "status": 200,
+    "final_url": "https://www.mahipono.com/",
+    "text_chars": 1781,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-061/b237ae5691ee029f.txt"
+  },
+  {
+    "id": "624dbb9200824f4e",
+    "name": "Motor & Equipment Manufacturers Association",
+    "requested_url": "https://www.mema.org/",
+    "status": 200,
+    "final_url": "https://www.mema.org/",
+    "text_chars": 5130,
+    "logo_candidates": [
+      {
+        "src": "/themes/_custom/sd_base/logo.svg",
+        "alt": "MEMA Home"
+      },
+      {
+        "loading": "eager",
+        "width": "714",
+        "height": "402",
+        "src": "/sites/default/files/styles/expanding_card/public/2025-02/Sustainability%20Council%20Thumbnail.png?itok=9k2RoQVx",
+        "alt": "Sustainability Council Logo",
+        "data-src": "/sites/default/files/styles/expanding_card/public/2025-02/Sustainability%20Council%20Thumbnail.png?itok=9k2RoQVx"
+      },
+      {
+        "loading": "eager",
+        "width": "714",
+        "height": "402",
+        "src": "/sites/default/files/styles/expanding_card/public/2026-08/26%20HDAD%20Website%20Thumbnail.png?itok=qmgfBun1",
+        "alt": "A woman and man sitting on a stage under a sign that has the Heavy Duty Aftermarket Dialogue, MacKay & Company, and MEMA Aftermarket Suppliers logos",
+        "data-src": "/sites/default/files/styles/expanding_card/public/2026-08/26%20HDAD%20Website%20Thumbnail.png?itok=qmgfBun1"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-061/624dbb9200824f4e.txt"
+  },
+  {
+    "id": "303f13bd1af5ef6b",
+    "name": "North Carolina Biotechnology Center",
+    "requested_url": "https://www.ncbiotech.org/transforming-life-sciences/about-us",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "ec5bbbf102282f5f",
+    "name": "Ontario International Airport Authority",
+    "requested_url": "https://www.flyontario.com/airport-authority/airport-leadership",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "6502cb30485bb97b",
+    "name": "RAI Services Company (formerly Known AS RJ Reynolds)",
+    "requested_url": "https://www.reynoldsamerican.com/",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  {
+    "id": "f3daf1c4987d34ac",
+    "name": "SAC Health System",
+    "requested_url": "https://sachealth.org/",
+    "status": 200,
+    "final_url": "https://www.sachealth.org/",
+    "text_chars": 5507,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "src": "https://static.wixstatic.com/media/11ebc1_eb1a72cf12e34af798fb5c7c91523916~mv2.png",
+        "alt": "SACH Logo Horz Color Web.png",
+        "height": "35",
+        "width": "243",
+        "style": "--responsive-img-object-fit:cover"
+      },
+      {
+        "fetchpriority": "high",
+        "src": "https://static.wixstatic.com/media/66e657_7fd6296d81454d3b9a76633ca7ed7cad~mv2.webp",
+        "alt": "IEHP_Logo_black.webp",
+        "height": "34",
+        "width": "85",
+        "style": "--responsive-img-object-fit:cover"
+      },
+      {
+        "src": "https://static.wixstatic.com/media/7f1a3e_e8a54758e564438e950bbc5a8d868ba8~mv2.png/v1/fill/w_116,h_90,al_c,q_85,usm_0.66_1.00_0.01,blur_3,enc_avif,quality_auto/7f1a3e_e8a54758e564438e950bbc5a8d868ba8~mv2.png",
+        "alt": "logo background feathered.png",
+        "style": "width:100%;height:100%;object-fit:cover;object-position:50% 50%",
+        "width": "160",
+        "height": "90"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://static.wixstatic.com/media/7f1a3e_7dd290f5492849faade134dba2d59537~mv2.png",
+        "alt": "HRSA Logo",
+        "height": "88",
+        "width": "145",
+        "style": "--responsive-img-object-fit:cover"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://static.wixstatic.com/media/7f1a3e_a8582f649e714eaaa49dec4f45e58042~mv2.png",
+        "alt": "Community Health Association Logo",
+        "height": "88",
+        "width": "145",
+        "style": "--responsive-img-object-fit:cover"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://static.wixstatic.com/media/7f1a3e_b66c0ffcb5204cdda338fb6b813e3ed1~mv2.png",
+        "alt": "IEHP Logo",
+        "height": "88",
+        "width": "145",
+        "style": "--responsive-img-object-fit:cover"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://static.wixstatic.com/media/7f1a3e_fcac959b1cf44372b60e64f446694a53~mv2.png",
+        "alt": "CCHF Logo",
+        "height": "88",
+        "width": "145",
+        "style": "--responsive-img-object-fit:cover"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://static.wixstatic.com/media/7f1a3e_e1f3fbd60a9145489565cb59aa1c97c3~mv2.png",
+        "alt": "AAoTHC Logo",
+        "height": "88",
+        "width": "145",
+        "style": "--responsive-img-object-fit:cover"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://static.wixstatic.com/media/9d6bec_96b3e4a657bc4c26ad13faf4b83e98b6~mv2.png",
+        "alt": "logo-white-h",
+        "height": "46",
+        "width": "291",
+        "style": "--responsive-img-object-fit:cover"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://static.wixstatic.com/media/11ebc1_eb1a72cf12e34af798fb5c7c91523916~mv2.png",
+        "alt": "SACH Logo Horz Color Web.png",
+        "height": "38",
+        "width": "266",
+        "style": "--responsive-img-object-fit:cover"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-061/f3daf1c4987d34ac.txt"
+  },
+  {
+    "id": "ca891ccfd32322e9",
+    "name": "Savion",
+    "requested_url": "https://savion.com/",
+    "status": 200,
+    "final_url": "https://savion.com/",
+    "text_chars": 60,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-061/ca891ccfd32322e9.txt"
+  },
+  {
+    "id": "df2bde92aab87a8b",
+    "name": "Schaeffler Group USA Inc",
+    "requested_url": "https://www.schaeffler.us/us/company/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "fc7c731984a9136c",
+    "name": "SNP Alliance",
+    "requested_url": "https://snpalliance.org/",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

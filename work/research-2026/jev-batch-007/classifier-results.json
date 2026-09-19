@@ -1,0 +1,556 @@
+{
+  "ok": true,
+  "model": "jev-latest",
+  "scales": {},
+  "results": [
+    {
+      "id": "118ad8762e2c0f76",
+      "answers": {
+        "match": {
+          "type": "boolean",
+          "probability": 0.51
+        },
+        "activity": {
+          "type": "boolean",
+          "probability": 0.95
+        },
+        "ownership": {
+          "type": "choice",
+          "choice": "unknown",
+          "probabilities": {
+            "government": 0,
+            "nonprofit": 0,
+            "public_company": 0,
+            "private_company": 0.01,
+            "unknown": 0.99
+          },
+          "confidence": 0.98
+        }
+      },
+      "model": "jev-1.13.0"
+    },
+    {
+      "id": "6554a7de90beac23",
+      "answers": {
+        "match": {
+          "type": "boolean",
+          "probability": 0.67
+        },
+        "activity": {
+          "type": "boolean",
+          "probability": 0.98
+        },
+        "ownership": {
+          "type": "choice",
+          "choice": "unknown",
+          "probabilities": {
+            "government": 0,
+            "nonprofit": 0.2,
+            "public_company": 0,
+            "private_company": 0,
+            "unknown": 0.8
+          },
+          "confidence": 0.75
+        }
+      },
+      "model": "jev-1.13.0"
+    },
+    {
+      "id": "06efcc8b3b9b3b3c",
+      "answers": {
+        "match": {
+          "type": "boolean",
+          "probability": 0.29
+        },
+        "activity": {
+          "type": "boolean",
+          "probability": 0.98
+        },
+        "ownership": {
+          "type": "choice",
+          "choice": "unknown",
+          "probabilities": {
+            "government": 0,
+            "nonprofit": 0,
+            "public_company": 0,
+            "private_company": 0,
+            "unknown": 1
+          },
+          "confidence": 1
+        }
+      },
+      "model": "jev-1.13.0"
+    },
+    {
+      "id": "d04ef21950c2a6cb",
+      "answers": {
+        "match": {
+          "type": "boolean",
+          "probability": 0.47
+        },
+        "activity": {
+          "type": "boolean",
+          "probability": 0.97
+        },
+        "ownership": {
+          "type": "choice",
+          "choice": "government",
+          "probabilities": {
+            "government": 0.83,
+            "nonprofit": 0,
+            "public_company": 0,
+            "private_company": 0,
+            "unknown": 0.17
+          },
+          "confidence": 0.78
+        }
+      },
+      "model": "jev-1.13.0"
+    },
+    {
+      "id": "20a62d58a45596fc",
+      "answers": {
+        "match": {
+          "type": "boolean",
+          "probability": 0.55
+        },
+        "activity": {
+          "type": "boolean",
+          "probability": 0.55
+        },
+        "ownership": {
+          "type": "choice",
+          "choice": "unknown",
+          "probabilities": {
+            "government": 0,
+            "nonprofit": 0.02,
+            "public_company": 0,
+            "private_company": 0,
+            "unknown": 0.98
+          },
+          "confidence": 0.97
+        }
+      },
+      "model": "jev-1.13.0"
+    },
+    {
+      "id": "8139c9e4a7d223c1",
+      "answers": {
+        "match": {
+          "type": "boolean",
+          "probability": 0.78
+        },
+        "activity": {
+          "type": "boolean",
+          "probability": 0.97
+        },
+        "ownership": {
+          "type": "choice",
+          "choice": "unknown",
+          "probabilities": {
+            "government": 0.32,
+            "nonprofit": 0.04,
+            "public_company": 0,
+            "private_company": 0,
+            "unknown": 0.64
+          },
+          "confidence": 0.55
+        }
+      },
+      "model": "jev-1.13.0"
+    },
+    {
+      "id": "12c28c53dd109774",
+      "answers": {
+        "match": {
+          "type": "boolean",
+          "probability": 0.9
+        },
+        "activity": {
+          "type": "boolean",
+          "probability": 0.97
+        },
+        "ownership": {
+          "type": "choice",
+          "choice": "unknown",
+          "probabilities": {
+            "government": 0.22,
+            "nonprofit": 0.05,
+            "public_company": 0,
+            "private_company": 0,
+            "unknown": 0.73
+          },
+          "confidence": 0.67
+        }
+      },
+      "model": "jev-1.13.0"
+    },
+    {
+      "id": "2e9ae76f4566b464",
+      "answers": {
+        "match": {
+          "type": "boolean",
+          "probability": 0.64
+        },
+        "activity": {
+          "type": "boolean",
+          "probability": 0.81
+        },
+        "ownership": {
+          "type": "choice",
+          "choice": "unknown",
+          "probabilities": {
+            "government": 0,
+            "nonprofit": 0,
+            "public_company": 0.12,
+            "private_company": 0.03,
+            "unknown": 0.85
+          },
+          "confidence": 0.82
+        }
+      },
+      "model": "jev-1.13.0"
+    },
+    {
+      "id": "7420ba4258ae1115",
+      "answers": {
+        "match": {
+          "type": "boolean",
+          "probability": 0.57
+        },
+        "activity": {
+          "type": "boolean",
+          "probability": 0.97
+        },
+        "ownership": {
+          "type": "choice",
+          "choice": "unknown",
+          "probabilities": {
+            "government": 0,
+            "nonprofit": 0.07,
+            "public_company": 0,
+            "private_company": 0.09,
+            "unknown": 0.84
+          },
+          "confidence": 0.79
+        }
+      },
+      "model": "jev-1.13.0"
+    },
+    {
+      "id": "50b4413aaa248c6a",
+      "answers": {
+        "match": {
+          "type": "boolean",
+          "probability": 0.93
+        },
+        "activity": {
+          "type": "boolean",
+          "probability": 0.98
+        },
+        "ownership": {
+          "type": "choice",
+          "choice": "government",
+          "probabilities": {
+            "government": 0.98,
+            "nonprofit": 0,
+            "public_company": 0,
+            "private_company": 0,
+            "unknown": 0.02
+          },
+          "confidence": 0.97
+        }
+      },
+      "model": "jev-1.13.0"
+    },
+    {
+      "id": "01a4a1d7053e6203",
+      "answers": {
+        "match": {
+          "type": "boolean",
+          "probability": 0.25
+        },
+        "activity": {
+          "type": "boolean",
+          "probability": 0.88
+        },
+        "ownership": {
+          "type": "choice",
+          "choice": "public_company",
+          "probabilities": {
+            "government": 0,
+            "nonprofit": 0,
+            "public_company": 0.86,
+            "private_company": 0,
+            "unknown": 0.14
+          },
+          "confidence": 0.83
+        }
+      },
+      "model": "jev-1.13.0"
+    },
+    {
+      "id": "f27d9e78af643e26",
+      "answers": {
+        "match": {
+          "type": "boolean",
+          "probability": 0.37
+        },
+        "activity": {
+          "type": "boolean",
+          "probability": 0.97
+        },
+        "ownership": {
+          "type": "choice",
+          "choice": "unknown",
+          "probabilities": {
+            "government": 0,
+            "nonprofit": 0,
+            "public_company": 0,
+            "private_company": 0.05,
+            "unknown": 0.95
+          },
+          "confidence": 0.93
+        }
+      },
+      "model": "jev-1.13.0"
+    },
+    {
+      "id": "0bdbd886919f8d4d",
+      "answers": {
+        "match": {
+          "type": "boolean",
+          "probability": 0.3
+        },
+        "activity": {
+          "type": "boolean",
+          "probability": 0.82
+        },
+        "ownership": {
+          "type": "choice",
+          "choice": "government",
+          "probabilities": {
+            "government": 0.99,
+            "nonprofit": 0,
+            "public_company": 0,
+            "private_company": 0,
+            "unknown": 0.01
+          },
+          "confidence": 0.98
+        }
+      },
+      "model": "jev-1.13.0"
+    },
+    {
+      "id": "0cb787497dd1b584",
+      "answers": {
+        "match": {
+          "type": "boolean",
+          "probability": 0.71
+        },
+        "activity": {
+          "type": "boolean",
+          "probability": 0.98
+        },
+        "ownership": {
+          "type": "choice",
+          "choice": "unknown",
+          "probabilities": {
+            "government": 0,
+            "nonprofit": 0,
+            "public_company": 0,
+            "private_company": 0.01,
+            "unknown": 0.99
+          },
+          "confidence": 0.98
+        }
+      },
+      "model": "jev-1.13.0"
+    },
+    {
+      "id": "c34cc1b890116c0e",
+      "answers": {
+        "match": {
+          "type": "boolean",
+          "probability": 0.86
+        },
+        "activity": {
+          "type": "boolean",
+          "probability": 0.98
+        },
+        "ownership": {
+          "type": "choice",
+          "choice": "unknown",
+          "probabilities": {
+            "government": 0,
+            "nonprofit": 0.05,
+            "public_company": 0,
+            "private_company": 0.02,
+            "unknown": 0.93
+          },
+          "confidence": 0.9
+        }
+      },
+      "model": "jev-1.13.0"
+    },
+    {
+      "id": "041b13c39f55f0b1",
+      "answers": {
+        "match": {
+          "type": "boolean",
+          "probability": 0.38
+        },
+        "activity": {
+          "type": "boolean",
+          "probability": 0.95
+        },
+        "ownership": {
+          "type": "choice",
+          "choice": "unknown",
+          "probabilities": {
+            "government": 0,
+            "nonprofit": 0,
+            "public_company": 0,
+            "private_company": 0.33,
+            "unknown": 0.67
+          },
+          "confidence": 0.59
+        }
+      },
+      "model": "jev-1.13.0"
+    },
+    {
+      "id": "74b48e7a2a2e7467",
+      "answers": {
+        "match": {
+          "type": "boolean",
+          "probability": 0.61
+        },
+        "activity": {
+          "type": "boolean",
+          "probability": 0.98
+        },
+        "ownership": {
+          "type": "choice",
+          "choice": "private_company",
+          "probabilities": {
+            "government": 0,
+            "nonprofit": 0,
+            "public_company": 0,
+            "private_company": 0.98,
+            "unknown": 0.02
+          },
+          "confidence": 0.97
+        }
+      },
+      "model": "jev-1.13.0"
+    },
+    {
+      "id": "10fb3867c325e135",
+      "answers": {
+        "match": {
+          "type": "boolean",
+          "probability": 0.74
+        },
+        "activity": {
+          "type": "boolean",
+          "probability": 0.98
+        },
+        "ownership": {
+          "type": "choice",
+          "choice": "unknown",
+          "probabilities": {
+            "government": 0,
+            "nonprofit": 0,
+            "public_company": 0,
+            "private_company": 0.02,
+            "unknown": 0.98
+          },
+          "confidence": 0.97
+        }
+      },
+      "model": "jev-1.13.0"
+    },
+    {
+      "id": "7d2213442954df43",
+      "answers": {
+        "match": {
+          "type": "boolean",
+          "probability": 0.85
+        },
+        "activity": {
+          "type": "boolean",
+          "probability": 0.95
+        },
+        "ownership": {
+          "type": "choice",
+          "choice": "unknown",
+          "probabilities": {
+            "government": 0.33,
+            "nonprofit": 0,
+            "public_company": 0,
+            "private_company": 0.33,
+            "unknown": 0.34
+          },
+          "confidence": 0.17
+        }
+      },
+      "model": "jev-1.13.0"
+    },
+    {
+      "id": "ced104cb716ac4f7",
+      "answers": {
+        "match": {
+          "type": "boolean",
+          "probability": 0.49
+        },
+        "activity": {
+          "type": "boolean",
+          "probability": 0.97
+        },
+        "ownership": {
+          "type": "choice",
+          "choice": "unknown",
+          "probabilities": {
+            "government": 0,
+            "nonprofit": 0.01,
+            "public_company": 0,
+            "private_company": 0.04,
+            "unknown": 0.95
+          },
+          "confidence": 0.94
+        }
+      },
+      "model": "jev-1.13.0"
+    },
+    {
+      "id": "0bffbd9497b322b9",
+      "answers": {
+        "match": {
+          "type": "boolean",
+          "probability": 0.9
+        },
+        "activity": {
+          "type": "boolean",
+          "probability": 0.96
+        },
+        "ownership": {
+          "type": "choice",
+          "choice": "government",
+          "probabilities": {
+            "government": 1,
+            "nonprofit": 0,
+            "public_company": 0,
+            "private_company": 0,
+            "unknown": 0
+          },
+          "confidence": 1
+        }
+      },
+      "model": "jev-1.13.0"
+    }
+  ],
+  "usage": {
+    "inputTokens": 34460
+  }
+}

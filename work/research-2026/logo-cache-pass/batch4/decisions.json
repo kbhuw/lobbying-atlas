@@ -1,0 +1,35 @@
+{
+  "accepted": [
+    0,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    9,
+    10,
+    11,
+    12,
+    15,
+    17,
+    18,
+    19,
+    21,
+    23
+  ],
+  "dark": [
+    15,
+    17,
+    19
+  ],
+  "deferred": {
+    "1": "Download failed",
+    "8": "Image says United Athletic Conference; relationship to Western Athletic Conference needs verification",
+    "13": "Hospital brand; foundation-specific use not yet verified",
+    "14": "Shared branding; Campaign legal-entity relationship needs verification",
+    "16": "Shared Tides group brand; exact entity use needs verification",
+    "20": "Shared CSPI brand; Action Fund use needs verification",
+    "22": "Community Medical Centers brand; exact operating-entity relationship needs verification"
+  }
+}

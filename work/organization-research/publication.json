@@ -1,0 +1,18 @@
+{
+  "status": "succeeded",
+  "url": "https://lobbying-atlas.kush581812.chatgpt.site/",
+  "commit": "9b4d872a8076a35a9416614646ce8fb43b02aefa",
+  "version": "appgprj_6a9b5690c32c8191a5efe6eb7ab19a84~appgver_7be66db0250881918f97caeface50e13",
+  "verified_live": true,
+  "research": {
+    "total": 76884,
+    "counts": {
+      "unresolved": 2,
+      "sourced": 15,
+      "pending": 75248,
+      "self_reported": 1619
+    },
+    "updated": "2026-09-05T03:51:51.187087+00:00",
+    "definition": "Sourced means a profile has been checked against linked sources; unresolved fields and historical identity questions may remain. Self-reported is not independently researched."
+  }
+}

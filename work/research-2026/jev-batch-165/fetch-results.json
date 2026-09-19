@@ -1,0 +1,1612 @@
+[
+  {
+    "id": "28336f820f36b4f8",
+    "name": "Avalon Action Alliance",
+    "requested_url": "https://avalonactionalliance.org/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "93d89917f4489cbc",
+    "name": "Scaled Atomics (formerly AvantTech)",
+    "requested_url": "https://www.scaledatomics.com/",
+    "status": 200,
+    "final_url": "https://www.scaledatomics.com/",
+    "text_chars": 2974,
+    "logo_candidates": [
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/69cbdb4ed232ee741fa189fe/69e25b0cf2d37d5af7f31700_Scaled%20Atomics%20White.svg",
+        "alt": "",
+        "class": "navbar_logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b7822586961d57f4ff2_Peregrine%20Turbine%20Technologies.png",
+        "alt": "",
+        "sizes": "100vw",
+        "srcset": "https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b7822586961d57f4ff2_Peregrine%20Turbine%20Technologies-p-500.png 500w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b7822586961d57f4ff2_Peregrine%20Turbine%20Technologies-p-800.png 800w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b7822586961d57f4ff2_Peregrine%20Turbine%20Technologies-p-1080.png 1080w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b7822586961d57f4ff2_Peregrine%20Turbine%20Technologies.png 1196w",
+        "class": "logo3_logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b37d2db546600df7bc8_download%20(1).png",
+        "alt": "",
+        "sizes": "100vw",
+        "srcset": "https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b37d2db546600df7bc8_download%20(1)-p-500.png 500w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b37d2db546600df7bc8_download%20(1)-p-800.png 800w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b37d2db546600df7bc8_download%20(1)-p-1080.png 1080w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b37d2db546600df7bc8_download%20(1)-p-1600.png 1600w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b37d2db546600df7bc8_download%20(1)-p-2000.png 2000w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b37d2db546600df7bc8_download%20(1)-p-2600.png 2600w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b37d2db546600df7bc8_download%20(1)-p-3200.png 3200w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b37d2db546600df7bc8_download%20(1).png 9553w",
+        "class": "logo3_logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b1d8a9d59a244fc459c_Army%20Future%20Command.png",
+        "alt": "",
+        "sizes": "100vw",
+        "srcset": "https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b1d8a9d59a244fc459c_Army%20Future%20Command-p-500.png 500w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b1d8a9d59a244fc459c_Army%20Future%20Command-p-800.png 800w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b1d8a9d59a244fc459c_Army%20Future%20Command-p-1080.png 1080w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b1d8a9d59a244fc459c_Army%20Future%20Command-p-1600.png 1600w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b1d8a9d59a244fc459c_Army%20Future%20Command.png 1902w",
+        "class": "logo3_logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cf1893900cbb3acc1b8851_Y-12.png",
+        "alt": "",
+        "class": "logo3_logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4af673efd5986b3df73a_Tennessee.png",
+        "alt": "",
+        "sizes": "100vw",
+        "srcset": "https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4af673efd5986b3df73a_Tennessee-p-500.png 500w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4af673efd5986b3df73a_Tennessee-p-800.png 800w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4af673efd5986b3df73a_Tennessee-p-1080.png 1080w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4af673efd5986b3df73a_Tennessee.png 1439w",
+        "class": "logo3_logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4ae62f809b6b2f4b1fd0_INL-logo.png",
+        "alt": "",
+        "sizes": "100vw",
+        "srcset": "https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4ae62f809b6b2f4b1fd0_INL-logo-p-500.png 500w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4ae62f809b6b2f4b1fd0_INL-logo-p-800.png 800w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4ae62f809b6b2f4b1fd0_INL-logo.png 2556w",
+        "class": "logo3_logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4adafaacb0b38069afd6_ornl.webp",
+        "alt": "",
+        "class": "logo3_logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b7822586961d57f4ff2_Peregrine%20Turbine%20Technologies.png",
+        "alt": "",
+        "sizes": "100vw",
+        "srcset": "https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b7822586961d57f4ff2_Peregrine%20Turbine%20Technologies-p-500.png 500w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b7822586961d57f4ff2_Peregrine%20Turbine%20Technologies-p-800.png 800w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b7822586961d57f4ff2_Peregrine%20Turbine%20Technologies-p-1080.png 1080w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b7822586961d57f4ff2_Peregrine%20Turbine%20Technologies.png 1196w",
+        "class": "logo3_logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b37d2db546600df7bc8_download%20(1).png",
+        "alt": "",
+        "sizes": "100vw",
+        "srcset": "https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b37d2db546600df7bc8_download%20(1)-p-500.png 500w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b37d2db546600df7bc8_download%20(1)-p-800.png 800w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b37d2db546600df7bc8_download%20(1)-p-1080.png 1080w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b37d2db546600df7bc8_download%20(1)-p-1600.png 1600w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b37d2db546600df7bc8_download%20(1)-p-2000.png 2000w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b37d2db546600df7bc8_download%20(1)-p-2600.png 2600w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b37d2db546600df7bc8_download%20(1)-p-3200.png 3200w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b37d2db546600df7bc8_download%20(1).png 9553w",
+        "class": "logo3_logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b1d8a9d59a244fc459c_Army%20Future%20Command.png",
+        "alt": "",
+        "sizes": "100vw",
+        "srcset": "https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b1d8a9d59a244fc459c_Army%20Future%20Command-p-500.png 500w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b1d8a9d59a244fc459c_Army%20Future%20Command-p-800.png 800w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b1d8a9d59a244fc459c_Army%20Future%20Command-p-1080.png 1080w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b1d8a9d59a244fc459c_Army%20Future%20Command-p-1600.png 1600w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b1d8a9d59a244fc459c_Army%20Future%20Command.png 1902w",
+        "class": "logo3_logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cf1893900cbb3acc1b8851_Y-12.png",
+        "alt": "",
+        "class": "logo3_logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4af673efd5986b3df73a_Tennessee.png",
+        "alt": "",
+        "sizes": "100vw",
+        "srcset": "https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4af673efd5986b3df73a_Tennessee-p-500.png 500w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4af673efd5986b3df73a_Tennessee-p-800.png 800w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4af673efd5986b3df73a_Tennessee-p-1080.png 1080w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4af673efd5986b3df73a_Tennessee.png 1439w",
+        "class": "logo3_logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4ae62f809b6b2f4b1fd0_INL-logo.png",
+        "alt": "",
+        "sizes": "100vw",
+        "srcset": "https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4ae62f809b6b2f4b1fd0_INL-logo-p-500.png 500w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4ae62f809b6b2f4b1fd0_INL-logo-p-800.png 800w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4ae62f809b6b2f4b1fd0_INL-logo.png 2556w",
+        "class": "logo3_logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4adafaacb0b38069afd6_ornl.webp",
+        "alt": "",
+        "class": "logo3_logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b7822586961d57f4ff2_Peregrine%20Turbine%20Technologies.png",
+        "alt": "",
+        "sizes": "100vw",
+        "srcset": "https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b7822586961d57f4ff2_Peregrine%20Turbine%20Technologies-p-500.png 500w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b7822586961d57f4ff2_Peregrine%20Turbine%20Technologies-p-800.png 800w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b7822586961d57f4ff2_Peregrine%20Turbine%20Technologies-p-1080.png 1080w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b7822586961d57f4ff2_Peregrine%20Turbine%20Technologies.png 1196w",
+        "class": "logo3_logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b37d2db546600df7bc8_download%20(1).png",
+        "alt": "",
+        "sizes": "100vw",
+        "srcset": "https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b37d2db546600df7bc8_download%20(1)-p-500.png 500w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b37d2db546600df7bc8_download%20(1)-p-800.png 800w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b37d2db546600df7bc8_download%20(1)-p-1080.png 1080w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b37d2db546600df7bc8_download%20(1)-p-1600.png 1600w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b37d2db546600df7bc8_download%20(1)-p-2000.png 2000w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b37d2db546600df7bc8_download%20(1)-p-2600.png 2600w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b37d2db546600df7bc8_download%20(1)-p-3200.png 3200w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b37d2db546600df7bc8_download%20(1).png 9553w",
+        "class": "logo3_logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b1d8a9d59a244fc459c_Army%20Future%20Command.png",
+        "alt": "",
+        "sizes": "100vw",
+        "srcset": "https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b1d8a9d59a244fc459c_Army%20Future%20Command-p-500.png 500w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b1d8a9d59a244fc459c_Army%20Future%20Command-p-800.png 800w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b1d8a9d59a244fc459c_Army%20Future%20Command-p-1080.png 1080w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b1d8a9d59a244fc459c_Army%20Future%20Command-p-1600.png 1600w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4b1d8a9d59a244fc459c_Army%20Future%20Command.png 1902w",
+        "class": "logo3_logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cf1893900cbb3acc1b8851_Y-12.png",
+        "alt": "",
+        "class": "logo3_logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4af673efd5986b3df73a_Tennessee.png",
+        "alt": "",
+        "sizes": "100vw",
+        "srcset": "https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4af673efd5986b3df73a_Tennessee-p-500.png 500w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4af673efd5986b3df73a_Tennessee-p-800.png 800w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4af673efd5986b3df73a_Tennessee-p-1080.png 1080w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4af673efd5986b3df73a_Tennessee.png 1439w",
+        "class": "logo3_logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4ae62f809b6b2f4b1fd0_INL-logo.png",
+        "alt": "",
+        "sizes": "100vw",
+        "srcset": "https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4ae62f809b6b2f4b1fd0_INL-logo-p-500.png 500w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4ae62f809b6b2f4b1fd0_INL-logo-p-800.png 800w, https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4ae62f809b6b2f4b1fd0_INL-logo.png 2556w",
+        "class": "logo3_logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/69cbdb4ed232ee741fa18a18/69cd4adafaacb0b38069afd6_ornl.webp",
+        "alt": "",
+        "class": "logo3_logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/69cbdb4ed232ee741fa189fe/69e25b0cf2d37d5af7f31700_Scaled%20Atomics%20White.svg",
+        "alt": "",
+        "class": "footer_logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-165/93d89917f4489cbc.txt"
+  },
+  {
+    "id": "2f736509baa1bb75",
+    "name": "Avara Pharmaceuticals Inc.",
+    "requested_url": "https://www.avara.com/",
+    "status": 200,
+    "final_url": "https://www.avara.com/",
+    "text_chars": 6325,
+    "logo_candidates": [
+      {
+        "elementtiming": "nbf-header-logo-mobile",
+        "src": "//images.squarespace-cdn.com/content/v1/61a4f9433147f1620cd39114/baeb6bb4-da0d-4824-80f6-e6fb632b3bce/avara_header_logo_small.png?format=1500w",
+        "alt": "Avara | Pharmaceutical Contract Manufacturing Company",
+        "style": "display:block",
+        "fetchpriority": "high",
+        "loading": "eager",
+        "decoding": "async",
+        "data-loader": "raw"
+      },
+      {
+        "elementtiming": "nbf-header-logo-mobile",
+        "src": "//images.squarespace-cdn.com/content/v1/61a4f9433147f1620cd39114/baeb6bb4-da0d-4824-80f6-e6fb632b3bce/avara_header_logo_small.png?format=1500w",
+        "alt": "Avara | Pharmaceutical Contract Manufacturing Company",
+        "style": "display:block",
+        "fetchpriority": "high",
+        "loading": "eager",
+        "decoding": "async",
+        "data-loader": "raw"
+      },
+      {
+        "data-stretch": "false",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/61a4f9433147f1620cd39114/52f4b0dc-5d92-4404-b0cf-63aca41be406/avara_logo+blur.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/61a4f9433147f1620cd39114/52f4b0dc-5d92-4404-b0cf-63aca41be406/avara_logo+blur.png",
+        "data-image-dimensions": "1198x398",
+        "data-image-focal-point": "0.5,0.5",
+        "data-sqsp-image-block-image": null,
+        "alt": "",
+        "data-licensed-asset-preview": "false",
+        "data-load": "false",
+        "elementtiming": "system-image-block",
+        "src": "https://images.squarespace-cdn.com/content/v1/61a4f9433147f1620cd39114/52f4b0dc-5d92-4404-b0cf-63aca41be406/avara_logo+blur.png",
+        "width": "1198",
+        "height": "398",
+        "sizes": "auto, (max-width: 640px) 100.00vw, (max-width: 767px) 100.00vw, 33.33vw",
+        "style": "display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);",
+        "srcset": "https://images.squarespace-cdn.com/content/v1/61a4f9433147f1620cd39114/52f4b0dc-5d92-4404-b0cf-63aca41be406/avara_logo+blur.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/61a4f9433147f1620cd39114/52f4b0dc-5d92-4404-b0cf-63aca41be406/avara_logo+blur.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/61a4f9433147f1620cd39114/52f4b0dc-5d92-4404-b0cf-63aca41be406/avara_logo+blur.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/61a4f9433147f1620cd39114/52f4b0dc-5d92-4404-b0cf-63aca41be406/avara_logo+blur.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/61a4f9433147f1620cd39114/52f4b0dc-5d92-4404-b0cf-63aca41be406/avara_logo+blur.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/61a4f9433147f1620cd39114/52f4b0dc-5d92-4404-b0cf-63aca41be406/avara_logo+blur.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/61a4f9433147f1620cd39114/52f4b0dc-5d92-4404-b0cf-63aca41be406/avara_logo+blur.png?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs",
+        "data-image-component": "1.0.1"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-165/2f736509baa1bb75.txt"
+  },
+  {
+    "id": "a7ff1f8510217347",
+    "name": "Avathon, Inc.",
+    "requested_url": "https://avathon.com/",
+    "status": 200,
+    "final_url": "https://avathon.com/",
+    "text_chars": 6235,
+    "logo_candidates": [
+      {
+        "src": "/brand/avathon-logo-white.png",
+        "alt": "Avathon",
+        "width": "138",
+        "height": "24"
+      },
+      {
+        "class": "QuoteWall-module__kloTqa__logo",
+        "src": "https://cdn.sanity.io/images/5loechoj/production/de9c54cf7232d32dad11713cedf49f1eac597074-220x46.png?w=264&q=92&auto=format&fit=max",
+        "alt": "",
+        "aria-hidden": "true",
+        "decoding": "async"
+      },
+      {
+        "class": "QuoteWall-module__kloTqa__logo",
+        "src": "https://cdn.sanity.io/images/5loechoj/production/fd03d2aac5b9ae8592f416742b4500ed862c1342-220x36.png?w=264&q=92&auto=format&fit=max",
+        "alt": "",
+        "aria-hidden": "true",
+        "decoding": "async"
+      },
+      {
+        "class": "QuoteWall-module__kloTqa__logo",
+        "src": "https://cdn.sanity.io/images/5loechoj/production/38c49ea51d3a8d9e56a70152886784d93085ab67-204x56.png?w=264&q=92&auto=format&fit=max",
+        "alt": "",
+        "aria-hidden": "true",
+        "decoding": "async"
+      },
+      {
+        "class": "QuoteWall-module__kloTqa__logo",
+        "src": "https://cdn.sanity.io/images/5loechoj/production/e5c1e73b9f2a83893052afefbe52a1ba59d873a4-220x42.png?w=264&q=92&auto=format&fit=max",
+        "alt": "",
+        "aria-hidden": "true",
+        "decoding": "async"
+      },
+      {
+        "class": "QuoteWall-module__kloTqa__logo",
+        "src": "https://cdn.sanity.io/images/5loechoj/production/3167083645724810d6d681cff827045d892ca97c-220x41.png?w=264&q=92&auto=format&fit=max",
+        "alt": "",
+        "aria-hidden": "true",
+        "decoding": "async"
+      },
+      {
+        "class": "QuoteWall-module__kloTqa__logo",
+        "src": "https://cdn.sanity.io/images/5loechoj/production/de9c54cf7232d32dad11713cedf49f1eac597074-220x46.png?w=264&q=92&auto=format&fit=max",
+        "alt": "",
+        "aria-hidden": "true",
+        "decoding": "async"
+      },
+      {
+        "class": "QuoteWall-module__kloTqa__logo",
+        "src": "https://cdn.sanity.io/images/5loechoj/production/fd03d2aac5b9ae8592f416742b4500ed862c1342-220x36.png?w=264&q=92&auto=format&fit=max",
+        "alt": "",
+        "aria-hidden": "true",
+        "decoding": "async"
+      },
+      {
+        "class": "QuoteWall-module__kloTqa__logo",
+        "src": "https://cdn.sanity.io/images/5loechoj/production/38c49ea51d3a8d9e56a70152886784d93085ab67-204x56.png?w=264&q=92&auto=format&fit=max",
+        "alt": "",
+        "aria-hidden": "true",
+        "decoding": "async"
+      },
+      {
+        "class": "QuoteWall-module__kloTqa__logo",
+        "src": "https://cdn.sanity.io/images/5loechoj/production/e5c1e73b9f2a83893052afefbe52a1ba59d873a4-220x42.png?w=264&q=92&auto=format&fit=max",
+        "alt": "",
+        "aria-hidden": "true",
+        "decoding": "async"
+      },
+      {
+        "class": "QuoteWall-module__kloTqa__logo",
+        "src": "https://cdn.sanity.io/images/5loechoj/production/3167083645724810d6d681cff827045d892ca97c-220x41.png?w=264&q=92&auto=format&fit=max",
+        "alt": "",
+        "aria-hidden": "true",
+        "decoding": "async"
+      },
+      {
+        "class": "QuoteWall-module__kloTqa__logo",
+        "src": "https://cdn.sanity.io/images/5loechoj/production/de9c54cf7232d32dad11713cedf49f1eac597074-220x46.png?w=264&q=92&auto=format&fit=max",
+        "alt": "",
+        "aria-hidden": "true",
+        "decoding": "async"
+      },
+      {
+        "class": "QuoteWall-module__kloTqa__logo",
+        "src": "https://cdn.sanity.io/images/5loechoj/production/fd03d2aac5b9ae8592f416742b4500ed862c1342-220x36.png?w=264&q=92&auto=format&fit=max",
+        "alt": "",
+        "aria-hidden": "true",
+        "decoding": "async"
+      },
+      {
+        "class": "QuoteWall-module__kloTqa__logo",
+        "src": "https://cdn.sanity.io/images/5loechoj/production/38c49ea51d3a8d9e56a70152886784d93085ab67-204x56.png?w=264&q=92&auto=format&fit=max",
+        "alt": "",
+        "aria-hidden": "true",
+        "decoding": "async"
+      },
+      {
+        "class": "QuoteWall-module__kloTqa__logo",
+        "src": "https://cdn.sanity.io/images/5loechoj/production/e5c1e73b9f2a83893052afefbe52a1ba59d873a4-220x42.png?w=264&q=92&auto=format&fit=max",
+        "alt": "",
+        "aria-hidden": "true",
+        "decoding": "async"
+      },
+      {
+        "class": "QuoteWall-module__kloTqa__logo",
+        "src": "https://cdn.sanity.io/images/5loechoj/production/3167083645724810d6d681cff827045d892ca97c-220x41.png?w=264&q=92&auto=format&fit=max",
+        "alt": "",
+        "aria-hidden": "true",
+        "decoding": "async"
+      },
+      {
+        "src": "/brand/avathon-logo-white.png",
+        "alt": "Avathon",
+        "width": "132",
+        "height": "26"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-165/a7ff1f8510217347.txt"
+  },
+  {
+    "id": "9692574a19e9033c",
+    "name": "Avaya Government Solutions",
+    "requested_url": "https://www.avaya.com/en/solutions/government/",
+    "status": 200,
+    "final_url": "https://www.avaya.com/en/solutions/government/",
+    "text_chars": 21851,
+    "logo_candidates": [
+      {
+        "src": "/content/dam/aem-avaya-portal/de_de/about-avaya/newsroom-press-kit/avaya_red_logo_600x300.jpg",
+        "alt": "Home"
+      },
+      {
+        "src": "/content/experience-fragments/aem-avaya-portal/locale-sites/en_us/site/footer/master/_jcr_content/root/column_container/item_1749207819737/image.coreimg.svg/1785782311916/avaya-logored.svg",
+        "loading": "lazy",
+        "class": "cmp-image__image",
+        "itemprop": "contentUrl",
+        "width": "153",
+        "height": "49",
+        "alt": "Avaya"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-165/9692574a19e9033c.txt"
+  },
+  {
+    "id": "e40f62915c2e33d2",
+    "name": "Aventiv Technologies LLC And Various Subsidiaries",
+    "requested_url": "https://www.aventiv.com/",
+    "status": 200,
+    "final_url": "https://www.aventiv.com/",
+    "text_chars": 4527,
+    "logo_candidates": [
+      {
+        "src": "https://res.cloudinary.com/aventiv/image/upload/Aventiv_Logo_Lime_dflaiv",
+        "alt": "aventiv.com Logo",
+        "width": "128",
+        "height": "38",
+        "class": "w-auto h-auto ",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://res.cloudinary.com/aventiv/image/upload/Aventiv_Logo_Lime_dflaiv",
+        "alt": "aventiv.com Logo",
+        "width": "200",
+        "height": "60",
+        "class": "w-auto h-auto ",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://res.cloudinary.com/aventiv/image/upload/Aventiv_Logo_Lime_dflaiv",
+        "alt": "aventiv.com Logo",
+        "width": "128",
+        "height": "38",
+        "class": "w-auto h-auto ",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://res.cloudinary.com/aventiv/image/upload/Aventiv_Logo_Lime_dflaiv",
+        "alt": "aventiv.com Logo",
+        "width": "200",
+        "height": "60",
+        "class": "w-auto h-auto ",
+        "loading": "lazy"
+      },
+      {
+        "alt": "aventiv logo",
+        "loading": "lazy",
+        "width": "200",
+        "height": "48",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "w-auto h-auto text-transparent max-w-full max-h-full object-contain",
+        "style": "color:transparent",
+        "sizes": "100vw",
+        "srcset": "/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Faventiv%2Fimage%2Fupload%2Fav-logo-grn-rgb_5_g8rbuf&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Faventiv%2Fimage%2Fupload%2Fav-logo-grn-rgb_5_g8rbuf&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Faventiv%2Fimage%2Fupload%2Fav-logo-grn-rgb_5_g8rbuf&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Faventiv%2Fimage%2Fupload%2Fav-logo-grn-rgb_5_g8rbuf&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Faventiv%2Fimage%2Fupload%2Fav-logo-grn-rgb_5_g8rbuf&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Faventiv%2Fimage%2Fupload%2Fav-logo-grn-rgb_5_g8rbuf&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Faventiv%2Fimage%2Fupload%2Fav-logo-grn-rgb_5_g8rbuf&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Faventiv%2Fimage%2Fupload%2Fav-logo-grn-rgb_5_g8rbuf&w=3840&q=75 3840w",
+        "src": "/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Faventiv%2Fimage%2Fupload%2Fav-logo-grn-rgb_5_g8rbuf&w=3840&q=75"
+      },
+      {
+        "alt": "securus technologies logo",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-nimg": "fill",
+        "class": "object-contain text-transparent max-w-full max-h-full object-contain",
+        "style": "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent",
+        "src": "https://res.cloudinary.com/aventiv/image/upload/v1762797377/Securus_Tech_Logo_lshshg.svg"
+      },
+      {
+        "alt": "Securus Monitoring Logo",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-nimg": "fill",
+        "class": "object-contain text-transparent max-w-full max-h-full object-contain",
+        "style": "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent",
+        "src": "https://res.cloudinary.com/aventiv/image/upload/v1762797377/Securus_Monitoring_Logo_tavsrt.svg"
+      },
+      {
+        "alt": "Jpay Logo",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-nimg": "fill",
+        "class": "object-contain text-transparent max-w-full max-h-full object-contain",
+        "style": "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent",
+        "src": "https://res.cloudinary.com/aventiv/image/upload/v1762797377/JPay_Logo_zxdiqt.svg"
+      },
+      {
+        "alt": "aventiv logo",
+        "loading": "lazy",
+        "width": "200",
+        "height": "48",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "w-auto h-auto text-transparent max-w-full max-h-full object-contain",
+        "style": "color:transparent",
+        "sizes": "100vw",
+        "srcset": "/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Faventiv%2Fimage%2Fupload%2Fav-logo-grn-rgb_5_g8rbuf&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Faventiv%2Fimage%2Fupload%2Fav-logo-grn-rgb_5_g8rbuf&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Faventiv%2Fimage%2Fupload%2Fav-logo-grn-rgb_5_g8rbuf&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Faventiv%2Fimage%2Fupload%2Fav-logo-grn-rgb_5_g8rbuf&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Faventiv%2Fimage%2Fupload%2Fav-logo-grn-rgb_5_g8rbuf&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Faventiv%2Fimage%2Fupload%2Fav-logo-grn-rgb_5_g8rbuf&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Faventiv%2Fimage%2Fupload%2Fav-logo-grn-rgb_5_g8rbuf&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Faventiv%2Fimage%2Fupload%2Fav-logo-grn-rgb_5_g8rbuf&w=3840&q=75 3840w",
+        "src": "/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Faventiv%2Fimage%2Fupload%2Fav-logo-grn-rgb_5_g8rbuf&w=3840&q=75"
+      },
+      {
+        "alt": "securus technologies logo",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-nimg": "fill",
+        "class": "object-contain text-transparent max-w-full max-h-full object-contain",
+        "style": "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent",
+        "src": "https://res.cloudinary.com/aventiv/image/upload/v1762797377/Securus_Tech_Logo_lshshg.svg"
+      },
+      {
+        "alt": "Securus Monitoring Logo",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-nimg": "fill",
+        "class": "object-contain text-transparent max-w-full max-h-full object-contain",
+        "style": "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent",
+        "src": "https://res.cloudinary.com/aventiv/image/upload/v1762797377/Securus_Monitoring_Logo_tavsrt.svg"
+      },
+      {
+        "alt": "Jpay Logo",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-nimg": "fill",
+        "class": "object-contain text-transparent max-w-full max-h-full object-contain",
+        "style": "position:absolute;height:100%;width:100%;left:0;top:0;right:0;bottom:0;color:transparent",
+        "src": "https://res.cloudinary.com/aventiv/image/upload/v1762797377/JPay_Logo_zxdiqt.svg"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-165/e40f62915c2e33d2.txt"
+  },
+  {
+    "id": "f725b5f2f2e97a3d",
+    "name": "Avidity Biosciences, Inc.",
+    "requested_url": "https://www.novartis.com/",
+    "status": 200,
+    "final_url": "https://www.novartis.com/",
+    "text_chars": 9943,
+    "logo_candidates": [
+      {
+        "src": "/themes/custom/cosmos/logo.svg",
+        "alt": "Novartis",
+        "title": "Home",
+        "class": "img-fluid novartis-logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-165/f725b5f2f2e97a3d.txt"
+  },
+  {
+    "id": "28365a106924bbab",
+    "name": "Avio USA",
+    "requested_url": "https://www.avio.com/",
+    "status": 200,
+    "final_url": "https://www.avio.com/",
+    "text_chars": 5755,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-165/28365a106924bbab.txt"
+  },
+  {
+    "id": "0a34805f69b5cca7",
+    "name": "Avon Protection Systems Inc",
+    "requested_url": "https://www.avon-protection.com/",
+    "status": 200,
+    "final_url": "https://www.avon-protection.com/",
+    "text_chars": 11782,
+    "logo_candidates": [
+      {
+        "src": "/media/tlqhvqhq/avon-plus-white-logo-copy.png?rmode=max&width=268&height=46",
+        "alt": "AVONPLUS",
+        "width": "268",
+        "height": "46"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-165/0a34805f69b5cca7.txt"
+  },
+  {
+    "id": "3c7d878b2d877d9c",
+    "name": "Avports LLC",
+    "requested_url": "https://avports.com/",
+    "status": 200,
+    "final_url": "https://avports.com/",
+    "text_chars": 2302,
+    "logo_candidates": [
+      {
+        "src": "https://avports.com/wp-content/themes/avp/assets/images/AVP-Logo_White.svg",
+        "alt": "",
+        "class": "AVP-Logo_White"
+      },
+      {
+        "src": "https://avports.com/wp-content/uploads/2025/03/AVP-Logo_White.svg",
+        "alt": "Logo"
+      },
+      {
+        "src": "https://avports.com/wp-content/uploads/2025/03/AVP-Logo_Black.svg",
+        "alt": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-165/3c7d878b2d877d9c.txt"
+  },
+  {
+    "id": "da72a21db0cd52da",
+    "name": "AWS Public Policy, Americas",
+    "requested_url": "https://aws.amazon.com/about-aws/",
+    "status": 200,
+    "final_url": "https://aws.amazon.com/about-aws/",
+    "text_chars": 8568,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-165/da72a21db0cd52da.txt"
+  },
+  {
+    "id": "2cd97ff58ac43b68",
+    "name": "Kta-tator, Inc. (via AxAdvocacy)",
+    "requested_url": "https://kta.com/",
+    "status": 200,
+    "final_url": "https://kta.com/",
+    "text_chars": 7037,
+    "logo_candidates": [
+      {
+        "width": "185",
+        "height": "93",
+        "src": "https://kta.com/wp-content/uploads/2023/09/KTA-Logo-Transparent-185x93.png",
+        "class": "custom-logo",
+        "alt": "KTA logo",
+        "decoding": "async",
+        "srcset": "https://kta.com/wp-content/uploads/2023/09/KTA-Logo-Transparent.png 1x, https://kta.com/wp-content/uploads/2023/09/KTA-Logo-Transparent.png 2x",
+        "sizes": "(max-width: 185px) 100vw, 185px"
+      },
+      {
+        "width": "185",
+        "height": "93",
+        "src": "https://kta.com/wp-content/uploads/2023/09/KTA-Logo-Transparent-185x93.png",
+        "class": "custom-logo",
+        "alt": "KTA logo",
+        "decoding": "async",
+        "srcset": "https://kta.com/wp-content/uploads/2023/09/KTA-Logo-Transparent.png 1x, https://kta.com/wp-content/uploads/2023/09/KTA-Logo-Transparent.png 2x",
+        "sizes": "(max-width: 185px) 100vw, 185px"
+      },
+      {
+        "decoding": "async",
+        "src": "https://kta.com/wp-content/uploads/2025/01/AMPP_QPLogo_QP5-1024x914.png",
+        "alt": "",
+        "class": "uag-image-90208",
+        "width": "100",
+        "height": "89",
+        "title": "AMPP_QPLogo_QP5",
+        "role": "img"
+      },
+      {
+        "decoding": "async",
+        "src": "https://kta.com/wp-content/uploads/2024/08/KTA-Gage-Rectangle-Logo-Transparent-1024x315.png",
+        "alt": "",
+        "class": "uag-image-88268",
+        "width": "1024",
+        "height": "315",
+        "title": "KTA Gage Rectangle Logo (Transparent)",
+        "loading": "lazy",
+        "role": "img"
+      },
+      {
+        "decoding": "async",
+        "src": "https://kta.com/wp-content/uploads/2024/01/Marathon_Petroleum-Logo.wine_-150x150.png",
+        "alt": "",
+        "width": "48",
+        "height": "48",
+        "loading": "lazy"
+      },
+      {
+        "decoding": "async",
+        "src": "https://kta.com/wp-content/uploads/2024/08/American-Bridge-Logo-150x150.jpg",
+        "alt": "",
+        "width": "48",
+        "height": "48",
+        "loading": "lazy"
+      },
+      {
+        "decoding": "async",
+        "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%2048%2048'%3E%3C/svg%3E",
+        "alt": "Equitrans Midtream Logo",
+        "width": "48",
+        "height": "48",
+        "data-lazy-src": "https://kta.com/wp-content/uploads/2024/01/Untitled-3-3-1-150x150.png"
+      },
+      {
+        "decoding": "async",
+        "src": "https://kta.com/wp-content/uploads/2024/01/Untitled-3-3-1-150x150.png",
+        "alt": "Equitrans Midtream Logo",
+        "width": "48",
+        "height": "48",
+        "loading": "lazy"
+      },
+      {
+        "decoding": "async",
+        "width": "1024",
+        "height": "513",
+        "src": "https://kta.com/wp-content/uploads/2023/09/KTA-Logo-Large-1024x513.png",
+        "alt": "",
+        "class": "wp-image-86599",
+        "srcset": "https://kta.com/wp-content/uploads/2023/09/KTA-Logo-Large-1024x513.png 1024w, https://kta.com/wp-content/uploads/2023/09/KTA-Logo-Large-300x150.png 300w, https://kta.com/wp-content/uploads/2023/09/KTA-Logo-Large-768x384.png 768w, https://kta.com/wp-content/uploads/2023/09/KTA-Logo-Large-1536x769.png 1536w, https://kta.com/wp-content/uploads/2023/09/KTA-Logo-Large-2048x1025.png 2048w, https://kta.com/wp-content/uploads/2023/09/elementor/thumbs/KTA-Logo-Large-qcer7j9rwaiqsreq6i7rw0wd1642h3d2ms9pitxzag.png 200w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-165/2cd97ff58ac43b68.txt"
+  },
+  {
+    "id": "e630c2da9e492a39",
+    "name": "Main Line Health (via AxAdvocacy)",
+    "requested_url": "https://www.mainlinehealth.org/",
+    "status": 200,
+    "final_url": "https://www.mainlinehealth.org/",
+    "text_chars": 8210,
+    "logo_candidates": [
+      {
+        "src": "/assets/theme3/assets/img/logo-mlh.svg",
+        "alt": "Main Line Health",
+        "width": "310",
+        "height": "35"
+      },
+      {
+        "class": "logo-well-ahead",
+        "alt": "well ahead logo",
+        "src": "/-/media/images/blog/well-ahead.png",
+        "width": "270",
+        "height": "48",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/theme3/assets/img/logo-mlh-inverse.svg",
+        "alt": "Main Line Health",
+        "width": "310",
+        "height": "35"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-165/e630c2da9e492a39.txt"
+  },
+  {
+    "id": "ab83eeaf2ab6c15f",
+    "name": "Phantom Neuro (via AxAdvocacy)",
+    "requested_url": "https://www.phantomneuro.com/",
+    "error": "HTTP Error 308: Permanent Redirect"
+  },
+  {
+    "id": "c5925e4f3621a62c",
+    "name": "Strata Critical (via AxAdvocacy)",
+    "requested_url": "https://stratacritical.com/",
+    "status": 200,
+    "final_url": "https://stratacritical.com/",
+    "text_chars": 6566,
+    "logo_candidates": [
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/688d0aef3e779c81e23e0bc2/6a87113c884c3b7e0dfc3607_Frame%204.svg",
+        "alt": "company logo  of strata medical solutions ",
+        "class": "uui-logo_logotype-2 dark"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/688d0aef3e779c81e23e0bc2/6a1b40fe8b7d2d08a1652b38_Frame%204.png",
+        "alt": "company logo  of strata medical solutions ",
+        "class": "uui-logo_logotype-2 light w-variant-69c431be-52f6-af95-7379-d88ed48b5aed"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/688d0aef3e779c81e23e0bc2/6a1a3efba75f99c148878169_image%209.png",
+        "loading": "lazy",
+        "width": "92",
+        "alt": "NYU Langone Health logo in white text with circular design elements",
+        "class": "slide-img"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/688d0aef3e779c81e23e0bc2/6a1a3efba75f99c148878169_image%209.png",
+        "loading": "lazy",
+        "width": "92",
+        "alt": "NYU Langone Health logo",
+        "class": "slide-img"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/688d0aef3e779c81e23e0bc2/6a1a3efba75f99c148878169_image%209.png",
+        "loading": "lazy",
+        "width": "92",
+        "alt": "NYU Langone Health logo",
+        "class": "slide-img"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/688d0aef3e779c81e23e0bc2/6a1a3efba75f99c148878169_image%209.png",
+        "loading": "lazy",
+        "width": "92",
+        "alt": "NYU Langone Health logo",
+        "class": "slide-img"
+      },
+      {
+        "width": "333",
+        "sizes": "(max-width: 479px) 100vw, 333px",
+        "alt": "company logo  of strata medical solutions ",
+        "src": "https://cdn.prod.website-files.com/688d0aef3e779c81e23e0bc2/6a1ba2655fed8844a91d924a_Frame%204.png",
+        "loading": "lazy",
+        "srcset": "https://cdn.prod.website-files.com/688d0aef3e779c81e23e0bc2/6a1ba2655fed8844a91d924a_Frame%204-p-500.png 500w, https://cdn.prod.website-files.com/688d0aef3e779c81e23e0bc2/6a1ba2655fed8844a91d924a_Frame%204.png 666w",
+        "class": "footer-logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-165/c5925e4f3621a62c.txt"
+  },
+  {
+    "id": "5d899b449df1c5e1",
+    "name": "El Paso Chamber of Commerce (via AxAdvocacy)",
+    "requested_url": "https://www.elpaso.org/",
+    "status": 200,
+    "final_url": "https://www.elpaso.org/",
+    "text_chars": 3870,
+    "logo_candidates": [
+      {
+        "decoding": "async",
+        "class": "fl-photo-img wp-image-58198 size-full",
+        "src": "https://growthzonecmsprodeastus.azureedge.net/sites/1642/2017/09/EPC-Logo2025.png",
+        "alt": "EPC Logo2025",
+        "itemprop": "image",
+        "height": "467",
+        "width": "1696",
+        "title": "EPC Logo2025",
+        "data-no-lazy": "1",
+        "srcset": "https://www.elpaso.org/wp-content/uploads/sites/1642/2017/09/EPC-Logo2025.png 1696w, https://www.elpaso.org/wp-content/uploads/sites/1642/2017/09/EPC-Logo2025-300x83.png 300w, https://www.elpaso.org/wp-content/uploads/sites/1642/2017/09/EPC-Logo2025-1024x282.png 1024w, https://www.elpaso.org/wp-content/uploads/sites/1642/2017/09/EPC-Logo2025-768x211.png 768w, https://www.elpaso.org/wp-content/uploads/sites/1642/2017/09/EPC-Logo2025-1536x423.png 1536w",
+        "sizes": "(max-width: 1696px) 100vw, 1696px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-165/5d899b449df1c5e1.txt"
+  },
+  {
+    "id": "689df4db69ee7e81",
+    "name": "NET Lease Capital (via AxAdvocacy)",
+    "requested_url": "https://www.netleasecapital.com/",
+    "status": 200,
+    "final_url": "https://www.netleasecapital.com/",
+    "text_chars": 1857,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-165/689df4db69ee7e81.txt"
+  },
+  {
+    "id": "11e2ee48bf922858",
+    "name": "Axinn, Veltrop & Harkrider LLP",
+    "requested_url": "https://www.axinn.com/",
+    "status": 200,
+    "final_url": "https://www.axinn.com/en",
+    "text_chars": 19315,
+    "logo_candidates": [
+      {
+        "alt": "Axinn LLP",
+        "src": "/images/build/logo_7dd08f84.svg",
+        "class": "d-block"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-165/11e2ee48bf922858.txt"
+  },
+  {
+    "id": "ba4fc5f5499a5c6e",
+    "name": "Bradyplus (via Axinn)",
+    "requested_url": "https://bradyplus.com/",
+    "status": 200,
+    "final_url": "https://www.bradyplus.com/",
+    "text_chars": 6670,
+    "logo_candidates": [
+      {
+        "src": "https://www.bradyplus.com/hs-fs/hubfs/BP_2024/BradyPLUS_Logo_Primary_REV-OR_CMYK.png?width=236&height=50&name=BradyPLUS_Logo_Primary_REV-OR_CMYK.png",
+        "class": "hs-image-widget ",
+        "height": "50",
+        "style": "height: auto;width:236px;border-width:0px;border:0px;",
+        "width": "236",
+        "alt": "BradyPLUS logo with orange accent",
+        "title": "BradyPLUS logo with orange accent",
+        "loading": "",
+        "srcset": "https://www.bradyplus.com/hs-fs/hubfs/BP_2024/BradyPLUS_Logo_Primary_REV-OR_CMYK.png?width=118&height=25&name=BradyPLUS_Logo_Primary_REV-OR_CMYK.png 118w, https://www.bradyplus.com/hs-fs/hubfs/BP_2024/BradyPLUS_Logo_Primary_REV-OR_CMYK.png?width=236&height=50&name=BradyPLUS_Logo_Primary_REV-OR_CMYK.png 236w, https://www.bradyplus.com/hs-fs/hubfs/BP_2024/BradyPLUS_Logo_Primary_REV-OR_CMYK.png?width=354&height=75&name=BradyPLUS_Logo_Primary_REV-OR_CMYK.png 354w, https://www.bradyplus.com/hs-fs/hubfs/BP_2024/BradyPLUS_Logo_Primary_REV-OR_CMYK.png?width=472&height=100&name=BradyPLUS_Logo_Primary_REV-OR_CMYK.png 472w, https://www.bradyplus.com/hs-fs/hubfs/BP_2024/BradyPLUS_Logo_Primary_REV-OR_CMYK.png?width=590&height=125&name=BradyPLUS_Logo_Primary_REV-OR_CMYK.png 590w, https://www.bradyplus.com/hs-fs/hubfs/BP_2024/BradyPLUS_Logo_Primary_REV-OR_CMYK.png?width=708&height=150&name=BradyPLUS_Logo_Primary_REV-OR_CMYK.png 708w",
+        "sizes": "(max-width: 236px) 100vw, 236px"
+      },
+      {
+        "src": "https://www.bradyplus.com/hs-fs/hubfs/BradyPLUS-Logo_white-with-orange.png?width=250&height=58&name=BradyPLUS-Logo_white-with-orange.png",
+        "class": "hs-image-widget ",
+        "height": "58",
+        "style": "height: auto;width:250px;border-width:0px;border:0px;",
+        "width": "250",
+        "alt": "BradyPLUS logo - white brady with orange plus",
+        "title": "BradyPLUS logo - white brady with orange plus",
+        "loading": "",
+        "srcset": "https://www.bradyplus.com/hs-fs/hubfs/BradyPLUS-Logo_white-with-orange.png?width=125&height=29&name=BradyPLUS-Logo_white-with-orange.png 125w, https://www.bradyplus.com/hs-fs/hubfs/BradyPLUS-Logo_white-with-orange.png?width=250&height=58&name=BradyPLUS-Logo_white-with-orange.png 250w, https://www.bradyplus.com/hs-fs/hubfs/BradyPLUS-Logo_white-with-orange.png?width=375&height=87&name=BradyPLUS-Logo_white-with-orange.png 375w, https://www.bradyplus.com/hs-fs/hubfs/BradyPLUS-Logo_white-with-orange.png?width=500&height=116&name=BradyPLUS-Logo_white-with-orange.png 500w, https://www.bradyplus.com/hs-fs/hubfs/BradyPLUS-Logo_white-with-orange.png?width=625&height=145&name=BradyPLUS-Logo_white-with-orange.png 625w, https://www.bradyplus.com/hs-fs/hubfs/BradyPLUS-Logo_white-with-orange.png?width=750&height=174&name=BradyPLUS-Logo_white-with-orange.png 750w",
+        "sizes": "(max-width: 250px) 100vw, 250px"
+      },
+      {
+        "src": "https://www.bradyplus.com/hs-fs/hubfs/BP_2024/BradyPLUS_Logo_Primary_RGB.png?width=320&height=68&name=BradyPLUS_Logo_Primary_RGB.png",
+        "width": "320",
+        "height": "68",
+        "loading": "lazy",
+        "alt": "BradyPLUS logo in color with Bee ",
+        "style": "height: auto; max-width: 100%; width: 320px;",
+        "srcset": "https://www.bradyplus.com/hs-fs/hubfs/BP_2024/BradyPLUS_Logo_Primary_RGB.png?width=160&height=34&name=BradyPLUS_Logo_Primary_RGB.png 160w, https://www.bradyplus.com/hs-fs/hubfs/BP_2024/BradyPLUS_Logo_Primary_RGB.png?width=320&height=68&name=BradyPLUS_Logo_Primary_RGB.png 320w, https://www.bradyplus.com/hs-fs/hubfs/BP_2024/BradyPLUS_Logo_Primary_RGB.png?width=480&height=102&name=BradyPLUS_Logo_Primary_RGB.png 480w, https://www.bradyplus.com/hs-fs/hubfs/BP_2024/BradyPLUS_Logo_Primary_RGB.png?width=640&height=136&name=BradyPLUS_Logo_Primary_RGB.png 640w, https://www.bradyplus.com/hs-fs/hubfs/BP_2024/BradyPLUS_Logo_Primary_RGB.png?width=800&height=170&name=BradyPLUS_Logo_Primary_RGB.png 800w, https://www.bradyplus.com/hs-fs/hubfs/BP_2024/BradyPLUS_Logo_Primary_RGB.png?width=960&height=204&name=BradyPLUS_Logo_Primary_RGB.png 960w",
+        "sizes": "(max-width: 320px) 100vw, 320px"
+      },
+      {
+        "src": "https://www.bradyplus.com/hubfs/BP_2024/BradyPLUS_Logo_Primary_REV-OR_CMYK.png",
+        "alt": "BradyPLUS logo with orange accent",
+        "width": "100%",
+        "style": "max-width: 200px; max-height: 42px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-165/ba4fc5f5499a5c6e.txt"
+  },
+  {
+    "id": "5d8c4d5a8d0a6000",
+    "name": "Tecomet, Inc. (via Axinn)",
+    "requested_url": "https://www.tecomet.com/",
+    "status": 200,
+    "final_url": "https://www.tecomet.com/",
+    "text_chars": 8938,
+    "logo_candidates": [
+      {
+        "src": "/media/ts5hmwyu/tecomet-logo.png?rmode=max&width=194&height=52",
+        "alt": "Tecomet logo",
+        "width": "191",
+        "height": "51"
+      },
+      {
+        "src": "/media/ucxpokum/orchid_rgb.jpg?rmode=max&width=158&height=54",
+        "alt": "Orchid logo",
+        "width": "158",
+        "height": "54"
+      },
+      {
+        "src": "/media/ucxpokum/orchid_rgb.jpg?rmode=max&width=0&height=0",
+        "alt": "Orchid logo",
+        "width": "0",
+        "height": "0"
+      },
+      {
+        "class": "no-animate",
+        "src": "/media/ts5hmwyu/tecomet-logo.png",
+        "alt": "Tecomet logo"
+      },
+      {
+        "class": "no-animate",
+        "src": "/media/ts5hmwyu/tecomet-logo.png",
+        "alt": "Tecomet logo"
+      },
+      {
+        "class": "no-animate",
+        "src": "/media/ts5hmwyu/tecomet-logo.png",
+        "alt": "Tecomet logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-165/5d8c4d5a8d0a6000.txt"
+  },
+  {
+    "id": "7b107fc2761944ac",
+    "name": "Axonius",
+    "requested_url": "https://www.axonius.com/",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "id": "55412844c8964789",
+    "name": "Azbrt Inc.",
+    "requested_url": "https://azbrt.org/",
+    "status": 200,
+    "final_url": "https://azbrt.org/",
+    "text_chars": 2625,
+    "logo_candidates": [
+      {
+        "width": "800",
+        "height": "480",
+        "src": "https://i0.wp.com/azbrt.org/wp-content/uploads/2025/05/LOGO_AZBRT_WHT.png?fit=800%2C480&ssl=1",
+        "class": "attachment-large size-large wp-image-1985",
+        "alt": "",
+        "srcset": "https://i0.wp.com/azbrt.org/wp-content/uploads/2025/05/LOGO_AZBRT_WHT.png?w=1501&ssl=1 1501w, https://i0.wp.com/azbrt.org/wp-content/uploads/2025/05/LOGO_AZBRT_WHT.png?resize=300%2C180&ssl=1 300w, https://i0.wp.com/azbrt.org/wp-content/uploads/2025/05/LOGO_AZBRT_WHT.png?resize=1024%2C615&ssl=1 1024w, https://i0.wp.com/azbrt.org/wp-content/uploads/2025/05/LOGO_AZBRT_WHT.png?resize=768%2C461&ssl=1 768w",
+        "sizes": "(max-width: 800px) 100vw, 800px",
+        "data-attachment-id": "1985",
+        "data-permalink": "https://azbrt.org/?attachment_id=1985",
+        "data-orig-file": "https://i0.wp.com/azbrt.org/wp-content/uploads/2025/05/LOGO_AZBRT_WHT.png?fit=1501%2C901&ssl=1",
+        "data-orig-size": "1501,901",
+        "data-comments-opened": "0",
+        "data-image-meta": "{\"aperture\":\"0\",\"credit\":\"\",\"camera\":\"\",\"caption\":\"\",\"created_timestamp\":\"0\",\"copyright\":\"\",\"focal_length\":\"0\",\"iso\":\"0\",\"shutter_speed\":\"0\",\"title\":\"\",\"orientation\":\"0\"}",
+        "data-image-title": "LOGO_AZBRT_WHT",
+        "data-image-description": "",
+        "data-image-caption": "",
+        "data-large-file": "https://i0.wp.com/azbrt.org/wp-content/uploads/2025/05/LOGO_AZBRT_WHT.png?fit=800%2C480&ssl=1"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-165/55412844c8964789.txt"
+  },
+  {
+    "id": "1f578792805affe7",
+    "name": "Azoa Services Corp(allianz Of America) And Affiliates",
+    "requested_url": "https://www.allianz.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "65c8218981711da5",
+    "name": "Awesome, Inc.",
+    "requested_url": "https://www.awesome.co/brands",
+    "status": 200,
+    "final_url": "https://www.awesome.co/brands",
+    "text_chars": 1746,
+    "logo_candidates": [
+      {
+        "src": "https://cdn.prod.website-files.com/643437aaa6d25d8d40734567/64dd10a3f336f1b0d694deaa_Asset%208.svg",
+        "loading": "lazy",
+        "alt": "",
+        "class": "navbar_logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/643437aaa6d25d8d40734567/643437aaa6d25d781e734624_flickr_logo_dots.3c6f3e13.svg",
+        "loading": "lazy",
+        "alt": "",
+        "class": "brand-images"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/643437aaa6d25d8d40734567/6a4c26f039f82e57e3eead8d_full%20logo%20-%20june%202030.png",
+        "loading": "lazy",
+        "alt": "",
+        "class": "brand-images"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/643437aaa6d25d324973458c/643437aaa6d25df7ba7345d8_flickr_logo_dots.3c6f3e13.svg",
+        "loading": "lazy",
+        "alt": "",
+        "class": "main-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/643437aaa6d25d324973458c/6a4c2806e713a76b704f4c4a_full%20logo%20-%20june%202030.png",
+        "loading": "lazy",
+        "alt": "",
+        "class": "main-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/643437aaa6d25d324973458c/6a4c2806e713a76b704f4c4a_full%20logo%20-%20june%202030.png",
+        "loading": "lazy",
+        "alt": "",
+        "class": "main-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/643437aaa6d25d8d40734567/6a4c26f039f82e57e3eead8d_full%20logo%20-%20june%202030.png",
+        "loading": "lazy",
+        "alt": "",
+        "class": "brand-images footer"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/643437aaa6d25d8d40734567/643437aaa6d25d781e734624_flickr_logo_dots.3c6f3e13.svg",
+        "loading": "lazy",
+        "alt": "",
+        "class": "brand-images footer f"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-165/65c8218981711da5.txt"
+  },
+  {
+    "id": "53f8bf51bb79d177",
+    "name": "Azurity Pharmaceuticals",
+    "requested_url": "https://www.azurity.com/",
+    "status": 200,
+    "final_url": "https://www.azurity.com/",
+    "text_chars": 109,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-165/53f8bf51bb79d177.txt"
+  },
+  {
+    "id": "553f169e4083c8d8",
+    "name": "B&H Photo Video",
+    "requested_url": "https://www.bhphotovideo.com/a/pages/aboutus",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "d2a519be246a3306",
+    "name": "B. Braun Medical",
+    "requested_url": "https://www.bbraunusa.com/en/about-us/company.html",
+    "status": 200,
+    "final_url": "https://www.bbraunusa.com/en/about-us/company.html",
+    "text_chars": 6548,
+    "logo_candidates": [
+      {
+        "alt": "Back to Homepage",
+        "src": "/content/dam/b-braun/master/website-6/en/00_home-and-miscellaneous/logo/bbraun-logo-full.svg",
+        "data-midwidth": "800",
+        "data-maxwidth": "0"
+      },
+      {
+        "alt": "Back to Homepage",
+        "src": "/content/dam/b-braun/master/website-6/en/00_home-and-miscellaneous/logo/bbraun-logo-short.svg",
+        "data-maxwidth": "800"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-165/d2a519be246a3306.txt"
+  },
+  {
+    "id": "d2ccfb204d9e7c20",
+    "name": "Babtel",
+    "requested_url": "https://www.babtel.net/",
+    "status": 200,
+    "final_url": "https://www.babtel.net/",
+    "text_chars": 2302,
+    "logo_candidates": [
+      {
+        "data-lazyloaded": "1",
+        "src": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
+        "height": "80",
+        "data-src": "https://www.babtel.net/wp-content/uploads/2025/04/logo-official.svg",
+        "class": "bricks-site-logo css-filter",
+        "alt": "Babtel.net",
+        "loading": "eager",
+        "decoding": "async"
+      },
+      {
+        "data-lazyloaded": "1",
+        "src": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
+        "height": "80",
+        "data-src": "https://www.babtel.net/wp-content/uploads/2025/04/logo-official.svg",
+        "class": "bricks-site-logo css-filter",
+        "alt": "Babtel.net",
+        "loading": "eager",
+        "decoding": "async"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-165/d2ccfb204d9e7c20.txt"
+  },
+  {
+    "id": "2a6514bff4f704e4",
+    "name": "BAE Systems, Inc.",
+    "requested_url": "https://www.baesystems.com/en-us/who-we-are",
+    "status": 200,
+    "final_url": "https://www.baesystems.com/en-us/who-we-are",
+    "text_chars": 177,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-165/2a6514bff4f704e4.txt"
+  },
+  {
+    "id": "ee5b0152388d88cd",
+    "name": "Bakelite US Holdco",
+    "requested_url": "https://bakelite.com/who-we-are",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "12411ec9bde1312d",
+    "name": "Baker Hughes Energy Services, LLC",
+    "requested_url": "https://www.bakerhughes.com/",
+    "status": 200,
+    "final_url": "https://www.bakerhughes.com/",
+    "text_chars": 32575,
+    "logo_candidates": [
+      {
+        "src": "/sites/bakerhughes/files/logo-alt_0.png",
+        "alt": "Home",
+        "width": "129",
+        "height": "20",
+        "loading": "lazy"
+      },
+      {
+        "class": "bh-logo__image",
+        "src": "/sites/bakerhughes/files/logo-dark_0.png",
+        "alt": "Home",
+        "loading": "lazy"
+      },
+      {
+        "class": "bh-footer__logo",
+        "src": "/sites/bakerhughes/files/logo-rev-tm-footer-light.svg",
+        "alt": "Home",
+        "loading": "lazy"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-165/12411ec9bde1312d.txt"
+  },
+  {
+    "id": "2ef5cc256f78a05c",
+    "name": "BAM Management US Holdings Inc.",
+    "requested_url": "https://www.binance.us/",
+    "status": 200,
+    "final_url": "https://www.binance.us/",
+    "text_chars": 4556,
+    "logo_candidates": [
+      {
+        "src": "https://static.binance.us/static/images/home/logo-yellow.png",
+        "style": "width:100%;height:100%",
+        "alt": "Binance us"
+      },
+      {
+        "src": "https://static.binance.us/static/mf/4.15.4-rc.0/client/static/media/SmallLogo_Dark_July4.90cea2c3.svg",
+        "alt": "BinanceUS",
+        "class": "sc-bcXHqe hdmCrp"
+      },
+      {
+        "src": "https://static.binance.us/static/mf/4.15.4-rc.0/client/static/media/LongLogo_Dark_July4.d180cdd1.svg",
+        "alt": "BinanceUS",
+        "class": "sc-bcXHqe kJLbgF"
+      },
+      {
+        "src": "https://static.binance.us/static/images/us/common/logo-v2.svg",
+        "alt": "binance_us",
+        "class": "sc-bcXHqe hHgGmU"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-165/2ef5cc256f78a05c.txt"
+  },
+  {
+    "id": "1571ac599838da6b",
+    "name": "BAM Trading Services, Inc. D/b/a Binance.us",
+    "requested_url": "https://www.binance.us/",
+    "status": 200,
+    "final_url": "https://www.binance.us/",
+    "text_chars": 4568,
+    "logo_candidates": [
+      {
+        "src": "https://static.binance.us/static/images/home/logo-yellow.png",
+        "style": "width:100%;height:100%",
+        "alt": "Binance us"
+      },
+      {
+        "src": "https://static.binance.us/static/mf/4.15.4-rc.0/client/static/media/SmallLogo_Dark_July4.90cea2c3.svg",
+        "alt": "BinanceUS",
+        "class": "sc-bcXHqe hdmCrp"
+      },
+      {
+        "src": "https://static.binance.us/static/mf/4.15.4-rc.0/client/static/media/LongLogo_Dark_July4.d180cdd1.svg",
+        "alt": "BinanceUS",
+        "class": "sc-bcXHqe kJLbgF"
+      },
+      {
+        "src": "https://static.binance.us/static/images/us/common/logo-v2.svg",
+        "alt": "binance_us",
+        "class": "sc-bcXHqe hHgGmU"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-165/1571ac599838da6b.txt"
+  },
+  {
+    "id": "5d96103489734608",
+    "name": "BAM Trading Services Inc. DBA Binance.us",
+    "requested_url": "https://www.binance.us/",
+    "status": 200,
+    "final_url": "https://www.binance.us/",
+    "text_chars": 4565,
+    "logo_candidates": [
+      {
+        "src": "https://static.binance.us/static/images/home/logo-yellow.png",
+        "style": "width:100%;height:100%",
+        "alt": "Binance us"
+      },
+      {
+        "src": "https://static.binance.us/static/mf/4.15.4-rc.0/client/static/media/SmallLogo_Dark_July4.90cea2c3.svg",
+        "alt": "BinanceUS",
+        "class": "sc-bcXHqe hdmCrp"
+      },
+      {
+        "src": "https://static.binance.us/static/mf/4.15.4-rc.0/client/static/media/LongLogo_Dark_July4.d180cdd1.svg",
+        "alt": "BinanceUS",
+        "class": "sc-bcXHqe kJLbgF"
+      },
+      {
+        "src": "https://static.binance.us/static/images/us/common/logo-v2.svg",
+        "alt": "binance_us",
+        "class": "sc-bcXHqe hHgGmU"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-165/5d96103489734608.txt"
+  },
+  {
+    "id": "54dd66aee7a76a01",
+    "name": "Banco Itau International",
+    "requested_url": "https://www.itauinternational.com/",
+    "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)>"
+  },
+  {
+    "id": "aed1d4846e3de0ef",
+    "name": "Balance Financial Wellness",
+    "requested_url": "https://whybalance.org/about/",
+    "error": "HTTP Error 308: Permanent Redirect"
+  },
+  {
+    "id": "aaaedc0850de5473",
+    "name": "Balboa Nephrology Medical Group (DVAC Ref)",
+    "requested_url": "https://www.balboanephrology.com/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "1b239a0c6f24d059",
+    "name": "Baptist Health South Florida",
+    "requested_url": "https://www.baptisthealth.net/",
+    "status": 200,
+    "final_url": "https://baptisthealth.net/",
+    "text_chars": 8360,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-165/1b239a0c6f24d059.txt"
+  },
+  {
+    "id": "cc96c2e46d94e4e8",
+    "name": "Barclays US GFP Inc.",
+    "requested_url": "https://home.barclays/",
+    "status": 200,
+    "final_url": "https://home.barclays/",
+    "text_chars": 7087,
+    "logo_candidates": [
+      {
+        "class": "c-brand-logo__media",
+        "src": "/content/dam/home-barclays/images/generic/barclays-eagle.svg",
+        "alt": "Eagle logo"
+      },
+      {
+        "class": "c-brand-logo__suffix c-brand-logo__suffix--visible-lg",
+        "src": "/content/dam/home-barclays/images/generic/barclays-wordmark.svg",
+        "alt": "Barclays"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-165/cc96c2e46d94e4e8.txt"
+  },
+  {
+    "id": "412c48fb1edf710c",
+    "name": "Bark Technologies",
+    "requested_url": "https://bark.us/",
+    "status": 200,
+    "final_url": "https://www.bark.us:443/",
+    "text_chars": 16515,
+    "logo_candidates": [
+      {
+        "class": "desktop-img",
+        "src": "https://d12jofbmgge65s.cloudfront.net/wp-content/themes/bark/dist/img/primary-logo.svg",
+        "alt": "Bark"
+      },
+      {
+        "decoding": "async",
+        "class": "hp-logo-img",
+        "src": "https://d12jofbmgge65s.cloudfront.net/wp-content/uploads/2021/06/bloomberg.svg",
+        "alt": "Bloomberg",
+        "loading": "lazy"
+      },
+      {
+        "decoding": "async",
+        "class": "hp-logo-img",
+        "src": "https://d12jofbmgge65s.cloudfront.net/wp-content/uploads/2021/06/cbsnews.svg",
+        "alt": "CBS News",
+        "loading": "lazy"
+      },
+      {
+        "decoding": "async",
+        "class": "hp-logo-img",
+        "src": "https://d12jofbmgge65s.cloudfront.net/wp-content/uploads/2021/06/cnbc_4.svg",
+        "alt": "CNBC",
+        "loading": "lazy"
+      },
+      {
+        "decoding": "async",
+        "class": "hp-logo-img",
+        "src": "https://d12jofbmgge65s.cloudfront.net/wp-content/uploads/2021/06/cnn.svg",
+        "alt": "CNN",
+        "loading": "lazy"
+      },
+      {
+        "decoding": "async",
+        "class": "hp-logo-img",
+        "src": "https://d12jofbmgge65s.cloudfront.net/wp-content/uploads/2021/06/forbes.svg",
+        "alt": "Forbes",
+        "loading": "lazy"
+      },
+      {
+        "decoding": "async",
+        "class": "hp-logo-img",
+        "src": "https://d12jofbmgge65s.cloudfront.net/wp-content/uploads/2021/06/good_morning_america.svg",
+        "alt": "Good Morning America",
+        "loading": "lazy"
+      },
+      {
+        "decoding": "async",
+        "class": "hp-logo-img",
+        "src": "https://d12jofbmgge65s.cloudfront.net/wp-content/uploads/2021/06/mashable.svg",
+        "alt": "Mashable",
+        "loading": "lazy"
+      },
+      {
+        "decoding": "async",
+        "class": "hp-logo-img",
+        "src": "https://d12jofbmgge65s.cloudfront.net/wp-content/uploads/2021/06/techchrunch.svg",
+        "alt": "TechCrunch",
+        "loading": "lazy"
+      },
+      {
+        "decoding": "async",
+        "class": "hp-logo-img",
+        "src": "https://d12jofbmgge65s.cloudfront.net/wp-content/uploads/2021/06/the_doctors_oblique.svg",
+        "alt": "The Doctors",
+        "loading": "lazy"
+      },
+      {
+        "decoding": "async",
+        "class": "hp-logo-img",
+        "src": "https://d12jofbmgge65s.cloudfront.net/wp-content/uploads/2021/06/nbc.svg",
+        "alt": "Today",
+        "loading": "lazy"
+      },
+      {
+        "decoding": "async",
+        "class": "hp-logo-img",
+        "src": "https://d12jofbmgge65s.cloudfront.net/wp-content/uploads/2021/06/usatoday.svg",
+        "alt": "USA Today",
+        "loading": "lazy"
+      },
+      {
+        "decoding": "async",
+        "class": "hp-logo-img",
+        "src": "https://d12jofbmgge65s.cloudfront.net/wp-content/uploads/2021/06/vogue.svg",
+        "alt": "Vogue",
+        "loading": "lazy"
+      },
+      {
+        "decoding": "async",
+        "class": "hp-logo-img",
+        "src": "https://d12jofbmgge65s.cloudfront.net/wp-content/uploads/2021/10/BBC-01-1.svg",
+        "alt": "BBC",
+        "loading": "lazy"
+      },
+      {
+        "decoding": "async",
+        "class": "hp-logo-img",
+        "src": "https://d12jofbmgge65s.cloudfront.net/wp-content/uploads/2021/10/new-york-times.svg",
+        "alt": "The New York Times",
+        "loading": "lazy"
+      },
+      {
+        "class": "header-logo",
+        "src": "https://d12jofbmgge65s.cloudfront.net/wp-content/themes/bark/dist/img/footer-logo.svg",
+        "alt": "Bark"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-165/412c48fb1edf710c.txt"
+  },
+  {
+    "id": "d9fb57e3d1cddbbb",
+    "name": "Barksdale Federal Credit Union",
+    "requested_url": "https://www.barksdalefcu.org/",
+    "error": "<urlopen error [Errno 54] Connection reset by peer>"
+  },
+  {
+    "id": "aab173f9ac277c3b",
+    "name": "Barrday Corporation",
+    "requested_url": "https://www.barrday.com/",
+    "status": 200,
+    "final_url": "https://www.barrday.com/",
+    "text_chars": 2312,
+    "logo_candidates": [
+      {
+        "alt": "Barrday logo",
+        "class": "cookie-logo mobile-centered",
+        "src": "/userContent/images/Page Content/barrday_logo.png",
+        "style": "width: 4167px; height: 934px; margin-bottom: 10px; margin-right: 0px; margin-left: auto;",
+        "title": "Barrday logo"
+      },
+      {
+        "class": "img-responsive",
+        "src": "/images/barrday_logo.png",
+        "alt": "Barrday Inc."
+      },
+      {
+        "class": "img-responsive",
+        "src": "/images/barrday_logo.png",
+        "alt": "Barrday Inc."
+      },
+      {
+        "src": "/userContent/images/Menu Builder/linkedin-logo.png",
+        "alt": "Linkedin logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-165/aab173f9ac277c3b.txt"
+  },
+  {
+    "id": "10b701a3d32795ca",
+    "name": "Barrick Gold Of North America",
+    "requested_url": "https://www.barrick.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "da4eca57cab121df",
+    "name": "Barrick Gold Of North America, FKA Barrick Gold And Nevada Gold Mines",
+    "requested_url": "https://www.barrick.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "169c7895ad4b8e65",
+    "name": "Barry Callebaut USA LLC",
+    "requested_url": "https://www.barry-callebaut.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "89398278dd1302d6",
+    "name": "Bartlett Maritime Corp.",
+    "requested_url": "https://bartlettmaritime.com/",
+    "status": 200,
+    "final_url": "https://www.bartlettmaritime.com/",
+    "text_chars": 6872,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-165/89398278dd1302d6.txt"
+  },
+  {
+    "id": "763f9d7cc46d5a77",
+    "name": "Basis Path",
+    "requested_url": "https://basispath.com/",
+    "status": 200,
+    "final_url": "https://basispath.com/",
+    "text_chars": 15388,
+    "logo_candidates": [
+      {
+        "src": "./assets/images/logo/bp-1.svg",
+        "alt": null
+      },
+      {
+        "src": "./assets/images/logo/bp-2.svg",
+        "alt": null
+      },
+      {
+        "src": "../assets/images/partner/lm-logo.svg",
+        "alt": "Lockheed Martin",
+        "style": "max-width: 500px"
+      },
+      {
+        "src": "../assets/images/partner/leidos-logo.svg",
+        "alt": "Leidos",
+        "style": "max-width: 500px"
+      },
+      {
+        "src": "./assets/images/logo/logo.svg",
+        "alt": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-165/763f9d7cc46d5a77.txt"
+  },
+  {
+    "id": "019fed6ff39c07cc",
+    "name": "Batteries Plus LLC",
+    "requested_url": "https://www.batteriesplus.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "780d3d9e2299e554",
+    "name": "Bauducco Foods, Inc.",
+    "requested_url": "https://www.bauducco.com.br/",
+    "status": 200,
+    "final_url": "https://www.bauducco.com.br/",
+    "text_chars": 3101,
+    "logo_candidates": [
+      {
+        "src": "https://decoims.com/bauducco/22861635-0cb8-4fa5-9fd2-eb487db13d72/bauducco-logo.svg",
+        "alt": "Loja Bauducco\u00ae",
+        "width": "114",
+        "height": "40",
+        "data-fresh-disable-lock": "true",
+        "srcset": "https://decoims.com/image?fit=cover&width=114&height=40&quality=low&src=bauducco%2F22861635-0cb8-4fa5-9fd2-eb487db13d72%2Fbauducco-logo.svg 114w, https://decoims.com/image?fit=cover&width=228&height=80&quality=low&src=bauducco%2F22861635-0cb8-4fa5-9fd2-eb487db13d72%2Fbauducco-logo.svg 228w",
+        "loading": "lazy",
+        "class": "w-28 h-auto sm:w-[138px]"
+      },
+      {
+        "src": "https://decoims.com/bauducco/22861635-0cb8-4fa5-9fd2-eb487db13d72/bauducco-logo.svg",
+        "alt": "Loja Bauducco\u00ae",
+        "width": "138",
+        "height": "48",
+        "data-fresh-disable-lock": "true",
+        "srcset": "https://decoims.com/image?fit=cover&width=138&height=48&quality=low&src=bauducco%2F22861635-0cb8-4fa5-9fd2-eb487db13d72%2Fbauducco-logo.svg 138w, https://decoims.com/image?fit=cover&width=276&height=96&quality=low&src=bauducco%2F22861635-0cb8-4fa5-9fd2-eb487db13d72%2Fbauducco-logo.svg 276w",
+        "loading": "lazy",
+        "class": "w-20 h-auto sm:w-24"
+      },
+      {
+        "src": "https://decoims.com/bauducco/22861635-0cb8-4fa5-9fd2-eb487db13d72/bauducco-logo.svg",
+        "alt": "Loja Bauducco\u00ae",
+        "width": "138",
+        "height": "48",
+        "data-fresh-disable-lock": "true",
+        "srcset": "https://decoims.com/image?fit=cover&width=138&height=48&quality=low&src=bauducco%2F22861635-0cb8-4fa5-9fd2-eb487db13d72%2Fbauducco-logo.svg 138w, https://decoims.com/image?fit=cover&width=276&height=96&quality=low&src=bauducco%2F22861635-0cb8-4fa5-9fd2-eb487db13d72%2Fbauducco-logo.svg 276w",
+        "loading": "lazy",
+        "class": "w-16 h-auto sm:w-20 md:w-28 lg:w-[138px]"
+      },
+      {
+        "src": "https://decoims.com/bauducco/22861635-0cb8-4fa5-9fd2-eb487db13d72/bauducco-logo.svg",
+        "alt": "Bauducco",
+        "width": "184",
+        "height": "64",
+        "loading": "lazy",
+        "data-fresh-disable-lock": "true",
+        "srcset": "https://decoims.com/image?fit=cover&width=184&height=64&quality=low&src=bauducco%2F22861635-0cb8-4fa5-9fd2-eb487db13d72%2Fbauducco-logo.svg 184w, https://decoims.com/image?fit=cover&width=368&height=128&quality=low&src=bauducco%2F22861635-0cb8-4fa5-9fd2-eb487db13d72%2Fbauducco-logo.svg 368w",
+        "class": "lg:h-16 h-12 w-[138px] lg:w-[184px]"
+      },
+      {
+        "src": "https://decoims.com/bauducco/903d52b4-1d29-4b6f-9eaa-f8ede00d68c7/Logo-1.webp",
+        "alt": "let`s encrypt logo",
+        "width": "141",
+        "height": "51",
+        "loading": "lazy",
+        "data-fresh-disable-lock": "true",
+        "srcset": "https://decoims.com/image?fit=cover&width=141&height=51&quality=low&src=bauducco%2F903d52b4-1d29-4b6f-9eaa-f8ede00d68c7%2FLogo-1.webp 141w, https://decoims.com/image?fit=cover&width=282&height=102&quality=low&src=bauducco%2F903d52b4-1d29-4b6f-9eaa-f8ede00d68c7%2FLogo-1.webp 282w"
+      },
+      {
+        "src": "https://decoims.com/bauducco/7f02ba19-6c5c-41f9-bde9-b5d0ba8b05c1/Logo-2.webp",
+        "alt": "compra segura logo",
+        "width": "165",
+        "height": "52",
+        "loading": "lazy",
+        "data-fresh-disable-lock": "true",
+        "srcset": "https://decoims.com/image?fit=cover&width=165&height=52&quality=low&src=bauducco%2F7f02ba19-6c5c-41f9-bde9-b5d0ba8b05c1%2FLogo-2.webp 165w, https://decoims.com/image?fit=cover&width=330&height=104&quality=low&src=bauducco%2F7f02ba19-6c5c-41f9-bde9-b5d0ba8b05c1%2FLogo-2.webp 330w"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-165/780d3d9e2299e554.txt"
+  },
+  {
+    "id": "3e5dcf33b673bf4c",
+    "name": "Bausch & Lomb",
+    "requested_url": "https://www.bausch.com/",
+    "status": 200,
+    "final_url": "https://www.bausch.com/",
+    "text_chars": 6099,
+    "logo_candidates": [
+      {
+        "src": "/siteassets/img/bl-logo-white.svg",
+        "alt": "Bausch + Lomb Logo",
+        "class": "img-fluid ",
+        "style": " color:white; max-width: 265px !important; width: 265px; height: 26px; object-fit: contain;",
+        "data-cmp-info": "10"
+      },
+      {
+        "src": "/siteassets/bl-logo-white.svg",
+        "class": "img-fluid",
+        "style": "height: 18px;"
+      },
+      {
+        "class": "",
+        "style": "display: inline;",
+        "src": "/siteassets/img/white-footer-logo.svg",
+        "alt": "Footer logo",
+        "width": "228",
+        "height": "43.8",
+        "data-cmp-info": "10"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-165/3e5dcf33b673bf4c.txt"
+  }
+]

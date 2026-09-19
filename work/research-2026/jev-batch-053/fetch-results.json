@@ -1,0 +1,317 @@
+[
+  {
+    "id": "c765e7b973363402",
+    "name": "Houghton Mifflin Harcourt Company",
+    "requested_url": "https://www.hmhco.com/about-us/culture",
+    "status": 200,
+    "final_url": "https://www.hmhco.com/about-us/culture",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-053/0-c765e7b973363402.txt",
+    "text_chars": 12641
+  },
+  {
+    "id": "c765e7b973363402",
+    "name": "Houghton Mifflin Harcourt Company",
+    "requested_url": "https://www.hmhco.com/about-us/grants-and-funding",
+    "status": 200,
+    "final_url": "https://www.hmhco.com/about-us/grants-and-funding",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-053/1-c765e7b973363402.txt",
+    "text_chars": 14573
+  },
+  {
+    "id": "67d1ea416219787b",
+    "name": "Cotton Logistics, Inc.",
+    "requested_url": "https://www.cottonlogistics.com/about-cotton-logistics/hse-policy/",
+    "status": 200,
+    "final_url": "https://www.cottonlogistics.com/about-cotton-logistics/hse-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-053/2-67d1ea416219787b.txt",
+    "text_chars": 11123
+  },
+  {
+    "id": "67d1ea416219787b",
+    "name": "Cotton Logistics, Inc.",
+    "requested_url": "https://www.cottonlogistics.com/about-cotton-logistics/news/",
+    "status": 200,
+    "final_url": "https://www.cottonlogistics.com/about-cotton-logistics/news/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-053/3-67d1ea416219787b.txt",
+    "text_chars": 36430
+  },
+  {
+    "id": "d7f3c3e2c36b9735",
+    "name": "Invisio Communications",
+    "requested_url": "https://invisio.com/company/about-invisio/innovation-technology/",
+    "status": 200,
+    "final_url": "https://invisio.com/company/about-invisio/innovation-technology/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-053/4-d7f3c3e2c36b9735.txt",
+    "text_chars": 7606
+  },
+  {
+    "id": "d7f3c3e2c36b9735",
+    "name": "Invisio Communications",
+    "requested_url": "https://invisio.com/company/about-invisio/quality-management/",
+    "status": 200,
+    "final_url": "https://invisio.com/company/about-invisio/quality-management/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-053/5-d7f3c3e2c36b9735.txt",
+    "text_chars": 6988
+  },
+  {
+    "id": "29e333d0d0c58515",
+    "name": "Ennoble Care, LLC",
+    "requested_url": "https://ennoblecare.com/about-us/",
+    "status": 200,
+    "final_url": "https://ennoblecare.com/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-053/6-29e333d0d0c58515.txt",
+    "text_chars": 13664
+  },
+  {
+    "id": "9baa62c4b78a2d00",
+    "name": "Nidec Americas Holding Corporation",
+    "requested_url": "https://www.nidec.com/en/privacypolicy/",
+    "status": 200,
+    "final_url": "https://www.nidec.com/en/privacypolicy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-053/7-9baa62c4b78a2d00.txt",
+    "text_chars": 14622
+  },
+  {
+    "id": "9baa62c4b78a2d00",
+    "name": "Nidec Americas Holding Corporation",
+    "requested_url": "https://www.nidec.com/en/corporate/about/",
+    "status": 200,
+    "final_url": "https://www.nidec.com/en/corporate/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-053/8-9baa62c4b78a2d00.txt",
+    "text_chars": 5611
+  },
+  {
+    "id": "3896342adff711d3",
+    "name": "the LAW Office of Bart Fisher on Behalf of Halo Biologics",
+    "requested_url": "https://halobiologics.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://halobiologics.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-053/9-3896342adff711d3.txt",
+    "text_chars": 16837
+  },
+  {
+    "id": "3896342adff711d3",
+    "name": "the LAW Office of Bart Fisher on Behalf of Halo Biologics",
+    "requested_url": "https://halobiologics.com/terms-conditions/",
+    "status": 200,
+    "final_url": "https://halobiologics.com/terms-conditions/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-053/10-3896342adff711d3.txt",
+    "text_chars": 45315
+  },
+  {
+    "id": "fe3424f24c72ed98",
+    "name": "Armada Systems, Inc.",
+    "requested_url": "https://www.armada.ai/about",
+    "status": 200,
+    "final_url": "https://www.armada.ai/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-053/11-fe3424f24c72ed98.txt",
+    "text_chars": 2672
+  },
+  {
+    "id": "9100875e56a777ab",
+    "name": "Grip Pod Systems International LLC",
+    "requested_url": "https://grippod.com/about-us",
+    "status": 200,
+    "final_url": "https://grippod.com/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-053/12-9100875e56a777ab.txt",
+    "text_chars": 12921
+  },
+  {
+    "id": "9100875e56a777ab",
+    "name": "Grip Pod Systems International LLC",
+    "requested_url": "https://grippod.com/about-us/",
+    "status": 200,
+    "final_url": "https://grippod.com/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-053/13-9100875e56a777ab.txt",
+    "text_chars": 12921
+  },
+  {
+    "id": "2935cd0cc5eb6ec3",
+    "name": "Halomine, Inc. (d/b/a Avantguard, Inc.)",
+    "requested_url": "https://www.avantguardinc.com/about-us",
+    "status": 200,
+    "final_url": "https://www.avantguardinc.com/about-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-053/14-2935cd0cc5eb6ec3.txt",
+    "text_chars": 6247
+  },
+  {
+    "id": "7875c358eb2be916",
+    "name": "Harmony Foods, LLC d/b/a SCN BestCo",
+    "requested_url": "https://www.scnbestco.com/privacy-policy-2023/",
+    "status": 200,
+    "final_url": "https://www.scnbestco.com/privacy-policy-2023/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-053/15-7875c358eb2be916.txt",
+    "text_chars": 22511
+  },
+  {
+    "id": "7875c358eb2be916",
+    "name": "Harmony Foods, LLC d/b/a SCN BestCo",
+    "requested_url": "https://www.scnbestco.com/about-us/",
+    "status": 200,
+    "final_url": "https://www.scnbestco.com/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-053/16-7875c358eb2be916.txt",
+    "text_chars": 1394
+  },
+  {
+    "id": "ecc30b0851d4b875",
+    "name": "Inveris Training Solutions",
+    "requested_url": "https://www.inveristraining.com/resources/policies/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.inveristraining.com/resources/policies/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-053/17-ecc30b0851d4b875.txt",
+    "text_chars": 3507
+  },
+  {
+    "id": "ecc30b0851d4b875",
+    "name": "Inveris Training Solutions",
+    "requested_url": "https://www.inveristraining.com/resources/policies/terms-conditions/",
+    "status": 200,
+    "final_url": "https://www.inveristraining.com/resources/policies/terms-conditions/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-053/18-ecc30b0851d4b875.txt",
+    "text_chars": 84546
+  },
+  {
+    "id": "15995ae6235a004e",
+    "name": "Magnet Forensics LLC",
+    "requested_url": "https://www.magnetforensics.com/legal-unpacked/",
+    "status": 200,
+    "final_url": "https://www.magnetforensics.com/legal-unpacked/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-053/19-15995ae6235a004e.txt",
+    "text_chars": 19493
+  },
+  {
+    "id": "15995ae6235a004e",
+    "name": "Magnet Forensics LLC",
+    "requested_url": "https://www.magnetforensics.com/legal/",
+    "status": 200,
+    "final_url": "https://www.magnetforensics.com/legal/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-053/20-15995ae6235a004e.txt",
+    "text_chars": 8835
+  },
+  {
+    "id": "25fcb10c978125f3",
+    "name": "Trident Maritime Systems, Inc.",
+    "requested_url": "https://www.tridentllc.com/privacy-notice",
+    "status": 200,
+    "final_url": "https://www.tridentllc.com/privacy-notice",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-053/21-25fcb10c978125f3.txt",
+    "text_chars": 20245
+  },
+  {
+    "id": "25fcb10c978125f3",
+    "name": "Trident Maritime Systems, Inc.",
+    "requested_url": "https://www.tridentllc.com/terms-and-conditions",
+    "status": 200,
+    "final_url": "https://www.tridentllc.com/terms-and-conditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-053/22-25fcb10c978125f3.txt",
+    "text_chars": 17534
+  },
+  {
+    "id": "6b987c35ec620494",
+    "name": "LUX Aeterna Space (via AxAdvocacy)",
+    "requested_url": "https://www.luxaeterna.com/about",
+    "status": 200,
+    "final_url": "https://www.luxaeterna.com/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-053/23-6b987c35ec620494.txt",
+    "text_chars": 1776
+  },
+  {
+    "id": "ae44ca7520c4f426",
+    "name": "H-J Enterprises",
+    "requested_url": "https://www.h-j.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.h-j.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-053/24-ae44ca7520c4f426.txt",
+    "text_chars": 26549
+  },
+  {
+    "id": "ae44ca7520c4f426",
+    "name": "H-J Enterprises",
+    "requested_url": "https://www.h-j.com/terms",
+    "status": 200,
+    "final_url": "https://www.h-j.com/terms",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-053/25-ae44ca7520c4f426.txt",
+    "text_chars": 26490
+  },
+  {
+    "id": "7b51eb354840311e",
+    "name": "Indexed Annuity Leadership Council",
+    "requested_url": "https://indexedannuitiesinsights.com/about/",
+    "status": 200,
+    "final_url": "https://indexedannuitiesinsights.com/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-053/26-7b51eb354840311e.txt",
+    "text_chars": 3657
+  },
+  {
+    "id": "7b51eb354840311e",
+    "name": "Indexed Annuity Leadership Council",
+    "requested_url": "https://indexedannuitiesinsights.com/about/executive-director/",
+    "status": 200,
+    "final_url": "https://indexedannuitiesinsights.com/about/executive-director/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-053/27-7b51eb354840311e.txt",
+    "text_chars": 3881
+  },
+  {
+    "id": "9e8c45a56b5e7364",
+    "name": "Int'l Ass'n of Sheet Metal AIR Rail & Transp Workers Transp DIV",
+    "requested_url": "https://www.smart-union.org/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.smart-union.org/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-053/28-9e8c45a56b5e7364.txt",
+    "text_chars": 17247
+  },
+  {
+    "id": "9e8c45a56b5e7364",
+    "name": "Int'l Ass'n of Sheet Metal AIR Rail & Transp Workers Transp DIV",
+    "requested_url": "https://www.smart-union.org/resources/designated-legal-counsel/",
+    "status": 200,
+    "final_url": "https://www.smart-union.org/resources/designated-legal-counsel/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-053/29-9e8c45a56b5e7364.txt",
+    "text_chars": 30223
+  },
+  {
+    "id": "d5898338451385d2",
+    "name": "Jura, Inc. and Bates Enterprises",
+    "requested_url": "https://us.jura.com/en/customer-care/terms-conditions",
+    "status": 200,
+    "final_url": "https://us.jura.com/en/customer-care/terms-conditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-053/30-d5898338451385d2.txt",
+    "text_chars": 740
+  },
+  {
+    "id": "7f014677f9b6666f",
+    "name": "LIV Golf, Inc",
+    "requested_url": "https://www.livgolf.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.livgolf.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-053/31-7f014677f9b6666f.txt",
+    "text_chars": 29207
+  },
+  {
+    "id": "7f014677f9b6666f",
+    "name": "LIV Golf, Inc",
+    "requested_url": "https://www.livgolf.com/terms-of-use",
+    "status": 200,
+    "final_url": "https://www.livgolf.com/terms-of-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-053/32-7f014677f9b6666f.txt",
+    "text_chars": 15315
+  },
+  {
+    "id": "99b2037eee46bba9",
+    "name": "Mid-American Gunite (Mid-American Group)",
+    "requested_url": "https://www.midamericangroup.com/about-mag",
+    "status": 200,
+    "final_url": "https://www.midamericangroup.com/about-mag-old/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-053/33-99b2037eee46bba9.txt",
+    "text_chars": 3394
+  },
+  {
+    "id": "f600c57422578b3c",
+    "name": "MSN AIR Service, Inc",
+    "requested_url": "https://msnairservice.com/about",
+    "status": 200,
+    "final_url": "https://msnairservice.com/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-053/34-f600c57422578b3c.txt",
+    "text_chars": 3847
+  }
+]

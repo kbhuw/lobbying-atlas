@@ -1,0 +1,307 @@
+[
+  {
+    "content": [
+      {
+        "type": "text",
+        "text": "92a750d3e3203246: relevant=yes (P(yes)=0.52)\n1ff81c1632ebc9c0: relevant=yes (P(yes)=0.52)\nb6573d3844ceac10: relevant=yes (P(yes)=0.65)\n0c123d1a75a1b186: relevant=yes (P(yes)=0.51)\nf20918c6fab96de6: relevant=yes (P(yes)=0.57)\nInspect uncertain or truncated items. Tool and website judgments depend on the content supplied; they do not predict unseen results."
+      }
+    ],
+    "structuredContent": {
+      "ok": true,
+      "model": "jev-latest",
+      "scales": {},
+      "results": [
+        {
+          "id": "92a750d3e3203246",
+          "answers": {
+            "relevant": {
+              "type": "boolean",
+              "probability": 0.52
+            }
+          },
+          "model": "jev-1.13.0"
+        },
+        {
+          "id": "1ff81c1632ebc9c0",
+          "answers": {
+            "relevant": {
+              "type": "boolean",
+              "probability": 0.52
+            }
+          },
+          "model": "jev-1.13.0"
+        },
+        {
+          "id": "b6573d3844ceac10",
+          "answers": {
+            "relevant": {
+              "type": "boolean",
+              "probability": 0.65
+            }
+          },
+          "model": "jev-1.13.0"
+        },
+        {
+          "id": "0c123d1a75a1b186",
+          "answers": {
+            "relevant": {
+              "type": "boolean",
+              "probability": 0.51
+            }
+          },
+          "model": "jev-1.13.0"
+        },
+        {
+          "id": "f20918c6fab96de6",
+          "answers": {
+            "relevant": {
+              "type": "boolean",
+              "probability": 0.57
+            }
+          },
+          "model": "jev-1.13.0"
+        }
+      ],
+      "usage": {
+        "inputTokens": 10278
+      }
+    },
+    "isError": false
+  },
+  {
+    "content": [
+      {
+        "type": "text",
+        "text": "29e333d0d0c58515: relevant=yes (P(yes)=0.65)\n78f4c74c03ed0185: relevant=yes (P(yes)=0.56)\nfeb1fbf572d35538: relevant=yes (P(yes)=0.55)\n9f746f62f45f8c07: relevant=yes (P(yes)=0.56)\n0362cb2ba60b580c: relevant=yes (P(yes)=0.69)\nInspect uncertain or truncated items. Tool and website judgments depend on the content supplied; they do not predict unseen results."
+      }
+    ],
+    "structuredContent": {
+      "ok": true,
+      "model": "jev-latest",
+      "scales": {},
+      "results": [
+        {
+          "id": "29e333d0d0c58515",
+          "answers": {
+            "relevant": {
+              "type": "boolean",
+              "probability": 0.65
+            }
+          },
+          "model": "jev-1.13.0"
+        },
+        {
+          "id": "78f4c74c03ed0185",
+          "answers": {
+            "relevant": {
+              "type": "boolean",
+              "probability": 0.56
+            }
+          },
+          "model": "jev-1.13.0"
+        },
+        {
+          "id": "feb1fbf572d35538",
+          "answers": {
+            "relevant": {
+              "type": "boolean",
+              "probability": 0.55
+            }
+          },
+          "model": "jev-1.13.0"
+        },
+        {
+          "id": "9f746f62f45f8c07",
+          "answers": {
+            "relevant": {
+              "type": "boolean",
+              "probability": 0.56
+            }
+          },
+          "model": "jev-1.13.0"
+        },
+        {
+          "id": "0362cb2ba60b580c",
+          "answers": {
+            "relevant": {
+              "type": "boolean",
+              "probability": 0.69
+            }
+          },
+          "model": "jev-1.13.0"
+        }
+      ],
+      "usage": {
+        "inputTokens": 15700
+      }
+    },
+    "isError": false
+  },
+  {
+    "content": [
+      {
+        "type": "text",
+        "text": "df5a9979aa93ebf3: relevant=yes (P(yes)=0.57)\n6c7b6a32c73313ea: relevant=yes (P(yes)=0.69)\n588c9a7a90389610: relevant=yes (P(yes)=0.63)\n63241bce36e3cd7e: relevant=yes (P(yes)=0.51)\nb533bd0212d10a4e: relevant=yes (P(yes)=0.58)\nInspect uncertain or truncated items. Tool and website judgments depend on the content supplied; they do not predict unseen results."
+      }
+    ],
+    "structuredContent": {
+      "ok": true,
+      "model": "jev-latest",
+      "scales": {},
+      "results": [
+        {
+          "id": "df5a9979aa93ebf3",
+          "answers": {
+            "relevant": {
+              "type": "boolean",
+              "probability": 0.57
+            }
+          },
+          "model": "jev-1.13.0"
+        },
+        {
+          "id": "6c7b6a32c73313ea",
+          "answers": {
+            "relevant": {
+              "type": "boolean",
+              "probability": 0.69
+            }
+          },
+          "model": "jev-1.13.0"
+        },
+        {
+          "id": "588c9a7a90389610",
+          "answers": {
+            "relevant": {
+              "type": "boolean",
+              "probability": 0.63
+            }
+          },
+          "model": "jev-1.13.0"
+        },
+        {
+          "id": "63241bce36e3cd7e",
+          "answers": {
+            "relevant": {
+              "type": "boolean",
+              "probability": 0.51
+            }
+          },
+          "model": "jev-1.13.0"
+        },
+        {
+          "id": "b533bd0212d10a4e",
+          "answers": {
+            "relevant": {
+              "type": "boolean",
+              "probability": 0.58
+            }
+          },
+          "model": "jev-1.13.0"
+        }
+      ],
+      "usage": {
+        "inputTokens": 6202
+      }
+    },
+    "isError": false
+  },
+  {
+    "content": [
+      {
+        "type": "text",
+        "text": "62e6ede5fbff8a82: relevant=yes (P(yes)=0.60)\n63686b0224436ff7: relevant=yes (P(yes)=0.64)\nf3b2b64f5f0ac8e1: relevant=yes (P(yes)=0.72)\n6f3e7137918d5e69: relevant=yes (P(yes)=0.59)\n780fdedf20251133: relevant=yes (P(yes)=0.79)\nInspect uncertain or truncated items. Tool and website judgments depend on the content supplied; they do not predict unseen results."
+      }
+    ],
+    "structuredContent": {
+      "ok": true,
+      "model": "jev-latest",
+      "scales": {},
+      "results": [
+        {
+          "id": "62e6ede5fbff8a82",
+          "answers": {
+            "relevant": {
+              "type": "boolean",
+              "probability": 0.6
+            }
+          },
+          "model": "jev-1.13.0"
+        },
+        {
+          "id": "63686b0224436ff7",
+          "answers": {
+            "relevant": {
+              "type": "boolean",
+              "probability": 0.64
+            }
+          },
+          "model": "jev-1.13.0"
+        },
+        {
+          "id": "f3b2b64f5f0ac8e1",
+          "answers": {
+            "relevant": {
+              "type": "boolean",
+              "probability": 0.72
+            }
+          },
+          "model": "jev-1.13.0"
+        },
+        {
+          "id": "6f3e7137918d5e69",
+          "answers": {
+            "relevant": {
+              "type": "boolean",
+              "probability": 0.59
+            }
+          },
+          "model": "jev-1.13.0"
+        },
+        {
+          "id": "780fdedf20251133",
+          "answers": {
+            "relevant": {
+              "type": "boolean",
+              "probability": 0.79
+            }
+          },
+          "model": "jev-1.13.0"
+        }
+      ],
+      "usage": {
+        "inputTokens": 16297
+      }
+    },
+    "isError": false
+  },
+  {
+    "content": [
+      {
+        "type": "text",
+        "text": "582dc5799253efce: relevant=yes (P(yes)=0.68)\nInspect uncertain or truncated items. Tool and website judgments depend on the content supplied; they do not predict unseen results."
+      }
+    ],
+    "structuredContent": {
+      "ok": true,
+      "model": "jev-latest",
+      "scales": {},
+      "results": [
+        {
+          "id": "582dc5799253efce",
+          "answers": {
+            "relevant": {
+              "type": "boolean",
+              "probability": 0.68
+            }
+          },
+          "model": "jev-1.13.0"
+        }
+      ],
+      "usage": {
+        "inputTokens": 739
+      }
+    },
+    "isError": false
+  }
+]

@@ -1,0 +1,175 @@
+{
+  "12c28c53dd109774": {
+    "name": "Eastern New Mexico University\u2013Ruidoso",
+    "description": "Public community-college branch of Eastern New Mexico University serving the Ruidoso area.",
+    "website": "https://ruidoso.enmu.edu/",
+    "kind": "Community college",
+    "ownership": "Government body",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Exact Eastern New Mexico University-Ruidoso name, Ruidoso address and branch community college description offering associate and certificate programs. Official homepage directly fetched HTTP200 and readable text inspected September 18, 2026 after JEV screening. Saved source HTML and classifier output in jev-batch-007.",
+    "notes": "Exact Eastern New Mexico University-Ruidoso name, Ruidoso address and branch community college description offering associate and certificate programs. Official homepage directly fetched HTTP200 and readable text inspected September 18, 2026 after JEV screening. Saved source HTML and classifier output in jev-batch-007.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/3a26dee9-3ca4-492e-a0f4-7d42386ebbd7/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://ruidoso.enmu.edu/",
+        "label": "Organization evidence",
+        "claim": "ENMU-Ruidoso official site identifies the Ruidoso branch campus and its college programs."
+      },
+      {
+        "url": "https://ruidoso.enmu.edu/wp-content/uploads/2025/01/StyleGuide_Jan2025.pdf",
+        "label": "Organization evidence",
+        "claim": "Official ENMU-Ruidoso style guide identifies the institution as an ENMU branch community college."
+      },
+      {
+        "url": "https://lda.gov/api/v1/clients/53797/?format=json",
+        "label": "Organization evidence",
+        "claim": "Official LDA client record identifies Eastern NEW Mexico University-ruidoso and describes it as community college."
+      },
+      {
+        "url": "https://ruidoso.enmu.edu/",
+        "label": "Direct official website evidence",
+        "claim": "Exact Eastern New Mexico University-Ruidoso name, Ruidoso address and branch community college description offering associate and certificate programs. Official homepage directly fetched HTTP200 and readable text inspected September 18, 2026 after JEV screening. Saved source HTML and classifier output in jev-batch-007."
+      }
+    ],
+    "as_of": "2026-09-06",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://ruidoso.enmu.edu/wp-content/uploads/2025/10/enmu-logo-site-full-color.webp",
+    "logo_kind": "logo",
+    "logo_source_url": "https://ruidoso.enmu.edu/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "50b4413aaa248c6a": {
+    "name": "SAN Joaquin Council of Governments",
+    "description": "A council of governments coordinating transportation and regional planning for San Joaquin County and nearby jurisdictions.",
+    "website": "https://www.sjcog.org/",
+    "kind": "Council of governments",
+    "ownership": "Government body",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Exact San Joaquin Council of Governments name and regional transportation planning, transit and infrastructure programs; separate regional housing fund is not merged. Official homepage directly fetched HTTP200 and readable text inspected September 18, 2026 after JEV screening. Saved source HTML and classifier output in jev-batch-007.",
+    "notes": "Exact San Joaquin Council of Governments name and regional transportation planning, transit and infrastructure programs; separate regional housing fund is not merged. Official homepage directly fetched HTTP200 and readable text inspected September 18, 2026 after JEV screening. Saved source HTML and classifier output in jev-batch-007.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/2b63c880-ef8e-4801-8bab-e5ba8b5b6e61/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://lda.gov/api/v1/clients/63841/?format=json",
+        "label": "Organization evidence",
+        "claim": "Original disclosure for SAN Joaquin Council Of Governments reports the matched client activity and filing date."
+      },
+      {
+        "url": "https://www.sjcog.org/",
+        "label": "Organization evidence",
+        "claim": "San Joaquin Council of Governments official site describes regional transportation planning and public coordination."
+      },
+      {
+        "url": "https://www.sjcog.org/",
+        "label": "Direct official website evidence",
+        "claim": "Exact San Joaquin Council of Governments name and regional transportation planning, transit and infrastructure programs; separate regional housing fund is not merged. Official homepage directly fetched HTTP200 and readable text inspected September 18, 2026 after JEV screening. Saved source HTML and classifier output in jev-batch-007."
+      }
+    ],
+    "as_of": "2026-09-07",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://www.sjcog.org/images/favicon.ico",
+    "logo_kind": "site_icon",
+    "logo_source_url": "https://www.sjcog.org/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "0bffbd9497b322b9": {
+    "name": "Sacramento County, CA",
+    "description": "The local government of Sacramento County, California.",
+    "website": "https://www.saccounty.gov/",
+    "kind": "County government",
+    "ownership": "Government body",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "County of Sacramento governing Board of Supervisors and county services explicitly identified. Official homepage directly fetched HTTP200 and readable text inspected September 18, 2026 after JEV screening. Saved source HTML and classifier output in jev-batch-007.",
+    "notes": "County of Sacramento governing Board of Supervisors and county services explicitly identified. Official homepage directly fetched HTTP200 and readable text inspected September 18, 2026 after JEV screening. Saved source HTML and classifier output in jev-batch-007.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/1df9773f-cfd6-447c-82c2-532bb2b32302/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2016_Registrations_XML.zip",
+        "label": "Organization evidence",
+        "claim": "Original LDA disclosure for Sacramento County, CA: self-reported activity and effective date."
+      },
+      {
+        "url": "https://www.saccounty.gov/",
+        "label": "Organization evidence",
+        "claim": "Official Sacramento County site identifies Sacramento County government."
+      },
+      {
+        "url": "https://www.saccounty.gov/",
+        "label": "Direct official website evidence",
+        "claim": "County of Sacramento governing Board of Supervisors and county services explicitly identified. Official homepage directly fetched HTTP200 and readable text inspected September 18, 2026 after JEV screening. Saved source HTML and classifier output in jev-batch-007."
+      }
+    ],
+    "as_of": "2026-09-07",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://www.saccounty.gov/content/dam/saccounty/us/en/images/logo-standard.png",
+    "logo_kind": "logo",
+    "logo_source_url": "https://www.saccounty.gov/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "c34cc1b890116c0e": {
+    "name": "Delaware Valley Industrial Resource Center (DVIRC)",
+    "description": "Manufacturing-support and industrial-resource center serving Philadelphia-area manufacturers.",
+    "website": "https://dvirc.org/",
+    "kind": "Manufacturing support",
+    "ownership": "Unknown",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Exact Delaware Valley Industrial Resource Center name and manufacturing support services. The separately mentioned Institute for Manufacturing Excellence is not merged; ownership remains unknown. Official homepage directly fetched HTTP200 and readable text inspected September 18, 2026 after JEV screening. Saved source HTML and classifier output in jev-batch-007.",
+    "notes": "Exact Delaware Valley Industrial Resource Center name and manufacturing support services. The separately mentioned Institute for Manufacturing Excellence is not merged; ownership remains unknown. Official homepage directly fetched HTTP200 and readable text inspected September 18, 2026 after JEV screening. Saved source HTML and classifier output in jev-batch-007.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/3cbd6b37-7926-4773-b044-e84abff02fc1/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://lda.gov/api/v1/clients/59279/?format=json",
+        "label": "Organization evidence",
+        "claim": "Self-reported description; client effective date 2024-03-01"
+      },
+      {
+        "url": "https://dvirc.org/",
+        "label": "Organization evidence",
+        "claim": "DVIRC official site describes manufacturing assistance and industrial-resource programs."
+      },
+      {
+        "url": "https://www.dvirc.org/",
+        "label": "Direct official website evidence",
+        "claim": "Exact Delaware Valley Industrial Resource Center name and manufacturing support services. The separately mentioned Institute for Manufacturing Excellence is not merged; ownership remains unknown. Official homepage directly fetched HTTP200 and readable text inspected September 18, 2026 after JEV screening. Saved source HTML and classifier output in jev-batch-007."
+      }
+    ],
+    "as_of": "2026-09-06",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://www.dvirc.org/wp-content/uploads/2023/12/dvirc-logo-text-12x3-1.png",
+    "logo_kind": "logo",
+    "logo_source_url": "https://www.dvirc.org/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  }
+}

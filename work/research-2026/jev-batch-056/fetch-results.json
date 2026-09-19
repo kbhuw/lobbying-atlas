@@ -1,0 +1,790 @@
+[
+  {
+    "id": "5d5805c00dc95eb3",
+    "name": "Office of U.s. Senator for the District of Columbia Ankit Jain",
+    "requested_url": "https://statehood.dc.gov/page/new-columbia-statehood-commission",
+    "status": 200,
+    "final_url": "https://statehood.dc.gov/page/new-columbia-statehood-commission",
+    "text_chars": 9580,
+    "logo_candidates": [
+      {
+        "alt": "Statehood logo",
+        "src": "/sites/default/files/dc/sites/housingdc/dhcdlogo2.png"
+      },
+      {
+        "alt": "Statehood logo",
+        "src": "/sites/default/files/dc/sites/housingdc/dcop-logo.png",
+        "title": "DCOP logo"
+      },
+      {
+        "alt": "Mayor logo",
+        "src": "/sites/default/files/dc/sites/statehood/agency_content/images/DC-Statehood-Logo-2018-BLUE-PNG.png",
+        "title": "Mayor logo"
+      },
+      {
+        "typeof": "foaf:Image",
+        "src": "https://statehood.dc.gov/sites/default/files/styles/callout_interior_graphic/public/dc/sites/statehood/agency_content/images/MMB%20Logo_Regular%20colors-01.png?itok=PnGr9Zwb",
+        "width": "200",
+        "height": "41",
+        "alt": ""
+      },
+      {
+        "alt": "Mayor logo",
+        "src": "/sites/default/files/dc/shared_assets/MMB_branding_top%20banner_white-01.png",
+        "title": "Mayor logo"
+      },
+      {
+        "src": "/sites/all/themes/dc_agency_bluesteel/images/Facebooklogo.png",
+        "title": "Facebook"
+      },
+      {
+        "src": "/sites/all/themes/dc_agency_bluesteel/images/Instagramlogo.png",
+        "title": "Instagram"
+      },
+      {
+        "alt": "Follow Us on X",
+        "src": "/sites/default/files/dc/shared_assets/x-logo-white-300.png",
+        "title": "Twitter"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-056/5d5805c00dc95eb3.txt"
+  },
+  {
+    "id": "fa68e043a0cd4fab",
+    "name": "Oklahoma Arthritis Center, P.c.",
+    "requested_url": "https://www.okarthritis.com/",
+    "status": 200,
+    "final_url": "https://www.okarthritis.com/",
+    "text_chars": 2168,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "sizes": "474px",
+        "srcset": "https://static.wixstatic.com/media/048421_a8db2d680ad647ee9bc44baf553e11f6~mv2.png/v1/fill/w_474,h_96,al_c,lg_1,q_85,enc_avif,quality_auto/oac%20logo.png 1x, https://static.wixstatic.com/media/048421_a8db2d680ad647ee9bc44baf553e11f6~mv2.png/v1/fill/w_650,h_132,al_c,lg_1,q_85,enc_avif,quality_auto/oac%20logo.png 2x",
+        "id": "img_comp-lmz3z5u7",
+        "src": "https://static.wixstatic.com/media/048421_a8db2d680ad647ee9bc44baf553e11f6~mv2.png/v1/fill/w_474,h_96,al_c,lg_1,q_85,enc_avif,quality_auto/oac%20logo.png",
+        "alt": "oac logo",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "474",
+        "height": "96"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-056/fa68e043a0cd4fab.txt"
+  },
+  {
+    "id": "7712ca809b234448",
+    "name": "Outpatient Endovascular and Interventional Society (cardiovascular Coalition)",
+    "requested_url": "https://oeisweb.com/",
+    "status": 200,
+    "final_url": "https://oeisweb.com/",
+    "text_chars": 6864,
+    "logo_candidates": [
+      {
+        "alt": "OEIS",
+        "width": "150",
+        "height": "58",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "srcset": "/_next/image?url=%2Fimages%2Foeis-logo.png&w=256&q=75&dpl=dpl_8exvSmytf29hh1ouQF8qydwZ1rK5 1x, /_next/image?url=%2Fimages%2Foeis-logo.png&w=384&q=75&dpl=dpl_8exvSmytf29hh1ouQF8qydwZ1rK5 2x",
+        "src": "/_next/image?url=%2Fimages%2Foeis-logo.png&w=384&q=75&dpl=dpl_8exvSmytf29hh1ouQF8qydwZ1rK5"
+      },
+      {
+        "src": "https://members.oeisweb.com/wp-content/uploads/2025/02/Philips-Logo-scaled.jpg",
+        "alt": "Philips",
+        "loading": "lazy",
+        "style": "height:auto;max-height:54px;object-fit:contain;width:100%",
+        "class": "jsx-3645ca1f4c2af839"
+      },
+      {
+        "src": "https://members.oeisweb.com/wp-content/uploads/2026/04/ISET-Logo-Tagline-Horizontal-.png",
+        "alt": "ISET",
+        "loading": "lazy",
+        "style": "height:auto;max-height:54px;object-fit:contain;width:100%",
+        "class": "jsx-3645ca1f4c2af839"
+      },
+      {
+        "alt": "OEIS",
+        "loading": "lazy",
+        "width": "150",
+        "height": "58",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "srcset": "/_next/image?url=%2Fimages%2Foeis-logo.png&w=256&q=75&dpl=dpl_8exvSmytf29hh1ouQF8qydwZ1rK5 1x, /_next/image?url=%2Fimages%2Foeis-logo.png&w=384&q=75&dpl=dpl_8exvSmytf29hh1ouQF8qydwZ1rK5 2x",
+        "src": "/_next/image?url=%2Fimages%2Foeis-logo.png&w=384&q=75&dpl=dpl_8exvSmytf29hh1ouQF8qydwZ1rK5"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-056/7712ca809b234448.txt"
+  },
+  {
+    "id": "a6e60717613addfa",
+    "name": "Peregrine Technologies, Inc.",
+    "requested_url": "https://peregrine.io/",
+    "status": 200,
+    "final_url": "https://peregrine.io/",
+    "text_chars": 6276,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-056/a6e60717613addfa.txt"
+  },
+  {
+    "id": "4c1ad20c5fcafa46",
+    "name": "School Nutrition Association",
+    "requested_url": "https://schoolnutrition.org/about-us/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "f70fcda52e78c602",
+    "name": "Seagatespace",
+    "requested_url": "https://seagatespace.com/",
+    "status": 200,
+    "final_url": "https://seagatespace.com/",
+    "text_chars": 5532,
+    "logo_candidates": [
+      {
+        "width": "200",
+        "height": "50",
+        "src": "https://seagatespace.com/wp-content/uploads/2025/08/logo.png",
+        "alt": "SBS - Seagate Space"
+      },
+      {
+        "width": "200",
+        "height": "50",
+        "src": "https://seagatespace.com/wp-content/uploads/2025/08/logo.png",
+        "alt": "SBS - Seagate Space"
+      },
+      {
+        "class": "footer-logo lazy",
+        "loading": "lazy",
+        "src": "https://seagatespace.com/wp-content/uploads/2025/08/logo-400x67.png",
+        "alt": "Seagate Space logo",
+        "width": "400",
+        "height": "67"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-056/f70fcda52e78c602.txt"
+  },
+  {
+    "id": "7850de5ba95af841",
+    "name": "Shine Technologies (fka Phoenix, Llc)",
+    "requested_url": "https://www.shinefusion.com/",
+    "status": 200,
+    "final_url": "https://www.shinefusion.com/",
+    "text_chars": 2701,
+    "logo_candidates": [
+      {
+        "src": "https://cdn.prod.website-files.com/63bc8628e53c0011f41ce702/641c7f88f70044635a6e1024_SHINE%20Logo%202023.svg",
+        "loading": "lazy",
+        "alt": "SHINE logo in blue",
+        "class": "image-15"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/63bc8628e53c0011f41ce702/641c7f88f70044635a6e1024_SHINE%20Logo%202023.svg",
+        "loading": "lazy",
+        "alt": "SHINE logo in blue",
+        "class": "image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/63bc8628e53c0011f41ce702/641c7f88f70044635a6e1024_SHINE%20Logo%202023.svg",
+        "loading": "lazy",
+        "alt": "SHINE logo in blue",
+        "class": "image-2"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/63bc8628e53c0011f41ce702/64ed03a10fb216ac641b73bb_logo.svg",
+        "loading": "lazy",
+        "alt": "Twitter Logo",
+        "class": "facebook"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-056/7850de5ba95af841.txt"
+  },
+  {
+    "id": "5a9034c3e83dcc84",
+    "name": "Skynrg Americas, Inc.",
+    "requested_url": "https://skynrg.com/",
+    "status": 200,
+    "final_url": "https://skynrg.com/",
+    "text_chars": 6434,
+    "logo_candidates": [
+      {
+        "width": "1070",
+        "height": "358",
+        "src": "/wp-content/uploads/2022/04/skynrg.svg",
+        "class": "custom-logo",
+        "alt": "SkyNRG",
+        "decoding": "async",
+        "fetchpriority": "high"
+      },
+      {
+        "width": "1070",
+        "height": "358",
+        "src": "/wp-content/uploads/2022/04/skynrg.svg",
+        "class": "custom-logo",
+        "alt": "SkyNRG",
+        "decoding": "async"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-056/5a9034c3e83dcc84.txt"
+  },
+  {
+    "id": "189f72a06f3a96e4",
+    "name": "Snap Diagnostics, LLP",
+    "requested_url": "https://snapdiagnostics.com/",
+    "status": 200,
+    "final_url": "https://snapdiagnostics.com/",
+    "text_chars": 3829,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-056/189f72a06f3a96e4.txt"
+  },
+  {
+    "id": "dc8d574c7858c087",
+    "name": "Supply Energetics, Inc.",
+    "requested_url": "https://supplyenergetics.com/",
+    "status": 200,
+    "final_url": "https://www.supplyenergetics.com/",
+    "text_chars": 2846,
+    "logo_candidates": [
+      {
+        "src": "/img/logo.png",
+        "width": "500",
+        "height": "80",
+        "class": "my-4 h-8 w-auto sm:h-9 xl:h-11",
+        "alt": "Supply Energetics Logo"
+      },
+      {
+        "src": "/img/logo-white.png",
+        "class": "mx-auto h-18 w-auto lg:mx-0",
+        "alt": "Supply Energetics Logo",
+        "loading": "lazy"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-056/dc8d574c7858c087.txt"
+  },
+  {
+    "id": "35b40c98d91f677e",
+    "name": "T. Rowe Price Group, Inc.",
+    "requested_url": "https://troweprice.gcs-web.com/investor-relations",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "57214ce183c743f0",
+    "name": "the American Medical Informatics Association",
+    "requested_url": "https://amia.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "aa458d1039dcbacc",
+    "name": "the City of Fairhope, AL",
+    "requested_url": "https://www.fairhopeal.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "63af1d8ee6cad61e",
+    "name": "the Judge Rotenberg Educational Center, Inc.",
+    "requested_url": "https://judgerc.org/",
+    "status": 200,
+    "final_url": "https://judgerc.org/",
+    "text_chars": 4705,
+    "logo_candidates": [
+      {
+        "width": "292",
+        "height": "70",
+        "src": "https://judgerc.org/wp-content/uploads/2023/02/logo.png",
+        "class": "attachment-full size-full wp-image-58",
+        "alt": ""
+      },
+      {
+        "width": "292",
+        "height": "70",
+        "src": "https://judgerc.org/wp-content/uploads/2023/02/logo.png",
+        "class": "attachment-full size-full wp-image-58",
+        "alt": ""
+      },
+      {
+        "width": "160",
+        "height": "28",
+        "src": "https://judgerc.org/wp-content/uploads/2023/02/web_footer_logo.png",
+        "class": "attachment-full size-full wp-image-4350",
+        "alt": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-056/63af1d8ee6cad61e.txt"
+  },
+  {
+    "id": "d9d3d62e15969274",
+    "name": "Virpax Pharmaceuticals",
+    "requested_url": "https://virpaxpharma.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "df29e9a60a459f6a",
+    "name": "West Sacramento Area Flood Control Agency",
+    "requested_url": "https://www.cityofwestsacramento.org/government/departments/public-works/flood-protection",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "1fe1a2b1bef804b4",
+    "name": "Allegany County",
+    "requested_url": "https://www.alleganyco.gov/",
+    "status": 202,
+    "final_url": "https://www.alleganyco.gov/",
+    "text_chars": 77,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-056/1fe1a2b1bef804b4.txt"
+  },
+  {
+    "id": "44dbef629ab17e81",
+    "name": "Erudio Bio, Inc.",
+    "requested_url": "https://www.erudio.bio/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "eca6e22858f8864f",
+    "name": "ES Windows LLC",
+    "requested_url": "https://www.eswindows.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "697c62ff1ad544a3",
+    "name": "Exia Labs",
+    "requested_url": "https://www.exialabs.com/",
+    "status": 200,
+    "final_url": "https://www.exialabs.com/",
+    "text_chars": 732,
+    "logo_candidates": [
+      {
+        "class": "concept_brandLogo__T2VSH",
+        "src": "/images/exialabs_logo.jpg",
+        "alt": ""
+      },
+      {
+        "src": "/images/building_with/Air Force Logo.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/building_with/United_States_Pacific_Command_Logo.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/building_with/diu_logo.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/building_with/t2com_logo.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/building_with/101st_airborne_division_logo.png",
+        "alt": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-056/697c62ff1ad544a3.txt"
+  },
+  {
+    "id": "4d1b3096282a0263",
+    "name": "Federal Home Loan Bank of Cincinnati",
+    "requested_url": "https://www.fhlbcin.com/",
+    "status": 200,
+    "final_url": "https://www.fhlbcin.com/my.logout.php3?errorcode=19",
+    "text_chars": 122,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-056/4d1b3096282a0263.txt"
+  },
+  {
+    "id": "880114f8d12b2306",
+    "name": "Health & Environmental Funders Network Lead Funders Action Network",
+    "requested_url": "https://hefn.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "502fab032053c934",
+    "name": "International Materials, Inc.",
+    "requested_url": "https://imigroup.com/",
+    "status": 202,
+    "final_url": "https://imigroup.com/",
+    "text_chars": 85,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-056/502fab032053c934.txt"
+  },
+  {
+    "id": "906dc9802c739233",
+    "name": "Jamestown S'klallam Tribe",
+    "requested_url": "https://jamestowntribe.org/",
+    "error": "HTTP Error 307: Temporary Redirect"
+  },
+  {
+    "id": "7f55547f257979c1",
+    "name": "Kentucky Society of Anesthesiologists",
+    "requested_url": "https://www.kyanesthesiologists.org/",
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  {
+    "id": "f76026dbba929ea1",
+    "name": "Litefighter Tactical, LLC",
+    "requested_url": "https://litefighter-tactical.com/",
+    "status": 200,
+    "final_url": "https://litefighter-tactical.com/",
+    "text_chars": 3763,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-056/f76026dbba929ea1.txt"
+  },
+  {
+    "id": "b413dcbc1f8461bb",
+    "name": "Little Giant Ladder Systems, LLC",
+    "requested_url": "https://www.littlegiantladders.com/",
+    "status": 200,
+    "final_url": "https://www.littlegiantladders.com/",
+    "text_chars": 7026,
+    "logo_candidates": [
+      {
+        "srcset": "//www.littlegiantladders.com/cdn/shop/files/Little_Giant_Logo-new_200x.png?v=1755874151 1x, //www.littlegiantladders.com/cdn/shop/files/Little_Giant_Logo-new_200x@2x.png?v=1755874151 2x",
+        "src": "//www.littlegiantladders.com/cdn/shop/files/Little_Giant_Logo-new_200x.png?v=1755874151",
+        "loading": "lazy",
+        "class": "header__heading-logo",
+        "width": "1647",
+        "height": "256",
+        "alt": "Little Giant Ladders logo"
+      },
+      {
+        "srcset": "//www.littlegiantladders.com/cdn/shop/files/Little_Giant_Logo-new_200x.png?v=1755874151 1x, //www.littlegiantladders.com/cdn/shop/files/Little_Giant_Logo-new_200x@2x.png?v=1755874151 2x",
+        "src": "//www.littlegiantladders.com/cdn/shop/files/Little_Giant_Logo-new_200x.png?v=1755874151",
+        "loading": "lazy",
+        "class": "header__heading-logo",
+        "width": "1647",
+        "height": "256",
+        "alt": "Little Giant Ladders logo"
+      },
+      {
+        "src": "//www.littlegiantladders.com/cdn/shop/files/Lowes-Logo-1.png?height=150&v=1661360718",
+        "alt": "Lowes Logo",
+        "srcset": "//www.littlegiantladders.com/cdn/shop/files/Lowes-Logo-1.png?height=150&v=1661360718 200w",
+        "width": "200",
+        "height": "150",
+        "loading": "lazy"
+      },
+      {
+        "src": "//www.littlegiantladders.com/cdn/shop/files/Grainger_Logo_White.png?height=150&v=1711743529",
+        "alt": "Grainger Logo",
+        "srcset": "//www.littlegiantladders.com/cdn/shop/files/Grainger_Logo_White.png?height=104&v=1711743529 352w, //www.littlegiantladders.com/cdn/shop/files/Grainger_Logo_White.png?height=150&v=1711743529 506w",
+        "width": "506",
+        "height": "150",
+        "loading": "lazy"
+      },
+      {
+        "src": "//www.littlegiantladders.com/cdn/shop/files/Ace-Logo-1.png?height=150&v=1661360851",
+        "alt": "Ace Hardware Logo",
+        "srcset": "//www.littlegiantladders.com/cdn/shop/files/Ace-Logo-1.png?height=150&v=1661360851 200w",
+        "width": "200",
+        "height": "150",
+        "loading": "lazy"
+      },
+      {
+        "src": "//www.littlegiantladders.com/cdn/shop/files/Fastenal-Logo-1.png?height=150&v=1661360301",
+        "alt": "Fastenal Logo",
+        "srcset": "//www.littlegiantladders.com/cdn/shop/files/Fastenal-Logo-1.png?height=150&v=1661360301 200w",
+        "width": "200",
+        "height": "150",
+        "loading": "lazy"
+      },
+      {
+        "src": "//www.littlegiantladders.com/cdn/shop/files/GLOBAL_INDS.png?height=150&v=1725469920",
+        "alt": "Global Industrial logo white",
+        "srcset": "//www.littlegiantladders.com/cdn/shop/files/GLOBAL_INDS.png?height=61&v=1725469920 352w, //www.littlegiantladders.com/cdn/shop/files/GLOBAL_INDS.png?height=146&v=1725469920 832w, //www.littlegiantladders.com/cdn/shop/files/GLOBAL_INDS.png?height=150&v=1725469920 853w",
+        "width": "853",
+        "height": "150",
+        "loading": "lazy"
+      },
+      {
+        "src": "//www.littlegiantladders.com/cdn/shop/files/AMERICAN_LADDERS_REV.png?height=150&v=1725469921",
+        "alt": "American Ladders and Scaffolds, Inc logo white",
+        "srcset": "//www.littlegiantladders.com/cdn/shop/files/AMERICAN_LADDERS_REV.png?height=132&v=1725469921 352w, //www.littlegiantladders.com/cdn/shop/files/AMERICAN_LADDERS_REV.png?height=150&v=1725469921 398w",
+        "width": "398",
+        "height": "150",
+        "loading": "lazy"
+      },
+      {
+        "src": "//www.littlegiantladders.com/cdn/shop/files/ULINE.png?height=150&v=1725469920",
+        "alt": "ULINE logo white",
+        "srcset": "//www.littlegiantladders.com/cdn/shop/files/ULINE.png?height=104&v=1725469920 352w, //www.littlegiantladders.com/cdn/shop/files/ULINE.png?height=150&v=1725469920 503w",
+        "width": "503",
+        "height": "150",
+        "loading": "lazy"
+      },
+      {
+        "src": "//www.littlegiantladders.com/cdn/shop/files/Mallory_logo_REV.png?height=150&v=1725469920",
+        "alt": "Mallory logo white",
+        "srcset": "//www.littlegiantladders.com/cdn/shop/files/Mallory_logo_REV.png?height=150&v=1725469920 258w",
+        "width": "258",
+        "height": "150",
+        "loading": "lazy"
+      },
+      {
+        "src": "//www.littlegiantladders.com/cdn/shop/files/northern-tools-logo.png?height=150&v=1725471868",
+        "alt": "Northern tools logo white",
+        "srcset": "//www.littlegiantladders.com/cdn/shop/files/northern-tools-logo.png?height=108&v=1725471868 352w, //www.littlegiantladders.com/cdn/shop/files/northern-tools-logo.png?height=150&v=1725471868 487w",
+        "width": "487",
+        "height": "150",
+        "loading": "lazy"
+      },
+      {
+        "src": "//www.littlegiantladders.com/cdn/shop/files/Ritz_Safety_Logo-_White.png?height=150&v=1741715691",
+        "alt": "Ritz Safety logo in a white version",
+        "srcset": "//www.littlegiantladders.com/cdn/shop/files/Ritz_Safety_Logo-_White.png?height=150&v=1741715691 324w",
+        "width": "324",
+        "height": "150",
+        "loading": "lazy"
+      },
+      {
+        "src": "//www.littlegiantladders.com/cdn/shop/files/logo-foot_1.png?v=1655319900&width=170",
+        "alt": "Little Giant Ladder Systems logo",
+        "srcset": "//www.littlegiantladders.com/cdn/shop/files/logo-foot_1.png?v=1655319900&width=170 170w",
+        "width": "170",
+        "height": "142",
+        "loading": "lazy"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-056/b413dcbc1f8461bb.txt"
+  },
+  {
+    "id": "f0b39cce58fa37eb",
+    "name": "Marin Clean Energy",
+    "requested_url": "https://mcecleanenergy.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "b43c97351a046eb6",
+    "name": "Merced Irrigation District",
+    "requested_url": "https://mercedid.org/",
+    "status": 202,
+    "final_url": "https://mercedid.org/",
+    "text_chars": 82,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-056/b43c97351a046eb6.txt"
+  },
+  {
+    "id": "8597eb382ced6c38",
+    "name": "National Strength and Conditioning Association",
+    "requested_url": "https://www.nsca.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "26b1f6c5ff1a803c",
+    "name": "Offshore Marine Service Association",
+    "requested_url": "https://offshoremarine.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "62014c301b32c665",
+    "name": "Options Clearing Corporation",
+    "requested_url": "https://www.theocc.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "bc0ac08671fd4ed0",
+    "name": "OTC Markets Group",
+    "requested_url": "https://www.otcmarkets.com/",
+    "status": 200,
+    "final_url": "https://www.otcmarkets.com/",
+    "text_chars": 201,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-056/bc0ac08671fd4ed0.txt"
+  },
+  {
+    "id": "58ae4dc0a74dc809",
+    "name": "Port of Kalama",
+    "requested_url": "https://portofkalama.com/",
+    "status": 202,
+    "final_url": "https://portofkalama.com/",
+    "text_chars": 74,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-056/58ae4dc0a74dc809.txt"
+  },
+  {
+    "id": "749e136e1355132a",
+    "name": "Professional Rodeo Cowboys Association",
+    "requested_url": "https://prorodeo.com/",
+    "status": 200,
+    "final_url": "https://prorodeo.com/",
+    "text_chars": 94,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-056/749e136e1355132a.txt"
+  },
+  {
+    "id": "e5e41ecf8a747946",
+    "name": "RAI Services Company",
+    "requested_url": "https://www.reynoldsamerican.com/",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  {
+    "id": "6e51e30f5a75d236",
+    "name": "RAI Services Company (formerly Reynolds American Inc.)",
+    "requested_url": "https://www.reynoldsamerican.com/",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  {
+    "id": "8cef621cecba7b5f",
+    "name": "Rapid Deployment Inc.",
+    "requested_url": "https://rapideployment.net/",
+    "error": "HTTP Error 406: Not Acceptable"
+  },
+  {
+    "id": "deb24c3790caf598",
+    "name": "Reinvestment Fund",
+    "requested_url": "https://www.reinvestment.com/",
+    "status": 200,
+    "final_url": "https://www.reinvestment.com/",
+    "text_chars": 8732,
+    "logo_candidates": [
+      {
+        "class": "logo",
+        "src": "https://www.reinvestment.com/wp-content/uploads/2023/12/rating_s-and-p_aa-minus-1-1-e1702505244977.png"
+      },
+      {
+        "class": "logo",
+        "src": "https://www.reinvestment.com/wp-content/uploads/2021/10/reinvestment-footer-logo-2.png"
+      },
+      {
+        "class": "logo",
+        "src": "https://www.reinvestment.com/wp-content/uploads/2021/10/reinvestment-footer-logo-3.png"
+      },
+      {
+        "class": "logo",
+        "src": "https://www.reinvestment.com/wp-content/uploads/2021/10/reinvestment-footer-logo-4.png"
+      },
+      {
+        "class": "logo",
+        "src": "https://www.reinvestment.com/wp-content/uploads/2022/03/ia50_2022-1.png"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-056/deb24c3790caf598.txt"
+  },
+  {
+    "id": "f15654529223171e",
+    "name": "Robertson Monagle & Eastaugh PC (on Behalf of City of Seward AK)",
+    "requested_url": "https://www.cityofseward.us/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "fdcd3d194092e284",
+    "name": "Seeqc, Inc",
+    "requested_url": "https://seeqc.com/",
+    "status": 200,
+    "final_url": "https://seeqc.com/",
+    "text_chars": 6288,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-056/fdcd3d194092e284.txt"
+  },
+  {
+    "id": "5aef9a611f110f49",
+    "name": "the Anschutz Corporation",
+    "requested_url": "https://www.anschutz.com/",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "id": "15a37c4e4e0f2da3",
+    "name": "the Sustainable Aviation Fuel Coalition",
+    "requested_url": "https://thesafcoalition.com/",
+    "status": 202,
+    "final_url": "https://thesafcoalition.com/",
+    "text_chars": 102,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-056/15a37c4e4e0f2da3.txt"
+  },
+  {
+    "id": "f015ec360d25a7e0",
+    "name": "Worldwide Electric Corporation",
+    "requested_url": "https://worldwideelectric.com/about-us/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "81c9926da7bc2ade",
+    "name": "Xanterra Leisure Holding LLC",
+    "requested_url": "https://www.xanterra.com/",
+    "status": 200,
+    "final_url": "https://www.xanterra.com/",
+    "text_chars": 8397,
+    "logo_candidates": [
+      {
+        "src": "https://www.xanterra.com/content/themes/base/assets/img/logo-black-desktop.svg",
+        "alt": "Xanterra"
+      },
+      {
+        "src": "https://www.xanterra.com/content/themes/base/assets/img/logo-black-mobile.svg",
+        "alt": "Xanterra"
+      },
+      {
+        "src": "https://www.xanterra.com/content/themes/base/assets/img/logo-black-desktop.svg",
+        "alt": "Xanterra"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-056/81c9926da7bc2ade.txt"
+  },
+  {
+    "id": "a1128160911cf226",
+    "name": "Atada",
+    "requested_url": "https://atada.org/for-collectors",
+    "status": 200,
+    "final_url": "https://atada.org/for-collectors",
+    "text_chars": 16977,
+    "logo_candidates": [
+      {
+        "data-src": "https://images.squarespace-cdn.com/content/v1/56e89d039f7266c5a6811f78/1596481389222-K10CD7NIE28DLOI9K1S6/Hand-circle-Logo1.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/56e89d039f7266c5a6811f78/1596481389222-K10CD7NIE28DLOI9K1S6/Hand-circle-Logo1.png",
+        "data-image-dimensions": "400x400",
+        "data-image-focal-point": "0.5,0.5",
+        "alt": "Hand-circle-Logo1.png",
+        "data-load": "false",
+        "class": "summary-thumbnail-image",
+        "elementtiming": "summary-thumbnail-image-carousel"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-056/a1128160911cf226.txt"
+  },
+  {
+    "id": "fe016a687c3e78e0",
+    "name": "Auctane, Inc. d/b/a ShipStation",
+    "requested_url": "https://www.shipstation.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "a114663ef7eaef20",
+    "name": "BRE Program Administrative Services, LLC",
+    "requested_url": "https://www.bresystem.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.bresystem.com/privacy-policy",
+    "text_chars": 2893,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "sizes": "179px",
+        "srcset": "https://static.wixstatic.com/media/c1b522_800ed19d6b3040aca88d5dfa544018f9~mv2.png/v1/fill/w_179,h_75,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/BRE-logo-transparent-300x126.png 1x, https://static.wixstatic.com/media/c1b522_800ed19d6b3040aca88d5dfa544018f9~mv2.png/v1/fill/w_358,h_150,al_c,lg_1,q_85,enc_avif,quality_auto/BRE-logo-transparent-300x126.png 2x",
+        "id": "img_comp-llp8jhfg",
+        "src": "https://static.wixstatic.com/media/c1b522_800ed19d6b3040aca88d5dfa544018f9~mv2.png/v1/fill/w_179,h_75,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/BRE-logo-transparent-300x126.png",
+        "alt": "BRE-logo-transparent-300x126.png",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "179",
+        "height": "75"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-056/a114663ef7eaef20.txt"
+  },
+  {
+    "id": "1d7ed2ac39aedfb8",
+    "name": "Chelan County Public Utility District",
+    "requested_url": "https://www.chelanpud.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "edca074038e7585d",
+    "name": "Child & Family Service",
+    "requested_url": "https://www.childandfamilyservice.org/",
+    "status": 202,
+    "final_url": "https://www.childandfamilyservice.org/",
+    "text_chars": 95,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-056/edca074038e7585d.txt"
+  }
+]

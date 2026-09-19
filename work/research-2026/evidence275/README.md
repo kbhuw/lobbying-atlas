@@ -1,0 +1,1 @@
+Batch 275 evidence. Registration excerpts are from the local official House disclosure ZIPs; website responses are the dated local website-cache captures. Search results were used only where the cache was blocked or stale and are identified as search retrieval.

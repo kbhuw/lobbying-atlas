@@ -1,0 +1,20 @@
+import ownershipCategories from './ownership-categories.json' with {type:'json'};
+export type Profile={logo_url?:string;logo_source_url?:string;logo_kind?:string;logo_background?:'dark';website_status?:string;review_outcome?:string;identity_evidence?:string|unknown[];name:string;description:string;kind:string;ownership:string;website:string;status:'sourced'|'unresolved'|'self_reported'|'registry_matched';featured:boolean;disclosed_description?:string;as_of:string;checked_at:string;legal_form:string;notes:string;sources:{label:string;url:string;claim:string}[];other_descriptions?:{description:string;url:string;effective_date:string}[]};
+export type Company={id:string;name:string;aliases:string[];members:string[];filing_ids?:string[];years:Record<string,number>;issues:string[];identity_merge?:{canonical_id:string;source_ids:string[];rationale:string;sources:{url:string;claim:string}[];reviewed_at:string};source_records?:Company[];profile?:Profile};
+export const researchStage=(profile?:Profile)=>profile?.status==='unresolved'?'unresolved':profile?.review_outcome==='partial'?'partial':profile?.review_outcome==='confirmed'?'confirmed':profile?.status||'pending';
+export const researchLabel=(status?:string)=>({confirmed:'Reviewed · core facts confirmed',partial:'Reviewed · some facts unverified',sourced:'Sourced profile',unresolved:'Identity unresolved',self_reported:'Self-reported description',registry_matched:'Automatic registry match'}[status||'']||'Not researched yet');
+export type Report={id:string;registrant:string;kind:string;amount:string;year:number;posted:string;posted_iso:string;current?:boolean};
+export function normalized(s:string){return s.normalize('NFKC').toUpperCase().replaceAll('&',' AND ').replace(/[.\u2019']/g,'').replace(/[^\p{L}\p{N}_ ]/gu,' ').trim().replace(/\s+/g,' ')}
+const acronyms=new Set(['LLC','LLP','LP','PBC','PLC','IBM','AT&T','US','USA','UK','EU','DC','AI','AARP','AFL','CIO','NASA','NRA','NAACP','GM','GE','HP','3M','UPS','USPS']);
+export function readable(s:string){return s.split(/\s+/).map(w=>acronyms.has(w)||(w.length<=3&&w===w.toUpperCase()&&!['THE','AND','FOR','OF','INC','CO'].includes(w))?w:w.charAt(0).toUpperCase()+w.slice(1).toLowerCase()).join(' ')}
+export function period(kind:string){return ['1st Quarter','2nd Quarter','3rd Quarter','4th Quarter','Mid-Year','Year-End'].find(p=>kind.startsWith(p))||null}
+export function periodLabel(p:string){return ({'1st Quarter':'Q1','2nd Quarter':'Q2','3rd Quarter':'Q3','4th Quarter':'Q4','Mid-Year':'Jan–Jun','Year-End':'Jul–Dec'} as Record<string,string>)[p]||'Registration'}
+export type ReportGroup={key:string;year:number;period:string;registrant:string;versions:Report[];latest:Report[];active:boolean;registration:boolean};
+export function groupReports(reports:Report[]):ReportGroup[]{
+ const groups=new Map<string,Report[]>();
+ for(const r of new Map(reports.map(r=>[r.id,r])).values()){const p=period(r.kind);const key=JSON.stringify([r.year,p||r.id,normalized(r.registrant)]);const rs=groups.get(key)||[];rs.push(r);groups.set(key,rs)}
+ return Array.from(groups,([key,versions])=>{versions.sort((a,b)=>b.posted_iso.localeCompare(a.posted_iso)||a.id.localeCompare(b.id));const r=versions[0],latest=versions.filter(v=>v.posted_iso===r.posted_iso),p=period(r.kind);return {key,year:r.year,period:p||'Registration',registrant:r.registrant,versions,latest,active:!!p&&latest.every(v=>!v.kind.includes('No Activity')),registration:!p}}).sort((a,b)=>b.year-a.year||b.period.localeCompare(a.period)||a.registrant.localeCompare(b.registrant));
+}
+export async function readData<T>(response:Response):Promise<T>{if(!response.ok)throw Error('Could not load data');const b=new Uint8Array(await response.arrayBuffer());const stream=b[0]===31&&b[1]===139?new Blob([b]).stream().pipeThrough(new DecompressionStream('gzip')):new Blob([b]).stream();return new Response(stream).json() as Promise<T>}
+
+export function ownershipCategory(profile?:Profile){if(profile?.ownership==='Not applicable'&&profile.kind==='Government')return 'Government body';return (ownershipCategories as Record<string,string>)[profile?.ownership||'Unknown']||'Other ownership';}

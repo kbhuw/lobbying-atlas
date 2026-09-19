@@ -1,0 +1,20 @@
+[
+  {
+    "id": "b237ae5691ee029f",
+    "name": "Mahi Pono, LLC",
+    "requested_url": "https://www.mahipono.com/maui-strong",
+    "final_url": "https://www.mahipono.com/maui-strong",
+    "status": 200,
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-065/b237ae5691ee029f.txt",
+    "text_chars": 1335
+  },
+  {
+    "id": "7dd1ad76582edd51",
+    "name": "Advance Casper (Casper Area Economic Development Alliance)",
+    "requested_url": "https://advancecasper.com/economic-development/",
+    "final_url": "https://advancecasper.com/economic-development/",
+    "status": 200,
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-065/7dd1ad76582edd51.txt",
+    "text_chars": 5410
+  }
+]

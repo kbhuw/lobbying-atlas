@@ -1,0 +1,123 @@
+{
+  "f406fb4ef1ed8a35": {
+    "name": "Gritman Medical Center",
+    "description": "Community medical center providing hospital and clinical care in Idaho.",
+    "website": "https://www.gritman.org/",
+    "kind": "Healthcare",
+    "ownership": "Unknown",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Direct official homepage identifies Gritman Medical Center and its Moscow-area hospital and outpatient clinics, including family medicine, orthopedics and emergency care. Ownership remains Unknown because this page does not explicitly establish it.",
+    "notes": "Direct official homepage identifies Gritman Medical Center and its Moscow-area hospital and outpatient clinics, including family medicine, orthopedics and emergency care. Ownership remains Unknown because this page does not explicitly establish it.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/80e5ae00-11ed-4560-a7fa-9e67a777f1d9/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.gritman.org/",
+        "label": "Organization evidence",
+        "claim": "Official Gritman Medical Center site identifies the Idaho community medical center and its healthcare services."
+      },
+      {
+        "url": "https://www.gritman.org/",
+        "label": "Official page directly reviewed September 18, 2026",
+        "claim": "Direct official homepage identifies Gritman Medical Center and its Moscow-area hospital and outpatient clinics, including family medicine, orthopedics and emergency care. Ownership remains Unknown because this page does not explicitly establish it."
+      }
+    ],
+    "as_of": "2026-09-18",
+    "checked_at": "2026-09-18",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "c811420979b993ac": {
+    "name": "Climate and Wildfire Institute",
+    "description": "Research and policy organization focused on climate change and wildfire resilience.",
+    "website": "https://www.climateandwildfire.org/about-cwi",
+    "kind": "Climate and wildfire research organization",
+    "ownership": "Nonprofit / tax-exempt",
+    "legal_form": "501(c)(3) nonprofit organization",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Direct official About page identifies the Climate & Wildfire Institute, explicitly states registered 501(c)(3) nonprofit status, and describes connecting research, policy and practice to wildfire resilience in the western United States. Partnerships do not establish a parent organization.",
+    "notes": "Direct official About page identifies the Climate & Wildfire Institute, explicitly states registered 501(c)(3) nonprofit status, and describes connecting research, policy and practice to wildfire resilience in the western United States. Partnerships do not establish a parent organization.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/4dc0197c-cabe-4b83-b0f2-f5ce76672602/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://climateandwildfire.org/",
+        "label": "Organization evidence",
+        "claim": "Official organization website supports the stated identity and description."
+      },
+      {
+        "url": "https://www.climateandwildfire.org/about-cwi",
+        "label": "Primary ownership evidence",
+        "claim": "Official CWI page identifies the organization as a registered 501(c)(3) nonprofit and describes its climate and wildfire mission."
+      },
+      {
+        "url": "https://www.climateandwildfire.org/about-cwi",
+        "label": "Official page directly reviewed September 18, 2026",
+        "claim": "Direct official About page identifies the Climate & Wildfire Institute, explicitly states registered 501(c)(3) nonprofit status, and describes connecting research, policy and practice to wildfire resilience in the western United States. Partnerships do not establish a parent organization."
+      }
+    ],
+    "as_of": "2026-09-18",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://static.wixstatic.com/media/923d0f_75aff0e8fbe6406d8082e57dca334b07%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/923d0f_75aff0e8fbe6406d8082e57dca334b07%7Emv2.png",
+    "logo_kind": "site_icon",
+    "logo_source_url": "https://www.climateandwildfire.org/about-cwi",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "01df9f112c4aba7b": {
+    "name": "SAN Gabriel Valley Council of Governments",
+    "description": "A council of governments coordinating regional planning and public programs for San Gabriel Valley municipalities.",
+    "website": "https://www.sgvcog.org/",
+    "kind": "Council of governments",
+    "ownership": "Government body",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Direct official homepage names San Gabriel Valley Council of Governments and lists its governing board, member-agency structure and regional housing, transportation and sustainability programs. The separately linked regional housing trust is not merged.",
+    "notes": "Direct official homepage names San Gabriel Valley Council of Governments and lists its governing board, member-agency structure and regional housing, transportation and sustainability programs. The separately linked regional housing trust is not merged.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/3152b7b5-2b69-4595-87d1-243d55460f5a/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://lda.gov/api/v1/clients/58401/?format=json",
+        "label": "Organization evidence",
+        "claim": "Original disclosure for SAN Gabriel Valley Council Of Governments reports the matched client activity and filing date."
+      },
+      {
+        "url": "https://www.sgvcog.org/",
+        "label": "Organization evidence",
+        "claim": "San Gabriel Valley Council of Governments official site describes regional planning and municipal coordination."
+      },
+      {
+        "url": "https://www.sgvcog.org/",
+        "label": "Official page directly reviewed September 18, 2026",
+        "claim": "Direct official homepage names San Gabriel Valley Council of Governments and lists its governing board, member-agency structure and regional housing, transportation and sustainability programs. The separately linked regional housing trust is not merged."
+      }
+    ],
+    "as_of": "2026-09-18",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://static.wixstatic.com/media/f815d4_a20dd17016094aff9655af7711a249e3~mv2.jpg/v1/fill/w_82,h_79,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/SGVCOG%20Logo%20(Vertical%20-%20Large)%20-%20No%20Text.jpg",
+    "logo_kind": "logo",
+    "logo_source_url": "https://www.sgvcog.org/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  }
+}

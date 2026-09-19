@@ -1,0 +1,449 @@
+[
+  {
+    "id": "28a8d60e0aed9c98",
+    "name": "Foodservices Brand Group LLC",
+    "requested_url": "https://www.1880hospitality.com/about/",
+    "status": 200,
+    "final_url": "https://www.1880hospitality.com/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/0-28a8d60e0aed9c98.txt",
+    "text_chars": 1448
+  },
+  {
+    "id": "635426b68800ba83",
+    "name": "Free2Care (Freedom Healthcare)",
+    "requested_url": "https://free2care.org/privacy-policy/",
+    "status": 200,
+    "final_url": "https://free2care.org/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/1-635426b68800ba83.txt",
+    "text_chars": 3942
+  },
+  {
+    "id": "ea41a5e0beaafefa",
+    "name": "GCF US Holdings",
+    "requested_url": "https://www.globalcellulosefibers.com/terms-use",
+    "status": 200,
+    "final_url": "https://www.globalcellulosefibers.com/terms-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/2-ea41a5e0beaafefa.txt",
+    "text_chars": 18575
+  },
+  {
+    "id": "ea41a5e0beaafefa",
+    "name": "GCF US Holdings",
+    "requested_url": "https://www.globalcellulosefibers.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.globalcellulosefibers.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/3-ea41a5e0beaafefa.txt",
+    "text_chars": 14261
+  },
+  {
+    "id": "3ac2078ce9d4cbf4",
+    "name": "Gelion US Corp.",
+    "requested_url": "https://gelion.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://gelion.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/4-3ac2078ce9d4cbf4.txt",
+    "text_chars": 23398
+  },
+  {
+    "id": "3ac2078ce9d4cbf4",
+    "name": "Gelion US Corp.",
+    "requested_url": "https://gelion.com/about-us",
+    "status": 200,
+    "final_url": "https://gelion.com/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/5-3ac2078ce9d4cbf4.txt",
+    "text_chars": 11078
+  },
+  {
+    "id": "4c3a811c1487048d",
+    "name": "Gen Digital (filed as formerly MoneyLion Technologies)",
+    "requested_url": "https://www.gendigital.com/us/en/legal/",
+    "status": 200,
+    "final_url": "https://www.gendigital.com/us/en/legal/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/6-4c3a811c1487048d.txt",
+    "text_chars": 8360
+  },
+  {
+    "id": "4c3a811c1487048d",
+    "name": "Gen Digital (filed as formerly MoneyLion Technologies)",
+    "requested_url": "https://www.gendigital.com/us/en/legal/cookie-policy/",
+    "status": 200,
+    "final_url": "https://www.gendigital.com/us/en/legal/cookie-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/7-4c3a811c1487048d.txt",
+    "text_chars": 16680
+  },
+  {
+    "id": "4e744d6bc4a81c39",
+    "name": "General Intuition Federal",
+    "requested_url": "https://www.generalintuition.com/terms",
+    "status": 200,
+    "final_url": "https://www.generalintuition.com/terms",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/8-4e744d6bc4a81c39.txt",
+    "text_chars": 5858
+  },
+  {
+    "id": "4e744d6bc4a81c39",
+    "name": "General Intuition Federal",
+    "requested_url": "https://www.generalintuition.com/privacy",
+    "status": 200,
+    "final_url": "https://www.generalintuition.com/privacy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/9-4e744d6bc4a81c39.txt",
+    "text_chars": 7952
+  },
+  {
+    "id": "28d635311bf2a1d2",
+    "name": "General Mills Services Inc. (filed as formerly General Mills)",
+    "requested_url": "https://www.generalmills.com/privacy-security/us-english-privacy-policy",
+    "status": 200,
+    "final_url": "https://www.generalmills.com/privacy-security/us-english-privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/10-28d635311bf2a1d2.txt",
+    "text_chars": 28943
+  },
+  {
+    "id": "28d635311bf2a1d2",
+    "name": "General Mills Services Inc. (filed as formerly General Mills)",
+    "requested_url": "https://www.generalmills.com/privacy-security/legal-terms/us-english-terms-of-use",
+    "status": 200,
+    "final_url": "https://www.generalmills.com/privacy-security/legal-terms/us-english-terms-of-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/11-28d635311bf2a1d2.txt",
+    "text_chars": 10650
+  },
+  {
+    "id": "8fe4baae7e992abb",
+    "name": "Generate Capital",
+    "requested_url": "https://generatecapital.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://generatecapital.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/12-8fe4baae7e992abb.txt",
+    "text_chars": 29367
+  },
+  {
+    "id": "40eff58b0a7629c5",
+    "name": "Genevant Sciences, Inc.",
+    "requested_url": "https://www.genevant.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.genevant.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/13-40eff58b0a7629c5.txt",
+    "text_chars": 13908
+  },
+  {
+    "id": "40eff58b0a7629c5",
+    "name": "Genevant Sciences, Inc.",
+    "requested_url": "https://www.genevant.com/about-us/",
+    "status": 200,
+    "final_url": "https://www.genevant.com/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/14-40eff58b0a7629c5.txt",
+    "text_chars": 2516
+  },
+  {
+    "id": "cf521cc06450244e",
+    "name": "Gentiva (filed as formerly Humana and Kindred at Home)",
+    "requested_url": "https://www.gentivahs.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.gentivahs.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/15-cf521cc06450244e.txt",
+    "text_chars": 17405
+  },
+  {
+    "id": "cf521cc06450244e",
+    "name": "Gentiva (filed as formerly Humana and Kindred at Home)",
+    "requested_url": "https://www.gentivahs.com/privacy-practices/",
+    "status": 200,
+    "final_url": "https://www.gentivahs.com/privacy-practices/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/16-cf521cc06450244e.txt",
+    "text_chars": 24192
+  },
+  {
+    "id": "f44b7d7e6cc70ef0",
+    "name": "Ghgsat Inc.",
+    "requested_url": "https://www.ghgsat.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.ghgsat.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/17-f44b7d7e6cc70ef0.txt",
+    "text_chars": 30945
+  },
+  {
+    "id": "f44b7d7e6cc70ef0",
+    "name": "Ghgsat Inc.",
+    "requested_url": "https://www.ghgsat.com/terms-and-conditions/",
+    "status": 200,
+    "final_url": "https://www.ghgsat.com/terms-and-conditions/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/18-f44b7d7e6cc70ef0.txt",
+    "text_chars": 7925
+  },
+  {
+    "id": "f749bf6d543a3663",
+    "name": "Glass Packaging Institute (gpi)",
+    "requested_url": "https://www.gpi.org/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.gpi.org/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/19-f749bf6d543a3663.txt",
+    "text_chars": 9144
+  },
+  {
+    "id": "f749bf6d543a3663",
+    "name": "Glass Packaging Institute (gpi)",
+    "requested_url": "https://www.gpi.org/facts-about-glass",
+    "status": 200,
+    "final_url": "https://www.gpi.org/facts-about-glass",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/20-f749bf6d543a3663.txt",
+    "text_chars": 8507
+  },
+  {
+    "id": "2055ef915e24e37b",
+    "name": "GlaxoSmithKline Inc.",
+    "requested_url": "https://www.gsk.com/en-gb/terms-of-use/",
+    "status": 200,
+    "final_url": "https://www.gsk.com/en-gb/terms-of-use/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/21-2055ef915e24e37b.txt",
+    "text_chars": 17750
+  },
+  {
+    "id": "2055ef915e24e37b",
+    "name": "GlaxoSmithKline Inc.",
+    "requested_url": "https://www.gsk.com/en-gb/investors/shareholder-information/privacy-notice-for-ordinary-shareholders/",
+    "status": 200,
+    "final_url": "https://www.gsk.com/en-gb/investors/shareholder-information/privacy-notice-for-ordinary-shareholders/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/22-2055ef915e24e37b.txt",
+    "text_chars": 11447
+  },
+  {
+    "id": "48fbc48f738e18fc",
+    "name": "Glogens",
+    "requested_url": "https://www.glogens.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.glogens.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/23-48fbc48f738e18fc.txt",
+    "text_chars": 4304
+  },
+  {
+    "id": "48fbc48f738e18fc",
+    "name": "Glogens",
+    "requested_url": "https://www.glogens.com/terms-and-conditions/",
+    "status": 200,
+    "final_url": "https://www.glogens.com/terms-and-conditions/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/24-48fbc48f738e18fc.txt",
+    "text_chars": 10463
+  },
+  {
+    "id": "0e8dae02d1e6f1bd",
+    "name": "Goldstein Policy Solutions LLC (on behalf of American Medical Manufacturers Association)",
+    "requested_url": "https://ammaunited.org/about",
+    "status": 200,
+    "final_url": "https://ammaunited.org/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/25-0e8dae02d1e6f1bd.txt",
+    "text_chars": 4152
+  },
+  {
+    "id": "7ab5acaa521ef35f",
+    "name": "GRVTY (filed as formerly Royce Geo)",
+    "requested_url": "https://www.grvty.com/resources/privacy/",
+    "status": 200,
+    "final_url": "https://www.grvty.com/resources/privacy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/26-7ab5acaa521ef35f.txt",
+    "text_chars": 1719
+  },
+  {
+    "id": "7ab5acaa521ef35f",
+    "name": "GRVTY (filed as formerly Royce Geo)",
+    "requested_url": "https://www.grvty.com/resources/terms-of-use/",
+    "status": 200,
+    "final_url": "https://www.grvty.com/resources/terms-of-use/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/27-7ab5acaa521ef35f.txt",
+    "text_chars": 1734
+  },
+  {
+    "id": "b14ce3619852eee0",
+    "name": "Haitelmex Foundation, Inc",
+    "requested_url": "https://www.fondationhaitelmex.org/index.php/component/content/article/150-your-symbolic-legal-donation-can-contribute-to-our-growth?catid=95&Itemid=437",
+    "status": 200,
+    "final_url": "https://www.fondationhaitelmex.org/index.php/component/content/article/150-your-symbolic-legal-donation-can-contribute-to-our-growth?catid=95&Itemid=437",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/28-b14ce3619852eee0.txt",
+    "text_chars": 2901
+  },
+  {
+    "id": "e8ace48aba21b9d7",
+    "name": "Helfie Management Pty Ltd",
+    "requested_url": "https://www.helfie.ai/privacy/",
+    "status": 200,
+    "final_url": "https://www.helfie.ai/privacy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/29-e8ace48aba21b9d7.txt",
+    "text_chars": 17939
+  },
+  {
+    "id": "e8ace48aba21b9d7",
+    "name": "Helfie Management Pty Ltd",
+    "requested_url": "https://www.helfie.ai/terms-of-use/",
+    "status": 200,
+    "final_url": "https://www.helfie.ai/terms-of-use/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/30-e8ace48aba21b9d7.txt",
+    "text_chars": 14602
+  },
+  {
+    "id": "e789fb57feb8a125",
+    "name": "Apollo Management Holding (via Brownstein)",
+    "requested_url": "https://www.apollo.com/aboutus",
+    "status": 200,
+    "final_url": "https://www.apollo.com/aboutus",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/31-e789fb57feb8a125.txt",
+    "text_chars": 13140
+  },
+  {
+    "id": "e789fb57feb8a125",
+    "name": "Apollo Management Holding (via Brownstein)",
+    "requested_url": "https://www.apollo.com/aboutus/contact-us",
+    "status": 200,
+    "final_url": "https://www.apollo.com/aboutus/contact-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/32-e789fb57feb8a125.txt",
+    "text_chars": 8405
+  },
+  {
+    "id": "b6d90d89989ec9de",
+    "name": "Beep, Inc. (via Brownstein)",
+    "requested_url": "https://ridebeep.com/about-beep/meet-beep",
+    "status": 200,
+    "final_url": "https://ridebeep.com/about-beep/meet-beep",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/33-b6d90d89989ec9de.txt",
+    "text_chars": 47974
+  },
+  {
+    "id": "b6d90d89989ec9de",
+    "name": "Beep, Inc. (via Brownstein)",
+    "requested_url": "https://ridebeep.com/about-beep/media-center",
+    "status": 200,
+    "final_url": "https://ridebeep.com/about-beep/media-center",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/34-b6d90d89989ec9de.txt",
+    "text_chars": 5776
+  },
+  {
+    "id": "369c6dc842ba93a7",
+    "name": "BY Light Professional IT Services, Inc.",
+    "requested_url": "https://bylight.com/about/partners/",
+    "status": 200,
+    "final_url": "https://bylight.com/about/partners/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/35-369c6dc842ba93a7.txt",
+    "text_chars": 3047
+  },
+  {
+    "id": "369c6dc842ba93a7",
+    "name": "BY Light Professional IT Services, Inc.",
+    "requested_url": "https://bylight.com/about/innovation/",
+    "status": 200,
+    "final_url": "https://bylight.com/about/innovation/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/36-369c6dc842ba93a7.txt",
+    "text_chars": 4027
+  },
+  {
+    "id": "9d0b86fdc8e56563",
+    "name": "C&S Wholesale Grocers (filed as Inc.)",
+    "requested_url": "https://www.cswg.com/about/ourbrands/",
+    "status": 200,
+    "final_url": "https://www.cswg.com/about/ourbrands/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/37-9d0b86fdc8e56563.txt",
+    "text_chars": 6690
+  },
+  {
+    "id": "9d0b86fdc8e56563",
+    "name": "C&S Wholesale Grocers (filed as Inc.)",
+    "requested_url": "https://www.cswg.com/about/our-stores/",
+    "status": 200,
+    "final_url": "https://www.cswg.com/about/our-stores/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/38-9d0b86fdc8e56563.txt",
+    "text_chars": 10770
+  },
+  {
+    "id": "2e658c89a1089dcd",
+    "name": "Secondary Materials and Recycled Textiles Association (via C2 Association Strategies)",
+    "requested_url": "https://www.smartasn.org/about-smart/staff/",
+    "status": 200,
+    "final_url": "https://www.smartasn.org/about-smart/staff/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/39-2e658c89a1089dcd.txt",
+    "text_chars": 1788
+  },
+  {
+    "id": "2e658c89a1089dcd",
+    "name": "Secondary Materials and Recycled Textiles Association (via C2 Association Strategies)",
+    "requested_url": "https://www.smartasn.org/about-smart/for-the-public/",
+    "status": 200,
+    "final_url": "https://www.smartasn.org/about-smart/for-the-public/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/40-2e658c89a1089dcd.txt",
+    "text_chars": 2261
+  },
+  {
+    "id": "b548c4b82bed5cba",
+    "name": "Canadian National Railroad",
+    "requested_url": "https://www.cn.ca/en/about-cn/",
+    "status": 200,
+    "final_url": "https://www.cn.ca/en/about-cn/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/41-b548c4b82bed5cba.txt",
+    "text_chars": 12622
+  },
+  {
+    "id": "b548c4b82bed5cba",
+    "name": "Canadian National Railroad",
+    "requested_url": "https://www.cn.ca/en/about-cn/history/",
+    "status": 200,
+    "final_url": "https://www.cn.ca/en/about-cn/history/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/42-b548c4b82bed5cba.txt",
+    "text_chars": 10792
+  },
+  {
+    "id": "e8821e65121a3ba5",
+    "name": "Cann Inc.",
+    "requested_url": "https://drinkcann.com/policies/terms-of-service",
+    "status": 200,
+    "final_url": "https://drinkcann.com/policies/terms-of-service",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/43-e8821e65121a3ba5.txt",
+    "text_chars": 53525
+  },
+  {
+    "id": "e8821e65121a3ba5",
+    "name": "Cann Inc.",
+    "requested_url": "https://drinkcann.com/pages/about?view=about-us",
+    "status": 200,
+    "final_url": "https://drinkcann.com/pages/about?view=about-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/44-e8821e65121a3ba5.txt",
+    "text_chars": 5754
+  },
+  {
+    "id": "0d62106f5c327576",
+    "name": "Vibrant Planet PBC (via Capitol Counsel)",
+    "requested_url": "https://vibrantplanet.com/about/our-story",
+    "status": 200,
+    "final_url": "https://vibrantplanet.com/about/our-story",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/45-0d62106f5c327576.txt",
+    "text_chars": 5131
+  },
+  {
+    "id": "0d62106f5c327576",
+    "name": "Vibrant Planet PBC (via Capitol Counsel)",
+    "requested_url": "https://vibrantplanet.com/about/press-room",
+    "status": 200,
+    "final_url": "https://vibrantplanet.com/about/press-room",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/46-0d62106f5c327576.txt",
+    "text_chars": 3596
+  },
+  {
+    "id": "c7349578030ee0fd",
+    "name": "Firstfloor (via Capitol Counsel)",
+    "requested_url": "https://www.firstfloor.biz/about/services/",
+    "status": 200,
+    "final_url": "https://www.firstfloor.biz/about/services/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/47-c7349578030ee0fd.txt",
+    "text_chars": 940
+  },
+  {
+    "id": "c7349578030ee0fd",
+    "name": "Firstfloor (via Capitol Counsel)",
+    "requested_url": "https://www.firstfloor.biz/about/philosophy/",
+    "status": 200,
+    "final_url": "https://www.firstfloor.biz/about/philosophy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-208/48-c7349578030ee0fd.txt",
+    "text_chars": 1940
+  },
+  {
+    "id": "ccc00e35f74f2abd",
+    "name": "American Camp Association (via Capitol Hill Partners)",
+    "requested_url": "https://www.acacamps.org/about/leadership",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

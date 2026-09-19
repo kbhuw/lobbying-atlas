@@ -1,0 +1,1115 @@
+[
+  {
+    "id": "ac1b777899c7bb0f",
+    "name": "Roman Health Ventures Inc. DBA RO",
+    "requested_url": "https://ro.co/",
+    "status": 200,
+    "final_url": "https://ro.co/",
+    "text_chars": 9078,
+    "logo_candidates": [
+      {
+        "srcset": "https://imgctf--assets.ro.co/jj2wf7627pjc/yQEombE7iD9mUVvknqWB2/f7cd3555fb14c9832f40d9956766c377/logos-desktop.png?fm=webp&q=80&w=1280, https://imgctf--assets.ro.co/jj2wf7627pjc/yQEombE7iD9mUVvknqWB2/f7cd3555fb14c9832f40d9956766c377/logos-desktop.png?fm=webp&q=80&w=2560 2x",
+        "alt": "logos for Alliance for Safe Online Pharmacies (ASOP Global), American Telemedicine Association, LegitScript, National Association of Boards of Pharmacy (NABP), and Quest Diagnostics",
+        "loading": "lazy",
+        "class": "ImageElement-sc-7d3e2264-1 bhYOF"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-098/ac1b777899c7bb0f.txt"
+  },
+  {
+    "id": "7b49034a3e126e7a",
+    "name": "Saber Healthcare Group",
+    "requested_url": "https://www.saberhealth.com/",
+    "status": 202,
+    "final_url": "https://www.saberhealth.com/",
+    "text_chars": 85,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-098/7b49034a3e126e7a.txt"
+  },
+  {
+    "id": "0408f11f08208953",
+    "name": "Sdfc Team, LLC",
+    "requested_url": "https://www.sandiegofc.com/",
+    "status": 200,
+    "final_url": "https://www.sandiegofc.com/",
+    "text_chars": 4515,
+    "logo_candidates": [
+      {
+        "alt": "SAN DIEGO FC",
+        "class": "img-responsive",
+        "src": "https://images.mlssoccer.com/image/upload/v1736288310/assets/sd_logo_pri_fc_rgb_480x480__1__720_1_ipr7gj.png"
+      },
+      {
+        "alt": "DIRECTV",
+        "src": "https://images.mlssoccer.com/image/upload/v1727387350/assets/sdn/partner-logos/DIRECTV/directv-400x240.png"
+      },
+      {
+        "alt": "Sharp",
+        "src": "https://images.mlssoccer.com/image/upload/v1736540687/assets/sdn/SHARP-Logo-White-400x240_aec0w6.png"
+      },
+      {
+        "alt": "Sycuan",
+        "src": "https://images.mlssoccer.com/image/upload/v1732589294/assets/sdn/partner-logos/Sycuan/sycuan-400x240.png"
+      },
+      {
+        "alt": "Atlanta site address",
+        "class": "img-responsive",
+        "src": "https://images.mlssoccer.com/image/upload/assets/logos/ATL.svg"
+      },
+      {
+        "alt": "Austin site address",
+        "class": "img-responsive",
+        "src": "https://images.mlssoccer.com/image/upload/assets/logos/ATX.svg"
+      },
+      {
+        "alt": "Charlotte site address",
+        "class": "img-responsive",
+        "src": "https://images.mlssoccer.com/image/upload/assets/logos/CLT.svg"
+      },
+      {
+        "alt": "Chicago site address",
+        "class": "img-responsive",
+        "src": "https://images.mlssoccer.com/image/upload/v1633105014/assets/chi/logos/CHI_Logo-2021.svg"
+      },
+      {
+        "alt": "Cincinnati site address",
+        "class": "img-responsive",
+        "src": "https://images.mlssoccer.com/image/upload/assets/logos/CIN.svg"
+      },
+      {
+        "alt": "Colorado site address",
+        "class": "img-responsive",
+        "src": "https://images.mlssoccer.com/image/upload/assets/logos/COL.svg"
+      },
+      {
+        "alt": "Columbus site address",
+        "class": "img-responsive",
+        "src": "https://images.mlssoccer.com/image/upload/assets/logos/CLB-Logo-2021-Reversed.svg"
+      },
+      {
+        "alt": "Dallas site address",
+        "class": "img-responsive",
+        "src": "https://images.mlssoccer.com/image/upload/assets/logos/DAL.svg"
+      },
+      {
+        "alt": "D.C. United site address",
+        "class": "img-responsive",
+        "src": "https://images.mlssoccer.com/image/upload/assets/logos/DC.svg"
+      },
+      {
+        "alt": "Houston site address",
+        "class": "img-responsive",
+        "src": "https://images.mlssoccer.com/image/upload/assets/logos/HOU.svg"
+      },
+      {
+        "alt": "LAFC site address",
+        "class": "img-responsive",
+        "src": "https://images.mlssoccer.com/image/upload/assets/logos/LAFC.svg"
+      },
+      {
+        "alt": "LA Galaxy site address",
+        "class": "img-responsive",
+        "src": "https://images.mlssoccer.com/image/upload/assets/logos/LA.svg"
+      },
+      {
+        "alt": "Miami site address",
+        "class": "img-responsive",
+        "src": "https://images.mlssoccer.com/image/upload/assets/logos/MIA.svg"
+      },
+      {
+        "alt": "Minnesota site address",
+        "class": "img-responsive",
+        "src": "https://images.mlssoccer.com/image/upload/assets/logos/MIN.svg"
+      },
+      {
+        "alt": "Montreal site address",
+        "class": "img-responsive",
+        "src": "https://images.mlssoccer.com/image/upload/v1668018023/assets/mtl/logos/Montreal-Club-colored_MLS_Crest-480x480.svg"
+      },
+      {
+        "alt": "Nashville site address",
+        "class": "img-responsive",
+        "src": "https://images.mlssoccer.com/image/upload/assets/logos/NSH.svg"
+      },
+      {
+        "alt": "New England site address",
+        "class": "img-responsive",
+        "src": "https://images.mlssoccer.com/image/upload/v1766020750/assets/NE_Logo_PRI_FC_RGB_480x480_fdx2us.png"
+      },
+      {
+        "alt": "New York City site address",
+        "class": "img-responsive",
+        "src": "https://images.mlssoccer.com/image/upload/v1739827823/assets/clt/Logos/NYC_Logo_PRI_FC_RGB_ct7yl8.png"
+      },
+      {
+        "alt": "Orlando site address",
+        "class": "img-responsive",
+        "src": "https://images.mlssoccer.com/image/upload/assets/logos/ORL.svg"
+      },
+      {
+        "alt": "Philadelphia site address",
+        "class": "img-responsive",
+        "src": "https://images.mlssoccer.com/image/upload/assets/logos/PHI.svg"
+      },
+      {
+        "alt": "Portland site address",
+        "class": "img-responsive",
+        "src": "https://images.mlssoccer.com/image/upload/assets/logos/POR.svg"
+      },
+      {
+        "alt": "Real Salt Lake site address",
+        "class": "img-responsive",
+        "src": "https://images.mlssoccer.com/image/upload/assets/logos/RSL.svg"
+      },
+      {
+        "alt": "Red Bull New York site address",
+        "class": "img-responsive",
+        "src": "https://images.mlssoccer.com/image/upload/v1771377726/assets/rbny/logos/RBNY_crest_480x480_ddvzxy.png"
+      },
+      {
+        "alt": "San Diego site address",
+        "class": "img-responsive",
+        "src": "https://images.mlssoccer.com/image/upload/v1736288310/assets/sd_logo_pri_fc_rgb_480x480__1__720_1_ipr7gj.png"
+      },
+      {
+        "alt": "San Jose site address",
+        "class": "img-responsive",
+        "src": "https://images.mlssoccer.com/image/upload/assets/logos/SJ.svg"
+      },
+      {
+        "alt": "Seattle site address",
+        "class": "img-responsive",
+        "src": "https://images.mlssoccer.com/image/upload/v1702319240/assets/sea/logos/SEA2023-Full_Color-480x480_fk6mpu.png"
+      },
+      {
+        "alt": "Sporting KC site address",
+        "class": "img-responsive",
+        "src": "https://images.mlssoccer.com/image/upload/assets/logos/SKC.svg"
+      },
+      {
+        "alt": "St. Louis site address",
+        "class": "img-responsive",
+        "src": "https://images.mlssoccer.com/image/upload/assets/logos/STL.svg"
+      },
+      {
+        "alt": "Toronto site address",
+        "class": "img-responsive",
+        "src": "https://images.mlssoccer.com/image/upload/assets/logos/TOR.svg"
+      },
+      {
+        "alt": "Vancouver site address",
+        "class": "img-responsive",
+        "src": "https://images.mlssoccer.com/image/upload/assets/logos/VAN.svg"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-098/0408f11f08208953.txt"
+  },
+  {
+    "id": "75d339a5a04cdcc6",
+    "name": "Secure OUR Savings, Inc. (fka Save OUR Savings, Inc.)",
+    "requested_url": "https://secureoursavings.org/",
+    "status": 200,
+    "final_url": "https://secureoursavings.org/",
+    "text_chars": 117,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-098/75d339a5a04cdcc6.txt"
+  },
+  {
+    "id": "20b4dc30f72912dd",
+    "name": "Shorelight, LLC (fka Shorelight Education, Llc)",
+    "requested_url": "https://shorelight.com/",
+    "status": 200,
+    "final_url": "https://shorelight.com/",
+    "text_chars": 13532,
+    "logo_candidates": [
+      {
+        "alt": "University of Illinois at Chicago Logo",
+        "data-src": "//images.ctfassets.net/2htm8llflwdx/6tXxt4DH89W3eldtAz796l/5b55a196f8115b183e23279a59886440/UIC_logo.png?fit=thumb&w=144",
+        "class": "image_image__6nF7k undefined lazyload"
+      },
+      {
+        "alt": "University of Illinois Springfield School Logo",
+        "data-src": "//images.ctfassets.net/2htm8llflwdx/1K4ZDwWcdlNhJgoCHC1MLT/f15c6153dc65b9293d2033f3bf9abf1b/UIS_Wordmark_UISblue__1_.png?fit=thumb&w=144",
+        "class": "image_image__6nF7k undefined lazyload"
+      },
+      {
+        "alt": "University of Nevada, Reno logo ",
+        "data-src": "//images.ctfassets.net/2htm8llflwdx/32lZa6PONm9yh4tfET1E5p/ec489f5a8cea13e4d627c16a0f6ca65a/University_of_Nevada__Reno_Logo_RGB_block_n_blue.jpg?fit=thumb&w=144",
+        "class": "image_image__6nF7k undefined lazyload"
+      },
+      {
+        "alt": "Auburn Logo",
+        "data-src": "//images.ctfassets.net/2htm8llflwdx/2U4oXO7ggfkLPljTwD96go/e3adff5acbc487fef3465212adee0a9b/AUBURN_LOGO_EPS-_1_.jpg?fit=thumb&w=144",
+        "class": "image_image__6nF7k undefined lazyload"
+      },
+      {
+        "src": "//images.ctfassets.net/2htm8llflwdx/4nTRyZbnBedhNhTxRbIPT8/ab161fa02368981cc9af84b98f3be18c/ACLA_logomark_dark-gray.jpg",
+        "alt": "American Collegiate LA"
+      },
+      {
+        "src": "//images.ctfassets.net/2htm8llflwdx/6tXxt4DH89W3eldtAz796l/5b55a196f8115b183e23279a59886440/UIC_logo.png",
+        "alt": "University of Illinois at Chicago"
+      },
+      {
+        "src": "//images.ctfassets.net/2htm8llflwdx/4Toxv08vQ5Vc4rNizROocI/5fab4b3184a493dc9306eb442266955c/UCF_logo.png",
+        "alt": "University of Central Florida"
+      },
+      {
+        "src": "//images.ctfassets.net/2htm8llflwdx/2U4oXO7ggfkLPljTwD96go/e3adff5acbc487fef3465212adee0a9b/AUBURN_LOGO_EPS-_1_.jpg",
+        "alt": "Auburn University"
+      },
+      {
+        "src": "//images.ctfassets.net/2htm8llflwdx/4nTRyZbnBedhNhTxRbIPT8/ab161fa02368981cc9af84b98f3be18c/ACLA_logomark_dark-gray.jpg",
+        "alt": "American Collegiate LA"
+      },
+      {
+        "src": "//images.ctfassets.net/2htm8llflwdx/6tXxt4DH89W3eldtAz796l/5b55a196f8115b183e23279a59886440/UIC_logo.png",
+        "alt": "University of Illinois at Chicago"
+      },
+      {
+        "src": "//images.ctfassets.net/2htm8llflwdx/4Toxv08vQ5Vc4rNizROocI/5fab4b3184a493dc9306eb442266955c/UCF_logo.png",
+        "alt": "University of Central Florida"
+      },
+      {
+        "src": "//images.ctfassets.net/2htm8llflwdx/2U4oXO7ggfkLPljTwD96go/e3adff5acbc487fef3465212adee0a9b/AUBURN_LOGO_EPS-_1_.jpg",
+        "alt": "Auburn University"
+      },
+      {
+        "src": "//images.ctfassets.net/2htm8llflwdx/4nTRyZbnBedhNhTxRbIPT8/ab161fa02368981cc9af84b98f3be18c/ACLA_logomark_dark-gray.jpg",
+        "alt": "American Collegiate LA"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-098/20b4dc30f72912dd.txt"
+  },
+  {
+    "id": "a061c0cd7b39225b",
+    "name": "Small Business Majority Foundation, Inc.",
+    "requested_url": "https://smallbusinessmajority.org/about-us",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "9a1331e94cad32ae",
+    "name": "Sosi",
+    "requested_url": "https://www.sosi.com/",
+    "status": 200,
+    "final_url": "https://www.sosi.com/",
+    "text_chars": 60,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-098/9a1331e94cad32ae.txt"
+  },
+  {
+    "id": "6f6032efb26ef24a",
+    "name": "Stardust Solutions, Inc.",
+    "requested_url": "https://stardustsrt.com/",
+    "status": 200,
+    "final_url": "https://stardustsrt.com/",
+    "text_chars": 9326,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-098/6f6032efb26ef24a.txt"
+  },
+  {
+    "id": "166f0f7e256d8776",
+    "name": "Talentbridge",
+    "requested_url": "https://talentbridge.com/",
+    "status": 202,
+    "final_url": "https://talentbridge.com/",
+    "text_chars": 72,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-098/166f0f7e256d8776.txt"
+  },
+  {
+    "id": "345bf8bb8bfc7782",
+    "name": "Taliesin Preservation",
+    "requested_url": "https://taliesinpreservation.org/",
+    "status": 202,
+    "final_url": "https://taliesinpreservation.org/",
+    "text_chars": 89,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-098/345bf8bb8bfc7782.txt"
+  },
+  {
+    "id": "84d5e54de7fb0e5f",
+    "name": "the Broadcast Center",
+    "requested_url": "https://www.broadcastcenter.org/",
+    "error": "<urlopen error [Errno 54] Connection reset by peer>"
+  },
+  {
+    "id": "ffe9f544812b2709",
+    "name": "Third EYE Health, Inc.",
+    "requested_url": "https://thirdeyehealth.net/",
+    "status": 200,
+    "final_url": "https://thirdeyehealth.net/",
+    "text_chars": 3368,
+    "logo_candidates": [
+      {
+        "height": "100",
+        "width": "300",
+        "src": "wp-content/uploads/2021/03/logo.png",
+        "alt": "Third Eye Health",
+        "title": ""
+      },
+      {
+        "decoding": "async",
+        "class": "wp-image-87 avia-img-lazy-loading-not-87 avia_image",
+        "src": "wp-content/uploads/2021/03/Third-Eye-Health-logo-white.png",
+        "alt": "Third Eye Health logo",
+        "title": "Third-Eye-Health-logo-white",
+        "height": "68",
+        "width": "170",
+        "itemprop": "thumbnailUrl"
+      },
+      {
+        "decoding": "async",
+        "class": "wp-image-87 avia-img-lazy-loading-not-87 avia_image",
+        "src": "wp-content/uploads/2021/03/Third-Eye-Health-logo-white.png",
+        "alt": "Third Eye Health logo",
+        "title": "Third-Eye-Health-logo-white",
+        "height": "68",
+        "width": "170",
+        "itemprop": "thumbnailUrl"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-098/ffe9f544812b2709.txt"
+  },
+  {
+    "id": "b297f6196e74c023",
+    "name": "Tomahawk Performance (fka Tomahawk Strategic Solutions)",
+    "requested_url": "https://tomahawkperformance.com/",
+    "status": 200,
+    "final_url": "https://tomahawkperformance.com/",
+    "text_chars": 4354,
+    "logo_candidates": [
+      {
+        "src": "//tomahawkperformance.com/cdn/shop/files/TPI_Square_Brandmark_Clear.png?height=63&v=1715107645",
+        "alt": "Tomahawk Performance - Home",
+        "width": "63",
+        "height": "63",
+        "class": "header-logo__image",
+        "srcset": "//tomahawkperformance.com/cdn/shop/files/TPI_Square_Brandmark_Clear.png?height=63&v=1715107645 1x, //tomahawkperformance.com/cdn/shop/files/TPI_Square_Brandmark_Clear.png?height=126&v=1715107645 2x, //tomahawkperformance.com/cdn/shop/files/TPI_Square_Brandmark_Clear.png?height=189&v=1715107645 3x",
+        "style": "--header-logo-image-width: 63px;--header-logo-image-width-mobile: 28px; --header-logo-image-height: 63px; --header-logo-image-height-mobile: 28px;"
+      },
+      {
+        "src": "//tomahawkperformance.com/cdn/shop/files/31---Tomahawk-Performance_Tactical-T-Shirt-Mens-Isometric_Black.jpg?v=1784139812&width=3840",
+        "alt": "Black athletic shirt with Tomahawk Performance brand logo on a light gray background",
+        "srcset": "//tomahawkperformance.com/cdn/shop/files/31---Tomahawk-Performance_Tactical-T-Shirt-Mens-Isometric_Black.jpg?v=1784139812&width=240 240w, //tomahawkperformance.com/cdn/shop/files/31---Tomahawk-Performance_Tactical-T-Shirt-Mens-Isometric_Black.jpg?v=1784139812&width=352 352w, //tomahawkperformance.com/cdn/shop/files/31---Tomahawk-Performance_Tactical-T-Shirt-Mens-Isometric_Black.jpg?v=1784139812&width=832 832w, //tomahawkperformance.com/cdn/shop/files/31---Tomahawk-Performance_Tactical-T-Shirt-Mens-Isometric_Black.jpg?v=1784139812&width=1200 1200w, //tomahawkperformance.com/cdn/shop/files/31---Tomahawk-Performance_Tactical-T-Shirt-Mens-Isometric_Black.jpg?v=1784139812&width=1600 1600w, //tomahawkperformance.com/cdn/shop/files/31---Tomahawk-Performance_Tactical-T-Shirt-Mens-Isometric_Black.jpg?v=1784139812&width=1920 1920w, //tomahawkperformance.com/cdn/shop/files/31---Tomahawk-Performance_Tactical-T-Shirt-Mens-Isometric_Black.jpg?v=1784139812&width=2560 2560w, //tomahawkperformance.com/cdn/shop/files/31---Tomahawk-Performance_Tactical-T-Shirt-Mens-Isometric_Black.jpg?v=1784139812&width=3840 3840w",
+        "width": "3840",
+        "height": "4801",
+        "loading": "lazy",
+        "sizes": "auto, (min-width: 750px) 25.0vw, 100vw",
+        "class": "product-media__image",
+        "data_max_resolution": "//tomahawkperformance.com/cdn/shop/files/31---Tomahawk-Performance_Tactical-T-Shirt-Mens-Isometric_Black.jpg?v=1784139812&width=3840",
+        "fetchpriority": "auto",
+        "style": "--focal-point: 50.0% 50.0%;"
+      },
+      {
+        "src": "//tomahawkperformance.com/cdn/shop/files/31---Tomahawk-Performance_Tactical-T-Shirt_Mens_Isometric_Ranger-Green.jpg?v=1784140766&width=3840",
+        "alt": "An olive green short-sleeve tactical t-shirt with a tan mesh patch on the right sleeve and a small square logo patch on the left chest, shown on a light gray background.",
+        "srcset": "//tomahawkperformance.com/cdn/shop/files/31---Tomahawk-Performance_Tactical-T-Shirt_Mens_Isometric_Ranger-Green.jpg?v=1784140766&width=240 240w, //tomahawkperformance.com/cdn/shop/files/31---Tomahawk-Performance_Tactical-T-Shirt_Mens_Isometric_Ranger-Green.jpg?v=1784140766&width=352 352w, //tomahawkperformance.com/cdn/shop/files/31---Tomahawk-Performance_Tactical-T-Shirt_Mens_Isometric_Ranger-Green.jpg?v=1784140766&width=832 832w, //tomahawkperformance.com/cdn/shop/files/31---Tomahawk-Performance_Tactical-T-Shirt_Mens_Isometric_Ranger-Green.jpg?v=1784140766&width=1200 1200w, //tomahawkperformance.com/cdn/shop/files/31---Tomahawk-Performance_Tactical-T-Shirt_Mens_Isometric_Ranger-Green.jpg?v=1784140766&width=1600 1600w, //tomahawkperformance.com/cdn/shop/files/31---Tomahawk-Performance_Tactical-T-Shirt_Mens_Isometric_Ranger-Green.jpg?v=1784140766&width=1920 1920w, //tomahawkperformance.com/cdn/shop/files/31---Tomahawk-Performance_Tactical-T-Shirt_Mens_Isometric_Ranger-Green.jpg?v=1784140766&width=2560 2560w, //tomahawkperformance.com/cdn/shop/files/31---Tomahawk-Performance_Tactical-T-Shirt_Mens_Isometric_Ranger-Green.jpg?v=1784140766&width=3840 3840w",
+        "width": "3840",
+        "height": "4801",
+        "loading": "lazy",
+        "sizes": "auto, (min-width: 750px) 25.0vw, 100vw",
+        "class": "product-media__image",
+        "data_max_resolution": "//tomahawkperformance.com/cdn/shop/files/31---Tomahawk-Performance_Tactical-T-Shirt_Mens_Isometric_Ranger-Green.jpg?v=1784140766&width=3840",
+        "fetchpriority": "auto",
+        "style": "--focal-point: 50.0% 50.0%;"
+      },
+      {
+        "src": "//tomahawkperformance.com/cdn/shop/files/39---Sunshirt-Mens-Logo.jpg?v=1786458599&width=3840",
+        "alt": "OTB Sunshirt LS",
+        "srcset": "//tomahawkperformance.com/cdn/shop/files/39---Sunshirt-Mens-Logo.jpg?v=1786458599&width=240 240w, //tomahawkperformance.com/cdn/shop/files/39---Sunshirt-Mens-Logo.jpg?v=1786458599&width=352 352w, //tomahawkperformance.com/cdn/shop/files/39---Sunshirt-Mens-Logo.jpg?v=1786458599&width=832 832w, //tomahawkperformance.com/cdn/shop/files/39---Sunshirt-Mens-Logo.jpg?v=1786458599&width=1200 1200w, //tomahawkperformance.com/cdn/shop/files/39---Sunshirt-Mens-Logo.jpg?v=1786458599&width=1600 1600w, //tomahawkperformance.com/cdn/shop/files/39---Sunshirt-Mens-Logo.jpg?v=1786458599&width=1920 1920w, //tomahawkperformance.com/cdn/shop/files/39---Sunshirt-Mens-Logo.jpg?v=1786458599&width=2560 2560w, //tomahawkperformance.com/cdn/shop/files/39---Sunshirt-Mens-Logo.jpg?v=1786458599&width=3840 3840w",
+        "width": "3840",
+        "height": "2559",
+        "loading": "lazy",
+        "sizes": "auto, (min-width: 750px) 25.0vw, 100vw",
+        "class": "product-media__image",
+        "data_max_resolution": "//tomahawkperformance.com/cdn/shop/files/39---Sunshirt-Mens-Logo.jpg?v=1786458599&width=3840",
+        "fetchpriority": "auto",
+        "style": "--focal-point: 50.0% 50.0%;"
+      },
+      {
+        "src": "//tomahawkperformance.com/cdn/shop/files/TPI_Square_Brandmark_Clear.png?v=1715107645&width=3840",
+        "alt": "Tomahawk Performance",
+        "srcset": "//tomahawkperformance.com/cdn/shop/files/TPI_Square_Brandmark_Clear.png?v=1715107645&width=240 240w, //tomahawkperformance.com/cdn/shop/files/TPI_Square_Brandmark_Clear.png?v=1715107645&width=352 352w, //tomahawkperformance.com/cdn/shop/files/TPI_Square_Brandmark_Clear.png?v=1715107645&width=832 832w, //tomahawkperformance.com/cdn/shop/files/TPI_Square_Brandmark_Clear.png?v=1715107645&width=1200 1200w, //tomahawkperformance.com/cdn/shop/files/TPI_Square_Brandmark_Clear.png?v=1715107645&width=1600 1600w, //tomahawkperformance.com/cdn/shop/files/TPI_Square_Brandmark_Clear.png?v=1715107645&width=1920 1920w, //tomahawkperformance.com/cdn/shop/files/TPI_Square_Brandmark_Clear.png?v=1715107645&width=2560 2560w, //tomahawkperformance.com/cdn/shop/files/TPI_Square_Brandmark_Clear.png?v=1715107645&width=3840 3840w",
+        "width": "600",
+        "height": "600",
+        "class": "logo-block__image",
+        "sizes": "(min-width: 750px) calc(var(--logo-width)), 100vw"
+      },
+      {
+        "src": "//tomahawkperformance.com/cdn/shop/files/Tomahawk-Performance_FTWP_T-Shirt_On_Form.png?v=1775230739&width=500",
+        "alt": "T-shirt with Tomahawk Performance logo and text reading \"For Those With Purpose\"",
+        "srcset": "//tomahawkperformance.com/cdn/shop/files/Tomahawk-Performance_FTWP_T-Shirt_On_Form.png?v=1775230739&width=240 240w, //tomahawkperformance.com/cdn/shop/files/Tomahawk-Performance_FTWP_T-Shirt_On_Form.png?v=1775230739&width=352 352w",
+        "width": "500",
+        "height": "625",
+        "loading": "lazy",
+        "class": "resource-card__image",
+        "sizes": "auto",
+        "ref": "imagesToTransition[]",
+        "style": "object-position: 50.0% 50.0%;"
+      },
+      {
+        "src": "//tomahawkperformance.com/cdn/shop/files/Tomahawk-Performance_FTWP-T-Shirt-SS_Black.jpg?v=1775230739&width=500",
+        "alt": "Photo of the Tomahawk Performance FTWP T-Shirt SS, a short sleeved T-shirt with the Tomahawk logo and \"For Those With Purpose\" text.",
+        "srcset": "//tomahawkperformance.com/cdn/shop/files/Tomahawk-Performance_FTWP-T-Shirt-SS_Black.jpg?v=1775230739&width=240 240w, //tomahawkperformance.com/cdn/shop/files/Tomahawk-Performance_FTWP-T-Shirt-SS_Black.jpg?v=1775230739&width=352 352w",
+        "width": "500",
+        "height": "625",
+        "loading": "lazy",
+        "class": "resource-card__image resource-card__image--secondary",
+        "sizes": "auto",
+        "ref": "imagesToTransition[]",
+        "data-media-id": "27523176497328",
+        "style": "object-position: 50.0% 50.0%;"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-098/b297f6196e74c023.txt"
+  },
+  {
+    "id": "79e7fae4cef9a5ff",
+    "name": "VAN Scoyoc Associates, Inc. OBO the University of Alabama System",
+    "requested_url": "https://uasystem.edu/",
+    "status": 200,
+    "final_url": "https://uasystem.edu/",
+    "text_chars": 2376,
+    "logo_candidates": [
+      {
+        "src": "https://uasystem.edu/wp-content/themes/ua-system/assets/images/uas_logo.png",
+        "alt": "The University of Alabama"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "520",
+        "height": "133",
+        "src": "https://uasystem.edu/wp-content/uploads/2026/03/ua-logo-white.png",
+        "alt": "",
+        "class": "wp-image-534",
+        "style": "border-top-left-radius:var(--wp--preset--border-radius--none);border-top-right-radius:var(--wp--preset--border-radius--none);border-bottom-left-radius:var(--wp--preset--border-radius--none);border-bottom-right-radius:var(--wp--preset--border-radius--none);aspect-ratio:3.9103562160887;object-fit:cover;width:150px",
+        "srcset": "https://uasystem.edu/wp-content/uploads/2026/03/ua-logo-white.png 520w, https://uasystem.edu/wp-content/uploads/2026/03/ua-logo-white-300x77.png 300w",
+        "sizes": "auto, (max-width: 520px) 100vw, 520px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "594",
+        "height": "202",
+        "src": "https://uasystem.edu/wp-content/uploads/2026/03/uab-logo-white.png",
+        "alt": "",
+        "class": "wp-image-535",
+        "style": "border-top-left-radius:var(--wp--preset--border-radius--none);border-top-right-radius:var(--wp--preset--border-radius--none);border-bottom-left-radius:var(--wp--preset--border-radius--none);border-bottom-right-radius:var(--wp--preset--border-radius--none);width:150px",
+        "srcset": "https://uasystem.edu/wp-content/uploads/2026/03/uab-logo-white.png 594w, https://uasystem.edu/wp-content/uploads/2026/03/uab-logo-white-300x102.png 300w",
+        "sizes": "auto, (max-width: 594px) 100vw, 594px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "520",
+        "height": "202",
+        "src": "https://uasystem.edu/wp-content/uploads/2026/03/uah-logo-white.png",
+        "alt": "",
+        "class": "wp-image-538",
+        "style": "border-top-left-radius:var(--wp--preset--border-radius--none);border-top-right-radius:var(--wp--preset--border-radius--none);border-bottom-left-radius:var(--wp--preset--border-radius--none);border-bottom-right-radius:var(--wp--preset--border-radius--none);aspect-ratio:2.5743127814878086;object-fit:cover;width:150px",
+        "srcset": "https://uasystem.edu/wp-content/uploads/2026/03/uah-logo-white.png 520w, https://uasystem.edu/wp-content/uploads/2026/03/uah-logo-white-300x117.png 300w",
+        "sizes": "auto, (max-width: 520px) 100vw, 520px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "520",
+        "height": "40",
+        "src": "https://uasystem.edu/wp-content/uploads/2026/03/uab-hs-logo-white.png",
+        "alt": "",
+        "class": "wp-image-537",
+        "style": "border-top-left-radius:var(--wp--preset--border-radius--none);border-top-right-radius:var(--wp--preset--border-radius--none);border-bottom-left-radius:var(--wp--preset--border-radius--none);border-bottom-right-radius:var(--wp--preset--border-radius--none);aspect-ratio:13.005128205128205;object-fit:cover;width:200px",
+        "srcset": "https://uasystem.edu/wp-content/uploads/2026/03/uab-hs-logo-white.png 520w, https://uasystem.edu/wp-content/uploads/2026/03/uab-hs-logo-white-300x23.png 300w",
+        "sizes": "auto, (max-width: 520px) 100vw, 520px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-098/79e7fae4cef9a5ff.txt"
+  },
+  {
+    "id": "802243b1bdf96da8",
+    "name": "Waverly Group on Behalf of Troika Solutions",
+    "requested_url": "https://www.troikasol.com/",
+    "status": 200,
+    "final_url": "https://www.troikasol.com/",
+    "text_chars": 120,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-098/802243b1bdf96da8.txt"
+  },
+  {
+    "id": "fdba343515379a9f",
+    "name": "Willamette Falls Locks Authority",
+    "requested_url": "https://www.willamettefallslocks.org/",
+    "status": 200,
+    "final_url": "https://www.willamettefallslocks.org/",
+    "text_chars": 1306,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "sizes": "234px",
+        "srcset": "https://static.wixstatic.com/media/96b5b4_3e973da35294425799217e90eda6b607~mv2.png/v1/fill/w_234,h_98,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/WillametteFallsLocksAuthority_Logo.png 1x, https://static.wixstatic.com/media/96b5b4_3e973da35294425799217e90eda6b607~mv2.png/v1/fill/w_468,h_196,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/WillametteFallsLocksAuthority_Logo.png 2x",
+        "id": "img_comp-lq48r0gp",
+        "src": "https://static.wixstatic.com/media/96b5b4_3e973da35294425799217e90eda6b607~mv2.png/v1/fill/w_234,h_98,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/WillametteFallsLocksAuthority_Logo.png",
+        "alt": "WillametteFallsLocksAuthority_Logo.png",
+        "style": "object-fit:cover",
+        "class": "klqGPG sFiSiq",
+        "width": "234",
+        "height": "98"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-098/fdba343515379a9f.txt"
+  },
+  {
+    "id": "95a683d2dfc21b64",
+    "name": "Winning Strategies Washington (on Behalf of Birdon America)",
+    "requested_url": "https://birdon.com/",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'birdon.com'. (_ssl.c:1129)>"
+  },
+  {
+    "id": "15a32373e77eaddb",
+    "name": "City of South Gate",
+    "requested_url": "https://www.cityofsouthgate.org/Home",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "6453df25a781bdef",
+    "name": "Arena Physica (formerly Arena Technologies, Inc.)",
+    "requested_url": "https://www.arenaphysica.com/research",
+    "status": 200,
+    "final_url": "https://www.arenaphysica.com/research",
+    "text_chars": 3836,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-098/6453df25a781bdef.txt"
+  },
+  {
+    "id": "d117f4dc3285edc0",
+    "name": "Beth Israel Lahey Health",
+    "requested_url": "https://www.bidmc.org/about-beth-israel-lahey-health",
+    "status": 200,
+    "final_url": "https://bidmc.org/about-beth-israel-lahey-health",
+    "text_chars": 1762,
+    "logo_candidates": [
+      {
+        "src": "/-/media/logos/bidmc-web-logo-header.svg",
+        "alt": "Beth Israel Deaconess Medical Center (BIDMC) logo"
+      },
+      {
+        "src": "/-/media/logos/bidmc-web-logo-footer.svg",
+        "class": "footer-logo-column--left-img",
+        "alt": "Beth Israel Deaconess Medical Center (BIDMC) logo"
+      },
+      {
+        "src": "/-/media/logos/harvard-teaching-hospital-logo-footer.svg",
+        "class": "footer-logo-column--right-img",
+        "alt": "Harvard Medical School Teaching Hospital logo"
+      },
+      {
+        "src": "/-/media/logos/harvard-teaching-hospital-logo-footer.svg",
+        "class": "footer-logo-column--right-img",
+        "alt": "Harvard Medical School Teaching Hospital logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-098/d117f4dc3285edc0.txt"
+  },
+  {
+    "id": "a76f35bec90fd0fe",
+    "name": "Brevard County FL",
+    "requested_url": "https://www.brevardfl.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "c45e3302c52cb460",
+    "name": "Broward Sheriff's Office",
+    "requested_url": "https://www.sheriff.org/",
+    "status": 200,
+    "final_url": "https://www.sheriff.org/",
+    "text_chars": 3387,
+    "logo_candidates": [
+      {
+        "src": "/media/5tqnr1ks/bso_logo.png",
+        "alt": "Broward Sheriff's Office (BSO) Logo",
+        "style": "max-height:40px;"
+      },
+      {
+        "src": "/media/zvkfmcy2/youtubemusiclogo.png",
+        "alt": "Shop Talk Podcast on YouTube Music",
+        "class": "img-fluid mb-3"
+      },
+      {
+        "src": "/media/l4ypolkg/spotify_logo_rgb_green.png",
+        "alt": "Shop Talk Podcast on Spotify",
+        "class": "img-fluid mb-3"
+      },
+      {
+        "class": "hp-resource-card-image",
+        "src": "media/0rsfxho5/saferwatch-logo.png",
+        "alt": "Safer Watch Logo"
+      },
+      {
+        "class": "hp-resource-card-image",
+        "src": "/media/2rdja4ox/crime-map-logo.png?v=1da6a897abab090",
+        "alt": "BSO Crime Mapping"
+      },
+      {
+        "class": "hp-resource-card-image",
+        "src": "media/vo1oxhbr/crime-stoppers-logo.png",
+        "alt": "Crime Stopper logo"
+      },
+      {
+        "class": "hp-resource-card-image",
+        "src": "/media/dizhiyng/video-visitation.jpg",
+        "alt": "Video Visitation Logo"
+      },
+      {
+        "class": "hp-resource-card-image",
+        "src": "/media/jw3pvnwy/fire-rescue-public-education.jpg",
+        "alt": "Fire Rescue Public Education Logo"
+      },
+      {
+        "src": "/media/ifuj2jcs/calea-logo.png",
+        "alt": "CALEA.org",
+        "class": "p-1 img-fluid",
+        "width": "60",
+        "height": "60"
+      },
+      {
+        "src": "/media/dzwoyx4w/iso-logo.png",
+        "alt": "ISO",
+        "class": "p-1 img-fluid",
+        "width": "60",
+        "height": "60"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-098/c45e3302c52cb460.txt"
+  },
+  {
+    "id": "bd3d3fd68a1c1217",
+    "name": "Click N' Close (formerly MID America Mortgage)",
+    "requested_url": "https://www.clicknclose.com/",
+    "status": 200,
+    "final_url": "https://www.clicknclose.com/",
+    "text_chars": 6270,
+    "logo_candidates": [
+      {
+        "data-perfmatters-preload": null,
+        "src": "https://8blocks.s3.us-west-1.amazonaws.com/mam/cnc/images/logo.png",
+        "alt": "Click n' Close",
+        "fetchpriority": "high"
+      },
+      {
+        "data-perfmatters-preload": null,
+        "src": "https://8blocks.s3.us-west-1.amazonaws.com/mam/cnc/images/logo.png",
+        "alt": "Click n' Close",
+        "fetchpriority": "high"
+      },
+      {
+        "data-perfmatters-preload": null,
+        "src": "https://8blocks.s3.us-west-1.amazonaws.com/mam/cnc/images/logo.png",
+        "alt": "Click n' Close",
+        "fetchpriority": "high"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-098/bd3d3fd68a1c1217.txt"
+  },
+  {
+    "id": "e4f31ac245475819",
+    "name": "Intelas (AQMDs)",
+    "requested_url": "https://www.intelashealth.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "258a3472c6c43ea1",
+    "name": "Kearney & Company, P.c.",
+    "requested_url": "https://www.kearneyco.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "259bb5bdbb756db7",
+    "name": "Kinterra Capital Corp.",
+    "requested_url": "https://www.kinterracapital.com/",
+    "status": 200,
+    "final_url": "https://www.kinterracapital.com/",
+    "text_chars": 3469,
+    "logo_candidates": [
+      {
+        "width": "394",
+        "loading": "lazy",
+        "alt": "Homepage",
+        "src": "https://cdn.prod.website-files.com/68c0e150be242750bae0bbf0/690a69fbde38f911603aa9f7_Kinterra-Logo-white.svg",
+        "class": "navbar1_logo"
+      },
+      {
+        "width": "42",
+        "loading": "lazy",
+        "alt": "White flower-like symmetrical logo with eight petals on a brown circular background.",
+        "src": "https://cdn.prod.website-files.com/68c0e150be242750bae0bbf0/68c1789aa2a41a52a9395f0a_kinterra-small-logo.avif",
+        "class": "news-author-avatar"
+      },
+      {
+        "width": "42",
+        "loading": "lazy",
+        "alt": "White flower-like symmetrical logo with eight petals on a brown circular background.",
+        "src": "https://cdn.prod.website-files.com/68c0e150be242750bae0bbf0/68c1789aa2a41a52a9395f0a_kinterra-small-logo.avif",
+        "class": "news-author-avatar"
+      },
+      {
+        "width": "42",
+        "loading": "lazy",
+        "alt": "White flower-like symmetrical logo with eight petals on a brown circular background.",
+        "src": "https://cdn.prod.website-files.com/68c0e150be242750bae0bbf0/68c1789aa2a41a52a9395f0a_kinterra-small-logo.avif",
+        "class": "news-author-avatar"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/68c0e150be242750bae0bbf0/68c413a35f810026f540a80d_kinterra-logo-mobile.png",
+        "loading": "lazy",
+        "width": "253",
+        "sizes": "(max-width: 479px) 100vw, 253px",
+        "alt": "Kinterra company logo with stylized geometric emblem to the left of the text.",
+        "srcset": "https://cdn.prod.website-files.com/68c0e150be242750bae0bbf0/68c413a35f810026f540a80d_kinterra-logo-mobile-p-500.png 500w, https://cdn.prod.website-files.com/68c0e150be242750bae0bbf0/68c413a35f810026f540a80d_kinterra-logo-mobile.png 506w"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-098/259bb5bdbb756db7.txt"
+  },
+  {
+    "id": "c4c061e27adbb3ec",
+    "name": "Lisbon Valley Mining CO.",
+    "requested_url": "http://www.lisbonmine.com/",
+    "error": "HTTP Error 308: Permanent Redirect"
+  },
+  {
+    "id": "0ed6eacd675e6427",
+    "name": "LPL Financial LLC",
+    "requested_url": "https://www.lpl.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "c700bd0636b06683",
+    "name": "Master Solutions, LLC OBO Birmingham Jefferson County Transit Authority (bjcta)",
+    "requested_url": "https://www.bjcta.org/",
+    "error": "HTTP Error 526: <none>"
+  },
+  {
+    "id": "7c8d731e07e2e659",
+    "name": "National Electrical Manufacturers Association (nema)",
+    "requested_url": "https://www.nema.org/",
+    "status": 200,
+    "final_url": "https://www.nema.org/",
+    "text_chars": 4755,
+    "logo_candidates": [
+      {
+        "src": "https://www.nema.org/images/default-source/default-library/nema-hero-logo-digital-color_small.png?sfvrsn=9625f04a_3",
+        "alt": "",
+        "class": "nemalogo"
+      },
+      {
+        "src": "/images/default-source/default-library/nema-hero-logo-digital-color_small.png?sfvrsn=9625f04a_3",
+        "alt": "logo",
+        "class": "nemalogo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-098/7c8d731e07e2e659.txt"
+  },
+  {
+    "id": "321fd17a0524461e",
+    "name": "Nazanin Boniadi",
+    "requested_url": "https://www.nazaninboniadi.com/",
+    "status": 200,
+    "final_url": "https://www.nazaninboniadi.com/",
+    "text_chars": 190,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-098/321fd17a0524461e.txt"
+  },
+  {
+    "id": "f14ddcc057995b71",
+    "name": "Paradigm Operations LP",
+    "requested_url": "https://www.paradigm.xyz/important-disclosures",
+    "error": "HTTP Error 308: Permanent Redirect"
+  },
+  {
+    "id": "45072fb25c4ac344",
+    "name": "Pentech Health",
+    "requested_url": "https://www.pentechealth.com/",
+    "status": 200,
+    "final_url": "https://www.pentechealth.com/",
+    "text_chars": 8724,
+    "logo_candidates": [
+      {
+        "id": "wd97896cd2be44316a30dc4fb01aaf4b0",
+        "class": "",
+        "src": "/media/lfkdufdp/pentec-color-logo_registered_reversed.png?width=1920&quality=80",
+        "alt": "",
+        "raw-url": "/media/lfkdufdp/pentec-color-logo_registered_reversed.png?width=1920&quality=80",
+        "style": "min-height: 3.50rem; max-height: 3.50rem;"
+      },
+      {
+        "id": "wb2c60a70a6cf46f3b6afd6e70a5ddf9f",
+        "class": "logo",
+        "src": "/media/ri4pfzwb/pentec-reverse-color-logo.png?width=1920&quality=80",
+        "alt": "",
+        "raw-url": "/media/ri4pfzwb/pentec-reverse-color-logo.png?width=1920&quality=80",
+        "onclick": "waf6423f21c3846a2b1de7071164e7034scripts.menuNavigate('/', '_self'); ",
+        "style": " cursor: pointer;"
+      },
+      {
+        "id": "w677f71131e904cdf86a3f32250de0d4d",
+        "class": "mobile-only",
+        "src": "/media/t1xh1ux5/clinical-nutrition-logo.png?width=960&quality=80",
+        "alt": "",
+        "raw-url": "/media/t1xh1ux5/clinical-nutrition-logo.png?width=960&quality=80",
+        "style": ""
+      },
+      {
+        "id": "w88f9478231da47e3845e10e1599c132b",
+        "class": "not-mobile",
+        "src": "/media/t1xh1ux5/clinical-nutrition-logo.png?width=960&quality=80",
+        "alt": "",
+        "raw-url": "/media/t1xh1ux5/clinical-nutrition-logo.png?width=960&quality=80",
+        "style": ""
+      },
+      {
+        "id": "w70e5d6bb141f4fa3849b7ffa69410e85",
+        "class": "mobile-only",
+        "src": "/media/p10d2sv3/specialty-care-logo.png?width=960&quality=80",
+        "alt": "",
+        "raw-url": "/media/p10d2sv3/specialty-care-logo.png?width=960&quality=80",
+        "style": ""
+      },
+      {
+        "id": "w85915ceda33c495e845a48584bb00698",
+        "class": "not-mobile",
+        "src": "/media/p10d2sv3/specialty-care-logo.png?width=960&quality=80",
+        "alt": "",
+        "raw-url": "/media/p10d2sv3/specialty-care-logo.png?width=960&quality=80",
+        "style": ""
+      },
+      {
+        "id": "w2db64be3bee642ec9b9138444f33f74a",
+        "class": "",
+        "src": "/media/ccbf4dcy/ancc-ptap-distinction-logo-v4.png?width=640&quality=80",
+        "alt": "",
+        "raw-url": "/media/ccbf4dcy/ancc-ptap-distinction-logo-v4.png?width=640&quality=80",
+        "style": "max-width: 5.00rem;"
+      },
+      {
+        "id": "w33518f45f73043daaa6f548f92536b0c",
+        "class": "",
+        "src": "/media/geenh551/member-logo-200px.png?width=640&quality=80",
+        "alt": "",
+        "raw-url": "/media/geenh551/member-logo-200px.png?width=640&quality=80",
+        "style": "max-width: 5.00rem;"
+      },
+      {
+        "id": "wecb38732596f44e8bcea87ddde33b9d3",
+        "class": "",
+        "src": "/media/pkenod0t/pentec_only-color-logo_wht.png?width=640&quality=80",
+        "alt": "",
+        "raw-url": "/media/pkenod0t/pentec_only-color-logo_wht.png?width=640&quality=80",
+        "style": "max-width: 8.00rem;max-height: 2.50rem;"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-098/45072fb25c4ac344.txt"
+  },
+  {
+    "id": "45ff2eb6e195054a",
+    "name": "Pointclickcare Technologies USA Corp.",
+    "requested_url": "https://pointclickcare.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "aa5998c56b608f7e",
+    "name": "Rough Country, LLC",
+    "requested_url": "https://www.roughcountry.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "30f8b0577a5cbb7d",
+    "name": "Scpharmaceuticals, Inc.",
+    "requested_url": "https://ir.scpharmaceuticals.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "42292c50a7d86f88",
+    "name": "Serco North America",
+    "requested_url": "https://www.serco.com/na/about-serco-north-america",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "dd68b2efd70fdd80",
+    "name": "Smarter Technologies",
+    "requested_url": "https://www.smartertech.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "d1392d52dbced42b",
+    "name": "Virtu Financial, LLC",
+    "requested_url": "https://ir.virtu.com/",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "26c211974b3c1b09",
+    "name": "Assiniboine and Sioux Tribes of the Fort Peck Reservation",
+    "requested_url": "https://fortpecktribes.org/introduction/",
+    "status": 200,
+    "final_url": "https://fortpecktribes.org/introduction/",
+    "text_chars": 3295,
+    "logo_candidates": [
+      {
+        "itemprop": "image",
+        "class": "normal",
+        "src": "http://fortpecktribes.org/wp-content/uploads/2019/02/FortPeck-1-UpperLeftHomeButton.jpg",
+        "alt": "Logo"
+      },
+      {
+        "itemprop": "image",
+        "class": "light",
+        "src": "https://fortpecktribes.org/wp-content/themes/bridge/img/logo.png",
+        "alt": "Logo"
+      },
+      {
+        "itemprop": "image",
+        "class": "dark",
+        "src": "http://fortpecktribes.org/wp-content/uploads/2019/02/FortPeck-1-UpperLeftHomeButton.jpg",
+        "alt": "Logo"
+      },
+      {
+        "itemprop": "image",
+        "class": "sticky",
+        "src": "https://fortpecktribes.org/wp-content/themes/bridge/img/logo_black.png",
+        "alt": "Logo"
+      },
+      {
+        "itemprop": "image",
+        "class": "mobile",
+        "src": "http://fortpecktribes.org/wp-content/uploads/2019/02/FortPeck-1-UpperLeftHomeButton.jpg",
+        "alt": "Logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-098/26c211974b3c1b09.txt"
+  },
+  {
+    "id": "79f1501ab00f053f",
+    "name": "Atalco Gramercy LLC",
+    "requested_url": "https://www.atalco.com/",
+    "status": 200,
+    "final_url": "https://www.atalco.com/",
+    "text_chars": 15587,
+    "logo_candidates": [
+      {
+        "src": "https://cdn.prod.website-files.com/651834a7cde9c5589d805410/651835adaf20c15eff7742f8_Atalco-Logo-White.png",
+        "loading": "lazy",
+        "width": "184",
+        "alt": "",
+        "class": "navbar1_logo-2"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/651834a7cde9c5589d805410/651835adaf20c15eff7742f8_Atalco-Logo-White.png",
+        "loading": "lazy",
+        "alt": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-098/79f1501ab00f053f.txt"
+  },
+  {
+    "id": "c5e11072f3449075",
+    "name": "Auction.com",
+    "requested_url": "https://www.auction.com/",
+    "status": 200,
+    "final_url": "https://www.auction.com/",
+    "text_chars": 70,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-098/c5e11072f3449075.txt"
+  },
+  {
+    "id": "bdecafd9b1e5a00f",
+    "name": "Bank Policy Institute (fka The Financial Services Roundtable)",
+    "requested_url": "https://bpi.com/",
+    "status": 200,
+    "final_url": "https://bpi.com/",
+    "text_chars": 8915,
+    "logo_candidates": [
+      {
+        "data-skip-lazy": null,
+        "class": "logo long-logo",
+        "src": "/wp-content/themes/bpi/assets/images/bpi-logo.png",
+        "alt": "Bank Policy Institute"
+      },
+      {
+        "data-skip-lazy": null,
+        "class": "logo short-logo",
+        "src": "/wp-content/themes/bpi/assets/images/bpi-mark.png",
+        "alt": "Bank Policy Institute"
+      },
+      {
+        "data-skip-lazy": null,
+        "class": "logo",
+        "src": "/wp-content/themes/bpi/assets/images/bpi-logo-vertical.png",
+        "alt": "Bank Policy Institute"
+      },
+      {
+        "class": "logo short-logo",
+        "src": "/wp-content/themes/bpi/assets/images/bpi-mark.png"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-098/bdecafd9b1e5a00f.txt"
+  },
+  {
+    "id": "f3928e9d11d7f04d",
+    "name": "Binance Holdings Ltd.",
+    "requested_url": "https://www.binance.com/en/about",
+    "status": 202,
+    "final_url": "https://www.binance.com/en/about",
+    "text_chars": 88,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-098/f3928e9d11d7f04d.txt"
+  },
+  {
+    "id": "ca8b41d32b270029",
+    "name": "Blue Ridge Healthcare System",
+    "requested_url": "https://www.unchealthblueridge.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "2807c7f48c209962",
+    "name": "City of Kenmore, Washington",
+    "requested_url": "https://www.kenmorewa.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "2d3719f465d5f758",
+    "name": "City of Maywood, California",
+    "requested_url": "https://www.cityofmaywood.com/",
+    "status": 200,
+    "final_url": "https://www.cityofmaywood.com/",
+    "text_chars": 2397,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-098/2d3719f465d5f758.txt"
+  },
+  {
+    "id": "ec51021cf355df81",
+    "name": "NAIOP, the Commercial Real Estate Development Association",
+    "requested_url": "https://www.naiop.org/",
+    "status": 200,
+    "final_url": "https://www.credaglobal.org/",
+    "text_chars": 11766,
+    "logo_candidates": [
+      {
+        "src": "/contentassets/89a7e837ae2847b6806106aff72efb5c/creda_header_logo.png",
+        "alt": "CREDA Logo 1"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-098/ec51021cf355df81.txt"
+  },
+  {
+    "id": "f054f26c94f25a0b",
+    "name": "Community Associations Institute (via Cornerstone Government Affairs)",
+    "requested_url": "https://www.caionline.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "86079d20c9fc7d46",
+    "name": "Idaho Scientific Corp.",
+    "requested_url": "https://www.idahoscientific.com/",
+    "error": "HTTP Error 308: Permanent Redirect"
+  }
+]

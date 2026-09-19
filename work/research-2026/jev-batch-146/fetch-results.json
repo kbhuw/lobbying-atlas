@@ -1,0 +1,449 @@
+[
+  {
+    "id": "c51e2b94f5983b8c",
+    "name": "Michigan Hospital Association",
+    "requested_url": "https://www.mha.org/about/awards/ludwig-community-benefit-award/",
+    "status": 200,
+    "final_url": "https://www.mha.org/about/awards/ludwig-community-benefit-award/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/0-c51e2b94f5983b8c.txt",
+    "text_chars": 20976
+  },
+  {
+    "id": "c51e2b94f5983b8c",
+    "name": "Michigan Hospital Association",
+    "requested_url": "https://www.mha.org/about/member-benefits/physician-memberships/",
+    "status": 200,
+    "final_url": "https://www.mha.org/about/member-benefits/physician-memberships/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/1-c51e2b94f5983b8c.txt",
+    "text_chars": 36924
+  },
+  {
+    "id": "be6bcbcbbce15d61",
+    "name": "North American Olive Oil Association (fka Alliance for Olive Oil Qlty Stndrds)",
+    "requested_url": "https://www.aboutoliveoil.org/what-does-first-cold-pressed-olive-oil-actually-mean",
+    "status": 200,
+    "final_url": "https://www.aboutoliveoil.org/what-does-first-cold-pressed-olive-oil-actually-mean",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/2-be6bcbcbbce15d61.txt",
+    "text_chars": 6416
+  },
+  {
+    "id": "be6bcbcbbce15d61",
+    "name": "North American Olive Oil Association (fka Alliance for Olive Oil Qlty Stndrds)",
+    "requested_url": "https://www.aboutoliveoil.org/olive-oil-helps-you-get-more-nutrients-from-vegetables",
+    "status": 200,
+    "final_url": "https://www.aboutoliveoil.org/olive-oil-helps-you-get-more-nutrients-from-vegetables",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/3-be6bcbcbbce15d61.txt",
+    "text_chars": 6082
+  },
+  {
+    "id": "3bb21115646f8d07",
+    "name": "McKesson Corporation and affiliates: US Oncology and Rx Savings Solutions (former Distribution)",
+    "requested_url": "https://www.mckesson.com/about-us/mckesson-ventures/",
+    "status": 200,
+    "final_url": "https://www.mckesson.com/about-us/mckesson-ventures/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/4-3bb21115646f8d07.txt",
+    "text_chars": 6484
+  },
+  {
+    "id": "3bb21115646f8d07",
+    "name": "McKesson Corporation and affiliates: US Oncology and Rx Savings Solutions (former Distribution)",
+    "requested_url": "https://www.mckesson.com/about-us/corporate-governance/",
+    "status": 200,
+    "final_url": "https://www.mckesson.com/about-us/corporate-governance/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/5-3bb21115646f8d07.txt",
+    "text_chars": 6323
+  },
+  {
+    "id": "941de9d63ccba347",
+    "name": "Washington 2 Advocates on Behalf of Kymeta Corporation",
+    "requested_url": "https://www.kymetacorp.com/about/news-insights",
+    "status": 200,
+    "final_url": "https://www.kymetacorp.com/about/news-insights",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/6-941de9d63ccba347.txt",
+    "text_chars": 8168
+  },
+  {
+    "id": "941de9d63ccba347",
+    "name": "Washington 2 Advocates on Behalf of Kymeta Corporation",
+    "requested_url": "https://www.kymetacorp.com/about/board-of-directors",
+    "status": 200,
+    "final_url": "https://www.kymetacorp.com/about/board-of-directors",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/7-941de9d63ccba347.txt",
+    "text_chars": 19345
+  },
+  {
+    "id": "0ee06d909f0bd925",
+    "name": "International Association of Refrigerated Warehouses",
+    "requested_url": "https://www.gcca.org/about/team/",
+    "status": 200,
+    "final_url": "https://www.gcca.org/about/team/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/8-0ee06d909f0bd925.txt",
+    "text_chars": 6051
+  },
+  {
+    "id": "0ee06d909f0bd925",
+    "name": "International Association of Refrigerated Warehouses",
+    "requested_url": "https://www.gcca.org/about/advocacy/",
+    "status": 200,
+    "final_url": "https://www.gcca.org/about/advocacy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/9-0ee06d909f0bd925.txt",
+    "text_chars": 14646
+  },
+  {
+    "id": "845c72f3e0a432fa",
+    "name": "Resolution Copper Mining LLC",
+    "requested_url": "https://www.riotinto.com/en/about/growth",
+    "status": 200,
+    "final_url": "https://www.riotinto.com/en/about/growth",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/10-845c72f3e0a432fa.txt",
+    "text_chars": 21676
+  },
+  {
+    "id": "845c72f3e0a432fa",
+    "name": "Resolution Copper Mining LLC",
+    "requested_url": "https://www.riotinto.com/en/about/history",
+    "status": 200,
+    "final_url": "https://www.riotinto.com/en/about/history",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/11-845c72f3e0a432fa.txt",
+    "text_chars": 146053
+  },
+  {
+    "id": "550bdc865ef4b2fb",
+    "name": "Shine Medical Technologies",
+    "requested_url": "https://www.shinefusion.com/about/our-culture",
+    "status": 200,
+    "final_url": "https://www.shinefusion.com/about/our-culture",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/12-550bdc865ef4b2fb.txt",
+    "text_chars": 4318
+  },
+  {
+    "id": "550bdc865ef4b2fb",
+    "name": "Shine Medical Technologies",
+    "requested_url": "https://www.shinefusion.com/about/meet-the-team",
+    "status": 200,
+    "final_url": "https://www.shinefusion.com/about/meet-the-team",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/13-550bdc865ef4b2fb.txt",
+    "text_chars": 26959
+  },
+  {
+    "id": "f414be8fd9e71bf4",
+    "name": "Starr Insurance Holdings, Inc.",
+    "requested_url": "https://starrcompanies.com/About/Contact-Us",
+    "status": 200,
+    "final_url": "https://starrcompanies.com/About/Contact-Us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/14-f414be8fd9e71bf4.txt",
+    "text_chars": 1525
+  },
+  {
+    "id": "f414be8fd9e71bf4",
+    "name": "Starr Insurance Holdings, Inc.",
+    "requested_url": "https://starrcompanies.com/About/Who-We-Are",
+    "status": 200,
+    "final_url": "https://starrcompanies.com/About/Who-We-Are",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/15-f414be8fd9e71bf4.txt",
+    "text_chars": 4361
+  },
+  {
+    "id": "05d1b45e857fcaed",
+    "name": "Edge Logistics (Aerolane)",
+    "requested_url": "https://www.aerolane.com/about",
+    "status": 200,
+    "final_url": "https://www.aerolane.com/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/16-05d1b45e857fcaed.txt",
+    "text_chars": 12693
+  },
+  {
+    "id": "69bf4088aef2bd03",
+    "name": "Madison Marquette Realty Services L.p.",
+    "requested_url": "https://madisonmarquette.com/about/dei/",
+    "status": 200,
+    "final_url": "https://madisonmarquette.com/about/dei/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/17-69bf4088aef2bd03.txt",
+    "text_chars": 1589
+  },
+  {
+    "id": "69bf4088aef2bd03",
+    "name": "Madison Marquette Realty Services L.p.",
+    "requested_url": "https://madisonmarquette.com/about/company-history/",
+    "status": 200,
+    "final_url": "https://madisonmarquette.com/about/company-history/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/18-69bf4088aef2bd03.txt",
+    "text_chars": 13075
+  },
+  {
+    "id": "d5373550d567b6db",
+    "name": "Norsk Hydro Usa, LLC",
+    "requested_url": "https://www.hydro.com/en/global/privacy/website-cookies/",
+    "status": 200,
+    "final_url": "https://www.hydro.com/en/global/privacy/website-cookies/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/19-d5373550d567b6db.txt",
+    "text_chars": 3705
+  },
+  {
+    "id": "d5373550d567b6db",
+    "name": "Norsk Hydro Usa, LLC",
+    "requested_url": "https://www.hydro.com/en/global/about-hydro/",
+    "status": 200,
+    "final_url": "https://www.hydro.com/en/global/about-hydro/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/20-d5373550d567b6db.txt",
+    "text_chars": 4127
+  },
+  {
+    "id": "3ed5f7266728e74e",
+    "name": "National Children\u2019s Museum (via Akin Gump)",
+    "requested_url": "https://nationalchildrensmuseum.org/about",
+    "status": 200,
+    "final_url": "https://nationalchildrensmuseum.org/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/21-3ed5f7266728e74e.txt",
+    "text_chars": 3113
+  },
+  {
+    "id": "c17b274bb50698e6",
+    "name": "Lenovo (united States) Inc.",
+    "requested_url": "https://www.lenovo.com/about/sustainability/",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  {
+    "id": "c17b274bb50698e6",
+    "name": "Lenovo (united States) Inc.",
+    "requested_url": "https://www.lenovo.com/us/en/about/",
+    "status": 200,
+    "final_url": "https://www.lenovo.com/us/en/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/23-c17b274bb50698e6.txt",
+    "text_chars": 4156
+  },
+  {
+    "id": "24770638bf439cae",
+    "name": "DNV USA",
+    "requested_url": "https://www.dnv.us/privacy/cookie-list/",
+    "status": 200,
+    "final_url": "https://www.dnv.us/privacy/cookie-list/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/24-24770638bf439cae.txt",
+    "text_chars": 1742
+  },
+  {
+    "id": "24770638bf439cae",
+    "name": "DNV USA",
+    "requested_url": "https://www.dnv.us/about/news-media/",
+    "status": 200,
+    "final_url": "https://www.dnv.us/about/news-media/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/25-24770638bf439cae.txt",
+    "text_chars": 2558
+  },
+  {
+    "id": "f22e2c740afa26d7",
+    "name": "Gold PR Ltd. (on behalf of OJSC \u201cBakai Bank\u201d)",
+    "requested_url": "https://bakai.kg/about-us/finance/",
+    "status": 200,
+    "final_url": "https://bakai.kg/about-us/finance/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/26-f22e2c740afa26d7.txt",
+    "text_chars": 3705
+  },
+  {
+    "id": "f22e2c740afa26d7",
+    "name": "Gold PR Ltd. (on behalf of OJSC \u201cBakai Bank\u201d)",
+    "requested_url": "https://bakai.kg/about-us/projects/",
+    "status": 200,
+    "final_url": "https://bakai.kg/about-us/projects/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/27-f22e2c740afa26d7.txt",
+    "text_chars": 4215
+  },
+  {
+    "id": "d34e45116ab02360",
+    "name": "Flock Safety (represented by BGR Government Affairs)",
+    "requested_url": "https://www.flocksafety.com/legal",
+    "status": 200,
+    "final_url": "https://www.flocksafety.com/legal",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/28-d34e45116ab02360.txt",
+    "text_chars": 5125
+  },
+  {
+    "id": "d34e45116ab02360",
+    "name": "Flock Safety (represented by BGR Government Affairs)",
+    "requested_url": "https://www.flocksafety.com/privacy-ethics",
+    "status": 200,
+    "final_url": "https://www.flocksafety.com/trust",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/29-d34e45116ab02360.txt",
+    "text_chars": 9262
+  },
+  {
+    "id": "239b4a79baa46eaa",
+    "name": "CANPACK Group, Inc. and affiliates",
+    "requested_url": "https://www.canpack.com/about-us/",
+    "status": 200,
+    "final_url": "https://www.canpack.com/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/30-239b4a79baa46eaa.txt",
+    "text_chars": 3060
+  },
+  {
+    "id": "239b4a79baa46eaa",
+    "name": "CANPACK Group, Inc. and affiliates",
+    "requested_url": "https://www.canpack.com/about-us/our-culture/",
+    "status": 200,
+    "final_url": "https://www.canpack.com/about-us/our-culture/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/31-239b4a79baa46eaa.txt",
+    "text_chars": 2641
+  },
+  {
+    "id": "98e6f2803a438363",
+    "name": "Plan International, USA OBO Modernizing Foreign Assistance",
+    "requested_url": "https://www.modernizeaid.net/about-us",
+    "status": 200,
+    "final_url": "https://www.modernizeaid.net/about-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/32-98e6f2803a438363.txt",
+    "text_chars": 3960
+  },
+  {
+    "id": "2adedb795e377c28",
+    "name": "Summit Behavioral Healthcare",
+    "requested_url": "https://summitbhc.com/terms-of-service",
+    "status": 200,
+    "final_url": "https://summitbhc.com/terms-of-service/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/33-2adedb795e377c28.txt",
+    "text_chars": 7419
+  },
+  {
+    "id": "2adedb795e377c28",
+    "name": "Summit Behavioral Healthcare",
+    "requested_url": "https://summitbhc.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://summitbhc.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/34-2adedb795e377c28.txt",
+    "text_chars": 47013
+  },
+  {
+    "id": "cf79af8f62ef6506",
+    "name": "Cultural Care Au Pair (via Fierce Government Relations)",
+    "requested_url": "https://www.culturalcare.com/terms-of-use/",
+    "status": 200,
+    "final_url": "https://www.culturalcare.com/terms-of-use/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/35-cf79af8f62ef6506.txt",
+    "text_chars": 6834
+  },
+  {
+    "id": "cf79af8f62ef6506",
+    "name": "Cultural Care Au Pair (via Fierce Government Relations)",
+    "requested_url": "https://www.culturalcare.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.culturalcare.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/36-cf79af8f62ef6506.txt",
+    "text_chars": 35894
+  },
+  {
+    "id": "cea26211e856192b",
+    "name": "Norchem Concrete Products Inc",
+    "requested_url": "https://www.norchem.com/about.html",
+    "status": 200,
+    "final_url": "https://www.norchem.com/about.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/37-cea26211e856192b.txt",
+    "text_chars": 420
+  },
+  {
+    "id": "c038794b303fcb39",
+    "name": "Orbia Fluor & Energy Materials USA (fka Silatronix)",
+    "requested_url": "https://www.orbia.com/privacy-notice/",
+    "status": 200,
+    "final_url": "https://www.orbia.com/privacy-notice/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/38-c038794b303fcb39.txt",
+    "text_chars": 10307
+  },
+  {
+    "id": "c70c0c47d2894ee6",
+    "name": "University of Louisville (via Akin Gump)",
+    "requested_url": "https://louisville.edu/privacy-statement",
+    "status": 200,
+    "final_url": "https://louisville.edu/privacy-statement",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/39-c70c0c47d2894ee6.txt",
+    "text_chars": 18174
+  },
+  {
+    "id": "c70c0c47d2894ee6",
+    "name": "University of Louisville (via Akin Gump)",
+    "requested_url": "https://louisville.edu/about",
+    "status": 200,
+    "final_url": "https://louisville.edu/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/40-c70c0c47d2894ee6.txt",
+    "text_chars": 9259
+  },
+  {
+    "id": "06d29b2cb21dfe88",
+    "name": "Sullivan Strategies OBO Center for Transportation and the Environment",
+    "requested_url": "https://cte.tv/privacy-policy",
+    "status": 200,
+    "final_url": "https://cte.tv/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/41-06d29b2cb21dfe88.txt",
+    "text_chars": 4502
+  },
+  {
+    "id": "8f330f0c5548e106",
+    "name": "Voxel51, Inc",
+    "requested_url": "https://voxel51.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://voxel51.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/42-8f330f0c5548e106.txt",
+    "text_chars": 16053
+  },
+  {
+    "id": "8f330f0c5548e106",
+    "name": "Voxel51, Inc",
+    "requested_url": "https://voxel51.com/terms-of-service",
+    "status": 200,
+    "final_url": "https://voxel51.com/terms-of-service",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/43-8f330f0c5548e106.txt",
+    "text_chars": 28088
+  },
+  {
+    "id": "162c8713f9aee5e5",
+    "name": "Primary Products Ingredients Americas LLC",
+    "requested_url": "https://www.primient.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.primient.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/44-162c8713f9aee5e5.txt",
+    "text_chars": 8811
+  },
+  {
+    "id": "162c8713f9aee5e5",
+    "name": "Primary Products Ingredients Americas LLC",
+    "requested_url": "https://www.primient.com/about",
+    "status": 200,
+    "final_url": "https://www.primient.com/about/about-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/45-162c8713f9aee5e5.txt",
+    "text_chars": 6734
+  },
+  {
+    "id": "1822963b31073382",
+    "name": "the Yates Companies, Inc.",
+    "requested_url": "https://www.wgyates.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.wgyates.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/46-1822963b31073382.txt",
+    "text_chars": 4328
+  },
+  {
+    "id": "1822963b31073382",
+    "name": "the Yates Companies, Inc.",
+    "requested_url": "https://www.wgyates.com/about/",
+    "status": 200,
+    "final_url": "https://www.wgyates.com/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/47-1822963b31073382.txt",
+    "text_chars": 872
+  },
+  {
+    "id": "37864aa220a35eb2",
+    "name": "Amrize North America Inc.",
+    "requested_url": "https://www.amrize.com/us/en/terms-of-use.html",
+    "status": 200,
+    "final_url": "https://www.amrize.com/us/en/terms-of-use.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/48-37864aa220a35eb2.txt",
+    "text_chars": 34789
+  },
+  {
+    "id": "37864aa220a35eb2",
+    "name": "Amrize North America Inc.",
+    "requested_url": "https://www.amrize.com/us/en/legal-mentions.html",
+    "status": 200,
+    "final_url": "https://www.amrize.com/us/en/legal-mentions.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-146/49-37864aa220a35eb2.txt",
+    "text_chars": 5526
+  }
+]

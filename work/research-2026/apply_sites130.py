@@ -1,0 +1,23 @@
+import json,pathlib,copy
+r=pathlib.Path('work/research-2026');p=json.load(open(r/'reviewed.json'));before={};dec=[];assert not (r/'featured130-before.json').exists()
+items=[
+('5c91ebacf08f34a1','Unknown','https://ioecorp.com/our-insights/how-to-make-a-smart-city-happen-the-importance-of-kpis.html','IoE’s October 2021 article explicitly says Internet of Everything Corp was formed through the merger of Quisnet Inc. and Quantum1Net. This supports the former-name connection. Technology performance and current ownership remain unverified.'),
+('8b56d8c8b80ac489','Government body','https://yvcog.us/27/About-Us','The official About page identifies Yakima Valley Conference of Governments as a Washington regional government and coordinating body founded in 1966. The homepage fetch returned404, but the exact About page was accessible through the web reader.'),
+('bd91126a1a1ba541','Nonprofit','https://youngpeoplesalliance.org/about','Young People’s Alliance’s official About page identifies the youth-led nonprofit, its cross-party policy organizing and founders Sam Hiner and Mick Tobin. Nonprofit status is stated by the organization; a particular IRS subsection is not inferred.'),
+('963bd70649a708d6','Nonprofit','https://authorhub.spie.org/','SPIE’s official Author Hub explicitly identifies SPIE as the international society for optics and photonics and as a nonprofit society advancing light-based research. The main site’s automated-access challenge does not invalidate this independently accessible official page.'),
+('1fc7f9039fc3f32b','Unknown','https://www.sana.io/','Sana’s official site identifies Sana Health Inc. and its audiovisual-device technology. It explicitly says its device is not cleared for PTSD management and that investigations are ongoing. This verifies identity, not treatment efficacy or current ownership.'),
+('0e87e096cd7dd0e8','Government body','https://rideconnectutah.gov/history/','Connect Transit’s official history names Cache Valley Transit District, its voter-established special service district and council-appointed board. Its contact page and privacy policy independently link the current brand/domain to the exact district.'),
+('dc70ea4f9e5d36c9','Government body','https://www.cdfa.ca.gov/mkt/mkt/pdf/Laws/StrawberryCommissionLaw.pdf','CDFA’s commission law identifies California Strawberry Commission as part of state government. Its consumer website identifies the Commission in the copyright notice, and CDFA’s board directory independently lists its industry website. Promotional agricultural claims are not independently audited.')]
+for i,own,url,note in items:
+ assert p[i]['review_outcome']!='confirmed';before[i]=copy.deepcopy(p[i]);p[i].update(review_outcome='confirmed',ownership=own,identity_evidence=note,notes=note,checked_at='2026-09-13',as_of='2026-09-13')
+ if i=='8b56d8c8b80ac489':p[i]['website']=url
+ if i=='1fc7f9039fc3f32b':p[i]['description']='Develops audiovisual stimulation devices for health research and rest; clinical investigations are ongoing.'
+ sources={s['url']:s for s in p[i]['sources']};sources[url]={'url':url,'label':'Official primary evidence','claim':note};p[i]['sources']=list(sources.values());dec.append(dict(id=i,name=p[i]['name'],decision='confirmed',source=url,notes=note))
+for i,url in [('0e87e096cd7dd0e8','https://rideconnectutah.gov/privacy-policy/'),('dc70ea4f9e5d36c9','https://www.cdfa.ca.gov/mkt/mkt/BoardCommissionSites.html')]:p[i]['sources'].append({'url':url,'label':'Official identity corroboration','claim':'The official record connects the named organization with its public website.'})
+for x in json.load(open(r/'government130-cdn-logo-review.json')):
+ if x['action']!='candidate_cached':continue
+ i=x['id'];before[i]=copy.deepcopy(p[i]);note='Displayed Mercuria icon is shared group branding, not a distinct logo or ownership proof for Mercuria Energy America LLC.' if i=='95e2d0b497455279' else 'Official Nevada state seal from nv.gov, visually inspected.'
+ p[i].update(logo_url=x['asset_url'],logo_source_url=x['source_page'],logo_status='official_site_asset',logo_kind='logo',logo_background='dark' if i=='95e2d0b497455279' else 'light');p[i]['notes']+=' '+note;dec.append(dict(id=i,name=p[i]['name'],decision='logo',source=x['source_page'],asset=x['asset_url'],notes=note))
+(r/'featured130-before.json').write_text(json.dumps(before,indent=2)+'\n');(r/'featured130-decisions.json').write_text(json.dumps(dec,indent=2)+'\n')
+for f in [r/'reviewed.json',pathlib.Path('outputs/2026-research-trial/profiles.json')]:f.write_text(json.dumps(p,ensure_ascii=False,indent=2)+'\n')
+pathlib.Path('lobbying-map/research/reviewed-2026.json').write_text(json.dumps(p,ensure_ascii=False));print('Seven confirmed identities and two official assets saved')

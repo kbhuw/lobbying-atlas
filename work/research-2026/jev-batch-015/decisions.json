@@ -1,0 +1,165 @@
+{
+  "923a6b6e2bafe0ee": {
+    "name": "Nichino America",
+    "description": "Develops and supplies crop-protection products for agricultural use.",
+    "website": "https://nichino.net/",
+    "kind": "Agricultural-chemicals company",
+    "ownership": "Subsidiary",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Direct homepage establishes Nichino America, Inc. in Wilmington, Delaware and its crop-protection products. The indexed official Sustainability page explicitly names Nihon Nohyaku as its parent. The parent is not merged or its stock listing assigned to this subsidiary. Logo candidate failed visual rendering and was not assigned.",
+    "notes": "Direct homepage establishes Nichino America, Inc. in Wilmington, Delaware and its crop-protection products. The indexed official Sustainability page explicitly names Nihon Nohyaku as its parent. The parent is not merged or its stock listing assigned to this subsidiary. Logo candidate failed visual rendering and was not assigned.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/489b9a75-c5cd-412f-bbc3-4d2320dcf53c/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://nichino.net/about/",
+        "label": "Organization evidence",
+        "claim": "Nichino America's official About page says it provides crop-protection products designed for agricultural practices."
+      },
+      {
+        "url": "https://nichino.net/sustainability/",
+        "label": "Official organization evidence checked September 18, 2026",
+        "claim": "Direct homepage establishes Nichino America, Inc. in Wilmington, Delaware and its crop-protection products. The indexed official Sustainability page explicitly names Nihon Nohyaku as its parent. The parent is not merged or its stock listing assigned to this subsidiary. Logo candidate failed visual rendering and was not assigned."
+      }
+    ],
+    "as_of": "2026-09-18",
+    "checked_at": "2026-09-18",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "bcfe257452e7c4cc": {
+    "name": "the Hemophilia Alliance",
+    "description": "The Hemophilia Alliance supports federally funded hemophilia treatment centers through advocacy, group purchasing, operational resources, payer relations, and member services.",
+    "website": "https://hemoalliance.org/",
+    "kind": "Hemophilia treatment-center membership organization",
+    "ownership": "Nonprofit / tax-exempt",
+    "legal_form": "501(c)(3) nonprofit organization",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Direct homepage establishes the Hemophilia Alliance and its treatment-center advocacy and purchasing services. Indexed official What We Do page explicitly identifies nonprofit 501(c)(3) status. The separately incorporated Alliance Pharmacy is not merged.",
+    "notes": "Direct homepage establishes the Hemophilia Alliance and its treatment-center advocacy and purchasing services. Indexed official What We Do page explicitly identifies nonprofit 501(c)(3) status. The separately incorporated Alliance Pharmacy is not merged.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/339697cf-c780-4276-9731-337a640c984d/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://hemoalliance.org/",
+        "label": "Organization evidence",
+        "claim": "The Hemophilia Alliance official site says it supports the bleeding-disorders community and advises, advocates for, and negotiates on behalf of more than 100 hemophilia treatment centers."
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2020_2ndQuarter_XML.zip",
+        "label": "Organization evidence",
+        "claim": "Self-reported updates.generalDescription in 301198908.xml; signed 7/20/2020 3:05:04 PM."
+      },
+      {
+        "url": "https://hemoalliance.org/about/what-we-do/",
+        "label": "Official organization evidence checked September 18, 2026",
+        "claim": "Direct homepage establishes the Hemophilia Alliance and its treatment-center advocacy and purchasing services. Indexed official What We Do page explicitly identifies nonprofit 501(c)(3) status. The separately incorporated Alliance Pharmacy is not merged."
+      }
+    ],
+    "as_of": "2026-09-18",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://hemoalliance.org/wp-content/uploads/2025/01/HemoAlliance-White-Logo-Transparent-LARGE_cropped.png",
+    "logo_kind": "logo",
+    "logo_source_url": "https://hemoalliance.org/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "b88e953f24c1ad17": {
+    "name": "Quercis Pharma AG",
+    "description": "Quercis Pharma AG is a Swiss clinical-stage biotechnology company developing oral therapies targeting thrombo-inflammation and related diseases.",
+    "website": "https://www.quercis.com/",
+    "kind": "Pharmaceutical company",
+    "ownership": "Unknown",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Direct homepage describes Quercis Pharma investigational drug development. Indexed official Contact page identifies the exact legal entity Quercis Pharma AG in Zug, Switzerland and the matching domain. Therapies are investigational, not approved; ownership remains Unknown in the primary-source review.",
+    "notes": "Direct homepage describes Quercis Pharma investigational drug development. Indexed official Contact page identifies the exact legal entity Quercis Pharma AG in Zug, Switzerland and the matching domain. Therapies are investigational, not approved; ownership remains Unknown in the primary-source review.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/44c5a106-8f89-4201-8ecb-eb26ed5ce461/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://lda.gov/api/v1/clients/72971/?format=json",
+        "label": "Organization evidence",
+        "claim": "The supplied LDA or House disclosure source identifies Quercis Pharma AG as the client associated with the filing activity."
+      },
+      {
+        "url": "https://www.quercis.com/about",
+        "label": "Organization evidence",
+        "claim": "Quercis describes itself as a clinical-stage biotechnology company developing oral therapies that act upstream in the clotting cascade to address thrombo-inflammatory diseases."
+      },
+      {
+        "url": "https://www.quercis.com/contact",
+        "label": "Organization evidence",
+        "claim": "Quercis's official contact page identifies the legal organization as Quercis Pharma AG in Zug, Switzerland."
+      },
+      {
+        "url": "https://www.quercis.com/contact",
+        "label": "Official organization evidence checked September 18, 2026",
+        "claim": "Direct homepage describes Quercis Pharma investigational drug development. Indexed official Contact page identifies the exact legal entity Quercis Pharma AG in Zug, Switzerland and the matching domain. Therapies are investigational, not approved; ownership remains Unknown in the primary-source review."
+      }
+    ],
+    "as_of": "2026-09-18",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://framerusercontent.com/images/VoJvGnHmbbPCRS1y4JOL2aqn5M8.png",
+    "logo_kind": "site_icon",
+    "logo_source_url": "https://www.quercis.com/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "df400951a9f852f1": {
+    "name": "Renal Healthcare Association",
+    "description": "Professional association supporting independent and community-based dialysis providers through education, advocacy and services.",
+    "website": "https://www.renalhealthcare.org/home",
+    "kind": "Association",
+    "ownership": "Unknown",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Direct homepage describes RHA education and advocacy. Indexed official About Us page expands the exact name Renal Healthcare Association and describes its independent dialysis-provider and nephrology membership. The PAC is distinct; its nonprofit status is not transferred to the association.",
+    "notes": "Direct homepage describes RHA education and advocacy. Indexed official About Us page expands the exact name Renal Healthcare Association and describes its independent dialysis-provider and nephrology membership. The PAC is distinct; its nonprofit status is not transferred to the association.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/c62baa30-422f-49dd-837c-6850a036bfc0/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.renalhealthcare.org/home",
+        "label": "Organization evidence",
+        "claim": "Renal Healthcare Association says its membership supports the renal healthcare team and its mission supports independent and community-based dialysis providers through education, advocacy and services."
+      },
+      {
+        "url": "https://www.renalhealthcare.org/about-rha/about-us",
+        "label": "Official organization evidence checked September 18, 2026",
+        "claim": "Direct homepage describes RHA education and advocacy. Indexed official About Us page expands the exact name Renal Healthcare Association and describes its independent dialysis-provider and nephrology membership. The PAC is distinct; its nonprofit status is not transferred to the association."
+      }
+    ],
+    "as_of": "2026-09-18",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://higherlogicdownload.s3.amazonaws.com/NRAA/44ad6178-0c01-43d7-a216-429c3a5bd408/UploadedImages/Brand/RHA_Icon_Color__2_.png",
+    "logo_kind": "logo",
+    "logo_source_url": "https://www.renalhealthcare.org/home",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  }
+}

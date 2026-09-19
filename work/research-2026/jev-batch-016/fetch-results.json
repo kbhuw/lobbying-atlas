@@ -1,0 +1,1460 @@
+[
+  {
+    "id": "3aac344275ac61af",
+    "name": "State of AK Dept of LAW",
+    "requested_url": "https://law.alaska.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "c3d5a433050ed21c",
+    "name": "Systematic Inc.",
+    "requested_url": "https://systematic.com/us/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "1c5a11924d5c1569",
+    "name": "Tacoma Washington",
+    "requested_url": "https://www.cityoftacoma.org/",
+    "status": 200,
+    "final_url": "https://tacoma.gov/",
+    "text_chars": 5670,
+    "logo_candidates": [
+      {
+        "loading": "lazy",
+        "src": "https://tacoma.gov/wp-content/uploads/2024/12/311logo_2024-437x248.png",
+        "srcset": "https://tacoma.gov/wp-content/uploads/2024/12/311logo_2024-437x248.png, https://tacoma.gov/wp-content/uploads/2024/12/311logo_2024-437x248@2x.png 2x",
+        "alt": "",
+        "width": "437px",
+        "height": "248px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-016/1c5a11924d5c1569.txt"
+  },
+  {
+    "id": "c686ecf56b09cfea",
+    "name": "the ARC of Loudon",
+    "requested_url": "https://thearcofloudoun.org/",
+    "status": 200,
+    "final_url": "https://thearcofloudoun.org/",
+    "text_chars": 6727,
+    "logo_candidates": [
+      {
+        "src": "https://thearcofloudoun.org/wp-content/uploads/2023/11/arc-loudoun-logo.png",
+        "alt": "The Arc of Loudoun",
+        "title": "arc-loudoun-logo",
+        "width": "149",
+        "height": "95",
+        "class": "site-logo-image",
+        "data-tf-not-load": "1",
+        "importance": "high"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-016/c686ecf56b09cfea.txt"
+  },
+  {
+    "id": "426335fe7976606c",
+    "name": "Town of Minturn, Co",
+    "requested_url": "https://www.minturn.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "3753986abd0f7f8a",
+    "name": "Association of Woodworking and Furnishing Suppliers",
+    "requested_url": "https://www.awfs.org/",
+    "status": 200,
+    "final_url": "https://www.awfs.org/",
+    "text_chars": 5093,
+    "logo_candidates": [
+      {
+        "src": "https://www.awfs.org/wp-content/themes/awfs/img/logo.png",
+        "class": ""
+      },
+      {
+        "class": "alignnone size-full wp-image-154",
+        "src": "https://www.awfs.org/wp-content/uploads/2019/07/AWFS-small-logo.jpg",
+        "alt": "awfs-logosm",
+        "width": "85",
+        "height": "24"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-016/3753986abd0f7f8a.txt"
+  },
+  {
+    "id": "5e49b5b44cc2aa79",
+    "name": "City of Greenville, Mississippi",
+    "requested_url": "https://greenvillems.org/",
+    "status": 202,
+    "final_url": "https://greenvillems.org/",
+    "text_chars": 91,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-016/5e49b5b44cc2aa79.txt"
+  },
+  {
+    "id": "f69617133bc5c36a",
+    "name": "City of Ocala, Florida",
+    "requested_url": "https://www.ocalafl.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "93580e98b458a5d8",
+    "name": "City of Port St. Lucie, Florida",
+    "requested_url": "https://www.cityofpsl.com/Home",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "cc65cdde9f99d805",
+    "name": "Disaster Management Group, LLC",
+    "requested_url": "https://dmgglobal.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "a65405f2491329e4",
+    "name": "First Source Electronics LLC",
+    "requested_url": "https://www.getfse.com",
+    "status": 200,
+    "final_url": "https://www.getfsp.com/",
+    "text_chars": 8241,
+    "logo_candidates": [
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/69fcaf0c998c87a95138a119/6aa8306ebfe67c2bb4f76f39_FSE%20-%20Website%20Logo.svg",
+        "alt": "",
+        "class": "fse-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/69fcaf0c998c87a95138a119/6aa2de0e6b52e77c0bd6451d_AstraLogo%201.svg",
+        "loading": "lazy",
+        "id": "w-node-af6382ef-c02e-b8b5-ffe7-86edd0caa0a5-5138a1a2",
+        "alt": "",
+        "class": "company-icon"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/69fcaf0c998c87a95138a119/6aa2de0e6b52e77c0bd6451d_AstraLogo%201.svg",
+        "loading": "lazy",
+        "width": "Auto",
+        "height": "Auto",
+        "alt": "",
+        "id": "w-node-_64d754f4-89bf-bd3e-5f06-0dca9e7f3573-5138a1a2",
+        "class": "company-icon"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/69fcaf0c998c87a95138a119/6aa8306ebfe67c2bb4f76f39_FSE%20-%20Website%20Logo.svg",
+        "alt": "",
+        "class": "fse-logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/69fcaf0c998c87a95138a119/6a0cc606ebba48cabdba3507_LinkedIn.svg",
+        "alt": "",
+        "class": "linkedin-logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-016/a65405f2491329e4.txt"
+  },
+  {
+    "id": "8e57e0305350d941",
+    "name": "Grunley Construction Company, Inc.",
+    "requested_url": "https://grunley.com/",
+    "status": 200,
+    "final_url": "https://grunley.com/",
+    "text_chars": 5381,
+    "logo_candidates": [
+      {
+        "decoding": "async",
+        "src": "/wp-content/uploads/2022/10/grunley-footer.png",
+        "alt": "grunley_logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-016/8e57e0305350d941.txt"
+  },
+  {
+    "id": "3526fc577ee94093",
+    "name": "Moran Global Strategies, Inc. on behalf of Prieto Battery, Inc.",
+    "requested_url": "https://moranstrategies.com/",
+    "status": 200,
+    "final_url": "https://moranstrategies.com/",
+    "text_chars": 4038,
+    "logo_candidates": [
+      {
+        "src": "/wp-content/uploads/MGS-LOGO-2.png",
+        "width": "3300",
+        "height": "1252",
+        "alt": "Moran Global Strategies",
+        "id": "logo",
+        "data-height-percentage": "82"
+      },
+      {
+        "fetchpriority": "high",
+        "decoding": "async",
+        "src": "https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2.png",
+        "alt": "Moran Global Strategies",
+        "title": "MGS LOGO",
+        "width": "3300",
+        "height": "1252",
+        "srcset": "https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2.png 3300w, https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2-1280x486.png 1280w, https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2-980x372.png 980w, https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2-480x182.png 480w",
+        "sizes": "(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 3300px, 100vw",
+        "class": "wp-image-174"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "src": "https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2-WHITE.png",
+        "width": "3300",
+        "height": "1252",
+        "srcset": "https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2-WHITE.png 3300w, https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2-WHITE-1280x486.png 1280w, https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2-WHITE-980x372.png 980w, https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2-WHITE-480x182.png 480w",
+        "sizes": "(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 3300px, 100vw",
+        "class": "wp-image-197",
+        "alt": "Moran Global Strategies Logo",
+        "title": "Moran Global Strategies Logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-016/3526fc577ee94093.txt"
+  },
+  {
+    "id": "d39934e71b1c69f8",
+    "name": "Mussallem CHD Alliance",
+    "requested_url": "https://mussallemchdalliance.org/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "9e5fa580087398b8",
+    "name": "National Organization of Social Security Claimants Representatives",
+    "requested_url": "https://nosscr.org/",
+    "status": 200,
+    "final_url": "https://nosscr.org/",
+    "text_chars": 5676,
+    "logo_candidates": [
+      {
+        "src": "https://nosscr.org/wp-content/uploads/2026/07/NOSSCR-logo-horiz.png",
+        "srcset": "https://nosscr.org/wp-content/uploads/2026/07/NOSSCR-logo-horiz.png 1x, https://nosscr.org/wp-content/uploads/2026/07/NOSSCR-logo-horiz.png 2x",
+        "width": "1050",
+        "height": "137",
+        "style": "max-height:137px;height:auto;",
+        "alt": "NOSSCR Logo",
+        "data-retina_logo_url": "https://nosscr.org/wp-content/uploads/2026/07/NOSSCR-logo-horiz.png",
+        "class": "fusion-standard-logo"
+      },
+      {
+        "src": "https://nosscr.org/wp-content/uploads/2026/07/NOSSCR-logo-horiz.png",
+        "srcset": "https://nosscr.org/wp-content/uploads/2026/07/NOSSCR-logo-horiz.png 1x, https://nosscr.org/wp-content/uploads/2026/07/NOSSCR-logo-horiz.png 2x",
+        "width": "1050",
+        "height": "137",
+        "style": "max-height:137px;height:auto;",
+        "alt": "NOSSCR Logo",
+        "data-retina_logo_url": "https://nosscr.org/wp-content/uploads/2026/07/NOSSCR-logo-horiz.png",
+        "class": "fusion-mobile-logo"
+      },
+      {
+        "src": "https://nosscr.org/wp-content/uploads/2026/07/NOSSCR-logo-horiz.png",
+        "srcset": "https://nosscr.org/wp-content/uploads/2026/07/NOSSCR-logo-horiz.png 1x, https://nosscr.org/wp-content/uploads/2026/07/NOSSCR-logo-horiz.png 2x",
+        "width": "1050",
+        "height": "137",
+        "style": "max-height:137px;height:auto;",
+        "alt": "NOSSCR Logo",
+        "data-retina_logo_url": "https://nosscr.org/wp-content/uploads/2026/07/NOSSCR-logo-horiz.png",
+        "class": "fusion-sticky-logo"
+      },
+      {
+        "decoding": "async",
+        "width": "600",
+        "height": "338",
+        "alt": "NOSSCR",
+        "src": "https://nosscr.org/wp-content/uploads/2026/07/NOSSCR-logo-stacked-REV.png",
+        "data-orig-src": "https://nosscr.org/wp-content/uploads/2026/07/NOSSCR-logo-stacked-REV-600x338.png",
+        "class": "lazyload img-responsive wp-image-17452",
+        "srcset": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27665%27%20height%3D%27375%27%20viewBox%3D%270%200%20665%20375%27%3E%3Crect%20width%3D%27665%27%20height%3D%27375%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "data-srcset": "https://nosscr.org/wp-content/uploads/2026/07/NOSSCR-logo-stacked-REV-200x113.png 200w, https://nosscr.org/wp-content/uploads/2026/07/NOSSCR-logo-stacked-REV-400x226.png 400w, https://nosscr.org/wp-content/uploads/2026/07/NOSSCR-logo-stacked-REV-600x338.png 600w, https://nosscr.org/wp-content/uploads/2026/07/NOSSCR-logo-stacked-REV.png 665w",
+        "data-sizes": "auto",
+        "data-orig-sizes": "(max-width: 640px) 100vw, 600px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-016/9e5fa580087398b8.txt"
+  },
+  {
+    "id": "0ea308ec9483c06c",
+    "name": "San Francisco County Transportation Authority",
+    "requested_url": "https://www.sfcta.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "7b80483778492e0d",
+    "name": "Protect the 1st, Inc.",
+    "requested_url": "https://protect1st.org/",
+    "status": 200,
+    "final_url": "https://www.protect1st.org/",
+    "text_chars": 2534,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-016/7b80483778492e0d.txt"
+  },
+  {
+    "id": "8c7bbfc299a1b3e6",
+    "name": "Pueblo of Tesuque",
+    "requested_url": "https://tesuquepueblo.com/",
+    "status": 200,
+    "final_url": "https://tesuquepueblo.com/",
+    "text_chars": 78,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-016/8c7bbfc299a1b3e6.txt"
+  },
+  {
+    "id": "e3d87dd77721c6d1",
+    "name": "R2c, Inc.",
+    "requested_url": "https://r2c-inc.com/",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)>"
+  },
+  {
+    "id": "fe5b2f39407d74c5",
+    "name": "Rainmaker Technology Corporation",
+    "requested_url": "https://www.rainmaker.com/",
+    "status": 200,
+    "final_url": "https://www.rainmaker.com/",
+    "text_chars": 2238,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-016/fe5b2f39407d74c5.txt"
+  },
+  {
+    "id": "a3ab4e633b34ee7b",
+    "name": "Sentry View Systems, Inc.",
+    "requested_url": "https://sentryviewsystems.com/about",
+    "status": 200,
+    "final_url": "https://sentryviewsystems.com/about",
+    "text_chars": 1480,
+    "logo_candidates": [
+      {
+        "elementtiming": "nbf-header-logo-desktop",
+        "src": "//images.squarespace-cdn.com/content/v1/64898c6803839c75bd5223a1/892073bf-fc87-4e7e-b337-2194124e2011/svs+logo+white.png?format=1500w",
+        "alt": "SVS",
+        "style": "display:block",
+        "fetchpriority": "high",
+        "loading": "eager",
+        "decoding": "async",
+        "data-loader": "raw"
+      },
+      {
+        "elementtiming": "nbf-header-logo-desktop",
+        "src": "//images.squarespace-cdn.com/content/v1/64898c6803839c75bd5223a1/892073bf-fc87-4e7e-b337-2194124e2011/svs+logo+white.png?format=1500w",
+        "alt": "SVS",
+        "style": "display:block",
+        "fetchpriority": "high",
+        "loading": "eager",
+        "decoding": "async",
+        "data-loader": "raw"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-016/a3ab4e633b34ee7b.txt"
+  },
+  {
+    "id": "0879615371ecf099",
+    "name": "Shinkei Systems Corp.",
+    "requested_url": "https://shinkei.systems/",
+    "status": 200,
+    "final_url": "https://shinkei.systems/",
+    "text_chars": 4498,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-016/0879615371ecf099.txt"
+  },
+  {
+    "id": "19dd4b85f078672a",
+    "name": "South BOW Infrastructure Operations, Inc.",
+    "requested_url": "https://www.southbow.com/",
+    "status": 200,
+    "final_url": "https://www.southbow.com/",
+    "text_chars": 4407,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "width": "2549",
+        "height": "500",
+        "src": "/wp-content/uploads/2025/12/main-sb-logo-horizontal-inverse.png",
+        "class": "attachment-full size-full wp-image-56",
+        "alt": "",
+        "srcset": "/wp-content/uploads/2025/12/main-sb-logo-horizontal-inverse.png 2549w, /wp-content/uploads/2025/12/main-sb-logo-horizontal-inverse-300x59.png 300w, /wp-content/uploads/2025/12/main-sb-logo-horizontal-inverse-1024x201.png 1024w, /wp-content/uploads/2025/12/main-sb-logo-horizontal-inverse-768x151.png 768w, /wp-content/uploads/2025/12/main-sb-logo-horizontal-inverse-1536x301.png 1536w, /wp-content/uploads/2025/12/main-sb-logo-horizontal-inverse-2048x402.png 2048w",
+        "sizes": "(max-width: 2549px) 100vw, 2549px"
+      },
+      {
+        "fetchpriority": "high",
+        "width": "2549",
+        "height": "500",
+        "src": "/wp-content/uploads/2025/12/main-sb-logo-horizontal-inverse.png",
+        "class": "attachment-full size-full wp-image-56",
+        "alt": "",
+        "srcset": "/wp-content/uploads/2025/12/main-sb-logo-horizontal-inverse.png 2549w, /wp-content/uploads/2025/12/main-sb-logo-horizontal-inverse-300x59.png 300w, /wp-content/uploads/2025/12/main-sb-logo-horizontal-inverse-1024x201.png 1024w, /wp-content/uploads/2025/12/main-sb-logo-horizontal-inverse-768x151.png 768w, /wp-content/uploads/2025/12/main-sb-logo-horizontal-inverse-1536x301.png 1536w, /wp-content/uploads/2025/12/main-sb-logo-horizontal-inverse-2048x402.png 2048w",
+        "sizes": "(max-width: 2549px) 100vw, 2549px"
+      },
+      {
+        "width": "2549",
+        "height": "500",
+        "src": "/wp-content/uploads/2025/12/main-sb-logo-horizontal-inverse.png",
+        "class": "attachment-full size-full wp-image-56",
+        "alt": "",
+        "srcset": "/wp-content/uploads/2025/12/main-sb-logo-horizontal-inverse.png 2549w, /wp-content/uploads/2025/12/main-sb-logo-horizontal-inverse-300x59.png 300w, /wp-content/uploads/2025/12/main-sb-logo-horizontal-inverse-1024x201.png 1024w, /wp-content/uploads/2025/12/main-sb-logo-horizontal-inverse-768x151.png 768w, /wp-content/uploads/2025/12/main-sb-logo-horizontal-inverse-1536x301.png 1536w, /wp-content/uploads/2025/12/main-sb-logo-horizontal-inverse-2048x402.png 2048w",
+        "sizes": "(max-width: 2549px) 100vw, 2549px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-016/19dd4b85f078672a.txt"
+  },
+  {
+    "id": "cbe5ca03c6774b51",
+    "name": "the Columbus Zoological Park Association",
+    "requested_url": "https://www.columbuszoo.org/",
+    "status": 200,
+    "final_url": "https://www.columbuszoo.org/",
+    "text_chars": 4002,
+    "logo_candidates": [
+      {
+        "src": "/sites/default/files/zoo-logo.png",
+        "alt": "Home"
+      },
+      {
+        "src": "/sites/default/files/assets/ui/wilds-logo.png",
+        "alt": "Wilds logo"
+      },
+      {
+        "src": "/sites/default/files/assets/ui/zoombezi-logo.png",
+        "alt": "Zoombezi logo"
+      },
+      {
+        "src": "/sites/default/files/assets/ui/golf-logo.png",
+        "alt": "Safari golf logo"
+      },
+      {
+        "src": "/sites/default/files/CZOO_logo_white.png",
+        "alt": "Columbus Zoo and Aquarium Logo"
+      },
+      {
+        "src": "/sites/default/files/assets/Logos/aza-logo.jpg",
+        "alt": "AZA Logo"
+      },
+      {
+        "src": "/sites/default/files/assets/Logos/alliance-logo-bigger.jpg",
+        "alt": "Alliance Logo"
+      },
+      {
+        "src": "/sites/default/files/assets/ui/hc-logo.png",
+        "alt": "Humane Certified Logo"
+      },
+      {
+        "src": "/sites/default/files/assets/Logos/zaa-logo-bigger.jpg",
+        "alt": "ZAA Logo"
+      },
+      {
+        "src": "/sites/default/files/assets/Logos/waza-logo.jpg",
+        "alt": "WAZA logo"
+      },
+      {
+        "src": "/sites/default/files/imata-logo.jpg",
+        "alt": "IMATA logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-016/cbe5ca03c6774b51.txt"
+  },
+  {
+    "id": "42e53e4f780a7bac",
+    "name": "Associa\u00e7\u00e3o Brasileira dos Exportadores de Mel (ABEMEL)",
+    "requested_url": "https://www.brazilletsbee.com.br/abemel.aspx",
+    "status": 200,
+    "final_url": "https://www.brazilletsbee.com.br/abemel.aspx",
+    "text_chars": 1339,
+    "logo_candidates": [
+      {
+        "src": "images/logo.png",
+        "alt": "Brasil Lets Bee"
+      },
+      {
+        "src": "images/abemel_logo.jpg",
+        "alt": "ABEMEL"
+      },
+      {
+        "src": "images/floranectar_logo_2020.jpg",
+        "alt": "parceiro"
+      },
+      {
+        "src": "images/bee-propolis-logo.png",
+        "alt": "Logo da empresa Bee Propolis Brasil"
+      },
+      {
+        "src": "images/napillus-logo.png",
+        "alt": "Logo da empresa Napillus"
+      },
+      {
+        "src": "images/logo-greif.png",
+        "alt": "#"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-016/42e53e4f780a7bac.txt"
+  },
+  {
+    "id": "ea62119c552cf848",
+    "name": "Tucson Water Department, Arizona",
+    "requested_url": "https://www.tucsonaz.gov/Departments/Water",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "4f90ef9f162f0238",
+    "name": "DB USA Corporation",
+    "requested_url": "https://www.db.com/news/detail/20190627-db-usa-corporation-results-of-the-federal-reserve-s-comprehensive-capital-analysis-and-review?language_id=1",
+    "error": "HTTP Error 404: Not Found"
+  },
+  {
+    "id": "8ebc35528bc0608e",
+    "name": "Institute for Cetacean Research",
+    "requested_url": "https://www.icrwhale.org/",
+    "status": 200,
+    "final_url": "https://www.icrwhale.org/",
+    "text_chars": 1515,
+    "logo_candidates": [
+      {
+        "src": "img/logo.png",
+        "alt": "\u4e00\u822c\u8ca1\u56e3\u6cd5\u4eba\u3000\u65e5\u672c\u9be8\u985e\u7814\u7a76\u6240\u3000\u30ed\u30b4\u30de\u30fc\u30af",
+        "class": "logo_box"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-016/8ebc35528bc0608e.txt"
+  },
+  {
+    "id": "7df2bff08d5921cd",
+    "name": "International Food Additives Council",
+    "requested_url": "https://www.foodadditives.org/",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "id": "36917f05cc9e1c4e",
+    "name": "Madison WI",
+    "requested_url": "https://www.cityofmadison.com/",
+    "status": 200,
+    "final_url": "https://www.cityofmadison.com/",
+    "text_chars": 6702,
+    "logo_candidates": [
+      {
+        "class": "logo",
+        "src": "/themes/custom/city_front/logo.svg?v=20231106",
+        "alt": "City of Madison"
+      },
+      {
+        "loading": "lazy",
+        "width": "64",
+        "height": "64",
+        "src": "/sites/default/files/icons/city-logo-white_0.svg",
+        "alt": "City of Madison, Wisconsin logo"
+      },
+      {
+        "src": "/themes/custom/city_front/images/cityicons-logo-city-white.svg",
+        "alt": "City of Madison, Wisconsin Home",
+        "height": "100"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-016/36917f05cc9e1c4e.txt"
+  },
+  {
+    "id": "d32c11a2dee08673",
+    "name": "Magnesita Refractories Company",
+    "requested_url": "https://www.rhimagnesita.com/",
+    "status": 200,
+    "final_url": "https://www.rhimagnesita.com/",
+    "text_chars": 94,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-016/d32c11a2dee08673.txt"
+  },
+  {
+    "id": "7ee5986ed971e54a",
+    "name": "Medical Group Management Assn",
+    "requested_url": "https://www.mgma.com/",
+    "status": 200,
+    "final_url": "https://www.mgma.com/",
+    "text_chars": 7346,
+    "logo_candidates": [
+      {
+        "width": "200",
+        "class": "header__logo-img",
+        "src": "/site_header_logo?dpr=2&auto=format&w=200&fit=scale",
+        "alt": "MGMA logo",
+        "style": "max-height:unset"
+      },
+      {
+        "class": "service-card__img",
+        "width": "-2147483648",
+        "height": "-2147483648",
+        "style": "max-height: 240px;",
+        "src": "https://www.mgma.com/getkaiasset/24515d09-873a-4ea8-aa52-eddf68116b78/JPS%20Logo_MGMA%20website.png",
+        "alt": "Jackson Physician Search"
+      },
+      {
+        "class": "service-card__img",
+        "width": "-2147483648",
+        "height": "-2147483648",
+        "style": "max-height: 240px;",
+        "src": "getkaiasset/fd9c7a60-c692-4bde-90b1-2db3f10016e7/care-credit-logo-large.png",
+        "alt": "CareCredit"
+      },
+      {
+        "width": "130",
+        "src": "/site_footer_logo?dpr=2&auto=format&w=130&fit=scale",
+        "alt": "MGMA logo",
+        "style": "max-height:unset;width:130px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-016/7ee5986ed971e54a.txt"
+  },
+  {
+    "id": "ffb1eb96dc382769",
+    "name": "National Asian/Pacific Islander American Chamber of Commerce & Entrepreneurship",
+    "requested_url": "https://www.nationalace.org/",
+    "status": 200,
+    "final_url": "https://www.nationalace.org/",
+    "text_chars": 19626,
+    "logo_candidates": [
+      {
+        "data-stretch": "false",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/c3308ca1-8de6-437d-9977-a17a0d8dc0dd/GrubhubCommunityFund_CenteredLogo_Color.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/c3308ca1-8de6-437d-9977-a17a0d8dc0dd/GrubhubCommunityFund_CenteredLogo_Color.png",
+        "data-image-dimensions": "605x194",
+        "data-image-focal-point": "0.5,0.5",
+        "data-sqsp-image-block-image": null,
+        "alt": "",
+        "data-licensed-asset-preview": "false",
+        "data-load": "false",
+        "elementtiming": "system-image-block",
+        "src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/c3308ca1-8de6-437d-9977-a17a0d8dc0dd/GrubhubCommunityFund_CenteredLogo_Color.png",
+        "width": "605",
+        "height": "194",
+        "sizes": "auto, (max-width: 640px) 100.00vw, (max-width: 767px) 100.00vw, 16.67vw",
+        "style": "display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);",
+        "srcset": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/c3308ca1-8de6-437d-9977-a17a0d8dc0dd/GrubhubCommunityFund_CenteredLogo_Color.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/c3308ca1-8de6-437d-9977-a17a0d8dc0dd/GrubhubCommunityFund_CenteredLogo_Color.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/c3308ca1-8de6-437d-9977-a17a0d8dc0dd/GrubhubCommunityFund_CenteredLogo_Color.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/c3308ca1-8de6-437d-9977-a17a0d8dc0dd/GrubhubCommunityFund_CenteredLogo_Color.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/c3308ca1-8de6-437d-9977-a17a0d8dc0dd/GrubhubCommunityFund_CenteredLogo_Color.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/c3308ca1-8de6-437d-9977-a17a0d8dc0dd/GrubhubCommunityFund_CenteredLogo_Color.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/c3308ca1-8de6-437d-9977-a17a0d8dc0dd/GrubhubCommunityFund_CenteredLogo_Color.png?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs",
+        "data-image-component": "1.0.1"
+      },
+      {
+        "data-stretch": "false",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/97508d23-4b84-4b40-bc5d-e63e96ce6d83/Deloitte+Logo_White.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/97508d23-4b84-4b40-bc5d-e63e96ce6d83/Deloitte+Logo_White.png",
+        "data-image-dimensions": "786x219",
+        "data-image-focal-point": "0.5,0.5",
+        "data-sqsp-image-block-image": null,
+        "alt": "",
+        "data-licensed-asset-preview": "false",
+        "data-load": "false",
+        "elementtiming": "system-image-block",
+        "src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/97508d23-4b84-4b40-bc5d-e63e96ce6d83/Deloitte+Logo_White.png",
+        "width": "786",
+        "height": "219",
+        "sizes": "auto, (max-width: 640px) 100.00vw, (max-width: 767px) 100.00vw, 16.67vw",
+        "style": "display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);",
+        "srcset": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/97508d23-4b84-4b40-bc5d-e63e96ce6d83/Deloitte+Logo_White.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/97508d23-4b84-4b40-bc5d-e63e96ce6d83/Deloitte+Logo_White.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/97508d23-4b84-4b40-bc5d-e63e96ce6d83/Deloitte+Logo_White.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/97508d23-4b84-4b40-bc5d-e63e96ce6d83/Deloitte+Logo_White.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/97508d23-4b84-4b40-bc5d-e63e96ce6d83/Deloitte+Logo_White.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/97508d23-4b84-4b40-bc5d-e63e96ce6d83/Deloitte+Logo_White.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/97508d23-4b84-4b40-bc5d-e63e96ce6d83/Deloitte+Logo_White.png?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs",
+        "data-image-component": "1.0.1"
+      },
+      {
+        "data-stretch": "false",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/f47d9f37-ec43-4c45-877a-33b3bf3520ac/T-Mobile_New_Logo_Primary_Whike+Background+Magenta+L.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/f47d9f37-ec43-4c45-877a-33b3bf3520ac/T-Mobile_New_Logo_Primary_Whike+Background+Magenta+L.png",
+        "data-image-dimensions": "703x171",
+        "data-image-focal-point": "0.5,0.5",
+        "data-sqsp-image-block-image": null,
+        "alt": "",
+        "data-licensed-asset-preview": "false",
+        "data-load": "false",
+        "elementtiming": "system-image-block",
+        "src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/f47d9f37-ec43-4c45-877a-33b3bf3520ac/T-Mobile_New_Logo_Primary_Whike+Background+Magenta+L.png",
+        "width": "703",
+        "height": "171",
+        "sizes": "auto, (max-width: 640px) 100.00vw, (max-width: 767px) 100.00vw, 16.67vw",
+        "style": "display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);",
+        "srcset": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/f47d9f37-ec43-4c45-877a-33b3bf3520ac/T-Mobile_New_Logo_Primary_Whike+Background+Magenta+L.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/f47d9f37-ec43-4c45-877a-33b3bf3520ac/T-Mobile_New_Logo_Primary_Whike+Background+Magenta+L.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/f47d9f37-ec43-4c45-877a-33b3bf3520ac/T-Mobile_New_Logo_Primary_Whike+Background+Magenta+L.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/f47d9f37-ec43-4c45-877a-33b3bf3520ac/T-Mobile_New_Logo_Primary_Whike+Background+Magenta+L.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/f47d9f37-ec43-4c45-877a-33b3bf3520ac/T-Mobile_New_Logo_Primary_Whike+Background+Magenta+L.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/f47d9f37-ec43-4c45-877a-33b3bf3520ac/T-Mobile_New_Logo_Primary_Whike+Background+Magenta+L.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/f47d9f37-ec43-4c45-877a-33b3bf3520ac/T-Mobile_New_Logo_Primary_Whike+Background+Magenta+L.png?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs",
+        "data-image-component": "1.0.1"
+      },
+      {
+        "data-stretch": "false",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/934d9e63-0db6-4683-9860-310f78d04310/Mastercard_logo.webp",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/934d9e63-0db6-4683-9860-310f78d04310/Mastercard_logo.webp",
+        "data-image-dimensions": "1000x660",
+        "data-image-focal-point": "0.5,0.5",
+        "data-sqsp-image-block-image": null,
+        "alt": "",
+        "data-licensed-asset-preview": "false",
+        "data-load": "false",
+        "elementtiming": "system-image-block",
+        "src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/934d9e63-0db6-4683-9860-310f78d04310/Mastercard_logo.webp",
+        "width": "1000",
+        "height": "660",
+        "sizes": "auto, (max-width: 640px) 100.00vw, (max-width: 767px) 100.00vw, 8.33vw",
+        "style": "display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);",
+        "srcset": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/934d9e63-0db6-4683-9860-310f78d04310/Mastercard_logo.webp?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/934d9e63-0db6-4683-9860-310f78d04310/Mastercard_logo.webp?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/934d9e63-0db6-4683-9860-310f78d04310/Mastercard_logo.webp?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/934d9e63-0db6-4683-9860-310f78d04310/Mastercard_logo.webp?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/934d9e63-0db6-4683-9860-310f78d04310/Mastercard_logo.webp?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/934d9e63-0db6-4683-9860-310f78d04310/Mastercard_logo.webp?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/934d9e63-0db6-4683-9860-310f78d04310/Mastercard_logo.webp?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs",
+        "data-image-component": "1.0.1"
+      },
+      {
+        "data-stretch": "false",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/89848f93-bf36-4dc0-b40f-7a3aef1a1997/CTIA+Logo+RGB+%282%29.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/89848f93-bf36-4dc0-b40f-7a3aef1a1997/CTIA+Logo+RGB+%282%29.png",
+        "data-image-dimensions": "2307x1242",
+        "data-image-focal-point": "0.5,0.5",
+        "data-sqsp-image-block-image": null,
+        "alt": "",
+        "data-licensed-asset-preview": "false",
+        "data-load": "false",
+        "elementtiming": "system-image-block",
+        "src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/89848f93-bf36-4dc0-b40f-7a3aef1a1997/CTIA+Logo+RGB+%282%29.png",
+        "width": "2307",
+        "height": "1242",
+        "sizes": "auto, (max-width: 640px) 100.00vw, (max-width: 767px) 100.00vw, 12.50vw",
+        "style": "display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);",
+        "srcset": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/89848f93-bf36-4dc0-b40f-7a3aef1a1997/CTIA+Logo+RGB+%282%29.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/89848f93-bf36-4dc0-b40f-7a3aef1a1997/CTIA+Logo+RGB+%282%29.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/89848f93-bf36-4dc0-b40f-7a3aef1a1997/CTIA+Logo+RGB+%282%29.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/89848f93-bf36-4dc0-b40f-7a3aef1a1997/CTIA+Logo+RGB+%282%29.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/89848f93-bf36-4dc0-b40f-7a3aef1a1997/CTIA+Logo+RGB+%282%29.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/89848f93-bf36-4dc0-b40f-7a3aef1a1997/CTIA+Logo+RGB+%282%29.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/89848f93-bf36-4dc0-b40f-7a3aef1a1997/CTIA+Logo+RGB+%282%29.png?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs",
+        "data-image-component": "1.0.1"
+      },
+      {
+        "data-stretch": "false",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/b95b4803-9ede-4881-866e-088ded5afd72/LPL+logo.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/b95b4803-9ede-4881-866e-088ded5afd72/LPL+logo.png",
+        "data-image-dimensions": "300x38",
+        "data-image-focal-point": "0.5,0.5",
+        "data-sqsp-image-block-image": null,
+        "alt": "",
+        "data-licensed-asset-preview": "false",
+        "data-load": "false",
+        "elementtiming": "system-image-block",
+        "src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/b95b4803-9ede-4881-866e-088ded5afd72/LPL+logo.png",
+        "width": "300",
+        "height": "38",
+        "sizes": "auto, (max-width: 640px) 100.00vw, (max-width: 767px) 100.00vw, 16.67vw",
+        "style": "display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);",
+        "srcset": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/b95b4803-9ede-4881-866e-088ded5afd72/LPL+logo.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/b95b4803-9ede-4881-866e-088ded5afd72/LPL+logo.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/b95b4803-9ede-4881-866e-088ded5afd72/LPL+logo.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/b95b4803-9ede-4881-866e-088ded5afd72/LPL+logo.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/b95b4803-9ede-4881-866e-088ded5afd72/LPL+logo.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/b95b4803-9ede-4881-866e-088ded5afd72/LPL+logo.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/b95b4803-9ede-4881-866e-088ded5afd72/LPL+logo.png?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs",
+        "data-image-component": "1.0.1"
+      },
+      {
+        "data-stretch": "false",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/13ec564e-6ab1-4233-9991-e3043f2d8309/capital+one+logo.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/13ec564e-6ab1-4233-9991-e3043f2d8309/capital+one+logo.png",
+        "data-image-dimensions": "3840x1378",
+        "data-image-focal-point": "0.5,0.5",
+        "data-sqsp-image-block-image": null,
+        "alt": "",
+        "data-licensed-asset-preview": "false",
+        "data-load": "false",
+        "elementtiming": "system-image-block",
+        "src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/13ec564e-6ab1-4233-9991-e3043f2d8309/capital+one+logo.png",
+        "width": "3840",
+        "height": "1378",
+        "sizes": "auto, (max-width: 640px) 100.00vw, (max-width: 767px) 100.00vw, 12.50vw",
+        "style": "display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);",
+        "srcset": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/13ec564e-6ab1-4233-9991-e3043f2d8309/capital+one+logo.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/13ec564e-6ab1-4233-9991-e3043f2d8309/capital+one+logo.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/13ec564e-6ab1-4233-9991-e3043f2d8309/capital+one+logo.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/13ec564e-6ab1-4233-9991-e3043f2d8309/capital+one+logo.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/13ec564e-6ab1-4233-9991-e3043f2d8309/capital+one+logo.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/13ec564e-6ab1-4233-9991-e3043f2d8309/capital+one+logo.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/13ec564e-6ab1-4233-9991-e3043f2d8309/capital+one+logo.png?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs",
+        "data-image-component": "1.0.1"
+      },
+      {
+        "data-stretch": "false",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/1f7031b9-f2de-4dbc-98d0-04a0c8d3c7d9/tbla-logo.jpg",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/1f7031b9-f2de-4dbc-98d0-04a0c8d3c7d9/tbla-logo.jpg",
+        "data-image-dimensions": "375x450",
+        "data-image-focal-point": "0.5,0.5",
+        "data-sqsp-image-block-image": null,
+        "alt": "",
+        "data-licensed-asset-preview": "false",
+        "data-load": "false",
+        "elementtiming": "system-image-block",
+        "src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/1f7031b9-f2de-4dbc-98d0-04a0c8d3c7d9/tbla-logo.jpg",
+        "width": "375",
+        "height": "450",
+        "sizes": "auto, (max-width: 640px) 100.00vw, (max-width: 767px) 100.00vw, 12.50vw",
+        "style": "display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);",
+        "srcset": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/1f7031b9-f2de-4dbc-98d0-04a0c8d3c7d9/tbla-logo.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/1f7031b9-f2de-4dbc-98d0-04a0c8d3c7d9/tbla-logo.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/1f7031b9-f2de-4dbc-98d0-04a0c8d3c7d9/tbla-logo.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/1f7031b9-f2de-4dbc-98d0-04a0c8d3c7d9/tbla-logo.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/1f7031b9-f2de-4dbc-98d0-04a0c8d3c7d9/tbla-logo.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/1f7031b9-f2de-4dbc-98d0-04a0c8d3c7d9/tbla-logo.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/1f7031b9-f2de-4dbc-98d0-04a0c8d3c7d9/tbla-logo.jpg?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs",
+        "data-image-component": "1.0.1"
+      },
+      {
+        "data-stretch": "false",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/75cea684-b726-4119-9ba1-c42eb0202e33/earnin-logo-png_seeklogo-482061+%281%29.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/75cea684-b726-4119-9ba1-c42eb0202e33/earnin-logo-png_seeklogo-482061+%281%29.png",
+        "data-image-dimensions": "185x104",
+        "data-image-focal-point": "0.5,0.5",
+        "data-sqsp-image-block-image": null,
+        "alt": "",
+        "data-licensed-asset-preview": "false",
+        "data-load": "false",
+        "elementtiming": "system-image-block",
+        "src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/75cea684-b726-4119-9ba1-c42eb0202e33/earnin-logo-png_seeklogo-482061+%281%29.png",
+        "width": "185",
+        "height": "104",
+        "sizes": "auto, (max-width: 640px) 100.00vw, (max-width: 767px) 100.00vw, 8.33vw",
+        "style": "display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);",
+        "srcset": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/75cea684-b726-4119-9ba1-c42eb0202e33/earnin-logo-png_seeklogo-482061+%281%29.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/75cea684-b726-4119-9ba1-c42eb0202e33/earnin-logo-png_seeklogo-482061+%281%29.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/75cea684-b726-4119-9ba1-c42eb0202e33/earnin-logo-png_seeklogo-482061+%281%29.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/75cea684-b726-4119-9ba1-c42eb0202e33/earnin-logo-png_seeklogo-482061+%281%29.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/75cea684-b726-4119-9ba1-c42eb0202e33/earnin-logo-png_seeklogo-482061+%281%29.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/75cea684-b726-4119-9ba1-c42eb0202e33/earnin-logo-png_seeklogo-482061+%281%29.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/75cea684-b726-4119-9ba1-c42eb0202e33/earnin-logo-png_seeklogo-482061+%281%29.png?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs",
+        "data-image-component": "1.0.1"
+      },
+      {
+        "data-stretch": "false",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/d085ef37-a899-484b-86da-26e3bd90f3c1/PMI_US_blue+logo.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/d085ef37-a899-484b-86da-26e3bd90f3c1/PMI_US_blue+logo.png",
+        "data-image-dimensions": "586x186",
+        "data-image-focal-point": "0.5,0.5",
+        "data-sqsp-image-block-image": null,
+        "alt": "",
+        "data-licensed-asset-preview": "false",
+        "data-load": "false",
+        "elementtiming": "system-image-block",
+        "src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/d085ef37-a899-484b-86da-26e3bd90f3c1/PMI_US_blue+logo.png",
+        "width": "586",
+        "height": "186",
+        "sizes": "auto, (max-width: 640px) 100.00vw, (max-width: 767px) 100.00vw, 12.50vw",
+        "style": "display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);",
+        "srcset": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/d085ef37-a899-484b-86da-26e3bd90f3c1/PMI_US_blue+logo.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/d085ef37-a899-484b-86da-26e3bd90f3c1/PMI_US_blue+logo.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/d085ef37-a899-484b-86da-26e3bd90f3c1/PMI_US_blue+logo.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/d085ef37-a899-484b-86da-26e3bd90f3c1/PMI_US_blue+logo.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/d085ef37-a899-484b-86da-26e3bd90f3c1/PMI_US_blue+logo.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/d085ef37-a899-484b-86da-26e3bd90f3c1/PMI_US_blue+logo.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/d085ef37-a899-484b-86da-26e3bd90f3c1/PMI_US_blue+logo.png?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs",
+        "data-image-component": "1.0.1"
+      },
+      {
+        "data-stretch": "false",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/4f5458d8-a95d-46d5-9b89-8006061e0ce7/NatAllies_logo_Final.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/4f5458d8-a95d-46d5-9b89-8006061e0ce7/NatAllies_logo_Final.png",
+        "data-image-dimensions": "2500x1667",
+        "data-image-focal-point": "0.5,0.5",
+        "data-sqsp-image-block-image": null,
+        "alt": "",
+        "data-licensed-asset-preview": "false",
+        "data-load": "false",
+        "elementtiming": "system-image-block",
+        "src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/4f5458d8-a95d-46d5-9b89-8006061e0ce7/NatAllies_logo_Final.png",
+        "width": "2500",
+        "height": "1667",
+        "sizes": "auto, (max-width: 640px) 100.00vw, (max-width: 767px) 100.00vw, 12.50vw",
+        "style": "display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);",
+        "srcset": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/4f5458d8-a95d-46d5-9b89-8006061e0ce7/NatAllies_logo_Final.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/4f5458d8-a95d-46d5-9b89-8006061e0ce7/NatAllies_logo_Final.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/4f5458d8-a95d-46d5-9b89-8006061e0ce7/NatAllies_logo_Final.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/4f5458d8-a95d-46d5-9b89-8006061e0ce7/NatAllies_logo_Final.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/4f5458d8-a95d-46d5-9b89-8006061e0ce7/NatAllies_logo_Final.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/4f5458d8-a95d-46d5-9b89-8006061e0ce7/NatAllies_logo_Final.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/4f5458d8-a95d-46d5-9b89-8006061e0ce7/NatAllies_logo_Final.png?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs",
+        "data-image-component": "1.0.1"
+      },
+      {
+        "data-stretch": "false",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/739b93b7-2ec0-411b-92d2-c508aba2f28a/Charter_Communications_Logo_Preview_0.jpg",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/739b93b7-2ec0-411b-92d2-c508aba2f28a/Charter_Communications_Logo_Preview_0.jpg",
+        "data-image-dimensions": "1263x378",
+        "data-image-focal-point": "0.5,0.5",
+        "data-sqsp-image-block-image": null,
+        "alt": "",
+        "data-licensed-asset-preview": "false",
+        "data-load": "false",
+        "elementtiming": "system-image-block",
+        "src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/739b93b7-2ec0-411b-92d2-c508aba2f28a/Charter_Communications_Logo_Preview_0.jpg",
+        "width": "1263",
+        "height": "378",
+        "sizes": "auto, (max-width: 640px) 100.00vw, (max-width: 767px) 100.00vw, 8.33vw",
+        "style": "display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);",
+        "srcset": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/739b93b7-2ec0-411b-92d2-c508aba2f28a/Charter_Communications_Logo_Preview_0.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/739b93b7-2ec0-411b-92d2-c508aba2f28a/Charter_Communications_Logo_Preview_0.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/739b93b7-2ec0-411b-92d2-c508aba2f28a/Charter_Communications_Logo_Preview_0.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/739b93b7-2ec0-411b-92d2-c508aba2f28a/Charter_Communications_Logo_Preview_0.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/739b93b7-2ec0-411b-92d2-c508aba2f28a/Charter_Communications_Logo_Preview_0.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/739b93b7-2ec0-411b-92d2-c508aba2f28a/Charter_Communications_Logo_Preview_0.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/739b93b7-2ec0-411b-92d2-c508aba2f28a/Charter_Communications_Logo_Preview_0.jpg?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs",
+        "data-image-component": "1.0.1"
+      },
+      {
+        "data-stretch": "false",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/02fa9518-32e4-4839-b1a8-c92de471b562/AARP-logo.jpeg",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/02fa9518-32e4-4839-b1a8-c92de471b562/AARP-logo.jpeg",
+        "data-image-dimensions": "2082x652",
+        "data-image-focal-point": "0.5,0.5",
+        "data-sqsp-image-block-image": null,
+        "alt": "",
+        "data-licensed-asset-preview": "false",
+        "data-load": "false",
+        "elementtiming": "system-image-block",
+        "src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/02fa9518-32e4-4839-b1a8-c92de471b562/AARP-logo.jpeg",
+        "width": "2082",
+        "height": "652",
+        "sizes": "auto, (max-width: 640px) 100.00vw, (max-width: 767px) 100.00vw, 12.50vw",
+        "style": "display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);",
+        "srcset": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/02fa9518-32e4-4839-b1a8-c92de471b562/AARP-logo.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/02fa9518-32e4-4839-b1a8-c92de471b562/AARP-logo.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/02fa9518-32e4-4839-b1a8-c92de471b562/AARP-logo.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/02fa9518-32e4-4839-b1a8-c92de471b562/AARP-logo.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/02fa9518-32e4-4839-b1a8-c92de471b562/AARP-logo.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/02fa9518-32e4-4839-b1a8-c92de471b562/AARP-logo.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/02fa9518-32e4-4839-b1a8-c92de471b562/AARP-logo.jpeg?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs",
+        "data-image-component": "1.0.1"
+      },
+      {
+        "data-stretch": "false",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/a9d51620-c3d2-49e0-a17e-44533c7c569f/Digital_Lyft_Logo_Pink.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/a9d51620-c3d2-49e0-a17e-44533c7c569f/Digital_Lyft_Logo_Pink.png",
+        "data-image-dimensions": "1600x1081",
+        "data-image-focal-point": "0.5,0.5",
+        "data-sqsp-image-block-image": null,
+        "alt": "",
+        "data-licensed-asset-preview": "false",
+        "data-load": "false",
+        "elementtiming": "system-image-block",
+        "src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/a9d51620-c3d2-49e0-a17e-44533c7c569f/Digital_Lyft_Logo_Pink.png",
+        "width": "1600",
+        "height": "1081",
+        "sizes": "auto, (max-width: 640px) 100.00vw, (max-width: 767px) 100.00vw, 8.33vw",
+        "style": "display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);",
+        "srcset": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/a9d51620-c3d2-49e0-a17e-44533c7c569f/Digital_Lyft_Logo_Pink.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/a9d51620-c3d2-49e0-a17e-44533c7c569f/Digital_Lyft_Logo_Pink.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/a9d51620-c3d2-49e0-a17e-44533c7c569f/Digital_Lyft_Logo_Pink.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/a9d51620-c3d2-49e0-a17e-44533c7c569f/Digital_Lyft_Logo_Pink.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/a9d51620-c3d2-49e0-a17e-44533c7c569f/Digital_Lyft_Logo_Pink.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/a9d51620-c3d2-49e0-a17e-44533c7c569f/Digital_Lyft_Logo_Pink.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/a9d51620-c3d2-49e0-a17e-44533c7c569f/Digital_Lyft_Logo_Pink.png?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs",
+        "data-image-component": "1.0.1"
+      },
+      {
+        "data-stretch": "false",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/64df0628-cbfa-4ae8-ad1a-7151ad7a3b12/fiserv_logo_orange_rgb.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/64df0628-cbfa-4ae8-ad1a-7151ad7a3b12/fiserv_logo_orange_rgb.png",
+        "data-image-dimensions": "600x301",
+        "data-image-focal-point": "0.5,0.5",
+        "data-sqsp-image-block-image": null,
+        "alt": "",
+        "data-licensed-asset-preview": "false",
+        "data-load": "false",
+        "elementtiming": "system-image-block",
+        "src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/64df0628-cbfa-4ae8-ad1a-7151ad7a3b12/fiserv_logo_orange_rgb.png",
+        "width": "600",
+        "height": "301",
+        "sizes": "auto, (max-width: 640px) 100.00vw, (max-width: 767px) 100.00vw, 8.33vw",
+        "style": "display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);",
+        "srcset": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/64df0628-cbfa-4ae8-ad1a-7151ad7a3b12/fiserv_logo_orange_rgb.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/64df0628-cbfa-4ae8-ad1a-7151ad7a3b12/fiserv_logo_orange_rgb.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/64df0628-cbfa-4ae8-ad1a-7151ad7a3b12/fiserv_logo_orange_rgb.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/64df0628-cbfa-4ae8-ad1a-7151ad7a3b12/fiserv_logo_orange_rgb.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/64df0628-cbfa-4ae8-ad1a-7151ad7a3b12/fiserv_logo_orange_rgb.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/64df0628-cbfa-4ae8-ad1a-7151ad7a3b12/fiserv_logo_orange_rgb.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/64df0628-cbfa-4ae8-ad1a-7151ad7a3b12/fiserv_logo_orange_rgb.png?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs",
+        "data-image-component": "1.0.1"
+      },
+      {
+        "data-stretch": "false",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/c35d5f88-30c0-4dcc-b50a-645338c44f13/TikTok-logo-RGB-Horizontal-Black+%282%29.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/c35d5f88-30c0-4dcc-b50a-645338c44f13/TikTok-logo-RGB-Horizontal-Black+%282%29.png",
+        "data-image-dimensions": "10001x4168",
+        "data-image-focal-point": "0.5,0.5",
+        "data-sqsp-image-block-image": null,
+        "alt": "",
+        "data-licensed-asset-preview": "false",
+        "data-load": "false",
+        "elementtiming": "system-image-block",
+        "src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/c35d5f88-30c0-4dcc-b50a-645338c44f13/TikTok-logo-RGB-Horizontal-Black+%282%29.png",
+        "width": "10001",
+        "height": "4168",
+        "sizes": "auto, (max-width: 640px) 100.00vw, (max-width: 767px) 100.00vw, 16.67vw",
+        "style": "display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);",
+        "srcset": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/c35d5f88-30c0-4dcc-b50a-645338c44f13/TikTok-logo-RGB-Horizontal-Black+%282%29.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/c35d5f88-30c0-4dcc-b50a-645338c44f13/TikTok-logo-RGB-Horizontal-Black+%282%29.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/c35d5f88-30c0-4dcc-b50a-645338c44f13/TikTok-logo-RGB-Horizontal-Black+%282%29.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/c35d5f88-30c0-4dcc-b50a-645338c44f13/TikTok-logo-RGB-Horizontal-Black+%282%29.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/c35d5f88-30c0-4dcc-b50a-645338c44f13/TikTok-logo-RGB-Horizontal-Black+%282%29.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/c35d5f88-30c0-4dcc-b50a-645338c44f13/TikTok-logo-RGB-Horizontal-Black+%282%29.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/c35d5f88-30c0-4dcc-b50a-645338c44f13/TikTok-logo-RGB-Horizontal-Black+%282%29.png?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs",
+        "data-image-component": "1.0.1"
+      },
+      {
+        "data-stretch": "false",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/83f09f5e-b653-4a25-ad04-b74581142306/IWG-Logo-Black.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/83f09f5e-b653-4a25-ad04-b74581142306/IWG-Logo-Black.png",
+        "data-image-dimensions": "1598x1015",
+        "data-image-focal-point": "0.5,0.5",
+        "data-sqsp-image-block-image": null,
+        "alt": "",
+        "data-licensed-asset-preview": "false",
+        "data-load": "false",
+        "elementtiming": "system-image-block",
+        "src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/83f09f5e-b653-4a25-ad04-b74581142306/IWG-Logo-Black.png",
+        "width": "1598",
+        "height": "1015",
+        "sizes": "auto, (max-width: 640px) 100.00vw, (max-width: 767px) 100.00vw, 12.50vw",
+        "style": "display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);",
+        "srcset": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/83f09f5e-b653-4a25-ad04-b74581142306/IWG-Logo-Black.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/83f09f5e-b653-4a25-ad04-b74581142306/IWG-Logo-Black.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/83f09f5e-b653-4a25-ad04-b74581142306/IWG-Logo-Black.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/83f09f5e-b653-4a25-ad04-b74581142306/IWG-Logo-Black.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/83f09f5e-b653-4a25-ad04-b74581142306/IWG-Logo-Black.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/83f09f5e-b653-4a25-ad04-b74581142306/IWG-Logo-Black.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/83f09f5e-b653-4a25-ad04-b74581142306/IWG-Logo-Black.png?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs",
+        "data-image-component": "1.0.1"
+      },
+      {
+        "data-stretch": "true",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/aa054620-bec0-4663-afb0-84f43290c765/gmcc+logo.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/aa054620-bec0-4663-afb0-84f43290c765/gmcc+logo.png",
+        "data-image-dimensions": "1047x1047",
+        "data-image-focal-point": "0.42,0.776",
+        "data-sqsp-image-block-image": null,
+        "alt": "",
+        "data-licensed-asset-preview": "false",
+        "data-load": "false",
+        "elementtiming": "system-image-block",
+        "src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/aa054620-bec0-4663-afb0-84f43290c765/gmcc+logo.png",
+        "width": "1047",
+        "height": "1047",
+        "sizes": "auto, 100vw",
+        "style": "display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);",
+        "srcset": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/aa054620-bec0-4663-afb0-84f43290c765/gmcc+logo.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/aa054620-bec0-4663-afb0-84f43290c765/gmcc+logo.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/aa054620-bec0-4663-afb0-84f43290c765/gmcc+logo.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/aa054620-bec0-4663-afb0-84f43290c765/gmcc+logo.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/aa054620-bec0-4663-afb0-84f43290c765/gmcc+logo.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/aa054620-bec0-4663-afb0-84f43290c765/gmcc+logo.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/aa054620-bec0-4663-afb0-84f43290c765/gmcc+logo.png?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs",
+        "data-image-component": "1.0.1"
+      },
+      {
+        "data-stretch": "false",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/aa054620-bec0-4663-afb0-84f43290c765/gmcc+logo.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/aa054620-bec0-4663-afb0-84f43290c765/gmcc+logo.png",
+        "data-image-dimensions": "1047x1047",
+        "data-image-focal-point": "0.42,0.776",
+        "data-sqsp-image-block-image": null,
+        "alt": "",
+        "data-licensed-asset-preview": "false",
+        "data-load": "false",
+        "elementtiming": "system-image-block",
+        "src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/aa054620-bec0-4663-afb0-84f43290c765/gmcc+logo.png",
+        "width": "1047",
+        "height": "1047",
+        "sizes": "auto, (max-width: 640px) 100.00vw, (max-width: 767px) 100.00vw, 12.50vw",
+        "style": "display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);",
+        "srcset": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/aa054620-bec0-4663-afb0-84f43290c765/gmcc+logo.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/aa054620-bec0-4663-afb0-84f43290c765/gmcc+logo.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/aa054620-bec0-4663-afb0-84f43290c765/gmcc+logo.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/aa054620-bec0-4663-afb0-84f43290c765/gmcc+logo.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/aa054620-bec0-4663-afb0-84f43290c765/gmcc+logo.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/aa054620-bec0-4663-afb0-84f43290c765/gmcc+logo.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/aa054620-bec0-4663-afb0-84f43290c765/gmcc+logo.png?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs",
+        "data-image-component": "1.0.1"
+      },
+      {
+        "data-stretch": "false",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/39e7d20d-e891-400f-9e5f-76f24ac9905b/Wintec-Logo-High-Res+%281%29.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/39e7d20d-e891-400f-9e5f-76f24ac9905b/Wintec-Logo-High-Res+%281%29.png",
+        "data-image-dimensions": "2703x632",
+        "data-image-focal-point": "0.5,0.5",
+        "data-sqsp-image-block-image": null,
+        "alt": "",
+        "data-licensed-asset-preview": "false",
+        "data-load": "false",
+        "elementtiming": "system-image-block",
+        "src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/39e7d20d-e891-400f-9e5f-76f24ac9905b/Wintec-Logo-High-Res+%281%29.png",
+        "width": "2703",
+        "height": "632",
+        "sizes": "auto, (max-width: 640px) 100.00vw, (max-width: 767px) 100.00vw, 12.50vw",
+        "style": "display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);",
+        "srcset": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/39e7d20d-e891-400f-9e5f-76f24ac9905b/Wintec-Logo-High-Res+%281%29.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/39e7d20d-e891-400f-9e5f-76f24ac9905b/Wintec-Logo-High-Res+%281%29.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/39e7d20d-e891-400f-9e5f-76f24ac9905b/Wintec-Logo-High-Res+%281%29.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/39e7d20d-e891-400f-9e5f-76f24ac9905b/Wintec-Logo-High-Res+%281%29.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/39e7d20d-e891-400f-9e5f-76f24ac9905b/Wintec-Logo-High-Res+%281%29.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/39e7d20d-e891-400f-9e5f-76f24ac9905b/Wintec-Logo-High-Res+%281%29.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/39e7d20d-e891-400f-9e5f-76f24ac9905b/Wintec-Logo-High-Res+%281%29.png?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs",
+        "data-image-component": "1.0.1"
+      },
+      {
+        "data-stretch": "true",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/b2bde1f4-a953-403d-a73b-01aa15e605bd/Charles+Schwab+Bank+Logo+Image+%282%29.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/b2bde1f4-a953-403d-a73b-01aa15e605bd/Charles+Schwab+Bank+Logo+Image+%282%29.png",
+        "data-image-dimensions": "3606x3600",
+        "data-image-focal-point": "0.5,0.5",
+        "data-sqsp-image-block-image": null,
+        "alt": "",
+        "data-licensed-asset-preview": "false",
+        "data-load": "false",
+        "elementtiming": "system-image-block",
+        "src": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/b2bde1f4-a953-403d-a73b-01aa15e605bd/Charles+Schwab+Bank+Logo+Image+%282%29.png",
+        "width": "3606",
+        "height": "3600",
+        "sizes": "auto, 100vw",
+        "style": "display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);",
+        "srcset": "https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/b2bde1f4-a953-403d-a73b-01aa15e605bd/Charles+Schwab+Bank+Logo+Image+%282%29.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/b2bde1f4-a953-403d-a73b-01aa15e605bd/Charles+Schwab+Bank+Logo+Image+%282%29.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/b2bde1f4-a953-403d-a73b-01aa15e605bd/Charles+Schwab+Bank+Logo+Image+%282%29.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/b2bde1f4-a953-403d-a73b-01aa15e605bd/Charles+Schwab+Bank+Logo+Image+%282%29.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/b2bde1f4-a953-403d-a73b-01aa15e605bd/Charles+Schwab+Bank+Logo+Image+%282%29.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/b2bde1f4-a953-403d-a73b-01aa15e605bd/Charles+Schwab+Bank+Logo+Image+%282%29.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/5dd45b834ed45716078d0628/b2bde1f4-a953-403d-a73b-01aa15e605bd/Charles+Schwab+Bank+Logo+Image+%282%29.png?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs",
+        "data-image-component": "1.0.1"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-016/ffb1eb96dc382769.txt"
+  },
+  {
+    "id": "b90f0f90542fe371",
+    "name": "O'Grady Peyton International (USA)",
+    "requested_url": "https://www.ogradypeyton.com/",
+    "status": 200,
+    "final_url": "https://www.ogradypeyton.com/",
+    "text_chars": 6154,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-016/b90f0f90542fe371.txt"
+  },
+  {
+    "id": "59c465ec91514b6d",
+    "name": "Samson Extracts, LLC",
+    "requested_url": "https://www.samsonextracts.com/pages/about-samson-extracts",
+    "status": 200,
+    "final_url": "https://www.samsonextracts.com/pages/about-samson-extracts",
+    "text_chars": 5538,
+    "logo_candidates": [
+      {
+        "data-src": "//www.samsonextracts.com/cdn/shop/files/logo-samson-extracts.png?v=1661185784",
+        "src": "//www.samsonextracts.com/cdn/shop/files/logo-samson-extracts.png?v=1661185784",
+        "alt": "Bulk CBD Products & CBD Extracts Supplier - Samson Extracts",
+        "itemprop": "logo",
+        "class": "lazyautosizes lazyloade",
+        "data-sizes": "auto"
+      },
+      {
+        "itemprop": "logo",
+        "data-src": "//www.samsonextracts.com/cdn/shop/files/logo-samson-extracts.png?v=1661185784",
+        "src": "//www.samsonextracts.com/cdn/shop/files/logo-samson-extracts.png?v=1661185784",
+        "alt": "Bulk CBD Products & CBD Extracts Supplier - Samson Extracts",
+        "class": "lazyautosizes lazyloaded",
+        "data-sizes": "auto"
+      },
+      {
+        "src": "//www.samsonextracts.com/cdn/shop/files/Be_Determined_x382.png?v=1714044998",
+        "alt": "logo",
+        "width": "51px",
+        "height": "51px"
+      },
+      {
+        "src": "//www.samsonextracts.com/cdn/shop/files/Be_Lean_x382.png?v=1714044997",
+        "alt": "logo",
+        "width": "51px",
+        "height": "51px"
+      },
+      {
+        "src": "//www.samsonextracts.com/cdn/shop/files/Get_Creative_x382.png?v=1714044997",
+        "alt": "logo",
+        "width": "51px",
+        "height": "51px"
+      },
+      {
+        "src": "//www.samsonextracts.com/cdn/shop/files/Work_Together_x382.png?v=1714044997",
+        "alt": "logo",
+        "width": "51px",
+        "height": "51px"
+      },
+      {
+        "width": "130",
+        "src": "https://cdn.shopify.com/s/files/1/0625/2678/3675/files/samson-extracts-logo-white.png?v=1661202278",
+        "alt": "CBD Products & Bulk CBD Extracts Suppliers - Samson Extracts"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-016/59c465ec91514b6d.txt"
+  },
+  {
+    "id": "267262b450266cc2",
+    "name": "Sorenson Engineering, Inc.",
+    "requested_url": "https://sorensonengineeringinc.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+  },
+  {
+    "id": "ac75c87a0391bad6",
+    "name": "Truckee River Flood Project",
+    "requested_url": "https://trfma.org/",
+    "status": 202,
+    "final_url": "https://trfma.org/",
+    "text_chars": 80,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-016/ac75c87a0391bad6.txt"
+  },
+  {
+    "id": "018ef5ce89994933",
+    "name": "Woodings Industrial Corporation",
+    "requested_url": "https://woodings.com/about/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "bf7a220290c8e0ce",
+    "name": "Association of Schools and Programs of Public Health",
+    "requested_url": "https://aspph.org/",
+    "status": 200,
+    "final_url": "https://aspph.org/",
+    "text_chars": 15736,
+    "logo_candidates": [
+      {
+        "src": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "alt": "Association of Schools and Programs of Public Health (ASPPH)",
+        "class": "desktop-logo lazyload",
+        "data-src": "https://upload.aspph.org/wp-content/uploads/2026/04/ASPPH_85_Logo.webp",
+        "decoding": "async"
+      },
+      {
+        "src": "https://upload.aspph.org/wp-content/uploads/2026/04/ASPPH_85_Logo.webp",
+        "alt": "Association of Schools and Programs of Public Health (ASPPH)",
+        "class": "desktop-logo",
+        "data-eio": "l"
+      },
+      {
+        "src": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+        "alt": "",
+        "class": "mobile-logo lazyload",
+        "data-src": "https://upload.aspph.org/wp-content/uploads/2026/04/ASPPH_Mobile.webp",
+        "decoding": "async"
+      },
+      {
+        "src": "https://upload.aspph.org/wp-content/uploads/2026/04/ASPPH_Mobile.webp",
+        "alt": "",
+        "class": "mobile-logo",
+        "data-eio": "l"
+      },
+      {
+        "width": "300",
+        "height": "69",
+        "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAABFAQMAAADKP0kQAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAABlJREFUSMftwTEBAAAAwqD1T20LL6AAAOBqCoMAAQjLb7MAAAAASUVORK5CYII=",
+        "class": "feature-logo-image lazyload",
+        "alt": "",
+        "decoding": "async",
+        "data-src": "https://upload.aspph.org/wp-content/uploads/2024/08/MyASPPH-h-300x69.png",
+        "data-srcset": "https://upload.aspph.org/wp-content/uploads/2024/08/MyASPPH-h-300x69.png 300w, https://upload.aspph.org/wp-content/uploads/2024/08/MyASPPH-h-1024x236.png 1024w, https://upload.aspph.org/wp-content/uploads/2024/08/MyASPPH-h-768x177.png 768w, https://upload.aspph.org/wp-content/uploads/2024/08/MyASPPH-h-1536x354.png 1536w, https://upload.aspph.org/wp-content/uploads/2024/08/MyASPPH-h.png 1920w",
+        "data-max-width": "300",
+        "data-sizes": "auto",
+        "data-eio-rwidth": "300",
+        "data-eio-rheight": "69"
+      },
+      {
+        "width": "300",
+        "height": "69",
+        "src": "https://upload.aspph.org/wp-content/uploads/2024/08/MyASPPH-h-300x69.png",
+        "class": "feature-logo-image",
+        "alt": "",
+        "decoding": "async",
+        "srcset": "https://upload.aspph.org/wp-content/uploads/2024/08/MyASPPH-h-300x69.png 300w, https://upload.aspph.org/wp-content/uploads/2024/08/MyASPPH-h-1024x236.png 1024w, https://upload.aspph.org/wp-content/uploads/2024/08/MyASPPH-h-768x177.png 768w, https://upload.aspph.org/wp-content/uploads/2024/08/MyASPPH-h-1536x354.png 1536w, https://upload.aspph.org/wp-content/uploads/2024/08/MyASPPH-h.png 1920w",
+        "sizes": "(max-width: 300px) 100vw, 300px",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "src": "https://upload.aspph.org/wp-content/uploads/2026/07/UAlbany_CIHS_Logos_A1_Purple-3.png",
+        "alt": "UAlbany MPH Information Session",
+        "data-eio": "l"
+      },
+      {
+        "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAacAAABLAQMAAADu0NqWAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAABtJREFUSMftwQENAAAAwqD3T20ON6AAAACAPwMP0gABRCj4PQAAAABJRU5ErkJggg==",
+        "alt": "Association of Schools and Programs of Public Health (ASPPH)",
+        "class": "footer-aspph-logo lazyload",
+        "width": "423",
+        "height": "75",
+        "loading": "lazy",
+        "data-src": "https://upload.aspph.org/wp-content/uploads/2026/04/ASPPH-logo-white-tag.webp",
+        "decoding": "async",
+        "data-eio-rwidth": "423",
+        "data-eio-rheight": "75"
+      },
+      {
+        "src": "https://upload.aspph.org/wp-content/uploads/2026/04/ASPPH-logo-white-tag.webp",
+        "alt": "Association of Schools and Programs of Public Health (ASPPH)",
+        "class": "footer-aspph-logo",
+        "width": "423",
+        "height": "75",
+        "loading": "lazy",
+        "data-eio": "l"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-016/bf7a220290c8e0ce.txt"
+  },
+  {
+    "id": "60c25166138801e9",
+    "name": "City of Buckeye, Arizona",
+    "requested_url": "https://www.buckeyeaz.gov",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "b243accec63d6351",
+    "name": "City of North Lauderdale, Florida",
+    "requested_url": "https://www.nlauderdale.org/",
+    "status": 200,
+    "final_url": "https://www.nlauderdale.org/",
+    "text_chars": 3623,
+    "logo_candidates": [
+      {
+        "src": "_assets_/images/logo.jpg",
+        "alt": "describe site"
+      },
+      {
+        "alt": "City Of North Lauderdale",
+        "src": "_assets_/images/logo.jpg",
+        "width": "275",
+        "height": "80",
+        "title": "No video playback capabilities, please download the video below."
+      },
+      {
+        "alt": "City Of North Lauderdale",
+        "src": "_assets_/images/logo.jpg",
+        "width": "275",
+        "height": "80",
+        "title": "No video playback capabilities, please download the video below."
+      },
+      {
+        "alt": "City Of North Lauderdale",
+        "src": "_assets_/images/logo.jpg",
+        "width": "275",
+        "height": "80",
+        "title": "No video playback capabilities, please download the video below."
+      },
+      {
+        "alt": "City Of North Lauderdale",
+        "src": "_assets_/images/logo.jpg",
+        "width": "275",
+        "height": "80",
+        "title": "No video playback capabilities, please download the video below."
+      },
+      {
+        "alt": "City Of North Lauderdale",
+        "src": "_assets_/images/logo.jpg",
+        "width": "275",
+        "height": "80",
+        "title": "No video playback capabilities, please download the video below."
+      },
+      {
+        "alt": "City Of North Lauderdale",
+        "src": "_assets_/images/logo.jpg",
+        "width": "275",
+        "height": "80",
+        "title": "No video playback capabilities, please download the video below."
+      },
+      {
+        "alt": "City Of North Lauderdale",
+        "src": "_assets_/images/logo.jpg",
+        "width": "275",
+        "height": "80",
+        "title": "No video playback capabilities, please download the video below."
+      },
+      {
+        "alt": "City Of North Lauderdale",
+        "src": "_assets_/images/logo.jpg",
+        "width": "275",
+        "height": "80",
+        "title": "No video playback capabilities, please download the video below."
+      },
+      {
+        "alt": "City Of North Lauderdale",
+        "src": "_assets_/images/logo.jpg",
+        "width": "275",
+        "height": "80",
+        "title": "No video playback capabilities, please download the video below."
+      },
+      {
+        "alt": "City Of North Lauderdale",
+        "src": "_assets_/images/logo.jpg",
+        "width": "275",
+        "height": "80",
+        "title": "No video playback capabilities, please download the video below."
+      },
+      {
+        "alt": "City Of North Lauderdale",
+        "src": "_assets_/images/logo.jpg",
+        "width": "275",
+        "height": "80",
+        "title": "No video playback capabilities, please download the video below."
+      },
+      {
+        "alt": "City Of North Lauderdale",
+        "src": "_assets_/images/logo.jpg",
+        "width": "275",
+        "height": "80",
+        "title": "No video playback capabilities, please download the video below."
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-016/b243accec63d6351.txt"
+  },
+  {
+    "id": "5bb3655e1fd291e0",
+    "name": "Direct Primary Care Coalition",
+    "requested_url": "https://dpccoalition.org/",
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  {
+    "id": "59c29c43b7763337",
+    "name": "Foster City, California",
+    "requested_url": "https://www.fostercity.org/",
+    "status": 200,
+    "final_url": "https://www.fostercity.org/",
+    "text_chars": 2232,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-016/59c29c43b7763337.txt"
+  },
+  {
+    "id": "8be4c8effaf2e50e",
+    "name": "Gardian Holdings, LLC",
+    "requested_url": "https://gardian.com/",
+    "status": 200,
+    "final_url": "https://gardian.com/",
+    "text_chars": 8468,
+    "logo_candidates": [
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "640",
+        "height": "150",
+        "src": "https://gardian.com/wp-content/uploads/2024/06/gardian-white-logo@2x.png",
+        "class": "attachment-full size-full wp-image-28",
+        "alt": "",
+        "srcset": "https://gardian.com/wp-content/uploads/2024/06/gardian-white-logo@2x.png 640w, https://gardian.com/wp-content/uploads/2024/06/gardian-white-logo@2x-300x70.png 300w, https://gardian.com/wp-content/uploads/2024/06/elementor/thumbs/gardian-white-logo@2x-qp4rd4x7ghhvaitlrhni78e8ixz2wqgu7up6xrr7la.png 325w",
+        "sizes": "(max-width: 640px) 100vw, 640px"
+      },
+      {
+        "decoding": "async",
+        "src": "https://gardian.com/wp-content/uploads/elementor/thumbs/gardian-white-logo@2x-qp4rd4x7ghhvaitlrhni78e8ixz2wqgu7up6xrr7la.png",
+        "title": "gardian-white-logo@2x",
+        "alt": "gardian-white-logo@2x",
+        "loading": "lazy"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-016/8be4c8effaf2e50e.txt"
+  },
+  {
+    "id": "db185e3ac99c7ef1",
+    "name": "GFT Infrastructure, Inc.",
+    "requested_url": "https://www.gftinc.com/",
+    "status": 202,
+    "final_url": "https://www.gftinc.com/",
+    "text_chars": 82,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-016/db185e3ac99c7ef1.txt"
+  },
+  {
+    "id": "63f3c01c4c290ddf",
+    "name": "Imperative Execution, Inc.",
+    "requested_url": "https://imperativeexecution.com/",
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  {
+    "id": "bffc5d829b070fd9",
+    "name": "Indiana Council of Community Mental Health Centers, Inc.",
+    "requested_url": "https://www.iccmhc.org/",
+    "status": 200,
+    "final_url": "https://www.iccmhc.org/",
+    "text_chars": 39506,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-016/bffc5d829b070fd9.txt"
+  },
+  {
+    "id": "ab068915570e64bd",
+    "name": "Keybank",
+    "requested_url": "https://www.key.com/",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "0a7a34e860b7922f",
+    "name": "Korea Iron and Steel Association (kosa)",
+    "requested_url": "https://kosa.or.kr/eng/main.jsp",
+    "status": 200,
+    "final_url": "https://kosa.or.kr/eng/main.jsp",
+    "text_chars": 1299,
+    "logo_candidates": [
+      {
+        "src": "/eng/img/logo.png",
+        "alt": "\ud55c\uad6d\ucca0\uac15\ud611\ud68c"
+      },
+      {
+        "src": "/eng/img/foot_logo.png",
+        "alt": "\ud55c\uad6d\ucca0\uac15\ud611\ud68c"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-016/0a7a34e860b7922f.txt"
+  },
+  {
+    "id": "691de516a2f321a4",
+    "name": "LA Center",
+    "requested_url": "https://ci.lacenter.wa.us/",
+    "status": 202,
+    "final_url": "https://ci.lacenter.wa.us/",
+    "text_chars": 70,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-016/691de516a2f321a4.txt"
+  }
+]

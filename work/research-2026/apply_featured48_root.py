@@ -1,0 +1,25 @@
+import json,pathlib,datetime,copy
+root=pathlib.Path('.');w=root/'work/research-2026';p=json.load(open(w/'reviewed.json')); q={x['id']:x for x in json.load(open(w/'registration-evidence-queue.json'))};a={x['id']:x for x in json.load(open(w/'featured48-next20-reviewed.json'))};now=datetime.datetime.now(datetime.timezone.utc).isoformat()
+spec={
+'70a491d968f186c0':('https://www.anthropic.com/ai-for-science-program-rules','Anthropic official rules explicitly identify Anthropic, PBC. Original registration expressly names Aquia Group on behalf of Anthropic, PBC; intermediary identity is preserved.'),
+'c1a6887ae808e0b2':('https://byheart.com/pages/terms-and-conditions','Official terms identify ByHeart, Inc. and 131 Varick Street, matching the 2025 registration.'),
+'51d419e4454a4af3':('https://www.caliber.com/','Official legal footer identifies Caliber Holdings LLC and 2941 Lake Vista Drive in Lewisville, matching the 2024 registration.'),
+'c75e161cc9850f15':('https://www.californiacity-ca.gov/CC/index.php/city-council','Official city council page identifies the municipal government and City Hall at 21000 Hacienda Boulevard, matching the filing.'),
+'dea0cfd69f238fb8':('https://www.californiaforever.com/','Official project site and original unsuffixed filing identify California Forever and the same Solano County development activity. Confirmation is of the filed project/brand; no LLC identity or ownership transfer is inferred.'),
+'bfda149345238558':('https://hsr.ca.gov/contact/','Official authority contact page supplies California High-Speed Rail Authority and 770 L Street, Sacramento, matching original registration street and public body; office suite differs.'),
+'7b101b227cd7fb00':('https://www.canadagoose.com/cn/en/customer-service/legal-2/privacy-policy.html','Official privacy notice identifies Canada Goose Inc. at 100 Queens Quay East, Toronto, matching the exact filed entity and address. Distinct from Canada Goose Holdings Inc.'),
+'760b1bedd0d35f4c':('https://www.cfs.canon.com/PrivacyStatementCanonFinancialFINAL1230v2.htm','Official financial-services privacy notice explicitly names Canon Financial Services, Inc. at 158 Gaither Drive, Mount Laurel, matching registration.'),
+'3403d45dfd4968ae':('https://www.cape.co/','Official Cape website identifies the privacy-focused mobile carrier, matching the original unsuffixed CAPE registration and its specific business description. No legal suffix or ownership inferred.'),
+'da21f8f4d0dc0d79':('https://www.sec.gov/Archives/edgar/data/1996862/000162828026009842/subsidiarieslistex21112312.htm','Bunge Global SA 2025 SEC subsidiary exhibit explicitly lists Bunge North America, Inc., matching the filed legal entity. Subsidiary remains separate from its parent.')}
+before={i:copy.deepcopy(p[i]) for i in list(spec)+['181a92be1b95cc6a']};(w/'featured48-root-before.json').write_text(json.dumps(before,indent=2,ensure_ascii=False)+'\n');audit=[]
+for i,(u,e) in spec.items():
+ x=p[i];reg=q[i]['evidence'][-1];x.update(review_outcome='confirmed',website_status='verified',status='sourced',checked_at=now,identity_evidence=e)
+ if i=='c1a6887ae808e0b2':x['name']='ByHeart, Inc.'
+ if i=='bfda149345238558':x['name']='California High-Speed Rail Authority'
+ if i=='760b1bedd0d35f4c':x['website']='https://www.cfs.canon.com/'
+ if i=='da21f8f4d0dc0d79':x.update(ownership='Subsidiary of public company',legal_form='Corporation',notes='Bunge North America, Inc. is listed among Bunge Global SA subsidiaries in its 2025 SEC exhibit. Parent ownership is not attributed as an independent stock listing for this entity.')
+ x['sources'].append({'url':u,'label':'Verified primary identity','claim':e});x['sources'].append({'url':reg['source_url'],'label':'Original registration '+reg['member'],'claim':reg['client_name']+'; '+reg['address']+', '+reg['city']+'; '+reg['description']});audit.append({'id':i,'decision':'confirm','source':u,'evidence':e,'registration':reg})
+i='181a92be1b95cc6a';p[i]['ownership']='Subsidiary of public company';p[i]['legal_form']='Corporation';p[i]['notes']='American Airlines, Inc. is a wholly owned subsidiary of American Airlines Group Inc.; the operating airline is not independently classified as publicly traded.';p[i]['sources'].append({'url':'https://www.sec.gov/Archives/edgar/data/6201/000000620126000014/ex211q42510k.htm','label':'2025 SEC subsidiary exhibit','claim':'American Airlines Group lists American Airlines, Inc. and states all voting securities are held directly or indirectly, except indicated exceptions.'});p[i]['checked_at']=now
+(w/'featured48-root-decisions.json').write_text(json.dumps(audit,indent=2,ensure_ascii=False)+'\n')
+for file,pretty in [(w/'reviewed.json',True),(root/'lobbying-map/research/reviewed-2026.json',False),(root/'outputs/2026-research-trial/profiles.json',True)]:file.write_text(json.dumps(p,ensure_ascii=False,indent=2 if pretty else None)+('\n' if pretty else ''))
+print('Confirmed',sum(x.get('review_outcome')=='confirmed' for x in p.values()),'remaining',sum(x.get('review_outcome')!='confirmed' for x in p.values()))

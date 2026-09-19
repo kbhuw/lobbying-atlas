@@ -1,0 +1,1366 @@
+[
+  {
+    "source_id": "36c4d95b871c31bf",
+    "rationale": "The source-name normalization combined PRUDENTIAL and PRUDENTIAL PLC without legal-identity evidence. Restore separate original-name groups; the PLC records end in 2005, while the unsuffixed group has 2026 reports. No US/UK company identity is inferred for the unsuffixed name.",
+    "sources": [
+      {
+        "url": "https://lda.gov/api/v1/filings/f8ea1a51-d2f1-48ab-8035-ab7f85a1a70f/",
+        "claim": "2026 report explicitly names PRUDENTIAL, client 157038, and Winning Strategies Washington."
+      }
+    ],
+    "children": [
+      {
+        "id": "36c4d95b871c31bf",
+        "name": "Prudential",
+        "aliases": [
+          "PRUDENTIAL"
+        ],
+        "members": [
+          "36c4d95b871c31bf"
+        ],
+        "issues": [
+          "Banking",
+          "Budget/Appropriations",
+          "Retirement",
+          "Taxation/Internal Revenue Code"
+        ]
+      },
+      {
+        "id": "906034fc535ec96b",
+        "name": "Prudential PLC",
+        "aliases": [
+          "PRUDENTIAL PLC"
+        ],
+        "members": [
+          "906034fc535ec96b"
+        ],
+        "issues": []
+      }
+    ]
+  },
+  {
+    "source_id": "dee91f8b5e872db6",
+    "mode": "filings",
+    "rationale": "Original exact-name group combines distinct universities. Every filing is assigned once by verified API client state; unchecked historical filings remain explicitly unassigned.",
+    "sources": [
+      {
+        "url": "https://lda.gov/api/v1/filings/679cf304-6f04-451e-9df9-f23a528005b1/?format=json",
+        "claim": "Client 72607 reports SC."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/7d0ad7e6-9c51-4de7-a20a-c9da5940989c/?format=json",
+        "claim": "Client 72607 reports SC."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/5f84e680-aed5-44ef-af8d-d8871c3dfaaa/?format=json",
+        "claim": "Client 72607 reports SC."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/82c109cd-e56b-4b22-8af4-d3ac0fd06a4a/?format=json",
+        "claim": "Client 72607 reports SC."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/1a4aa102-e1b5-44d4-a413-0cb6a50f3f18/?format=json",
+        "claim": "Client 72607 reports SC."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/8985b4f1-6ed4-432a-80cd-80204fb45e63/?format=json",
+        "claim": "Client 56824 reports IN."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/5889eef7-1362-4ed2-b087-5886352a2875/?format=json",
+        "claim": "Client 56824 reports IN."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/cd3d1ae6-492b-4897-b7d5-031760a9d65d/?format=json",
+        "claim": "Client 56824 reports IN."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/ec8ed33c-20e5-4562-95dc-3d61784ab514/?format=json",
+        "claim": "Client 56824 reports IN."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/7ee9d280-0e43-43f6-83c8-b3bd1950faf5/?format=json",
+        "claim": "Client 56824 reports IN."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/35ef548d-511d-45f9-b509-81c3ddfe58e4/?format=json",
+        "claim": "Client 56824 reports IN."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/7b3f3d3f-b708-49cc-8693-6a508ea6dddf/?format=json",
+        "claim": "Client 56824 reports IN."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/86b35f4c-1c1b-4297-a144-d13da43d4057/?format=json",
+        "claim": "Client 56824 reports IN."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/cef99e9f-8000-4ef6-a71c-8ac0ed0abee8/?format=json",
+        "claim": "Client 198674 reports IN."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/b4828c7d-b471-400c-aba4-6c950cadd7bd/?format=json",
+        "claim": "Client 198674 reports IN."
+      }
+    ],
+    "children": [
+      {
+        "id": "dee91f8b5e872db6",
+        "name": "Anderson University (South Carolina)",
+        "aliases": [
+          "ANDERSON UNIVERSITY"
+        ],
+        "members": [
+          "dee91f8b5e872db6"
+        ],
+        "filing_ids": [
+          "679cf304-6f04-451e-9df9-f23a528005b1",
+          "7d0ad7e6-9c51-4de7-a20a-c9da5940989c",
+          "5f84e680-aed5-44ef-af8d-d8871c3dfaaa",
+          "82c109cd-e56b-4b22-8af4-d3ac0fd06a4a",
+          "1a4aa102-e1b5-44d4-a413-0cb6a50f3f18"
+        ],
+        "issues": []
+      },
+      {
+        "id": "421c83adb2c451d7",
+        "name": "Anderson University (Indiana)",
+        "aliases": [
+          "ANDERSON UNIVERSITY"
+        ],
+        "members": [
+          "dee91f8b5e872db6"
+        ],
+        "filing_ids": [
+          "8985b4f1-6ed4-432a-80cd-80204fb45e63",
+          "5889eef7-1362-4ed2-b087-5886352a2875",
+          "cd3d1ae6-492b-4897-b7d5-031760a9d65d",
+          "ec8ed33c-20e5-4562-95dc-3d61784ab514",
+          "7ee9d280-0e43-43f6-83c8-b3bd1950faf5",
+          "35ef548d-511d-45f9-b509-81c3ddfe58e4",
+          "7b3f3d3f-b708-49cc-8693-6a508ea6dddf",
+          "86b35f4c-1c1b-4297-a144-d13da43d4057",
+          "cef99e9f-8000-4ef6-a71c-8ac0ed0abee8",
+          "b4828c7d-b471-400c-aba4-6c950cadd7bd"
+        ],
+        "issues": []
+      },
+      {
+        "id": "fb6e7906e8741c36",
+        "name": "Anderson University (unassigned historical filings)",
+        "aliases": [
+          "ANDERSON UNIVERSITY"
+        ],
+        "members": [
+          "dee91f8b5e872db6"
+        ],
+        "filing_ids": [
+          "5cd467a8-0c44-4d94-8572-40fd32de2fca",
+          "22ecc41f-7066-42dd-b8f1-dc5bb62b4325",
+          "b82e00f3-f1d9-44b3-9840-1ec392f185a4",
+          "dfcfa203-2161-413a-9840-126329454467",
+          "db19314f-3363-4555-b189-f8d9eb4545fd",
+          "8b2cfd43-4f0d-4710-83e3-736d47116c47",
+          "6a68e366-c96f-4ba2-a6fb-5dfd10dfc384",
+          "0784f5e4-bef4-4b7a-b358-d0084e8f699e",
+          "1fd0f090-6c19-4129-9228-f44cce8b8796",
+          "81a9d102-c8e7-47ca-a9c1-dc9c357869a3",
+          "0d6e3365-c44c-48b8-af2a-ea31f554376a",
+          "32e37275-d3ad-4de2-b460-4ff1a01aef08",
+          "0c2d0bc8-eebc-4cd0-a21b-30b327a855ac",
+          "c117fe7a-daed-4b9a-ae6d-54cde60715c1",
+          "21f94005-628b-42d7-99bc-36811d0a6a15",
+          "aba81668-53f3-4dbc-971a-d20dfd3a5c4e",
+          "28dc88c4-c1ef-4eb0-87d8-742659573b3c",
+          "fd70642f-b65a-4a0b-b383-907d945822b3"
+        ],
+        "issues": []
+      }
+    ]
+  },
+  {
+    "source_id": "458c8d30ab79005e",
+    "mode": "filings",
+    "rationale": "The Burke hospital registration has House ID 366940201. Fifty-seven matching original documents identify this client; other same-name clients remain separately labeled. Original filing links are preserved exactly once.",
+    "sources": [
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2013_Registrations_XML.zip",
+        "claim": "Member 300534666.xml: Community Memorial Hospital, Inc., 809 Jackson Street, Burke, SD; House ID 366940201; effective January 1, 2013."
+      },
+      {
+        "url": "https://www.cmhburke.org/",
+        "claim": "Same name and street address in Burke; describes community-owned nonprofit governance."
+      },
+      {
+        "url": "https://www.cmhburke.org/hospital",
+        "claim": "16-bed critical access hospital in Burke providing inpatient, outpatient and emergency care."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/b23164ca-99b3-42f9-b22b-786372eb28a3/?format=json",
+        "claim": "Client 175920 reports South Dakota, continuous with House ID 366940201."
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2013_1stQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 300552843.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2013_2ndQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 300571304.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2013_3rdQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 300593739.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2013_4thQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 300623553.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2013_Registrations_XML.zip",
+        "claim": "House ID 366940201 source members: 300534666.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2014_1stQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 300639514.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2014_2ndQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 300659726.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2014_3rdQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 300676915.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2014_4thQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 300704168.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2015_1stQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 300717476.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2015_2ndQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 300733155.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2015_3rdQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 300757327.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2015_4thQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 300780806.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2016_1stQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 300795766.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2016_2ndQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 300813370.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2016_3rdQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 300939551.xml, 300830038.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2016_4thQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 300856513.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2017_1stQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 300873475.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2017_2ndQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 300963847.xml, 300889291.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2017_3rdQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 300905891.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2017_4thQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 300934380.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2018_1stQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 300949587.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2018_2ndQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 300971623.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2018_3rdQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 300987431.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2018_4thQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 301012212.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2019_1stQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 301028779.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2019_2ndQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 301049658.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2019_3rdQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 301077060.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2019_4thQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 301122732.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2020_1stQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 301180525.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2020_2ndQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 301191581.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2020_3rdQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 301220450.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2020_4thQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 301235498.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2021_1stQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 301262944.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2021_2ndQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 301285040.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2021_3rdQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 301299139.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2021_4thQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 301323955.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2022_1stQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 301362274.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2022_2ndQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 301386242.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2022_3rdQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 301406835.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2022_4thQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 301428476.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2023_1stQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 301458135.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2023_2ndQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 301483201.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2023_3rdQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 301502222.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2023_4thQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 301530600.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2024_1stQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 301566783.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2024_2ndQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 301590848.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2024_3rdQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 301630788.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2024_4thQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 301654607.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2025_1stQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 301721919.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2025_2ndQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 301744751.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2025_3rdQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 301805067.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2025_4thQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 301828282.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2026_1stQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 301854763.xml"
+      },
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2026_2ndQuarter_XML.zip",
+        "claim": "House ID 366940201 source members: 301882203.xml"
+      }
+    ],
+    "children": [
+      {
+        "id": "458c8d30ab79005e",
+        "name": "Community Memorial Hospital (Burke, South Dakota)",
+        "aliases": [
+          "COMMUNITY MEMORIAL HOSPITAL"
+        ],
+        "members": [
+          "458c8d30ab79005e"
+        ],
+        "filing_ids": [
+          "b23164ca-99b3-42f9-b22b-786372eb28a3",
+          "63412224-5f91-4372-a0b6-e63202a2abab",
+          "dad197d7-d5d1-43d4-9bd2-2720b3792641",
+          "1ad09d0c-2528-4ee7-a151-cac0eda4d80d",
+          "70a571c3-fb3c-4edf-ad1a-3f80571239be",
+          "f50d6712-ab3a-48c2-92d5-3b80753337db",
+          "6a49d6c3-6c88-4f0a-b343-b20eb3db1603",
+          "b95e3558-f1fb-4136-922f-02eaf22e674b",
+          "606da99c-11e7-4f24-920b-d4dadc770ad5",
+          "6be181f6-5f9d-470c-98bf-a92eef6be2a1",
+          "8486c1c1-a18f-4b8c-b75c-bfbc97499c5e",
+          "ff9ce365-94f5-4ef9-941e-64e47a388c84",
+          "c44347cb-184d-4b14-b83f-1dd2da05f86c",
+          "bba638b2-31f8-43d9-81a6-109351f63684",
+          "3e4c2d7a-c9dc-413e-9cd0-9b23ae1ee067",
+          "4846a6d5-78d1-4f95-82fe-b49f5af063bf",
+          "7efc9d3c-ebc1-4d6f-b8e5-0b27c90ef369",
+          "08bca390-cc6c-46d4-a687-5e6e9fe21237",
+          "408b7996-eb7c-48c3-95ef-91492f1906c1",
+          "c31050c9-6162-4392-b004-eadd8962a885",
+          "5f253310-e0e3-4ece-af57-519c570a7ab9",
+          "97b9bafe-26ba-4099-9f10-87dd7f99d0ac",
+          "cbb8910d-b366-4e10-a132-19e588c7c56c",
+          "6d08e855-b2de-4b8b-bda9-6efcbeb7a348",
+          "f17a54a0-df46-47d2-ac12-f23ac93340a4",
+          "76bce165-4a7d-4ed0-84f4-4f7324886dbf",
+          "b013617d-aa7e-45a0-a8dc-2c7a975cb109",
+          "5ac8c556-1308-44f4-a71f-ffaf18300384",
+          "095ac011-9d81-4d02-a649-7ce7b051071a",
+          "76fab17e-25f4-475e-90f0-8c4e57dc5eb7",
+          "b36eaf3e-55c2-4a77-87d6-538218969eab",
+          "4133b5ad-6918-45d0-a3e7-67428d684dfa",
+          "4fd66923-7936-4c76-81b4-21576928e138",
+          "0e5db309-99df-4d51-a241-63d4f0d9f741",
+          "477937ed-45b6-49f3-a48b-346fd8c80d61",
+          "1db97d17-e40e-4c43-ac1f-f86a048f8bfd",
+          "b762c25e-a627-41f4-8f15-ea0785e76854",
+          "800ed932-7188-4bc4-b4b6-3dfa01a43359",
+          "55128e8f-de9b-4f1e-b310-37b5a81b3bbd",
+          "c8e6eace-09f4-4ef0-8ddb-93a7b477ab9f",
+          "db987d44-5b5d-492f-8509-2ac02a160e22",
+          "8ebc3d0b-b7ee-4bce-87cd-3018313e46c2",
+          "1b8e5dc6-b9ae-4f83-aa2b-10d0c55506a0",
+          "309a0b9a-3862-449a-b7eb-ace1ce723143",
+          "843b71ef-e9b7-4d79-a65b-5263132f73d0",
+          "b4d77ad5-0a37-4d30-ac8f-c929e0baa3d3",
+          "882aedaa-3d05-4ad1-8e52-0c59760364bf",
+          "78be0570-10d3-4e70-b535-89ed2ee1c713",
+          "9f750912-fdce-4c37-8989-3b1841c58d85",
+          "1a924315-c8f6-439d-ad7f-62751eb758e4",
+          "0092ca55-6b6e-4591-89d5-2e8655042e35",
+          "5e4f5f80-2a47-4e86-9c8a-5db88ac509a5",
+          "1e3df860-2074-4383-9115-c633f2d32526",
+          "a17685d2-219a-4070-ad64-8c63f11061ea",
+          "db567974-05a5-41a5-b00b-3997e1f3651b",
+          "c2c7c88f-fdde-414a-852e-f5a315423e40",
+          "881dfcd9-4fad-4048-9eef-3b4cc5a791e4"
+        ],
+        "issues": []
+      },
+      {
+        "id": "16cb6f90313f663e",
+        "name": "Community Memorial Hospital (other historical clients)",
+        "aliases": [
+          "COMMUNITY MEMORIAL HOSPITAL"
+        ],
+        "members": [
+          "458c8d30ab79005e"
+        ],
+        "filing_ids": [
+          "785b0a68-d2c5-45de-9234-a3f8aa6ac3e0",
+          "c96a5f89-caa1-4b75-8e39-3ec9457b6384",
+          "6594a204-9f9f-4b55-a223-b5135dd73cc4",
+          "6f30580b-0b63-4c07-9165-92f33dea1a68",
+          "84b1b755-dfae-4173-8449-fb949acefe6a",
+          "66d5ac91-ebe1-4029-9c93-a2044e962912",
+          "898ca313-8b41-4819-b60f-5523bb17dcba",
+          "9850d859-85ab-4696-9018-433b9ca9de44",
+          "2137fb74-c807-4c2d-b1aa-caa03aa42224",
+          "1c0c1268-4f91-4226-a8c8-46a616423df8",
+          "7157a336-bb27-4c2c-9904-f21c80d2f1be",
+          "7fbb35a8-2034-4a6b-80f6-0fd2caf3a025",
+          "714943f6-e4ff-4285-81e7-38493bffd3e6",
+          "32d5d093-c262-45f2-b74d-ed5e217ff330",
+          "3feb0d91-1f0f-490a-910e-8dc36769c7e0",
+          "4600aa93-6727-463a-989e-30d7c8758a88",
+          "751e64c4-dd78-4e12-891f-c725d5543577",
+          "4bad0bc6-a521-4591-becf-c26d6fd24828",
+          "2c4709ad-1f7b-446f-87c5-8b1c8034ac78",
+          "bac3e088-fffb-4bcc-9361-566ec57178ca",
+          "6d0749d3-48cf-4ac1-90ab-f541d1c06c64",
+          "eeb95329-f75a-4f3d-9c1f-c4c42d40fe2d",
+          "5988fb73-607a-4c25-829e-777f4b5602f4",
+          "dc230c99-dce2-4335-8fb0-507eff2d4533",
+          "cced3649-39a9-4684-95e1-48639edeb10d",
+          "6df8b4f8-9a95-40a8-a317-673ef29376c6",
+          "ef3651ea-816a-49bf-b989-7e417e4d5e01",
+          "187dee27-776e-435f-adf6-9b0b17a0083b",
+          "e1ba9fc4-de71-4bcd-98e9-19c5df8e2549"
+        ],
+        "issues": []
+      }
+    ]
+  },
+  {
+    "source_id": "db32ea46ccd83520",
+    "mode": "filings",
+    "rationale": "Same-name county governments separated by individually checked LDA client state. Every original filing is retained once; unchecked historical reports remain unassigned.",
+    "sources": [
+      {
+        "url": "https://lda.gov/api/v1/filings/36207c79-34d8-4151-b22e-2a4439d57d56/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 64579 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/df09c4ba-a270-4222-8249-6e2aa1d264b8/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 64579 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/eefe72cf-e392-4fa2-ad2b-8ec8e8e3ad26/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 64579 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/5efbfd91-a88b-412f-b4dc-0f9223f82417/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 64579 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/330e9649-135c-4c86-af6a-76612017ea1a/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 64579 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/bb32b16b-7adc-4d0f-aa8a-7195c96e03ac/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 64579 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/dd1c7b76-290e-4e5e-bdda-6f0e9149b2bd/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 64579 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/03ec0cde-28d7-41da-abda-87105b286582/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 64579 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/cc128dd9-15c6-4580-bfa8-bce585d9b255/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 182213 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/429eed2c-af18-4b5e-b84e-6b6d4c660262/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 182213 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/0a9ec11f-c252-4eb2-baee-163a55304da4/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 182213 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/d8ba8abd-00bf-4148-96fe-585c86d75f99/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 182213 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/82e7920d-8797-4b8d-aba4-619e8d9331da/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 182213 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/d9424a97-5135-4ce0-b1cd-66b1d871f949/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 182213 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/2a1e3ee0-2999-4ff0-844d-23eed465fe9a/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 182213 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/6a8bb9b4-cdf0-41d1-b0e9-ef96207eb09d/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 182213 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/11036cac-2586-4df4-8fe3-62e0fd60bd99/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 182213 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/46716db1-92dd-402b-81d9-a0035116be73/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 182213 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/67645a3b-67a4-4a9b-a8e0-b8b83c920a6f/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 182213 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/2fa4f758-49af-420c-be92-c1784f483b73/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 182213 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/998922f1-86b0-414f-9223-aa0dfbbf6fe9/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 182213 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/bce1ddca-e65c-4f49-8460-1adefa5c0ee5/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 182213 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/5bbb5538-3551-405a-a870-f71f2b26b34b/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 182213 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/9ed94ed8-1704-4a02-97b9-791fe2dcd060/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 182213 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/48eba76c-8d26-4ac4-866f-a5a515f70e52/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 182213 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/68a1d69d-3212-4060-a5cf-d374f6359c26/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 182213 reports Douglas County in CO."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/84535d8e-87e2-461a-9238-27fb86963502/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 182213 reports Douglas County in CO."
+      },
+      {
+        "url": "https://www.douglasco.gov/",
+        "label": "Official county website",
+        "claim": "Identifies Douglas County, Colorado, and lists county services."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/b24cbe5c-2928-448a-b0e4-4f29a495ddad/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 61331 reports Douglas County in WA."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/1c1c577a-09e3-4fde-ab37-24695550b07b/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 61331 reports Douglas County in WA."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/b3938491-9ce8-4abc-ac97-338255c6a691/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 61331 reports Douglas County in WA."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/d3745bac-72cc-47cd-ad24-5ad3f9c6e69a/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 61331 reports Douglas County in WA."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/9f558a83-6a7c-4533-a1f2-3cab9c1c9e29/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 61331 reports Douglas County in WA."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/143a8023-8852-414c-a163-57b259a7c378/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 61331 reports Douglas County in WA."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/31d3810a-7bc9-4c66-961f-69b55a871bea/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 61331 reports Douglas County in WA."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/13ca360b-d9fb-4f33-8535-50aab72580a5/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 61331 reports Douglas County in WA."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/af052499-72ba-40f2-a1a7-3fefba075109/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 61331 reports Douglas County in WA."
+      },
+      {
+        "url": "https://www.douglascountywa.gov/",
+        "label": "Official county website",
+        "claim": "Identifies Douglas County, Washington, and lists county services."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/fbc82af8-d98e-47ce-acf0-1a7bd5e1146a/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 130194 reports Douglas County in NE."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/cbd0b202-d14b-4b8e-8ea5-a333ade54e9b/?format=json",
+        "label": "Filing jurisdiction evidence",
+        "claim": "Client 130194 reports Douglas County in NE."
+      }
+    ],
+    "children": [
+      {
+        "id": "db32ea46ccd83520",
+        "name": "Douglas County (Colorado)",
+        "aliases": [
+          "DOUGLAS COUNTY"
+        ],
+        "members": [
+          "db32ea46ccd83520"
+        ],
+        "filing_ids": [
+          "36207c79-34d8-4151-b22e-2a4439d57d56",
+          "df09c4ba-a270-4222-8249-6e2aa1d264b8",
+          "eefe72cf-e392-4fa2-ad2b-8ec8e8e3ad26",
+          "5efbfd91-a88b-412f-b4dc-0f9223f82417",
+          "330e9649-135c-4c86-af6a-76612017ea1a",
+          "bb32b16b-7adc-4d0f-aa8a-7195c96e03ac",
+          "dd1c7b76-290e-4e5e-bdda-6f0e9149b2bd",
+          "03ec0cde-28d7-41da-abda-87105b286582",
+          "cc128dd9-15c6-4580-bfa8-bce585d9b255",
+          "429eed2c-af18-4b5e-b84e-6b6d4c660262",
+          "0a9ec11f-c252-4eb2-baee-163a55304da4",
+          "d8ba8abd-00bf-4148-96fe-585c86d75f99",
+          "82e7920d-8797-4b8d-aba4-619e8d9331da",
+          "d9424a97-5135-4ce0-b1cd-66b1d871f949",
+          "2a1e3ee0-2999-4ff0-844d-23eed465fe9a",
+          "6a8bb9b4-cdf0-41d1-b0e9-ef96207eb09d",
+          "11036cac-2586-4df4-8fe3-62e0fd60bd99",
+          "46716db1-92dd-402b-81d9-a0035116be73",
+          "67645a3b-67a4-4a9b-a8e0-b8b83c920a6f",
+          "2fa4f758-49af-420c-be92-c1784f483b73",
+          "998922f1-86b0-414f-9223-aa0dfbbf6fe9",
+          "bce1ddca-e65c-4f49-8460-1adefa5c0ee5",
+          "5bbb5538-3551-405a-a870-f71f2b26b34b",
+          "9ed94ed8-1704-4a02-97b9-791fe2dcd060",
+          "48eba76c-8d26-4ac4-866f-a5a515f70e52",
+          "68a1d69d-3212-4060-a5cf-d374f6359c26",
+          "84535d8e-87e2-461a-9238-27fb86963502"
+        ],
+        "issues": []
+      },
+      {
+        "id": "3624b73887546473",
+        "name": "Douglas County (Washington)",
+        "aliases": [
+          "DOUGLAS COUNTY"
+        ],
+        "members": [
+          "db32ea46ccd83520"
+        ],
+        "filing_ids": [
+          "b24cbe5c-2928-448a-b0e4-4f29a495ddad",
+          "1c1c577a-09e3-4fde-ab37-24695550b07b",
+          "b3938491-9ce8-4abc-ac97-338255c6a691",
+          "d3745bac-72cc-47cd-ad24-5ad3f9c6e69a",
+          "9f558a83-6a7c-4533-a1f2-3cab9c1c9e29",
+          "143a8023-8852-414c-a163-57b259a7c378",
+          "31d3810a-7bc9-4c66-961f-69b55a871bea",
+          "13ca360b-d9fb-4f33-8535-50aab72580a5",
+          "af052499-72ba-40f2-a1a7-3fefba075109"
+        ],
+        "issues": []
+      },
+      {
+        "id": "cd33bcbafae4badb",
+        "name": "Douglas County (Nebraska)",
+        "aliases": [
+          "DOUGLAS COUNTY"
+        ],
+        "members": [
+          "db32ea46ccd83520"
+        ],
+        "filing_ids": [
+          "fbc82af8-d98e-47ce-acf0-1a7bd5e1146a",
+          "cbd0b202-d14b-4b8e-8ea5-a333ade54e9b"
+        ],
+        "issues": []
+      },
+      {
+        "id": "d55cb7e689db1324",
+        "name": "Douglas County (unassigned historical filings)",
+        "aliases": [
+          "DOUGLAS COUNTY"
+        ],
+        "members": [
+          "db32ea46ccd83520"
+        ],
+        "filing_ids": [
+          "b9309efd-6ccb-44fa-b4bc-bbbe201b7f99",
+          "8a84574d-9573-406d-b99d-c4800d4daed6",
+          "b1cb1bca-c7f7-4da5-9fb4-6624b285c9c8",
+          "cc69fe37-8c08-4adc-97e1-53244e76ee8e",
+          "2f3a7ed8-24b3-4a79-8317-354c3360a673",
+          "d4b6a6ff-fa32-4196-bc50-d11e4909b584",
+          "571b51a4-3658-4899-924c-e4a929983287",
+          "0a0b5473-cf46-4683-9778-e7fa62b3aedb",
+          "b5b163d9-d649-4d12-8f3c-a7a83353e41c",
+          "db53b5e3-6374-4751-8090-9bbc61940cc8",
+          "bb953bf9-6657-4807-8a47-db559fc96657",
+          "abf0b729-4b5c-455a-9bd2-99098289724d",
+          "5274f39c-8d10-4974-bb52-27604f500117",
+          "8191900b-2156-4e33-8363-85bcc82f1d52",
+          "ae858b99-ded6-4003-bcf7-975af5157b98",
+          "722ca21b-973a-4338-99d1-4734256ebf2e",
+          "cee74f19-ee8b-4f74-ba3b-ebc02a5a5e85",
+          "1c240183-d294-4b3c-a8ac-cc06ab237beb",
+          "cd08b915-ce1a-43a9-b897-cd60dff21c9a",
+          "5f8e49bb-a16b-4286-ae7a-0134f94a5d31",
+          "1f16571e-c6b5-450e-a538-86bfd8cd4964",
+          "ece68e2e-7c0b-4026-975b-38b8fcc35d30",
+          "a3c639a4-6d18-470d-a2a2-8cf67daa2d02",
+          "7e2b483d-60ec-4e89-83e0-5c6ea3053a64",
+          "e1991647-0e08-420e-9eda-e270d7df99b1",
+          "f0e134b8-5f28-453c-b6a9-8e959e3244d4",
+          "235c4992-ccad-435c-8614-8dfa7514cdca",
+          "126386d3-041c-4d52-8c43-5dca433aa673",
+          "ea02bde7-6f45-42d6-a56c-de88f84009f4",
+          "55b160a2-191a-475c-a0ea-2c967b3b55b5",
+          "84f1a6f3-1bc6-46e0-8ae4-a430751c454c",
+          "fc15bb5a-1f6e-4648-a333-12dc81bf9c34",
+          "78d52bc7-44d8-4472-910d-4866ec52ebd0",
+          "be0fdfff-e340-46a0-8a5b-db89259b6a15",
+          "e8e9e7c2-47c8-48dd-847d-a7c13278c0c7",
+          "123a774d-4f83-4e12-89c3-6e9753bc80e4",
+          "886133db-0506-4a2e-98e5-d85e79e47e67",
+          "06895b6f-78db-4bcd-b32b-724c998cc22a",
+          "ce2e7801-4cf5-4d55-803c-feded5d93364",
+          "f39199d8-b337-444a-8823-c49ffacfa3ce",
+          "b8c2727e-b8cb-4c1e-be76-4e93d1da66d3",
+          "03956dfd-e28c-4ae4-9e14-b4281b776889",
+          "d421b168-18fa-4d6c-bab8-0c51ee146bfc",
+          "d95524b1-932f-4333-8595-8efd036f887d",
+          "ce7ecf61-280e-4d78-89f8-966ba4ac89c4",
+          "0f06803b-796b-4af4-a709-c19cc77b9315",
+          "9a1636cf-e23b-4d2d-8ef4-163e52afffca",
+          "d72636fc-c5ca-47e8-97f2-deaa5dbbba7e",
+          "64ad8f31-53b1-43f1-8bd8-f377a2553609",
+          "aa6a629b-d7d6-42c2-8db2-e7018f468ea9",
+          "e3a5f286-a54e-4f7d-88ac-d891aade0b40",
+          "a52f7aee-39db-44cf-8b20-4c712e675282",
+          "a611986c-746a-4357-8d32-a8fb2e26d80f",
+          "7e933147-f5f4-4e9a-92e7-a1ab17aebe8d",
+          "e6882d2c-309d-47b3-aa65-fdb22a08488e",
+          "cbe2fa57-eb17-44e9-bdb2-1aaefdce4bf6",
+          "cd3c2179-8be0-41cc-bbf6-127f7dc318fb"
+        ],
+        "issues": []
+      }
+    ]
+  },
+  {
+    "source_id": "83dc5c28864e8681",
+    "mode": "filings",
+    "rationale": "Distinct municipalities shared a normalized name. Every 2026 filing is assigned by its own verified client jurisdiction; all unchecked historical filings remain unassigned. Every original filing is preserved exactly once.",
+    "sources": [
+      {
+        "url": "https://lda.gov/api/v1/filings/6b868393-4ee7-421b-a7b2-ded50333a3a0/?format=json",
+        "label": "Original filing client jurisdiction",
+        "claim": "Client 55127 names CITY OF LAKEWOOD in California; both client state fields agree."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/884c3f76-0416-48df-ba50-afce267abc39/?format=json",
+        "label": "Original filing client jurisdiction",
+        "claim": "Client 198635 names CITY OF LAKEWOOD in Ohio; both client state fields agree."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/bcd177c2-2f23-421b-a11e-c5bfa5ed0932/?format=json",
+        "label": "Original filing client jurisdiction",
+        "claim": "Client 189831 names CITY OF LAKEWOOD in Washington; both client state fields agree."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/c4fa362d-6637-4a94-8259-978e3ee58e81/?format=json",
+        "label": "Original filing client jurisdiction",
+        "claim": "Client 55127 names CITY OF LAKEWOOD in California; both client state fields agree."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/1d6c0476-92b3-44c8-bdd2-a33a51a69240/?format=json",
+        "label": "Original filing client jurisdiction",
+        "claim": "Client 198635 names CITY OF LAKEWOOD in Ohio; both client state fields agree."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/8f12e29e-74f4-4485-a60a-5a128a3873a6/?format=json",
+        "label": "Original filing client jurisdiction",
+        "claim": "Client 189831 names CITY OF LAKEWOOD in Washington; both client state fields agree."
+      }
+    ],
+    "children": [
+      {
+        "id": "83dc5c28864e8681",
+        "name": "City of Lakewood (California)",
+        "aliases": [
+          "CITY OF LAKEWOOD"
+        ],
+        "members": [
+          "83dc5c28864e8681"
+        ],
+        "filing_ids": [
+          "6b868393-4ee7-421b-a7b2-ded50333a3a0",
+          "c4fa362d-6637-4a94-8259-978e3ee58e81"
+        ],
+        "issues": []
+      },
+      {
+        "id": "bca179a3f84ac611",
+        "name": "City of Lakewood (Ohio)",
+        "aliases": [
+          "CITY OF LAKEWOOD"
+        ],
+        "members": [
+          "83dc5c28864e8681"
+        ],
+        "filing_ids": [
+          "884c3f76-0416-48df-ba50-afce267abc39",
+          "1d6c0476-92b3-44c8-bdd2-a33a51a69240"
+        ],
+        "issues": []
+      },
+      {
+        "id": "5faf82fb4bea2d98",
+        "name": "City of Lakewood (Washington)",
+        "aliases": [
+          "CITY OF LAKEWOOD"
+        ],
+        "members": [
+          "83dc5c28864e8681"
+        ],
+        "filing_ids": [
+          "bcd177c2-2f23-421b-a11e-c5bfa5ed0932",
+          "8f12e29e-74f4-4485-a60a-5a128a3873a6"
+        ],
+        "issues": []
+      },
+      {
+        "id": "9aa99e99fb306e06",
+        "name": "City of Lakewood (unassigned historical filings)",
+        "aliases": [
+          "CITY OF LAKEWOOD"
+        ],
+        "members": [
+          "83dc5c28864e8681"
+        ],
+        "filing_ids": [
+          "046a6ddc-30c6-4859-a87d-99b4e0fccdbc",
+          "06a345bc-7ba2-48bb-8316-fbf7dbc29bda",
+          "06d8682e-c8ec-41c5-b935-b78786f9eb28",
+          "0adb8b65-4472-4514-9c6b-41012bfc422f",
+          "0c3c802b-8b1b-4304-8b06-22055adb2621",
+          "0cc9caf4-bb62-4ccd-8eea-e06a1a07334a",
+          "0e2fef7c-9cfb-471a-8f8a-9a593d2d8605",
+          "12977b57-e0e1-4744-a75b-80e0293cf91c",
+          "12c18b73-bc17-43cf-90fe-d7d3f383e153",
+          "1352e289-a216-426b-941e-c64188917348",
+          "13fdda3b-92ec-4cc3-a185-6a73d6d7bbf6",
+          "15e5a9ea-4891-41ed-b736-7c2837542e89",
+          "18447268-f398-48b2-8f08-11c377c9d2ee",
+          "1a2877f8-75ee-4015-8e37-82cd97568a08",
+          "21dfec3b-5214-42f4-acb2-549047e6d201",
+          "22b02b29-660c-4daf-8f60-c29b4aa13224",
+          "235cda5c-1cd1-4ff4-b4b7-0cb40d62d574",
+          "28848ae8-1782-409e-8519-57f6ffb8bc69",
+          "2cfd9821-fe7b-456d-99e6-56be2640fb83",
+          "2f375aa7-90a0-49cb-b672-b6bf92cc6888",
+          "2ffc6198-df09-49a5-b4c1-ace6e3718923",
+          "341761f8-de80-485a-b286-706232b4a938",
+          "3462a3a9-4386-43b7-929b-d02acbae810d",
+          "3abc99de-8e27-499b-b187-7dadf18d3aab",
+          "3dd16881-279b-4673-8009-0300567ac23b",
+          "3e36f25d-5fbd-44ea-951d-46b3d6a2970b",
+          "4059c594-e2e2-416b-abef-fc7a7c7b9f0a",
+          "4099c427-85a9-478c-a0c4-b83c4e90ab59",
+          "41284749-a14d-4b01-9352-8770370480ca",
+          "421387ba-c3d0-42a2-9bb1-136f66005d87",
+          "44a0b45a-310c-47f2-aa0f-2c97790d28fc",
+          "4556642d-e460-4a41-97c2-e1769e319fc5",
+          "48d43ce0-8132-44cc-875f-7e906975c88e",
+          "4e2cffab-ec7c-40b4-8714-e4c83d9f8c26",
+          "528ac985-fe4c-4f35-b3f7-436350e58c45",
+          "54ecf1b0-68ff-4050-9c56-33daf356fcd0",
+          "565c044f-9408-43a7-b359-03cfac32b84e",
+          "56ebedd1-c43f-4e36-ac77-0cb51f02d33e",
+          "57484d59-72f2-4b67-8937-7ebb31bbef3c",
+          "589ae455-4acc-4041-8e7a-bb80dde5e427",
+          "58b81264-eec1-4b36-af2b-95d83b6aea15",
+          "5a5cbbac-5dc7-42f9-8893-d6c5cf71e6b4",
+          "5adff94f-6c86-4d2c-9cbb-449616692d60",
+          "5af8f4d0-3f1b-41cf-a24c-a6e86a4f2b2e",
+          "5bd1e0b6-b1ca-4ed8-a289-834b97ff7d6d",
+          "5e89d5af-e06b-46ac-83a7-cbbcdddd4534",
+          "62484af4-90cc-475f-aee3-9c5956b93bbf",
+          "6520fece-7b2f-4213-b832-c4b8c9c4fe69",
+          "65213e5f-3b6d-4db3-8c1a-5550d9584726",
+          "67dc01e8-e504-4db1-bac1-cca7de648faf",
+          "68547259-e243-4cee-ba01-290f7f34d08a",
+          "69c4601e-d302-4eb3-9263-489b3714f887",
+          "69d8997e-068c-44bf-863b-513267663548",
+          "6d7830c6-2c03-490e-8831-7fdf0979176e",
+          "71a250c8-17c7-4bc9-8341-707d42885e47",
+          "74da3f92-d98e-4b9d-a819-626fbfa9ace9",
+          "79420f96-51b5-48ec-9e60-fcfe79dbde56",
+          "7a5abba9-44fe-424e-88a4-2fb018301b1a",
+          "7a82c93a-791f-4ac7-b484-1d6ef3533d7b",
+          "7ac5547d-053a-46e0-89ba-6a373c889712",
+          "84027f5b-4a38-45eb-8e5e-8b82342da68e",
+          "86bb4a7f-aacb-4145-813a-eab879a8c55f",
+          "86c070f7-94bc-45d1-a5b6-0baea32dac54",
+          "881abca3-782b-4526-8f61-8b46387f56c1",
+          "8b07539a-edef-4b04-89f2-b4745fead893",
+          "8c6d75db-ffed-4cb5-acc6-de2f0fbc5ec9",
+          "8d27c0ce-9026-4ac4-8e7a-24242cc2ddd9",
+          "8f42766b-a85c-4a17-af40-578f859f026a",
+          "91c19c57-a236-44b8-a89b-5700c73c5a89",
+          "931f26aa-6759-4874-ac09-dd8e2f911db8",
+          "95091922-5c9c-4525-a782-05af7612d2e0",
+          "9cc725c7-21e6-44c6-acb7-6f973cbe5b27",
+          "9ee61b15-517e-4152-a444-eabd5c753c26",
+          "a2535258-1f0e-4838-aeff-02643f35b37d",
+          "a450d0cd-9aa6-4120-bae9-65352bb500b2",
+          "a827e467-e895-4529-a994-32f0078e3348",
+          "a8de193c-f0de-49e8-9df6-cf49e3d1c30a",
+          "b06775e4-d09b-4f77-9f13-d113d2f646b7",
+          "b2175163-cb90-4981-90d9-b657f19619f3",
+          "b2e79010-8102-4bde-927a-f865df67eac6",
+          "b5c8eadc-8faf-4629-9258-417a114e34b3",
+          "b6155c40-0bee-4bd0-bc77-8cb2977c36c5",
+          "bc30255b-f58d-4f3f-b800-6860fa87c79e",
+          "bc6cee24-56ce-4657-99d9-3eacbf817bfb",
+          "bcb69f13-88a9-4702-add5-1d6d136e328e",
+          "bdbe390f-0120-400f-8983-6d863bdcfb84",
+          "bec0ed67-c4c9-485f-ae5b-d258d5b3fc47",
+          "bfb66dc8-4ca7-4711-9ec7-d465c19a7e69",
+          "c247e7c9-d6ee-45a9-990d-3a1d81457db1",
+          "c32ed4c0-39fe-447c-8738-848c0d2fcb56",
+          "c39adad5-e38f-43e7-8f10-3c5553403383",
+          "c40c848e-d702-4e66-b759-65de0be41d14",
+          "c48a9e35-5b94-4278-ab67-239de421cdfd",
+          "c4bacc6c-36fb-4ad8-9d91-7b48c6489ace",
+          "c6aca645-7d1d-4b07-bbc4-aa2277fd1fb0",
+          "c852b6f3-3174-4ea9-b465-f80bef18e313",
+          "c891c5ba-8594-436a-b359-d0ce480dd4a6",
+          "cd17c86a-5d2e-4849-868e-c77ccd7c0ded",
+          "cfb031ab-0fbe-4ee8-ae44-3e778cee10e6",
+          "d18d1e0c-4046-4dd1-b262-ad49c0a21661",
+          "d1eb725f-0692-4dc1-8f83-51efead5201b",
+          "d2fa3f6e-2147-4012-a769-b63b4f7d3e4f",
+          "d3256c83-7616-4df7-b54f-2131f64276f1",
+          "d4172c71-c828-4035-b9a3-6d355e3f0c2e",
+          "d49f58ed-a6a7-417f-b814-366c99e523a0",
+          "d80df023-60d9-4b95-ab2c-db53a742eb9f",
+          "d9c80252-f287-493d-97ab-97cb6f668238",
+          "dae89d7e-1530-47e4-bba4-c199e19bf79b",
+          "dbab68f8-b512-4962-b4f7-0dac7f589476",
+          "de64d1b5-e032-4ef7-a900-35e7e5ef22ff",
+          "dea9d324-7cda-4f0c-8139-9cbcea1f7d31",
+          "dfd71093-d8c9-4cbf-a858-7fd478be007c",
+          "e2165c12-78cb-4b6e-9c20-a6191042b110",
+          "e36a15c5-4640-439b-98e3-76cd07cdf89e",
+          "e4c284e9-1b40-45a4-a2bb-2846df359b71",
+          "e52ccb68-3482-4697-8a10-c89efec99324",
+          "e839b17e-ee3f-469e-a850-892d6833640c",
+          "ebb00a56-700d-40fe-a9c1-3bd0c9ddecff",
+          "ed3830cf-5288-4485-9690-addbd38e0d35",
+          "ef0e7106-b1a0-45ca-adef-8ff8ca4ace1a",
+          "ef7c0710-4d21-4928-bd9c-4d0aeceb6257",
+          "f0776c0e-1895-4b04-80f0-4313966abe83",
+          "f0af1658-1c93-4b16-9bb0-d3edbe07d277",
+          "f2236770-0bd5-4199-b77a-a363075c848d",
+          "f30b8e71-fdc7-4683-8052-865b38086b87",
+          "f4bba987-2653-44e0-8e1f-bb79794008e4",
+          "f66ca6f1-4fd5-412a-96a7-e248ca3b6298",
+          "f9044444-6a0e-4fe2-b3d6-2dd02a3f8dba",
+          "fac0248b-0ae7-4473-b01d-c333f13f7384",
+          "fcf9af0f-8679-4cf1-983d-75f957f3dc95",
+          "fec31026-0b88-412b-80f4-8fdbd0537ad9",
+          "fff76394-f243-4172-8b04-2372894f7a9f"
+        ],
+        "issues": []
+      }
+    ]
+  },
+  {
+    "source_id": "42fb8bef32111866",
+    "mode": "filings",
+    "rationale": "Distinct municipalities shared a normalized name. Every 2026 filing is assigned by its own verified client jurisdiction; all unchecked historical filings remain unassigned. Every original filing is preserved exactly once.",
+    "sources": [
+      {
+        "url": "https://lda.gov/api/v1/filings/e477f61f-72f0-4670-ba01-1f7588b79ccb/?format=json",
+        "label": "Original filing client jurisdiction",
+        "claim": "Client 70311 names CITY OF MIAMI in Florida; both client state fields agree."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/b6f0fad7-45bf-4aa8-9235-919723277884/?format=json",
+        "label": "Original filing client jurisdiction",
+        "claim": "Client 68565 names CITY OF MIAMI in Florida; both client state fields agree."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/218ed7c9-56c3-4689-9639-eba25135b862/?format=json",
+        "label": "Original filing client jurisdiction",
+        "claim": "Client 70311 names CITY OF MIAMI in Florida; both client state fields agree."
+      },
+      {
+        "url": "https://lda.gov/api/v1/filings/b3c25e61-98fa-4a81-a021-29213cf3cb61/?format=json",
+        "label": "Original filing client jurisdiction",
+        "claim": "Client 68565 names CITY OF MIAMI in Florida; both client state fields agree."
+      }
+    ],
+    "children": [
+      {
+        "id": "42fb8bef32111866",
+        "name": "City of Miami (Florida)",
+        "aliases": [
+          "CITY OF MIAMI"
+        ],
+        "members": [
+          "42fb8bef32111866"
+        ],
+        "filing_ids": [
+          "e477f61f-72f0-4670-ba01-1f7588b79ccb",
+          "b6f0fad7-45bf-4aa8-9235-919723277884",
+          "218ed7c9-56c3-4689-9639-eba25135b862",
+          "b3c25e61-98fa-4a81-a021-29213cf3cb61"
+        ],
+        "issues": []
+      },
+      {
+        "id": "4231fe7057e681fb",
+        "name": "City of Miami (unassigned historical filings)",
+        "aliases": [
+          "CITY OF MIAMI"
+        ],
+        "members": [
+          "42fb8bef32111866"
+        ],
+        "filing_ids": [
+          "01eca060-08ad-43a9-bc89-4462cb5a818a",
+          "05f9a970-7223-4b17-a3f2-0cd6d5bde690",
+          "06635fc9-3532-440b-b856-731102e2bd86",
+          "0686d1ad-ac8c-4073-b0f0-c36b6541cf30",
+          "0a09e1d9-b0b8-4e8e-8216-d94b8cdaaa7b",
+          "0a298590-d140-4199-b3f9-e5b6516f9627",
+          "0b84464a-4771-4ce3-8296-668f12844577",
+          "0c66dc38-f1c0-493e-b1dc-bfac86d6125c",
+          "0da2b030-7cc2-4d30-a24a-77eda920953c",
+          "0e0def8b-22e6-4b2e-8320-43e4c7918d35",
+          "0f0522ec-f8a8-40d9-91a7-0a71ec884342",
+          "0f518435-d52d-48e4-b50d-db1d97ee546a",
+          "1083c7e1-0736-4d65-bcb9-ee6c868a5a35",
+          "10d27ece-a982-48cd-b27b-1a40ef5b22ef",
+          "11a4e1a4-b4eb-453c-b307-7354c0a818e0",
+          "1292c55f-aa5e-4bcd-a20f-3b1833a4ed83",
+          "13f6d50a-47c5-4755-b967-184dffadf4e4",
+          "15199c1c-f593-453a-926d-83fb72b44353",
+          "170cd446-80d8-4336-90c6-55c483d75401",
+          "18872953-328a-4918-bbec-53e37c6731b5",
+          "1e0ee9bb-f091-449e-8608-511e60d2b5ac",
+          "21ef3b50-95cf-4be2-b571-114196208434",
+          "237eafc7-7ef9-401c-ab7f-59b1c404f0a9",
+          "2516b9a9-c45f-4847-b79f-4f6b0171efd3",
+          "27425667-e62d-4250-b522-6bfa68d1c186",
+          "27d3aa7a-2601-4956-916d-eba6ef79c8a1",
+          "2985e2a8-c04b-4213-b525-c168d2002349",
+          "2ad4dc50-2bd7-468e-869c-bc6d821288f4",
+          "2aec4aad-8ca2-44c5-bd12-3c5d3c02d6c6",
+          "2d35fbba-710c-4a9a-8a90-5865c0f0beb4",
+          "3145801b-b74b-48af-9b69-e9f22019edbc",
+          "32271551-1236-4edf-9b0f-3d7fdd2a4c02",
+          "33bd6e6a-5479-482c-adb3-3275293e444e",
+          "364323cf-0dd6-4f81-a266-71a24e019031",
+          "36ab741d-0e97-4df5-ad45-a2d237bc0dfd",
+          "391de7f1-ef6b-46a9-a476-d274ffde375f",
+          "39b3ba9c-3e29-4a48-b148-95832430ccdd",
+          "3ab29d09-87ce-41a7-8a2e-5238520f95e1",
+          "3ae161cc-8bd0-44a6-b0bb-5d43bdec9d9e",
+          "3caf4f05-6fdb-45c9-8a1a-20197b576ff5",
+          "401699e0-d2a5-4220-a0cf-2f40ec5709f4",
+          "412f78e5-48dd-4eca-a162-998a0ff7d371",
+          "44daa61d-8cdf-4116-99e8-e62a7f4fbeb3",
+          "4639a13e-9f39-4cdf-8df2-cd3cfe889548",
+          "4f8a42cb-20a1-4472-a636-7f023c6fa9ad",
+          "54ce601a-8653-4768-b378-93057d495f1a",
+          "57e03f61-77c2-4066-a305-c1cf171a0eaa",
+          "5bd9fdc7-88cd-4c5c-b4e2-8adfc0636d29",
+          "5c7773a4-200b-4769-ba7d-fd45884c1a8e",
+          "5ff4d90e-567e-4aec-a733-f29915a7dae4",
+          "64f96282-9450-4f44-a298-c043092c5413",
+          "65894b5f-5937-49a9-a6e4-c7ee3b07985c",
+          "665a37f1-8299-4cc1-8caa-bbb475b3cc63",
+          "67c37848-3f9f-46de-b890-ed430276d733",
+          "67d29816-d87e-4208-b401-b8de441dfb41",
+          "69505903-0279-4231-b14f-5df67efeccec",
+          "6a971cc3-0b96-4edb-9b3a-1fd7650a7ffb",
+          "6c580f76-1830-4585-84cd-555f61e7010f",
+          "6f722f57-b3a3-4895-a752-9cd2fe95ced9",
+          "713ec950-da6a-4e0e-b610-957df82f9a54",
+          "7246f504-316b-43e2-9379-3ab115610456",
+          "7316cf7d-8b36-4743-8b50-99da8d7238e7",
+          "739a29f4-945f-4ec9-86cc-4e03100d7b3c",
+          "779ea278-b43e-4ce7-a1ed-2ab41d6845a7",
+          "7805cd99-1b4f-44eb-b946-af643889a5fd",
+          "78216bf6-5e63-41a5-82fc-3fb91e29d69c",
+          "78642396-4985-4dcd-a4d5-611caf46512a",
+          "7c85679e-534c-444a-be56-9931d740c236",
+          "7ceb62b8-8b1f-45a7-8251-3df95b99bca8",
+          "7dc1e82e-07ce-4d3c-ae53-09290da6ae0e",
+          "806facf0-418b-4ce9-b59f-33ff8fe7c465",
+          "826fcdeb-b0f9-480f-adad-f11b56a4c5ea",
+          "82dd22c2-c0e6-4725-b338-2f9f6e8e2b99",
+          "8400d5de-0186-4c00-b253-1c79ba851022",
+          "842df83b-65a7-4ae7-9c63-f3d082badae6",
+          "85ffa18f-c5bc-4502-8afd-cf6d9c2bcd6a",
+          "878ffd84-50b7-4755-be35-57234025fe08",
+          "88b88736-2380-4886-a457-e710b19b569f",
+          "8a7b62dc-6c03-4985-81f2-9bc9d056d87d",
+          "8b32c72e-5f42-4eb8-98f6-684ff14f4406",
+          "8c587824-3290-4a81-901e-21551dbad22e",
+          "8ce60320-6238-4b5e-8065-5a7d7445696c",
+          "8ffd5329-bcdd-481c-82b4-24fba17d7a1e",
+          "9003898d-a54f-4e4b-9715-7081eb3aca0a",
+          "9131a8cd-5ca9-422c-8cfa-097b46e0782e",
+          "9333e850-1a06-4605-a675-75f0e357a444",
+          "9370efe7-5ef0-4c54-91cb-e99b7c2bc626",
+          "94322bdc-9468-4a5f-b5d2-a893ccb24da4",
+          "946499af-563e-432f-9d90-bfa9d3db6a7e",
+          "94795874-5083-45a5-a2be-84fb974b3d4f",
+          "95fb71e3-e95f-4dfc-9d22-67925a3b8c8a",
+          "97280490-8196-4492-8dd4-22c9b90cadca",
+          "9728cd6b-5c78-40b5-97da-ef913ff3ec66",
+          "97e925a8-bae2-4819-9179-69a3b29b4302",
+          "983a9cad-b6f9-4ccf-be29-cbae61ac0ae4",
+          "985ef6b6-fb18-445a-b2cb-31e84c28fdcf",
+          "9945d5f8-c130-4e0d-abdd-06aaf2a86e90",
+          "99a81bcb-e13a-4c50-aebc-5983f3f276c9",
+          "99c9045e-e83a-4716-a599-8ba32b2c3d82",
+          "9bae9cef-b6ee-486d-95df-e8114604a859",
+          "9d0b702c-4b6c-41b5-ad29-7c58b0296fbc",
+          "9d9b8fb9-9b09-4b13-a328-3fa5ae6225a2",
+          "9e41e063-9ab9-4dee-ab50-1ef978223692",
+          "a022b58c-8807-41ef-9cea-791ee3bbd583",
+          "a06e79e2-3a94-4845-9872-ec543192fdd8",
+          "a19cbf32-c4a1-4ca9-8d50-7e89269acb1d",
+          "a52191c1-e348-43cd-a66d-6053e636a20f",
+          "a6632e29-1f43-4637-90d2-1a7ec146c028",
+          "a78c6223-c2dd-4098-a53c-48f36aa7ecf3",
+          "a7f95a8a-9967-4a7b-838a-80eb38fb3182",
+          "a9220398-fcf0-4c87-afb2-148c36bc26ae",
+          "a98fd47e-cb1e-47b5-98a7-1b786b86ecf7",
+          "aa26d2d2-aa6d-4167-be4f-3110db7d9ab0",
+          "ab531463-6d5e-4aaf-b4cf-bdc58cefdf78",
+          "ab922e0b-745f-476b-a0a9-7503705f389d",
+          "abb2e6b3-6ffd-47b8-b189-3792d8f3923e",
+          "aedd356b-e786-45b9-b107-072bd91ff0f9",
+          "b0916844-540f-46a9-97b8-6095e9db9253",
+          "b3efcaec-29e7-4291-8ed0-70b3a87317b9",
+          "b3efe7f4-f93b-4da8-9073-0befbca7843c",
+          "b5862120-9b40-4437-9c5d-f342e0e12b28",
+          "b5dc863d-a691-4a63-b51b-7f42e0013f61",
+          "badc9dbf-ec92-442d-8279-6b090d4f070c",
+          "bca2a49f-ae4b-42fd-af7d-02b447200293",
+          "bcb6243c-72ec-4f69-9856-33ad7b9321a7",
+          "bccc8627-d64c-44bf-bc2b-f03e47d79445",
+          "bda2e296-910f-401e-80b9-69921a9214dd",
+          "bfaf4946-0239-472d-8826-a531ba7d50ea",
+          "bfee7ef8-328b-4d96-8e02-318b2aa10078",
+          "c096b6b3-50a9-4f85-875d-f4944bc27b36",
+          "c3004e62-7038-46fe-94ea-62d6cd64de57",
+          "c48adbe3-49fc-4b80-9cb4-cea79ce11b63",
+          "c6386b2f-e229-47af-ad19-294275e45146",
+          "c9595e30-2217-4576-a126-41fe7c7c49ed",
+          "c9bf6bcf-0899-4fd0-b5c7-2f43457607d8",
+          "cafa01ed-261a-4c9d-9fa0-97bfdb8b46e9",
+          "cc799125-3d37-48c5-b589-a66fb4b54381",
+          "ccae2b24-62ba-44cb-8390-c11e8071d042",
+          "ccebdd4b-c20e-495f-823c-af3e2116843f",
+          "ce07dc14-b52b-4113-8784-70c3d5727eec",
+          "ce1d163f-655b-4dc2-a296-cddc6633f5d5",
+          "cfaa82b1-7803-4c77-a068-fea7a0d1cc4e",
+          "d0a6679f-f1da-4da5-a5a7-5537ccd780cd",
+          "d11a8b7e-1cf1-4b01-a25a-ef3b309f4d8f",
+          "d1700181-3363-4bae-b22e-ec451bd07409",
+          "d1dd0783-0bc8-4479-bc37-262c879055bd",
+          "d2c87776-52fe-477e-aa38-0046cf96da79",
+          "d36ecd50-aba4-45c0-8652-2ad18976d963",
+          "d3ea7658-e346-43bc-9da3-f2b7ef5ccf40",
+          "d41dfa9a-39cc-41d8-9811-7c2df5f4f2ed",
+          "d5526349-9be3-49fc-b60b-1d8aa3010442",
+          "d7b308c6-7388-4818-9867-a3a75f61f1b3",
+          "d82452f4-db21-4897-bf20-799019b20a19",
+          "d87ba2e6-4dae-4ef0-a479-e4c5d3d9e637",
+          "d904c7ec-8d3e-45aa-b1d5-f0f3f4cc4857",
+          "d9287aeb-e76f-44e3-af7e-b0c72ece57a8",
+          "dba546e0-e4a6-4110-a8fe-e8d199521edd",
+          "dd7339a6-c2a1-4c18-9d5e-8c478d57f47b",
+          "def49a2b-c1e9-44bf-bdff-6dc8cb4a4407",
+          "e1bcfc20-9a7d-4fbb-a8e7-6f6e4653af3d",
+          "e3e2ac91-ba91-4539-bf15-105fef83d4f3",
+          "e4757db2-875d-4328-b414-ce53b9257fb8",
+          "e7dc5d85-b45d-4dcd-93e0-7ef040ccaa62",
+          "e84f458d-21db-4d41-a8eb-d9e502ce56dd",
+          "eca841c5-8622-407b-9ca3-04664f00bf5b",
+          "ed48f632-77aa-4d8c-9fdc-71d4331e2497",
+          "edf6301d-5bb9-47af-8132-ddf9aff5c7a8",
+          "f01a0ab1-0301-4ec0-b253-fde0fa42afb0",
+          "f0c4f9f6-e4db-461f-9487-fea494004502",
+          "f27a7954-9f7e-495a-aead-166f088ab83d",
+          "f2b30861-12e5-4268-90b1-dd6749070f9f",
+          "f48f0438-c3b1-4a62-b3b1-d242c8aca2a4",
+          "f4ebf71a-45bf-483d-8a2f-e557e96a42b7",
+          "f645a968-8513-4dee-939d-dd15b8ac9b5a",
+          "f75d77bb-2e3e-4acc-ba96-6b306e87b96f",
+          "f889a268-6e08-4123-9962-6aca7cfcb442",
+          "fae0dada-b8f3-4eaf-b14f-e81dc81d5d24",
+          "fb94276f-edf3-4125-beeb-99e3de6d5596",
+          "fbd4278d-d7c3-4f6c-8673-3303acf7118d",
+          "fd11b37c-cbbb-4972-ae80-e335c5d18f53",
+          "fd1bcaa8-b2a4-494c-a41d-ddcf1c406d22",
+          "fd38d42c-583b-419b-9b00-bc4a55b27a2a",
+          "fe8ae985-8f16-4bca-9d6b-646bd0df6e60"
+        ],
+        "issues": []
+      }
+    ]
+  }
+]

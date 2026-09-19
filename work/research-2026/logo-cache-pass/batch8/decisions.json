@@ -1,0 +1,31 @@
+{
+  "accepted": [
+    14
+  ],
+  "dark": [],
+  "deferred": {
+    "0": "AerCap group brand; Ireland entity use unresolved",
+    "1": "AGI group brand; combined legal entities need explicit labeling",
+    "2": "Download failed",
+    "3": "AirBoss of America parent logo rather than Defense Group",
+    "4": "Image rendering failed",
+    "5": "Image rendering failed",
+    "6": "Airwallex group brand; US legal-entity use unresolved",
+    "7": "MSE railroad mark rather than Alabama Export Railroad",
+    "8": "Combined Alaska/Hawaiian/oneworld lockup; prefer standalone Alaska mark",
+    "9": "Alcon group brand; Vision LLC use unresolved",
+    "10": "Airplane photograph, not logo",
+    "11": "Felous or Felos brand does not match alliance",
+    "12": "Alpek group brand; US legal-entity use unresolved",
+    "13": "Amway operating brand rather than Alticor parent",
+    "15": "Amazon Pharmacy mark; PillPack relationship needs explicit labeling",
+    "16": "Academy wordmark differs from Association legal entity",
+    "17": "Avant Healthcare sponsor/member logo rather than association",
+    "18": "ABA parent association logo; council use unresolved",
+    "19": "ABA parent association logo; council use unresolved",
+    "20": "ABA parent association logo; council use unresolved",
+    "21": "Foresight Energy mark; combined source entities need resolution",
+    "22": "National AFGE mark rather than Local 476",
+    "23": "AEP group mark; Service Corporation use unresolved"
+  }
+}

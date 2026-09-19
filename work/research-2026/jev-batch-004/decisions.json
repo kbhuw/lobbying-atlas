@@ -1,0 +1,118 @@
+{
+  "39799360b43826f4": {
+    "name": "City of Visalia, California",
+    "description": "Municipal government serving Visalia, California, through local administration and resident services.",
+    "website": "https://www.visalia.gov/",
+    "kind": "Municipal government",
+    "ownership": "Government body",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Official City of Visalia government page identifies its California location and council-manager government. Indexed official text checked September 18, 2026. Prior visaliaca.gov domain failed DNS; corrected official website to visalia.gov.",
+    "notes": "Official City of Visalia government page identifies its California location and council-manager government. Indexed official text checked September 18, 2026. Prior visaliaca.gov domain failed DNS; corrected official website to visalia.gov.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/2852d51e-3013-4613-96d8-a1b8a2efb546/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.visaliaca.gov/",
+        "label": "Organization evidence",
+        "claim": "Official website identifies City of Visalia, California and provides current local government, municipal, utility, public-safety or resident services in California."
+      },
+      {
+        "url": "https://www.visalia.gov/27/Government",
+        "label": "Official identity evidence",
+        "claim": "Official City of Visalia government page identifies its California location and council-manager government. Indexed official text checked September 18, 2026. Prior visaliaca.gov domain failed DNS; corrected official website to visalia.gov."
+      }
+    ],
+    "as_of": "2026-09-05",
+    "checked_at": "2026-09-18",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "345dcada4d62a356": {
+    "name": "Arctic Slope Regional Corp",
+    "description": "Alaska Native corporation owned by I\u00f1upiaq shareholders, with businesses in government contracting, industrial services, petroleum, energy support and construction, as well as North Slope land and resources.",
+    "kind": "Alaska Native corporation",
+    "ownership": "Private company",
+    "website": "https://www.asrc.com/",
+    "status": "sourced",
+    "review_outcome": "confirmed",
+    "identity_evidence": "Official ASRC About page explicitly describes Arctic Slope Regional Corporation as a private, for-profit corporation owned by I\u00f1upiaq shareholders. Exact identity, business activity and ownership supported by indexed official page text checked September 18, 2026; direct retrieval encountered HTTP307. Subsidiaries remain separate.",
+    "notes": "Official ASRC About page explicitly describes Arctic Slope Regional Corporation as a private, for-profit corporation owned by I\u00f1upiaq shareholders. Exact identity, business activity and ownership supported by indexed official page text checked September 18, 2026; direct retrieval encountered HTTP307. Subsidiaries remain separate.",
+    "as_of": "2026-09-05",
+    "checked_at": "2026-09-18",
+    "featured": false,
+    "legal_form": "",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/f9732b61-bac0-49eb-83f6-64de636a9f59/print/",
+        "label": "Lobbying disclosure",
+        "claim": "Original disclosed client name."
+      },
+      {
+        "url": "https://www.asrc.com/about/",
+        "label": "Official organization evidence",
+        "claim": "ASRC explicitly identifies itself as a private, for-profit corporation owned by I\u00f1upiaq shareholders and lists its six business areas."
+      },
+      {
+        "url": "https://www.asrc.com/about/",
+        "label": "Official identity evidence",
+        "claim": "Official ASRC About page explicitly describes Arctic Slope Regional Corporation as a private, for-profit corporation owned by I\u00f1upiaq shareholders. Exact identity, business activity and ownership supported by indexed official page text checked September 18, 2026; direct retrieval encountered HTTP307. Subsidiaries remain separate."
+      }
+    ],
+    "logo_status": "unresolved",
+    "website_status": "verified"
+  },
+  "493ed46113778bb9": {
+    "name": "Rocktree USA LLC",
+    "description": "U.S. Rocktree group entity providing commodities-value-chain infrastructure, logistics, and transshipment services.",
+    "website": "https://rocktree.com/",
+    "kind": "Company",
+    "ownership": "Unknown",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Official Connect page lists exact Rocktree USA LLC in the Americas network; group homepage directly retrieved describes infrastructure and logistics across commodity supply chains. JEV exact legal-name check supported by inspected primary search text. Ownership remains unknown. Checked September 18, 2026.",
+    "notes": "Official Connect page lists exact Rocktree USA LLC in the Americas network; group homepage directly retrieved describes infrastructure and logistics across commodity supply chains. JEV exact legal-name check supported by inspected primary search text. Ownership remains unknown. Checked September 18, 2026.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/3220419a-10ab-4f81-801c-99dc7f87d333/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://rocktree.com/connect/",
+        "label": "Organization evidence",
+        "claim": "Rocktree\u2019s official locations page lists Rocktree USA LLC at 2187 Atlantic St, Suite 501, Clearwater House, Stamford CT 06902, in the Americas network."
+      },
+      {
+        "url": "https://rocktree.com/",
+        "label": "Organization evidence",
+        "claim": "Rocktree describes its business as infrastructure and logistics solutions across commodities value chains for traders, producers, and end users."
+      },
+      {
+        "url": "https://rocktree.com/connect/",
+        "label": "Official identity evidence",
+        "claim": "Official Connect page lists exact Rocktree USA LLC in the Americas network; group homepage directly retrieved describes infrastructure and logistics across commodity supply chains. JEV exact legal-name check supported by inspected primary search text. Ownership remains unknown. Checked September 18, 2026."
+      }
+    ],
+    "as_of": "2026-09-07",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://rocktree.com/wp-content/uploads/2025/09/rocktree-q.jpg",
+    "logo_kind": "logo",
+    "logo_source_url": "https://rocktree.com/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  }
+}

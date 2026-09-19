@@ -1,0 +1,11 @@
+# Identity 219: official legal-name/domain bridges
+
+## Findings
+
+- **Boston Metal (`d7df59cb91f2ed5a`) — confirmed.** SBIR portfolio 403775 names Boston Electrometallurgical Corporation and links its Woburn company record to bostonmetal.com. Boston Metal's own Terms of Use state that the site agreement is with Boston Electrometallurgical Corporation ("Boston Metal"). Its About page says the company was founded under that name and describes MOE metals technology. Ownership remains unknown.
+- **Clearspeed (`b1f937efb3181131`) — confirmed with name qualification.** SBIR portfolio 1560277 and award 191127 identify AC Global Risk, Inc. and link/use clearspeed.com. An official Clearspeed PDF says, “Clearspeed was formerly AC Global Risk.” The 2026 LDA filing uses CLEARSPEED INC. Record the historical SBIR legal name and current filing name without inferring ownership or asserting an unverified formal rename.
+- **Global Technical Systems (`22f6f4577a534702`, `57c1df21e64403b4`) — confirmed with name qualification, shared evidence.** SBIR portfolio 176414 names Management Services Group, Inc. and links to gts.us.com. GTS's official corporate-information page explicitly states that SAM lists Management Services Group, Inc. doing business as Global Technical Systems (GTS). The two LDA filings label the client Global Technical Systems / Global Technical Systems (GTS), respectively. Ownership remains unknown.
+- **Omni Federal (`b5ef316f1cf8ca98`) — confirmed with name qualification.** SBIR portfolio 1424175 uses OMNI FED LLC and links to omnifederal.com. The official Terms of Use calls the site the Omni Fed LLC website, while the current footer says Omni Federal, LLC; the LDA filing also uses Omni Federal, LLC. This supports the domain and documented naming variants, but not a formal rename or ownership relation.
+- **Earth Science Systems (`f8ea61671a360192`) — confirmed.** Official product PDFs print Earth Science Systems, LLC alongside www.earthsciencesystems.com and describe its GPR/radar products. The LDA filing uses Earth Science Systems (ESS), an operating label. Ownership remains unknown.
+
+The machine-readable file contains the source URLs and bounded excerpts used for each recommendation.

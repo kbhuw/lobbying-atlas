@@ -1,0 +1,1061 @@
+[
+  {
+    "id": "a13565671e754039",
+    "name": "the Partnership for Electrical Safety",
+    "requested_url": "https://partnershipforelectricalsafety.org/",
+    "status": 200,
+    "final_url": "https://partnershipforelectricalsafety.org/",
+    "text_chars": 4541,
+    "logo_candidates": [
+      {
+        "class": "logo-main scale-with-grid",
+        "src": "https://partnershipforelectricalsafety.org/wp-content/uploads/2020/03/PES-logo-Brightwht-shadow.png",
+        "data-retina": "",
+        "data-height": "187",
+        "alt": "PES-logo-Brightwht-shadow",
+        "data-no-retina": null
+      },
+      {
+        "class": "logo-sticky scale-with-grid",
+        "src": "https://partnershipforelectricalsafety.org/wp-content/uploads/2020/03/PES-logo-Brightwht-shadow.png",
+        "data-retina": "",
+        "data-height": "187",
+        "alt": "PES-logo-Brightwht-shadow",
+        "data-no-retina": null
+      },
+      {
+        "class": "logo-mobile scale-with-grid",
+        "src": "https://partnershipforelectricalsafety.org/wp-content/uploads/2020/03/PES-logo-Brightwht-shadow.png",
+        "data-retina": "",
+        "data-height": "187",
+        "alt": "PES-logo-Brightwht-shadow",
+        "data-no-retina": null
+      },
+      {
+        "class": "logo-mobile-sticky scale-with-grid",
+        "src": "https://partnershipforelectricalsafety.org/wp-content/uploads/2020/03/PES-logo-Brightwht-shadow.png",
+        "data-retina": "",
+        "data-height": "187",
+        "alt": "PES-logo-Brightwht-shadow",
+        "data-no-retina": null
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-013/a13565671e754039.txt"
+  },
+  {
+    "id": "ca2b8b88d36d028b",
+    "name": "Chester County Wastewater Recovery",
+    "requested_url": "https://cwr.services/",
+    "status": 200,
+    "final_url": "https://cwr.services/",
+    "text_chars": 6469,
+    "logo_candidates": [
+      {
+        "class": "fixed-logo",
+        "src": "http://cwr.services/wp-content/uploads/2019/08/logo.png",
+        "width": "75",
+        "alt": "Chester County Wastewater Recovery"
+      },
+      {
+        "class": "nav-logo",
+        "src": "http://cwr.services/wp-content/uploads/2019/08/logo.png",
+        "width": "75",
+        "alt": "Chester County Wastewater Recovery"
+      },
+      {
+        "decoding": "async",
+        "width": "214",
+        "height": "150",
+        "src": "https://cwr.services/wp-content/uploads/2019/08/logo.png",
+        "class": "vc_single_image-img attachment-medium",
+        "alt": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-013/ca2b8b88d36d028b.txt"
+  },
+  {
+    "id": "a5fdef20dc291d91",
+    "name": "City of Coachella, California",
+    "requested_url": "https://www.coachella.org/city-government/about-city-government",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "6569f4a3793f60f7",
+    "name": "City of Commerce City, Colorado",
+    "requested_url": "https://www.c3gov.com/Home",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "3e6f176fc862c9b6",
+    "name": "City of Compton, California",
+    "requested_url": "https://www.comptoncity.org/home",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "d4add2be69fea30d",
+    "name": "City of Goodyear, Arizona",
+    "requested_url": "https://www.goodyearaz.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "af7b8410d7970957",
+    "name": "City of Gulfport, Florida",
+    "requested_url": "https://mygulfport.us/",
+    "status": 202,
+    "final_url": "https://mygulfport.us/",
+    "text_chars": 82,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-013/af7b8410d7970957.txt"
+  },
+  {
+    "id": "ab97b0acfd51e915",
+    "name": "Geothermal Rising Action, Inc",
+    "requested_url": "https://www.geothermal.org/our-organization",
+    "status": 200,
+    "final_url": "https://www.geothermal.org/our-organization",
+    "text_chars": 5011,
+    "logo_candidates": [
+      {
+        "src": "/themes/geothermal/img/grc-new-logo.png",
+        "alt": "Home"
+      },
+      {
+        "loading": "lazy",
+        "src": "/sites/default/files/styles/max_size_500/public/2025-10/grc-new-logo.png?itok=7GM2RZsL",
+        "width": "800",
+        "height": "141",
+        "alt": "New Logo",
+        "typeof": "foaf:Image",
+        "class": "image-style-max-size-500"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-013/ab97b0acfd51e915.txt"
+  },
+  {
+    "id": "f406fb4ef1ed8a35",
+    "name": "Gritman Medical Center",
+    "requested_url": "https://www.gritman.org/",
+    "status": 200,
+    "final_url": "https://www.gritman.org/",
+    "text_chars": 5789,
+    "logo_candidates": [
+      {
+        "alt": "Gritman logo",
+        "src": "/wp-content/themes/gritman_theme/images/logo_print.png"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-013/f406fb4ef1ed8a35.txt"
+  },
+  {
+    "id": "d3e2973cc3c133b8",
+    "name": "Juvenile Product Manufacturers Association (jpma)",
+    "requested_url": "https://www.jpma.org/page/about",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "ca696e24f88d2601",
+    "name": "Kentucky Primary Care Association",
+    "requested_url": "https://www.kypca.net/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "1ed94aa3d0e6443c",
+    "name": "National Association of Software and Service Companies (NASSCOM)",
+    "requested_url": "https://nasscom.in/",
+    "status": 200,
+    "final_url": "https://nasscom.in/",
+    "text_chars": 10351,
+    "logo_candidates": [
+      {
+        "loading": "lazy",
+        "src": "/themes/custom/nasscomredesigntheme/images/Logo-White.svg",
+        "alt": "Nasscom logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "/themes/custom/nasscomredesigntheme/images/Logo-White.svg",
+        "alt": "Nasscom Logo",
+        "width": "100%"
+      },
+      {
+        "loading": "lazy",
+        "src": "/themes/custom/nasscomredesigntheme/images/Logo-White.svg",
+        "alt": "Logo",
+        "width": "100%"
+      },
+      {
+        "loading": "lazy",
+        "src": "/themes/custom/nasscomredesigntheme/images/logo.svg",
+        "alt": "logo",
+        "title": "logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-013/1ed94aa3d0e6443c.txt"
+  },
+  {
+    "id": "b950f12475d88f8c",
+    "name": "Riverside Transit Agency",
+    "requested_url": "https://web.riversidetransit.com/",
+    "status": 200,
+    "final_url": "https://web.riversidetransit.com/",
+    "text_chars": 4574,
+    "logo_candidates": [
+      {
+        "src": "/templates/it_medical/custom/images/LOGOS/RTA_logo_255x75-96_v1.png",
+        "alt": "Medical"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-013/b950f12475d88f8c.txt"
+  },
+  {
+    "id": "8b36e14c63aa59b0",
+    "name": "SAN Antonio River Authority",
+    "requested_url": "https://www.sariverauthority.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "01df9f112c4aba7b",
+    "name": "SAN Gabriel Valley Council of Governments",
+    "requested_url": "https://www.sgvcog.org/",
+    "status": 200,
+    "final_url": "https://www.sgvcog.org/",
+    "text_chars": 2707,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "sizes": "87px",
+        "srcset": "https://static.wixstatic.com/media/f815d4_a20dd17016094aff9655af7711a249e3~mv2.jpg/v1/fill/w_82,h_79,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/SGVCOG%20Logo%20(Vertical%20-%20Large)%20-%20No%20Text.jpg 1x, https://static.wixstatic.com/media/f815d4_a20dd17016094aff9655af7711a249e3~mv2.jpg/v1/fill/w_164,h_158,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/SGVCOG%20Logo%20(Vertical%20-%20Large)%20-%20No%20Text.jpg 2x",
+        "id": "img_comp-k87ur2q52",
+        "src": "https://static.wixstatic.com/media/f815d4_a20dd17016094aff9655af7711a249e3~mv2.jpg/v1/fill/w_82,h_79,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/SGVCOG%20Logo%20(Vertical%20-%20Large)%20-%20No%20Text.jpg",
+        "alt": "SGVCOG Logo (Vertical - Large) - No Text",
+        "style": "object-fit:contain;object-position:unset",
+        "class": "gRkIq0 sFiSiq",
+        "width": "87",
+        "height": "79"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-013/01df9f112c4aba7b.txt"
+  },
+  {
+    "id": "e94b40bf72f03e97",
+    "name": "Thoma -sea Marine Constructors, LLC",
+    "requested_url": "https://thoma-sea.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "7027c84254cc0c51",
+    "name": "U.S. Track & Field and Cross Country Coaches Association",
+    "requested_url": "https://www.ustfccca.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "3139f5f0d4f26afe",
+    "name": "City of Downey, California",
+    "requested_url": "https://www.downeyca.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "528cbaa493987234",
+    "name": "George E. Warren Corporation",
+    "requested_url": "https://gewarren.com/about/",
+    "status": 200,
+    "final_url": "https://gewarren.com/about/",
+    "text_chars": 1385,
+    "logo_candidates": [
+      {
+        "src": "https://gewarren.com/wp-content/themes/rod-basic/images/logo.png"
+      },
+      {
+        "src": "https://gewarren.com/wp-content/themes/rod-basic/images/logo-brown.png?v1",
+        "class": "logo-brown",
+        "style": "padding-right: 40px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-013/528cbaa493987234.txt"
+  },
+  {
+    "id": "9b51ea56611df599",
+    "name": "Kela Technologies",
+    "requested_url": "https://kela.ai/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "9ed2505ef2594621",
+    "name": "Margaret Rollins School of Nursing",
+    "requested_url": "https://www.beebehealthcare.org/school-nursing",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "f3bd539a9182e386",
+    "name": "Nippon Keizai Dantai Rengokai (japan Business Federation)",
+    "requested_url": "https://www.keidanren.or.jp/en/",
+    "status": 200,
+    "final_url": "https://www.keidanren.or.jp/en/",
+    "text_chars": 3018,
+    "logo_candidates": [
+      {
+        "src": "/images/logo_keidanren02.png",
+        "alt": "Keidanren (Policy & Action)"
+      },
+      {
+        "src": "/common/images/logo_keidanren05.png",
+        "alt": "Keidanren USA (Japan Business Federation)"
+      },
+      {
+        "src": "/en/banner/pri_logo_en.jpg",
+        "alt": "Keidanren Policy Research Institute",
+        "width": "255",
+        "height": "70"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-013/f3bd539a9182e386.txt"
+  },
+  {
+    "id": "c343196dba0ed6fe",
+    "name": "Semitropic Water Storage District",
+    "requested_url": "https://www.semitropic.com/",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "id": "6852f38ce6f98e3d",
+    "name": "City Water, Light and Power, Springfield, Illinois",
+    "requested_url": "https://www.springfield.il.us/",
+    "status": 200,
+    "final_url": "https://www.springfield.il.us/",
+    "text_chars": 2962,
+    "logo_candidates": [
+      {
+        "src": "/Images/spfld2.jpg",
+        "alt": "City of Springfield logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-013/6852f38ce6f98e3d.txt"
+  },
+  {
+    "id": "89368b4e4b490f5f",
+    "name": "Coconino County",
+    "requested_url": "https://www.coconino.az.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "d2f96f2dbdf0f8f2",
+    "name": "Dry Prairie Rural Water Authority",
+    "requested_url": "https://dryprairie.com/",
+    "status": 200,
+    "final_url": "https://dryprairie.com/",
+    "text_chars": 919,
+    "logo_candidates": [
+      {
+        "alt": "",
+        "src": "assets/dprw_logo74804.gif",
+        "style": "width: 181px; height: 109px;"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-013/d2f96f2dbdf0f8f2.txt"
+  },
+  {
+    "id": "9bac77f869a8b58f",
+    "name": "Efficient Power Conversion (EPC)",
+    "requested_url": "https://epc-co.com/epc/about-epc",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "c765e7b973363402",
+    "name": "Houghton Mifflin Harcourt Company",
+    "requested_url": "https://www.hmhco.com/",
+    "status": 200,
+    "final_url": "https://www.hmhco.com/",
+    "text_chars": 14076,
+    "logo_candidates": [
+      {
+        "src": "/logo.svg",
+        "alt": "HMH"
+      },
+      {
+        "src": "https://s3.amazonaws.com/prod-hmhco-vmg-craftcms-public/hmh-logo-white.svg",
+        "alt": "HMH Logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-013/c765e7b973363402.txt"
+  },
+  {
+    "id": "684d229d1cbd683c",
+    "name": "Int'l Association of Bridge Structural Ornamental & Reinforcing Iron Workers",
+    "requested_url": "https://iwintl.org/",
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  {
+    "id": "5a80b66ab9b8e208",
+    "name": "Lego Systems Inc",
+    "requested_url": "https://www.lego.com/en-us",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "8f6780f5105b0232",
+    "name": "M PET Group, Corp",
+    "requested_url": "https://www.mpetgroup.com/",
+    "status": 200,
+    "final_url": "https://www.mpetgroup.com/",
+    "text_chars": 593,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "sizes": "244px",
+        "srcset": "https://static.wixstatic.com/media/385769_ec664a1b9d964523bba6f5f8def0621f~mv2.png/v1/crop/x_0,y_10,w_757,h_216/fill/w_244,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MPet_LOGO_FINAL_White.png 1x, https://static.wixstatic.com/media/385769_ec664a1b9d964523bba6f5f8def0621f~mv2.png/v1/crop/x_0,y_10,w_757,h_216/fill/w_488,h_136,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MPet_LOGO_FINAL_White.png 2x",
+        "id": "img_comp-jwqtrymh",
+        "src": "https://static.wixstatic.com/media/385769_ec664a1b9d964523bba6f5f8def0621f~mv2.png/v1/crop/x_0,y_10,w_757,h_216/fill/w_244,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/MPet_LOGO_FINAL_White.png",
+        "alt": "MPet_LOGO_FINAL_White.png",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "244",
+        "height": "68"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-013/8f6780f5105b0232.txt"
+  },
+  {
+    "id": "9befbb949f787027",
+    "name": "Moran Global Strategies, Inc. on behalf of Salesforce, Inc.",
+    "requested_url": "https://moranstrategies.com/",
+    "status": 200,
+    "final_url": "https://moranstrategies.com/",
+    "text_chars": 4034,
+    "logo_candidates": [
+      {
+        "src": "/wp-content/uploads/MGS-LOGO-2.png",
+        "width": "3300",
+        "height": "1252",
+        "alt": "Moran Global Strategies",
+        "id": "logo",
+        "data-height-percentage": "82"
+      },
+      {
+        "fetchpriority": "high",
+        "decoding": "async",
+        "src": "https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2.png",
+        "alt": "Moran Global Strategies",
+        "title": "MGS LOGO",
+        "width": "3300",
+        "height": "1252",
+        "srcset": "https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2.png 3300w, https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2-1280x486.png 1280w, https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2-980x372.png 980w, https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2-480x182.png 480w",
+        "sizes": "(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 3300px, 100vw",
+        "class": "wp-image-174"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "src": "https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2-WHITE.png",
+        "width": "3300",
+        "height": "1252",
+        "srcset": "https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2-WHITE.png 3300w, https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2-WHITE-1280x486.png 1280w, https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2-WHITE-980x372.png 980w, https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2-WHITE-480x182.png 480w",
+        "sizes": "(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 3300px, 100vw",
+        "class": "wp-image-197",
+        "alt": "Moran Global Strategies Logo",
+        "title": "Moran Global Strategies Logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-013/9befbb949f787027.txt"
+  },
+  {
+    "id": "923a6b6e2bafe0ee",
+    "name": "Nichino America",
+    "requested_url": "https://nichino.net/",
+    "status": 200,
+    "final_url": "https://nichino.net/",
+    "text_chars": 3449,
+    "logo_candidates": [
+      {
+        "src": "https://nichino.net/wp-content/uploads/2024/04/Nichino-logo_2024.svg",
+        "class": "custom-logo",
+        "alt": "Nichino Logo",
+        "decoding": "async",
+        "title": "Nichino-logo_2024"
+      },
+      {
+        "data-src": "//nichino.net/wp-content/uploads/2026/03/Banner-web-phone-2.jpg",
+        "data-libid": "44737",
+        "data-lib": "medialibrary",
+        "alt": "25th Anniversary Logo and Oranges",
+        "title": "Banner web phone 2",
+        "width": "0",
+        "height": "0",
+        "data-dbsrc": "Ly9uaWNoaW5vLm5ldC93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8wMy9CYW5uZXItd2ViLXBob25lLTIuanBn"
+      },
+      {
+        "data-src": "//nichino.net/wp-content/uploads/2026/03/Banner-web-2-1.jpg",
+        "data-libid": "44754",
+        "data-lib": "medialibrary",
+        "alt": "25th Anniversary Logo and Oranges",
+        "title": "Banner web 2",
+        "width": "0",
+        "height": "0",
+        "data-dbsrc": "Ly9uaWNoaW5vLm5ldC93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8wMy9CYW5uZXItd2ViLTItMS5qcGc="
+      },
+      {
+        "data-src": "//nichino.net/wp-content/uploads/2026/03/Banner-web-phone-4.jpg",
+        "data-libid": "44739",
+        "data-lib": "medialibrary",
+        "alt": "25th Anniversary Logo and Almonds",
+        "title": "Banner web phone 4",
+        "width": "0",
+        "height": "0",
+        "data-dbsrc": "Ly9uaWNoaW5vLm5ldC93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8wMy9CYW5uZXItd2ViLXBob25lLTQuanBn"
+      },
+      {
+        "data-src": "//nichino.net/wp-content/uploads/2026/03/Banner-web-4-1.jpg",
+        "data-libid": "44756",
+        "data-lib": "medialibrary",
+        "alt": "25th Anniversary Logo and Almonds",
+        "title": "Banner web 4",
+        "width": "0",
+        "height": "0",
+        "data-dbsrc": "Ly9uaWNoaW5vLm5ldC93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8wMy9CYW5uZXItd2ViLTQtMS5qcGc="
+      },
+      {
+        "data-src": "//nichino.net/wp-content/uploads/2026/03/Banner-web-phone-1.jpg",
+        "data-libid": "44736",
+        "data-lib": "medialibrary",
+        "alt": "25th Anniversary Logo and Grapes",
+        "title": "Banner web phone 1",
+        "width": "0",
+        "height": "0",
+        "data-dbsrc": "Ly9uaWNoaW5vLm5ldC93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8wMy9CYW5uZXItd2ViLXBob25lLTEuanBn"
+      },
+      {
+        "data-src": "//nichino.net/wp-content/uploads/2026/03/Banner-web-1-1.jpg",
+        "data-libid": "44753",
+        "data-lib": "medialibrary",
+        "alt": "25th Anniversary Logo and Grapes",
+        "title": "Banner web 1",
+        "width": "0",
+        "height": "0",
+        "data-dbsrc": "Ly9uaWNoaW5vLm5ldC93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8wMy9CYW5uZXItd2ViLTEtMS5qcGc="
+      },
+      {
+        "data-src": "//nichino.net/wp-content/uploads/2026/03/Banner-web-phone-5.jpg",
+        "data-libid": "44740",
+        "data-lib": "medialibrary",
+        "alt": "25th Anniversary Logo and Cotton",
+        "title": "Banner web phone 5",
+        "width": "0",
+        "height": "0",
+        "data-dbsrc": "Ly9uaWNoaW5vLm5ldC93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8wMy9CYW5uZXItd2ViLXBob25lLTUuanBn"
+      },
+      {
+        "data-src": "//nichino.net/wp-content/uploads/2026/03/Banner-web-5-1.jpg",
+        "data-libid": "44757",
+        "data-lib": "medialibrary",
+        "alt": "25th Anniversary Logo and Cottom",
+        "title": "Banner web 5",
+        "width": "0",
+        "height": "0",
+        "data-dbsrc": "Ly9uaWNoaW5vLm5ldC93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8wMy9CYW5uZXItd2ViLTUtMS5qcGc="
+      },
+      {
+        "data-src": "//nichino.net/wp-content/uploads/2026/03/Banner-web-1.jpg",
+        "data-libid": "44735",
+        "data-lib": "medialibrary",
+        "alt": "25th Anniversary Logo and Grapes",
+        "title": "Banner web 1",
+        "width": "0",
+        "height": "0",
+        "data-dbsrc": "Ly9uaWNoaW5vLm5ldC93cC1jb250ZW50L3VwbG9hZHMvMjAyNi8wMy9CYW5uZXItd2ViLTEuanBn"
+      },
+      {
+        "title": "Craze Herbicide",
+        "class": "wls-logo",
+        "alt": "Craze Herbicide",
+        "src": "https://nichino.net/wp-content/uploads/2022/10/Craze-R-crawl.svg"
+      },
+      {
+        "title": "ET herbicide",
+        "class": "wls-logo",
+        "alt": "ET herbicide",
+        "src": "https://nichino.net/wp-content/uploads/2019/05/ET-crawl.svg"
+      },
+      {
+        "title": "ETX herbicide",
+        "class": "wls-logo",
+        "alt": "ETX herbicide",
+        "src": "https://nichino.net/wp-content/uploads/2019/05/ETX-crawl-2025.svg"
+      },
+      {
+        "title": "Strada",
+        "class": "wls-logo",
+        "alt": "Strada",
+        "src": "https://nichino.net/wp-content/uploads/2019/05/Strada-crawl.svg"
+      },
+      {
+        "title": "Venue",
+        "class": "wls-logo",
+        "alt": "Venue",
+        "src": "https://nichino.net/wp-content/uploads/2019/05/Venue-crawl.svg"
+      },
+      {
+        "title": "Zembu",
+        "class": "wls-logo",
+        "alt": "Zembu",
+        "src": "https://nichino.net/wp-content/uploads/2023/12/Zembu-R-crawl.svg"
+      },
+      {
+        "title": "Applaud",
+        "class": "wls-logo",
+        "alt": "Applaud Insect Growth Regulator",
+        "src": "https://nichino.net/wp-content/uploads/2019/05/Applaud-crawl.svg"
+      },
+      {
+        "title": "Apta",
+        "class": "wls-logo",
+        "alt": "Apta Insecticide",
+        "src": "https://nichino.net/wp-content/uploads/2019/05/Apta-crawl.svg"
+      },
+      {
+        "title": "Bexar",
+        "class": "wls-logo",
+        "alt": "Bexar Insecticide",
+        "src": "https://nichino.net/wp-content/uploads/2019/05/Bexar-crawl.svg"
+      },
+      {
+        "title": "Centaur",
+        "class": "wls-logo",
+        "alt": "Centaur Insect Growth Regulator",
+        "src": "https://nichino.net/wp-content/uploads/2019/05/Centaur-crawl.svg"
+      },
+      {
+        "title": "Courier",
+        "class": "wls-logo",
+        "alt": "Courier Insect Growth Regulator",
+        "src": "https://nichino.net/wp-content/uploads/2019/05/Courier-crawl.svg"
+      },
+      {
+        "title": "FujiMite SC",
+        "class": "wls-logo",
+        "alt": "Fujimite SC Miticide Insecticide",
+        "src": "https://nichino.net/wp-content/uploads/2019/05/FujiMite-crawl.svg"
+      },
+      {
+        "title": "Miteus",
+        "class": "wls-logo",
+        "alt": "Miteus Miticide Insecticide",
+        "src": "https://nichino.net/wp-content/uploads/2019/05/Miteus-crawl.svg"
+      },
+      {
+        "title": "Portal",
+        "class": "wls-logo",
+        "alt": "Portal Miticide Insecticide",
+        "src": "https://nichino.net/wp-content/uploads/2019/05/Portal-crawl.svg"
+      },
+      {
+        "title": "PQZ",
+        "class": "wls-logo",
+        "alt": "PQZ Insecticide",
+        "src": "https://nichino.net/wp-content/uploads/2019/05/PQZ-crawl.svg"
+      },
+      {
+        "title": "Torac",
+        "class": "wls-logo",
+        "alt": "Torac Insecticide",
+        "src": "https://nichino.net/wp-content/uploads/2019/05/Torac-crawl.svg"
+      },
+      {
+        "title": "Convoy",
+        "class": "wls-logo",
+        "alt": "Convoy Fungicide",
+        "src": "https://nichino.net/wp-content/uploads/2019/05/Convoy-crawl.svg"
+      },
+      {
+        "title": "Elegia",
+        "class": "wls-logo",
+        "alt": "Elegia Fungicide",
+        "src": "https://nichino.net/wp-content/uploads/2019/05/Elegia-crawl.svg"
+      },
+      {
+        "title": "Eject",
+        "class": "wls-logo",
+        "alt": "Eject Fungicide",
+        "src": "https://nichino.net/wp-content/uploads/2024/01/Eject-crawl-only.svg"
+      },
+      {
+        "title": "Gatten",
+        "class": "wls-logo",
+        "alt": "Gatten Fungicide",
+        "src": "https://nichino.net/wp-content/uploads/2019/05/Gatten-crawl.svg"
+      },
+      {
+        "title": "Moncoat MZ",
+        "class": "wls-logo",
+        "alt": "Moncoat MZ Fungicide",
+        "src": "https://nichino.net/wp-content/uploads/2019/05/Moncoat-crawl.svg"
+      },
+      {
+        "title": "Moncut",
+        "class": "wls-logo",
+        "alt": "Moncut Fungicide",
+        "src": "https://nichino.net/wp-content/uploads/2019/05/Moncut-crawl.svg"
+      },
+      {
+        "title": "Umbra",
+        "class": "wls-logo",
+        "alt": "Umbra Fungicide",
+        "src": "https://nichino.net/wp-content/uploads/2019/05/Umbra-crawl.svg"
+      },
+      {
+        "style": "margin: 1rem auto;",
+        "src": "/wp-content/uploads/2022/08/nichinoCS_logo.svg",
+        "width": "125px",
+        "height": "125px",
+        "alt": "20 Years"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-013/923a6b6e2bafe0ee.txt"
+  },
+  {
+    "id": "ad71923da0fa661d",
+    "name": "North Logan City",
+    "requested_url": "https://www.northlogancity.gov/",
+    "status": 200,
+    "final_url": "https://www.northlogancity.gov/",
+    "text_chars": 158,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-013/ad71923da0fa661d.txt"
+  },
+  {
+    "id": "df400951a9f852f1",
+    "name": "Renal Healthcare Association",
+    "requested_url": "https://www.renalhealthcare.org/home",
+    "status": 200,
+    "final_url": "https://www.renalhealthcare.org/home",
+    "text_chars": 2094,
+    "logo_candidates": [
+      {
+        "src": "https://higherlogicdownload.s3.amazonaws.com/NRAA/LogoImages/a802b4ca-76ac-4210-8418-e55276c8fff6_Branding Updates wRHCC.png",
+        "alt": "RHA Community logo. This will take you to the homepage",
+        "style": " height:72px;"
+      },
+      {
+        "src": "https://higherlogicdownload.s3.amazonaws.com/NRAA/44ad6178-0c01-43d7-a216-429c3a5bd408/UploadedImages/Brand/RHA_Icon_Color__2_.png",
+        "alt": "RHA Community logo. This will take you to the homepage",
+        "style": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-013/df400951a9f852f1.txt"
+  },
+  {
+    "id": "bcfe257452e7c4cc",
+    "name": "the Hemophilia Alliance",
+    "requested_url": "https://hemoalliance.org/",
+    "status": 200,
+    "final_url": "https://hemoalliance.org/",
+    "text_chars": 4584,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "width": "2560",
+        "height": "584",
+        "src": "https://hemoalliance.org/wp-content/uploads/2025/01/HemoAlliance-White-Logo-Transparent-LARGE_cropped.png",
+        "class": "attachment-full size-full wp-image-69774",
+        "alt": "",
+        "srcset": "https://hemoalliance.org/wp-content/uploads/2025/01/HemoAlliance-White-Logo-Transparent-LARGE_cropped.png 2560w, https://hemoalliance.org/wp-content/uploads/2025/01/HemoAlliance-White-Logo-Transparent-LARGE_cropped-300x68.png 300w, https://hemoalliance.org/wp-content/uploads/2025/01/HemoAlliance-White-Logo-Transparent-LARGE_cropped-1024x234.png 1024w, https://hemoalliance.org/wp-content/uploads/2025/01/HemoAlliance-White-Logo-Transparent-LARGE_cropped-768x175.png 768w, https://hemoalliance.org/wp-content/uploads/2025/01/HemoAlliance-White-Logo-Transparent-LARGE_cropped-1536x350.png 1536w, https://hemoalliance.org/wp-content/uploads/2025/01/HemoAlliance-White-Logo-Transparent-LARGE_cropped-2048x467.png 2048w",
+        "sizes": "(max-width: 2560px) 100vw, 2560px"
+      },
+      {
+        "fetchpriority": "high",
+        "width": "2560",
+        "height": "584",
+        "src": "https://hemoalliance.org/wp-content/uploads/2025/01/HemoAlliance-White-Logo-Transparent-LARGE_cropped.png",
+        "class": "attachment-full size-full wp-image-69774",
+        "alt": "",
+        "srcset": "https://hemoalliance.org/wp-content/uploads/2025/01/HemoAlliance-White-Logo-Transparent-LARGE_cropped.png 2560w, https://hemoalliance.org/wp-content/uploads/2025/01/HemoAlliance-White-Logo-Transparent-LARGE_cropped-300x68.png 300w, https://hemoalliance.org/wp-content/uploads/2025/01/HemoAlliance-White-Logo-Transparent-LARGE_cropped-1024x234.png 1024w, https://hemoalliance.org/wp-content/uploads/2025/01/HemoAlliance-White-Logo-Transparent-LARGE_cropped-768x175.png 768w, https://hemoalliance.org/wp-content/uploads/2025/01/HemoAlliance-White-Logo-Transparent-LARGE_cropped-1536x350.png 1536w, https://hemoalliance.org/wp-content/uploads/2025/01/HemoAlliance-White-Logo-Transparent-LARGE_cropped-2048x467.png 2048w",
+        "sizes": "(max-width: 2560px) 100vw, 2560px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-013/bcfe257452e7c4cc.txt"
+  },
+  {
+    "id": "cc77ddc1840de27f",
+    "name": "Cigar Association Of America",
+    "requested_url": "https://cigarsusa.org/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "c811420979b993ac",
+    "name": "Climate and Wildfire Institute",
+    "requested_url": "https://www.climateandwildfire.org/about-cwi",
+    "status": 200,
+    "final_url": "https://www.climateandwildfire.org/about-cwi",
+    "text_chars": 2194,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "sizes": "253px",
+        "srcset": "https://static.wixstatic.com/media/923d0f_fac16ba4ab1c4bab83d2cb9a7b70f67f~mv2.jpg/v1/crop/x_7,y_148,w_3719,h_604/fill/w_253,h_39,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/CWI%20Horizontal%20Logo%20FINAL.jpg 1x, https://static.wixstatic.com/media/923d0f_fac16ba4ab1c4bab83d2cb9a7b70f67f~mv2.jpg/v1/crop/x_7,y_148,w_3719,h_604/fill/w_506,h_78,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/CWI%20Horizontal%20Logo%20FINAL.jpg 2x",
+        "id": "img_comp-malec69x",
+        "src": "https://static.wixstatic.com/media/923d0f_fac16ba4ab1c4bab83d2cb9a7b70f67f~mv2.jpg/v1/crop/x_7,y_148,w_3719,h_604/fill/w_253,h_39,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/CWI%20Horizontal%20Logo%20FINAL.jpg",
+        "alt": "CWI Horizontal Logo FINAL.jpg",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "253",
+        "height": "39"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-013/c811420979b993ac.txt"
+  },
+  {
+    "id": "07258d280bfb49f9",
+    "name": "Elk Creek Resources",
+    "requested_url": "https://www.niocorp.com/",
+    "status": 202,
+    "final_url": "https://www.niocorp.com/",
+    "text_chars": 78,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-013/07258d280bfb49f9.txt"
+  },
+  {
+    "id": "72fb57968a1d6c40",
+    "name": "Keycorp",
+    "requested_url": "https://www.key.com/about/investor-relations",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "1925062791aebac0",
+    "name": "Kurdistan Regional Government",
+    "requested_url": "https://gov.krd/english/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "3bb087f488f63fba",
+    "name": "LG Electronics USA Inc.",
+    "requested_url": "https://www.lg.com/us/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "7a4b67c3bfbe0b13",
+    "name": "Marion County, FL",
+    "requested_url": "https://www.marionfl.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "931fcdeb7823bd35",
+    "name": "Montgomery Airport Authority",
+    "requested_url": "https://flymgm.com/",
+    "status": 202,
+    "final_url": "https://flymgm.com/",
+    "text_chars": 82,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-013/931fcdeb7823bd35.txt"
+  },
+  {
+    "id": "bce82996cb48da55",
+    "name": "Moran Global Strategies, Inc. on behalf of GE Aerospace",
+    "requested_url": "https://moranstrategies.com/",
+    "status": 200,
+    "final_url": "https://moranstrategies.com/",
+    "text_chars": 4030,
+    "logo_candidates": [
+      {
+        "src": "/wp-content/uploads/MGS-LOGO-2.png",
+        "width": "3300",
+        "height": "1252",
+        "alt": "Moran Global Strategies",
+        "id": "logo",
+        "data-height-percentage": "82"
+      },
+      {
+        "fetchpriority": "high",
+        "decoding": "async",
+        "src": "https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2.png",
+        "alt": "Moran Global Strategies",
+        "title": "MGS LOGO",
+        "width": "3300",
+        "height": "1252",
+        "srcset": "https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2.png 3300w, https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2-1280x486.png 1280w, https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2-980x372.png 980w, https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2-480x182.png 480w",
+        "sizes": "(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 3300px, 100vw",
+        "class": "wp-image-174"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "src": "https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2-WHITE.png",
+        "width": "3300",
+        "height": "1252",
+        "srcset": "https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2-WHITE.png 3300w, https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2-WHITE-1280x486.png 1280w, https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2-WHITE-980x372.png 980w, https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2-WHITE-480x182.png 480w",
+        "sizes": "(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 3300px, 100vw",
+        "class": "wp-image-197",
+        "alt": "Moran Global Strategies Logo",
+        "title": "Moran Global Strategies Logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-013/bce82996cb48da55.txt"
+  },
+  {
+    "id": "bcc358938f5179c9",
+    "name": "National Agricultural Genotyping Center",
+    "requested_url": "https://genotypingcenter.com/contact-us/",
+    "status": 202,
+    "final_url": "https://genotypingcenter.com/contact-us/",
+    "text_chars": 114,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-013/bcc358938f5179c9.txt"
+  },
+  {
+    "id": "cb9f1c145c4844e2",
+    "name": "National Onsite Wastewater Recycling Association (nowra)",
+    "requested_url": "https://www.nowra.org/",
+    "status": 200,
+    "final_url": "https://www.nowra.org/",
+    "text_chars": 5423,
+    "logo_candidates": [
+      {
+        "src": "/images/logo.svg",
+        "alt": "Logo for: NOWRA"
+      },
+      {
+        "src": "/Customer-Content/www/logorotator/Images/10x_Logo_no_tagline_Primary_Logo_resized_2.png",
+        "alt": "10x Business Broker"
+      },
+      {
+        "src": "/Customer-Content/www/logorotator/Images/American_Logo2.jpg",
+        "alt": "American Manufacturing"
+      },
+      {
+        "src": "/Customer-Content/www/logorotator/Images/Anua_Logo2in_resized.png",
+        "alt": "Anua"
+      },
+      {
+        "src": "/Customer-Content/www/logorotator/Images/Apollo_resized.png",
+        "alt": "Apollo Insurance Group"
+      },
+      {
+        "src": "/Customer-Content/www/logorotator/Images/Arris_Logo_med.jpg",
+        "alt": "Arris"
+      },
+      {
+        "src": "/Customer-Content/www/logorotator/Images/Ashland_logo4.png",
+        "alt": "Ashland Pump"
+      },
+      {
+        "src": "/Customer-Content/www/logorotator/Images/biomicrobics.png",
+        "alt": "Bio Microbics"
+      },
+      {
+        "src": "/Customer-Content/www/logorotator/Images/ecological-tanks-inc.png",
+        "alt": "Ecological Tanks, Inc."
+      },
+      {
+        "src": "/Customer-Content/www/logorotator/Images/Logo_w-Corp_New_Tag_CYMK.jpg",
+        "alt": "Eljen"
+      },
+      {
+        "src": "/Customer-Content/www/logorotator/Images/fuji-clean-usa.png",
+        "alt": "FujiClean USA"
+      },
+      {
+        "src": "/Customer-Content/www/logorotator/Images/hiblow_usa-logo-full.jpg",
+        "alt": "Hiblow USA"
+      },
+      {
+        "src": "/Customer-Content/www/logorotator/Images/Hoot.jpg",
+        "alt": "Hoot"
+      },
+      {
+        "src": "/Customer-Content/www/logorotator/Images/Imperial_ID.jpg",
+        "alt": "Imperial Industries"
+      },
+      {
+        "src": "/Customer-Content/www/logorotator/Images/Infiltrator_Water_Technologies_Logo_new_resized_1.png",
+        "alt": "Infiltrator Water Technologies"
+      },
+      {
+        "src": "/Customer-Content/www/logorotator/Images/Inspector_Cameras.png",
+        "alt": "Inspector Cameras"
+      },
+      {
+        "src": "/Customer-Content/www/logorotator/Images/Jet.jpg",
+        "alt": "Jet"
+      },
+      {
+        "src": "/Customer-Content/www/logorotator/Images/JNM_logo_2009_resized.jpg",
+        "alt": "JNM Technologies / LWRE"
+      },
+      {
+        "src": "/Customer-Content/www/logorotator/Images/NPCA_logo-RGB_primary_resized_1.png",
+        "alt": "National Precast Concrete Association"
+      },
+      {
+        "src": "/Customer-Content/www/logorotator/Images/Norweco.jpg",
+        "alt": "Norweco"
+      },
+      {
+        "src": "/Customer-Content/www/logorotator/Images/NSF_LOGO_BLUE_Smaller.jpg",
+        "alt": "NSF"
+      },
+      {
+        "src": "/Customer-Content/www/logorotator/Images/orencologo.jpg",
+        "alt": "Orenco"
+      },
+      {
+        "src": "/Customer-Content/www/logorotator/Images/PolylockLogo.jpg",
+        "alt": "Polylok"
+      },
+      {
+        "src": "/Customer-Content/www/logorotator/Images/PTE_logo_rewatec_NorthAmerica_1_resized_1.png",
+        "alt": "Premier Tech"
+      },
+      {
+        "src": "/Customer-Content/www/logorotator/Images/Residential.jpg",
+        "alt": "Residential"
+      },
+      {
+        "src": "/Customer-Content/www/logorotator/Images/riovation2_logo.jpg",
+        "alt": "RioVation"
+      },
+      {
+        "src": "/Customer-Content/www/logorotator/Images/Roth.jpg",
+        "alt": "Roth"
+      },
+      {
+        "src": "/Customer-Content/www/logorotator/Images/SJE-Rhombus-Logo-Vert-RGB_small.jpg",
+        "alt": "SJE Rhombus"
+      },
+      {
+        "src": "/Customer-Content/www/logorotator/Images/Tuf_Tite3_resized.jpg",
+        "alt": "Tuf-Tite"
+      },
+      {
+        "src": "/Customer-Content/www/logorotator/Images/WaterColor2_resized.png",
+        "alt": "WaterColor Management"
+      },
+      {
+        "src": "/Customer-Content/www/logorotator/Images/Weiser_logo_resized_1.png",
+        "alt": "Wieser Concrete"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-013/cb9f1c145c4844e2.txt"
+  },
+  {
+    "id": "b88e953f24c1ad17",
+    "name": "Quercis Pharma AG",
+    "requested_url": "https://www.quercis.com/",
+    "status": 200,
+    "final_url": "https://www.quercis.com/",
+    "text_chars": 7792,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-013/b88e953f24c1ad17.txt"
+  },
+  {
+    "id": "17611808b6e4d8c3",
+    "name": "Seymour Support Council, Inc. DBA Friends of Seymour",
+    "requested_url": "https://www.goldsboronc.gov/",
+    "status": 200,
+    "final_url": "https://www.goldsboronc.gov/",
+    "text_chars": 127,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-013/17611808b6e4d8c3.txt"
+  },
+  {
+    "id": "ba33f5e29be6b739",
+    "name": "ST Lucie County FL",
+    "requested_url": "https://www.stlucieco.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

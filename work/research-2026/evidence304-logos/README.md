@@ -1,0 +1,1 @@
+Downloaded official logo assets for CelLink, Celligence, and Cerion; each was visually inspected. Certree’s official current page exposed only favicon/rendered branding during bounded inspection, so no full standalone asset is claimed.

@@ -1,0 +1,313 @@
+{
+  "content": [
+    {
+      "type": "text",
+      "text": "8daa381c645ea40a: identity=no (P(yes)=0.48), contamination=no (P(yes)=0.03)\neb84d550f5e05941: identity=no (P(yes)=0.16), contamination=no (P(yes)=0.02)\n9902804f4ff89428: identity=no (P(yes)=0.20), contamination=no (P(yes)=0.03)\n418c1cbc56a23842: identity=yes (P(yes)=0.79), contamination=no (P(yes)=0.02)\n845a3c30aa5f46df: identity=yes (P(yes)=0.79), contamination=no (P(yes)=0.02)\nce68a7160ea26063: identity=yes (P(yes)=0.65), contamination=no (P(yes)=0.12)\nc93e166e13ff2a23: identity=yes (P(yes)=0.51), contamination=no (P(yes)=0.03)\n622ced36ba4f0d78: identity=yes (P(yes)=0.67), contamination=no (P(yes)=0.03)\n30e2cdfc65aeb0e0: identity=yes (P(yes)=0.79), contamination=no (P(yes)=0.03)\n233ee487d44a820e: identity=no (P(yes)=0.45), contamination=no (P(yes)=0.08)\n5ff10fc21ede7e12: identity=yes (P(yes)=0.74), contamination=no (P(yes)=0.04)\n24c3c49d4e1634cb: identity=no (P(yes)=0.48), contamination=no (P(yes)=0.03)\nb54bfc0c4d453a47: identity=no (P(yes)=0.38), contamination=no (P(yes)=0.03)\n0ca3967ef6fc0b0f: identity=no (P(yes)=0.34), contamination=no (P(yes)=0.04)\n6b17ac6946d6104a: identity=yes (P(yes)=0.60), contamination=no (P(yes)=0.03)\nfb6ef2a94940196d: identity=no (P(yes)=0.38), contamination=no (P(yes)=0.04)\n7cfb34d88c84e200: identity=yes (P(yes)=0.65), contamination=no (P(yes)=0.03)\n5d3526c0806f0376: identity=no (P(yes)=0.10), contamination=no (P(yes)=0.03)\n67d1ea416219787b: identity=no (P(yes)=0.42), contamination=no (P(yes)=0.03)\nd3ff3d3de7f7bab1: identity=no (P(yes)=0.35), contamination=no (P(yes)=0.05)\n7369e80f9cf4733b: identity=no (P(yes)=0.20), contamination=no (P(yes)=0.02)\nInspect uncertain or truncated items. Tool and website judgments depend on the content supplied; they do not predict unseen results."
+    }
+  ],
+  "structuredContent": {
+    "ok": true,
+    "model": "jev-latest",
+    "scales": {},
+    "results": [
+      {
+        "id": "8daa381c645ea40a",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.48
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.03
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "eb84d550f5e05941",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.16
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.02
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "9902804f4ff89428",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.2
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.03
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "418c1cbc56a23842",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.79
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.02
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "845a3c30aa5f46df",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.79
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.02
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "ce68a7160ea26063",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.65
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.12
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "c93e166e13ff2a23",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.51
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.03
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "622ced36ba4f0d78",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.67
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.03
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "30e2cdfc65aeb0e0",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.79
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.03
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "233ee487d44a820e",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.45
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.08
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "5ff10fc21ede7e12",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.74
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.04
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "24c3c49d4e1634cb",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.48
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.03
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "b54bfc0c4d453a47",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.38
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.03
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "0ca3967ef6fc0b0f",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.34
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.04
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "6b17ac6946d6104a",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.6
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.03
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "fb6ef2a94940196d",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.38
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.04
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "7cfb34d88c84e200",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.65
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.03
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "5d3526c0806f0376",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.1
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.03
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "67d1ea416219787b",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.42
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.03
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "d3ff3d3de7f7bab1",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.35
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.05
+          }
+        },
+        "model": "jev-1.13.0"
+      },
+      {
+        "id": "7369e80f9cf4733b",
+        "answers": {
+          "identity": {
+            "type": "boolean",
+            "probability": 0.2
+          },
+          "contamination": {
+            "type": "boolean",
+            "probability": 0.02
+          }
+        },
+        "model": "jev-1.13.0"
+      }
+    ],
+    "usage": {
+      "inputTokens": 40382
+    }
+  },
+  "isError": false
+}

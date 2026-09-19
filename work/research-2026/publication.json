@@ -1,0 +1,35 @@
+{
+  "reviewed": 18036,
+  "url": "https://lobbying-atlas.kush581812.chatgpt.site",
+  "commit_sha": "25abe3d8395f40987386bf2b38759855ec0f9526",
+  "version_id": "appgprj_6a9b5690c32c8191a5efe6eb7ab19a84~appgver_68ef47896e44819199ebc617912485ca",
+  "version_number": 219,
+  "deployment_id": "appgdep_6aade9d330a08191a013076afc8c597b",
+  "status": "succeeded",
+  "verified_at": "2026-09-19T01:48:15.077831+00:00",
+  "live_bytes_verified": false,
+  "verification_scope": "Native Sites deployment succeeded for exact pushed source and locally validated build. Authenticated live-byte comparison not performed.",
+  "local_changes_pending": true,
+  "verified_merge_groups": 267,
+  "verified_split_groups": 6,
+  "displayed_2026_organizations": 17743,
+  "published_change_detail": "13,840 identity-confirmed filing-name entries; 4,196 incomplete; 14,613 verified websites; 10,903 official full logos.",
+  "previous_publication": {
+    "commit_sha": "4adca468622b76cbe6dbb494d4bf694ac05a1596",
+    "version_id": "appgprj_6a9b5690c32c8191a5efe6eb7ab19a84~appgver_10aecab813a8819187d9390f5eab3d6d",
+    "deployment_id": "appgdep_6aade92f01b48191a6bb9cbdc4d581d6",
+    "verified_at": "2026-09-19T01:45:30.420209+00:00"
+  },
+  "archive_sha256": "df882faa6aad7c47740b8dee9911d427ff4c469b635529c67075adebdd7c5206",
+  "directory_sha256": "2848141003880e83af6c6ff24152f984ecdf9355a3e4c33a73ad62d415440e89",
+  "upload_repair": "Tracked full ledger compressed from 34,312,424 to 5,010,449 bytes; release snapshot preserves old full history on local main and avoids uploading oversized historical objects. Source push and production deployment both succeeded.",
+  "pending_attempt": {
+    "commit_sha": "bdef1529184c4016058a399f7814d87bdcbf6b91",
+    "archive": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/site-sept18-batch103.tar",
+    "source_push_succeeded": true,
+    "status": "archive_upload_failed",
+    "error": "Native Sites blob upload failed sending request to sdmntprwestus3.oaiusercontent.com",
+    "attempted_at": "2026-09-19T02:42:17.023286+00:00"
+  },
+  "latest_transfer_diagnosis": "Bundled Git and Homebrew Git 2.55 both fail with LibreSSL bad record mac. Smaller incremental push and explicit TLS setting did not resolve. No successful push or deployment claimed."
+}

@@ -1,0 +1,134 @@
+{
+  "01a4a1d7053e6203": {
+    "name": "Elbit Systems Cyclone Ltd.",
+    "description": "Israeli aircraft-parts and defense manufacturing entity within the Elbit Systems group.",
+    "website": "https://www.elbitsystems.com/air-space/aero-structures/parts-manufacturing-assemblies/cyclone",
+    "kind": "aircraft parts manufacturer",
+    "ownership": "Subsidiary",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Official Elbit Cyclone page explicitly identifies Cyclone as a wholly owned subsidiary of Elbit Systems Ltd and describes aircraft composite and metal structural manufacturing. Official brochure names Elbit Systems - Cyclone Ltd.; May 14, 2026 contract announcement also states wholly owned subsidiary. Indexed primary text checked September 18, 2026. Parent public listing is not applied to this subsidiary.",
+    "notes": "Official Elbit Cyclone page explicitly identifies Cyclone as a wholly owned subsidiary of Elbit Systems Ltd and describes aircraft composite and metal structural manufacturing. Official brochure names Elbit Systems - Cyclone Ltd.; May 14, 2026 contract announcement also states wholly owned subsidiary. Indexed primary text checked September 18, 2026. Parent public listing is not applied to this subsidiary.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/b7132788-15fd-4f3d-962d-aeea41f179fa/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://lda.gov/api/v1/clients/67378/?format=json",
+        "label": "Organization evidence",
+        "claim": "Exact client ELBIT SYSTEMS - CYCLONE LTD. is identified in Israel as an aircraft parts manufacturer."
+      },
+      {
+        "url": "https://www.elbitsystems.com/investor-relations",
+        "label": "Organization evidence",
+        "claim": "Elbit Systems investor-relations portal provides current group reporting and subsidiary disclosures."
+      },
+      {
+        "url": "https://www.elbitsystems.com/air-space/aero-structures/parts-manufacturing-assemblies/cyclone",
+        "label": "Exact entity identity evidence",
+        "claim": "Official Elbit Cyclone page explicitly identifies Cyclone as a wholly owned subsidiary of Elbit Systems Ltd and describes aircraft composite and metal structural manufacturing. Official brochure names Elbit Systems - Cyclone Ltd.; May 14, 2026 contract announcement also states wholly owned subsidiary. Indexed primary text checked September 18, 2026. Parent public listing is not applied to this subsidiary."
+      }
+    ],
+    "as_of": "2026-09-06",
+    "checked_at": "2026-09-18",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "d04ef21950c2a6cb": {
+    "name": "Fortress Wildfire Insurance Group",
+    "description": "Fortress Wildfire Insurance Group, doing business as FortressFire, provides property-level wildfire-risk assessments, mitigation recommendations, monitoring, and insurance-support services in California and the western United States.",
+    "website": "https://www.fortressfire.com",
+    "kind": "Wildfire risk and insurance technology company",
+    "ownership": "Unknown",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "NAIC-hosted November 2024 presentation explicitly names Fortress Wildfire Insurance Group, LLC DBA FortressFire. Direct current official website describes wildfire risk and mitigation services. This closes the legal-name bridge; JEV government-type suggestion for homepage is rejected because regulator-facing subject matter does not make the company governmental. Ownership remains unknown.",
+    "notes": "NAIC-hosted November 2024 presentation explicitly names Fortress Wildfire Insurance Group, LLC DBA FortressFire. Direct current official website describes wildfire risk and mitigation services. This closes the legal-name bridge; JEV government-type suggestion for homepage is rejected because regulator-facing subject matter does not make the company governmental. Ownership remains unknown.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/1b0e5a3b-ff36-422b-9b65-0649de669748/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.fortressfire.com/",
+        "label": "Organization evidence",
+        "claim": "Official FortressFire site describes property and community wildfire-risk assessment, mitigation, monitoring, and insurance-support solutions."
+      },
+      {
+        "url": "https://www.fortressfire.com/about-us/",
+        "label": "Organization evidence",
+        "claim": "Official About page describes FortressFire as a California-based company created to improve wildfire-risk understanding and insurance availability."
+      },
+      {
+        "url": "https://content.naic.org/sites/default/files/national_meeting/C%20CMTE%20Materials%20Fall%20NM%2011.19.24%20V4.pdf",
+        "label": "Organization evidence",
+        "claim": "NAIC primary meeting material identifies Fortress Wildfire Insurance Group, LLC doing business as FortressFire and describes it as a California-headquartered insurtech company."
+      },
+      {
+        "url": "https://lda.gov/api/v1/clients/59921/?format=json",
+        "label": "Organization evidence",
+        "claim": "LDA record identifies Fortress Wildfire Insurance Group in California with wildfire assessment, mitigation, and insurance activity."
+      },
+      {
+        "url": "https://content.naic.org/sites/default/files/national_meeting/C%20CMTE%20Materials%20Fall%20NM%2011.19.24%20V3.pdf",
+        "label": "Exact entity identity evidence",
+        "claim": "NAIC-hosted November 2024 presentation explicitly names Fortress Wildfire Insurance Group, LLC DBA FortressFire. Direct current official website describes wildfire risk and mitigation services. This closes the legal-name bridge; JEV government-type suggestion for homepage is rejected because regulator-facing subject matter does not make the company governmental. Ownership remains unknown."
+      }
+    ],
+    "as_of": "2026-09-06",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://fortressfire.com/wp-content/themes/fortressfire/assets/img/FF-Logo.svg",
+    "logo_kind": "logo",
+    "logo_source_url": "https://fortressfire.com/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "0cb787497dd1b584": {
+    "name": "Aternium, Inc.",
+    "description": "Develops clean hydrogen and deuterium production facilities, including a first commercial facility announced for Dover, Delaware in August 2026.",
+    "kind": "Business",
+    "ownership": "Unknown",
+    "website": "https://aternium.com/",
+    "status": "sourced",
+    "featured": false,
+    "as_of": "2026-09-05",
+    "checked_at": "2026-09-18",
+    "legal_form": "",
+    "notes": "Official August 4, 2026 announcement explicitly names Aternium, Inc. and its selection of Dover for its first commercial heavy-water and electrolytic hydrogen production facility. Direct homepage independently matches identity and development activity. Facilities are described as planned/developing, not assumed operational. Indexed official release checked September 18, 2026; ownership remains unknown.",
+    "sources": [
+      {
+        "url": "https://lda.gov/api/v1/clients/73080/?format=json",
+        "label": "LDA client 73080",
+        "claim": "Self-reported description; client effective date 2026-04-21"
+      },
+      {
+        "url": "https://aternium.com/",
+        "label": "Official organization evidence",
+        "claim": "Develops clean hydrogen and deuterium production facilities, including a first commercial facility announced for Dover, Delaware in August 2026."
+      },
+      {
+        "url": "https://aternium.com/news/?_category=press-releases",
+        "label": "Exact entity identity evidence",
+        "claim": "Official August 4, 2026 announcement explicitly names Aternium, Inc. and its selection of Dover for its first commercial heavy-water and electrolytic hydrogen production facility. Direct homepage independently matches identity and development activity. Facilities are described as planned/developing, not assumed operational. Indexed official release checked September 18, 2026; ownership remains unknown."
+      }
+    ],
+    "other_descriptions": [],
+    "website_status": "verified",
+    "review_outcome": "confirmed",
+    "identity_evidence": "Official August 4, 2026 announcement explicitly names Aternium, Inc. and its selection of Dover for its first commercial heavy-water and electrolytic hydrogen production facility. Direct homepage independently matches identity and development activity. Facilities are described as planned/developing, not assumed operational. Indexed official release checked September 18, 2026; ownership remains unknown.",
+    "logo_url": "https://aternium.com/wp-content/uploads/2025/06/aternium-logo.svg",
+    "logo_source_url": "https://aternium.com/",
+    "logo_kind": "logo",
+    "logo_status": "official_site_asset"
+  }
+}

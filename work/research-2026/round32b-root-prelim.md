@@ -1,0 +1,4 @@
+CABEI IDs80e28367ca58f8d2/c5ab232d2ae747fe actualofficialbcie.org NOTcabei.org. https://www.bcie.org/fileadmin/user_upload/CABEI_Brochure_2022.pdf multilateralbankmemberstates. https://www.afdb.org/en/news-and-events/press-releases/african-development-bank-and-cabei-sign-framework-agreement-boost-economic-growth-social-well-being-member-countries-92656 primarycounterparty confirms. Avoidprecisemembershipcountuntilcurrent.
+CABVIf85700f662a81faa https://cabvi.org/about/ UticaNY needtaxstatus.
+TlingitHaida43b94ca6d6a0a277 https://www.ccthita.org/services/ tribalservices needgovtypeprimary.
+Otherroot10drafts done, notintegrated. New filing_evidence.py latest_filing(row) traversesallmembers. research32b_root.py useshelper; verifiedCenterPoint2026member vsoldcanonical2009. Futurebatchmustusethishelper! Noexistingpublishedrecordsmodified.

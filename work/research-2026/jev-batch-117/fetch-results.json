@@ -1,0 +1,998 @@
+[
+  {
+    "id": "f67fdea4667b260a",
+    "name": "City of Logan, Utah",
+    "requested_url": "https://www.loganutah.gov/",
+    "status": 200,
+    "final_url": "https://www.loganutah.gov/",
+    "text_chars": 4573,
+    "logo_candidates": [
+      {
+        "src": "_assets_/images/logo.png",
+        "alt": "logo"
+      },
+      {
+        "src": "newsimage/City_Logo-newcolorssm.png?t=20260902165931226",
+        "class": "pull-left",
+        "role": "img",
+        "alt": "City_Logo-newcolorssm"
+      },
+      {
+        "src": "newsimage/City_Logo-newcolorssm.png?t=20260902165931226",
+        "class": "pull-left",
+        "role": "img",
+        "alt": "City_Logo-newcolorssm"
+      },
+      {
+        "src": "_assets_/images/revize.png",
+        "alt": "revize logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-117/f67fdea4667b260a.txt"
+  },
+  {
+    "id": "0e414f0740f7aae4",
+    "name": "Eckert & Ziegler CNL Scientific Resources",
+    "requested_url": "https://www.ezag.com/",
+    "status": 200,
+    "final_url": "https://www.ezag.com/",
+    "text_chars": 2486,
+    "logo_candidates": [
+      {
+        "src": "/wp-content/themes/bwa_starter/img/logo_en.png",
+        "height": "75",
+        "width": "360",
+        "alt": "EZAG"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-117/0e414f0740f7aae4.txt"
+  },
+  {
+    "id": "d7de9ec76cbcd09b",
+    "name": "Flagler County, Florida",
+    "requested_url": "https://www.flaglercounty.gov",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "5387195f6a7fe1cb",
+    "name": "Hyperice Inc.",
+    "requested_url": "https://hyperice.com/",
+    "status": 200,
+    "final_url": "https://hyperice.com/",
+    "text_chars": 10498,
+    "logo_candidates": [
+      {
+        "src": "//hyperice.com/cdn/shop/files/logo_footer_white.svg?v=1765839129&width=400",
+        "alt": "Hyperice logo",
+        "srcset": "//hyperice.com/cdn/shop/files/logo_footer_white.svg?v=1765839129&width=142 142w, //hyperice.com/cdn/shop/files/logo_footer_white.svg?v=1765839129&width=200 200w, //hyperice.com/cdn/shop/files/logo_footer_white.svg?v=1765839129&width=284 284w, //hyperice.com/cdn/shop/files/logo_footer_white.svg?v=1765839129&width=400 400w",
+        "width": "400",
+        "height": "56",
+        "loading": "lazy",
+        "sizes": "(min-width: 1024px) 200px, 142px",
+        "class": "w-full block  object-contain",
+        "fetchpriority": "low",
+        "data-preload": "false"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-117/5387195f6a7fe1cb.txt"
+  },
+  {
+    "id": "1219409541cbf649",
+    "name": "Hyperion Materials and Technologies",
+    "requested_url": "https://www.hyperionmt.com/",
+    "status": 200,
+    "final_url": "https://www.hyperionmt.com/en/",
+    "text_chars": 20292,
+    "logo_candidates": [
+      {
+        "src": "/Static/img/HyperionMaterialsAndTechnologies.svg",
+        "class": "logo",
+        "alt": "Hyperion Materials & Technologies"
+      },
+      {
+        "src": "/globalassets/images/logos/afc-logo-v2.png",
+        "alt": "AFC logo V2"
+      },
+      {
+        "src": "/globalassets/images/logos/sinter-sud-logo-v2.png",
+        "alt": "Sinter Sud logo V2"
+      },
+      {
+        "src": "/globalassets/images/logos/logo-aggressive-grinding-service.jpg",
+        "alt": "Logo Aggressive Grinding Service.jpg"
+      },
+      {
+        "src": "/globalassets/images/logos/crafts-logo-v2.png",
+        "alt": "Crafts Logo V2"
+      },
+      {
+        "src": "/contentassets/fca1ff9572094b089a0ed99c8b024c3b/dura-metal-logo.jpg",
+        "alt": "dura-metal-logo.jpg"
+      },
+      {
+        "src": "/globalassets/images/logos/gle-logo-v2.png",
+        "alt": "GLE logo V2"
+      },
+      {
+        "src": "/Static/img/hyperionfooterlogo.svg",
+        "class": "logo",
+        "alt": "Hyperion Materials & Technologies"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-117/1219409541cbf649.txt"
+  },
+  {
+    "id": "15f3c66c8412ca77",
+    "name": "Ipill, Inc.",
+    "requested_url": "https://ipill.tech/",
+    "status": 202,
+    "final_url": "https://ipill.tech/",
+    "text_chars": 65,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-117/15f3c66c8412ca77.txt"
+  },
+  {
+    "id": "74dd3c1326096f13",
+    "name": "Lonza Group AG",
+    "requested_url": "https://www.lonza.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "2c509afb6bbb8504",
+    "name": "Mackinac Technology Company",
+    "requested_url": "https://www.mackinactechnology.com/",
+    "status": 200,
+    "final_url": "https://www.mackinactechnology.com/",
+    "text_chars": 97,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-117/2c509afb6bbb8504.txt"
+  },
+  {
+    "id": "1e309e77faa6f5cf",
+    "name": "National Cable & Telecommunications Association",
+    "requested_url": "https://www.ncta.com/about/about-us",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "f9d08b8f778af15b",
+    "name": "New Jersey Community Capital",
+    "requested_url": "https://www.newjerseycommunitycapital.org/",
+    "status": 200,
+    "final_url": "https://www.newjerseycommunitycapital.org/",
+    "text_chars": 4027,
+    "logo_candidates": [
+      {
+        "class": "logo",
+        "src": "https://www.newjerseycommunitycapital.org/wp-content/uploads/2020/11/AERIS_Rated_4_stars_A_policy_plus-1.png"
+      },
+      {
+        "class": "logo",
+        "src": "https://www.newjerseycommunitycapital.org/wp-content/uploads/2020/04/cdfi-logo.png"
+      },
+      {
+        "class": "logo",
+        "src": "https://www.newjerseycommunitycapital.org/wp-content/uploads/2020/04/neighborworks-logo.png"
+      },
+      {
+        "class": "logo",
+        "src": "https://www.newjerseycommunitycapital.org/wp-content/uploads/2020/09/housing-partnership.png"
+      },
+      {
+        "class": "logo",
+        "src": "https://www.newjerseycommunitycapital.org/wp-content/uploads/2020/09/opportunity-finance.png"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-117/f9d08b8f778af15b.txt"
+  },
+  {
+    "id": "3ccbb57c6608df71",
+    "name": "New Light Healthcare",
+    "requested_url": "https://newlighthealthcare.com/",
+    "status": 200,
+    "final_url": "https://newlighthealthcare.com/",
+    "text_chars": 2312,
+    "logo_candidates": [
+      {
+        "src": "https://newlighthealthcare.com/wp-content/uploads/2022/07/newlighthealthcare-logo-white.png",
+        "width": "689",
+        "height": "157",
+        "alt": "NewLight Healthcare",
+        "id": "logo",
+        "data-height-percentage": "65"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "689",
+        "height": "157",
+        "src": "https://newlighthealthcare.com/wp-content/uploads/2022/06/newlighthealthcare-logo-white.png",
+        "alt": "",
+        "title": "",
+        "srcset": "https://newlighthealthcare.com/wp-content/uploads/2022/06/newlighthealthcare-logo-white.png 689w, https://newlighthealthcare.com/wp-content/uploads/2022/06/newlighthealthcare-logo-white-480x109.png 480w",
+        "sizes": "(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 689px, 100vw",
+        "class": "wp-image-69"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-117/3ccbb57c6608df71.txt"
+  },
+  {
+    "id": "2b3e3dc863bc89e8",
+    "name": "One Call",
+    "requested_url": "https://onecallcm.com/about",
+    "status": 200,
+    "final_url": "https://onecallcm.com/about",
+    "text_chars": 153,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-117/2b3e3dc863bc89e8.txt"
+  },
+  {
+    "id": "bf4175fa74e61675",
+    "name": "Pancyprian Association of America",
+    "requested_url": "https://pancyprian.org/",
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  {
+    "id": "41e60ebfa71b1e97",
+    "name": "Liberty Utilities (represented by Public Strategies Washington)",
+    "requested_url": "https://libertyutilities.com/",
+    "status": 200,
+    "final_url": "https://libertyutilities.com/",
+    "text_chars": 1800,
+    "logo_candidates": [
+      {
+        "class": "navbar-brand",
+        "src": "/img/liberty_logo_color.svg",
+        "alt": "Liberty Utilities Logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-117/41e60ebfa71b1e97.txt"
+  },
+  {
+    "id": "9c12783f11ed8965",
+    "name": "RED Bull North America, Inc.",
+    "requested_url": "https://www.redbull.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "c09ddbed66985de2",
+    "name": "Healthcare Realty (via American Capitol Group)",
+    "requested_url": "https://www.healthcarerealty.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "6ca0895f14a88ca0",
+    "name": "Boundary Stone Partners ON Behalf Of Cauldron Molecules",
+    "requested_url": "https://www.cauldronferm.com/",
+    "status": 200,
+    "final_url": "https://www.cauldronferm.com/",
+    "text_chars": 9673,
+    "logo_candidates": [
+      {
+        "src": "https://cdn.prod.website-files.com/65d7cb76211455d3c5a6f723/65e12442d1c6b157cc56101c_Cauldron-logo.webp",
+        "loading": "lazy",
+        "width": "160",
+        "alt": "",
+        "class": "navbar1_logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/65d7cb76211455d3c5a6f723/65e261e17aaf5c2c6287cfa7_logo-03.webp",
+        "loading": "lazy",
+        "width": "157",
+        "alt": "",
+        "class": "investor-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/65d7cb76211455d3c5a6f723/65e261e1888b5c95a19f459f_logo-04.webp",
+        "loading": "lazy",
+        "width": "99.5",
+        "alt": "",
+        "class": "investor-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/65d7cb76211455d3c5a6f723/669503f19161efcef93cd60a_iqt.png",
+        "loading": "lazy",
+        "width": "120",
+        "alt": "",
+        "class": "investor-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/65d7cb76211455d3c5a6f723/65e261e117f32e7b28254999_logo-02.webp",
+        "loading": "lazy",
+        "width": "108",
+        "alt": "",
+        "class": "investor-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/65d7cb76211455d3c5a6f723/65e261e17aaf5c2c6287cfa7_logo-03.webp",
+        "loading": "lazy",
+        "width": "157",
+        "alt": "",
+        "class": "investor-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/65d7cb76211455d3c5a6f723/65e261e1888b5c95a19f459f_logo-04.webp",
+        "loading": "lazy",
+        "width": "99.5",
+        "alt": "",
+        "class": "investor-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/65d7cb76211455d3c5a6f723/65e26a57cb3cd3dd9bcfeaef_footer-Cauldron%20logo.webp",
+        "loading": "lazy",
+        "width": "56",
+        "alt": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-117/6ca0895f14a88ca0.txt"
+  },
+  {
+    "id": "0e0ba9d7320d23d9",
+    "name": "City of Henderson, Nevada",
+    "requested_url": "https://www.cityofhenderson.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "703bf5249bd9ce46",
+    "name": "City of Manteca, California",
+    "requested_url": "https://www.manteca.gov",
+    "status": 200,
+    "final_url": "https://www.manteca.gov",
+    "text_chars": 3223,
+    "logo_candidates": [
+      {
+        "src": "/ImageRepository/Document?documentId=3095",
+        "class": "fr-dib",
+        "alt": "Header HomePage Logo1",
+        "style": "width: 308px;"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-117/703bf5249bd9ce46.txt"
+  },
+  {
+    "id": "c77bc2f01bff044d",
+    "name": "HRP Group, LLC",
+    "requested_url": "https://hrpgroup.com/home",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "fe2933f67f3c26c6",
+    "name": "Mayo Clinic",
+    "requested_url": "https://www.mayoclinic.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "3bb21115646f8d07",
+    "name": "McKesson Corporation and affiliates: US Oncology and Rx Savings Solutions (former Distribution)",
+    "requested_url": "https://www.mckesson.com/",
+    "status": 200,
+    "final_url": "https://www.mckesson.com/",
+    "text_chars": 7785,
+    "logo_candidates": [
+      {
+        "src": "/siteassets/images/z-mckesson-logosicons/mck_logo_blue.svg",
+        "alt": "McKesson logo"
+      },
+      {
+        "src": "/siteassets/pages/about-us/newsroom/press-releases/press-release-general-images/earnings.png",
+        "alt": "An icon of the MC in the McKesson logo",
+        "loading": "lazy",
+        "width": "450"
+      },
+      {
+        "src": "/siteassets/images/z-mckesson-logosicons/mck_logo_blue.svg",
+        "alt": "McKesson logo blue"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-117/3bb21115646f8d07.txt"
+  },
+  {
+    "id": "9f9bc3e9f904544d",
+    "name": "Milhouse Engineering and Construction, Inc, on Behalf of Cook County DOT",
+    "requested_url": "https://milhouseinc.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+  },
+  {
+    "id": "16b2b6e40128ae67",
+    "name": "Orano USA LLC",
+    "requested_url": "https://www.orano.group/usa/en",
+    "status": 200,
+    "final_url": "https://www.orano.group/usa/en",
+    "text_chars": 5534,
+    "logo_candidates": [
+      {
+        "src": "https://cdn.orano.group/orano/images/default-source/default-album/system/orano-logo-black45ba6dfee0744a7192abfcba9b8bf3cc_406e977b-4b29-435e-952c-a3a22f5d7a85.png?sfvrsn=68f19995_2",
+        "title": "Orano",
+        "alt": "Orano"
+      },
+      {
+        "src": "https://cdn.orano.group/orano/images/default-source/default-album/system/orano-logo-white2b20d9662075495e9a2386e842e3f78b_07459a83-8503-489f-a805-588f84ad43e6.png?sfvrsn=1e15e4c5_2",
+        "title": "Orano",
+        "alt": "Orano"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-117/16b2b6e40128ae67.txt"
+  },
+  {
+    "id": "ac3afbd2a2ebfcf0",
+    "name": "Puyallup Tribe of Washington",
+    "requested_url": "https://www.puyalluptribe-nsn.gov/",
+    "status": 200,
+    "final_url": "https://www.puyalluptribe-nsn.gov/",
+    "text_chars": 6405,
+    "logo_candidates": [
+      {
+        "src": "https://www.puyalluptribe-nsn.gov/wp-content/themes/puyallup-tribe/img/logo.png",
+        "srcset": "https://www.puyalluptribe-nsn.gov/wp-content/themes/puyallup-tribe/img/logo.png, https://www.puyalluptribe-nsn.gov/wp-content/themes/puyallup-tribe/img/logo@2x.png 2x",
+        "alt": "Puyallup Tribe",
+        "width": "254px",
+        "height": "64px"
+      },
+      {
+        "src": "https://www.puyalluptribe-nsn.gov/wp-content/themes/puyallup-tribe/img/logo.png",
+        "srcset": "https://www.puyalluptribe-nsn.gov/wp-content/themes/puyallup-tribe/img/logo.png, https://www.puyalluptribe-nsn.gov/wp-content/themes/puyallup-tribe/img/logo@2x.png 2x",
+        "alt": "Puyallup Tribe",
+        "width": "254px",
+        "height": "64px"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://www.puyalluptribe-nsn.gov/wp-content/uploads/logo-web-370x240.png",
+        "alt": "We want your feedback!",
+        "width": "370px",
+        "height": "240px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-117/ac3afbd2a2ebfcf0.txt"
+  },
+  {
+    "id": "78d24664f9114cda",
+    "name": "the Institute for College Access and Success",
+    "requested_url": "https://ticas.org/",
+    "status": 202,
+    "final_url": "https://ticas.org/",
+    "text_chars": 97,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-117/78d24664f9114cda.txt"
+  },
+  {
+    "id": "abc2dfc53d41267b",
+    "name": "Western Exploration",
+    "requested_url": "https://westernexploration.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "8b8f5148d373c985",
+    "name": "ZeroEyes Government Solution",
+    "requested_url": "https://zeroeyes.com/",
+    "status": 200,
+    "final_url": "https://zeroeyes.com/",
+    "text_chars": 7652,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-117/8b8f5148d373c985.txt"
+  },
+  {
+    "id": "d4ac81a71e63485c",
+    "name": "Association of the United States Army",
+    "requested_url": "https://www.ausa.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "d492951fb66165b2",
+    "name": "Atlas Crossing \u2014 on behalf of National Association of Convenience Stores",
+    "requested_url": "https://www.atlascrossing.com/",
+    "status": 200,
+    "final_url": "https://www.atlascrossing.com/",
+    "text_chars": 19835,
+    "logo_candidates": [
+      {
+        "id": "image-86-160",
+        "alt": "",
+        "src": "https://www.atlascrossing.com/wp-content/uploads/2023/07/Atlas-Crossing-OldxNew-Logo-BlueBlue-300x136.png",
+        "class": "ct-image",
+        "srcset": "",
+        "sizes": "(max-width: 300px) 100vw, 300px"
+      },
+      {
+        "id": "image-68-160",
+        "alt": "",
+        "src": "https://www.atlascrossing.com/wp-content/uploads/2021/05/logo_white_background.png",
+        "class": "ct-image"
+      },
+      {
+        "id": "image-181-175-1",
+        "alt": "",
+        "src": "https://www.atlascrossing.com/wp-content/uploads/2021/05/VirginHyperloop.png",
+        "class": "ct-image client__logo",
+        "data-id": "image-181-175"
+      },
+      {
+        "id": "image-181-175-2",
+        "alt": "",
+        "src": "https://www.atlascrossing.com/wp-content/uploads/2021/05/USTravel_CMYK_logo_marked.png",
+        "class": "ct-image client__logo",
+        "data-id": "image-181-175"
+      },
+      {
+        "id": "image-181-175-3",
+        "alt": "",
+        "src": "https://www.atlascrossing.com/wp-content/uploads/2021/05/SouthernAirways.png",
+        "class": "ct-image client__logo",
+        "data-id": "image-181-175"
+      },
+      {
+        "id": "image-181-175-4",
+        "alt": "",
+        "src": "https://www.atlascrossing.com/wp-content/uploads/2021/05/SHIP.jpg",
+        "class": "ct-image client__logo",
+        "data-id": "image-181-175"
+      },
+      {
+        "id": "image-181-175-5",
+        "alt": "",
+        "src": "https://www.atlascrossing.com/wp-content/uploads/2021/05/Roswell.jpg",
+        "class": "ct-image client__logo",
+        "data-id": "image-181-175"
+      },
+      {
+        "id": "image-181-175-6",
+        "alt": "",
+        "src": "https://www.atlascrossing.com/wp-content/uploads/2021/05/R2p.jpg",
+        "class": "ct-image client__logo",
+        "data-id": "image-181-175"
+      },
+      {
+        "id": "image-181-175-7",
+        "alt": "",
+        "src": "https://www.atlascrossing.com/wp-content/uploads/2021/05/Idemia.jpg",
+        "class": "ct-image client__logo",
+        "data-id": "image-181-175"
+      },
+      {
+        "id": "image-181-175-8",
+        "alt": "",
+        "src": "https://www.atlascrossing.com/wp-content/uploads/2021/05/CapitalCollection-300x56.jpg",
+        "class": "ct-image client__logo",
+        "data-id": "image-181-175"
+      },
+      {
+        "id": "image-181-175-9",
+        "alt": "",
+        "src": "https://www.atlascrossing.com/wp-content/uploads/2021/05/bakersHealthGroup.png",
+        "class": "ct-image client__logo",
+        "data-id": "image-181-175"
+      },
+      {
+        "id": "image-54-225",
+        "alt": "",
+        "src": "https://www.atlascrossing.com/wp-content/uploads/2023/07/Atlas-Crossing-OldxNew-Logo-BlueBlue-300x136.png",
+        "class": "ct-image",
+        "srcset": "",
+        "sizes": "(max-width: 300px) 100vw, 300px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-117/d492951fb66165b2.txt"
+  },
+  {
+    "id": "87606c83f9c7a062",
+    "name": "BMO Financial Corp",
+    "requested_url": "https://www.bmo.com/main/about-bmo/investor-relations/",
+    "status": 200,
+    "final_url": "https://www.bmo.com/main/about-bmo/investor-relations",
+    "text_chars": 9365,
+    "logo_candidates": [
+      {
+        "src": "/resources/images/logos/roundel/roundel-en.png",
+        "data-src-retina": "/resources/images/logos/roundel/roundel-en-2x.png",
+        "alt": "BMO Bank of Montreal - We're here to help.\u2122"
+      },
+      {
+        "src": "/resources/images/logos/bank-of-montreal/bmo.svg",
+        "data-src-retina": "/resources/images/logos/bank-of-montreal/bmo.svg",
+        "alt": "BMO Bank of Montreal - We're here to help.\u2122"
+      },
+      {
+        "src": "/resources/images/logos/bank-of-montreal/bank-of-montreal-en-rev.png",
+        "data-src-retina": "/resources/images/logos/bank-of-montreal/bank-of-montreal-en-rev-2x.png",
+        "alt": "BMO Bank of Montreal - We're here to help.\u2122"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-117/87606c83f9c7a062.txt"
+  },
+  {
+    "id": "0290fb26f3a5e398",
+    "name": "City of Keller, Texas",
+    "requested_url": "https://www.cityofkeller.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "59c000eea998d441",
+    "name": "City of Madisonville, Texas",
+    "requested_url": "https://madisonvilletexas.gov/",
+    "status": 200,
+    "final_url": "https://madisonvilletexas.gov/",
+    "text_chars": 1749,
+    "logo_candidates": [
+      {
+        "src": "/api/blob/viewBlob?i=qUehQBf97PW4VbxQtss3Rew4oYwqlwq0oYUeuxS6JFc5HHfbY0qHYjsJPzIyfTUA&s=large",
+        "alt": "logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-117/59c000eea998d441.txt"
+  },
+  {
+    "id": "f36f0efcfc188c8a",
+    "name": "City of Marion, Iowa",
+    "requested_url": "https://www.cityofmarion.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "eb6344f7989da285",
+    "name": "Cliq, Inc. (formerly CardFlex)",
+    "requested_url": "https://cliqcard.com/",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "id": "7d7a5776bdf0e3d6",
+    "name": "American Institute for Foreign Study (via Dotchin & Associates)",
+    "requested_url": "https://www.aifs.com/",
+    "status": 200,
+    "final_url": "https://www.aifs.com/",
+    "text_chars": 4905,
+    "logo_candidates": [
+      {
+        "src": "/img/aifs-60th-logo.png",
+        "alt": "Celebrating 60 Years of AIFS.",
+        "class": "img-circle text-center badge__img"
+      },
+      {
+        "src": "/img/AIFS-logo.png",
+        "alt": "AIFS",
+        "width": "125",
+        "height": "138"
+      },
+      {
+        "style": "text-align:center",
+        "class": "img-responsive",
+        "src": "/img/logos/NAFSA-GlobalAdvocate-Logo.jpg",
+        "width": "116",
+        "height": "93",
+        "alt": "NAFSA Global Advocate"
+      },
+      {
+        "style": "text-align:center",
+        "class": "img-responsive",
+        "src": "/img/logos/AIEA-logo.jpg",
+        "width": "152",
+        "height": "93",
+        "alt": "AIEA"
+      },
+      {
+        "style": "text-align:center",
+        "class": "img-responsive",
+        "src": "/img/logos/Alliance-logo-new.png",
+        "width": "150",
+        "height": "75",
+        "alt": "alliance exchange"
+      },
+      {
+        "style": "text-align:center",
+        "class": "img-responsive",
+        "src": "/img/logos/aca-logo.png",
+        "width": "140",
+        "height": "71",
+        "alt": "American Camp Association"
+      },
+      {
+        "style": "text-align:center",
+        "class": "img-responsive",
+        "src": "/img/logos/IAPA-FULL-large.png?vs=02",
+        "width": "235",
+        "alt": "International Au Pair Association"
+      },
+      {
+        "style": "text-align:center",
+        "class": "img-responsive",
+        "src": "/img/logos/Forum-Member-Logo.jpg",
+        "width": "142",
+        "height": "79",
+        "alt": "The Forum on Education Abroad"
+      },
+      {
+        "style": "text-align:center",
+        "class": "img-responsive",
+        "src": "/img/logos/da-global-logo.png",
+        "width": "150",
+        "alt": "DA Global Access Network"
+      },
+      {
+        "style": "text-align:center",
+        "class": "img-responsive",
+        "src": "/img/logos/csiet_logo1213.png",
+        "width": "75",
+        "height": "50",
+        "alt": "CSIET"
+      },
+      {
+        "style": "text-align:center",
+        "class": "img-responsive",
+        "src": "/img/logos/flex_logo.jpg",
+        "width": "158",
+        "height": "100",
+        "alt": ""
+      },
+      {
+        "style": "text-align:center",
+        "class": "img-responsive",
+        "src": "/img/logos/yes_logo.jpg",
+        "width": "111",
+        "height": "100",
+        "alt": "Youth Exchange and Study"
+      },
+      {
+        "class": "img-responsive",
+        "src": "/img/logos/US-UK-Fulbright-Logo.jpg",
+        "width": "200",
+        "height": "51",
+        "alt": "US UK Fulbright Commission"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-117/7d7a5776bdf0e3d6.txt"
+  },
+  {
+    "id": "0db3ae3f05777671",
+    "name": "Early Care and Education Consortium",
+    "requested_url": "https://www.ececonsortium.org/",
+    "status": 202,
+    "final_url": "https://www.ececonsortium.org/",
+    "text_chars": 100,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-117/0db3ae3f05777671.txt"
+  },
+  {
+    "id": "1d19b0f76d52434d",
+    "name": "Egan-Jones Ratings Company",
+    "requested_url": "https://www.egan-jones.com/",
+    "status": 200,
+    "final_url": "https://www.egan-jones.com/",
+    "text_chars": 146,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-117/1d19b0f76d52434d.txt"
+  },
+  {
+    "id": "9266ab1bce8b020b",
+    "name": "Envision Strategy on Behalf of Healthcare Association of NEW York State, Inc.",
+    "requested_url": "https://www.hanys.org/",
+    "status": 200,
+    "final_url": "https://www.hanys.org/",
+    "text_chars": 2959,
+    "logo_candidates": [
+      {
+        "src": "/images/design/2015/print/hanys-logo-with-text.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/design/2009/icons/hanys_logo_56x51.png",
+        "alt": "",
+        "width": "56",
+        "height": "51"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-117/9266ab1bce8b020b.txt"
+  },
+  {
+    "id": "6474bc40198db5f8",
+    "name": "Geminus AI",
+    "requested_url": "https://geminus.ai/",
+    "status": 200,
+    "final_url": "https://www.geminus.ai/",
+    "text_chars": 4103,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-117/6474bc40198db5f8.txt"
+  },
+  {
+    "id": "e930153f00de1508",
+    "name": "Good DAY Farm, LLC",
+    "requested_url": "https://www.gooddayfarm.com/retail",
+    "status": 200,
+    "final_url": "https://www.gooddayfarm.com/retail",
+    "text_chars": 3133,
+    "logo_candidates": [
+      {
+        "elementtiming": "nbf-header-logo-desktop",
+        "src": "//images.squarespace-cdn.com/content/v1/66450b74ca520d6223f9b0d3/e1c8bec4-8451-4bcc-b3ee-d61e6f1f1b63/GDF_Logos_TM_Black_Horiz_Solid.png?format=1500w",
+        "alt": "Good Day Farm",
+        "style": "display:block",
+        "fetchpriority": "high",
+        "loading": "eager",
+        "decoding": "async",
+        "data-loader": "raw"
+      },
+      {
+        "elementtiming": "nbf-header-logo-desktop",
+        "src": "//images.squarespace-cdn.com/content/v1/66450b74ca520d6223f9b0d3/e1c8bec4-8451-4bcc-b3ee-d61e6f1f1b63/GDF_Logos_TM_Black_Horiz_Solid.png?format=1500w",
+        "alt": "Good Day Farm",
+        "style": "display:block",
+        "fetchpriority": "high",
+        "loading": "eager",
+        "decoding": "async",
+        "data-loader": "raw"
+      },
+      {
+        "data-stretch": "false",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/66450b74ca520d6223f9b0d3/62148d16-4f1a-4169-b53c-e84fee56284f/GDF_Logos_TM_White_Horiz_Solid.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/66450b74ca520d6223f9b0d3/62148d16-4f1a-4169-b53c-e84fee56284f/GDF_Logos_TM_White_Horiz_Solid.png",
+        "data-image-dimensions": "7507x1698",
+        "data-image-focal-point": "0.5,0.5",
+        "data-sqsp-image-block-image": null,
+        "alt": "",
+        "data-licensed-asset-preview": "false",
+        "data-load": "false",
+        "elementtiming": "system-image-block",
+        "src": "https://images.squarespace-cdn.com/content/v1/66450b74ca520d6223f9b0d3/62148d16-4f1a-4169-b53c-e84fee56284f/GDF_Logos_TM_White_Horiz_Solid.png",
+        "width": "7507",
+        "height": "1698",
+        "sizes": "auto, (max-width: 640px) 100.00vw, (max-width: 767px) 50.00vw, 16.67vw",
+        "style": "display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);",
+        "srcset": "https://images.squarespace-cdn.com/content/v1/66450b74ca520d6223f9b0d3/62148d16-4f1a-4169-b53c-e84fee56284f/GDF_Logos_TM_White_Horiz_Solid.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/66450b74ca520d6223f9b0d3/62148d16-4f1a-4169-b53c-e84fee56284f/GDF_Logos_TM_White_Horiz_Solid.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/66450b74ca520d6223f9b0d3/62148d16-4f1a-4169-b53c-e84fee56284f/GDF_Logos_TM_White_Horiz_Solid.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/66450b74ca520d6223f9b0d3/62148d16-4f1a-4169-b53c-e84fee56284f/GDF_Logos_TM_White_Horiz_Solid.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/66450b74ca520d6223f9b0d3/62148d16-4f1a-4169-b53c-e84fee56284f/GDF_Logos_TM_White_Horiz_Solid.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/66450b74ca520d6223f9b0d3/62148d16-4f1a-4169-b53c-e84fee56284f/GDF_Logos_TM_White_Horiz_Solid.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/66450b74ca520d6223f9b0d3/62148d16-4f1a-4169-b53c-e84fee56284f/GDF_Logos_TM_White_Horiz_Solid.png?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs",
+        "data-image-component": "1.0.1"
+      },
+      {
+        "data-stretch": "false",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/66450b74ca520d6223f9b0d3/ef19ef8f-5cf1-47a9-8cc9-264b3de7a971/GDF_Logos_TM_White_Horiz_Solid.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/66450b74ca520d6223f9b0d3/ef19ef8f-5cf1-47a9-8cc9-264b3de7a971/GDF_Logos_TM_White_Horiz_Solid.png",
+        "data-image-dimensions": "7507x1698",
+        "data-image-focal-point": "0.5,0.5",
+        "data-sqsp-image-block-image": null,
+        "alt": "",
+        "data-licensed-asset-preview": "false",
+        "data-load": "false",
+        "elementtiming": "system-image-block",
+        "src": "https://images.squarespace-cdn.com/content/v1/66450b74ca520d6223f9b0d3/ef19ef8f-5cf1-47a9-8cc9-264b3de7a971/GDF_Logos_TM_White_Horiz_Solid.png",
+        "width": "7507",
+        "height": "1698",
+        "sizes": "auto, (max-width: 640px) 100.00vw, (max-width: 767px) 50.00vw, 16.67vw",
+        "style": "display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);",
+        "srcset": "https://images.squarespace-cdn.com/content/v1/66450b74ca520d6223f9b0d3/ef19ef8f-5cf1-47a9-8cc9-264b3de7a971/GDF_Logos_TM_White_Horiz_Solid.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/66450b74ca520d6223f9b0d3/ef19ef8f-5cf1-47a9-8cc9-264b3de7a971/GDF_Logos_TM_White_Horiz_Solid.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/66450b74ca520d6223f9b0d3/ef19ef8f-5cf1-47a9-8cc9-264b3de7a971/GDF_Logos_TM_White_Horiz_Solid.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/66450b74ca520d6223f9b0d3/ef19ef8f-5cf1-47a9-8cc9-264b3de7a971/GDF_Logos_TM_White_Horiz_Solid.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/66450b74ca520d6223f9b0d3/ef19ef8f-5cf1-47a9-8cc9-264b3de7a971/GDF_Logos_TM_White_Horiz_Solid.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/66450b74ca520d6223f9b0d3/ef19ef8f-5cf1-47a9-8cc9-264b3de7a971/GDF_Logos_TM_White_Horiz_Solid.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/66450b74ca520d6223f9b0d3/ef19ef8f-5cf1-47a9-8cc9-264b3de7a971/GDF_Logos_TM_White_Horiz_Solid.png?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs",
+        "data-image-component": "1.0.1"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-117/e930153f00de1508.txt"
+  },
+  {
+    "id": "92983ba3bbac6262",
+    "name": "IEM International Inc.",
+    "requested_url": "https://iem.com/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "fe72171570c31dae",
+    "name": "Innovairrs & Co.",
+    "requested_url": "https://innovairrs.com/",
+    "status": 200,
+    "final_url": "https://innovairrs.com/",
+    "text_chars": 1265,
+    "logo_candidates": [
+      {
+        "class": "block-header-logo__image",
+        "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop,q=95/Mqufo1cclGhDCgpw/screenshot-2025-12-02-at-7.33.18a-pm-iKndrXil1ARnflX5.png",
+        "alt": "Innovairrs - We Create Life Changing Start Ups logo",
+        "data-v-4ae1c879": null
+      },
+      {
+        "class": "block-header-logo__image",
+        "src": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=crop,q=95/Mqufo1cclGhDCgpw/screenshot-2025-12-02-at-7.33.18a-pm-iKndrXil1ARnflX5.png",
+        "alt": "Innovairrs - We Create Life Changing Start Ups logo",
+        "data-v-4ae1c879": null
+      },
+      {
+        "alt": "A celebratory launch event with a banner showing the Innovairrs logo.",
+        "src": "https://images.unsplash.com/photo-1594027706420-b09650109c49?auto=format&fit=crop&w=400&h=224",
+        "srcset": "https://images.unsplash.com/photo-1594027706420-b09650109c49?auto=format&fit=crop&w=328&h=184 328w,https://images.unsplash.com/photo-1594027706420-b09650109c49?auto=format&fit=crop&w=656&h=367 656w,https://images.unsplash.com/photo-1594027706420-b09650109c49?auto=format&fit=crop&w=861&h=482 861w,https://images.unsplash.com/photo-1594027706420-b09650109c49?auto=format&fit=crop&w=984&h=551 984w,https://images.unsplash.com/photo-1594027706420-b09650109c49?auto=format&fit=crop&w=400&h=224 400w,https://images.unsplash.com/photo-1594027706420-b09650109c49?auto=format&fit=crop&w=800&h=448 800w",
+        "sizes": "(min-width: 920px) 400px, 328px",
+        "height": "224",
+        "width": "400",
+        "loading": "lazy",
+        "class": "image__image",
+        "data-v-e7628ce9": null
+      },
+      {
+        "alt": "A celebratory launch event with a banner showing the Innovairrs logo.",
+        "src": "https://images.unsplash.com/photo-1594027706420-b09650109c49?auto=format&fit=crop&w=328&h=184",
+        "srcset": "https://images.unsplash.com/photo-1594027706420-b09650109c49?auto=format&fit=crop&w=360&h=202 360w,https://images.unsplash.com/photo-1594027706420-b09650109c49?auto=format&fit=crop&w=720&h=404 720w,https://images.unsplash.com/photo-1594027706420-b09650109c49?auto=format&fit=crop&w=945&h=530 945w,https://images.unsplash.com/photo-1594027706420-b09650109c49?auto=format&fit=crop&w=1080&h=606 1080w,https://images.unsplash.com/photo-1594027706420-b09650109c49?auto=format&fit=crop&w=328&h=184 328w,https://images.unsplash.com/photo-1594027706420-b09650109c49?auto=format&fit=crop&w=656&h=368 656w",
+        "sizes": "(min-width: 920px) 400px, 328px",
+        "height": "184",
+        "width": "328",
+        "loading": "lazy",
+        "class": "image__image",
+        "data-v-e7628ce9": null
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-117/fe72171570c31dae.txt"
+  },
+  {
+    "id": "d84874755b657cc6",
+    "name": "Int'l Assnheat&frost Insulators Allied Workerslabor Management Cooperative Trust",
+    "requested_url": "https://mechanicalinsulatorslmct.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "272f128eca5a2f38",
+    "name": "Phi, Inc.",
+    "requested_url": "https://www.phiairmedical.com/phi-inc/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "8a4a344749ea858e",
+    "name": "Reflection AI",
+    "requested_url": "https://reflection.ai/",
+    "status": 200,
+    "final_url": "https://reflection.ai/",
+    "text_chars": 373,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-117/8a4a344749ea858e.txt"
+  },
+  {
+    "id": "04a7309ad25dc30a",
+    "name": "Safebets",
+    "requested_url": "https://safebets.world/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "2247f4d0df2a2251",
+    "name": "Sharon Regional Hospital",
+    "requested_url": "https://www.sharonregional.org/",
+    "status": 200,
+    "final_url": "https://www.sharonregional.org/",
+    "text_chars": 1751,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-117/2247f4d0df2a2251.txt"
+  },
+  {
+    "id": "85ea46cd071760f1",
+    "name": "Strydent Autonomous Technologies",
+    "requested_url": "https://strydentdefense.com/",
+    "status": 200,
+    "final_url": "https://strydentdefense.com/access",
+    "text_chars": 149,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-117/85ea46cd071760f1.txt"
+  },
+  {
+    "id": "a929df09eedc8ec4",
+    "name": "Uzurv Holdings, Inc.",
+    "requested_url": "https://uzurv.com/",
+    "status": 200,
+    "final_url": "https://uzurv.com/",
+    "text_chars": 6237,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "decoding": "async",
+        "src": "https://uzurv.com/wp-content/uploads/2021/07/UZURV-Logo_RGB-Primary-2x-DIGITAL-e1678222858105.png",
+        "alt": "Uzurv",
+        "width": "1063",
+        "height": "181",
+        "class": "img-responsive"
+      },
+      {
+        "decoding": "async",
+        "class": "wp-image-81543 lazyload",
+        "data-src": "https://uzurv.com/wp-content/uploads/2021/09/GRTC.png",
+        "width": "300",
+        "height": "300",
+        "alt": "GRTC Transit System logo",
+        "data-srcset": "https://uzurv.com/wp-content/uploads/2021/09/GRTC.png 300w, https://uzurv.com/wp-content/uploads/2021/09/GRTC-150x150.png 150w",
+        "data-sizes": "(max-width: 300px) 100vw, 300px",
+        "src": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMSIgaGVpZ2h0PSIxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjwvc3ZnPg==",
+        "style": "--smush-placeholder-width: 300px; --smush-placeholder-aspect-ratio: 300/300;"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-117/a929df09eedc8ec4.txt"
+  }
+]

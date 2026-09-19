@@ -1,0 +1,28 @@
+{
+  "year": 2026,
+  "total_directory_entries": 18036,
+  "displayed_organizations": 17734,
+  "individually_reviewed": 18036,
+  "not_yet_individually_reviewed": 0,
+  "review_outcomes": {
+    "unresolved": 823,
+    "confirmed": 14143,
+    "partial": 3070
+  },
+  "exported_at": "2026-09-19T04:05:58.684363+00:00",
+  "publication": "Current exports are local and await publication. Last recorded deployment: succeeded at 2026-09-19T01:48:15.077831+00:00; live data comparison: not performed.",
+  "complete": false,
+  "profiles_with_research_record": 18036,
+  "identity_confirmed": 14143,
+  "identity_incomplete": 3893,
+  "review_count_definition": "individually_reviewed counts profiles with a saved research record, including partial and unresolved; it does not mean completed or verified.",
+  "verified_websites": 14612,
+  "official_logo_assets": 10939,
+  "websites": 16371,
+  "branding": {
+    "site_icon": 1789,
+    "logo": 10939,
+    "missing": 5308
+  },
+  "resolved_export_scope": "Built local directory, including verified splits and merges; publication status is tracked separately."
+}

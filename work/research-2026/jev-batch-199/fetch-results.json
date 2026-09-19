@@ -1,0 +1,954 @@
+[
+  {
+    "id": "842cfd5d11de9c6d",
+    "name": "Domestic Energy Producers Alliance",
+    "requested_url": "https://depausa.org/",
+    "error": "HTTP Error 406: Not Acceptable"
+  },
+  {
+    "id": "b65a40664f2da46a",
+    "name": "Dominion Energy (formerly Dominion Virginia Power)",
+    "requested_url": "https://www.dominionenergy.com/",
+    "status": 200,
+    "final_url": "https://www.dominionenergy.com/",
+    "text_chars": 4808,
+    "logo_candidates": [
+      {
+        "src": "https://cdn-dominionenergy-prd-001.azureedge.net/-/media/project/dominionenergy/header/header---logo---white.svg?rev=8ed9b3d7491c44b9a10a22e74e98130a&la=en&hash=89760FB4506B70108161FE759C506B74",
+        "class": "logo-img",
+        "alt": "Dominion Energy"
+      },
+      {
+        "src": "https://cdn-dominionenergy-prd-001.azureedge.net/-/media/project/dominionenergy/header/mobile-level2-logo.svg?rev=b6c54cf2090e45379992c1aaf9b170f1&la=en&hash=96D87DBF7BB42355581C2841E2269940",
+        "class": "Logo",
+        "alt": "Dominion Energy"
+      },
+      {
+        "class": "img-fluid image-txt",
+        "src": "https://cdn-dominionenergy-prd-001.azureedge.net/-/media/content/global/icons/custom/de_feature_logo_icon-124x124.png?rev=516cf9fd2ce8428db7e0994ab139fd8e",
+        "alt": "Feature DE logo Icon"
+      },
+      {
+        "src": "https://cdn-dominionenergy-prd-001.azureedge.net/-/media/project/dominionenergy/identity/logo-with-tagline.svg?rev=9d607715ecb94eafad9244c4a40322ad&la=en&h=105&w=216&hash=F5C075E5A989AD123A5EE21531D30F3F",
+        "class": "img-fluid",
+        "alt": "Dominion Energy Logo"
+      },
+      {
+        "src": "https://cdn-dominionenergy-prd-001.azureedge.net/-/media/project/dominionenergy/identity/logo-white.svg?rev=ea74bdc9b29c4435aacd794ea997f13b&la=en&h=78&w=160&hash=085FF6BEE01B6395D713C592371AAFB4",
+        "alt": "Dominion Energy Logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-199/b65a40664f2da46a.txt"
+  },
+  {
+    "id": "528a3c1d377ff142",
+    "name": "Dominion Resources Service, Inc.",
+    "requested_url": "https://www.dominionenergy.com/",
+    "status": 200,
+    "final_url": "https://www.dominionenergy.com/",
+    "text_chars": 4790,
+    "logo_candidates": [
+      {
+        "src": "https://cdn-dominionenergy-prd-001.azureedge.net/-/media/project/dominionenergy/header/header---logo---white.svg?rev=8ed9b3d7491c44b9a10a22e74e98130a&la=en&hash=89760FB4506B70108161FE759C506B74",
+        "class": "logo-img",
+        "alt": "Dominion Energy"
+      },
+      {
+        "src": "https://cdn-dominionenergy-prd-001.azureedge.net/-/media/project/dominionenergy/header/mobile-level2-logo.svg?rev=b6c54cf2090e45379992c1aaf9b170f1&la=en&hash=96D87DBF7BB42355581C2841E2269940",
+        "class": "Logo",
+        "alt": "Dominion Energy"
+      },
+      {
+        "class": "img-fluid image-txt",
+        "src": "https://cdn-dominionenergy-prd-001.azureedge.net/-/media/content/global/icons/custom/de_feature_logo_icon-124x124.png?rev=516cf9fd2ce8428db7e0994ab139fd8e",
+        "alt": "Feature DE logo Icon"
+      },
+      {
+        "src": "https://cdn-dominionenergy-prd-001.azureedge.net/-/media/project/dominionenergy/identity/logo-with-tagline.svg?rev=9d607715ecb94eafad9244c4a40322ad&la=en&h=105&w=216&hash=F5C075E5A989AD123A5EE21531D30F3F",
+        "class": "img-fluid",
+        "alt": "Dominion Energy Logo"
+      },
+      {
+        "src": "https://cdn-dominionenergy-prd-001.azureedge.net/-/media/project/dominionenergy/identity/logo-white.svg?rev=ea74bdc9b29c4435aacd794ea997f13b&la=en&h=78&w=160&hash=085FF6BEE01B6395D713C592371AAFB4",
+        "alt": "Dominion Energy Logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-199/528a3c1d377ff142.txt"
+  },
+  {
+    "id": "d22d28c8c9e30c53",
+    "name": "Donohoe Commercial Real Estate",
+    "requested_url": "https://www.donohoe.com/",
+    "status": 200,
+    "final_url": "https://www.donohoe.com/",
+    "text_chars": 2515,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-199/d22d28c8c9e30c53.txt"
+  },
+  {
+    "id": "25db2dc89f334298",
+    "name": "DYCM Power, LLC",
+    "requested_url": "https://dycmsolarmodules.com/",
+    "status": 200,
+    "final_url": "https://dycmsolarmodules.com/",
+    "text_chars": 1330,
+    "logo_candidates": [
+      {
+        "elementtiming": "nbf-header-logo-desktop",
+        "src": "//images.squarespace-cdn.com/content/v1/6641b360d90ded764d0cd44f/a3c37d5c-9e82-4340-999b-d96f2b9da98f/DYCM+Logo.png?format=1500w",
+        "alt": "DYCM Power",
+        "style": "display:block",
+        "fetchpriority": "high",
+        "loading": "eager",
+        "decoding": "async",
+        "data-loader": "raw"
+      },
+      {
+        "elementtiming": "nbf-header-logo-desktop",
+        "src": "//images.squarespace-cdn.com/content/v1/6641b360d90ded764d0cd44f/a3c37d5c-9e82-4340-999b-d96f2b9da98f/DYCM+Logo.png?format=1500w",
+        "alt": "DYCM Power",
+        "style": "display:block",
+        "fetchpriority": "high",
+        "loading": "eager",
+        "decoding": "async",
+        "data-loader": "raw"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-199/25db2dc89f334298.txt"
+  },
+  {
+    "id": "d5a691a98571555d",
+    "name": "Acesso Biologics (Dynamic Medical Services)",
+    "requested_url": "https://acessobiologics.com/",
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  {
+    "id": "b98e9b81ab7f4ef1",
+    "name": "Dynamo AI (DynamoFL, Inc.)",
+    "requested_url": "https://dynamofl.com/",
+    "status": 200,
+    "final_url": "https://www.dynamo.ai/",
+    "text_chars": 9612,
+    "logo_candidates": [
+      {
+        "src": "https://cdn.prod.website-files.com/67c45918cde2e7c782597cbc/68af483850369f208b387c84_Qualcomm_logo.png",
+        "loading": "lazy",
+        "alt": "",
+        "class": "image-14"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/67c45918cde2e7c782597cbc/686cfd7327bd0ca6f86559d7_67c90eb729f6c586d6f41d37_Lenovo_logo_2015%201.png",
+        "loading": "lazy",
+        "alt": "",
+        "class": "image-14"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/67c45918cde2e7c782597cbc/686cfd8025e1fa9b04199c18_682d25f950d76a25c778a149_Intel_Logo.png",
+        "loading": "lazy",
+        "alt": "",
+        "sizes": "100vw",
+        "srcset": "https://cdn.prod.website-files.com/67c45918cde2e7c782597cbc/686cfd8025e1fa9b04199c18_682d25f950d76a25c778a149_Intel_Logo-p-500.png 500w, https://cdn.prod.website-files.com/67c45918cde2e7c782597cbc/686cfd8025e1fa9b04199c18_682d25f950d76a25c778a149_Intel_Logo-p-800.png 800w, https://cdn.prod.website-files.com/67c45918cde2e7c782597cbc/686cfd8025e1fa9b04199c18_682d25f950d76a25c778a149_Intel_Logo.png 966w",
+        "class": "image-14"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/67c45918cde2e7c782597cbc/6972881c95876bb068eb4f89_fhn_Logo.png",
+        "loading": "lazy",
+        "alt": "",
+        "class": "image-14"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/67c45918cde2e7c782597cbc/693ba25cd53f197c5af04125_army_Logo.png",
+        "loading": "lazy",
+        "alt": "",
+        "class": "image-14"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/67c45918cde2e7c782597cbc/686cfdbf4d48f5406673f517_67c90eb778e94c735740598a_Experian_logo%202.png",
+        "loading": "lazy",
+        "alt": "",
+        "class": "image-14"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/67c45918cde2e7c782597cbc/686cfdcdacbe3676a7126984_6848658146c1024e1eb51e08_ItochuLogo.png",
+        "loading": "lazy",
+        "alt": "",
+        "class": "image-14"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/67c45918cde2e7c782597cbc/6972975c712a7a5a7e41ea56_tam_logo.png",
+        "loading": "lazy",
+        "alt": "",
+        "class": "image-14"
+      },
+      {
+        "width": "117",
+        "loading": "lazy",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/67c45918cde2e7c782597cbc/6940a27ad6ce407b44bc525e_experian_Logo.png"
+      },
+      {
+        "width": "117",
+        "loading": "lazy",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/67c45918cde2e7c782597cbc/6940a276a7521c3bf98a06bf_lenovo_Logo.png"
+      },
+      {
+        "width": "117",
+        "loading": "lazy",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/67c45918cde2e7c782597cbc/6940a27026d347f780c2b902_qualcomm_Logo.png"
+      },
+      {
+        "width": "163",
+        "loading": "lazy",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/67c45918cde2e7c782597cbc/6940a267a7521c3bf98a0401_Intel_Logo.png"
+      },
+      {
+        "width": "163",
+        "loading": "lazy",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/67c45918cde2e7c782597cbc/6940a27026d347f780c2b902_qualcomm_Logo.png"
+      },
+      {
+        "width": "163",
+        "loading": "lazy",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/67c45918cde2e7c782597cbc/6940a276a7521c3bf98a06bf_lenovo_Logo.png"
+      },
+      {
+        "width": "163",
+        "loading": "lazy",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/67c45918cde2e7c782597cbc/6940a27ad6ce407b44bc525e_experian_Logo.png"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-199/b98e9b81ab7f4ef1.txt"
+  },
+  {
+    "id": "c8adfd4ec0fa24b1",
+    "name": "Eagle Express Lines",
+    "requested_url": "https://10roadsexpress.com/about/",
+    "status": 200,
+    "final_url": "https://10roadsexpress.com/about/",
+    "text_chars": 5353,
+    "logo_candidates": [
+      {
+        "class": "logo",
+        "aria-label": "Logo",
+        "alt": "Logo",
+        "src": "https://10roadsexpress.com/assets/images/10 roads express logo_white.png"
+      },
+      {
+        "class": "logo",
+        "aria-label": "Logo",
+        "alt": "Logo",
+        "src": "https://10roadsexpress.com/assets/images/10 roads express logo_white.png"
+      },
+      {
+        "class": "footer-logo",
+        "aria-label": "Logo",
+        "alt": "Logo",
+        "src": "https://10roadsexpress.com/assets/images/10 roads express logo_white.png"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-199/c8adfd4ec0fa24b1.txt"
+  },
+  {
+    "id": "97e83f848abab7aa",
+    "name": "Economic Security Project Action",
+    "requested_url": "https://economicsecurity.us/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "70e111421bfeffd8",
+    "name": "Edgemark Development LLC",
+    "requested_url": "https://www.edgemark.com/",
+    "status": 200,
+    "final_url": "https://www.edgemark.com/",
+    "text_chars": 5426,
+    "logo_candidates": [
+      {
+        "src": "https://cdn.prod.website-files.com/67e4070232cc8545ce1cad36/67e4070232cc8545ce1cada1_Frame%20327.svg",
+        "loading": "lazy",
+        "width": "49",
+        "alt": "Logo mark image of Edgemark",
+        "class": "nav-logo-2"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/67e4070232cc8545ce1cad36/67e4070232cc8545ce1cadf0_c.svg",
+        "alt": "",
+        "class": "nav-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/67e4070232cc8545ce1cad36/67e4070232cc8545ce1cae07_Mask%20group%20(9).webp",
+        "loading": "lazy",
+        "width": "85",
+        "alt": "W&D logomark",
+        "class": "image-80"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/67e4070232cc8545ce1cad36/67e4070232cc8545ce1cadc5_Mask%20group%20(10).webp",
+        "loading": "lazy",
+        "width": "64",
+        "alt": "Save Water Co. logomark"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/67e4070232cc8545ce1cad36/67e4070232cc8545ce1cad62_Seldin-Company_Logo_Full-Reverse-Out%201%20(1).svg",
+        "loading": "lazy",
+        "width": "114",
+        "alt": ""
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/67e4070232cc8545ce1cad36/67fe4631599e26d9b7af8065_footer.avif",
+        "alt": "Edgemark Logo",
+        "sizes": "(max-width: 5888px) 100vw, 5888px",
+        "srcset": "https://cdn.prod.website-files.com/67e4070232cc8545ce1cad36/67fe4631599e26d9b7af8065_footer-p-500.avif 500w, https://cdn.prod.website-files.com/67e4070232cc8545ce1cad36/67fe4631599e26d9b7af8065_footer-p-800.avif 800w, https://cdn.prod.website-files.com/67e4070232cc8545ce1cad36/67fe4631599e26d9b7af8065_footer-p-1080.avif 1080w, https://cdn.prod.website-files.com/67e4070232cc8545ce1cad36/67fe4631599e26d9b7af8065_footer.avif 5888w",
+        "class": "image-67"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-199/70e111421bfeffd8.txt"
+  },
+  {
+    "id": "300594d3fcce1102",
+    "name": "Eight Eleven Group, LLC",
+    "requested_url": "https://811group.com/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "5b15f8398b93af84",
+    "name": "Electricity Customer Alliance",
+    "requested_url": "https://www.electricitycustomers.org/",
+    "status": 200,
+    "final_url": "https://www.electricitycustomers.org/",
+    "text_chars": 2173,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-199/5b15f8398b93af84.txt"
+  },
+  {
+    "id": "45459e6c929c595d",
+    "name": "Element Fuels Holdings LLC",
+    "requested_url": "https://elementfuels.com/",
+    "status": 200,
+    "final_url": "https://afxenergy.com/",
+    "text_chars": 122,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "decoding": "async",
+        "src": "https://afxenergy.com/wp-content/uploads/2026/07/AFX_logo.jpg",
+        "title": "AFX_logo",
+        "width": "640",
+        "height": "320",
+        "srcset": "https://afxenergy.com/wp-content/uploads/2026/07/AFX_logo.jpg 640w, https://afxenergy.com/wp-content/uploads/2026/07/AFX_logo-480x240.jpg 480w",
+        "sizes": "(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 640px, 100vw",
+        "class": "wp-image-15"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-199/45459e6c929c595d.txt"
+  },
+  {
+    "id": "3a3a28e3d4010d42",
+    "name": "Eli Lilly and Company (filed as formerly Lilly USA, LLC)",
+    "requested_url": "https://www.lilly.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "9794bc3dfbb28717",
+    "name": "Eliant Trade Finance, LP",
+    "requested_url": "https://www.elianttrade.com/",
+    "status": 200,
+    "final_url": "https://www.elianttrade.com/",
+    "text_chars": 2528,
+    "logo_candidates": [
+      {
+        "src": "/content/dam/microsites/elianttrade/images/eliant-logo.svg?iar=0",
+        "alt": "Eliant Supply Chain Solutions"
+      },
+      {
+        "src": "/content/dam/microsites/elianttrade/images/eliant-logo.svg?iar=0",
+        "alt": "Eliant Supply Chain Solutions"
+      },
+      {
+        "alt": "",
+        "src": "/content/dam/microsites/elianttrade/images/eliant-logo-white.svg",
+        "style": "height: px; width: px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-199/9794bc3dfbb28717.txt"
+  },
+  {
+    "id": "d5ade7eae9e2e3e3",
+    "name": "ELLWOOD Quality Steels",
+    "requested_url": "https://www.ellwoodgroup.com/",
+    "status": 200,
+    "final_url": "https://www.ellwoodgroup.com/",
+    "text_chars": 4329,
+    "logo_candidates": [
+      {
+        "class": "",
+        "src": "/files/user/logo%2esvg",
+        "alt": "Ellwood Group"
+      },
+      {
+        "class": "",
+        "src": "/files/user/logo%2dsign%2dwhite%2esvg",
+        "alt": "Ellwood Group"
+      },
+      {
+        "class": "",
+        "src": "/files/user/logo%2dtype%2esvg",
+        "alt": "Ellwood Group"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-199/d5ade7eae9e2e3e3.txt"
+  },
+  {
+    "id": "a3964ffce483179e",
+    "name": "Ember Education",
+    "requested_url": "https://embereducation.com/",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "id": "52493c145d4bb7ff",
+    "name": "EMP Shield",
+    "requested_url": "https://www.empshield.com/",
+    "status": 202,
+    "final_url": "https://www.empshield.com/",
+    "text_chars": 71,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-199/52493c145d4bb7ff.txt"
+  },
+  {
+    "id": "2a27ff38024b20b3",
+    "name": "Empirical Foods (fka Beef Products Inc.)",
+    "requested_url": "https://empiricalfoods.com/",
+    "status": 200,
+    "final_url": "https://empiricalfoods.com/",
+    "text_chars": 4409,
+    "logo_candidates": [
+      {
+        "decoding": "async",
+        "src": "/wp-content/uploads/DosRios-logo.png",
+        "alt": "DosRios"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-199/2a27ff38024b20b3.txt"
+  },
+  {
+    "id": "945009b86d9d4cf9",
+    "name": "Empower Retirement LLC (filed as formerly Great-West Life & Annuity)",
+    "requested_url": "https://www.empower.com/",
+    "status": 200,
+    "final_url": "https://www.empower.com/",
+    "text_chars": 10288,
+    "logo_candidates": [
+      {
+        "alt": "Empower homepage",
+        "class": "stacked-logo relative md:absolute top-1/2 left-0 h-9 md:h-[54px] -translate-y-1/2",
+        "src": "/themes/custom/empulsify/assets/images/nav-logos/WhiteLogoStacked.svg"
+      },
+      {
+        "alt": "Empower homepage",
+        "class": "short-logo hidden md:block absolute top-1/2 left-0 h-9 md:h-[54px] translate-y-full",
+        "src": "/themes/custom/empulsify/assets/images/nav-logos/WhiteLogo.svg"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-199/945009b86d9d4cf9.txt"
+  },
+  {
+    "id": "09111778693f8980",
+    "name": "Energy Fuels Resources Inc.",
+    "requested_url": "https://www.energyfuels.com/",
+    "status": 200,
+    "final_url": "https://www.energyfuels.com/",
+    "text_chars": 7795,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "width": "500",
+        "height": "142",
+        "src": "https://www.energyfuels.com/wp-content/uploads/2025/01/EnergyFuels-Logo.png",
+        "class": "attachment-full size-full wp-image-1444",
+        "alt": "",
+        "srcset": "https://www.energyfuels.com/wp-content/uploads/2025/01/EnergyFuels-Logo.png 500w, https://www.energyfuels.com/wp-content/uploads/2025/01/EnergyFuels-Logo-300x85.png 300w",
+        "sizes": "(max-width: 500px) 100vw, 500px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-199/09111778693f8980.txt"
+  },
+  {
+    "id": "53898ced07e3abe8",
+    "name": "Environment America Inc",
+    "requested_url": "https://environmentamerica.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "aa8ced73e5f3a07e",
+    "name": "Envision Healthcare (americans for Fair Health Care)",
+    "requested_url": "https://www.envisionhealth.com/",
+    "status": 200,
+    "final_url": "https://www.envisionhealth.com/",
+    "text_chars": 5789,
+    "logo_candidates": [
+      {
+        "src": "/Content/Envision/Images/EnvisionLogo.svg",
+        "alt": "Envision Logo"
+      },
+      {
+        "class": "img-fluid mb-4 footer-logo fr-fic fr-dii",
+        "src": "/Content/Envision/Images/EnvisionLogo.svg",
+        "alt": "Envision Healthcare logo",
+        "style": "max-width: 220px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-199/aa8ced73e5f3a07e.txt"
+  },
+  {
+    "id": "1308a1f159c86769",
+    "name": "Envision Healthcare (filed as formerly EmCare Inc.)",
+    "requested_url": "https://www.envisionhealth.com/",
+    "status": 200,
+    "final_url": "https://www.envisionhealth.com/",
+    "text_chars": 5788,
+    "logo_candidates": [
+      {
+        "src": "/Content/Envision/Images/EnvisionLogo.svg",
+        "alt": "Envision Logo"
+      },
+      {
+        "class": "img-fluid mb-4 footer-logo fr-fic fr-dii",
+        "src": "/Content/Envision/Images/EnvisionLogo.svg",
+        "alt": "Envision Healthcare logo",
+        "style": "max-width: 220px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-199/1308a1f159c86769.txt"
+  },
+  {
+    "id": "5ed675a3cd158e16",
+    "name": "Envision Strategy on Behalf of Vineyard Offshore",
+    "requested_url": "https://www.vineyardoffshore.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "c1b5c2b99b23d280",
+    "name": "Enviva LLC (filed as formerly Enviva LP)",
+    "requested_url": "https://www.envivabiomass.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "64c916677ef65dff",
+    "name": "EssilorLuxottica (filed as formerly Essilor of America)",
+    "requested_url": "https://www.essilorluxottica.com/",
+    "status": 200,
+    "final_url": "https://www.essilorluxottica.com/en/",
+    "text_chars": 130,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-199/64c916677ef65dff.txt"
+  },
+  {
+    "id": "857ecf79c1fa4b52",
+    "name": "Eteros Technology USA",
+    "requested_url": "https://www.eterostech.com/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)>"
+  },
+  {
+    "id": "57fdbee99f3c560d",
+    "name": "Evermore",
+    "requested_url": "https://evermoreoutcomes.com/",
+    "status": 202,
+    "final_url": "https://evermoreoutcomes.com/",
+    "text_chars": 72,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-199/57fdbee99f3c560d.txt"
+  },
+  {
+    "id": "78ac8ba9c28aefb8",
+    "name": "Evolution Metals & Technology Corp.",
+    "requested_url": "https://evolution-metals.com/",
+    "status": 200,
+    "final_url": "https://evolution-metals.com/",
+    "text_chars": 2880,
+    "logo_candidates": [
+      {
+        "alt": "Logo",
+        "loading": "eager",
+        "width": "351",
+        "height": "64",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "w-[156px] 2xl:w-[200px] h-7 2xl:h-9",
+        "style": "color:transparent",
+        "srcset": "/_next/image?url=https%3A%2F%2Fllmasczqhiupujsrskuu.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Femt-staging%2Flogo.webp&w=384&q=75 1x, /_next/image?url=https%3A%2F%2Fllmasczqhiupujsrskuu.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Femt-staging%2Flogo.webp&w=750&q=75 2x",
+        "src": "/_next/image?url=https%3A%2F%2Fllmasczqhiupujsrskuu.supabase.co%2Fstorage%2Fv1%2Fobject%2Fpublic%2Femt-staging%2Flogo.webp&w=750&q=75"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-199/78ac8ba9c28aefb8.txt"
+  },
+  {
+    "id": "de48d7128c024da1",
+    "name": "ExOne",
+    "requested_url": "https://www.exone.com/en/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "0caf998ed8f58690",
+    "name": "Express Employment Professionals (formerly Express Personnel Services)",
+    "requested_url": "https://www.expresspros.com/who-we-are",
+    "status": 200,
+    "final_url": "https://www.expresspros.com/who-we-are",
+    "text_chars": 4698,
+    "logo_candidates": [
+      {
+        "src": "/Image Library/content-images/logo.svg",
+        "alt": "EEP US Corporate"
+      },
+      {
+        "class": "logoFooter h-pushLgBottom",
+        "src": "/Image Library/content-images/logo-footer.svg",
+        "alt": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-199/0caf998ed8f58690.txt"
+  },
+  {
+    "id": "b51dcffc347821cf",
+    "name": "EZ-RX Pharmacy",
+    "requested_url": "https://ezrxpharma.com/",
+    "status": 200,
+    "final_url": "https://ezrxpharma.com/",
+    "text_chars": 6353,
+    "logo_candidates": [
+      {
+        "style": "width:250px;height:auto;",
+        "src": "https://assets.cdn.filesafe.space/EiQn9wt3bOVOZAiCvsai/media/676edc8d35007e198c77dc8b.png",
+        "alt": "Brand Logo",
+        "class": "noBorder radius0 none",
+        "data-animation-class": null,
+        "loading": "lazy"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-199/b51dcffc347821cf.txt"
+  },
+  {
+    "id": "03b6a677fdbcfe30",
+    "name": "Federal Hearings & Appeals Services, Inc.",
+    "requested_url": "https://www.fhas.com/",
+    "status": 200,
+    "final_url": "https://www.fhas.com/",
+    "text_chars": 6994,
+    "logo_candidates": [
+      {
+        "class": "stnd skip-lazy default-logo dark-version",
+        "width": "93",
+        "height": "36",
+        "alt": "FHAS",
+        "src": "https://www.fhas.com/wp-content/uploads/2026/09/logo-1x-2025.webp",
+        "srcset": "https://www.fhas.com/wp-content/uploads/2026/09/logo-1x-2025.webp 1x, https://www.fhas.com/wp-content/uploads/2026/09/logo-2x-2025.webp 2x"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-199/03b6a677fdbcfe30.txt"
+  },
+  {
+    "id": "b7c0973c393dab9a",
+    "name": "Federal Injury Centers",
+    "requested_url": "https://www.federalinjurycenters.com/",
+    "status": 202,
+    "final_url": "https://www.federalinjurycenters.com/",
+    "text_chars": 94,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-199/b7c0973c393dab9a.txt"
+  },
+  {
+    "id": "421c49acd35b3afb",
+    "name": "Federation of State Medical Boards",
+    "requested_url": "https://www.fsmb.org/about-fsmb/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "ad370d92ce186d9e",
+    "name": "Federation of State Medical Boards (FSMB)",
+    "requested_url": "https://www.fsmb.org/about-fsmb/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "0e01b844089f69fa",
+    "name": "Femwell Group Health, Inc.",
+    "requested_url": "https://www.femwell.com",
+    "status": 200,
+    "final_url": "https://www.femwell.com",
+    "text_chars": 5475,
+    "logo_candidates": [
+      {
+        "src": "https://www.femwell.com/wp-content/uploads/2017/10/logo.png",
+        "alt": "Femwell Group Health"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-199/0e01b844089f69fa.txt"
+  },
+  {
+    "id": "c5f2d0da30f238df",
+    "name": "FFRF Action Fund",
+    "requested_url": "https://ffrfaction.org",
+    "status": 202,
+    "final_url": "https://ffrfaction.org",
+    "text_chars": 73,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-199/c5f2d0da30f238df.txt"
+  },
+  {
+    "id": "8ae02270970c2593",
+    "name": "Fidelity National Information Systems Inc and Subsidiaries",
+    "requested_url": "https://www.fisglobal.com/",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "b654323eb16b8991",
+    "name": "Financial Data and Technology Association (FDATA)",
+    "requested_url": "https://www.fdata.global/",
+    "status": 200,
+    "final_url": "https://fdata.global/",
+    "text_chars": 7104,
+    "logo_candidates": [
+      {
+        "src": "/wp-content/uploads/logo.png",
+        "width": "207",
+        "height": "140",
+        "alt": "Financial Data and Technology Association",
+        "id": "logo",
+        "data-height-percentage": "67"
+      },
+      {
+        "decoding": "async",
+        "class": "dp-dfg-featured-image",
+        "src": "https://fdata.global/wp-content/uploads/missouri_secretary_of_state_logo.jpeg",
+        "alt": "FDATA Submits Comments on Missouri Investment Adviser Proposal, Urges Clarification to Preserve Secure Consumer-Permissioned Financial Data Access",
+        "width": "200",
+        "height": "200",
+        "data-ratio": "1"
+      },
+      {
+        "decoding": "async",
+        "class": "dp-dfg-featured-image",
+        "src": "https://fdata.global/wp-content/uploads/the-paypers-logo.jpg",
+        "alt": "The Paypers: FDATA calls for agentic fintech governance framework",
+        "width": "450",
+        "height": "300",
+        "data-ratio": "0.66666666666667"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-199/b654323eb16b8991.txt"
+  },
+  {
+    "id": "979eb0764e2587eb",
+    "name": "Firelands Health",
+    "requested_url": "https://www.firelands.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "24693eb53050e176",
+    "name": "FirstEnergy Services Company",
+    "requested_url": "https://www.firstenergycorp.com",
+    "status": 200,
+    "final_url": "https://www.firstenergycorp.com/fehome.html",
+    "text_chars": 5928,
+    "logo_candidates": [
+      {
+        "src": "/content/dam/opcologos/header/small/fe.png",
+        "alt": "FirstEnergy"
+      },
+      {
+        "src": "/content/dam/FECorpHome/images/FirstEnergy-White-Logo.png",
+        "class": "footer-fe-logo",
+        "alt": "FirstEnergy"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-199/24693eb53050e176.txt"
+  },
+  {
+    "id": "8030ada0da4c7af1",
+    "name": "Flash Steelworks, LLC",
+    "requested_url": "https://flashsteelworks.com",
+    "status": 200,
+    "final_url": "https://flashsteelworks.com",
+    "text_chars": 4322,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "width": "2176",
+        "height": "1090",
+        "src": "https://flashsteelworks.com/wp-content/uploads/2024/05/FSW-Color-logo-1.png",
+        "class": "attachment-full size-full wp-image-628",
+        "alt": "",
+        "srcset": "https://flashsteelworks.com/wp-content/uploads/2024/05/FSW-Color-logo-1.png 2176w, https://flashsteelworks.com/wp-content/uploads/2024/05/FSW-Color-logo-1-300x150.png 300w, https://flashsteelworks.com/wp-content/uploads/2024/05/FSW-Color-logo-1-1024x513.png 1024w, https://flashsteelworks.com/wp-content/uploads/2024/05/FSW-Color-logo-1-768x385.png 768w, https://flashsteelworks.com/wp-content/uploads/2024/05/FSW-Color-logo-1-1536x769.png 1536w, https://flashsteelworks.com/wp-content/uploads/2024/05/FSW-Color-logo-1-2048x1026.png 2048w, https://flashsteelworks.com/wp-content/uploads/2024/05/FSW-Color-logo-1-600x301.png 600w",
+        "sizes": "(max-width: 2176px) 100vw, 2176px"
+      },
+      {
+        "width": "800",
+        "height": "401",
+        "src": "https://flashsteelworks.com/wp-content/uploads/2023/06/fsw-logo-white-1024x513.png",
+        "class": "attachment-large size-large wp-image-898",
+        "alt": "",
+        "srcset": "https://flashsteelworks.com/wp-content/uploads/2023/06/fsw-logo-white-1024x513.png 1024w, https://flashsteelworks.com/wp-content/uploads/2023/06/fsw-logo-white-300x150.png 300w, https://flashsteelworks.com/wp-content/uploads/2023/06/fsw-logo-white-768x385.png 768w, https://flashsteelworks.com/wp-content/uploads/2023/06/fsw-logo-white-1536x769.png 1536w, https://flashsteelworks.com/wp-content/uploads/2023/06/fsw-logo-white-2048x1026.png 2048w, https://flashsteelworks.com/wp-content/uploads/2023/06/fsw-logo-white-600x301.png 600w",
+        "sizes": "(max-width: 800px) 100vw, 800px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-199/8030ada0da4c7af1.txt"
+  },
+  {
+    "id": "852a5331c0e6eff7",
+    "name": "Fleet Reserve Association",
+    "requested_url": "https://www.fra.org",
+    "status": 200,
+    "final_url": "https://www.fra.org",
+    "text_chars": 95,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-199/852a5331c0e6eff7.txt"
+  },
+  {
+    "id": "2ec6611d8cc64a4c",
+    "name": "Flight School Association International (formerly FSANA)",
+    "requested_url": "https://www.fsai.org/",
+    "status": 200,
+    "final_url": "https://www.fsai.org/",
+    "text_chars": 4142,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-199/2ec6611d8cc64a4c.txt"
+  },
+  {
+    "id": "f48e781f510fd4b3",
+    "name": "Flora Food Group US, Inc.",
+    "requested_url": "https://www.florafoodgroup.com/",
+    "status": 200,
+    "final_url": "https://www.florafoodgroup.com/",
+    "text_chars": 6365,
+    "logo_candidates": [
+      {
+        "src": "/-/media/Project/Upfield/Corporate/Corporate-New/New-Images-2025/Flora-Food-Horizontal-Coconut-Logo_July2024.png?h=1395&iar=0&w=4322&rev=0ce61d0a06ae434bb65fd2d5c21f0a99",
+        "alt": "",
+        "width": "4322",
+        "height": "1395",
+        "data-variantitemid": "{5D35ECF6-0267-407C-810C-0DD1BE44EFA1}",
+        "data-variantfieldname": "Image"
+      },
+      {
+        "src": "/-/media/Project/Upfield/Corporate/Upfield-Corporate/Flora-Food-Stacked-Fresh-Green-Logo_July2024.png?rev=1302354aa47b40f391b4729750ed8075&w=533",
+        "sizes": "(max-width: 1900px)100vw,(max-width: 1200px) 50vw, (max-width: 992px) 50vw, (max-width: 768px) 50vw, (max-width: 576px) 100vw",
+        "srcset": "/-/media/Project/Upfield/Corporate/Upfield-Corporate/Flora-Food-Stacked-Fresh-Green-Logo_July2024.png?rev=1302354aa47b40f391b4729750ed8075&w=533 533w,/-/media/Project/Upfield/Corporate/Upfield-Corporate/Flora-Food-Stacked-Fresh-Green-Logo_July2024.png?rev=1302354aa47b40f391b4729750ed8075&w=320 320w,/-/media/Project/Upfield/Corporate/Upfield-Corporate/Flora-Food-Stacked-Fresh-Green-Logo_July2024.png?rev=1302354aa47b40f391b4729750ed8075&w=250 250w,/-/media/Project/Upfield/Corporate/Upfield-Corporate/Flora-Food-Stacked-Fresh-Green-Logo_July2024.png?rev=1302354aa47b40f391b4729750ed8075&w=738 738w,/-/media/Project/Upfield/Corporate/Upfield-Corporate/Flora-Food-Stacked-Fresh-Green-Logo_July2024.png?rev=1302354aa47b40f391b4729750ed8075&w=546 546w"
+      },
+      {
+        "src": "/-/media/Project/Upfield/Corporate/Corporate-New/flora-food-group-hugoton-logo-(1).jpg?rev=243e4b3c14ad499a9a6330fee595e779&w=533",
+        "sizes": "(max-width: 1900px)100vw,(max-width: 1200px) 50vw, (max-width: 992px) 50vw, (max-width: 768px) 50vw, (max-width: 576px) 100vw",
+        "srcset": "/-/media/Project/Upfield/Corporate/Corporate-New/flora-food-group-hugoton-logo-(1).jpg?rev=243e4b3c14ad499a9a6330fee595e779&w=533 533w,/-/media/Project/Upfield/Corporate/Corporate-New/flora-food-group-hugoton-logo-(1).jpg?rev=243e4b3c14ad499a9a6330fee595e779&w=320 320w,/-/media/Project/Upfield/Corporate/Corporate-New/flora-food-group-hugoton-logo-(1).jpg?rev=243e4b3c14ad499a9a6330fee595e779&w=250 250w,/-/media/Project/Upfield/Corporate/Corporate-New/flora-food-group-hugoton-logo-(1).jpg?rev=243e4b3c14ad499a9a6330fee595e779&w=738 738w,/-/media/Project/Upfield/Corporate/Corporate-New/flora-food-group-hugoton-logo-(1).jpg?rev=243e4b3c14ad499a9a6330fee595e779&w=546 546w"
+      },
+      {
+        "src": "/-/media/Project/Upfield/Corporate/Corporate-New/Logo/Flora-Foods-Logo_Fresh-Green_Horizontal_new.svg?iar=0&rev=e37dcaaf30f949679834e68632459d09",
+        "alt": "",
+        "data-variantitemid": "{E1DAEF55-9696-4AA5-8461-D457A8338CDC}",
+        "data-variantfieldname": "Image"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-199/f48e781f510fd4b3.txt"
+  },
+  {
+    "id": "428649a4a6d591d1",
+    "name": "Florida Primary Care Association",
+    "requested_url": "https://fachc.org/",
+    "status": 200,
+    "final_url": "https://fachc.org/",
+    "text_chars": 11680,
+    "logo_candidates": [
+      {
+        "class": "preload-me",
+        "src": "https://fachc.org/wp-content/uploads/2022/09/fachc-logo-web.jpg",
+        "srcset": "https://fachc.org/wp-content/uploads/2022/09/fachc-logo-web.jpg 204w, https://fachc.org/wp-content/uploads/2022/09/fachc-logo-web.jpg 204w",
+        "width": "204",
+        "height": "100",
+        "sizes": "204px",
+        "alt": "Florida Association of Community Health Centers"
+      },
+      {
+        "src": "https://fachc.org/wp-content/uploads/2022/09/FACHC-White-Logo-web.png"
+      },
+      {
+        "srcset": "https://fachc.org/wp-content/uploads/2026/05/Sunshine-Website.png",
+        "src": "https://fachc.org/wp-content/uploads/2026/05/Sunshine-Website.png",
+        "alt": "The business logo for Sunshine Health",
+        "width": "400",
+        "height": "200",
+        "class": "skip-lazy"
+      },
+      {
+        "srcset": "https://fachc.org/wp-content/uploads/2026/07/CNECT-Logo-FACHC-Sponsor.png",
+        "src": "https://fachc.org/wp-content/uploads/2026/07/CNECT-Logo-FACHC-Sponsor.png",
+        "alt": "CNECT-Logo-FACHC-Sponsor",
+        "width": "495",
+        "height": "238",
+        "class": "skip-lazy"
+      },
+      {
+        "srcset": "https://fachc.org/wp-content/uploads/2026/05/Website-Logo.png",
+        "src": "https://fachc.org/wp-content/uploads/2026/05/Website-Logo.png",
+        "alt": "Business Logo for Vital Interactions",
+        "width": "400",
+        "height": "200",
+        "class": "skip-lazy"
+      },
+      {
+        "srcset": "https://fachc.org/wp-content/uploads/2026/06/Simple-Interact-Web-Logo.png",
+        "src": "https://fachc.org/wp-content/uploads/2026/06/Simple-Interact-Web-Logo.png",
+        "alt": "The business logo for Simple Interact a FACHC Corporate Sponsor.",
+        "width": "400",
+        "height": "200",
+        "class": "skip-lazy"
+      },
+      {
+        "srcset": "https://fachc.org/wp-content/uploads/2026/05/uhc-solutions-website-.png",
+        "src": "https://fachc.org/wp-content/uploads/2026/05/uhc-solutions-website-.png",
+        "alt": "The UHC Solutions business logo",
+        "width": "400",
+        "height": "200",
+        "class": "skip-lazy"
+      },
+      {
+        "srcset": "https://fachc.org/wp-content/uploads/2026/05/RiskQual-400x200px.png",
+        "src": "https://fachc.org/wp-content/uploads/2026/05/RiskQual-400x200px.png",
+        "alt": "The business logo for RiskQual, a FACHC Corporate Sponsor",
+        "width": "400",
+        "height": "200",
+        "class": "skip-lazy"
+      },
+      {
+        "srcset": "https://fachc.org/wp-content/uploads/2026/05/ERA-Group-400x200px.png",
+        "src": "https://fachc.org/wp-content/uploads/2026/05/ERA-Group-400x200px.png",
+        "alt": "The business logo for ERA Group, a FACHC Corporate Sponsor",
+        "width": "400",
+        "height": "200",
+        "class": "skip-lazy"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-199/428649a4a6d591d1.txt"
+  },
+  {
+    "id": "22b72ee466158cf9",
+    "name": "FM Labs",
+    "requested_url": "https://fmlabs.co/",
+    "status": 202,
+    "final_url": "https://fmlabs.co/",
+    "text_chars": 60,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-199/22b72ee466158cf9.txt"
+  },
+  {
+    "id": "578572b95ca2c08b",
+    "name": "Food is Medicine Coalition",
+    "requested_url": "https://www.fimcoalition.org/",
+    "status": 200,
+    "final_url": "https://fimcoalition.org/",
+    "text_chars": 95,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-199/578572b95ca2c08b.txt"
+  }
+]

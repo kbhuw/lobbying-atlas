@@ -1,0 +1,17 @@
+[
+  {
+    "name": "2026-research-output.tar.gz",
+    "bytes": 1540,
+    "sha256": "b9fe6fbf4ebe7c2ec66a5b4b3d1f4b45fd4abb8a8aeb8375799fafc0a48835bf"
+  },
+  {
+    "name": "research-evidence.tar.gz.part000",
+    "bytes": 524288000,
+    "sha256": "4c51068dd39820bb3406ea33b0aea6064e92a7a8b9dec07be722d85e0a9a7e5c"
+  },
+  {
+    "name": "research-evidence.tar.gz.part001",
+    "bytes": 241065264,
+    "sha256": "a8a835d605393d43b309e88fd0872c3ca7eb321d20f36c2578b8260180e56dc4"
+  }
+]

@@ -1,0 +1,44 @@
+{
+  "9902804f4ff89428": {
+    "name": "National Child Support Enforcement Association",
+    "description": "NCSEA, now named the National Child Support Engagement Association in its 2026 bylaws, provides education, networking and policy advocacy for child-support professionals.",
+    "website": "https://www.ncsea.org/about/",
+    "kind": "professional or trade association",
+    "ownership": "Nonprofit / tax-exempt",
+    "legal_form": "Nonprofit corporation",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Official historical NCSEA publications use National Child Support Enforcement Association, while current June 2026 bylaws name National Child Support Engagement Association. Same official domain, acronym and child-support mission support continuity; exact effective rename date was not established. Article II section 2.6 refers to nonprofit corporate powers under Minnesota law. Original filing name retained; this association is separate from the federal Office of Child Support Enforcement.",
+    "notes": "Official historical NCSEA publications use National Child Support Enforcement Association, while current June 2026 bylaws name National Child Support Engagement Association. Same official domain, acronym and child-support mission support continuity; exact effective rename date was not established. Article II section 2.6 refers to nonprofit corporate powers under Minnesota law. Original filing name retained; this association is separate from the federal Office of Child Support Enforcement.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/fa72885c-fb17-46ce-85e2-cca72b1ed766/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.ncsea.org/about/",
+        "label": "Organization evidence",
+        "claim": "NCSEA says it educates parents and stakeholders about child-support services and serves the child-support community through professional information and resources."
+      },
+      {
+        "url": "https://www.ncsea.org/wp-content/uploads/2026/07/NCSEA-Bylaws-FINAL-6.30.2026.pdf",
+        "label": "Official current bylaws, directly downloaded and extracted",
+        "claim": "Official historical NCSEA publications use National Child Support Enforcement Association, while current June 2026 bylaws name National Child Support Engagement Association. Same official domain, acronym and child-support mission support continuity; exact effective rename date was not established. Article II section 2.6 refers to nonprofit corporate powers under Minnesota law. Original filing name retained; this association is separate from the federal Office of Child Support Enforcement."
+      },
+      {
+        "url": "https://www.ncsea.org/documents/2015-1-14-NCSEA-comments-on-NPRM-FINAL.pdf",
+        "label": "Official historical name evidence",
+        "claim": "Official association comments use National Child Support Enforcement Association (NCSEA)."
+      }
+    ],
+    "as_of": "2026-09-18",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://www.ncsea.org/wp-content/uploads/2020/04/NCSEA-Footer-Logo.png",
+    "logo_kind": "logo",
+    "logo_source_url": "https://www.ncsea.org/about/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "06efcc8b3b9b3b3c": {
+    "name": "Sungas Renewables Inc",
+    "description": "SunGas Renewables Inc. develops gasification technology that converts woody biomass and waste feedstocks into syngas for advanced biofuels and biochemicals.",
+    "website": "https://sungasrenewables.com/",
+    "kind": "Renewable-fuels technology company",
+    "ownership": "Unknown",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Official May 14, 2024 announcement explicitly names SunGas Renewables Inc. and describes its gasification equipment and renewable-fuel development. Direct current homepage supports continued technology activity. Historical C2X investment does not establish current controlling ownership. Indexed official announcement checked September 18, 2026.",
+    "notes": "Official May 14, 2024 announcement explicitly names SunGas Renewables Inc. and describes its gasification equipment and renewable-fuel development. Direct current homepage supports continued technology activity. Historical C2X investment does not establish current controlling ownership. Indexed official announcement checked September 18, 2026.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/757baf0b-1fb8-48c5-bcbe-a07c5a742c22/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://sungasrenewables.com/about/",
+        "label": "Organization evidence",
+        "claim": "SunGas Renewables\u2019 official About page describes its gasification technology, conversion of woody biomass and waste feedstocks into syngas, and use in advanced biofuels and chemicals."
+      },
+      {
+        "url": "https://sungasrenewables.com/sungas-renewables-inc-and-c2x-announce-strategic-partnership/",
+        "label": "Organization evidence",
+        "claim": "SunGas Renewables\u2019 official release identifies SunGas Renewables Inc. and its S1000 renewable syngas platform for green methanol, renewable natural gas, SAF, hydrogen, and other biofuels."
+      },
+      {
+        "url": "https://sungasrenewables.com/sungas-renewables-inc-and-c2x-announce-strategic-partnership/",
+        "label": "Exact legal-name and domain evidence",
+        "claim": "Official May 14, 2024 announcement explicitly names SunGas Renewables Inc. and describes its gasification equipment and renewable-fuel development. Direct current homepage supports continued technology activity. Historical C2X investment does not establish current controlling ownership. Indexed official announcement checked September 18, 2026."
+      }
+    ],
+    "as_of": "2026-09-07",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://sungasrenewables.com/wp-content/uploads/2025/03/SunGas-TM-logo-rgb.jpg",
+    "logo_kind": "logo",
+    "logo_source_url": "https://sungasrenewables.com/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "ced104cb716ac4f7": {
+    "name": "Protect Environmental, LLC",
+    "description": "Radon-mitigation and environmental-services company providing testing and mitigation work for healthier indoor environments.",
+    "website": "https://www.protectenvironmental.com/",
+    "kind": "Radon-mitigation and environmental-services company",
+    "ownership": "Unknown",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Iowa HHS registered radon laboratory list dated May 20, 2025 explicitly identifies Protect Environmental, LLC and protectenvironmental.com, bridging the exact legal name to the official domain. Current directly retrieved website describes radon and vapor testing and mitigation. Historical certification is not claimed as current; ownership remains unknown. Indexed agency document checked September 18, 2026.",
+    "notes": "Iowa HHS registered radon laboratory list dated May 20, 2025 explicitly identifies Protect Environmental, LLC and protectenvironmental.com, bridging the exact legal name to the official domain. Current directly retrieved website describes radon and vapor testing and mitigation. Historical certification is not claimed as current; ownership remains unknown. Indexed agency document checked September 18, 2026.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/dfd1dcf8-27a9-4188-8ce0-4b46019e3e55/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.protectenvironmental.com/wp-content/uploads/2021/11/Protect-Environmental-Fact-Sheet-2021-2.pdf",
+        "label": "Organization evidence",
+        "claim": "Protect Environmental describes expert environmental services including radon mitigation."
+      },
+      {
+        "url": "https://files.dep.state.pa.us/RadiationProtection/RadonDivision/RDPortalFiles/2026/03_02/CountyMitigation.pdf",
+        "label": "Organization evidence",
+        "claim": "Pennsylvania\u2019s certified mitigation-firm list identifies PROTECT ENVIRONMENTAL, LLC at 435 N Whittington Parkway, Louisville KY, with protectenvironmental.com contact information."
+      },
+      {
+        "url": "https://lda.gov/api/v1/clients/71819/?format=json",
+        "label": "Organization evidence",
+        "claim": "LDA record describes the client as radon mitigation."
+      },
+      {
+        "url": "https://hhs.iowa.gov/media/7877/download?inline=",
+        "label": "Exact legal-name and domain evidence",
+        "claim": "Iowa HHS registered radon laboratory list dated May 20, 2025 explicitly identifies Protect Environmental, LLC and protectenvironmental.com, bridging the exact legal name to the official domain. Current directly retrieved website describes radon and vapor testing and mitigation. Historical certification is not claimed as current; ownership remains unknown. Indexed agency document checked September 18, 2026."
+      }
+    ],
+    "as_of": "2026-09-07",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://www.protectenvironmental.com/wp-content/uploads/2020/12/Protect-Environmental-Logo.png",
+    "logo_kind": "logo",
+    "logo_source_url": "https://www.protectenvironmental.com/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  }
+}

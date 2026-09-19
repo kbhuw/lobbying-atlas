@@ -1,0 +1,43 @@
+[
+  {
+    "content": [
+      {
+        "type": "text",
+        "text": "0-ec51021cf355df81: failed, Gateway request timed out.\n1-bd3d3fd68a1c1217: identity=yes (P(yes)=0.91), ownership=no (P(yes)=0.20)\nInspect uncertain or truncated items. Tool and website judgments depend on the content supplied; they do not predict unseen results."
+      }
+    ],
+    "structuredContent": {
+      "ok": true,
+      "model": "typesafe-ai/jev",
+      "scales": {},
+      "results": [
+        {
+          "id": "0-ec51021cf355df81",
+          "error": "Gateway request timed out."
+        },
+        {
+          "id": "1-bd3d3fd68a1c1217",
+          "answers": {
+            "identity": {
+              "type": "boolean",
+              "probability": 0.91
+            },
+            "ownership": {
+              "type": "boolean",
+              "probability": 0.2
+            }
+          },
+          "billing": {
+            "cost": "0",
+            "generationId": "gen_01M2VR8FG18GV5E1F4D9WRP8FM"
+          },
+          "model": "typesafe-ai/jev"
+        }
+      ],
+      "usage": {
+        "inputTokens": 3502
+      }
+    },
+    "isError": false
+  }
+]

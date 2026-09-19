@@ -1,0 +1,209 @@
+[
+  {
+    "id": "c765e7b973363402",
+    "name": "Houghton Mifflin Harcourt Company",
+    "requested_url": "https://www.hmhco.com/about-us",
+    "status": 200,
+    "final_url": "https://www.hmhco.com/about-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-050/0-c765e7b973363402.txt",
+    "text_chars": 10009
+  },
+  {
+    "id": "c765e7b973363402",
+    "name": "Houghton Mifflin Harcourt Company",
+    "requested_url": "https://www.hmhco.com/about-us/corporate-responsibility",
+    "status": 200,
+    "final_url": "https://www.hmhco.com/about-us/corporate-responsibility",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-050/1-c765e7b973363402.txt",
+    "text_chars": 11601
+  },
+  {
+    "id": "19dd4b85f078672a",
+    "name": "South BOW Infrastructure Operations, Inc.",
+    "requested_url": "https://www.southbow.com/about/governance/",
+    "status": 200,
+    "final_url": "https://www.southbow.com/about/governance/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-050/2-19dd4b85f078672a.txt",
+    "text_chars": 4487
+  },
+  {
+    "id": "67d1ea416219787b",
+    "name": "Cotton Logistics, Inc.",
+    "requested_url": "https://www.cottonlogistics.com/about-cotton-logistics/case-studies/petrochemical-industry-hurricane-temporary-housing/",
+    "status": 200,
+    "final_url": "https://www.cottonlogistics.com/about-cotton-logistics/case-studies/petrochemical-industry-hurricane-temporary-housing/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-050/3-67d1ea416219787b.txt",
+    "text_chars": 11086
+  },
+  {
+    "id": "67d1ea416219787b",
+    "name": "Cotton Logistics, Inc.",
+    "requested_url": "https://www.cottonlogistics.com/about-cotton-logistics/case-studies/petroleum-refinery-labor-strike-emergency-catering/",
+    "status": 200,
+    "final_url": "https://www.cottonlogistics.com/about-cotton-logistics/case-studies/petroleum-refinery-labor-strike-emergency-catering/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-050/4-67d1ea416219787b.txt",
+    "text_chars": 10900
+  },
+  {
+    "id": "8d93e42b9eff777a",
+    "name": "Washington Gas Light Company (represented by growth[period])",
+    "requested_url": "https://www.washingtongas.com/safety-education/education/about-natural-gas",
+    "status": 200,
+    "final_url": "https://www.washingtongas.com/safety-education/education/about-natural-gas",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-050/5-8d93e42b9eff777a.txt",
+    "text_chars": 4849
+  },
+  {
+    "id": "b316b860098202cf",
+    "name": "Lwrc International LLC",
+    "requested_url": "https://www.lwrci.com/Terms-of-Use_ep_55-1.html",
+    "status": 200,
+    "final_url": "https://www.lwrci.com/Terms-of-Use_ep_55-1.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-050/6-b316b860098202cf.txt",
+    "text_chars": 14941
+  },
+  {
+    "id": "2b39180d6fea8bff",
+    "name": "Morvillo Abramowitz Grand Iason & Anello PC O/b/o Bancamiga Banco Universal, CA",
+    "requested_url": "https://www.maglaw.com/about/history",
+    "status": 200,
+    "final_url": "https://www.maglaw.com/about/history",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-050/7-2b39180d6fea8bff.txt",
+    "text_chars": 3793
+  },
+  {
+    "id": "563756bad1fb36fe",
+    "name": "Priority Outdoor Products, Inc.",
+    "requested_url": "https://www.prioritybicycles.com/pages/about-us",
+    "status": 200,
+    "final_url": "https://www.prioritybicycles.com/pages/about-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-050/8-563756bad1fb36fe.txt",
+    "text_chars": 11901
+  },
+  {
+    "id": "d7f3c3e2c36b9735",
+    "name": "Invisio Communications",
+    "requested_url": "https://invisio.com/company/about-invisio/certificates-and-standards/",
+    "status": 200,
+    "final_url": "https://invisio.com/company/about-invisio/certificates-and-standards/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-050/9-d7f3c3e2c36b9735.txt",
+    "text_chars": 5512
+  },
+  {
+    "id": "d7f3c3e2c36b9735",
+    "name": "Invisio Communications",
+    "requested_url": "https://invisio.com/company/about-invisio/company-history/",
+    "status": 200,
+    "final_url": "https://invisio.com/company/about-invisio/company-history/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-050/10-d7f3c3e2c36b9735.txt",
+    "text_chars": 8357
+  },
+  {
+    "id": "2304d5a005d16ad7",
+    "name": "Rayonier Operating Company LLC",
+    "requested_url": "https://www.rayonier.com/about/",
+    "status": 200,
+    "final_url": "https://www.rayonier.com/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-050/11-2304d5a005d16ad7.txt",
+    "text_chars": 5596
+  },
+  {
+    "id": "92a750d3e3203246",
+    "name": "Xstrahl Inc",
+    "requested_url": "https://xstrahl.com/legal-notices/",
+    "status": 200,
+    "final_url": "https://xstrahl.com/legal-notices/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-050/12-92a750d3e3203246.txt",
+    "text_chars": 3478
+  },
+  {
+    "id": "92a750d3e3203246",
+    "name": "Xstrahl Inc",
+    "requested_url": "https://xstrahl.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://xstrahl.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-050/13-92a750d3e3203246.txt",
+    "text_chars": 16048
+  },
+  {
+    "id": "0c123d1a75a1b186",
+    "name": "Deterrence Defense Inc.",
+    "requested_url": "https://deterrence.com/privacy",
+    "status": 200,
+    "final_url": "https://deterrence.com/privacy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-050/14-0c123d1a75a1b186.txt",
+    "text_chars": 10168
+  },
+  {
+    "id": "29e333d0d0c58515",
+    "name": "Ennoble Care, LLC",
+    "requested_url": "https://ennoblecare.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://ennoblecare.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-050/15-29e333d0d0c58515.txt",
+    "text_chars": 23465
+  },
+  {
+    "id": "29e333d0d0c58515",
+    "name": "Ennoble Care, LLC",
+    "requested_url": "https://ennoblecare.com/sms-terms-and-conditions/",
+    "status": 200,
+    "final_url": "https://ennoblecare.com/sms-terms-and-conditions/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-050/16-29e333d0d0c58515.txt",
+    "text_chars": 3955
+  },
+  {
+    "id": "78f4c74c03ed0185",
+    "name": "Gold, Inc. (Goldbug)",
+    "requested_url": "https://goldbug.com/pages/privacy-policy",
+    "status": 200,
+    "final_url": "https://goldbug.com/pages/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-050/17-78f4c74c03ed0185.txt",
+    "text_chars": 43726
+  },
+  {
+    "id": "78f4c74c03ed0185",
+    "name": "Gold, Inc. (Goldbug)",
+    "requested_url": "https://goldbug.com/pages/terms-conditions",
+    "status": 200,
+    "final_url": "https://goldbug.com/pages/terms-conditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-050/18-78f4c74c03ed0185.txt",
+    "text_chars": 33556
+  },
+  {
+    "id": "f3b2b64f5f0ac8e1",
+    "name": "Grand River Band of Ottawa Indians",
+    "requested_url": "https://www.grandriverbands.com/about",
+    "status": 200,
+    "final_url": "https://www.grandriverbands.com/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-050/19-f3b2b64f5f0ac8e1.txt",
+    "text_chars": 2879
+  },
+  {
+    "id": "f3b2b64f5f0ac8e1",
+    "name": "Grand River Band of Ottawa Indians",
+    "requested_url": "https://www.grandriverbands.com/about/",
+    "status": 200,
+    "final_url": "https://www.grandriverbands.com/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-050/20-f3b2b64f5f0ac8e1.txt",
+    "text_chars": 2879
+  },
+  {
+    "id": "6f3e7137918d5e69",
+    "name": "Hypertherm, Inc.",
+    "requested_url": "https://www.hypertherm.com/policies/mobile-application-terms-of-use/",
+    "status": 200,
+    "final_url": "https://www.hypertherm.com/policies/mobile-application-terms-of-use/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-050/21-6f3e7137918d5e69.txt",
+    "text_chars": 54066
+  },
+  {
+    "id": "6f3e7137918d5e69",
+    "name": "Hypertherm, Inc.",
+    "requested_url": "https://www.hypertherm.com/policies/privacy/",
+    "status": 200,
+    "final_url": "https://www.hypertherm.com/policies/privacy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-050/22-6f3e7137918d5e69.txt",
+    "text_chars": 55733
+  }
+]

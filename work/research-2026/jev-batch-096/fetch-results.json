@@ -1,0 +1,443 @@
+[
+  {
+    "id": "51ad1de3c90eb543",
+    "name": "Augusta University Research Institute",
+    "requested_url": "https://www.augusta.edu/about/directory.php",
+    "status": 200,
+    "final_url": "https://www.augusta.edu/about/directory.php",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/0-51ad1de3c90eb543.txt",
+    "text_chars": 21220
+  },
+  {
+    "id": "51ad1de3c90eb543",
+    "name": "Augusta University Research Institute",
+    "requested_url": "https://www.augusta.edu/research/about/index.php",
+    "status": 200,
+    "final_url": "https://www.augusta.edu/research/about/index.php",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/1-51ad1de3c90eb543.txt",
+    "text_chars": 6323
+  },
+  {
+    "id": "b5c2b7d8fa86c3cc",
+    "name": "Novolex (formerly Hilex Poly Company)",
+    "requested_url": "https://novolex.com/about/governance/",
+    "status": 200,
+    "final_url": "https://novolex.com/about/governance/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/2-b5c2b7d8fa86c3cc.txt",
+    "text_chars": 2242
+  },
+  {
+    "id": "b5c2b7d8fa86c3cc",
+    "name": "Novolex (formerly Hilex Poly Company)",
+    "requested_url": "https://novolex.com/about/leadership/",
+    "status": 200,
+    "final_url": "https://novolex.com/about/leadership/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/3-b5c2b7d8fa86c3cc.txt",
+    "text_chars": 17525
+  },
+  {
+    "id": "6320cf5a9208104b",
+    "name": "Netafim USA",
+    "requested_url": "https://www.netafimusa.com/agriculture/about-us/farmer-funding/",
+    "status": 200,
+    "final_url": "https://www.netafimusa.com/agriculture/about-us/farmer-funding/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/4-6320cf5a9208104b.txt",
+    "text_chars": 5205
+  },
+  {
+    "id": "6320cf5a9208104b",
+    "name": "Netafim USA",
+    "requested_url": "https://www.netafimusa.com/agriculture/about-us/quality-policy/",
+    "status": 200,
+    "final_url": "https://www.netafimusa.com/agriculture/about-us/quality-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/5-6320cf5a9208104b.txt",
+    "text_chars": 3593
+  },
+  {
+    "id": "efbdeab3330b50b9",
+    "name": "the Vascular Care Group (cardiovascular Coalition)",
+    "requested_url": "https://thevascularcaregroup.com/about-us/careers/",
+    "status": 200,
+    "final_url": "https://thevascularcaregroup.com/about-us/careers/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/6-efbdeab3330b50b9.txt",
+    "text_chars": 1584
+  },
+  {
+    "id": "efbdeab3330b50b9",
+    "name": "the Vascular Care Group (cardiovascular Coalition)",
+    "requested_url": "https://thevascularcaregroup.com/about-us/locations/",
+    "status": 200,
+    "final_url": "https://thevascularcaregroup.com/about-us/locations/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/7-efbdeab3330b50b9.txt",
+    "text_chars": 108370
+  },
+  {
+    "id": "4727ea2fb7f4239c",
+    "name": "Intag Systems",
+    "requested_url": "https://intagsystems.com/about-intag/",
+    "status": 200,
+    "final_url": "https://intagsystems.com/about-intag/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/8-4727ea2fb7f4239c.txt",
+    "text_chars": 4701
+  },
+  {
+    "id": "1987030d6f07a5e3",
+    "name": "Chubb INA Holdings, Inc. (formerly ACE INA Holdings, Inc.)",
+    "requested_url": "https://www.chubb.com/us-en/about-chubb-in-the-us.html",
+    "status": 200,
+    "final_url": "https://www.chubb.com/us-en/about-chubb-in-the-us.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/9-1987030d6f07a5e3.txt",
+    "text_chars": 6017
+  },
+  {
+    "id": "234ea1c228500e86",
+    "name": "SPIRE Academy (Geneva Holdings Ohio)",
+    "requested_url": "https://www.spireacademy.com/about-us/press-kit/",
+    "status": 200,
+    "final_url": "https://www.spireacademy.com/about-us/press-kit/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/10-234ea1c228500e86.txt",
+    "text_chars": 4469
+  },
+  {
+    "id": "234ea1c228500e86",
+    "name": "SPIRE Academy (Geneva Holdings Ohio)",
+    "requested_url": "https://www.spireacademy.com/about-us/leadership/",
+    "status": 200,
+    "final_url": "https://www.spireacademy.com/about-us/leadership/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/11-234ea1c228500e86.txt",
+    "text_chars": 4871
+  },
+  {
+    "id": "c51e2b94f5983b8c",
+    "name": "Michigan Hospital Association",
+    "requested_url": "https://www.mha.org/about/awards/",
+    "status": 200,
+    "final_url": "https://www.mha.org/about/awards/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/12-c51e2b94f5983b8c.txt",
+    "text_chars": 9742
+  },
+  {
+    "id": "c51e2b94f5983b8c",
+    "name": "Michigan Hospital Association",
+    "requested_url": "https://www.mha.org/about/governance/",
+    "status": 200,
+    "final_url": "https://www.mha.org/about/governance/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/13-c51e2b94f5983b8c.txt",
+    "text_chars": 12434
+  },
+  {
+    "id": "be6bcbcbbce15d61",
+    "name": "North American Olive Oil Association (fka Alliance for Olive Oil Qlty Stndrds)",
+    "requested_url": "https://www.aboutoliveoil.org/members",
+    "status": 200,
+    "final_url": "https://www.aboutoliveoil.org/members",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/14-be6bcbcbbce15d61.txt",
+    "text_chars": 3480
+  },
+  {
+    "id": "be6bcbcbbce15d61",
+    "name": "North American Olive Oil Association (fka Alliance for Olive Oil Qlty Stndrds)",
+    "requested_url": "https://www.aboutoliveoil.org/resources",
+    "status": 200,
+    "final_url": "https://www.aboutoliveoil.org/consumer-info",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/15-be6bcbcbbce15d61.txt",
+    "text_chars": 1258
+  },
+  {
+    "id": "be609bc432db4039",
+    "name": "the Sisters of Charity St.augustine Health System, Inc.",
+    "requested_url": "https://sistersofcharityhealth.org/about-us/overview/",
+    "status": 200,
+    "final_url": "https://sistersofcharityhealth.org/about-us/overview/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/16-be609bc432db4039.txt",
+    "text_chars": 34078
+  },
+  {
+    "id": "be609bc432db4039",
+    "name": "the Sisters of Charity St.augustine Health System, Inc.",
+    "requested_url": "https://sistersofcharityhealth.org/about-us/lens-of-love/",
+    "status": 200,
+    "final_url": "https://sistersofcharityhealth.org/about-us/lens-of-love/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/17-be609bc432db4039.txt",
+    "text_chars": 41814
+  },
+  {
+    "id": "dadfa09a12868d33",
+    "name": "Balance of Nature (via American Capitol Group)",
+    "requested_url": "https://balanceofnature.com/pages/terms-of-service",
+    "status": 200,
+    "final_url": "https://balanceofnature.com/pages/terms-of-service",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/18-dadfa09a12868d33.txt",
+    "text_chars": 25387
+  },
+  {
+    "id": "dadfa09a12868d33",
+    "name": "Balance of Nature (via American Capitol Group)",
+    "requested_url": "https://balanceofnature.com/pages/about-us",
+    "status": 200,
+    "final_url": "https://balanceofnature.com/pages/about-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/19-dadfa09a12868d33.txt",
+    "text_chars": 4808
+  },
+  {
+    "id": "e62f0e387440fe73",
+    "name": "Clenera, LLC",
+    "requested_url": "https://www.clenera.com/terms",
+    "status": 200,
+    "final_url": "https://www.clenera.com/terms",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/20-e62f0e387440fe73.txt",
+    "text_chars": 14482
+  },
+  {
+    "id": "832d884201a3a201",
+    "name": "Climbing Kites LLC",
+    "requested_url": "https://climbingkites.com/pages/about",
+    "status": 200,
+    "final_url": "https://climbingkites.com/pages/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/21-832d884201a3a201.txt",
+    "text_chars": 3461
+  },
+  {
+    "id": "cef6e5a26bd0ad8e",
+    "name": "Missouri Farm Bureau Federation",
+    "requested_url": "https://mofb.org/about/",
+    "status": 200,
+    "final_url": "https://mofb.org/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/22-cef6e5a26bd0ad8e.txt",
+    "text_chars": 15725
+  },
+  {
+    "id": "cef6e5a26bd0ad8e",
+    "name": "Missouri Farm Bureau Federation",
+    "requested_url": "https://mofb.org/about/federation-staff/",
+    "status": 200,
+    "final_url": "https://mofb.org/about/federation-staff/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/23-cef6e5a26bd0ad8e.txt",
+    "text_chars": 14634
+  },
+  {
+    "id": "17731dd93c38f9d3",
+    "name": "Outdoor Research",
+    "requested_url": "https://www.outdoorresearch.com/pages/terms-of-use",
+    "status": 200,
+    "final_url": "https://www.outdoorresearch.com/pages/terms-of-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/24-17731dd93c38f9d3.txt",
+    "text_chars": 61174
+  },
+  {
+    "id": "17731dd93c38f9d3",
+    "name": "Outdoor Research",
+    "requested_url": "https://www.outdoorresearch.com/pages/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.outdoorresearch.com/pages/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/25-17731dd93c38f9d3.txt",
+    "text_chars": 44358
+  },
+  {
+    "id": "e3a48cd30376a50e",
+    "name": "Philips Image Guided Therapy/volcano Corporation (cardiovascular Coalition)",
+    "requested_url": "https://www.cardiovascularcoalition.com/about-us",
+    "status": 200,
+    "final_url": "https://www.cardiovascularcoalition.com/about-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/26-e3a48cd30376a50e.txt",
+    "text_chars": 1323
+  },
+  {
+    "id": "1bae45aa63105db8",
+    "name": "Spotted Hawk Development, LLC",
+    "requested_url": "https://spotted-hawk.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://spotted-hawk.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/27-1bae45aa63105db8.txt",
+    "text_chars": 16225
+  },
+  {
+    "id": "4eb5addedc26330e",
+    "name": "the Vucci LAW Group, P.a.",
+    "requested_url": "https://thevuccilawgroup.com/privacy-policy/",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "4eb5addedc26330e",
+    "name": "the Vucci LAW Group, P.a.",
+    "requested_url": "https://thevuccilawgroup.com/terms-and-conditions/",
+    "status": 200,
+    "final_url": "https://thevuccilawgroup.com/terms-and-conditions/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/29-4eb5addedc26330e.txt",
+    "text_chars": 32170
+  },
+  {
+    "id": "489a757513111c4b",
+    "name": "Winning Strategies Washington (on Behalf of Synderys)",
+    "requested_url": "https://www.synderys.com/about",
+    "status": 200,
+    "final_url": "https://www.synderys.com/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/30-489a757513111c4b.txt",
+    "text_chars": 2656
+  },
+  {
+    "id": "4d3d1416269fdb1f",
+    "name": "American Federation of Government Employees",
+    "requested_url": "https://www.afge.org/privacy-policy/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "4d3d1416269fdb1f",
+    "name": "American Federation of Government Employees",
+    "requested_url": "https://www.afge.org/common-pages/legal-notices/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "f25012a2cca6c095",
+    "name": "CDFI Coalition Financial Institutions, Inc.",
+    "requested_url": "https://cdfi.org/privacy-policy/",
+    "status": 200,
+    "final_url": "https://cdfi.org/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/33-f25012a2cca6c095.txt",
+    "text_chars": 3894
+  },
+  {
+    "id": "f25012a2cca6c095",
+    "name": "CDFI Coalition Financial Institutions, Inc.",
+    "requested_url": "https://cdfi.org/about-cdfis/",
+    "status": 200,
+    "final_url": "https://cdfi.org/about-cdfis/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/34-f25012a2cca6c095.txt",
+    "text_chars": 11137
+  },
+  {
+    "id": "2e992c07041f6043",
+    "name": "City of Lubbock, Texas (Lubbock Preston Smith International Airport)",
+    "requested_url": "https://www.mylubbock.us/site/privacy",
+    "status": 200,
+    "final_url": "https://www.mylubbock.us/site/privacy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/35-2e992c07041f6043.txt",
+    "text_chars": 3457
+  },
+  {
+    "id": "d0e22d7fd71bfd5a",
+    "name": "Envision Strategy, LLC on Behalf of Healthcare Association of Nys, Inc.",
+    "requested_url": "https://www.hanys.org/legal/terms/",
+    "status": 200,
+    "final_url": "https://www.hanys.org/legal/terms/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/36-d0e22d7fd71bfd5a.txt",
+    "text_chars": 21319
+  },
+  {
+    "id": "d0e22d7fd71bfd5a",
+    "name": "Envision Strategy, LLC on Behalf of Healthcare Association of Nys, Inc.",
+    "requested_url": "https://www.hanys.org/legal/privacy/",
+    "status": 200,
+    "final_url": "https://www.hanys.org/legal/privacy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/37-d0e22d7fd71bfd5a.txt",
+    "text_chars": 23665
+  },
+  {
+    "id": "5d7891b7eacab2b0",
+    "name": "Evolution Well Services Operating, LLC",
+    "requested_url": "https://evolutionws.com/about/",
+    "status": 200,
+    "final_url": "https://evolutionws.com/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/38-5d7891b7eacab2b0.txt",
+    "text_chars": 10600
+  },
+  {
+    "id": "2fbcad81d9b11801",
+    "name": "Hoverfly Technologies",
+    "requested_url": "https://hoverflytech.com/terms-of-use/",
+    "status": 200,
+    "final_url": "https://hoverflytech.com/terms-of-use/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/39-2fbcad81d9b11801.txt",
+    "text_chars": 22942
+  },
+  {
+    "id": "2fbcad81d9b11801",
+    "name": "Hoverfly Technologies",
+    "requested_url": "https://hoverflytech.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://hoverflytech.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/40-2fbcad81d9b11801.txt",
+    "text_chars": 8900
+  },
+  {
+    "id": "ccdbeff5d6afc2a2",
+    "name": "OKX Inc.",
+    "requested_url": "https://www.okx.com/en-us/help/privacy-notice-us",
+    "status": 200,
+    "final_url": "https://www.okx.com/en-us/help/privacy-notice-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/41-ccdbeff5d6afc2a2.txt",
+    "text_chars": 59616
+  },
+  {
+    "id": "ccdbeff5d6afc2a2",
+    "name": "OKX Inc.",
+    "requested_url": "https://www.okx.com/en-us/help/terms-of-service-us",
+    "status": 200,
+    "final_url": "https://www.okx.com/en-us/help/terms-of-service-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/42-ccdbeff5d6afc2a2.txt",
+    "text_chars": 86099
+  },
+  {
+    "id": "e5e7688f5047dd82",
+    "name": "Open Source MD, Inc.",
+    "requested_url": "https://opensourcemd.net/about/",
+    "status": 200,
+    "final_url": "https://opensourcemd.net/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/43-e5e7688f5047dd82.txt",
+    "text_chars": 12931
+  },
+  {
+    "id": "ac0cd4098f04d150",
+    "name": "Atkinsrealis Nuclear Secured, LLC",
+    "requested_url": "https://www.atkinsrealis.com/en/site-services/legal-notice",
+    "status": 200,
+    "final_url": "https://www.atkinsrealis.com/en/site-services/legal-notice",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/44-ac0cd4098f04d150.txt",
+    "text_chars": 118372
+  },
+  {
+    "id": "ac0cd4098f04d150",
+    "name": "Atkinsrealis Nuclear Secured, LLC",
+    "requested_url": "https://www.atkinsrealis.com/en/site-services/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.atkinsrealis.com/en/site-services/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/45-ac0cd4098f04d150.txt",
+    "text_chars": 120409
+  },
+  {
+    "id": "c3fc8e0a44882f1e",
+    "name": "Houston METRO (via Cline Strategic Consulting)",
+    "requested_url": "https://www.ridemetro.org/terms-of-use",
+    "status": 200,
+    "final_url": "https://www.ridemetro.org/terms-of-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/46-c3fc8e0a44882f1e.txt",
+    "text_chars": 25413
+  },
+  {
+    "id": "c3fc8e0a44882f1e",
+    "name": "Houston METRO (via Cline Strategic Consulting)",
+    "requested_url": "https://www.ridemetro.org/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.ridemetro.org/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/47-c3fc8e0a44882f1e.txt",
+    "text_chars": 28881
+  },
+  {
+    "id": "69aa2664fba88a1c",
+    "name": "GALT Aerospace and affiliates",
+    "requested_url": "https://www.galt.aero/about-us",
+    "status": 200,
+    "final_url": "https://www.galt.aero/about-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/48-69aa2664fba88a1c.txt",
+    "text_chars": 4634
+  },
+  {
+    "id": "69aa2664fba88a1c",
+    "name": "GALT Aerospace and affiliates",
+    "requested_url": "https://www.galt.aero/about-us/galt-leadership",
+    "status": 200,
+    "final_url": "https://www.galt.aero/about-us/galt-leadership",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-096/49-69aa2664fba88a1c.txt",
+    "text_chars": 2006
+  }
+]

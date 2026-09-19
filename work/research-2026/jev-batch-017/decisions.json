@@ -1,0 +1,161 @@
+{
+  "3753986abd0f7f8a": {
+    "name": "Association of Woodworking and Furnishing Suppliers",
+    "description": "Trade association representing companies that supply woodworking equipment, materials and services to the home and commercial furnishings industry.",
+    "kind": "Trade association",
+    "ownership": "Unknown",
+    "website": "https://www.awfs.org/",
+    "status": "sourced",
+    "featured": false,
+    "as_of": "2026-09-18",
+    "checked_at": "2026-09-18",
+    "legal_form": "",
+    "notes": "Official homepage spells out Association of Woodworking and Furnishings Suppliers and describes its supplier membership, education and public-policy work. Identity confirmed; the original filing spelling is retained. Current tax status remains unverified.",
+    "sources": [
+      {
+        "url": "https://disclosurespreview.house.gov/data/LD/2015_Registrations_XML.zip",
+        "label": "House disclosure — 300767546.xml",
+        "claim": "Self-reported clientGeneralDescription in 300767546.xml; signed 11/12/2015 2:06:56 PM."
+      },
+      {
+        "url": "https://www.awfs.org/",
+        "label": "Official organization evidence",
+        "claim": "Trade association representing companies that supply woodworking equipment, materials and services to the home and commercial furnishings industry."
+      },
+      {
+        "url": "https://www.awfs.org/",
+        "label": "Primary organization evidence reviewed September 18, 2026",
+        "claim": "Official homepage spells out Association of Woodworking and Furnishings Suppliers and describes its supplier membership, education and public-policy work. Identity confirmed; the original filing spelling is retained. Current tax status remains unverified."
+      }
+    ],
+    "other_descriptions": [],
+    "review_outcome": "confirmed",
+    "identity_evidence": "Official homepage spells out Association of Woodworking and Furnishings Suppliers and describes its supplier membership, education and public-policy work. Identity confirmed; the original filing spelling is retained. Current tax status remains unverified.",
+    "logo_url": "https://www.awfs.org/wp-content/themes/awfs/img/favicon.png",
+    "logo_kind": "site_icon",
+    "logo_source_url": "https://www.awfs.org/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified"
+  },
+  "8e57e0305350d941": {
+    "name": "Grunley Construction Company, Inc.",
+    "description": "General contractor providing preconstruction planning, construction management, building renovation, and restoration services.",
+    "website": "https://grunley.com/",
+    "kind": "Construction",
+    "ownership": "Unknown",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Official homepage explicitly names Grunley Construction Company, Inc. and describes construction, renovation and restoration of commercial, institutional and government buildings in the Washington metropolitan area. Serving government clients does not establish government ownership.",
+    "notes": "Official homepage explicitly names Grunley Construction Company, Inc. and describes construction, renovation and restoration of commercial, institutional and government buildings in the Washington metropolitan area. Serving government clients does not establish government ownership.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/4b726062-8c64-4935-b1af-884b0f3e56c8/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://lda.gov/api/v1/clients/72030/?format=json",
+        "label": "Organization evidence",
+        "claim": "LDA client record identifies GRUNLEY CONSTRUCTION COMPANY, INC., describes it as Construction, and places the filing in Maryland."
+      },
+      {
+        "url": "https://www.grunley.com/",
+        "label": "Organization evidence",
+        "claim": "Official website identifies the organization and describes its current business or public-service activity."
+      },
+      {
+        "url": "https://grunley.com/",
+        "label": "Organization evidence",
+        "claim": "Official organization website supports the described activities and identity."
+      },
+      {
+        "url": "https://grunley.com/",
+        "label": "Primary organization evidence reviewed September 18, 2026",
+        "claim": "Official homepage explicitly names Grunley Construction Company, Inc. and describes construction, renovation and restoration of commercial, institutional and government buildings in the Washington metropolitan area. Serving government clients does not establish government ownership."
+      }
+    ],
+    "as_of": "2026-09-18",
+    "checked_at": "2026-09-18",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "9e5fa580087398b8": {
+    "name": "National Organization of Social Security Claimants Representatives",
+    "description": "NOSSCR supports attorneys and representatives serving Social Security disability and SSI claimants through education and advocacy.",
+    "website": "https://nosscr.org/",
+    "kind": "Professional association",
+    "ownership": "Nonprofit / tax-exempt",
+    "legal_form": "501(c)(6) nonprofit corporation",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Direct homepage spells out National Organization of Social Security Claimants Representatives and describes its specialized bar-association role. Indexed official 2025 exhibitor agreement identifies the exact organization as a 501(c)(6) nonprofit corporation at the same Washington address. PAC remains separate.",
+    "notes": "Direct homepage spells out National Organization of Social Security Claimants Representatives and describes its specialized bar-association role. Indexed official 2025 exhibitor agreement identifies the exact organization as a 501(c)(6) nonprofit corporation at the same Washington address. PAC remains separate.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/265e3141-7ef2-4aae-801a-7b508d451c72/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://nosscr.org/",
+        "label": "Organization evidence",
+        "claim": "NOSSCR describes education and advocacy for attorneys and representatives serving Social Security disability and SSI claimants."
+      },
+      {
+        "url": "https://nosscr.org/wp-content/uploads/2025/01/2025-NOSSCR-Exhibitor-Agreement-01272025.pdf",
+        "label": "Primary organization evidence reviewed September 18, 2026",
+        "claim": "Direct homepage spells out National Organization of Social Security Claimants Representatives and describes its specialized bar-association role. Indexed official 2025 exhibitor agreement identifies the exact organization as a 501(c)(6) nonprofit corporation at the same Washington address. PAC remains separate."
+      }
+    ],
+    "as_of": "2026-09-18",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://nosscr.org/wp-content/uploads/2024/01/National-Organization-of-Social-Security-Claimants-Representatives.png",
+    "logo_kind": "logo",
+    "logo_source_url": "https://nosscr.org/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "bf7a220290c8e0ce": {
+    "name": "Association of Schools and Programs of Public Health",
+    "description": "Association of schools and programs training the public-health workforce and advancing public-health education and research.",
+    "kind": "Higher-education association",
+    "ownership": "Nonprofit / tax-exempt",
+    "website": "https://aspph.org/",
+    "status": "sourced",
+    "review_outcome": "confirmed",
+    "checked_at": "2026-09-18",
+    "as_of": "2026-09-18",
+    "identity_evidence": "Direct official homepage identifies Association of Schools and Programs of Public Health and its academic public-health education, research and advocacy programs. Indexed official support page explicitly states ASPPH is a 501(c)(3) nonprofit organization; member universities remain separate.",
+    "notes": "Direct official homepage identifies Association of Schools and Programs of Public Health and its academic public-health education, research and advocacy programs. Indexed official support page explicitly states ASPPH is a 501(c)(3) nonprofit organization; member universities remain separate.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/3f01471e-ce5b-4db1-a8db-004c1743e3f9/print/",
+        "label": "Original lobbying filing",
+        "claim": "Preserves the disclosed client name and lobbying record."
+      },
+      {
+        "url": "https://aspph.org/",
+        "label": "Primary source checked",
+        "claim": "Official source at https://aspph.org/ identifies Association of Schools and Programs of Public Health and supports the stated activity."
+      },
+      {
+        "url": "https://aspph.org/sponsorship-opportunity-for-academic-public-health/help-support-academic-public-health/",
+        "label": "Primary organization evidence reviewed September 18, 2026",
+        "claim": "Direct official homepage identifies Association of Schools and Programs of Public Health and its academic public-health education, research and advocacy programs. Indexed official support page explicitly states ASPPH is a 501(c)(3) nonprofit organization; member universities remain separate."
+      }
+    ],
+    "logo_url": "https://upload.aspph.org/wp-content/uploads/2024/05/cropped-ASPPH-color-2.png",
+    "logo_kind": "logo",
+    "logo_source_url": "https://aspph.org/",
+    "logo_status": "official_site_asset",
+    "featured": false,
+    "legal_form": "501(c)(3) nonprofit organization",
+    "website_status": "verified"
+  }
+}

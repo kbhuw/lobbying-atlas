@@ -1,0 +1,197 @@
+{
+  "845a3c30aa5f46df": {
+    "name": "SAN Diego State University Research Foundation",
+    "description": "A nonprofit research-support organization advancing the research mission of San Diego State University.",
+    "website": "https://www.foundation.sdsu.edu/",
+    "kind": "University research foundation",
+    "ownership": "Nonprofit / tax-exempt",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Direct foundation homepage describes sponsored-research funding and award administration. Official Board of Directors page explicitly identifies SDSU Research Foundation as a nonprofit corporation. It is distinct from the university; university-wide logo was not assigned as a foundation-specific logo.",
+    "notes": "Direct foundation homepage describes sponsored-research funding and award administration. Official Board of Directors page explicitly identifies SDSU Research Foundation as a nonprofit corporation. It is distinct from the university; university-wide logo was not assigned as a foundation-specific logo.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/6a9aac13-4850-4d52-98d8-b54041592b46/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://lda.gov/api/v1/clients/71647/?format=json",
+        "label": "Organization evidence",
+        "claim": "Original disclosure for SAN Diego State University Research Foundation reports the matched client activity and filing date."
+      },
+      {
+        "url": "https://www.foundation.sdsu.edu/",
+        "label": "Organization evidence",
+        "claim": "San Diego State University Research Foundation official site describes its role supporting sponsored research, innovation and university programs."
+      },
+      {
+        "url": "https://www.foundation.sdsu.edu/policies/pag/about_sdsurf/about_bod",
+        "label": "Primary organization evidence checked September 18, 2026",
+        "claim": "Direct foundation homepage describes sponsored-research funding and award administration. Official Board of Directors page explicitly identifies SDSU Research Foundation as a nonprofit corporation. It is distinct from the university; university-wide logo was not assigned as a foundation-specific logo."
+      }
+    ],
+    "as_of": "2026-09-18",
+    "checked_at": "2026-09-18",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "622ced36ba4f0d78": {
+    "name": "Harrison County, MS",
+    "description": "Mississippi county government providing local administration and public services.",
+    "website": "https://www.co.harrison.ms.us/",
+    "kind": "county government",
+    "ownership": "Government body",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Direct Harrison County Mississippi official services site identifies its Board of Supervisors, courts, tax and land-record services. Official header seal downloaded and visually verified.",
+    "notes": "Direct Harrison County Mississippi official services site identifies its Board of Supervisors, courts, tax and land-record services. Official header seal downloaded and visually verified.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/f365502a-8495-4c94-bbb8-887b9f8efb3a/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.co.harrison.ms.us/",
+        "label": "Organization evidence",
+        "claim": "Official Harrison County, Mississippi government website."
+      },
+      {
+        "url": "https://www.co.harrison.ms.us/",
+        "label": "Primary organization evidence checked September 18, 2026",
+        "claim": "Direct Harrison County Mississippi official services site identifies its Board of Supervisors, courts, tax and land-record services. Official header seal downloaded and visually verified."
+      }
+    ],
+    "as_of": "2026-09-18",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://www.co.harrison.ms.us/_images/logo1.gif",
+    "logo_kind": "logo",
+    "logo_source_url": "https://www.co.harrison.ms.us/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "30e2cdfc65aeb0e0": {
+    "name": "Jackson County, Mississippi",
+    "description": "Public governmental authority providing local public infrastructure, transportation, airport, port, or county services.",
+    "website": "https://www.co.jackson.ms.us/",
+    "kind": "Government body",
+    "ownership": "Government body",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Direct official Jackson County Mississippi site identifies county government, Board of Supervisors meetings and county taxation, courts and permitting. Government-body classification is explicitly supported by this municipal website.",
+    "notes": "Direct official Jackson County Mississippi site identifies county government, Board of Supervisors meetings and county taxation, courts and permitting. Government-body classification is explicitly supported by this municipal website.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/1de15b05-be99-4475-8bc3-523586da2828/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://lda.gov/api/v1/clients/56253/?format=json",
+        "label": "Organization evidence",
+        "claim": "Self-reported description; client effective date 2023-06-01"
+      },
+      {
+        "url": "https://www.co.jackson.ms.us/",
+        "label": "Organization evidence",
+        "claim": "Official organization website identifies the entity and describes its current activities."
+      },
+      {
+        "url": "https://www.co.jackson.ms.us/",
+        "label": "Primary organization evidence checked September 18, 2026",
+        "claim": "Direct official Jackson County Mississippi site identifies county government, Board of Supervisors meetings and county taxation, courts and permitting. Government-body classification is explicitly supported by this municipal website."
+      }
+    ],
+    "as_of": "2026-09-18",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://www.co.jackson.ms.us/images/favicon.ico",
+    "logo_kind": "site_icon",
+    "logo_source_url": "https://www.co.jackson.ms.us/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "6b17ac6946d6104a": {
+    "name": "Town of Boone NC",
+    "description": "Town of Boone, North Carolina is a municipal government that provides local public services, administration and community infrastructure.",
+    "website": "https://www.boonenc.gov/",
+    "kind": "Municipal government",
+    "ownership": "Government body",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Direct official homepage identifies Town of Boone North Carolina, council meetings and municipal planning and utility services. Official Town of Boone North Carolina seal downloaded and visually verified.",
+    "notes": "Direct official homepage identifies Town of Boone North Carolina, council meetings and municipal planning and utility services. Official Town of Boone North Carolina seal downloaded and visually verified.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/36fa5e49-0863-42e1-8a78-b773f870c7e0/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.boonenc.gov/162/Administration",
+        "label": "Organization evidence",
+        "claim": "The official site says Boone operates under a council/manager form of government and identifies its town departments and services."
+      },
+      {
+        "url": "https://www.boonenc.gov/",
+        "label": "Primary organization evidence checked September 18, 2026",
+        "claim": "Direct official homepage identifies Town of Boone North Carolina, council meetings and municipal planning and utility services. Official Town of Boone North Carolina seal downloaded and visually verified."
+      }
+    ],
+    "as_of": "2026-09-18",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://www.boonenc.gov/ImageRepository/Document?documentID=4531",
+    "logo_kind": "logo",
+    "logo_source_url": "https://www.boonenc.gov/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "7cfb34d88c84e200": {
+    "name": "City of Wetumpka, Alabama",
+    "description": "Municipal government serving Wetumpka, Alabama, through local administration and resident services.",
+    "website": "https://www.wetumpkaal.gov/",
+    "kind": "Municipal government",
+    "ownership": "Government body",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Direct official Wetumpka Alabama homepage identifies city government, City Council meetings and the 408 South Main Street city address. Current municipal domain retained; prior unrelated domain not used.",
+    "notes": "Direct official Wetumpka Alabama homepage identifies city government, City Council meetings and the 408 South Main Street city address. Current municipal domain retained; prior unrelated domain not used.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/4e6976c6-0ffc-476d-b3e9-ddb2cfeca9d7/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.wetumpkaal.gov/",
+        "label": "Official organization website",
+        "claim": "Official website identifies City of Wetumpka, Alabama."
+      },
+      {
+        "url": "https://www.wetumpkaal.gov/",
+        "label": "Primary organization evidence checked September 18, 2026",
+        "claim": "Direct official Wetumpka Alabama homepage identifies city government, City Council meetings and the 408 South Main Street city address. Current municipal domain retained; prior unrelated domain not used."
+      }
+    ],
+    "as_of": "2026-09-18",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://www.wetumpkaal.gov/ImageRepository/Document?documentID=70",
+    "logo_kind": "logo",
+    "logo_source_url": "https://www.wetumpkaal.gov/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  }
+}

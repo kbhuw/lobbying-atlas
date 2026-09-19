@@ -1,0 +1,38 @@
+import json,pathlib
+r=pathlib.Path('work/research-2026');p=json.load(open(r/'reviewed.json'));before={};dec=[]
+assert not (r/'featured90-before.json').exists()
+rows=json.load(open(r/'featured90-first10.json'))+json.load(open(r/'featured90-middle10.json'))
+names=['SCORE Association','The Sherwin-Williams Company','SUNY System Administration','Susan G. Komen','The Toro Company','Trust for Public Land','Trustees of Columbia University in the City of New York','United States Pharmacopeial Convention','US-China Business Council','Village of Oswego, Illinois','The Viscardi Center',"The Wendy’s Company",'The Western Union Company','The Williams Companies','Thomson Reuters','Delta Dental Plans Association (via Thorn Run Partners)','Graham Corporation (via Thorn Run Partners)','Western Uranium & Vanadium (via Thorn Run Partners)','thyssenkrupp Automotive Technology North America','TIAA']
+def src(u,c):return dict(url=u,label='Primary organization evidence',claim=c)
+obo={15:('Delta Dental Plans Association','84c5fdcb-0be1-408b-a6d3-c5063f76cf91','A national association of independent Delta Dental companies.'),16:('Graham Corporation','1dd0d034-a82d-42be-aa67-ac20f8deb4bf','An engineering and manufacturing company producing industrial and defense equipment.'),17:('Western Uranium & Vanadium Corp.','ce590271-2bd9-410a-bd7a-b003b74137f2','A minerals company developing uranium and vanadium assets.')}
+for idx,d in enumerate(rows):
+ i=d['id'];before[i]=json.loads(json.dumps(p[i]));f={k:d[k] for k in ['description','kind','website']};f.update(name=names[idx],ownership='Unknown',review_outcome='confirmed',notes=d['evidence'],identity_evidence=d['evidence'],checked_at='2026-09-13',as_of='2026-09-13',status='sourced',website_status='verified');s=[src(d['official_url'],d['exact_official_excerpt'])]
+ for x in d.get('sources',[]):
+  if x.get('excerpt'):s.append(src(x['url'],x['excerpt']))
+ if idx in [0,3,5,6,7,8,10]:f['ownership']='Nonprofit'
+ if idx in [1,4,11,12,13]:f['ownership']='Public company'
+ if idx==2:f['ownership']='Public institution'
+ if idx==9:f['ownership']='Government body';s.append(src('https://lda.gov/filings/public/filing/d5923853-a227-485e-8a93-ef85f3e04e88/print/','Original registration places the municipal client at 100 Parkers Mill, Oswego, Illinois, matching the official municipal headquarters.'))
+ if idx==1:s=[src('https://investors.sherwin-williams.com/','Current official investor site names The Sherwin-Williams Company, NYSE SHW, and its paints and coatings business.')];f['website']='https://investors.sherwin-williams.com/'
+ if idx==4:s=[src('https://www.thetorocompany.com/news-releases/news-release-details/toro-company-reports-strong-second-quarter-results-driven-broad','June 2026 issuer results identify The Toro Company, NYSE TTC, and outdoor equipment business.')]
+ if idx==11:s=[src('https://www.irwendys.com/news/news-details/2026/THE-WENDYS-COMPANY-REPORTS-SECOND-QUARTER-2026-RESULTS/default.aspx','August 2026 issuer results identify The Wendys Company, Nasdaq WEN, and its restaurant business.')]
+ if idx==12:s=[src('https://ir.westernunion.com/investor-relations/financial-information/default.aspx','Official financial information identifies The Western Union Company, NYSE WU, and its money movement services.')]
+ if idx==14:
+  f.update(review_outcome='partial',website_status='partial',kind='Information-services company');s=[];f['notes']=f['identity_evidence']='Thomson Reuters group is established; the exact Thomson Reuters Inc. alias remains unverified. Do not assign the listed Corporation parent ownership to an unresolved Inc. entity.'
+ if idx in obo:
+  client,reg,desc=obo[idx];f.update(ownership='Not applicable',kind='Represented-client filing label',description=f'Thorn Run Partners acting on behalf of {client}. {desc}');s.append(src(f'https://lda.gov/filings/public/filing/{reg}/print/',f'Original federal registration expressly names Thorn Run Partners on behalf of {client}.'));f['notes']=f['identity_evidence']='Original registration verifies the represented-client relationship. Preserve the intermediary and represented company; no corporate ownership relationship is implied.'
+ if idx==17:
+  f['website']='https://www.western-uranium.com/';s=[x for x in s if 'westernuraniumvanadium.com' not in x['url']];s.append(src('https://www.western-uranium.com/about/overview/','Official Western Uranium and Vanadium website describes its western United States minerals projects.'))
+ if idx==18:
+  f.update(kind='North American automotive business',ownership='Unknown');s.append(src('https://lda.gov/filings/public/filing/60403ef9-c9ff-446e-9c33-0e7dd96f6a98/print/','Registration identifies the unsuffixed regional Automotive Technology business at 3331 West Big Beaver Road, Suite 300, Troy, Michigan.'));s.append(src('https://www.thyssenkrupp-automotive-technology.com/en/company/locations','Official Automotive Technology locations list automotive businesses at the same Troy address.'));f['notes']=f['identity_evidence']='Confirmed at North American automotive business scope from original registration, activity and official location. No distinct corporation or LLC is invented for the unsuffixed regional label.'
+ if idx==19:
+  s=[src('https://www.tiaa.org/public/pdf/TT_FAQ.pdf','Current official FAQ identifies Teachers Insurance and Annuity Association of America as the TIAA Traditional issuer and states it has no public shareholders. This is insufficient to classify it as a mutual insurer or establish tax-exempt status.')];f['notes']=f['identity_evidence']=s[0]['claim']
+ p[i].update(f);seen={x['url'] for x in p[i]['sources']}
+ for x in s:
+  if x['url'] not in seen:p[i]['sources'].append(x);seen.add(x['url'])
+ dec.append(dict(id=i,decision=f['review_outcome'],notes=f['notes']))
+canon='49ebc184b9e3979d';other='2b9736e6007f1ac4';before[canon]=json.loads(json.dumps(p[canon]));p[canon]['sources']+=p[other]['sources'][-2:];p[canon]['notes']=p[other]['notes'];p[canon]['identity_evidence']=p[other]['identity_evidence']
+mp=pathlib.Path('lobbying-map/research/verified-entity-merges.json');m=json.load(open(mp));assert not any(set([canon,other])&set(x['source_ids']) for x in m);(r/'featured90-merges-before.json').write_text(json.dumps(m,indent=2)+'\n');m.append(dict(canonical_id=canon,source_ids=[canon,other],rationale='Official Komen Form 990 explicitly names The Susan G. Komen Breast Cancer Foundation Inc. doing business as Susan G. Komen, EIN 75-1835298; the current legal page reports the same EIN. Consolidate legal-name and DBA source labels, preserving every filing.',sources=[dict(url=rows[3]['official_url'],claim='2023 Form 990 explicitly gives legal name, Susan G. Komen DBA and EIN 75-1835298.'),dict(url='https://www.komen.org/legal/',claim='Current brand legal page reports the same charitable EIN.'),dict(url='https://lda.gov/filings/public/filing/50a900d5-32bf-4148-bf9b-4ad32721af12/print/',claim='Original self-registration expressly reports the legal name and DBA.')],reviewed_at='2026-09-13'));mp.write_text(json.dumps(m,indent=2)+'\n')
+(r/'featured90-before.json').write_text(json.dumps(before,indent=2)+'\n');(r/'featured90-decisions.json').write_text(json.dumps(dec,indent=2)+'\n')
+for path in [r/'reviewed.json',pathlib.Path('outputs/2026-research-trial/profiles.json')]:path.write_text(json.dumps(p,ensure_ascii=False,indent=2)+'\n')
+pathlib.Path('lobbying-map/research/reviewed-2026.json').write_text(json.dumps(p,ensure_ascii=False));print('New confirmed',sum(p[i]['review_outcome']=='confirmed' and b['review_outcome']!='confirmed' for i,b in before.items()));print('Status changes',[(i,b.get('status'),p[i]['status']) for i,b in before.items() if b.get('status')!=p[i]['status']])

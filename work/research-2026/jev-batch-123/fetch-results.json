@@ -1,0 +1,1054 @@
+[
+  {
+    "id": "941de9d63ccba347",
+    "name": "Washington 2 Advocates on Behalf of Kymeta Corporation",
+    "requested_url": "https://www.kymetacorp.com/",
+    "status": 200,
+    "final_url": "https://www.kymetacorp.com/",
+    "text_chars": 8786,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-123/941de9d63ccba347.txt"
+  },
+  {
+    "id": "894c7f7d3be3f958",
+    "name": "Washington Soccer Properties, LLC D/b/a Washington Spirit",
+    "requested_url": "https://washingtonspirit.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "5969daadb5543011",
+    "name": "Alaska Range Resources LLC",
+    "requested_url": "https://novaminerals.com.au/about-nova/",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)>"
+  },
+  {
+    "id": "b5b337290733c272",
+    "name": "Americans for the Arts",
+    "requested_url": "https://www.americansforthearts.org/about-americans-for-the-arts",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "456aa1ea5dfde942",
+    "name": "Armis",
+    "requested_url": "https://www.armis.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "8909c7547d85cf39",
+    "name": "Black Belt Energy GAS District",
+    "requested_url": "https://blackbeltenergy.com/about/",
+    "status": 200,
+    "final_url": "https://blackbeltenergy.com/about/",
+    "text_chars": 2631,
+    "logo_candidates": [
+      {
+        "src": "https://blackbeltenergy.com/wp-content/uploads/2023/03/Black-Belt-Energy-Logo.png",
+        "width": "400",
+        "height": "240",
+        "alt": "Black Belt Energy",
+        "id": "logo",
+        "data-height-percentage": "95"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-123/8909c7547d85cf39.txt"
+  },
+  {
+    "id": "307f9d18e4c032d6",
+    "name": "Path Robotics, Inc. (via Clark Street Associates)",
+    "requested_url": "https://path-robotics.com/",
+    "status": 200,
+    "final_url": "https://www.path-robotics.com/",
+    "text_chars": 4646,
+    "logo_candidates": [
+      {
+        "src": "/logos/path-robotics-white.svg",
+        "alt": "Path Robotics",
+        "style": "width:140px;height:auto"
+      },
+      {
+        "src": "/logos/path-robotics-white.svg",
+        "alt": "Path Robotics",
+        "style": "height:32px;width:auto"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-123/307f9d18e4c032d6.txt"
+  },
+  {
+    "id": "7277f52f36af8a8b",
+    "name": "Coalition for the Preservation of Employment Choice F/k/a 14C Coalition",
+    "requested_url": "https://employmentchoice.org/",
+    "status": 200,
+    "final_url": "https://employmentchoice.org/",
+    "text_chars": 2906,
+    "logo_candidates": [
+      {
+        "src": "https://employmentchoice.org/wp-content/uploads/2022/06/Coalition-for-Employment-Choice-JPEG-002-v2.jpg",
+        "data-orig-src": "https://employmentchoice.org/wp-content/uploads/2022/06/Coalition-for-Employment-Choice-JPEG-002-v2.jpg",
+        "srcset": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27153%27%20height%3D%27142%27%20viewBox%3D%270%200%20153%20142%27%3E%3Crect%20width%3D%27153%27%20height%3D%27142%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "data-srcset": "https://employmentchoice.org/wp-content/uploads/2022/06/Coalition-for-Employment-Choice-JPEG-002-v2.jpg 1x, https://employmentchoice.org/wp-content/uploads/2022/06/Coalition-for-Employment-Choice-JPEG-002-v2.jpg 2x",
+        "style": "max-height:142px;height:auto;",
+        "retina_url": "https://employmentchoice.org/wp-content/uploads/2022/06/Coalition-for-Employment-Choice-JPEG-002-v2.jpg",
+        "width": "153",
+        "height": "142",
+        "class": "lazyload img-responsive fusion-standard-logo",
+        "alt": "Coalition for the Preservation of 14C Logo"
+      },
+      {
+        "src": "https://employmentchoice.org/wp-content/uploads/2022/06/Coalition-for-Employment-Choice-JPEG-002-v2.jpg",
+        "data-orig-src": "https://employmentchoice.org/wp-content/uploads/2022/06/Coalition-for-Employment-Choice-JPEG-002-v2.jpg",
+        "srcset": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27153%27%20height%3D%27142%27%20viewBox%3D%270%200%20153%20142%27%3E%3Crect%20width%3D%27153%27%20height%3D%27142%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "data-srcset": "https://employmentchoice.org/wp-content/uploads/2022/06/Coalition-for-Employment-Choice-JPEG-002-v2.jpg 1x, https://employmentchoice.org/wp-content/uploads/2022/06/Coalition-for-Employment-Choice-JPEG-002-v2.jpg 2x",
+        "style": "max-height:142px;height:auto;",
+        "retina_url": "https://employmentchoice.org/wp-content/uploads/2022/06/Coalition-for-Employment-Choice-JPEG-002-v2.jpg",
+        "width": "153",
+        "height": "142",
+        "class": "lazyload fusion-sticky-logo",
+        "alt": "Coalition for the Preservation of 14C Logo"
+      },
+      {
+        "src": "https://employmentchoice.org/wp-content/uploads/2022/06/Coalition-for-Employment-Choice-JPEG-002-v2.jpg",
+        "data-orig-src": "https://employmentchoice.org/wp-content/uploads/2022/06/Coalition-for-Employment-Choice-JPEG-002-v2.jpg",
+        "srcset": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27153%27%20height%3D%27142%27%20viewBox%3D%270%200%20153%20142%27%3E%3Crect%20width%3D%27153%27%20height%3D%27142%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "data-srcset": "https://employmentchoice.org/wp-content/uploads/2022/06/Coalition-for-Employment-Choice-JPEG-002-v2.jpg 1x, https://employmentchoice.org/wp-content/uploads/2022/06/Coalition-for-Employment-Choice-JPEG-002-v2.jpg 2x",
+        "style": "max-height:142px;height:auto;",
+        "retina_url": "https://employmentchoice.org/wp-content/uploads/2022/06/Coalition-for-Employment-Choice-JPEG-002-v2.jpg",
+        "width": "153",
+        "height": "142",
+        "class": "lazyload img-responsive fusion-standard-logo",
+        "alt": "Coalition for the Preservation of 14C Logo"
+      },
+      {
+        "src": "https://employmentchoice.org/wp-content/uploads/2022/06/Coalition-for-Employment-Choice-JPEG-002-v2.jpg",
+        "data-orig-src": "https://employmentchoice.org/wp-content/uploads/2022/06/Coalition-for-Employment-Choice-JPEG-002-v2.jpg",
+        "srcset": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27153%27%20height%3D%27142%27%20viewBox%3D%270%200%20153%20142%27%3E%3Crect%20width%3D%27153%27%20height%3D%27142%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "data-srcset": "https://employmentchoice.org/wp-content/uploads/2022/06/Coalition-for-Employment-Choice-JPEG-002-v2.jpg 1x, https://employmentchoice.org/wp-content/uploads/2022/06/Coalition-for-Employment-Choice-JPEG-002-v2.jpg 2x",
+        "style": "max-height:142px;height:auto;",
+        "retina_url": "https://employmentchoice.org/wp-content/uploads/2022/06/Coalition-for-Employment-Choice-JPEG-002-v2.jpg",
+        "width": "153",
+        "height": "142",
+        "class": "lazyload fusion-sticky-logo",
+        "alt": "Coalition for the Preservation of 14C Logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-123/7277f52f36af8a8b.txt"
+  },
+  {
+    "id": "b0f263c9c45ac622",
+    "name": "Ferroglobe",
+    "requested_url": "https://www.ferroglobe.com",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "5f036b6f2e3841b7",
+    "name": "Govevolve",
+    "requested_url": "https://govevolve.org/",
+    "error": "<urlopen error EOF occurred in violation of protocol (_ssl.c:1129)>"
+  },
+  {
+    "id": "562b9e022652cf9a",
+    "name": "Infin, A Financial Services Alliance (f/k/a Financial Service Centers America)",
+    "requested_url": "https://infinalliance.org/",
+    "status": 200,
+    "final_url": "https://infinalliance.org/",
+    "text_chars": 2027,
+    "logo_candidates": [
+      {
+        "src": "/images/fiscatemplate/infin-logo.svg?version=B37501CC",
+        "alt": "INFiN - A Financial Services Alliance",
+        "style": "max-width:300px; padding-top:38px"
+      },
+      {
+        "src": "https://infinalliance.org/images/infin-logos14.png",
+        "style": "margin-bottom:15px"
+      },
+      {
+        "src": "/images/fiscatemplate/infin-logo.svg?version=B37501CC",
+        "alt": "INFiN",
+        "style": "max-width:250px; margin-top:18px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-123/562b9e022652cf9a.txt"
+  },
+  {
+    "id": "0ee06d909f0bd925",
+    "name": "International Association of Refrigerated Warehouses",
+    "requested_url": "https://www.gcca.org/",
+    "status": 200,
+    "final_url": "https://www.gcca.org/",
+    "text_chars": 8507,
+    "logo_candidates": [
+      {
+        "class": "fl-logo-img",
+        "loading": "false",
+        "data-no-lazy": "1",
+        "itemscope": null,
+        "itemtype": "https://schema.org/ImageObject",
+        "src": "https://www.gcca.org/wp-content/uploads/2022/11/gcca-logo@1x.png",
+        "data-retina": "https://www.gcca.org/wp-content/uploads/2022/11/gcca-logo@2x.png",
+        "title": "",
+        "width": "223",
+        "data-width": "223",
+        "height": "44",
+        "data-height": "44",
+        "alt": "Global Cold Chain Alliance"
+      },
+      {
+        "src": "https://www.gcca.org/wp-content/uploads/2022/11/gcca-logo@2x.png"
+      },
+      {
+        "class": "fl-logo-img",
+        "loading": "false",
+        "data-no-lazy": "1",
+        "itemscope": null,
+        "itemtype": "https://schema.org/ImageObject",
+        "src": "https://www.gcca.org/wp-content/uploads/2022/11/gcca-logo@1x.png",
+        "data-retina": "https://www.gcca.org/wp-content/uploads/2022/11/gcca-logo@2x.png",
+        "title": "",
+        "width": "223",
+        "data-width": "223",
+        "height": "44",
+        "data-height": "44",
+        "alt": "Global Cold Chain Alliance"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "class": "fl-photo-img wp-image-1095 size-full",
+        "src": "https://www.gcca.org/wp-content/uploads/2022/11/gcca-logo@2x.png",
+        "alt": "gcca-logo@2x",
+        "height": "232",
+        "width": "1171",
+        "title": "gcca-logo@2x",
+        "itemprop": "image",
+        "srcset": "https://www.gcca.org/wp-content/uploads/2022/11/gcca-logo@2x.png 1171w, https://www.gcca.org/wp-content/uploads/2022/11/gcca-logo@2x-600x119.png 600w, https://www.gcca.org/wp-content/uploads/2022/11/gcca-logo@2x-768x152.png 768w",
+        "sizes": "auto, (max-width: 1171px) 100vw, 1171px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-123/0ee06d909f0bd925.txt"
+  },
+  {
+    "id": "454a3b1357fc1ca1",
+    "name": "Japanese American Confinement Sites Consortium",
+    "requested_url": "https://jacs.org/",
+    "status": 200,
+    "final_url": "https://jacs.org/",
+    "text_chars": 98,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-123/454a3b1357fc1ca1.txt"
+  },
+  {
+    "id": "edf8cdfc14deab8a",
+    "name": "Kiwanis International",
+    "requested_url": "https://www.kiwanis.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "8d9364f77dc987f2",
+    "name": "Kountoupes Denham Carr & Reid OBO American Public Transportation Association",
+    "requested_url": "https://www.apta.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "d927e8b6f026db56",
+    "name": "Lincoln Media LLC",
+    "requested_url": "https://www.monumentalsportsnetwork.com/",
+    "status": 200,
+    "final_url": "https://www.monumentalsportsnetwork.com/",
+    "text_chars": 255,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-123/d927e8b6f026db56.txt"
+  },
+  {
+    "id": "e8e6a39bb210ac83",
+    "name": "Management Health Systems, LLC (d/b/a Medpro)",
+    "requested_url": "https://www.medprostaffing.com/",
+    "status": 200,
+    "final_url": "https://medprostaffing.com/",
+    "text_chars": 4565,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "width": "1201",
+        "height": "344",
+        "src": "https://medprostaffing.com/wp-content/uploads/2025/02/mp_logo_full_color.svg",
+        "class": "attachment-full size-full wp-image-113",
+        "alt": "MedPro Healthcare Staffing Logo",
+        "decoding": "async"
+      },
+      {
+        "width": "1201",
+        "height": "344",
+        "src": "https://medprostaffing.com/wp-content/uploads/2025/02/mp_logo_full_color.svg",
+        "class": "attachment-full size-full wp-image-113",
+        "alt": "MedPro Healthcare Staffing Logo",
+        "decoding": "async"
+      },
+      {
+        "class": "swiper-slide-image",
+        "src": "https://medprostaffing.com/wp-content/uploads/2025/11/US-Chamber-Logo.avif",
+        "alt": "U.S. Chamber of Commerce"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-123/e8e6a39bb210ac83.txt"
+  },
+  {
+    "id": "97b705fa53c90d9c",
+    "name": "North American Equipment Dealers Association (formerly Known As Equipment Dealer",
+    "requested_url": "https://www.naeda.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "f2912dc0f89077f1",
+    "name": "Recycled Materials Association FKA Institute of Scrap Recycling Industries, Inc",
+    "requested_url": "https://recycledmaterials.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "fa0b300ce524c42a",
+    "name": "the Aerospace Corporation",
+    "requested_url": "https://aerospace.org/about",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "46ae2d92170e0604",
+    "name": "Tunica Biloxi Economic Development Authority",
+    "requested_url": "https://www.tunicabiloxi.org/",
+    "status": 200,
+    "final_url": "https://www.tunicabiloxi.org/",
+    "text_chars": 2451,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-123/46ae2d92170e0604.txt"
+  },
+  {
+    "id": "a43cbdeb19bcd00c",
+    "name": "U.S Aviation",
+    "requested_url": "https://www.usaviationacademy.com/homepage/",
+    "status": 200,
+    "final_url": "https://www.usaviationacademy.com/homepage/",
+    "text_chars": 3442,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-123/a43cbdeb19bcd00c.txt"
+  },
+  {
+    "id": "64f366bc0c119969",
+    "name": "US Immigration Fund",
+    "requested_url": "https://www.usifund.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "a0cb29c96d3f3cd7",
+    "name": "Video Gaming Technologies",
+    "requested_url": "https://www.vgt.net/",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.vgt.net'. (_ssl.c:1129)>"
+  },
+  {
+    "id": "1da66405f4d8f28c",
+    "name": "Winning Strategies Washington (on Behalf of Prologis LP)",
+    "requested_url": "https://www.prologis.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "1c142d8a8e325356",
+    "name": "Wood Industry Association (fka Wood Machinery Manufacturers of America",
+    "requested_url": "https://woodindustry.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "6786b72533286e62",
+    "name": "Association of Floral Importers of Florida",
+    "requested_url": "https://afifnet.org/",
+    "status": 200,
+    "final_url": "https://www.weareafia.org/",
+    "text_chars": 1976,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "sizes": "169px",
+        "srcset": "https://static.wixstatic.com/media/0520e9_4354e6c884a343a6a5f1eaba7e2f67aa~mv2.png/v1/fill/w_169,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo%20AFIA%20final-02.png 1x, https://static.wixstatic.com/media/0520e9_4354e6c884a343a6a5f1eaba7e2f67aa~mv2.png/v1/fill/w_338,h_80,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo%20AFIA%20final-02.png 2x",
+        "id": "img_comp-m491rizk",
+        "src": "https://static.wixstatic.com/media/0520e9_4354e6c884a343a6a5f1eaba7e2f67aa~mv2.png/v1/fill/w_169,h_40,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo%20AFIA%20final-02.png",
+        "alt": "Logo AFIA final-02.png",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "169",
+        "height": "40"
+      },
+      {
+        "fetchpriority": "high",
+        "sizes": "80px",
+        "srcset": "https://static.wixstatic.com/media/0520e9_563d0dfc7dab4a5b92761d18c3f6288a~mv2.png/v1/crop/x_1026,y_0,w_983,h_931/fill/w_80,h_76,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo%20AFIA%202-10_edited.png 1x, https://static.wixstatic.com/media/0520e9_563d0dfc7dab4a5b92761d18c3f6288a~mv2.png/v1/crop/x_1026,y_0,w_983,h_931/fill/w_160,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo%20AFIA%202-10_edited.png 2x",
+        "id": "img_comp-m47glqp2",
+        "src": "https://static.wixstatic.com/media/0520e9_563d0dfc7dab4a5b92761d18c3f6288a~mv2.png/v1/crop/x_1026,y_0,w_983,h_931/fill/w_80,h_76,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Logo%20AFIA%202-10_edited.png",
+        "alt": "Logo AFIA 2-10_edited.png",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "80",
+        "height": "76"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-123/6786b72533286e62.txt"
+  },
+  {
+    "id": "0c5e7a62e34a7ebb",
+    "name": "Atlanta University Center Consortium, Inc.",
+    "requested_url": "https://aucconsortium.org/",
+    "status": 200,
+    "final_url": "https://www.aucconsortium.org/",
+    "text_chars": 2648,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-123/0c5e7a62e34a7ebb.txt"
+  },
+  {
+    "id": "7e7d27487a232723",
+    "name": "Bellwether District Holdings, LLC",
+    "requested_url": "https://www.thebellwetherdistrict.com/",
+    "status": 200,
+    "final_url": "https://www.thebellwetherdistrict.com/",
+    "text_chars": 1948,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-123/7e7d27487a232723.txt"
+  },
+  {
+    "id": "f95b85b77efbf74d",
+    "name": "Booger Brown Cattle And Performance Horses LLC",
+    "requested_url": "https://boogerbrownalabama.com/",
+    "status": 200,
+    "final_url": "https://boogerbrownalabama.com/",
+    "text_chars": 2127,
+    "logo_candidates": [
+      {
+        "src": "images/logo.png",
+        "alt": ""
+      },
+      {
+        "src": "images/2019/12-02-19/neckover-logo.jpg",
+        "width": "97",
+        "height": "90",
+        "alt": ""
+      },
+      {
+        "src": "images/2019/12-02-19/saddle-logo.jpg",
+        "width": "86",
+        "height": "79",
+        "alt": ""
+      },
+      {
+        "src": "images/2020/08-25-20/Ranch-hand-logo.jpg",
+        "width": "80",
+        "height": "79",
+        "alt": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-123/f95b85b77efbf74d.txt"
+  },
+  {
+    "id": "e75e65ff5dad01cd",
+    "name": "Brightstar Global Solutions Corporation (formerly Known AS IGT Global SOL Corp)",
+    "requested_url": "https://www.brightstarlottery.com/",
+    "status": 200,
+    "final_url": "https://www.brightstarlottery.com/",
+    "text_chars": 8587,
+    "logo_candidates": [
+      {
+        "src": "/media/dtmfusak/brightstar_brightstar_logo_main-fullsize_orange.gif?t=639253835396627303",
+        "alt": "Loading...",
+        "width": "1680",
+        "height": "905"
+      },
+      {
+        "loading": "lazy",
+        "src": "/media/bhnd0xmg/bs_website_homepage_omnia_202505.jpg?width=400&height=400&format=webp&quality=85&metadata=none&sharpen=5&v=1dc05940580d460 + ",
+        "class": "img-fluid w-100 rounded",
+        "alt": "A computer showing the OMNIA\u2122 logo",
+        "width": "400",
+        "height": "400"
+      },
+      {
+        "loading": "lazy",
+        "src": "/media/ikodorbs/web_homepage_what_we_do_carousel_image_4-1.jpg?cc=0.15580273521664112,0.1305004732424087,0.29134733693343096,0.04022463498269957&width=400&format=webp&quality=85&metadata=none&sharpen=5&v=1dbdcca3cb522d0 + ",
+        "class": "img-fluid w-100 rounded",
+        "alt": "Brightstar Lottery logo on mobile device",
+        "width": "400",
+        "height": "400"
+      },
+      {
+        "loading": "lazy",
+        "src": "/media/bhnd0xmg/bs_website_homepage_omnia_202505.jpg?width=600&height=600&format=webp&quality=85&metadata=none&sharpen=5&v=1dc05940580d460",
+        "class": "img-fluid w-100 rounded",
+        "alt": "A computer showing the OMNIA\u2122 logo",
+        "width": "600",
+        "height": "600"
+      },
+      {
+        "loading": "lazy",
+        "src": "/media/ikodorbs/web_homepage_what_we_do_carousel_image_4-1.jpg?cc=0.15580273521664112,0.1305004732424087,0.29134733693343096,0.04022463498269957&width=600&format=webp&quality=85&metadata=none&sharpen=5&v=1dbdcca3cb522d0",
+        "class": "img-fluid w-100 rounded",
+        "alt": "Brightstar Lottery logo on mobile device",
+        "width": "600",
+        "height": "600"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-123/e75e65ff5dad01cd.txt"
+  },
+  {
+    "id": "43f6d9bbfda1e229",
+    "name": "CRS Institute",
+    "requested_url": "https://www.crsinstitute.org/",
+    "status": 200,
+    "final_url": "https://www.crsinstitute.org/",
+    "text_chars": 514,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-123/43f6d9bbfda1e229.txt"
+  },
+  {
+    "id": "71f3815ad3b9bd48",
+    "name": "Ivim Health LLC",
+    "requested_url": "https://www.ivimhealth.com/",
+    "status": 200,
+    "final_url": "https://www.ivimhealth.com/",
+    "text_chars": 4434,
+    "logo_candidates": [
+      {
+        "src": "https://media-s3-cdn.ivimhealth.com/assets/images/logos/ivim-black.svg"
+      },
+      {
+        "class": "img-fluid",
+        "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E",
+        "alt": "Ivim logo",
+        "data-lazy-src": "https://media-s3-cdn.ivimhealth.com/assets/images/logos/ivim-black.svg"
+      },
+      {
+        "class": "img-fluid",
+        "src": "https://media-s3-cdn.ivimhealth.com/assets/images/logos/ivim-black.svg",
+        "alt": "Ivim logo",
+        "loading": "lazy"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-123/71f3815ad3b9bd48.txt"
+  },
+  {
+    "id": "c12134a7d857c995",
+    "name": "Lash Opco, LLC",
+    "requested_url": "https://performance-beauty.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "7a5a5615032d9d9a",
+    "name": "Medical Countermeasures Coalition",
+    "requested_url": "https://www.medicalcountermeasures.org/",
+    "status": 200,
+    "final_url": "https://www.medicalcountermeasures.org/",
+    "text_chars": 140,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-123/7a5a5615032d9d9a.txt"
+  },
+  {
+    "id": "a7d4abe2827bcc7d",
+    "name": "Metrika Inc",
+    "requested_url": "https://metrika.co/",
+    "status": 200,
+    "final_url": "https://www.metrika.co/",
+    "text_chars": 6557,
+    "logo_candidates": [
+      {
+        "alt": "Metrika",
+        "loading": "lazy",
+        "width": "140",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-8 w-auto",
+        "style": "color:transparent",
+        "src": "/images/metrika-logo-horizontal-new.png"
+      },
+      {
+        "alt": "S&P Global Ratings logo",
+        "loading": "lazy",
+        "width": "360",
+        "height": "160",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "object-contain opacity-60 hover:opacity-100 group-hover:scale-105 transition-all duration-300",
+        "style": "color:transparent;width:auto;max-width:290px;height:auto;max-height:120px",
+        "src": "/logos/sp-global-new.png"
+      },
+      {
+        "alt": "Moody's Ratings logo",
+        "loading": "lazy",
+        "width": "360",
+        "height": "160",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "object-contain opacity-60 hover:opacity-100 group-hover:scale-105 transition-all duration-300",
+        "style": "color:transparent;width:auto;max-width:260px;height:auto;max-height:100px",
+        "src": "/logos/moodys-logo-new.png"
+      },
+      {
+        "alt": "Standard Chartered logo",
+        "loading": "lazy",
+        "width": "360",
+        "height": "160",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "object-contain opacity-60 hover:opacity-100 group-hover:scale-105 transition-all duration-300",
+        "style": "color:transparent;width:auto;max-width:260px;height:auto;max-height:100px",
+        "src": "/logos/standard-chartered-logo.png"
+      },
+      {
+        "alt": "Citi logo",
+        "loading": "lazy",
+        "width": "360",
+        "height": "160",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "object-contain opacity-60 hover:opacity-100 group-hover:scale-105 transition-all duration-300",
+        "style": "color:transparent;width:auto;max-width:260px;height:auto;max-height:100px",
+        "src": "/logos/citi-logo.png"
+      },
+      {
+        "alt": "WisdomTree logo",
+        "loading": "lazy",
+        "width": "360",
+        "height": "160",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "object-contain opacity-60 hover:opacity-100 group-hover:scale-105 transition-all duration-300",
+        "style": "color:transparent;width:auto;max-width:260px;height:auto;max-height:100px",
+        "src": "/logos/wisdomtree-logo.png"
+      },
+      {
+        "alt": "Zodia Custody logo",
+        "loading": "lazy",
+        "width": "360",
+        "height": "160",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "object-contain opacity-60 hover:opacity-100 group-hover:scale-105 transition-all duration-300",
+        "style": "color:transparent;width:auto;max-width:260px;height:auto;max-height:100px",
+        "src": "/logos/zodia-logo.avif"
+      },
+      {
+        "alt": "Metrika Logo",
+        "loading": "lazy",
+        "width": "160",
+        "height": "36",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-9 w-auto",
+        "style": "color:transparent",
+        "src": "/images/metrika-logo-light.png"
+      },
+      {
+        "alt": "Microsoft logo",
+        "loading": "lazy",
+        "width": "109",
+        "height": "23",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "lg:hidden object-contain group-hover:opacity-60 group-hover:grayscale transition-all duration-200 max-w-[80%] max-h-[80%]",
+        "style": "color:transparent",
+        "src": "/logos/microsoft-new2.png"
+      },
+      {
+        "alt": "Microsoft logo",
+        "loading": "lazy",
+        "width": "50",
+        "height": "60",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "hidden lg:block object-contain group-hover:opacity-60 group-hover:grayscale transition-all duration-200 h-[45px] w-auto m",
+        "style": "color:transparent",
+        "src": "/logos/microsoft-logo-vertical.svg"
+      },
+      {
+        "alt": "Coinbase Ventures logo",
+        "loading": "lazy",
+        "width": "110",
+        "height": "23",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "object-contain group-hover:opacity-60 group-hover:grayscale transition-all duration-200 max-w-[80%] max-h-[80%]",
+        "style": "color:transparent",
+        "src": "/logos/coinbase-new.png"
+      },
+      {
+        "alt": "NYCA Partners logo",
+        "loading": "lazy",
+        "width": "100",
+        "height": "32",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "object-contain group-hover:opacity-60 group-hover:grayscale transition-all duration-200 max-w-[80%] max-h-[80%]",
+        "style": "color:transparent",
+        "src": "/logos/nyca-partners.png"
+      },
+      {
+        "alt": "Samsung Next logo",
+        "loading": "lazy",
+        "width": "58",
+        "height": "29",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "object-contain group-hover:opacity-60 group-hover:grayscale transition-all duration-200 max-w-[80%] max-h-[80%]",
+        "style": "color:transparent",
+        "src": "/logos/samsung-next.png"
+      },
+      {
+        "alt": "Neotribe Ventures logo",
+        "loading": "lazy",
+        "width": "118",
+        "height": "17",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "object-contain group-hover:opacity-60 group-hover:grayscale transition-all duration-200 max-w-[80%] max-h-[80%]",
+        "style": "color:transparent",
+        "src": "/logos/neotribe-ventures.png"
+      },
+      {
+        "alt": "SCB 10X logo",
+        "loading": "lazy",
+        "width": "78",
+        "height": "39",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "object-contain group-hover:opacity-60 group-hover:grayscale transition-all duration-200 max-w-[80%] max-h-[80%]",
+        "style": "color:transparent",
+        "src": "/logos/scb-10x-final.webp"
+      },
+      {
+        "alt": "Sternhill Associates logo",
+        "loading": "lazy",
+        "width": "32",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "object-contain group-hover:opacity-60 group-hover:grayscale transition-all duration-200 h-[60px] w-auto",
+        "style": "color:transparent",
+        "src": "/logos/sternhill-associates-new.png"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-123/a7d4abe2827bcc7d.txt"
+  },
+  {
+    "id": "f67d6c29c0b49086",
+    "name": "National Affordable Housing Management Association (NAHMA)",
+    "requested_url": "https://www.nahma.org/",
+    "status": 200,
+    "final_url": "https://www.nahma.org/",
+    "text_chars": 9644,
+    "logo_candidates": [
+      {
+        "width": "200",
+        "height": "49",
+        "src": "https://www.nahma.org/wp-content/uploads/2025/11/NAHMA-logo-invert.svg",
+        "class": "custom-logo",
+        "alt": "NAHMA",
+        "decoding": "async"
+      },
+      {
+        "width": "100",
+        "height": "24",
+        "src": "https://www.nahma.org/wp-content/uploads/2025/11/NAHMA-logo-invert.svg",
+        "class": "custom-logo",
+        "alt": "NAHMA",
+        "decoding": "async"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "2560",
+        "height": "1554",
+        "src": "https://www.nahma.org/wp-content/uploads/2026/03/Credential-Insights-Web-Logo-scaled.png",
+        "alt": "NAHMA certification logos for affordable housing and property management excellence.",
+        "class": "wp-image-37899",
+        "srcset": "https://www.nahma.org/wp-content/uploads/2026/03/Credential-Insights-Web-Logo-scaled.png 2560w, https://www.nahma.org/wp-content/uploads/2026/03/Credential-Insights-Web-Logo-300x182.png 300w, https://www.nahma.org/wp-content/uploads/2026/03/Credential-Insights-Web-Logo-1024x622.png 1024w, https://www.nahma.org/wp-content/uploads/2026/03/Credential-Insights-Web-Logo-768x466.png 768w, https://www.nahma.org/wp-content/uploads/2026/03/Credential-Insights-Web-Logo-1536x933.png 1536w, https://www.nahma.org/wp-content/uploads/2026/03/Credential-Insights-Web-Logo-2048x1243.png 2048w, https://www.nahma.org/wp-content/uploads/2026/03/Credential-Insights-Web-Logo-600x364.png 600w",
+        "sizes": "auto, (max-width: 2560px) 100vw, 2560px"
+      },
+      {
+        "loading": "lazy",
+        "width": "150",
+        "height": "37",
+        "src": "https://www.nahma.org/wp-content/uploads/2025/11/NAHMA-logo-invert.svg",
+        "class": "custom-logo",
+        "alt": "NAHMA",
+        "decoding": "async"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-123/f67d6c29c0b49086.txt"
+  },
+  {
+    "id": "efa675504dd799d9",
+    "name": "Qnovia, Inc.",
+    "requested_url": "https://qnovia.com/",
+    "status": 200,
+    "final_url": "https://qnovia.com/",
+    "text_chars": 113,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-123/efa675504dd799d9.txt"
+  },
+  {
+    "id": "0dcaa8417549b4f3",
+    "name": "Qualtrate, LLC",
+    "requested_url": "https://www.qualtrate.com/",
+    "status": 200,
+    "final_url": "https://www.qualtrate.com/",
+    "text_chars": 3385,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-123/0dcaa8417549b4f3.txt"
+  },
+  {
+    "id": "045508bdb5f7281e",
+    "name": "Safran Defense & Space, Inc.",
+    "requested_url": "https://www.safran-group.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "1640a5adfcaceaa7",
+    "name": "Sightline Intelligence",
+    "requested_url": "https://sightlineintelligence.com/",
+    "status": 200,
+    "final_url": "https://sightlineintelligence.com/",
+    "text_chars": 5128,
+    "logo_candidates": [
+      {
+        "src": "https://sightlineintelligence.com/wp-content/themes/leroux-child/assets/img/logo-icon-white.png",
+        "alt": "Sightline Intelligence"
+      },
+      {
+        "src": "https://sightlineintelligence.com/wp-content/themes/leroux-child/assets/img/logo-footer.png",
+        "alt": "Sightline Intelligence",
+        "class": "sightline-footer-logo-img"
+      },
+      {
+        "decoding": "async",
+        "class": "wp-image-2094",
+        "src": "https://leroux.qodeinteractive.com/wp-content/uploads/2023/01/logo-sidearea.png",
+        "alt": "w"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-123/1640a5adfcaceaa7.txt"
+  },
+  {
+    "id": "cc8a08bb19aa5c12",
+    "name": "ST. Joseph's University, New York (fka Saint Joseph's College)",
+    "requested_url": "https://www.sjny.edu/about",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "1107cecbb1412e9d",
+    "name": "the Bayer Corporation",
+    "requested_url": "https://www.bayer.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "859d1134b77e33d5",
+    "name": "Total Military Management",
+    "requested_url": "https://totalmilitarymanagement.com/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "ee857f7dfa6a4885",
+    "name": "Association of the German Confectionery Industry",
+    "requested_url": "https://www.bdsi.de/",
+    "status": 200,
+    "final_url": "https://www.bdsi.de/",
+    "text_chars": 4532,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-123/ee857f7dfa6a4885.txt"
+  },
+  {
+    "id": "953453064fd0c676",
+    "name": "GSI Service Group, Inc.",
+    "requested_url": "https://gsi-companies.com/",
+    "status": 200,
+    "final_url": "https://gsi-companies.com/",
+    "text_chars": 1533,
+    "logo_candidates": [
+      {
+        "src": "https://gsi-companies.com/wp-content/uploads/2025/02/logoFoC.png",
+        "alt": "GSI Family of Companies"
+      },
+      {
+        "src": "https://gsi-companies.com/wp-content/uploads/2025/02/logoFoC.png"
+      },
+      {
+        "decoding": "async",
+        "src": "https://gsi-companies.com/wp-content/uploads/2025/03/logoService.png",
+        "alt": "",
+        "width": "150",
+        "height": "68",
+        "class": "alignnone size-full wp-image-9423"
+      },
+      {
+        "decoding": "async",
+        "src": "https://gsi-companies.com/wp-content/uploads/2025/03/logoPacific.png",
+        "alt": "",
+        "width": "150",
+        "height": "68",
+        "class": "alignnone wp-image-9417 size-full"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "src": "https://gsi-companies.com/wp-content/uploads/2025/03/logoTechnologies.png",
+        "alt": "",
+        "width": "150",
+        "height": "68",
+        "class": "alignnone wp-image-9427 size-full"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "src": "https://gsi-companies.com/wp-content/uploads/2025/03/logoAmericas.png",
+        "alt": "",
+        "width": "152",
+        "height": "70",
+        "class": "alignnone size-full wp-image-9422",
+        "srcset": "https://gsi-companies.com/wp-content/uploads/2025/03/logoAmericas.png 152w, https://gsi-companies.com/wp-content/uploads/2025/03/logoAmericas-150x70.png 150w",
+        "sizes": "(max-width: 152px) 100vw, 152px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "src": "https://gsi-companies.com/wp-content/uploads/2025/03/gsi_hawaii_logo.png",
+        "alt": "",
+        "width": "150",
+        "height": "68",
+        "class": "alignnone size-full wp-image-9419"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "src": "https://gsi-companies.com/wp-content/uploads/2025/03/gsi_federal_logo.png",
+        "alt": "",
+        "width": "150",
+        "height": "68",
+        "class": "alignnone size-full wp-image-9418"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "src": "https://gsi-companies.com/wp-content/uploads/2025/03/H2KLogo.png",
+        "alt": "",
+        "width": "216",
+        "height": "68",
+        "class": "alignnone wp-image-9378 size-full"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-123/953453064fd0c676.txt"
+  },
+  {
+    "id": "bcc5ff75d751a526",
+    "name": "Guardian Centers of Georgia, LLC",
+    "requested_url": "https://www.guardiancenters.com/",
+    "status": 200,
+    "final_url": "https://guardiancenters.com/",
+    "text_chars": 11776,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-123/bcc5ff75d751a526.txt"
+  },
+  {
+    "id": "1bd77fa787cbfe28",
+    "name": "DRAI Health (represented through Hartwell Capitol Consulting)",
+    "requested_url": "https://www.draihealth.com/",
+    "status": 200,
+    "final_url": "https://www.draihealth.com/",
+    "text_chars": 4033,
+    "logo_candidates": [
+      {
+        "src": "DRAI-Health-Logo.webp",
+        "alt": "DRAI Health",
+        "class": "brand-logo",
+        "width": "1500",
+        "height": "831",
+        "decoding": "async"
+      },
+      {
+        "src": "assets/heydrai-logo.png",
+        "alt": "heyDRAI",
+        "width": "770",
+        "height": "230",
+        "loading": "lazy",
+        "decoding": "async"
+      },
+      {
+        "src": "assets/heydrai-plus-logo.png",
+        "alt": "heyDRAI+",
+        "width": "720",
+        "height": "178",
+        "loading": "lazy",
+        "decoding": "async"
+      },
+      {
+        "src": "assets/heydrai-logo.png",
+        "alt": "heyDRAI",
+        "width": "770",
+        "height": "230",
+        "loading": "lazy",
+        "decoding": "async"
+      },
+      {
+        "src": "assets/drai-pro-logo.png",
+        "alt": "DRAI Pro",
+        "width": "747",
+        "height": "214",
+        "loading": "lazy",
+        "decoding": "async"
+      },
+      {
+        "src": "assets/drai-care-logo-white-2.png",
+        "alt": "DRAI Care",
+        "width": "418",
+        "height": "100",
+        "loading": "lazy",
+        "decoding": "async"
+      },
+      {
+        "class": "footer-logo-mark",
+        "src": "DRAI-Health-Logo.webp",
+        "alt": "DRAI Health",
+        "width": "1500",
+        "height": "831",
+        "loading": "lazy",
+        "decoding": "async"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-123/1bd77fa787cbfe28.txt"
+  },
+  {
+    "id": "fb0495809a465db3",
+    "name": "Ivim Services, LLC",
+    "requested_url": "https://www.ivimhealth.com/",
+    "status": 200,
+    "final_url": "https://www.ivimhealth.com/",
+    "text_chars": 4437,
+    "logo_candidates": [
+      {
+        "src": "https://media-s3-cdn.ivimhealth.com/assets/images/logos/ivim-black.svg"
+      },
+      {
+        "class": "img-fluid",
+        "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%200%200'%3E%3C/svg%3E",
+        "alt": "Ivim logo",
+        "data-lazy-src": "https://media-s3-cdn.ivimhealth.com/assets/images/logos/ivim-black.svg"
+      },
+      {
+        "class": "img-fluid",
+        "src": "https://media-s3-cdn.ivimhealth.com/assets/images/logos/ivim-black.svg",
+        "alt": "Ivim logo",
+        "loading": "lazy"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-123/fb0495809a465db3.txt"
+  },
+  {
+    "id": "13b4b75a711c9aec",
+    "name": "Leeta Materials",
+    "requested_url": "https://leeta.co/",
+    "status": 202,
+    "final_url": "https://leeta.co/",
+    "text_chars": 67,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-123/13b4b75a711c9aec.txt"
+  }
+]

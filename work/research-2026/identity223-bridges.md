@@ -1,0 +1,8 @@
+# Identity 223: official legal-name/domain bridges
+
+- **Apex Space (`d8e571a2d2f03c67`) — confirmed with name qualification.** Official SBIR portfolio 2241599 names Apex Technology, Inc. and links to apexspace.com. An official Apex award calls the operating business “Apex Space (or Apex),” and the current site footer names Apex Technology, Inc.
+- **I3 Corporation (`0b523641a4f14156`) — confirmed.** The official SBIR record identifies Integration Innovation, Inc. and i3-corps.com. The company’s official contact page and homepage footer repeat Integration Innovation, Inc. and its Huntsville defense-engineering capabilities. This is separate from i3corporation.com.
+- **Radiant Nuclear (`8e9e99d11d66f371`) — confirmed with name qualification.** Official SBIR records identify Radiant Industries, Incorporated and link radiantnuclear.com; awards use @radiantnuclear.com contacts and describe the Kaleidos nuclear microreactor. Radiant-hosted policy material also names Radiant Industries, Incorporated. The older terms URL returned HTTP 404 and is recorded as unavailable.
+- **Seerist (`416f6d4798fc72c6`) — confirmed with name qualification.** Official SBIR award 186083 names Geospark Analytics, Inc. Official Seerist newsroom pages state Seerist Federal is formerly Geospark Analytics and a division/wholly owned subsidiary of Seerist, Inc.; the LDA filing uses current client label Seerist. These are source-stated relations, with no additional ownership inference.
+
+The JSON file records bounded excerpts, retrieval references where available, and HTTP status for unavailable current links.

@@ -1,0 +1,9 @@
+import pathlib,json,shutil,hashlib
+w=pathlib.Path('work/research-2026');b=w/'confirmed-logo-batch-sept12/recovery';p=w/'reviewed.json';d=json.loads(p.read_text());rows=json.loads((b/'asset-results.json').read_text());before={};approved={}
+for r in rows:
+ assert r['status']=='downloaded';k=r['id'];v=d[k];assert not v.get('logo_url');before[k]=json.loads(json.dumps(v))
+ if r.get('local_source'):
+  name=k+'-official.svg';dest=pathlib.Path('lobbying-map/public/logos')/name;shutil.copyfile(r['local_source'],dest);url='https://lobbying-atlas.kush581812.chatgpt.site/logos/'+name
+ else:url=r['url']
+ v.update(logo_url=url,logo_source_url=r['source'],logo_status='official_site_asset',logo_kind='logo',logo_background='light',checked_at='2026-09-12');v['sources'].append({'url':r['source'],'label':'Official header logo recovered and visually checked','claim':'Official logo recovered from the page header or lazy-loaded image and visually reviewed September 12, 2026. Inline SVGs are preserved as local site assets with an SVG viewBox casing correction for standalone rendering. Logo shown on a light background.'});approved[k]={'logo_url':url,'logo_source_url':r['source'],'local_source':r.get('local_source')}
+(b/'approved-before.json').write_text(json.dumps(before,indent=2));(b/'approved.json').write_text(json.dumps(approved,indent=2));p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n');pathlib.Path('lobbying-map/research/reviewed-2026.json').write_text(json.dumps(d,ensure_ascii=False)+'\n');pathlib.Path('outputs/2026-research-trial/profiles.json').write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n');p=w/'publication.json';m=json.loads(p.read_text());m['local_changes_pending']=True;m['pending_change_summary']='Nine official logos recovered from header and lazy-loaded assets, visually reviewed, including three inline SVG assets preserved with the site.';p.write_text(json.dumps(m,indent=2)+'\n');print('Saved logos',len(approved))

@@ -1,0 +1,443 @@
+[
+  {
+    "id": "d93954328ab017bf",
+    "name": "SAN Jacinto College Community District",
+    "requested_url": "https://www.sanjac.edu/about/policies-procedures/",
+    "status": 200,
+    "final_url": "https://www.sanjac.edu/about/policies-procedures/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/0-d93954328ab017bf.txt",
+    "text_chars": 102817
+  },
+  {
+    "id": "d93954328ab017bf",
+    "name": "SAN Jacinto College Community District",
+    "requested_url": "https://www.sanjac.edu/about/locations/north/index.php",
+    "status": 200,
+    "final_url": "https://www.sanjac.edu/about/locations/north/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/1-d93954328ab017bf.txt",
+    "text_chars": 9208
+  },
+  {
+    "id": "3b23dd145c850fdd",
+    "name": "Nutrien US LLC (formerly Known AS Agrium U.s. Inc.) (A Nutrien LTD Subsidiary)",
+    "requested_url": "https://www.nutrien.com/about/our-business/potash",
+    "status": 200,
+    "final_url": "https://www.nutrien.com/about/our-business/potash",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/2-3b23dd145c850fdd.txt",
+    "text_chars": 5528
+  },
+  {
+    "id": "3b23dd145c850fdd",
+    "name": "Nutrien US LLC (formerly Known AS Agrium U.s. Inc.) (A Nutrien LTD Subsidiary)",
+    "requested_url": "https://www.nutrien.com/about/our-business/retail",
+    "status": 200,
+    "final_url": "https://www.nutrien.com/about/our-business/retail",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/3-3b23dd145c850fdd.txt",
+    "text_chars": 4878
+  },
+  {
+    "id": "967d9cbf3d528627",
+    "name": "Waste Control Specialists (represented by Governmental Strategies Inc.)",
+    "requested_url": "https://www.wcstexas.com/about/our-facilities/facility-site-map/",
+    "status": 200,
+    "final_url": "https://www.wcstexas.com/about/our-facilities/facility-site-map/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/4-967d9cbf3d528627.txt",
+    "text_chars": 4590
+  },
+  {
+    "id": "97aafe4b94f1337f",
+    "name": "Solventum Health Information Systems, Inc",
+    "requested_url": "https://www.solventum.com/en-us/home/legal/website-terms-conditions/",
+    "status": 200,
+    "final_url": "https://www.solventum.com/en-us/home/legal/website-terms-conditions/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/5-97aafe4b94f1337f.txt",
+    "text_chars": 30973
+  },
+  {
+    "id": "97aafe4b94f1337f",
+    "name": "Solventum Health Information Systems, Inc",
+    "requested_url": "https://www.solventum.com/en-us/home/legal/website-privacy-statement/",
+    "status": 200,
+    "final_url": "https://www.solventum.com/en-us/home/legal/website-privacy-statement/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/6-97aafe4b94f1337f.txt",
+    "text_chars": 73886
+  },
+  {
+    "id": "de3415331ed6a3c9",
+    "name": "Supplycore LLC",
+    "requested_url": "https://www.supplycore.com/about/history/",
+    "status": 200,
+    "final_url": "https://www.supplycore.com/about/history/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/7-de3415331ed6a3c9.txt",
+    "text_chars": 8281
+  },
+  {
+    "id": "de3415331ed6a3c9",
+    "name": "Supplycore LLC",
+    "requested_url": "https://www.supplycore.com/about/quality/",
+    "status": 200,
+    "final_url": "https://www.supplycore.com/about/quality/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/8-de3415331ed6a3c9.txt",
+    "text_chars": 2096
+  },
+  {
+    "id": "bc870cbcf107b325",
+    "name": "City of Philadelphia \u2014 Department of Aviation",
+    "requested_url": "https://www.phl.org/about/about-us/policies",
+    "status": 200,
+    "final_url": "https://www.phl.org/about/about-us/policies",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/9-bc870cbcf107b325.txt",
+    "text_chars": 5473
+  },
+  {
+    "id": "bc870cbcf107b325",
+    "name": "City of Philadelphia \u2014 Department of Aviation",
+    "requested_url": "https://www.phl.org/about/about-us/route-maps",
+    "status": 200,
+    "final_url": "https://www.phl.org/about/about-us/route-maps",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/10-bc870cbcf107b325.txt",
+    "text_chars": 2078
+  },
+  {
+    "id": "eaa5648ca56d340a",
+    "name": "Peabody Investments Corp",
+    "requested_url": "https://www.peabodyenergy.com/Who-We-Are/All-About-Peabody",
+    "status": 200,
+    "final_url": "https://www.peabodyenergy.com/Who-We-Are/All-About-Peabody",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/11-eaa5648ca56d340a.txt",
+    "text_chars": 2847
+  },
+  {
+    "id": "5f8d6b9de89056a7",
+    "name": "VAN Scoyoc Associates on Behalf of the University of North Dakota",
+    "requested_url": "https://und.edu/about/contact-us.html",
+    "status": 200,
+    "final_url": "https://und.edu/about/contact-us.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/12-5f8d6b9de89056a7.txt",
+    "text_chars": 2776
+  },
+  {
+    "id": "5f8d6b9de89056a7",
+    "name": "VAN Scoyoc Associates on Behalf of the University of North Dakota",
+    "requested_url": "https://und.edu/about/website-feedback.html",
+    "status": 200,
+    "final_url": "https://und.edu/about/website-feedback.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/13-5f8d6b9de89056a7.txt",
+    "text_chars": 3340
+  },
+  {
+    "id": "b6c24e8f5c1548a1",
+    "name": "G+D Currency Technology America",
+    "requested_url": "https://www.gi-de.com/en/about-us/company/facts",
+    "status": 200,
+    "final_url": "https://www.gi-de.com/en/about-us/company/facts",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/14-b6c24e8f5c1548a1.txt",
+    "text_chars": 12652
+  },
+  {
+    "id": "f2ad06a46ca62606",
+    "name": "Lockton Management, LLC",
+    "requested_url": "https://global.lockton.com/us/en/terms-of-business",
+    "status": 200,
+    "final_url": "https://global.lockton.com/us/en/terms-of-business",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/15-f2ad06a46ca62606.txt",
+    "text_chars": 15719
+  },
+  {
+    "id": "418b0d84312280f3",
+    "name": "Tactical Medical (tacmed) Solutions LLC",
+    "requested_url": "https://tacmedsolutions.com/policies/privacy-policy",
+    "status": 200,
+    "final_url": "https://tacmedsolutions.com/policies/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/16-418b0d84312280f3.txt",
+    "text_chars": 19432
+  },
+  {
+    "id": "418b0d84312280f3",
+    "name": "Tactical Medical (tacmed) Solutions LLC",
+    "requested_url": "https://tacmedsolutions.com/policies/terms-of-service",
+    "status": 200,
+    "final_url": "https://tacmedsolutions.com/policies/terms-of-service",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/17-418b0d84312280f3.txt",
+    "text_chars": 13167
+  },
+  {
+    "id": "277b454c3574fe0a",
+    "name": "Talus Renewables, Inc.",
+    "requested_url": "https://www.talusag.com/terms-of-use",
+    "status": 200,
+    "final_url": "https://www.talusag.com/terms-of-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/18-277b454c3574fe0a.txt",
+    "text_chars": 2105
+  },
+  {
+    "id": "277b454c3574fe0a",
+    "name": "Talus Renewables, Inc.",
+    "requested_url": "https://www.talusag.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.talusag.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/19-277b454c3574fe0a.txt",
+    "text_chars": 47686
+  },
+  {
+    "id": "4dc351faf92e8bf5",
+    "name": "VM Agritech Inc.",
+    "requested_url": "https://www.vmagritech.com/privacy/",
+    "status": 200,
+    "final_url": "https://www.vmagritech.com/privacy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/20-4dc351faf92e8bf5.txt",
+    "text_chars": 975
+  },
+  {
+    "id": "0fffd6f1b5719359",
+    "name": "National Community Renaissance",
+    "requested_url": "https://nationalcore.org/privacy-policy/",
+    "status": 200,
+    "final_url": "https://nationalcore.org/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/21-0fffd6f1b5719359.txt",
+    "text_chars": 4557
+  },
+  {
+    "id": "0fffd6f1b5719359",
+    "name": "National Community Renaissance",
+    "requested_url": "https://nationalcore.org/about-us/",
+    "status": 200,
+    "final_url": "https://nationalcore.org/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/22-0fffd6f1b5719359.txt",
+    "text_chars": 172
+  },
+  {
+    "id": "7cc63a3fabd9b934",
+    "name": "Norc At the University of Chicago",
+    "requested_url": "https://www.norc.org/privacy.html",
+    "status": 200,
+    "final_url": "https://www.norc.org/privacy.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/23-7cc63a3fabd9b934.txt",
+    "text_chars": 49182
+  },
+  {
+    "id": "7cc63a3fabd9b934",
+    "name": "Norc At the University of Chicago",
+    "requested_url": "https://www.norc.org/terms-conditions.html",
+    "status": 200,
+    "final_url": "https://www.norc.org/terms-conditions.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/24-7cc63a3fabd9b934.txt",
+    "text_chars": 8312
+  },
+  {
+    "id": "e13fd30fec2f2772",
+    "name": "RSM US LLP (formerly Known AS Mcgladrey Llp)",
+    "requested_url": "https://rsmus.com/pages/terms-of-use.html",
+    "status": 200,
+    "final_url": "https://rsmus.com/pages/terms-of-use.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/25-e13fd30fec2f2772.txt",
+    "text_chars": 25630
+  },
+  {
+    "id": "e13fd30fec2f2772",
+    "name": "RSM US LLP (formerly Known AS Mcgladrey Llp)",
+    "requested_url": "https://rsmus.com/pages/rsm-us-privacy-policy.html",
+    "status": 200,
+    "final_url": "https://rsmus.com/pages/rsm-us-privacy-policy.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/26-e13fd30fec2f2772.txt",
+    "text_chars": 53976
+  },
+  {
+    "id": "f0be1ee7f50395bc",
+    "name": "S2G Investments, LLC",
+    "requested_url": "https://www.s2ginvestments.com/terms-of-use",
+    "status": 200,
+    "final_url": "https://www.s2ginvestments.com/terms-of-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/27-f0be1ee7f50395bc.txt",
+    "text_chars": 19596
+  },
+  {
+    "id": "f0be1ee7f50395bc",
+    "name": "S2G Investments, LLC",
+    "requested_url": "https://www.s2ginvestments.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.s2ginvestments.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/28-f0be1ee7f50395bc.txt",
+    "text_chars": 8775
+  },
+  {
+    "id": "86933dea919b16f0",
+    "name": "Sbir Advisors OBO Cosmic Shielding Corporation",
+    "requested_url": "https://www.cosmicsystems.com/about",
+    "status": 200,
+    "final_url": "https://www.cosmicsystems.com/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/29-86933dea919b16f0.txt",
+    "text_chars": 2358
+  },
+  {
+    "id": "51c1fdca6dd47c41",
+    "name": "Vima World S.l.",
+    "requested_url": "https://vimafoods.com/eng/legal/",
+    "status": 200,
+    "final_url": "https://vimafoods.com/eng/legal/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/30-51c1fdca6dd47c41.txt",
+    "text_chars": 5694
+  },
+  {
+    "id": "a5ff7b94986ffb6e",
+    "name": "Anzu Strategies (on behalf of Elanco US Inc.)",
+    "requested_url": "https://www.elanco.com/us/about-us",
+    "status": 200,
+    "final_url": "https://www.elanco.com/us/about-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/31-a5ff7b94986ffb6e.txt",
+    "text_chars": 6067
+  },
+  {
+    "id": "a5ff7b94986ffb6e",
+    "name": "Anzu Strategies (on behalf of Elanco US Inc.)",
+    "requested_url": "https://www.elanco.com/us/about-us/our-story",
+    "status": 200,
+    "final_url": "https://www.elanco.com/us/about-us/our-story",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/32-a5ff7b94986ffb6e.txt",
+    "text_chars": 8380
+  },
+  {
+    "id": "a980130338233e5e",
+    "name": "H Street Law",
+    "requested_url": "https://hstreetlaw.com/terms-conditions",
+    "status": 200,
+    "final_url": "https://hstreetlaw.com/terms-conditions/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/33-a980130338233e5e.txt",
+    "text_chars": 12468
+  },
+  {
+    "id": "a980130338233e5e",
+    "name": "H Street Law",
+    "requested_url": "https://hstreetlaw.com/legal-services/",
+    "status": 200,
+    "final_url": "https://hstreetlaw.com/legal-services/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/34-a980130338233e5e.txt",
+    "text_chars": 2156
+  },
+  {
+    "id": "064671aec2175479",
+    "name": "Kardiogenics, Inc.",
+    "requested_url": "https://www.kardiogenics.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.kardiogenics.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/35-064671aec2175479.txt",
+    "text_chars": 2416
+  },
+  {
+    "id": "064671aec2175479",
+    "name": "Kardiogenics, Inc.",
+    "requested_url": "https://www.kardiogenics.com/terms-and-coniditions",
+    "status": 200,
+    "final_url": "https://www.kardiogenics.com/terms-and-coniditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/36-064671aec2175479.txt",
+    "text_chars": 2669
+  },
+  {
+    "id": "04edec537e8fbda9",
+    "name": "Penske Truck Leasing Company, L.p.",
+    "requested_url": "https://www.pensketruckleasing.com/truck-leasing/leasing-services/legalization-services/",
+    "status": 200,
+    "final_url": "https://www.pensketruckleasing.com/truck-leasing/leasing-services/legalization-services/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/37-04edec537e8fbda9.txt",
+    "text_chars": 11955
+  },
+  {
+    "id": "aa94cbffd0570aec",
+    "name": "Trio Group",
+    "requested_url": "https://www.thinktrio.com/privacy",
+    "status": 200,
+    "final_url": "https://www.thinktrio.com/privacy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/38-aa94cbffd0570aec.txt",
+    "text_chars": 33802
+  },
+  {
+    "id": "aa94cbffd0570aec",
+    "name": "Trio Group",
+    "requested_url": "https://www.thinktrio.com/terms-and-conditions",
+    "status": 200,
+    "final_url": "https://www.thinktrio.com/terms-and-conditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/39-aa94cbffd0570aec.txt",
+    "text_chars": 4170
+  },
+  {
+    "id": "fe402429cd1e77f7",
+    "name": "US Forged Rings Inc.",
+    "requested_url": "https://www.usfr.com/about-3",
+    "status": 200,
+    "final_url": "https://www.usfr.com/about-3",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/40-fe402429cd1e77f7.txt",
+    "text_chars": 1056
+  },
+  {
+    "id": "882da7db2c8d1e6f",
+    "name": "WGC Usa, Inc.",
+    "requested_url": "https://www.gold.org/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.gold.org/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/41-882da7db2c8d1e6f.txt",
+    "text_chars": 41557
+  },
+  {
+    "id": "882da7db2c8d1e6f",
+    "name": "WGC Usa, Inc.",
+    "requested_url": "https://www.gold.org/terms-and-conditions",
+    "status": 200,
+    "final_url": "https://www.gold.org/terms-and-conditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/42-882da7db2c8d1e6f.txt",
+    "text_chars": 24125
+  },
+  {
+    "id": "d2ec9974140b8ce1",
+    "name": "Cochlear North America",
+    "requested_url": "https://www.cochlear.com/corporate/privacy/en",
+    "status": 200,
+    "final_url": "https://www.cochlear.com/global/en/corporate/privacy-notice",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/43-d2ec9974140b8ce1.txt",
+    "text_chars": 51017
+  },
+  {
+    "id": "d2ec9974140b8ce1",
+    "name": "Cochlear North America",
+    "requested_url": "https://www.cochlear.com/us/en/corporate/terms-of-use",
+    "status": 200,
+    "final_url": "https://www.cochlear.com/us/en/corporate/terms-of-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/44-d2ec9974140b8ce1.txt",
+    "text_chars": 39067
+  },
+  {
+    "id": "a3f4a42beedab788",
+    "name": "Materion Brush Inc.",
+    "requested_url": "https://www.materion.com/en/legal/imprint",
+    "status": 200,
+    "final_url": "https://www.materion.com/en/legal/imprint",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/45-a3f4a42beedab788.txt",
+    "text_chars": 4038
+  },
+  {
+    "id": "a3f4a42beedab788",
+    "name": "Materion Brush Inc.",
+    "requested_url": "https://www.materion.com/en/legal/cookie-list",
+    "status": 200,
+    "final_url": "https://www.materion.com/en/legal/cookie-list",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/46-a3f4a42beedab788.txt",
+    "text_chars": 3230
+  },
+  {
+    "id": "3bcd0db6a36051fa",
+    "name": "Opacity Labs, Inc.",
+    "requested_url": "https://opacitylabs.com/newsroom/privacy-policy",
+    "status": 200,
+    "final_url": "https://opacitylabs.com/newsroom/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/47-3bcd0db6a36051fa.txt",
+    "text_chars": 21430
+  },
+  {
+    "id": "3bcd0db6a36051fa",
+    "name": "Opacity Labs, Inc.",
+    "requested_url": "https://opacitylabs.com/newsroom/opacity-terms-conditions",
+    "status": 200,
+    "final_url": "https://opacitylabs.com/newsroom/opacity-terms-conditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-082/48-3bcd0db6a36051fa.txt",
+    "text_chars": 41903
+  }
+]

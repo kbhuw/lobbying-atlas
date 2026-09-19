@@ -1,0 +1,12 @@
+import json,pathlib,gzip
+r=pathlib.Path('work/research-2026');cs={c['id']:c for c in json.load(open(r/'general-round13-b-input.json'))};f=r/'general-round13-b-root-partial.json';p=json.load(open(f))
+def add(k,desc,kind,own,site,url,claim):
+ c=cs[k];v=dict(c.get('profile',{}));v.update(name=c['name'],description=desc,kind=kind,ownership=own,website=site,status='sourced',review_outcome='partial' if own=='Unknown' else 'confirmed',identity_evidence='Official organization source matches disclosed name and activity.',notes='Individually researched using primary organization evidence; filing name retained.'+(' Ownership not established by reviewed sources.' if own=='Unknown' else ''),as_of='2026-09-05',checked_at='2026-09-05',featured=False,legal_form='',logo_url='',logo_kind='',logo_source_url='');v['sources']=v.get('sources',[])
+ if not v['sources']:
+  rid=json.load(gzip.open(f'lobbying-map/public/data/reports/{k[:2]}.json.gz'))[k][0]['id'];v['sources']=[{'url':f'https://lda.gov/filings/public/filing/{rid}/print/','label':'Lobbying disclosure','claim':'Original disclosed client name.'}]
+ v['sources'].append({'url':url,'label':'Official organization evidence','claim':claim});p[k]=v
+add('ea725531ed1faf2f','Likely AMT PostPro, which develops automated finishing equipment for 3D-printed parts; the precise disclosed legal entity remains unconfirmed.','Company','Unknown','https://amtechnologies.com/','https://amtechnologies.com/about-us/','AMT describes additive-manufacturing post-processing products and an Austin, Texas sales operation, consistent with the disclosed industry and state.')
+p['ea725531ed1faf2f']['identity_evidence']='Website domain, additive-manufacturing activity and Texas location support a candidate match; exact legal entity not independently established.'
+add('b293d9ae7302a138','Provides online family-history research, historical records and consumer DNA genealogy services.','Company','Private company','https://www.ancestry.com/','https://www.ancestry.com/corporate/newsroom/press-releases/ancestry-appoints-former-amazon-and-facebook-executives-propel-family','Official 2021 announcement describes Ancestry family-history and consumer genomics services and its 2020 acquisition by Blackstone and GIC.')
+p['b293d9ae7302a138']['review_outcome']='partial';p['b293d9ae7302a138']['notes']+=' Private acquisition is supported by a historical primary source; current ownership has not been independently refreshed.';p['b293d9ae7302a138']['featured']=True
+f.write_text(json.dumps(p,indent=2)+'\n');print(len(p))

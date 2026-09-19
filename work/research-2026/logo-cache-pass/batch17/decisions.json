@@ -1,0 +1,32 @@
+{
+  "accepted": [
+    10,
+    17
+  ],
+  "dark": [],
+  "deferred": {
+    "0": "Law firm logo; exact collaborative branding not established.",
+    "1": "Gildan parent logo, not Hanesbrands branding.",
+    "2": "Gildan parent logo, not Hanesbrands branding.",
+    "3": "Hanwha group logo; exact Azdel branding requires verification.",
+    "4": "Hanwha group logo; exact US energy entity branding requires verification.",
+    "5": "Husky customer logo, not HARTING.",
+    "6": "Hearst Next promotional collage, not corporate logo.",
+    "7": "Download failed; candidate is a station card rather than corporate logo.",
+    "8": "HRS Communities subsite logo; seek main society logo.",
+    "9": "Heartland Forward logo, distinct from Heartland Action.",
+    "11": "HEICO parent logo; exact Parts Group branding not established.",
+    "12": "WVU Medicine system logo; exact hospital entity branding not established.",
+    "13": "Mobile city emblem is too pixelated in downloaded rendering; seek readable official asset.",
+    "14": "Blurred tiny white placeholder image.",
+    "15": "Vehicle product photograph, not logo.",
+    "16": "ECFA accreditation seal, not Holt logo.",
+    "18": "Bank of America sponsor logo, not Bushnell.",
+    "19": "Blank page-builder GIF.",
+    "20": "IMG Academy Plus service logo, not foundation.",
+    "21": "Cultural Center and tourism composite; distinct from marketing corporation.",
+    "22": "Download failed and source is acquiring parent Nokia.",
+    "23": "Current Inc. branding; exact LLC continuity remains unresolved."
+  },
+  "checked_at": "2026-09-10"
+}

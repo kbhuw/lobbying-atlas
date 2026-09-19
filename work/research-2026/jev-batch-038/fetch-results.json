@@ -1,0 +1,1526 @@
+[
+  {
+    "id": "2fa68e309e1ace21",
+    "name": "City of Ojai, California",
+    "requested_url": "https://ojaicity.org/",
+    "error": "<urlopen error [Errno 54] Connection reset by peer>"
+  },
+  {
+    "id": "7503120f5a25f5ef",
+    "name": "City of Reedley, California",
+    "requested_url": "https://reedley.ca.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "b4438253e297ed2d",
+    "name": "Northern Arizona University (via Command Strategies)",
+    "requested_url": "https://nau.edu/",
+    "status": 200,
+    "final_url": "https://nau.edu/",
+    "text_chars": 6303,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-038/b4438253e297ed2d.txt"
+  },
+  {
+    "id": "bd50a21e371edab6",
+    "name": "Eastham Forge, Inc.",
+    "requested_url": "https://easthamforge.com/",
+    "status": 202,
+    "final_url": "https://easthamforge.com/",
+    "text_chars": 79,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-038/bd50a21e371edab6.txt"
+  },
+  {
+    "id": "9be62a259a4b2553",
+    "name": "Environet",
+    "requested_url": "https://www.environetinc.com/index",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.environetinc.com'. (_ssl.c:1129)>"
+  },
+  {
+    "id": "7d2ec2a42bf404a3",
+    "name": "Society for Healthcare Epidemiology of America (SHEA)",
+    "requested_url": "https://shea-online.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "bc5db89a716f9005",
+    "name": "Indelible Business Solutions, Inc.",
+    "requested_url": "https://indelible-solutions.com/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "2963058e740ae12a",
+    "name": "IndeMed",
+    "requested_url": "https://indemed.org/",
+    "status": 202,
+    "final_url": "https://indemed.org/",
+    "text_chars": 62,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-038/2963058e740ae12a.txt"
+  },
+  {
+    "id": "683062fd7751bff7",
+    "name": "Independent Restaurant Coalition",
+    "requested_url": "https://www.independentrestaurantcoalition.com/",
+    "status": 200,
+    "final_url": "https://www.independentrestaurantcoalition.com/",
+    "text_chars": 6499,
+    "logo_candidates": [
+      {
+        "src": "https://assets.nationbuilder.com/irc/sites/2/meta_images/original/IRC_logo-cmyk.jpg?1696005941",
+        "class": "navbar-brand-image",
+        "alt": "Independent Restaurant Coalition"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-038/683062fd7751bff7.txt"
+  },
+  {
+    "id": "ed39531083898b29",
+    "name": "Inquisit, LLC",
+    "requested_url": "https://www.inquisitllc.com/",
+    "status": 200,
+    "final_url": "https://www.inquisitllc.com/",
+    "text_chars": 4622,
+    "logo_candidates": [
+      {
+        "src": "https://www.inquisitllc.com/wp-content/uploads/elementor/thumbs/InquisIT-White-logo-omf76wl69ypg7athw41bx1cls5j87fr1q5h2k9a1og.png",
+        "title": "InquisIT White logo",
+        "alt": "InquisIT White logo",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://www.inquisitllc.com/wp-content/uploads/2020/05/EXIM-logo-1024x1022.png",
+        "alt": "EXIM"
+      },
+      {
+        "width": "562",
+        "height": "188",
+        "src": "https://www.inquisitllc.com/wp-content/uploads/2020/03/InquisIT-White-logo.png",
+        "class": "attachment-large size-large wp-image-795",
+        "alt": "",
+        "loading": "lazy",
+        "srcset": "https://www.inquisitllc.com/wp-content/uploads/2020/03/InquisIT-White-logo.png 562w, https://www.inquisitllc.com/wp-content/uploads/2020/03/InquisIT-White-logo-300x100.png 300w",
+        "sizes": "(max-width: 562px) 100vw, 562px"
+      },
+      {
+        "width": "562",
+        "height": "188",
+        "src": "https://www.inquisitllc.com/wp-content/uploads/2020/03/InquisIT-White-logo.png",
+        "class": "attachment-large size-large wp-image-795",
+        "alt": "",
+        "loading": "lazy",
+        "srcset": "https://www.inquisitllc.com/wp-content/uploads/2020/03/InquisIT-White-logo.png 562w, https://www.inquisitllc.com/wp-content/uploads/2020/03/InquisIT-White-logo-300x100.png 300w",
+        "sizes": "(max-width: 562px) 100vw, 562px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-038/ed39531083898b29.txt"
+  },
+  {
+    "id": "b316b860098202cf",
+    "name": "Lwrc International LLC",
+    "requested_url": "https://lwrci.com/",
+    "status": 200,
+    "final_url": "https://www.lwrci.com/",
+    "text_chars": 1866,
+    "logo_candidates": [
+      {
+        "src": "assets/images/lwrc-logo.jpg",
+        "alt": "lwrci.com"
+      },
+      {
+        "src": "assets/images/thumbnails/thumbnails/2025Patches_intro_thumbnail.jpg",
+        "alt": "LWRCI LOGO PATCH",
+        "class": "img-responsive"
+      },
+      {
+        "src": "_e/spx/v1/img/logo.png",
+        "width": "0",
+        "alt": "Logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-038/b316b860098202cf.txt"
+  },
+  {
+    "id": "6a099b96ef6111dc",
+    "name": "Lytton Band of Pomo Indians",
+    "requested_url": "https://www.lyttonrancheria.com/",
+    "status": 200,
+    "final_url": "https://www.lyttonrancheria.com/",
+    "text_chars": 1395,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-038/6a099b96ef6111dc.txt"
+  },
+  {
+    "id": "eb1160887bc90f40",
+    "name": "Maricopa Stanfield Irrigation & Drainage District",
+    "requested_url": "https://www.msid.org/",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.msid.org'. (_ssl.c:1129)>"
+  },
+  {
+    "id": "2b39180d6fea8bff",
+    "name": "Morvillo Abramowitz Grand Iason & Anello PC O/b/o Bancamiga Banco Universal, CA",
+    "requested_url": "https://www.maglaw.com/",
+    "status": 200,
+    "final_url": "https://www.maglaw.com/",
+    "text_chars": 2494,
+    "logo_candidates": [
+      {
+        "src": "/images/layout/logo-print.png"
+      },
+      {
+        "src": "/assets/library/banner-50-years/_res/id=Picture/logo-white.svg",
+        "alt": "logo-white.svg",
+        "class": "img-fluid w-100",
+        "loading": "lazy"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-038/2b39180d6fea8bff.txt"
+  },
+  {
+    "id": "f4d0a973d571a2bd",
+    "name": "National Association of Boards of Pharmacy",
+    "requested_url": "https://nabp.pharmacy/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "e36c95a039d0901f",
+    "name": "Noble Biomaterials",
+    "requested_url": "https://noblebiomaterials.com/about/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "0e4dba7bcef4695d",
+    "name": "Nusano, Inc.",
+    "requested_url": "https://nusano.com/",
+    "status": 200,
+    "final_url": "https://nusano.com/",
+    "text_chars": 4224,
+    "logo_candidates": [
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "601",
+        "height": "338",
+        "src": "https://nusano.com/wp-content/uploads/2026/03/biohive-visit.jpg",
+        "class": "skip-lazy wp-post-image",
+        "alt": "Nusano building with BioHive logo",
+        "srcset": "https://nusano.com/wp-content/uploads/2026/03/biohive-visit.jpg 601w, https://nusano.com/wp-content/uploads/2026/03/biohive-visit-480x270.jpg 480w",
+        "sizes": "(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 601px, 100vw"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "750",
+        "height": "422",
+        "src": "https://nusano.com/wp-content/uploads/2026/03/Presentation1.jpg",
+        "class": "skip-lazy wp-post-image",
+        "alt": "Wilson Sonsini Entrepreneur and Investor Life Sciences Summit logo",
+        "srcset": "https://nusano.com/wp-content/uploads/2026/03/Presentation1.jpg 750w, https://nusano.com/wp-content/uploads/2026/03/Presentation1-480x270.jpg 480w",
+        "sizes": "(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 750px, 100vw"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-038/0e4dba7bcef4695d.txt"
+  },
+  {
+    "id": "ca752e70c3b9dfc3",
+    "name": "City of Oceanside",
+    "requested_url": "https://www.ci.oceanside.ca.us/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "48bc17a64537e12f",
+    "name": "Prairie Band Potawatomi Nation",
+    "requested_url": "https://www.pbpindiantribe.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "47ee50c08f054aee",
+    "name": "Printelect (Owen G. Dunn Co., Inc.)",
+    "requested_url": "https://printelect.com/",
+    "status": 200,
+    "final_url": "https://printelect.com/",
+    "text_chars": 8365,
+    "logo_candidates": [
+      {
+        "src": "//printelect.com/cdn/shop/files/Printelect_Logo_160x53.png?v=1764698020",
+        "alt": "",
+        "data-rimg": null,
+        "srcset": "//printelect.com/cdn/shop/files/Printelect_Logo_160x53.png?v=1764698020 1x",
+        "class": "site-logo-image",
+        "style": "\n        object-fit:cover;object-position:50.0% 50.0%;\n      \n"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-038/47ee50c08f054aee.txt"
+  },
+  {
+    "id": "151e41446dcbeddc",
+    "name": "Primary Marking Systems, Inc.",
+    "requested_url": "https://primarymarking.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+  },
+  {
+    "id": "563756bad1fb36fe",
+    "name": "Priority Outdoor Products, Inc.",
+    "requested_url": "https://prioritybicycles.com/",
+    "status": 200,
+    "final_url": "https://www.prioritybicycles.com/",
+    "text_chars": 8791,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-038/563756bad1fb36fe.txt"
+  },
+  {
+    "id": "d6d213224b4a212a",
+    "name": "R2 Wireless, Inc.",
+    "requested_url": "https://r2-wireless.com/",
+    "status": 200,
+    "final_url": "https://r2-wireless.com/",
+    "text_chars": 7574,
+    "logo_candidates": [
+      {
+        "width": "64",
+        "height": "52",
+        "src": "https://r2-wireless.com/wp-content/uploads/2024/03/header-logo.png",
+        "class": "custom-logo",
+        "alt": "R2-Wireless",
+        "decoding": "async",
+        "srcset": "https://r2-wireless.com/wp-content/uploads/2024/03/header-logo.png 2872w, https://r2-wireless.com/wp-content/uploads/2024/03/header-logo-300x248.png 300w, https://r2-wireless.com/wp-content/uploads/2024/03/header-logo-1024x848.png 1024w, https://r2-wireless.com/wp-content/uploads/2024/03/header-logo-768x636.png 768w, https://r2-wireless.com/wp-content/uploads/2024/03/header-logo-1536x1272.png 1536w, https://r2-wireless.com/wp-content/uploads/2024/03/header-logo-2048x1696.png 2048w",
+        "sizes": "(max-width: 64px) 100vw, 64px"
+      },
+      {
+        "decoding": "async",
+        "src": "/wp-content/uploads/2024/03/footer-logo-1024x848.png",
+        "alt": "",
+        "class": "wp-image-527"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-038/d6d213224b4a212a.txt"
+  },
+  {
+    "id": "33e5909468b65977",
+    "name": "Rural Multifamily Lenders Council, Inc.",
+    "requested_url": "https://rmlc.org/",
+    "status": 200,
+    "final_url": "https://www.rmlc.org/",
+    "text_chars": 1965,
+    "logo_candidates": [
+      {
+        "src": "https://www.rmlc.org/wp-content/uploads/2024/04/RMLC-Logo-with-Slogan.png",
+        "alt": "",
+        "width": "1559",
+        "height": "346",
+        "title": "RMLC Logo with Slogan"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-038/33e5909468b65977.txt"
+  },
+  {
+    "id": "04d18526e85042e9",
+    "name": "Sabre Glbl Inc",
+    "requested_url": "https://www.sabre.com/",
+    "status": 200,
+    "final_url": "https://www.sabre.com/",
+    "text_chars": 152,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-038/04d18526e85042e9.txt"
+  },
+  {
+    "id": "ea3746c4e19c5174",
+    "name": "South Carolina House Calls, Inc.",
+    "requested_url": "https://www.schousecalls.com/",
+    "status": 200,
+    "final_url": "https://www.yourhealth.org/",
+    "text_chars": 7968,
+    "logo_candidates": [
+      {
+        "elementtiming": "nbf-header-logo-desktop",
+        "src": "//images.squarespace-cdn.com/content/v1/65396456329ded6b993f60e7/cfe3353c-e3d7-431b-a1f6-6af3aa42d468/YOUR_HEALTH_Logo_Two+Blues.png?format=1500w",
+        "alt": "Your Health Organization",
+        "style": "display:block",
+        "fetchpriority": "high",
+        "loading": "eager",
+        "decoding": "async",
+        "data-loader": "raw"
+      },
+      {
+        "elementtiming": "nbf-header-logo-desktop",
+        "src": "//images.squarespace-cdn.com/content/v1/65396456329ded6b993f60e7/cfe3353c-e3d7-431b-a1f6-6af3aa42d468/YOUR_HEALTH_Logo_Two+Blues.png?format=1500w",
+        "alt": "Your Health Organization",
+        "style": "display:block",
+        "fetchpriority": "high",
+        "loading": "eager",
+        "decoding": "async",
+        "data-loader": "raw"
+      },
+      {
+        "data-image-focal-point": "0.5,0.5",
+        "alt": "Your Health Web Elements_Logo_Staple Blue_with Background.png",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/65396456329ded6b993f60e7/4f472a54-e50c-43c1-a0e9-c783f1988a49/Your+Health+Web+Elements_Logo_Staple+Blue_with+Background.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/65396456329ded6b993f60e7/4f472a54-e50c-43c1-a0e9-c783f1988a49/Your+Health+Web+Elements_Logo_Staple+Blue_with+Background.png",
+        "data-image-dimensions": "2084x2084",
+        "class": "user-items-list-carousel__media",
+        "data-load": "false",
+        "data-mode": "cover",
+        "data-use-advanced-positioning": "true",
+        "elementtiming": "nbf-list-carousel"
+      },
+      {
+        "data-stretch": "false",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/65396456329ded6b993f60e7/cfe3353c-e3d7-431b-a1f6-6af3aa42d468/YOUR_HEALTH_Logo_Two+Blues.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/65396456329ded6b993f60e7/cfe3353c-e3d7-431b-a1f6-6af3aa42d468/YOUR_HEALTH_Logo_Two+Blues.png",
+        "data-image-dimensions": "1507x602",
+        "data-image-focal-point": "0.5,0.5",
+        "data-sqsp-image-block-image": null,
+        "alt": "",
+        "data-licensed-asset-preview": "false",
+        "data-load": "false",
+        "elementtiming": "system-image-block",
+        "src": "https://images.squarespace-cdn.com/content/v1/65396456329ded6b993f60e7/cfe3353c-e3d7-431b-a1f6-6af3aa42d468/YOUR_HEALTH_Logo_Two+Blues.png",
+        "width": "1507",
+        "height": "602",
+        "sizes": "auto, (max-width: 640px) 100.00vw, (max-width: 767px) 75.00vw, 20.83vw",
+        "style": "display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);",
+        "srcset": "https://images.squarespace-cdn.com/content/v1/65396456329ded6b993f60e7/cfe3353c-e3d7-431b-a1f6-6af3aa42d468/YOUR_HEALTH_Logo_Two+Blues.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/65396456329ded6b993f60e7/cfe3353c-e3d7-431b-a1f6-6af3aa42d468/YOUR_HEALTH_Logo_Two+Blues.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/65396456329ded6b993f60e7/cfe3353c-e3d7-431b-a1f6-6af3aa42d468/YOUR_HEALTH_Logo_Two+Blues.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/65396456329ded6b993f60e7/cfe3353c-e3d7-431b-a1f6-6af3aa42d468/YOUR_HEALTH_Logo_Two+Blues.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/65396456329ded6b993f60e7/cfe3353c-e3d7-431b-a1f6-6af3aa42d468/YOUR_HEALTH_Logo_Two+Blues.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/65396456329ded6b993f60e7/cfe3353c-e3d7-431b-a1f6-6af3aa42d468/YOUR_HEALTH_Logo_Two+Blues.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/65396456329ded6b993f60e7/cfe3353c-e3d7-431b-a1f6-6af3aa42d468/YOUR_HEALTH_Logo_Two+Blues.png?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs",
+        "data-image-component": "1.0.1"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-038/ea3746c4e19c5174.txt"
+  },
+  {
+    "id": "9e866f0033c4575f",
+    "name": "Sutter Butte Flood Control Agency",
+    "requested_url": "https://sutterbutteflood.org/",
+    "status": 200,
+    "final_url": "https://sutterbutteflood.org/",
+    "text_chars": 2217,
+    "logo_candidates": [
+      {
+        "src": "images/SBFCA-Logo.png",
+        "class": "img-fluid p-2",
+        "alt": "Sutter Butte Flood Control Agency logo"
+      },
+      {
+        "src": "admin/upload/october-2018-yc-er-work-250px.jpg",
+        "class": "img-fluid",
+        "alt": "Sutter Butte Flood Control Agency logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-038/9e866f0033c4575f.txt"
+  },
+  {
+    "id": "39d99d9ffb2f4e69",
+    "name": "UTHealth Houston",
+    "requested_url": "https://www.uth.edu/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "156e246a055aabd4",
+    "name": "Village of Pinecrest, FL",
+    "requested_url": "https://www.pinecrest-fl.gov/Home",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "f36c58bb5006ecac",
+    "name": "City of Richland, Washington",
+    "requested_url": "https://richlandwa.gov",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "76bf86c721f5722f",
+    "name": "City of Richlands, Virginia",
+    "requested_url": "https://richlands-va.gov",
+    "error": "<urlopen error [SSL: SSLV3_ALERT_HANDSHAKE_FAILURE] sslv3 alert handshake failure (_ssl.c:1129)>"
+  },
+  {
+    "id": "4a8081db0188e2c2",
+    "name": "Collier County, Florida",
+    "requested_url": "https://www.colliercountyfl.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "8de9fd949693c3e7",
+    "name": "American Sugar Alliance (via Combest, Sell and Associates)",
+    "requested_url": "https://sugaralliance.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "12ee893e54bc5fb3",
+    "name": "DailyPay Inc.",
+    "requested_url": "https://www.dailypay.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "321f99445b962d00",
+    "name": "Glass Aviation Holdings, Inc. (d/b/a Airspace Data)",
+    "requested_url": "https://www.airspacedata.com/",
+    "status": 200,
+    "final_url": "https://www.airspacedata.com/",
+    "text_chars": 571,
+    "logo_candidates": [
+      {
+        "elementtiming": "nbf-header-logo-desktop",
+        "src": "//images.squarespace-cdn.com/content/v1/677c0d921760ce15ce82747a/e755c2c1-0c6c-4648-8d96-6be6f995f392/logo_white_NEW.png?format=1500w",
+        "alt": "Airspace Data ",
+        "style": "display:block",
+        "fetchpriority": "high",
+        "loading": "eager",
+        "decoding": "async",
+        "data-loader": "raw"
+      },
+      {
+        "elementtiming": "nbf-header-logo-desktop",
+        "src": "//images.squarespace-cdn.com/content/v1/677c0d921760ce15ce82747a/e755c2c1-0c6c-4648-8d96-6be6f995f392/logo_white_NEW.png?format=1500w",
+        "alt": "Airspace Data ",
+        "style": "display:block",
+        "fetchpriority": "high",
+        "loading": "eager",
+        "decoding": "async",
+        "data-loader": "raw"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-038/321f99445b962d00.txt"
+  },
+  {
+    "id": "8f8e96dd40869b65",
+    "name": "Global Training Institute",
+    "requested_url": "https://globaltraining.institute/",
+    "status": 200,
+    "final_url": "https://globaltraining.institute/",
+    "text_chars": 146,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-038/8f8e96dd40869b65.txt"
+  },
+  {
+    "id": "f1523e1633065f72",
+    "name": "Great Gray Trust Company, LLC",
+    "requested_url": "https://www.greatgray.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "897353024f49f5fb",
+    "name": "IM Telecom, LLC",
+    "requested_url": "https://imtelecom.com/",
+    "status": 200,
+    "final_url": "https://imtelecom.com/",
+    "text_chars": 72,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-038/897353024f49f5fb.txt"
+  },
+  {
+    "id": "d7f3c3e2c36b9735",
+    "name": "Invisio Communications",
+    "requested_url": "https://invisio.com/",
+    "status": 200,
+    "final_url": "https://invisio.com/",
+    "text_chars": 10414,
+    "logo_candidates": [
+      {
+        "class": "img-fluid",
+        "src": "/media/zxgko25f/logo.png",
+        "alt": "Invisio",
+        "width": "96",
+        "height": "24",
+        "onerror": "this.onerror=null; this.src='/media/zxgko25f/logo.png'",
+        "fetchpriority": "high"
+      },
+      {
+        "class": "img-fluid",
+        "src": "/media/odid0y4b/logo-black.png",
+        "alt": "Invisio",
+        "width": "96",
+        "height": "24",
+        "onerror": "this.onerror=null; this.src='/media/odid0y4b/logo-black.png'"
+      },
+      {
+        "class": "img-fluid",
+        "src": "/media/zxgko25f/logo.png",
+        "fetchpriority": "high",
+        "alt": "Invisio",
+        "onerror": "this.onerror=null; this.src='/media/zxgko25f/logo.png'"
+      },
+      {
+        "class": "img-fluid",
+        "src": "/media/odid0y4b/logo-black.png",
+        "alt": "Invisio",
+        "onerror": "this.onerror=null; this.src='/media/odid0y4b/logo-black.png'",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/odid0y4b/logo-black.png",
+        "alt": "Logo Black",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/odid0y4b/logo-black.png",
+        "alt": "Logo Black",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/odid0y4b/logo-black.png",
+        "alt": "Logo Black",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/odid0y4b/logo-black.png",
+        "alt": "Logo Black",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/gnjnb3dz/racal-acoustics_logo_black_black-rings_large.png",
+        "alt": "Racal Acoustics Logo Black Black Rings Large",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/gnjnb3dz/racal-acoustics_logo_black_black-rings_large.png",
+        "alt": "Racal Acoustics Logo Black Black Rings Large",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/odid0y4b/logo-black.png",
+        "alt": "Logo Black",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/gnjnb3dz/racal-acoustics_logo_black_black-rings_large.png",
+        "alt": "Racal Acoustics Logo Black Black Rings Large",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/gnjnb3dz/racal-acoustics_logo_black_black-rings_large.png",
+        "alt": "Racal Acoustics Logo Black Black Rings Large",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/gnjnb3dz/racal-acoustics_logo_black_black-rings_large.png",
+        "alt": "Racal Acoustics Logo Black Black Rings Large",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/odid0y4b/logo-black.png",
+        "alt": "Logo Black",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/odid0y4b/logo-black.png",
+        "alt": "Logo Black",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/odid0y4b/logo-black.png",
+        "alt": "Logo Black",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/odid0y4b/logo-black.png",
+        "alt": "Logo Black",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/odid0y4b/logo-black.png",
+        "alt": "Logo Black",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/odid0y4b/logo-black.png",
+        "alt": "Logo Black",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/odid0y4b/logo-black.png",
+        "alt": "Logo Black",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/odid0y4b/logo-black.png",
+        "alt": "Logo Black",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/odid0y4b/logo-black.png",
+        "alt": "Logo Black",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/odid0y4b/logo-black.png",
+        "alt": "Logo Black",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/odid0y4b/logo-black.png",
+        "alt": "Logo Black",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/odid0y4b/logo-black.png",
+        "alt": "Logo Black",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/odid0y4b/logo-black.png",
+        "alt": "Logo Black",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/odid0y4b/logo-black.png",
+        "alt": "Logo Black",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/odid0y4b/logo-black.png",
+        "alt": "Logo Black",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/odid0y4b/logo-black.png",
+        "alt": "Logo Black",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/odid0y4b/logo-black.png",
+        "alt": "Logo Black",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/odid0y4b/logo-black.png",
+        "alt": "Logo Black",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/odid0y4b/logo-black.png",
+        "alt": "Logo Black",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/odid0y4b/logo-black.png",
+        "alt": "Logo Black",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/odid0y4b/logo-black.png",
+        "alt": "Logo Black",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/odid0y4b/logo-black.png",
+        "alt": "Logo Black",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/odid0y4b/logo-black.png",
+        "alt": "Logo Black",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/odid0y4b/logo-black.png",
+        "alt": "Logo Black",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/odid0y4b/logo-black.png",
+        "alt": "Logo Black",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/odid0y4b/logo-black.png",
+        "alt": "Logo Black",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/odid0y4b/logo-black.png",
+        "alt": "Logo Black",
+        "loading": "lazy"
+      },
+      {
+        "src": "/media/odid0y4b/logo-black.png",
+        "alt": "Logo Black",
+        "loading": "lazy"
+      },
+      {
+        "class": "img-fluid",
+        "src": "/media/odid0y4b/logo-black.png?format=webp&quality=50&v=1d8a8c67fc15fc0",
+        "alt": "Logo Black",
+        "loading": "lazy"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-038/d7f3c3e2c36b9735.txt"
+  },
+  {
+    "id": "b44e9fc45315e721",
+    "name": "Kadesh & Associates on Behalf of California High Speed Rail Authority",
+    "requested_url": "https://hsr.ca.gov/",
+    "status": 200,
+    "final_url": "https://hsr.ca.gov/",
+    "text_chars": 123,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-038/b44e9fc45315e721.txt"
+  },
+  {
+    "id": "18a4eba50214cb49",
+    "name": "KEY Benefit Administrators",
+    "requested_url": "https://www.keybenefit.com/",
+    "status": 202,
+    "final_url": "https://www.keybenefit.com/",
+    "text_chars": 88,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-038/18a4eba50214cb49.txt"
+  },
+  {
+    "id": "1fcbbd5b6c8214b4",
+    "name": "KO Consulting on Behalf of Golden String, Inc.",
+    "requested_url": "https://goldenstringinc.org/",
+    "status": 202,
+    "final_url": "https://goldenstringinc.org/",
+    "text_chars": 109,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-038/1fcbbd5b6c8214b4.txt"
+  },
+  {
+    "id": "3fdee841d85999d0",
+    "name": "Middlesex County, New Jersey",
+    "requested_url": "https://www.middlesexcountynj.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "450dc1e5ff57ad47",
+    "name": "Midland County, Texas",
+    "requested_url": "https://www.midlandcountytx.gov/",
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  {
+    "id": "51656cd298a59c90",
+    "name": "National Board for Health and Wellness Coaching",
+    "requested_url": "https://nbhwc.org/",
+    "status": 200,
+    "final_url": "https://nbhwc.org/",
+    "text_chars": 10263,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "width": "285",
+        "height": "285",
+        "src": "https://nbhwc.org/wp-content/uploads/2023/02/new-logo.png",
+        "class": "attachment-large size-large wp-image-513",
+        "alt": "",
+        "srcset": "https://nbhwc.org/wp-content/uploads/2023/02/new-logo.png 285w, https://nbhwc.org/wp-content/uploads/2023/02/new-logo-150x150.png 150w",
+        "sizes": "(max-width: 285px) 100vw, 285px"
+      },
+      {
+        "width": "285",
+        "height": "285",
+        "src": "https://nbhwc.org/wp-content/uploads/2023/02/new-logo.png",
+        "class": "attachment-large size-large wp-image-513",
+        "alt": "",
+        "srcset": "https://nbhwc.org/wp-content/uploads/2023/02/new-logo.png 285w, https://nbhwc.org/wp-content/uploads/2023/02/new-logo-150x150.png 150w",
+        "sizes": "(max-width: 285px) 100vw, 285px"
+      },
+      {
+        "width": "716",
+        "height": "200",
+        "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20716%20200'%3E%3C/svg%3E",
+        "class": "attachment-large size-large wp-image-148",
+        "alt": "Filler Logo",
+        "data-lazy-srcset": "https://nbhwc.org/wp-content/uploads/2023/02/circle.png 716w, https://nbhwc.org/wp-content/uploads/2023/02/circle-300x84.png 300w",
+        "data-lazy-sizes": "(max-width: 716px) 100vw, 716px",
+        "data-lazy-src": "https://nbhwc.org/wp-content/uploads/2023/02/circle.png"
+      },
+      {
+        "width": "716",
+        "height": "200",
+        "src": "https://nbhwc.org/wp-content/uploads/2023/02/circle.png",
+        "class": "attachment-large size-large wp-image-148",
+        "alt": "Filler Logo",
+        "srcset": "https://nbhwc.org/wp-content/uploads/2023/02/circle.png 716w, https://nbhwc.org/wp-content/uploads/2023/02/circle-300x84.png 300w",
+        "sizes": "(max-width: 716px) 100vw, 716px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-038/51656cd298a59c90.txt"
+  },
+  {
+    "id": "5e28986f652fe9ca",
+    "name": "National Grid USA",
+    "requested_url": "https://www.nationalgrid.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "3e91c46e61cc5396",
+    "name": "National Hockey League Players Association",
+    "requested_url": "https://www.nhlpa.com/",
+    "status": 200,
+    "final_url": "https://www.nhlpa.com/",
+    "text_chars": 5206,
+    "logo_candidates": [
+      {
+        "alt": "Amazon Fulfillment logo all white",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F59a2fbfe0505198c623c812b477c217c20e2bca7-1104x621.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F59a2fbfe0505198c623c812b477c217c20e2bca7-1104x621.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F59a2fbfe0505198c623c812b477c217c20e2bca7-1104x621.png&w=1200&q=75"
+      },
+      {
+        "alt": "Apple logo white",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fb4d5ada89fb17a22ffb4866aa3b4ad263f22f566-1104x621.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fb4d5ada89fb17a22ffb4866aa3b4ad263f22f566-1104x621.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fb4d5ada89fb17a22ffb4866aa3b4ad263f22f566-1104x621.png&w=1200&q=75"
+      },
+      {
+        "alt": "AstraZenica logo white",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fb12525c472e56ca5ffe9c966f013af7dbe92e329-1104x621.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fb12525c472e56ca5ffe9c966f013af7dbe92e329-1104x621.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fb12525c472e56ca5ffe9c966f013af7dbe92e329-1104x621.png&w=1200&q=75"
+      },
+      {
+        "alt": "BodyArmor Super Drink white logo",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fdc7fc1da244a211c4d1f096d02bcaedf6b1e3bf5-448x177.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fdc7fc1da244a211c4d1f096d02bcaedf6b1e3bf5-448x177.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fdc7fc1da244a211c4d1f096d02bcaedf6b1e3bf5-448x177.png&w=1200&q=75"
+      },
+      {
+        "alt": "Chipotle Mexican Grill white logo",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F97aeedeb78e0572e813b296822edac601df5b4f2-448x177.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F97aeedeb78e0572e813b296822edac601df5b4f2-448x177.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F97aeedeb78e0572e813b296822edac601df5b4f2-448x177.png&w=1200&q=75"
+      },
+      {
+        "alt": "Enterprise Rent a Car white logo",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fdb4a2c67bb854409d2e51f15ab942ce82cd62f07-448x177.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fdb4a2c67bb854409d2e51f15ab942ce82cd62f07-448x177.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fdb4a2c67bb854409d2e51f15ab942ce82cd62f07-448x177.png&w=1200&q=75"
+      },
+      {
+        "alt": "Great Clips white logo",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fc5f220034e647cf54282b54f4632c5f7fff0ded2-1104x621.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fc5f220034e647cf54282b54f4632c5f7fff0ded2-1104x621.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fc5f220034e647cf54282b54f4632c5f7fff0ded2-1104x621.png&w=1200&q=75"
+      },
+      {
+        "alt": "Hyundai logo white",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fe7a9c97c2195ed649cc920be4b0f65522566fb69-1104x621.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fe7a9c97c2195ed649cc920be4b0f65522566fb69-1104x621.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fe7a9c97c2195ed649cc920be4b0f65522566fb69-1104x621.png&w=1200&q=75"
+      },
+      {
+        "alt": "Kraft Heinz logo white",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F9d053d787bc4fec3c41b31aaa7101673bbb14f9b-448x177.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F9d053d787bc4fec3c41b31aaa7101673bbb14f9b-448x177.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F9d053d787bc4fec3c41b31aaa7101673bbb14f9b-448x177.png&w=1200&q=75"
+      },
+      {
+        "alt": "MassMutul white logo",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F9dedb594c267d2c05a6c6ba27ebaf5fc1308f17f-448x177.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F9dedb594c267d2c05a6c6ba27ebaf5fc1308f17f-448x177.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F9dedb594c267d2c05a6c6ba27ebaf5fc1308f17f-448x177.png&w=1200&q=75"
+      },
+      {
+        "alt": "Mondeleze International logo white",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fb5dfb1d8dab66694b46897f8b5cf9ca5d71701ad-736x414.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fb5dfb1d8dab66694b46897f8b5cf9ca5d71701ad-736x414.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fb5dfb1d8dab66694b46897f8b5cf9ca5d71701ad-736x414.png&w=1200&q=75"
+      },
+      {
+        "alt": "Pepsi white logo",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F6728219b3e71062591a36b42393f0589f04a82a0-448x177.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F6728219b3e71062591a36b42393f0589f04a82a0-448x177.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F6728219b3e71062591a36b42393f0589f04a82a0-448x177.png&w=1200&q=75"
+      },
+      {
+        "alt": "Rogers white logo",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F56a8ce9ede4a31e84d1ff0e531c05623e79d3eb8-448x177.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F56a8ce9ede4a31e84d1ff0e531c05623e79d3eb8-448x177.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F56a8ce9ede4a31e84d1ff0e531c05623e79d3eb8-448x177.png&w=1200&q=75"
+      },
+      {
+        "alt": "SAP white logo",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fc4b96ef27955784d8058f9f6879fdddaedd8dd1d-448x177.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fc4b96ef27955784d8058f9f6879fdddaedd8dd1d-448x177.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fc4b96ef27955784d8058f9f6879fdddaedd8dd1d-448x177.png&w=1200&q=75"
+      },
+      {
+        "alt": "Sonnet Home + Auto white logo",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F4a144f58e7246c903b13c4fffa7e373427e25cca-448x177.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F4a144f58e7246c903b13c4fffa7e373427e25cca-448x177.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F4a144f58e7246c903b13c4fffa7e373427e25cca-448x177.png&w=1200&q=75"
+      },
+      {
+        "alt": "Time Hortons white logo",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F334c7138a23e6588fc10c4fd81619e7955e3547e-448x177.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F334c7138a23e6588fc10c4fd81619e7955e3547e-448x177.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F334c7138a23e6588fc10c4fd81619e7955e3547e-448x177.png&w=1200&q=75"
+      },
+      {
+        "alt": "Tylenol white logo",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F89962ad70dd558a358e0b4aca37ced26f3cc670e-448x177.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F89962ad70dd558a358e0b4aca37ced26f3cc670e-448x177.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F89962ad70dd558a358e0b4aca37ced26f3cc670e-448x177.png&w=1200&q=75"
+      },
+      {
+        "alt": "Amazon Fulfillment logo all white",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F59a2fbfe0505198c623c812b477c217c20e2bca7-1104x621.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F59a2fbfe0505198c623c812b477c217c20e2bca7-1104x621.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F59a2fbfe0505198c623c812b477c217c20e2bca7-1104x621.png&w=1200&q=75"
+      },
+      {
+        "alt": "Apple logo white",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fb4d5ada89fb17a22ffb4866aa3b4ad263f22f566-1104x621.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fb4d5ada89fb17a22ffb4866aa3b4ad263f22f566-1104x621.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fb4d5ada89fb17a22ffb4866aa3b4ad263f22f566-1104x621.png&w=1200&q=75"
+      },
+      {
+        "alt": "AstraZenica logo white",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fb12525c472e56ca5ffe9c966f013af7dbe92e329-1104x621.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fb12525c472e56ca5ffe9c966f013af7dbe92e329-1104x621.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fb12525c472e56ca5ffe9c966f013af7dbe92e329-1104x621.png&w=1200&q=75"
+      },
+      {
+        "alt": "BodyArmor Super Drink white logo",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fdc7fc1da244a211c4d1f096d02bcaedf6b1e3bf5-448x177.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fdc7fc1da244a211c4d1f096d02bcaedf6b1e3bf5-448x177.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fdc7fc1da244a211c4d1f096d02bcaedf6b1e3bf5-448x177.png&w=1200&q=75"
+      },
+      {
+        "alt": "Chipotle Mexican Grill white logo",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F97aeedeb78e0572e813b296822edac601df5b4f2-448x177.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F97aeedeb78e0572e813b296822edac601df5b4f2-448x177.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F97aeedeb78e0572e813b296822edac601df5b4f2-448x177.png&w=1200&q=75"
+      },
+      {
+        "alt": "Enterprise Rent a Car white logo",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fdb4a2c67bb854409d2e51f15ab942ce82cd62f07-448x177.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fdb4a2c67bb854409d2e51f15ab942ce82cd62f07-448x177.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fdb4a2c67bb854409d2e51f15ab942ce82cd62f07-448x177.png&w=1200&q=75"
+      },
+      {
+        "alt": "Great Clips white logo",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fc5f220034e647cf54282b54f4632c5f7fff0ded2-1104x621.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fc5f220034e647cf54282b54f4632c5f7fff0ded2-1104x621.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fc5f220034e647cf54282b54f4632c5f7fff0ded2-1104x621.png&w=1200&q=75"
+      },
+      {
+        "alt": "Hyundai logo white",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fe7a9c97c2195ed649cc920be4b0f65522566fb69-1104x621.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fe7a9c97c2195ed649cc920be4b0f65522566fb69-1104x621.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fe7a9c97c2195ed649cc920be4b0f65522566fb69-1104x621.png&w=1200&q=75"
+      },
+      {
+        "alt": "Kraft Heinz logo white",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F9d053d787bc4fec3c41b31aaa7101673bbb14f9b-448x177.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F9d053d787bc4fec3c41b31aaa7101673bbb14f9b-448x177.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F9d053d787bc4fec3c41b31aaa7101673bbb14f9b-448x177.png&w=1200&q=75"
+      },
+      {
+        "alt": "MassMutul white logo",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F9dedb594c267d2c05a6c6ba27ebaf5fc1308f17f-448x177.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F9dedb594c267d2c05a6c6ba27ebaf5fc1308f17f-448x177.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F9dedb594c267d2c05a6c6ba27ebaf5fc1308f17f-448x177.png&w=1200&q=75"
+      },
+      {
+        "alt": "Mondeleze International logo white",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fb5dfb1d8dab66694b46897f8b5cf9ca5d71701ad-736x414.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fb5dfb1d8dab66694b46897f8b5cf9ca5d71701ad-736x414.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fb5dfb1d8dab66694b46897f8b5cf9ca5d71701ad-736x414.png&w=1200&q=75"
+      },
+      {
+        "alt": "Pepsi white logo",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F6728219b3e71062591a36b42393f0589f04a82a0-448x177.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F6728219b3e71062591a36b42393f0589f04a82a0-448x177.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F6728219b3e71062591a36b42393f0589f04a82a0-448x177.png&w=1200&q=75"
+      },
+      {
+        "alt": "Rogers white logo",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F56a8ce9ede4a31e84d1ff0e531c05623e79d3eb8-448x177.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F56a8ce9ede4a31e84d1ff0e531c05623e79d3eb8-448x177.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F56a8ce9ede4a31e84d1ff0e531c05623e79d3eb8-448x177.png&w=1200&q=75"
+      },
+      {
+        "alt": "SAP white logo",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fc4b96ef27955784d8058f9f6879fdddaedd8dd1d-448x177.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fc4b96ef27955784d8058f9f6879fdddaedd8dd1d-448x177.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fc4b96ef27955784d8058f9f6879fdddaedd8dd1d-448x177.png&w=1200&q=75"
+      },
+      {
+        "alt": "Sonnet Home + Auto white logo",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F4a144f58e7246c903b13c4fffa7e373427e25cca-448x177.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F4a144f58e7246c903b13c4fffa7e373427e25cca-448x177.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F4a144f58e7246c903b13c4fffa7e373427e25cca-448x177.png&w=1200&q=75"
+      },
+      {
+        "alt": "Time Hortons white logo",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F334c7138a23e6588fc10c4fd81619e7955e3547e-448x177.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F334c7138a23e6588fc10c4fd81619e7955e3547e-448x177.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F334c7138a23e6588fc10c4fd81619e7955e3547e-448x177.png&w=1200&q=75"
+      },
+      {
+        "alt": "Tylenol white logo",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F89962ad70dd558a358e0b4aca37ced26f3cc670e-448x177.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F89962ad70dd558a358e0b4aca37ced26f3cc670e-448x177.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F89962ad70dd558a358e0b4aca37ced26f3cc670e-448x177.png&w=1200&q=75"
+      },
+      {
+        "alt": "Amazon Fulfillment logo all white",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F59a2fbfe0505198c623c812b477c217c20e2bca7-1104x621.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F59a2fbfe0505198c623c812b477c217c20e2bca7-1104x621.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F59a2fbfe0505198c623c812b477c217c20e2bca7-1104x621.png&w=1200&q=75"
+      },
+      {
+        "alt": "Apple logo white",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fb4d5ada89fb17a22ffb4866aa3b4ad263f22f566-1104x621.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fb4d5ada89fb17a22ffb4866aa3b4ad263f22f566-1104x621.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fb4d5ada89fb17a22ffb4866aa3b4ad263f22f566-1104x621.png&w=1200&q=75"
+      },
+      {
+        "alt": "AstraZenica logo white",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fb12525c472e56ca5ffe9c966f013af7dbe92e329-1104x621.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fb12525c472e56ca5ffe9c966f013af7dbe92e329-1104x621.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fb12525c472e56ca5ffe9c966f013af7dbe92e329-1104x621.png&w=1200&q=75"
+      },
+      {
+        "alt": "BodyArmor Super Drink white logo",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fdc7fc1da244a211c4d1f096d02bcaedf6b1e3bf5-448x177.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fdc7fc1da244a211c4d1f096d02bcaedf6b1e3bf5-448x177.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fdc7fc1da244a211c4d1f096d02bcaedf6b1e3bf5-448x177.png&w=1200&q=75"
+      },
+      {
+        "alt": "Chipotle Mexican Grill white logo",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F97aeedeb78e0572e813b296822edac601df5b4f2-448x177.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F97aeedeb78e0572e813b296822edac601df5b4f2-448x177.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F97aeedeb78e0572e813b296822edac601df5b4f2-448x177.png&w=1200&q=75"
+      },
+      {
+        "alt": "Enterprise Rent a Car white logo",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fdb4a2c67bb854409d2e51f15ab942ce82cd62f07-448x177.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fdb4a2c67bb854409d2e51f15ab942ce82cd62f07-448x177.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fdb4a2c67bb854409d2e51f15ab942ce82cd62f07-448x177.png&w=1200&q=75"
+      },
+      {
+        "alt": "Great Clips white logo",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fc5f220034e647cf54282b54f4632c5f7fff0ded2-1104x621.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fc5f220034e647cf54282b54f4632c5f7fff0ded2-1104x621.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fc5f220034e647cf54282b54f4632c5f7fff0ded2-1104x621.png&w=1200&q=75"
+      },
+      {
+        "alt": "Hyundai logo white",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fe7a9c97c2195ed649cc920be4b0f65522566fb69-1104x621.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fe7a9c97c2195ed649cc920be4b0f65522566fb69-1104x621.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fe7a9c97c2195ed649cc920be4b0f65522566fb69-1104x621.png&w=1200&q=75"
+      },
+      {
+        "alt": "Kraft Heinz logo white",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F9d053d787bc4fec3c41b31aaa7101673bbb14f9b-448x177.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F9d053d787bc4fec3c41b31aaa7101673bbb14f9b-448x177.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F9d053d787bc4fec3c41b31aaa7101673bbb14f9b-448x177.png&w=1200&q=75"
+      },
+      {
+        "alt": "MassMutul white logo",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F9dedb594c267d2c05a6c6ba27ebaf5fc1308f17f-448x177.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F9dedb594c267d2c05a6c6ba27ebaf5fc1308f17f-448x177.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F9dedb594c267d2c05a6c6ba27ebaf5fc1308f17f-448x177.png&w=1200&q=75"
+      },
+      {
+        "alt": "Mondeleze International logo white",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fb5dfb1d8dab66694b46897f8b5cf9ca5d71701ad-736x414.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fb5dfb1d8dab66694b46897f8b5cf9ca5d71701ad-736x414.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fb5dfb1d8dab66694b46897f8b5cf9ca5d71701ad-736x414.png&w=1200&q=75"
+      },
+      {
+        "alt": "Pepsi white logo",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F6728219b3e71062591a36b42393f0589f04a82a0-448x177.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F6728219b3e71062591a36b42393f0589f04a82a0-448x177.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F6728219b3e71062591a36b42393f0589f04a82a0-448x177.png&w=1200&q=75"
+      },
+      {
+        "alt": "Rogers white logo",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F56a8ce9ede4a31e84d1ff0e531c05623e79d3eb8-448x177.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F56a8ce9ede4a31e84d1ff0e531c05623e79d3eb8-448x177.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F56a8ce9ede4a31e84d1ff0e531c05623e79d3eb8-448x177.png&w=1200&q=75"
+      },
+      {
+        "alt": "SAP white logo",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fc4b96ef27955784d8058f9f6879fdddaedd8dd1d-448x177.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fc4b96ef27955784d8058f9f6879fdddaedd8dd1d-448x177.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2Fc4b96ef27955784d8058f9f6879fdddaedd8dd1d-448x177.png&w=1200&q=75"
+      },
+      {
+        "alt": "Sonnet Home + Auto white logo",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F4a144f58e7246c903b13c4fffa7e373427e25cca-448x177.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F4a144f58e7246c903b13c4fffa7e373427e25cca-448x177.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F4a144f58e7246c903b13c4fffa7e373427e25cca-448x177.png&w=1200&q=75"
+      },
+      {
+        "alt": "Time Hortons white logo",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F334c7138a23e6588fc10c4fd81619e7955e3547e-448x177.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F334c7138a23e6588fc10c4fd81619e7955e3547e-448x177.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F334c7138a23e6588fc10c4fd81619e7955e3547e-448x177.png&w=1200&q=75"
+      },
+      {
+        "alt": "Tylenol white logo",
+        "loading": "lazy",
+        "width": "600",
+        "height": "600",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "max-h-full max-w-full object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F89962ad70dd558a358e0b4aca37ced26f3cc670e-448x177.png&w=640&q=75 1x, /_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F89962ad70dd558a358e0b4aca37ced26f3cc670e-448x177.png&w=1200&q=75 2x",
+        "src": "/_next/image/?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzkpnl5e1%2Fproduction%2F89962ad70dd558a358e0b4aca37ced26f3cc670e-448x177.png&w=1200&q=75"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-038/3e91c46e61cc5396.txt"
+  },
+  {
+    "id": "2304d5a005d16ad7",
+    "name": "Rayonier Operating Company LLC",
+    "requested_url": "https://www.rayonier.com/",
+    "status": 200,
+    "final_url": "https://www.rayonier.com/",
+    "text_chars": 6184,
+    "logo_candidates": [
+      {
+        "class": "logoImg",
+        "src": "https://rynassets.blob.core.windows.net/images/logo.png",
+        "id": "logoImage",
+        "aria-label": "Rayonier logo"
+      },
+      {
+        "class": "logoImg",
+        "src": "https://rynassets.blob.core.windows.net/images/logo.png",
+        "id": "logoImage",
+        "aria-label": "Rayonier logo"
+      },
+      {
+        "id": "logoImage",
+        "src": "https://rynassets.blob.core.windows.net/images/logo-footer.png",
+        "alt": "Rayonier Logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-038/2304d5a005d16ad7.txt"
+  },
+  {
+    "id": "6bcda20eb470c91a",
+    "name": "Rose Bowl Operating Company",
+    "requested_url": "https://rosebowlstadium.com/",
+    "status": 200,
+    "final_url": "https://rosebowlstadium.com/",
+    "text_chars": 871,
+    "logo_candidates": [
+      {
+        "src": "/_nuxt/img/rose-bowl-logo-white.2df5cc5.svg",
+        "alt": "Rose Bowl Stadium logo",
+        "width": "auto",
+        "class": "d-inline-block align-top logo-image"
+      },
+      {
+        "src": "/_nuxt/img/rose-bowl-logo-white.2df5cc5.svg",
+        "alt": "Rose Bowl Stadium Logo",
+        "class": "img-fluid"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-038/6bcda20eb470c91a.txt"
+  },
+  {
+    "id": "ec411b1b67c997ec",
+    "name": "SAN Gabriel Basin Water Quality Authority",
+    "requested_url": "https://www.sgbwa.com/",
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  }
+]

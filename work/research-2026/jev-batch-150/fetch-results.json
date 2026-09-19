@@ -1,0 +1,1343 @@
+[
+  {
+    "id": "d7deb8b1ec1094a9",
+    "name": "Natural Resources Results (obo Pikes Peak Waterways Enterprise Corporation)",
+    "requested_url": "https://ppwaterways.org/",
+    "status": 200,
+    "final_url": "https://ppwaterways.org/",
+    "text_chars": 4757,
+    "logo_candidates": [
+      {
+        "width": "250",
+        "height": "250",
+        "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20250%20250'%3E%3C/svg%3E",
+        "alt": "Page Loader Logo",
+        "data-lazy-src": "https://ppwaterways.org/wp-content/uploads/2022/10/npc_piggy_animated.svg"
+      },
+      {
+        "width": "250",
+        "height": "250",
+        "src": "https://ppwaterways.org/wp-content/uploads/2022/10/npc_piggy_animated.svg",
+        "alt": "Page Loader Logo"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "800",
+        "height": "571",
+        "src": "https://ppwaterways.org/wp-content/uploads/2022/10/PPW-Logo-1024x731.jpg",
+        "alt": "",
+        "srcset": "https://ppwaterways.org/wp-content/uploads/2022/10/PPW-Logo-1024x731.jpg 1024w, https://ppwaterways.org/wp-content/uploads/2022/10/PPW-Logo-300x214.jpg 300w, https://ppwaterways.org/wp-content/uploads/2022/10/PPW-Logo-768x549.jpg 768w, https://ppwaterways.org/wp-content/uploads/2022/10/PPW-Logo-1536x1097.jpg 1536w, https://ppwaterways.org/wp-content/uploads/2022/10/PPW-Logo-2048x1463.jpg 2048w",
+        "sizes": "(max-width: 800px) 100vw, 800px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-150/d7deb8b1ec1094a9.txt"
+  },
+  {
+    "id": "c892b30c67e4f504",
+    "name": "Liberty Steel Holdings USA Inc.",
+    "requested_url": "https://libertyhousegroup.com/",
+    "error": "<urlopen error [Errno 51] Network is unreachable>"
+  },
+  {
+    "id": "0667298c4d614051",
+    "name": "Future Standard (fka FS Investment Corporation)",
+    "requested_url": "https://www.futurestandard.com/",
+    "status": 200,
+    "final_url": "https://www.futurestandard.com/",
+    "text_chars": 9212,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-150/0667298c4d614051.txt"
+  },
+  {
+    "id": "437d04a9f6ade034",
+    "name": "West Virginia University",
+    "requested_url": "https://www.wvu.edu/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "b5eb6d534c67560e",
+    "name": "Hornbeck Offshore Services",
+    "requested_url": "https://hornbeckoffshore.com/",
+    "status": 202,
+    "final_url": "https://hornbeckoffshore.com/",
+    "text_chars": 90,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-150/b5eb6d534c67560e.txt"
+  },
+  {
+    "id": "fb5fc1c66cd39efc",
+    "name": "City of Encinitas",
+    "requested_url": "https://www.encinitasca.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "53b768d49bfb9140",
+    "name": "City of Fishers",
+    "requested_url": "https://www.fishersin.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "113d670272c535b3",
+    "name": "City of Lafayette",
+    "requested_url": "https://www.lovelafayette.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "22d318baa932dd0f",
+    "name": "City of Milton-Freewater",
+    "requested_url": "https://www.mfcity.com/",
+    "status": 200,
+    "final_url": "https://www.mfcity.com/",
+    "text_chars": 2084,
+    "logo_candidates": [
+      {
+        "src": "https://www.mfcity.com/sites/all/themes/aha_compass/logo.png",
+        "alt": "Home"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-150/22d318baa932dd0f.txt"
+  },
+  {
+    "id": "2310a27e032bdbd3",
+    "name": "City of New Haven, Connecticut",
+    "requested_url": "https://www.newhavenct.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "f27d175bff32f236",
+    "name": "City of Palm Springs",
+    "requested_url": "https://www.palmspringsca.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "52a99596d4743ce7",
+    "name": "City of Petersburg (AK)",
+    "requested_url": "https://www.petersburgak.gov/",
+    "status": 200,
+    "final_url": "https://www.petersburgak.gov/",
+    "text_chars": 3040,
+    "logo_candidates": [
+      {
+        "src": "https://www.petersburgak.gov/sites/all/themes/aha_compass/logo.png",
+        "alt": "Home"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-150/52a99596d4743ce7.txt"
+  },
+  {
+    "id": "0ef5f0a59deb4bbd",
+    "name": "City of Santa Maria",
+    "requested_url": "https://www.cityofsantamaria.org/?lang=en",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "69e638ab4bf83335",
+    "name": "City of Tigard, Oregon",
+    "requested_url": "https://www.tigard-or.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "48151bd4f3afd81f",
+    "name": "City of West Sacramento",
+    "requested_url": "https://www.cityofwestsacramento.org/government/about-the-city",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "521784eea0b05fc6",
+    "name": "City of Weston, Florida",
+    "requested_url": "https://www.westonfl.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "ff5a51c9774ff173",
+    "name": "BlueVoyant",
+    "requested_url": "https://www.bluevoyant.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "96c736fc210099aa",
+    "name": "BlueVoyant Federal",
+    "requested_url": "https://www.bluevoyant.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "acaab7b13317c71c",
+    "name": "a16z",
+    "requested_url": "https://a16z.com/",
+    "status": 200,
+    "final_url": "https://a16z.com/",
+    "text_chars": 1000,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-150/acaab7b13317c71c.txt"
+  },
+  {
+    "id": "f0cbf69ccfb3d7be",
+    "name": "Abbott (cvc) (fka Cardiovascular Systems, Inc, Cardiovascular Coalition)",
+    "requested_url": "https://www.cardiovascularsystems.com",
+    "status": 200,
+    "final_url": "https://www.cardiovascularsystems.com",
+    "text_chars": 144,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-150/f0cbf69ccfb3d7be.txt"
+  },
+  {
+    "id": "aaf5a14fb4e168e2",
+    "name": "Accelint",
+    "requested_url": "https://www.accelint.com/",
+    "status": 200,
+    "final_url": "https://www.accelint.com/",
+    "text_chars": 5651,
+    "logo_candidates": [
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/690ccae44035cb1a0ae431ed_logo%20(3).svg",
+        "alt": "",
+        "class": "navbar5_logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737f0e016848767e7b651_uswer_invert%201.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "eager",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737f0084c4bfc519deef6_spawar_logo%201.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737ef9e62c0f255772044_NAVWAR-e1726250056924.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737f0fd1129f8176b429e_peostri_inv%201.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737ef687eec5412f7ebd9_66fe1bef8f4ea1d18d6fb50fa98804f7_logo.03d88a98ab3084c1e561%201.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/690cbe86f5ec02c100e1f9e0_b0c3e6db565b8d10774e6f8e085098cd_navsea-e1726248477981.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737ef51730351f664bc94_039dfeff75f097a9a86633906e046687_NAVY-Logo.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737f0c7ce88c0f852ea91_91027efbfe2b9f41d472c1d984fa718f_usarmylogo.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/690cbe86a3b9fdfeea7adfe4_07508c58248ea8048c6af30eaf32301a_USAF-copy.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737efd687585a89a8cd4e_a951f0e3717de79d7c435da3c2947a49_800px-Air_Force_Research_Laboratory%202%20copy%201.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737efe1801d12c2052f07_820a930499c95c71a9c68ef97d2e8b9f_Air_Force_Civil_Engineer_Center_shield.svg%2023%201.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/690cbe8696a35447b7600e12_Asset-1SiriusXM.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737ef590e0a8e7cb402bd_66da6dd330b827ac6de45560a0ae6b52_161221-F-ZU869-0001%202%201.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737f08c8f9f333661e471_eb546c2eec51fc1ff5c6a4ebaa4c353b_tldm-logo-png_seeklogo-284441%203%201.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737efcfa4a1b00ebff9d1_ae58d8316ded9f8caa6e769001e62e16_MLB_Logo_Vertical_NoTag_White_HQ%202%201.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737efa3345c9e049ac1d3_74aa6c2114e9d7d9093fe2c1803cfe6b_120820-F-ZU869-001%20copy%203%202.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737ef41d3b9688907c240_90b25e040e1ffd0740d7b48e1cc21f9d_NAWC-TSD%202%201.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737ef81c78eab456f3962_b0f4c608576cbe3a89a4d4e8c400a3d8_peo-c41%201.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/690cbe8666dc0b6570cfeacd_98b2cd20c44c5338d5931b16268d693d_homeland-security-copy.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/690cbe86e1d2ca24ab40b477_94b43b5bed53daabe66f589f26c176a1_darpa.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737f035c6e2f62fda013d_b774cd170fed5bbf4bd02a45c76ff098_specialopinv%202.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737efe3e8fdb01ca672e9_bb073453d16888eea8fb6e749d1a1ecc_DOW-Seal-BWinv%201.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737f0e016848767e7b651_uswer_invert%201.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "eager",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737f0084c4bfc519deef6_spawar_logo%201.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737ef9e62c0f255772044_NAVWAR-e1726250056924.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737f0fd1129f8176b429e_peostri_inv%201.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737ef687eec5412f7ebd9_66fe1bef8f4ea1d18d6fb50fa98804f7_logo.03d88a98ab3084c1e561%201.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/690cbe86f5ec02c100e1f9e0_b0c3e6db565b8d10774e6f8e085098cd_navsea-e1726248477981.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737ef51730351f664bc94_039dfeff75f097a9a86633906e046687_NAVY-Logo.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737f0c7ce88c0f852ea91_91027efbfe2b9f41d472c1d984fa718f_usarmylogo.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/690cbe86a3b9fdfeea7adfe4_07508c58248ea8048c6af30eaf32301a_USAF-copy.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737efd687585a89a8cd4e_a951f0e3717de79d7c435da3c2947a49_800px-Air_Force_Research_Laboratory%202%20copy%201.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737efe1801d12c2052f07_820a930499c95c71a9c68ef97d2e8b9f_Air_Force_Civil_Engineer_Center_shield.svg%2023%201.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/690cbe8696a35447b7600e12_Asset-1SiriusXM.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737ef590e0a8e7cb402bd_66da6dd330b827ac6de45560a0ae6b52_161221-F-ZU869-0001%202%201.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737f08c8f9f333661e471_eb546c2eec51fc1ff5c6a4ebaa4c353b_tldm-logo-png_seeklogo-284441%203%201.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737efcfa4a1b00ebff9d1_ae58d8316ded9f8caa6e769001e62e16_MLB_Logo_Vertical_NoTag_White_HQ%202%201.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737efa3345c9e049ac1d3_74aa6c2114e9d7d9093fe2c1803cfe6b_120820-F-ZU869-001%20copy%203%202.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737ef41d3b9688907c240_90b25e040e1ffd0740d7b48e1cc21f9d_NAWC-TSD%202%201.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737ef81c78eab456f3962_b0f4c608576cbe3a89a4d4e8c400a3d8_peo-c41%201.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/690cbe8666dc0b6570cfeacd_98b2cd20c44c5338d5931b16268d693d_homeland-security-copy.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/690cbe86e1d2ca24ab40b477_94b43b5bed53daabe66f589f26c176a1_darpa.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737f035c6e2f62fda013d_b774cd170fed5bbf4bd02a45c76ff098_specialopinv%202.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737efe3e8fdb01ca672e9_bb073453d16888eea8fb6e749d1a1ecc_DOW-Seal-BWinv%201.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737f0e016848767e7b651_uswer_invert%201.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "eager",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737f0084c4bfc519deef6_spawar_logo%201.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737ef9e62c0f255772044_NAVWAR-e1726250056924.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737f0fd1129f8176b429e_peostri_inv%201.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737ef687eec5412f7ebd9_66fe1bef8f4ea1d18d6fb50fa98804f7_logo.03d88a98ab3084c1e561%201.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/690cbe86f5ec02c100e1f9e0_b0c3e6db565b8d10774e6f8e085098cd_navsea-e1726248477981.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737ef51730351f664bc94_039dfeff75f097a9a86633906e046687_NAVY-Logo.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737f0c7ce88c0f852ea91_91027efbfe2b9f41d472c1d984fa718f_usarmylogo.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/690cbe86a3b9fdfeea7adfe4_07508c58248ea8048c6af30eaf32301a_USAF-copy.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737efd687585a89a8cd4e_a951f0e3717de79d7c435da3c2947a49_800px-Air_Force_Research_Laboratory%202%20copy%201.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737efe1801d12c2052f07_820a930499c95c71a9c68ef97d2e8b9f_Air_Force_Civil_Engineer_Center_shield.svg%2023%201.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/690cbe8696a35447b7600e12_Asset-1SiriusXM.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737ef590e0a8e7cb402bd_66da6dd330b827ac6de45560a0ae6b52_161221-F-ZU869-0001%202%201.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737f08c8f9f333661e471_eb546c2eec51fc1ff5c6a4ebaa4c353b_tldm-logo-png_seeklogo-284441%203%201.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737efcfa4a1b00ebff9d1_ae58d8316ded9f8caa6e769001e62e16_MLB_Logo_Vertical_NoTag_White_HQ%202%201.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737efa3345c9e049ac1d3_74aa6c2114e9d7d9093fe2c1803cfe6b_120820-F-ZU869-001%20copy%203%202.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737ef41d3b9688907c240_90b25e040e1ffd0740d7b48e1cc21f9d_NAWC-TSD%202%201.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737ef81c78eab456f3962_b0f4c608576cbe3a89a4d4e8c400a3d8_peo-c41%201.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/690cbe8666dc0b6570cfeacd_98b2cd20c44c5338d5931b16268d693d_homeland-security-copy.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/690cbe86e1d2ca24ab40b477_94b43b5bed53daabe66f589f26c176a1_darpa.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737f035c6e2f62fda013d_b774cd170fed5bbf4bd02a45c76ff098_specialopinv%202.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://cdn.prod.website-files.com/690a14ee67d81c7b9e88e9c1/692737efe3e8fdb01ca672e9_bb073453d16888eea8fb6e749d1a1ecc_DOW-Seal-BWinv%201.avif",
+        "alt": "",
+        "class": "logo-img"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/690cc41f7447f4cf0bc4fb57/6939ac837d06e8b06626ec13_logo_container%20(21).png",
+        "loading": "lazy",
+        "alt": "",
+        "class": "image-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/690cc41f7447f4cf0bc4fb57/6939abe36fcd6d38e0c439cc_logo_container%20(19).png",
+        "loading": "lazy",
+        "alt": "",
+        "class": "image-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/690cc41f7447f4cf0bc4fb57/6939ac538878f1fb916c8a6e_logo_container%20(20).png",
+        "loading": "lazy",
+        "alt": "",
+        "class": "image-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/690cc41f7447f4cf0bc4fb57/6939ac9e3e8219400c7d4a33_logo_container%20(22).png",
+        "loading": "lazy",
+        "alt": "",
+        "class": "image-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/690cc41f7447f4cf0bc4fb57/6939ac538878f1fb916c8a6e_logo_container%20(20).png",
+        "loading": "lazy",
+        "alt": "",
+        "class": "image-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/690cc41f7447f4cf0bc4fb57/6939ac837d06e8b06626ec13_logo_container%20(21).png",
+        "loading": "lazy",
+        "alt": "",
+        "class": "image-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/690cc41f7447f4cf0bc4fb57/6939ac9e3e8219400c7d4a33_logo_container%20(22).png",
+        "loading": "lazy",
+        "alt": "",
+        "class": "image-logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-150/aaf5a14fb4e168e2.txt"
+  },
+  {
+    "id": "4756b0170958d4a3",
+    "name": "Accordia Partners, LLC",
+    "requested_url": "https://accordiapartners.com/",
+    "status": 200,
+    "final_url": "https://accordiapartners.com/",
+    "text_chars": 86,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-150/4756b0170958d4a3.txt"
+  },
+  {
+    "id": "4228cb17ea6c1892",
+    "name": "Achieve",
+    "requested_url": "https://www.achieve.com/",
+    "status": 200,
+    "final_url": "https://www.achieve.com/",
+    "text_chars": 17340,
+    "logo_candidates": [
+      {
+        "alt": "NerdWallet Logo",
+        "fetchpriority": "high",
+        "width": "80",
+        "height": "85",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "",
+        "style": "color:transparent",
+        "sizes": "96px",
+        "srcset": "/assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=16 16w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=32 32w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=48 48w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=64 64w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=96 96w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=128 128w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=192 192w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=256 256w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=384 384w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=480 480w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=540 540w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=640 640w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=768 768w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=1024 1024w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=1280 1280w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=1440 1440w",
+        "src": "/assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=1440"
+      },
+      {
+        "alt": "LendingTree Logo",
+        "fetchpriority": "high",
+        "width": "80",
+        "height": "85",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "",
+        "style": "color:transparent",
+        "sizes": "96px",
+        "srcset": "/assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=16 16w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=32 32w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=48 48w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=64 64w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=96 96w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=128 128w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=192 192w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=256 256w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=384 384w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=480 480w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=540 540w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=640 640w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=768 768w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=1024 1024w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=1280 1280w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=1440 1440w",
+        "src": "/assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=1440"
+      },
+      {
+        "alt": "LendingTree Logo",
+        "fetchpriority": "high",
+        "width": "80",
+        "height": "85",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "",
+        "style": "color:transparent",
+        "sizes": "96px",
+        "srcset": "/assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=16 16w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=32 32w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=48 48w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=64 64w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=96 96w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=128 128w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=192 192w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=256 256w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=384 384w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=480 480w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=540 540w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=640 640w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=768 768w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=1024 1024w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=1280 1280w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=1440 1440w",
+        "src": "/assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=1440"
+      },
+      {
+        "alt": "NerdWallet Logo",
+        "fetchpriority": "high",
+        "width": "80",
+        "height": "85",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "",
+        "style": "color:transparent",
+        "sizes": "96px",
+        "srcset": "/assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=16 16w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=32 32w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=48 48w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=64 64w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=96 96w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=128 128w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=192 192w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=256 256w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=384 384w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=480 480w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=540 540w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=640 640w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=768 768w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=1024 1024w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=1280 1280w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=1440 1440w",
+        "src": "/assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=1440"
+      },
+      {
+        "alt": "LendingTree Logo",
+        "fetchpriority": "high",
+        "width": "80",
+        "height": "85",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "",
+        "style": "color:transparent",
+        "sizes": "96px",
+        "srcset": "/assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=16 16w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=32 32w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=48 48w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=64 64w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=96 96w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=128 128w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=192 192w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=256 256w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=384 384w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=480 480w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=540 540w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=640 640w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=768 768w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=1024 1024w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=1280 1280w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=1440 1440w",
+        "src": "/assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=1440"
+      },
+      {
+        "alt": "NerdWallet Logo",
+        "fetchpriority": "high",
+        "width": "80",
+        "height": "85",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "",
+        "style": "color:transparent",
+        "sizes": "96px",
+        "srcset": "/assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=16 16w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=32 32w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=48 48w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=64 64w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=96 96w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=128 128w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=192 192w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=256 256w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=384 384w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=480 480w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=540 540w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=640 640w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=768 768w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=1024 1024w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=1280 1280w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=1440 1440w",
+        "src": "/assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=1440"
+      },
+      {
+        "alt": "LendingTree Logo",
+        "fetchpriority": "high",
+        "width": "80",
+        "height": "85",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "",
+        "style": "color:transparent",
+        "sizes": "96px",
+        "srcset": "/assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=16 16w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=32 32w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=48 48w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=64 64w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=96 96w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=128 128w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=192 192w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=256 256w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=384 384w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=480 480w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=540 540w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=640 640w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=768 768w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=1024 1024w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=1280 1280w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=1440 1440w",
+        "src": "/assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=1440"
+      },
+      {
+        "alt": "LendingTree Logo",
+        "fetchpriority": "high",
+        "width": "80",
+        "height": "85",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "",
+        "style": "color:transparent",
+        "sizes": "96px",
+        "srcset": "/assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=16 16w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=32 32w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=48 48w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=64 64w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=96 96w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=128 128w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=192 192w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=256 256w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=384 384w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=480 480w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=540 540w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=640 640w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=768 768w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=1024 1024w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=1280 1280w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=1440 1440w",
+        "src": "/assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=1440"
+      },
+      {
+        "alt": "NerdWallet Logo",
+        "fetchpriority": "high",
+        "width": "80",
+        "height": "85",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "",
+        "style": "color:transparent",
+        "sizes": "96px",
+        "srcset": "/assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=16 16w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=32 32w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=48 48w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=64 64w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=96 96w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=128 128w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=192 192w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=256 256w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=384 384w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=480 480w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=540 540w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=640 640w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=768 768w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=1024 1024w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=1280 1280w, /assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=1440 1440w",
+        "src": "/assets/images/80jeq2aeq4l1/6DwGFFRUaXD6YAalvofdk/6a80be5f0e139aa81332c0780310adc4/NW_Logo_Vert_RGB_Screen_1.svg?w=1440"
+      },
+      {
+        "alt": "LendingTree Logo",
+        "fetchpriority": "high",
+        "width": "80",
+        "height": "85",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "",
+        "style": "color:transparent",
+        "sizes": "96px",
+        "srcset": "/assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=16 16w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=32 32w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=48 48w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=64 64w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=96 96w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=128 128w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=192 192w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=256 256w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=384 384w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=480 480w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=540 540w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=640 640w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=768 768w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=1024 1024w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=1280 1280w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=1440 1440w",
+        "src": "/assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=1440"
+      },
+      {
+        "alt": "LendingTree Logo",
+        "fetchpriority": "high",
+        "width": "80",
+        "height": "85",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "",
+        "style": "color:transparent",
+        "sizes": "96px",
+        "srcset": "/assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=16 16w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=32 32w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=48 48w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=64 64w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=96 96w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=128 128w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=192 192w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=256 256w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=384 384w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=480 480w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=540 540w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=640 640w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=768 768w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=1024 1024w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=1280 1280w, /assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=1440 1440w",
+        "src": "/assets/images/80jeq2aeq4l1/7KCxFKuJmkZJVayynhHXje/e0732b0fa6ed9f9b782762de588e365b/LT_Logo_-_Leaf_Gradient_1.svg?w=1440"
+      },
+      {
+        "alt": "Money",
+        "fetchpriority": "high",
+        "width": "120",
+        "height": "50",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "",
+        "style": "color:transparent",
+        "sizes": "128px",
+        "srcset": "/assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=16 16w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=32 32w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=48 48w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=64 64w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=96 96w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=128 128w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=192 192w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=256 256w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=384 384w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=480 480w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=540 540w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=640 640w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=768 768w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=1024 1024w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=1280 1280w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=1440 1440w",
+        "src": "/assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=1440"
+      },
+      {
+        "alt": "Business Insider",
+        "fetchpriority": "high",
+        "width": "140",
+        "height": "50",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "",
+        "style": "color:transparent",
+        "sizes": "192px",
+        "srcset": "/assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=16 16w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=32 32w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=48 48w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=64 64w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=96 96w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=128 128w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=192 192w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=256 256w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=384 384w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=480 480w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=540 540w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=640 640w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=768 768w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=1024 1024w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=1280 1280w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=1440 1440w",
+        "src": "/assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=1440"
+      },
+      {
+        "alt": "The Wall Street Journal",
+        "fetchpriority": "high",
+        "width": "120",
+        "height": "50",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "",
+        "style": "color:transparent",
+        "sizes": "128px",
+        "srcset": "/assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=16 16w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=32 32w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=48 48w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=64 64w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=96 96w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=128 128w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=192 192w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=256 256w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=384 384w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=480 480w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=540 540w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=640 640w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=768 768w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=1024 1024w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=1280 1280w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=1440 1440w",
+        "src": "/assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=1440"
+      },
+      {
+        "alt": "Money",
+        "fetchpriority": "high",
+        "width": "120",
+        "height": "50",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "",
+        "style": "color:transparent",
+        "sizes": "128px",
+        "srcset": "/assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=16 16w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=32 32w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=48 48w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=64 64w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=96 96w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=128 128w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=192 192w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=256 256w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=384 384w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=480 480w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=540 540w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=640 640w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=768 768w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=1024 1024w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=1280 1280w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=1440 1440w",
+        "src": "/assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=1440"
+      },
+      {
+        "alt": "Business Insider",
+        "fetchpriority": "high",
+        "width": "140",
+        "height": "50",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "",
+        "style": "color:transparent",
+        "sizes": "192px",
+        "srcset": "/assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=16 16w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=32 32w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=48 48w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=64 64w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=96 96w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=128 128w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=192 192w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=256 256w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=384 384w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=480 480w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=540 540w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=640 640w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=768 768w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=1024 1024w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=1280 1280w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=1440 1440w",
+        "src": "/assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=1440"
+      },
+      {
+        "alt": "The Wall Street Journal",
+        "fetchpriority": "high",
+        "width": "120",
+        "height": "50",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "",
+        "style": "color:transparent",
+        "sizes": "128px",
+        "srcset": "/assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=16 16w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=32 32w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=48 48w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=64 64w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=96 96w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=128 128w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=192 192w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=256 256w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=384 384w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=480 480w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=540 540w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=640 640w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=768 768w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=1024 1024w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=1280 1280w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=1440 1440w",
+        "src": "/assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=1440"
+      },
+      {
+        "alt": "Money",
+        "fetchpriority": "high",
+        "width": "120",
+        "height": "50",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "",
+        "style": "color:transparent",
+        "sizes": "128px",
+        "srcset": "/assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=16 16w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=32 32w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=48 48w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=64 64w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=96 96w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=128 128w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=192 192w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=256 256w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=384 384w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=480 480w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=540 540w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=640 640w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=768 768w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=1024 1024w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=1280 1280w, /assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=1440 1440w",
+        "src": "/assets/images/80jeq2aeq4l1/2HzMvZhNW7JjcI7A9CmMbA/84d065cb90ccf61db338c153ffa35687/MoneyLogo.svg?w=1440"
+      },
+      {
+        "alt": "Business Insider",
+        "fetchpriority": "high",
+        "width": "140",
+        "height": "50",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "",
+        "style": "color:transparent",
+        "sizes": "192px",
+        "srcset": "/assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=16 16w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=32 32w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=48 48w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=64 64w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=96 96w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=128 128w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=192 192w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=256 256w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=384 384w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=480 480w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=540 540w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=640 640w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=768 768w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=1024 1024w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=1280 1280w, /assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=1440 1440w",
+        "src": "/assets/images/80jeq2aeq4l1/1deRtTb97MMT1O9CM6XP8M/e2474ca57e4f95e6fefccbdd703c6c70/BusinessInsiderLogo.svg?w=1440"
+      },
+      {
+        "alt": "The Wall Street Journal",
+        "fetchpriority": "high",
+        "width": "120",
+        "height": "50",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "",
+        "style": "color:transparent",
+        "sizes": "128px",
+        "srcset": "/assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=16 16w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=32 32w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=48 48w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=64 64w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=96 96w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=128 128w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=192 192w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=256 256w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=384 384w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=480 480w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=540 540w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=640 640w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=768 768w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=1024 1024w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=1280 1280w, /assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=1440 1440w",
+        "src": "/assets/images/80jeq2aeq4l1/2ONvMsSMXU7eCKl1wUhJpX/53d130bfbd46f2ac4853e398cc1b869c/WallStreetJournalLogo.svg?w=1440"
+      },
+      {
+        "src": "/_next/static/media/mini-gradient.1g68432-ztm2m.svg?dpl=3f474f40aff4302a498f8d0cff1fcadb740a3fae",
+        "alt": "Achieve Logomark",
+        "loading": "lazy"
+      },
+      {
+        "src": "/_next/static/media/smarter-debt.1ybxdhvpg-b1i.svg?dpl=3f474f40aff4302a498f8d0cff1fcadb740a3fae",
+        "class": "my-5",
+        "alt": "Achieve Logomark",
+        "height": "88",
+        "width": "240",
+        "loading": "lazy"
+      },
+      {
+        "src": "/_next/static/media/equalHouseLogo.42zb680w7aqli.svg?dpl=3f474f40aff4302a498f8d0cff1fcadb740a3fae",
+        "width": "62",
+        "alt": "Equal Housing logo",
+        "loading": "lazy",
+        "class": "pt-2 block"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-150/4228cb17ea6c1892.txt"
+  },
+  {
+    "id": "9185a50b408c90c6",
+    "name": "Aclara Technologies Inc.",
+    "requested_url": "https://www.hubbell.com/aclara/en",
+    "status": 200,
+    "final_url": "https://www.hubbell.com/aclara/en",
+    "text_chars": 4016,
+    "logo_candidates": [
+      {
+        "src": "https://images.ctfassets.net/j8yo2paviu13/7eQENHJQdsXcozoZP5Nwmp/38bdc225553a5781517caeb7827b26ec/Aclara_RGB_Logo_horizontal_color.svg?fm=&q=80",
+        "alt": "ACLARA",
+        "title": "ACLARA",
+        "loading": "eager",
+        "width": "125",
+        "height": "55",
+        "class": "object-contain"
+      },
+      {
+        "src": "https://hubbellcdn.com/ohwassets/HPS/aclara/home/Aclara_logo_desktop_2x.png",
+        "style": "max-width: 620px; width: 100%; margin-bottom: 2rem;"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-150/9185a50b408c90c6.txt"
+  },
+  {
+    "id": "b9708425cec3742e",
+    "name": "Acorn Consulting representing Shell USA Inc.",
+    "requested_url": "https://www.shell.com",
+    "status": 200,
+    "final_url": "https://www.shell.com",
+    "text_chars": 112,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-150/b9708425cec3742e.txt"
+  },
+  {
+    "id": "63c4b1bf554ea57f",
+    "name": "Advanced Navigation & Positioning Corp",
+    "requested_url": "https://www.anpcorp.com",
+    "status": 200,
+    "final_url": "https://www.anpcorp.com",
+    "text_chars": 96,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-150/63c4b1bf554ea57f.txt"
+  },
+  {
+    "id": "0a2b71530be8f9eb",
+    "name": "Advanced Warning Systems Inc.",
+    "requested_url": "https://www.advancedwarningsystems.com",
+    "status": 200,
+    "final_url": "https://www.advancedwarningsystems.com",
+    "text_chars": 102,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-150/0a2b71530be8f9eb.txt"
+  },
+  {
+    "id": "cab5612b7e1145dc",
+    "name": "Adult and Teen Challenge",
+    "requested_url": "https://www.teenchallengeusa.com/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "df5e238924779ff4",
+    "name": "Adventist Health White Memorial",
+    "requested_url": "https://www.adventisthealth.org/white-memorial/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "aeeb6fe022be083d",
+    "name": "AECOM Consult, Inc.",
+    "requested_url": "https://www.aecom.com/about-us/",
+    "status": 200,
+    "final_url": "https://aecom.com/about-us/",
+    "text_chars": 6317,
+    "logo_candidates": [
+      {
+        "src": "/code/wp-content/plugins/aecom-components/inc/../images/aecom-logo-light.svg",
+        "alt": "AECOM Logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-150/aeeb6fe022be083d.txt"
+  },
+  {
+    "id": "8d60b749d8f8c3fb",
+    "name": "Aero Precision",
+    "requested_url": "https://www.aeroprecisionusa.com/manufacturing-and-oem",
+    "status": 200,
+    "final_url": "https://www.aeroprecisionusa.com/manufacturing-and-oem",
+    "text_chars": 8321,
+    "logo_candidates": [
+      {
+        "class": "a-logo__desktop",
+        "src": "https://www.aeroprecisionusa.com/static/version1770819789/frontend/Aero/b2c/en_US/images/logo/logo.svg",
+        "alt": "Logo",
+        "width": "303",
+        "height": "76"
+      },
+      {
+        "class": "a-logo__mobile",
+        "src": "https://www.aeroprecisionusa.com/static/version1770819789/frontend/Aero/b2c/en_US/images/logo/logo-mobile.svg",
+        "alt": "Logo",
+        "width": "116",
+        "height": "117"
+      },
+      {
+        "class": "c-footer__logo-img",
+        "src": "https://www.aeroprecisionusa.com/static/version1770819789/frontend/Aero/b2c/en_US/images/nssf.png",
+        "alt": "Image",
+        "width": "50",
+        "height": "25"
+      },
+      {
+        "class": "c-footer__logo-img",
+        "src": "https://www.aeroprecisionusa.com/static/version1770819789/frontend/Aero/b2c/en_US/images/fpc.png",
+        "alt": "Image",
+        "width": "50",
+        "height": "25"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-150/8d60b749d8f8c3fb.txt"
+  },
+  {
+    "id": "ea51cf788862fc7a",
+    "name": "AICPA",
+    "requested_url": "https://www.aicpa-cima.com/about/landing/about",
+    "status": 200,
+    "final_url": "https://www.aicpa-cima.com/about/landing/about",
+    "text_chars": 5207,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-150/ea51cf788862fc7a.txt"
+  },
+  {
+    "id": "5cb3110617eecbf8",
+    "name": "Akin",
+    "requested_url": "https://www.akingump.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "94b739271c37126f",
+    "name": "VEON Ltd. (via Akin Gump)",
+    "requested_url": "https://www.veon.com/",
+    "status": 200,
+    "final_url": "https://www.veon.com/",
+    "text_chars": 4731,
+    "logo_candidates": [
+      {
+        "src": "/_assets/a91ce779c16d10d70644911f7f63c837/icons/veon_logo.svg",
+        "width": "172",
+        "height": "40",
+        "alt": ""
+      },
+      {
+        "class": "news-card__img--pic",
+        "src": "/fileadmin/user_upload/newsroom/press/logos/veon___banglalink_muke.png",
+        "srcset": "/fileadmin/_processed_/1/3/csm_veon___bangalink_muke_c3c3b0b31c.png 320w, /fileadmin/_processed_/1/3/csm_veon___bangalink_muke_868b450850.png 480w, /fileadmin/_processed_/1/3/csm_veon___bangalink_muke_2e77faf843.png 640w, /fileadmin/_processed_/1/3/csm_veon___bangalink_muke_67b9b7f977.png 800w, /fileadmin/user_upload/newsroom/press/logos/veon___banglalink_muke.png 3840w",
+        "sizes": "(min-width: 640px) 640px, 100vw",
+        "width": "3840",
+        "height": "2160",
+        "alt": ""
+      },
+      {
+        "src": "/fileadmin/static_assets/brands/Logo_lockup_for_web-2026.02.11.svg",
+        "alt": "brand image"
+      },
+      {
+        "src": "/_assets/a91ce779c16d10d70644911f7f63c837/icons/veon_logo--white.svg",
+        "width": "172",
+        "height": "40",
+        "alt": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-150/94b739271c37126f.txt"
+  },
+  {
+    "id": "4f82295935794bdb",
+    "name": "Port of Brownsville (via Akin Gump)",
+    "requested_url": "https://www.portofbrownsville.com/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "a2a035b390901446",
+    "name": "Sunny Glen Children\u2019s Home (via Akin Gump)",
+    "requested_url": "https://sunnyglen.org/",
+    "status": 202,
+    "final_url": "https://sunnyglen.org/",
+    "text_chars": 99,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-150/a2a035b390901446.txt"
+  },
+  {
+    "id": "3ba1852bd45a5dd0",
+    "name": "Veterans Guardian VA Claim Consulting LLC (via Akin Gump)",
+    "requested_url": "https://veteransguardian.com/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "5b76d480a15fb3b6",
+    "name": "Bayer Corporation (via Akin Gump)",
+    "requested_url": "https://www.bayer.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "24b37fd7f5150500",
+    "name": "Power4PR (via Alianza for Progress)",
+    "requested_url": "https://www.power4puertorico.com/",
+    "status": 200,
+    "final_url": "https://www.power4puertorico.com/",
+    "text_chars": 623,
+    "logo_candidates": [
+      {
+        "src": "//images.squarespace-cdn.com/content/v1/5b155afd506fbec1e69c2c61/1c2f9d5a-5b84-4950-9ba0-dfcea32f4bcb/new-logo-Power4PR.png.webp?format=1500w",
+        "alt": "#Power4PuertoRico"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-150/24b37fd7f5150500.txt"
+  },
+  {
+    "id": "0eb3d5ac7af03286",
+    "name": "All Points Broadband Partners, LLC",
+    "requested_url": "https://allpointsbroadband.com/",
+    "status": 202,
+    "final_url": "https://allpointsbroadband.com/",
+    "text_chars": 100,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-150/0eb3d5ac7af03286.txt"
+  },
+  {
+    "id": "1f0e3e1eb449ca72",
+    "name": "Allegiance Health Management, Inc.",
+    "requested_url": "https://www.allegiancehealthmanagement.com/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "7a14bf918406ac73",
+    "name": "Allegiant Air",
+    "requested_url": "https://www.allegiantair.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "07d493177e0b0266",
+    "name": "Alliance Energy Group LLC",
+    "requested_url": "https://www.allianceenergy.net/about/",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.allianceenergy.net'. (_ssl.c:1129)>"
+  },
+  {
+    "id": "9fa7fc5e6a884370",
+    "name": "Alliance for Rural Hospital Access",
+    "requested_url": "https://ruralhospitalaccess.org/information-hub/",
+    "status": 202,
+    "final_url": "https://ruralhospitalaccess.org/information-hub/",
+    "text_chars": 117,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-150/9fa7fc5e6a884370.txt"
+  },
+  {
+    "id": "7711126e69ef191e",
+    "name": "Alliance ONE International, Inc.",
+    "requested_url": "https://www.aointl.com/about-us/company-overview/",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "id": "3686c1064a148f46",
+    "name": "LIFT (American Lightweight Materials Manufacturing Innovation Institute)",
+    "requested_url": "https://lift.technology/",
+    "status": 200,
+    "final_url": "https://lift.technology/",
+    "text_chars": 14810,
+    "logo_candidates": [
+      {
+        "width": "1024",
+        "height": "1024",
+        "src": "https://lift.technology/wp-content/uploads/2025/02/Smarter-Manufacturing-logo--1024x1024.jpg",
+        "class": "attachment-large size-large wp-image-12121",
+        "alt": "",
+        "srcset": "https://lift.technology/wp-content/uploads/2025/02/Smarter-Manufacturing-logo--1024x1024.jpg 1024w, https://lift.technology/wp-content/uploads/2025/02/Smarter-Manufacturing-logo--300x300.jpg 300w, https://lift.technology/wp-content/uploads/2025/02/Smarter-Manufacturing-logo--150x150.jpg 150w, https://lift.technology/wp-content/uploads/2025/02/Smarter-Manufacturing-logo--768x768.jpg 768w, https://lift.technology/wp-content/uploads/2025/02/Smarter-Manufacturing-logo--700x700.jpg 700w, https://lift.technology/wp-content/uploads/2025/02/Smarter-Manufacturing-logo--82x82.jpg 82w, https://lift.technology/wp-content/uploads/2025/02/Smarter-Manufacturing-logo--510x510.jpg 510w, https://lift.technology/wp-content/uploads/2025/02/Smarter-Manufacturing-logo--500x500.jpg 500w, https://lift.technology/wp-content/uploads/2025/02/Smarter-Manufacturing-logo--122x122.jpg 122w, https://lift.technology/wp-content/uploads/2025/02/Smarter-Manufacturing-logo--284x284.jpg 284w, https://lift.technology/wp-content/uploads/2025/02/Smarter-Manufacturing-logo--184x184.jpg 184w, https://lift.technology/wp-content/uploads/2025/02/Smarter-Manufacturing-logo--120x120.jpg 120w, https://lift.technology/wp-content/uploads/2025/02/Smarter-Manufacturing-logo--180x180.jpg 180w, https://lift.technology/wp-content/uploads/2025/02/Smarter-Manufacturing-logo--85x85.jpg 85w, https://lift.technology/wp-content/uploads/2025/02/Smarter-Manufacturing-logo-.jpg 1067w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "1024",
+        "height": "345",
+        "src": "https://lift.technology/wp-content/uploads/2024/12/AMPP-Logo-2024B-Final-1024x345.png",
+        "class": "attachment-large size-large wp-image-11862",
+        "alt": "",
+        "srcset": "https://lift.technology/wp-content/uploads/2024/12/AMPP-Logo-2024B-Final-1024x345.png 1024w, https://lift.technology/wp-content/uploads/2024/12/AMPP-Logo-2024B-Final-300x101.png 300w, https://lift.technology/wp-content/uploads/2024/12/AMPP-Logo-2024B-Final-768x259.png 768w, https://lift.technology/wp-content/uploads/2024/12/AMPP-Logo-2024B-Final-1536x517.png 1536w, https://lift.technology/wp-content/uploads/2024/12/AMPP-Logo-2024B-Final-2048x690.png 2048w, https://lift.technology/wp-content/uploads/2024/12/AMPP-Logo-2024B-Final-244x82.png 244w, https://lift.technology/wp-content/uploads/2024/12/AMPP-Logo-2024B-Final-510x172.png 510w, https://lift.technology/wp-content/uploads/2024/12/AMPP-Logo-2024B-Final-500x168.png 500w, https://lift.technology/wp-content/uploads/2024/12/AMPP-Logo-2024B-Final-231x78.png 231w, https://lift.technology/wp-content/uploads/2024/12/AMPP-Logo-2024B-Final-284x96.png 284w, https://lift.technology/wp-content/uploads/2024/12/AMPP-Logo-2024B-Final-546x184.png 546w, https://lift.technology/wp-content/uploads/2024/12/AMPP-Logo-2024B-Final-356x120.png 356w, https://lift.technology/wp-content/uploads/2024/12/AMPP-Logo-2024B-Final-180x61.png 180w, https://lift.technology/wp-content/uploads/2024/12/AMPP-Logo-2024B-Final-252x85.png 252w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "1024",
+        "height": "671",
+        "src": "https://lift.technology/wp-content/uploads/2026/09/LIFT-Logo-NAMMII-RGB-3-1024x671.png",
+        "class": "attachment-large size-large wp-image-14153",
+        "alt": "",
+        "srcset": "https://lift.technology/wp-content/uploads/2026/09/LIFT-Logo-NAMMII-RGB-3-1024x671.png 1024w, https://lift.technology/wp-content/uploads/2026/09/LIFT-Logo-NAMMII-RGB-3-300x197.png 300w, https://lift.technology/wp-content/uploads/2026/09/LIFT-Logo-NAMMII-RGB-3-768x503.png 768w, https://lift.technology/wp-content/uploads/2026/09/LIFT-Logo-NAMMII-RGB-3-125x82.png 125w, https://lift.technology/wp-content/uploads/2026/09/LIFT-Logo-NAMMII-RGB-3-510x334.png 510w, https://lift.technology/wp-content/uploads/2026/09/LIFT-Logo-NAMMII-RGB-3-500x328.png 500w, https://lift.technology/wp-content/uploads/2026/09/LIFT-Logo-NAMMII-RGB-3-186x122.png 186w, https://lift.technology/wp-content/uploads/2026/09/LIFT-Logo-NAMMII-RGB-3-284x186.png 284w, https://lift.technology/wp-content/uploads/2026/09/LIFT-Logo-NAMMII-RGB-3-281x184.png 281w, https://lift.technology/wp-content/uploads/2026/09/LIFT-Logo-NAMMII-RGB-3-183x120.png 183w, https://lift.technology/wp-content/uploads/2026/09/LIFT-Logo-NAMMII-RGB-3-180x118.png 180w, https://lift.technology/wp-content/uploads/2026/09/LIFT-Logo-NAMMII-RGB-3-130x85.png 130w, https://lift.technology/wp-content/uploads/2026/09/LIFT-Logo-NAMMII-RGB-3.png 1292w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "1024",
+        "height": "1024",
+        "src": "https://lift.technology/wp-content/uploads/2025/02/Smarter-Manufacturing-logo--1024x1024.jpg",
+        "class": "attachment-large size-large wp-image-12121",
+        "alt": "",
+        "srcset": "https://lift.technology/wp-content/uploads/2025/02/Smarter-Manufacturing-logo--1024x1024.jpg 1024w, https://lift.technology/wp-content/uploads/2025/02/Smarter-Manufacturing-logo--300x300.jpg 300w, https://lift.technology/wp-content/uploads/2025/02/Smarter-Manufacturing-logo--150x150.jpg 150w, https://lift.technology/wp-content/uploads/2025/02/Smarter-Manufacturing-logo--768x768.jpg 768w, https://lift.technology/wp-content/uploads/2025/02/Smarter-Manufacturing-logo--700x700.jpg 700w, https://lift.technology/wp-content/uploads/2025/02/Smarter-Manufacturing-logo--82x82.jpg 82w, https://lift.technology/wp-content/uploads/2025/02/Smarter-Manufacturing-logo--510x510.jpg 510w, https://lift.technology/wp-content/uploads/2025/02/Smarter-Manufacturing-logo--500x500.jpg 500w, https://lift.technology/wp-content/uploads/2025/02/Smarter-Manufacturing-logo--122x122.jpg 122w, https://lift.technology/wp-content/uploads/2025/02/Smarter-Manufacturing-logo--284x284.jpg 284w, https://lift.technology/wp-content/uploads/2025/02/Smarter-Manufacturing-logo--184x184.jpg 184w, https://lift.technology/wp-content/uploads/2025/02/Smarter-Manufacturing-logo--120x120.jpg 120w, https://lift.technology/wp-content/uploads/2025/02/Smarter-Manufacturing-logo--180x180.jpg 180w, https://lift.technology/wp-content/uploads/2025/02/Smarter-Manufacturing-logo--85x85.jpg 85w, https://lift.technology/wp-content/uploads/2025/02/Smarter-Manufacturing-logo-.jpg 1067w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "width": "768",
+        "height": "309",
+        "src": "https://lift.technology/wp-content/uploads/2025/01/10-year-anniversary-logo-RGB-NAMMI-768x309.png",
+        "class": "attachment-medium_large size-medium_large wp-image-11919",
+        "alt": "",
+        "srcset": "https://lift.technology/wp-content/uploads/2025/01/10-year-anniversary-logo-RGB-NAMMI-768x309.png 768w, https://lift.technology/wp-content/uploads/2025/01/10-year-anniversary-logo-RGB-NAMMI-300x121.png 300w, https://lift.technology/wp-content/uploads/2025/01/10-year-anniversary-logo-RGB-NAMMI-1024x412.png 1024w, https://lift.technology/wp-content/uploads/2025/01/10-year-anniversary-logo-RGB-NAMMI-1536x619.png 1536w, https://lift.technology/wp-content/uploads/2025/01/10-year-anniversary-logo-RGB-NAMMI-2048x825.png 2048w, https://lift.technology/wp-content/uploads/2025/01/10-year-anniversary-logo-RGB-NAMMI-204x82.png 204w, https://lift.technology/wp-content/uploads/2025/01/10-year-anniversary-logo-RGB-NAMMI-510x205.png 510w, https://lift.technology/wp-content/uploads/2025/01/10-year-anniversary-logo-RGB-NAMMI-500x201.png 500w, https://lift.technology/wp-content/uploads/2025/01/10-year-anniversary-logo-RGB-NAMMI-231x93.png 231w, https://lift.technology/wp-content/uploads/2025/01/10-year-anniversary-logo-RGB-NAMMI-284x114.png 284w, https://lift.technology/wp-content/uploads/2025/01/10-year-anniversary-logo-RGB-NAMMI-457x184.png 457w, https://lift.technology/wp-content/uploads/2025/01/10-year-anniversary-logo-RGB-NAMMI-298x120.png 298w, https://lift.technology/wp-content/uploads/2025/01/10-year-anniversary-logo-RGB-NAMMI-180x72.png 180w, https://lift.technology/wp-content/uploads/2025/01/10-year-anniversary-logo-RGB-NAMMI-211x85.png 211w",
+        "sizes": "(max-width: 768px) 100vw, 768px"
+      },
+      {
+        "width": "85",
+        "height": "85",
+        "src": "https://lift.technology/wp-content/uploads/2026/09/Department_of_War_Seal-85x85.png",
+        "class": "footer-logo footer-dod",
+        "alt": "",
+        "decoding": "async",
+        "srcset": "https://lift.technology/wp-content/uploads/2026/09/Department_of_War_Seal-85x85.png 85w, https://lift.technology/wp-content/uploads/2026/09/Department_of_War_Seal-300x300.png 300w, https://lift.technology/wp-content/uploads/2026/09/Department_of_War_Seal-1024x1024.png 1024w, https://lift.technology/wp-content/uploads/2026/09/Department_of_War_Seal-150x150.png 150w, https://lift.technology/wp-content/uploads/2026/09/Department_of_War_Seal-768x768.png 768w, https://lift.technology/wp-content/uploads/2026/09/Department_of_War_Seal-1536x1536.png 1536w, https://lift.technology/wp-content/uploads/2026/09/Department_of_War_Seal-2048x2048.png 2048w, https://lift.technology/wp-content/uploads/2026/09/Department_of_War_Seal-700x700.png 700w, https://lift.technology/wp-content/uploads/2026/09/Department_of_War_Seal-82x82.png 82w, https://lift.technology/wp-content/uploads/2026/09/Department_of_War_Seal-510x510.png 510w, https://lift.technology/wp-content/uploads/2026/09/Department_of_War_Seal-500x500.png 500w, https://lift.technology/wp-content/uploads/2026/09/Department_of_War_Seal-122x122.png 122w, https://lift.technology/wp-content/uploads/2026/09/Department_of_War_Seal-284x284.png 284w, https://lift.technology/wp-content/uploads/2026/09/Department_of_War_Seal-184x184.png 184w, https://lift.technology/wp-content/uploads/2026/09/Department_of_War_Seal-120x120.png 120w, https://lift.technology/wp-content/uploads/2026/09/Department_of_War_Seal-180x180.png 180w",
+        "sizes": "(max-width: 85px) 100vw, 85px"
+      },
+      {
+        "width": "182",
+        "height": "85",
+        "src": "https://lift.technology/wp-content/uploads/2020/09/ONRlogo-182x85.png",
+        "class": "footer-logo footer-onr",
+        "alt": "",
+        "decoding": "async",
+        "srcset": "https://lift.technology/wp-content/uploads/2020/09/ONRlogo-182x85.png 182w, https://lift.technology/wp-content/uploads/2020/09/ONRlogo-300x140.png 300w, https://lift.technology/wp-content/uploads/2020/09/ONRlogo-175x82.png 175w, https://lift.technology/wp-content/uploads/2020/09/ONRlogo-500x234.png 500w, https://lift.technology/wp-content/uploads/2020/09/ONRlogo-231x108.png 231w, https://lift.technology/wp-content/uploads/2020/09/ONRlogo-195x91.png 195w, https://lift.technology/wp-content/uploads/2020/09/ONRlogo-284x133.png 284w, https://lift.technology/wp-content/uploads/2020/09/ONRlogo-393x184.png 393w, https://lift.technology/wp-content/uploads/2020/09/ONRlogo-256x120.png 256w, https://lift.technology/wp-content/uploads/2020/09/ONRlogo-180x84.png 180w, https://lift.technology/wp-content/uploads/2020/09/ONRlogo.png 594w",
+        "sizes": "(max-width: 182px) 100vw, 182px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-150/3686c1064a148f46.txt"
+  },
+  {
+    "id": "5bc62dc9eba3ba21",
+    "name": "AM Best Company, Inc.",
+    "requested_url": "https://www.ambest.com/",
+    "status": 200,
+    "final_url": "https://www.ambest.com/",
+    "text_chars": 185,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-150/5bc62dc9eba3ba21.txt"
+  },
+  {
+    "id": "27fe4feb81aeafe7",
+    "name": "Amber Semiconductor, Inc.",
+    "requested_url": "https://ambersi.com/company/",
+    "status": 202,
+    "final_url": "https://ambersi.com/company/",
+    "text_chars": 88,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-150/27fe4feb81aeafe7.txt"
+  },
+  {
+    "id": "fc8b1ea8801ed819",
+    "name": "AMCot, Inc.",
+    "requested_url": "https://amcot.org/",
+    "status": 200,
+    "final_url": "https://amcot.org/",
+    "text_chars": 4786,
+    "logo_candidates": [
+      {
+        "class": "stnd skip-lazy default-logo dark-version",
+        "width": "0",
+        "height": "0",
+        "alt": "AMCOT",
+        "src": "https://amcot.org/wp-content/uploads/AmcotRegistered.svg",
+        "srcset": "https://amcot.org/wp-content/uploads/AmcotRegistered.svg 1x, https://amcot.org/wp-content/uploads/AmcotRegistered.svg 2x"
+      },
+      {
+        "class": "starting-logo skip-lazy default-logo",
+        "width": "0",
+        "height": "0",
+        "alt": "AMCOT",
+        "src": "https://amcot.org/wp-content/uploads/AmcotRegistered.svg",
+        "srcset": "https://amcot.org/wp-content/uploads/AmcotRegistered.svg 1x, https://amcot.org/wp-content/uploads/AmcotRegistered.svg 2x"
+      },
+      {
+        "decoding": "async",
+        "class": "alignnone size-full wp-image-350",
+        "style": "max-width: 100px; margin-bottom: 20px;",
+        "src": "https://amcot.org/wp-content/uploads/amcot-logo-vertical.svg",
+        "alt": "AMCOT"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-150/fc8b1ea8801ed819.txt"
+  },
+  {
+    "id": "a6c8532266eef27a",
+    "name": "America's Mutual Banks",
+    "requested_url": "https://www.americasmutualbanks.com/",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)>"
+  }
+]

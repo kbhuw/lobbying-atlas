@@ -1,0 +1,968 @@
+[
+  {
+    "id": "2d4f56bc2387d323",
+    "name": "Logiqal Inc.",
+    "requested_url": "https://logiqal.com/",
+    "status": 200,
+    "final_url": "https://www.logiqal.com/",
+    "text_chars": 1940,
+    "logo_candidates": [
+      {
+        "src": "https://cdn.prod.website-files.com/68d2aa547d455b36d04aef6a/692744bc01c96da50b32309b_logiqal-logo.svg",
+        "loading": "lazy",
+        "width": "102",
+        "alt": "",
+        "class": "logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-219/2d4f56bc2387d323.txt"
+  },
+  {
+    "id": "4353307737b6f98c",
+    "name": "Logistec Marine Services ULC",
+    "requested_url": "https://logistec.com/",
+    "status": 200,
+    "final_url": "https://www.logistec.com/",
+    "text_chars": 5705,
+    "logo_candidates": [
+      {
+        "src": "/wp-content/uploads/2017/12/logo.svg",
+        "alt": "Logistec",
+        "id": "logo",
+        "data-height-percentage": "30"
+      },
+      {
+        "decoding": "async",
+        "src": "https://www.logistec.com/wp-content/uploads/2026/06/enstructure-logo-white-1.webp",
+        "width": "200px",
+        "style": "margin-bottom: 5px;"
+      },
+      {
+        "src": "/wp-content/uploads/2018/01/logo-light.svg",
+        "style": "width: 80%;"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-219/4353307737b6f98c.txt"
+  },
+  {
+    "id": "e24163905a439589",
+    "name": "Lone Star Analysis (filed former name: Lone Star Aerospace; unverified)",
+    "requested_url": "https://www.lone-star.com/",
+    "status": 200,
+    "final_url": "https://www.lone-star.com/",
+    "text_chars": 5099,
+    "logo_candidates": [
+      {
+        "class": "sh-standard-logo",
+        "src": "https://ec2-3-141-205-83.us-east-2.compute.amazonaws.com/wp-content/uploads/2021/07/lonestar_finalcolor_withmark400-1.png",
+        "alt": "Lone Star Analysis",
+        "height": "48"
+      },
+      {
+        "class": "sh-sticky-logo",
+        "src": "https://ec2-3-141-205-83.us-east-2.compute.amazonaws.com/wp-content/uploads/2021/07/lonestar_finalcolor_withmark400-1.png",
+        "alt": "Lone Star Analysis",
+        "height": "48"
+      },
+      {
+        "class": "sh-light-logo",
+        "src": "https://ec2-3-141-205-83.us-east-2.compute.amazonaws.com/wp-content/uploads/2021/07/lonestar_finalcolor_withmark400-1.png",
+        "alt": "Lone Star Analysis",
+        "height": "48"
+      },
+      {
+        "class": "sh-standard-logo",
+        "src": "https://ec2-3-141-205-83.us-east-2.compute.amazonaws.com/wp-content/uploads/2021/07/lonestar_finalcolor_withmark400-1.png",
+        "alt": "Lone Star Analysis",
+        "height": "48"
+      },
+      {
+        "class": "sh-sticky-logo",
+        "src": "https://ec2-3-141-205-83.us-east-2.compute.amazonaws.com/wp-content/uploads/2021/07/lonestar_finalcolor_withmark400-1.png",
+        "alt": "Lone Star Analysis",
+        "height": "48"
+      },
+      {
+        "class": "sh-light-logo",
+        "src": "https://ec2-3-141-205-83.us-east-2.compute.amazonaws.com/wp-content/uploads/2021/07/lonestar_finalcolor_withmark400-1.png",
+        "alt": "Lone Star Analysis",
+        "height": "48"
+      },
+      {
+        "decoding": "async",
+        "class": "alignnone wp-image-12232",
+        "src": "http://lone-star.com/wp-content/uploads/2023/12/TruNavigator-MAX-Logo-Full-760x177-1-640x149.png",
+        "alt": "TruNavigator MAX logo",
+        "width": "270",
+        "height": "63",
+        "srcset": "https://www.lone-star.com/wp-content/uploads/2023/12/TruNavigator-MAX-Logo-Full-760x177-1-640x149.png 640w, https://www.lone-star.com/wp-content/uploads/2023/12/TruNavigator-MAX-Logo-Full-760x177-1.png 760w",
+        "sizes": "(max-width: 270px) 100vw, 270px"
+      },
+      {
+        "decoding": "async",
+        "class": "alignnone wp-image-12235",
+        "src": "http://lone-star.com/wp-content/uploads/2023/12/LS_Logo_EvolvedAI_TM_blue-400x.png",
+        "alt": "Lone Star Evolved AI logo 400",
+        "width": "271",
+        "height": "57"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "class": "alignnone wp-image-8102 size-full",
+        "src": "http://lone-star.com/wp-content/uploads/2022/06/Final-MaxUp-Main-Logo-5-31-2022.png",
+        "alt": "MaxUp",
+        "width": "272",
+        "height": "45"
+      },
+      {
+        "src": "/wp-content/uploads/2021/06/logo_footer.png",
+        "width": "202",
+        "height": "46",
+        "alt": "Lone Star Analysis logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-219/e24163905a439589.txt"
+  },
+  {
+    "id": "6d7a84c187741a88",
+    "name": "L'oreal USA S/d, Inc.",
+    "requested_url": "https://www.lorealusa.com/",
+    "status": 200,
+    "final_url": "https://www.loreal.com/en/usa/",
+    "text_chars": 10082,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-219/6d7a84c187741a88.txt"
+  },
+  {
+    "id": "9f55c33bcf90ed19",
+    "name": "Louis Dreyfus Company LLC",
+    "requested_url": "https://www.ldc.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "4c3e5eb17a2244f8",
+    "name": "Lower Platte Nrds",
+    "requested_url": "https://www.lowerplatte.org/",
+    "status": 200,
+    "final_url": "https://www.lowerplatte.org/",
+    "text_chars": 13394,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-219/4c3e5eb17a2244f8.txt"
+  },
+  {
+    "id": "c17cbe3ef3e91fec",
+    "name": "LSP Generation IV, LLC",
+    "requested_url": "https://www.lspower.com/",
+    "status": 200,
+    "final_url": "https://www.lspower.com/",
+    "text_chars": 4166,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-219/c17cbe3ef3e91fec.txt"
+  },
+  {
+    "id": "0776f18d17b76ce7",
+    "name": "Lumen Technologies Service Group, LLC",
+    "requested_url": "https://www.lumen.com/",
+    "status": 200,
+    "final_url": "https://www.lumen.com/en-us/home.html",
+    "text_chars": 10830,
+    "logo_candidates": [
+      {
+        "src": "/content/dam/lumen/logo/Lumen-logo-R.svg",
+        "alt": "Homepage"
+      },
+      {
+        "src": "/content/dam/lumen/logo/Lumen-logo-R.svg",
+        "alt": "Homepage"
+      },
+      {
+        "src": "/content/dam/lumen/new-homepage/logos/Logo-AWS-1C.svg",
+        "alt": "Image"
+      },
+      {
+        "src": "/content/dam/lumen/new-homepage/logos/Logo-Ball-1C.svg",
+        "alt": "Image"
+      },
+      {
+        "src": "https://assets.lumen.com/is/image/Lumen/bimbo-bakeries-usa-logo-new?$PNG$&Creativeid=5f74a400-535e-49be-9855-f12ba0634d92",
+        "alt": "Image"
+      },
+      {
+        "src": "/content/dam/lumen/new-homepage/logos/Logo-UCBerkeley-1C.svg",
+        "alt": "Image"
+      },
+      {
+        "src": "/content/dam/lumen/new-homepage/logos/Logo-GoogleCloud-1C.svg",
+        "alt": "Image"
+      },
+      {
+        "src": "/content/dam/lumen/new-homepage/logos/Logo-IGT-1C.svg",
+        "alt": "Image"
+      },
+      {
+        "src": "/content/dam/lumen/new-homepage/logos/Logo-Intelsat-1C.svg",
+        "alt": "Image"
+      },
+      {
+        "src": "/content/dam/lumen/new-homepage/logos/Logo-KonicaMinolta-1C.svg",
+        "alt": "Image"
+      },
+      {
+        "src": "/content/dam/lumen/new-homepage/logos/Logo-LMVH-1C.svg",
+        "alt": "Image"
+      },
+      {
+        "src": "/content/dam/lumen/new-homepage/logos/Logo-Markel-1C.svg",
+        "alt": "Image"
+      },
+      {
+        "src": "/content/dam/lumen/new-homepage/logos/Logo-Microsoft-1C.svg",
+        "alt": "Image"
+      },
+      {
+        "src": "https://assets.lumen.com/is/image/Lumen/new-york-yankees-logo-new?$PNG$&Creativeid=734ea1f0-83f8-476c-b7c7-e3c182e63dcf",
+        "alt": "Image"
+      },
+      {
+        "src": "/content/dam/lumen/new-homepage/logos/Logo-RalphLauren-1C.svg",
+        "alt": "Image"
+      },
+      {
+        "src": "https://assets.lumen.com/is/image/Lumen/regal-entertainment-group-logo-new?$PNG$&Creativeid=fa6cdc7e-ded9-4c56-beb9-dc8c0661c904",
+        "alt": "Image"
+      },
+      {
+        "src": "https://assets.lumen.com/is/image/Lumen/rotech-healthcare-inc-logo-new?$PNG$&Creativeid=bdfc411d-414d-4816-afeb-3f099ce3a6f4",
+        "alt": "Image"
+      },
+      {
+        "src": "/content/dam/lumen/new-homepage/logos/Logo-Seahawks-1C.svg",
+        "alt": "Image"
+      },
+      {
+        "src": "https://assets.lumen.com/is/image/Lumen/volvo-car-usa-logo-new?$PNG$&Creativeid=2a2a6d8a-1980-4c7b-9cbd-c298e69897c3",
+        "alt": "Image"
+      },
+      {
+        "src": "/content/dam/lumen/new-homepage/logos/Logo-WorldPay-1C.svg",
+        "alt": "Image"
+      },
+      {
+        "src": "https://assets.lumen.com/is/image/Lumen/xcel-energy-logo-new?$PNG$&Creativeid=5c97b6d0-479b-43f9-b6c5-955a8a7b0044",
+        "alt": "Image"
+      },
+      {
+        "src": "/content/dam/lumen/new-homepage/logos/Logo-Zoom-1C.svg",
+        "alt": "Image"
+      },
+      {
+        "src": "/content/dam/lumen/new-homepage/logos/Logo-AWS-1C.svg",
+        "alt": "Image"
+      },
+      {
+        "src": "/content/dam/lumen/new-homepage/logos/Logo-Ball-1C.svg",
+        "alt": "Image"
+      },
+      {
+        "src": "https://assets.lumen.com/is/image/Lumen/bimbo-bakeries-usa-logo-new?$PNG$&Creativeid=5f74a400-535e-49be-9855-f12ba0634d92",
+        "alt": "Image"
+      },
+      {
+        "src": "/content/dam/lumen/new-homepage/logos/Logo-UCBerkeley-1C.svg",
+        "alt": "Image"
+      },
+      {
+        "src": "/content/dam/lumen/new-homepage/logos/Logo-GoogleCloud-1C.svg",
+        "alt": "Image"
+      },
+      {
+        "src": "/content/dam/lumen/new-homepage/logos/Logo-IGT-1C.svg",
+        "alt": "Image"
+      },
+      {
+        "src": "/content/dam/lumen/new-homepage/logos/Logo-Intelsat-1C.svg",
+        "alt": "Image"
+      },
+      {
+        "src": "/content/dam/lumen/new-homepage/logos/Logo-KonicaMinolta-1C.svg",
+        "alt": "Image"
+      },
+      {
+        "src": "/content/dam/lumen/new-homepage/logos/Logo-LMVH-1C.svg",
+        "alt": "Image"
+      },
+      {
+        "src": "/content/dam/lumen/new-homepage/logos/Logo-Markel-1C.svg",
+        "alt": "Image"
+      },
+      {
+        "src": "/content/dam/lumen/new-homepage/logos/Logo-Microsoft-1C.svg",
+        "alt": "Image"
+      },
+      {
+        "src": "https://assets.lumen.com/is/image/Lumen/new-york-yankees-logo-new?$PNG$&Creativeid=734ea1f0-83f8-476c-b7c7-e3c182e63dcf",
+        "alt": "Image"
+      },
+      {
+        "src": "/content/dam/lumen/new-homepage/logos/Logo-RalphLauren-1C.svg",
+        "alt": "Image"
+      },
+      {
+        "src": "https://assets.lumen.com/is/image/Lumen/regal-entertainment-group-logo-new?$PNG$&Creativeid=fa6cdc7e-ded9-4c56-beb9-dc8c0661c904",
+        "alt": "Image"
+      },
+      {
+        "src": "https://assets.lumen.com/is/image/Lumen/rotech-healthcare-inc-logo-new?$PNG$&Creativeid=bdfc411d-414d-4816-afeb-3f099ce3a6f4",
+        "alt": "Image"
+      },
+      {
+        "src": "/content/dam/lumen/new-homepage/logos/Logo-Seahawks-1C.svg",
+        "alt": "Image"
+      },
+      {
+        "src": "https://assets.lumen.com/is/image/Lumen/volvo-car-usa-logo-new?$PNG$&Creativeid=2a2a6d8a-1980-4c7b-9cbd-c298e69897c3",
+        "alt": "Image"
+      },
+      {
+        "src": "/content/dam/lumen/new-homepage/logos/Logo-WorldPay-1C.svg",
+        "alt": "Image"
+      },
+      {
+        "src": "https://assets.lumen.com/is/image/Lumen/xcel-energy-logo-new?$PNG$&Creativeid=5c97b6d0-479b-43f9-b6c5-955a8a7b0044",
+        "alt": "Image"
+      },
+      {
+        "src": "/content/dam/lumen/new-homepage/logos/Logo-Zoom-1C.svg",
+        "alt": "Image"
+      },
+      {
+        "src": "/content/dam/lumen/new-homepage/Lumen-Logo-White-Footer.png",
+        "alt": "Lumen",
+        "loading": "eager"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-219/0776f18d17b76ce7.txt"
+  },
+  {
+    "id": "46623dd2754f23a9",
+    "name": "Lumexa Imaging, Inc. (fka US Radiology Specialists)",
+    "requested_url": "https://ir.lumexaimaging.com/",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "a9c4d019e347e92d",
+    "name": "Lumina AI",
+    "requested_url": "https://www.lumina.ai/",
+    "status": 200,
+    "final_url": "https://www.lumina.ai/",
+    "text_chars": 66,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-219/a9c4d019e347e92d.txt"
+  },
+  {
+    "id": "ef0cbdb3d04dcf62",
+    "name": "Lundbeck Pharmaceuticals",
+    "requested_url": "https://www.lundbeck.com/",
+    "error": "'NoneType' object has no attribute 'lower'"
+  },
+  {
+    "id": "e630cff13690c714",
+    "name": "Lupus Foundation of America (on Behalf of Maprx Coalition, AN LFA Initiative).",
+    "requested_url": "https://www.lupus.org/",
+    "status": 200,
+    "final_url": "https://www.lupus.org/",
+    "text_chars": 450,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-219/e630cff13690c714.txt"
+  },
+  {
+    "id": "65ebd1b693596eac",
+    "name": "Luxium Solutions (fka Saint Gobain Crystals)",
+    "requested_url": "https://luxiumsolutions.com/",
+    "status": 200,
+    "final_url": "https://luxiumsolutions.com/",
+    "text_chars": 5789,
+    "logo_candidates": [
+      {
+        "src": "/sites/default/files/EXL-Logo-Sub_Luxium-Joint-Black_Green-TM-RGB.png",
+        "alt": "Home",
+        "class": "m-branding__image"
+      },
+      {
+        "src": "/sites/default/files/EXL-Logo-Sub_Luxium-Joint-Black_Green-TM-RGB.png",
+        "alt": "Home",
+        "class": "m-branding__image"
+      },
+      {
+        "loading": "eager",
+        "width": "768",
+        "height": "512",
+        "src": "/sites/default/files/styles/768x512/public/2023-11/BCF-XL_1440x512.png?h=70bcb911&itok=Y_j-VFe4",
+        "alt": "BCF-XL homepage banner"
+      },
+      {
+        "src": " /sites/default/files/2026-07/EXL-Logo-Sub_Luxium-Joint-Black_Green-TM-RGB.png",
+        "alt": "Luxium Excelitas logo",
+        "class": "m-branding__image"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-219/65ebd1b693596eac.txt"
+  },
+  {
+    "id": "55713faffd5001b7",
+    "name": "LX Pantos America, Inc.",
+    "requested_url": "https://www.lxpantos.com/",
+    "status": 200,
+    "final_url": "https://www.lxpantos.com/",
+    "text_chars": 83,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-219/55713faffd5001b7.txt"
+  },
+  {
+    "id": "935d67483e559b55",
+    "name": "Lyondell Chemical Company",
+    "requested_url": "https://www.lyondellbasell.com/",
+    "status": 200,
+    "final_url": "https://www.lyondellbasell.com/",
+    "text_chars": 5365,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-219/935d67483e559b55.txt"
+  },
+  {
+    "id": "280540e0736ec3c3",
+    "name": "M&T Bank / M&T Bank Corporation",
+    "requested_url": "https://www.mtb.com/",
+    "status": 200,
+    "final_url": "https://www.mtb.com/",
+    "text_chars": 8720,
+    "logo_candidates": [
+      {
+        "loading": "lazy",
+        "class": "mb-3 align-self-center m-0 ",
+        "data-id-element": "bs_img-1600033773",
+        "alt": "Top 10 SBA Lender Nationally Logo",
+        "src": "/content/dam/wtb-web/images/business-banking/business-education/mt-sba-badge-education-web.jpg"
+      },
+      {
+        "loading": "lazy",
+        "class": "mb-3 align-self-center m-0 ",
+        "data-id-element": "bs_img-547950531",
+        "alt": "Coalition Greenwich Awards 2025 Logo Best Bank",
+        "src": "/content/dam/mtb-web/images/greenwich-award-badge-2026.png"
+      },
+      {
+        "loading": "lazy",
+        "class": "mb-3 align-self-center m-0 ",
+        "data-id-element": "bs_img-551970619",
+        "alt": "Top 10 SBA Lender Nationally Logo",
+        "src": "/content/dam/wtb-web/images/business-banking/business-education/mt-sba-badge-education-web.jpg"
+      },
+      {
+        "loading": "lazy",
+        "class": "mb-3 align-self-center m-0 ",
+        "data-id-element": "bs_img-2128512501",
+        "alt": "Coalition Greenwich Awards 2025 Logo Best Bank",
+        "src": "/content/dam/mtb-web/images/greenwich-award-badge-2026.png"
+      },
+      {
+        "class": "speedbump-ehl",
+        "alt": "Equal Housing Lender Logo",
+        "src": "/content/dam/mtb-web/images/ehl.png"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-219/280540e0736ec3c3.txt"
+  },
+  {
+    "id": "a5e9cbd175fa9446",
+    "name": "Madison Square Garden",
+    "requested_url": "https://www.msg.com/",
+    "status": 200,
+    "final_url": "https://www.msg.com:443/madison-square-garden",
+    "text_chars": 1995,
+    "logo_candidates": [
+      {
+        "alt": "https://platform-assets.msg.com/event-engine/venues_logo/beacon_logo.svg",
+        "src": "https://platform-assets.msg.com/event-engine/venues_logo/beacon_logo.svg"
+      },
+      {
+        "alt": "https://platform-assets.msg.com/event-engine/venues_logo/radio_city_logo.svg",
+        "src": "https://platform-assets.msg.com/event-engine/venues_logo/radio_city_logo.svg"
+      },
+      {
+        "alt": "https://platform-assets.msg.com/event-engine/venues_logo/beacon_logo.svg",
+        "src": "https://platform-assets.msg.com/event-engine/venues_logo/beacon_logo.svg"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-219/a5e9cbd175fa9446.txt"
+  },
+  {
+    "id": "d60d9a3261064e2a",
+    "name": "Maersk Agency U.s.a., Inc.",
+    "requested_url": "https://www.maersk.com/",
+    "status": 200,
+    "final_url": "https://www.maersk.com/",
+    "text_chars": 3237,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-219/d60d9a3261064e2a.txt"
+  },
+  {
+    "id": "5c94a48d137cf5c9",
+    "name": "Maersk Inc. (fka Maersk Lines Ltd)",
+    "requested_url": "https://www.maersk.com/",
+    "status": 200,
+    "final_url": "https://www.maersk.com/",
+    "text_chars": 3245,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-219/5c94a48d137cf5c9.txt"
+  },
+  {
+    "id": "5c7f68827c2297be",
+    "name": "Maersk Services USA Inc.",
+    "requested_url": "https://www.maersk.com/",
+    "status": 200,
+    "final_url": "https://www.maersk.com/",
+    "text_chars": 3235,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-219/5c7f68827c2297be.txt"
+  },
+  {
+    "id": "6c17b150041b0182",
+    "name": "Maha Capital",
+    "requested_url": "https://maha-capital.com/",
+    "status": 202,
+    "final_url": "https://maha-capital.com/",
+    "text_chars": 72,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-219/6c17b150041b0182.txt"
+  },
+  {
+    "id": "504f9df6e3b39671",
+    "name": "Maher & Associates, Llc, DBA Maher Advanced Manufacturing",
+    "requested_url": "https://maher-mfg.com/",
+    "status": 202,
+    "final_url": "https://maher-mfg.com/",
+    "text_chars": 114,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-219/504f9df6e3b39671.txt"
+  },
+  {
+    "id": "a5203ab70e8fba3b",
+    "name": "Main Street Sports Group DBA Fanduel Sports Network",
+    "requested_url": "https://mainstreetsportsgroup.com/",
+    "status": 200,
+    "final_url": "https://mainstreetsportsgroup.com/",
+    "text_chars": 1505,
+    "logo_candidates": [
+      {
+        "alt": "Main Street Sports Group Logo",
+        "width": "275",
+        "height": "75",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "logo",
+        "style": "color:transparent",
+        "src": "/images/MSSG_logo_white.svg"
+      },
+      {
+        "alt": "FanDuel Sports Network Logo",
+        "width": "425",
+        "height": "125",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "logo",
+        "style": "color:transparent",
+        "src": "/images/FDSN_MSSG_logolockup.svg"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-219/a5203ab70e8fba3b.txt"
+  },
+  {
+    "id": "0cb121fbb5f8a147",
+    "name": "Manipal Education Americas LLC (greater Caribbean Learning Resources Inc",
+    "requested_url": "https://www.manipalglobal.com/",
+    "status": 200,
+    "final_url": "https://manipalglobal.com/",
+    "text_chars": 4276,
+    "logo_candidates": [
+      {
+        "width": "274",
+        "height": "43",
+        "src": "https://manipalglobal.com/wp-content/uploads/2023/05/Maniapl-Global-Logo.png",
+        "class": "default-logo",
+        "alt": "Manipal Global",
+        "decoding": "async"
+      },
+      {
+        "width": "274",
+        "height": "43",
+        "src": "https://manipalglobal.com/wp-content/uploads/2023/05/Maniapl-Global-Logo.png",
+        "class": "default-logo",
+        "alt": "Manipal Global",
+        "decoding": "async"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-219/0cb121fbb5f8a147.txt"
+  },
+  {
+    "id": "fcf952f88d59baf2",
+    "name": "Manned Space Flight Foundation Inc.",
+    "requested_url": "https://spacecenter.org/",
+    "status": 200,
+    "final_url": "https://spacecenter.org/",
+    "text_chars": 11543,
+    "logo_candidates": [
+      {
+        "src": "https://spacecenter.org/wp-content/uploads/2022/07/SCH-Galaxy-Logo-White.png",
+        "title": "SCH Galaxy Logo White",
+        "alt": "SCH Galaxy Logo White",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://spacecenter.org/wp-content/uploads/2022/07/SCH-Galaxy-Logo-White.png",
+        "title": "SCH Galaxy Logo White",
+        "alt": "SCH Galaxy Logo White",
+        "loading": "lazy"
+      },
+      {
+        "src": "https://spacecenter.org/wp-content/uploads/2022/07/SCH-Galaxy-Logo-White.png",
+        "title": "SCH Galaxy Logo White",
+        "alt": "SCH Galaxy Logo White",
+        "loading": "lazy"
+      },
+      {
+        "loading": "lazy",
+        "width": "752",
+        "height": "327",
+        "src": "https://spacecenter.org/wp-content/uploads/2022/07/SCH-Galaxy-Logo-White.png",
+        "class": "attachment-large size-large wp-image-27",
+        "alt": "",
+        "srcset": "https://spacecenter.org/wp-content/uploads/2022/07/SCH-Galaxy-Logo-White.png 752w, https://spacecenter.org/wp-content/uploads/2022/07/SCH-Galaxy-Logo-White-300x130.png 300w",
+        "sizes": "(max-width: 752px) 100vw, 752px"
+      },
+      {
+        "loading": "lazy",
+        "width": "254",
+        "height": "169",
+        "src": "https://spacecenter.org/wp-content/uploads/2022/07/smithsonian-logo.png",
+        "class": "attachment-large size-large wp-image-56982",
+        "alt": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-219/fcf952f88d59baf2.txt"
+  },
+  {
+    "id": "d402a9a270d11d63",
+    "name": "Mantari, Inc.",
+    "requested_url": "https://mantari.com/",
+    "status": 200,
+    "final_url": "https://www.mantari.com/",
+    "text_chars": 1324,
+    "logo_candidates": [
+      {
+        "alt": "Mantari Logo",
+        "loading": "lazy",
+        "width": "1200",
+        "height": "360",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-128 w-auto",
+        "style": "color:transparent",
+        "src": "/images/mantari-ko.png"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-219/d402a9a270d11d63.txt"
+  },
+  {
+    "id": "642fbc4595e5f3c1",
+    "name": "Mantari Industries",
+    "requested_url": "https://mantari.com/",
+    "status": 200,
+    "final_url": "https://www.mantari.com/",
+    "text_chars": 1329,
+    "logo_candidates": [
+      {
+        "alt": "Mantari Logo",
+        "loading": "lazy",
+        "width": "1200",
+        "height": "360",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-128 w-auto",
+        "style": "color:transparent",
+        "src": "/images/mantari-ko.png"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-219/642fbc4595e5f3c1.txt"
+  },
+  {
+    "id": "1fd99cccf15bb189",
+    "name": "Marathon Petroleum Company LP",
+    "requested_url": "https://www.marathonpetroleum.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "6f9ca89444834155",
+    "name": "Marquis Management",
+    "requested_url": "https://marquisinc.com/",
+    "status": 200,
+    "final_url": "https://marquisinc.com/",
+    "text_chars": 4694,
+    "logo_candidates": [
+      {
+        "src": "https://marquisinc.com/wp-content/themes/marquis/images/logo.svg",
+        "alt": "MARQUIS"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-219/6f9ca89444834155.txt"
+  },
+  {
+    "id": "5a448d4ca29deb58",
+    "name": "Marubeni OIL & GAS (usa) Inc.",
+    "requested_url": "https://www.marubeniamerica.com/ourbusiness.html",
+    "status": 200,
+    "final_url": "https://www.marubeniamerica.com/ourbusiness.html",
+    "text_chars": 20589,
+    "logo_candidates": [
+      {
+        "src": "images/logo.jpg",
+        "alt": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-219/5a448d4ca29deb58.txt"
+  },
+  {
+    "id": "0e2c2550557b04ab",
+    "name": "Match Group Holdings",
+    "requested_url": "https://ir.matchgroup.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "c3a2b304c10e8b22",
+    "name": "Mattress Firm",
+    "requested_url": "https://www.mattressfirm.com",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "202d198230e4907b",
+    "name": "Mauritius Sugar Syndicate and Mauritius Chamber of Agriculture",
+    "requested_url": "https://mauritiussugar.mu/",
+    "status": 200,
+    "final_url": "https://mauritiussugar.mu/",
+    "text_chars": 8256,
+    "logo_candidates": [
+      {
+        "src": "https://mauritiussugar.mu/wp-content/uploads/2021/03/logo-line-16@2x.png",
+        "height": "178",
+        "width": "346",
+        "alt": "",
+        "style": "width: 100%;",
+        "class": "tve-not-lazy-loaded"
+      },
+      {
+        "src": "https://mauritiussugar.mu/wp-content/plugins/cookie-law-info/legacy/public/images/logo-cookieyes.svg",
+        "alt": "CookieYes Logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-219/202d198230e4907b.txt"
+  },
+  {
+    "id": "8ffc36a929fb03f9",
+    "name": "Mayer Brown LLP OBO Circle Internet Financial, Inc.",
+    "requested_url": "https://investor.circle.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "fa041e8594e66a9b",
+    "name": "Mayer Brown LLP on Behalf of Syensqo USA LLC",
+    "requested_url": "https://www.syensqo.com/",
+    "error": "HTTP Error 406: Not Acceptable"
+  },
+  {
+    "id": "b1501d99f151ba50",
+    "name": "Mayne Pharma Commercial LLC",
+    "requested_url": "https://www.maynepharma.com/",
+    "status": 202,
+    "final_url": "https://www.maynepharma.com/",
+    "text_chars": 90,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-219/b1501d99f151ba50.txt"
+  },
+  {
+    "id": "b18a8d97cf837531",
+    "name": "McCourt Partners LLC",
+    "requested_url": "https://www.mccourt.com/our-work/real-estate-infrastructure/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "49b0005fc28db625",
+    "name": "Mcgraw Hill, LLC",
+    "requested_url": "https://www.mheducation.com/",
+    "error": "'NoneType' object has no attribute 'lower'"
+  },
+  {
+    "id": "61e320834b91557b",
+    "name": "Mcgraw-hill Education",
+    "requested_url": "https://www.mheducation.com/",
+    "error": "'NoneType' object has no attribute 'lower'"
+  },
+  {
+    "id": "89d9dd2f735e817a",
+    "name": "Mcguirewoods, LLP OBO the University of Illinois",
+    "requested_url": "https://www.uillinois.edu/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "9d5a23d53d06181e",
+    "name": "McKesson Corporation and US Oncology affiliate (formerly US Oncology)",
+    "requested_url": "https://www.mckesson.com/specialty/",
+    "status": 200,
+    "final_url": "https://www.mckesson.com/specialty/",
+    "text_chars": 6424,
+    "logo_candidates": [
+      {
+        "src": "/siteassets/images/z-mckesson-logosicons/specialty-practice-solutions.png",
+        "alt": "System.Func`1[System.String]"
+      },
+      {
+        "src": "/siteassets/images/z-mckesson-logosicons/mck_logo_blue.svg",
+        "alt": "McKesson logo blue"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-219/9d5a23d53d06181e.txt"
+  },
+  {
+    "id": "15d88e350276f8c1",
+    "name": "McKesson Corporation and affiliates: US Oncology and Rx Savings Solutions",
+    "requested_url": "https://www.mckesson.com/",
+    "status": 200,
+    "final_url": "https://www.mckesson.com/",
+    "text_chars": 7763,
+    "logo_candidates": [
+      {
+        "src": "/siteassets/images/z-mckesson-logosicons/mck_logo_blue.svg",
+        "alt": "McKesson logo"
+      },
+      {
+        "src": "/siteassets/pages/about-us/newsroom/press-releases/press-release-general-images/earnings.png",
+        "alt": "An icon of the MC in the McKesson logo",
+        "loading": "lazy",
+        "width": "450"
+      },
+      {
+        "src": "/siteassets/images/z-mckesson-logosicons/mck_logo_blue.svg",
+        "alt": "McKesson logo blue"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-219/15d88e350276f8c1.txt"
+  },
+  {
+    "id": "4f9b4f021665c95d",
+    "name": "McKesson Specialty Health",
+    "requested_url": "https://www.mckesson.com/specialty/",
+    "status": 200,
+    "final_url": "https://www.mckesson.com/specialty/",
+    "text_chars": 6380,
+    "logo_candidates": [
+      {
+        "src": "/siteassets/images/z-mckesson-logosicons/specialty-practice-solutions.png",
+        "alt": "System.Func`1[System.String]"
+      },
+      {
+        "src": "/siteassets/images/z-mckesson-logosicons/mck_logo_blue.svg",
+        "alt": "McKesson logo blue"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-219/4f9b4f021665c95d.txt"
+  },
+  {
+    "id": "0a49c57346adb98e",
+    "name": "McKinsey & Company",
+    "requested_url": "https://www.mckinsey.com/",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "id": "3df4e2b46793efbe",
+    "name": "McLane Group International, LP",
+    "requested_url": "https://mclanegroup.com/",
+    "error": "'NoneType' object has no attribute 'lower'"
+  },
+  {
+    "id": "0e7b1e2222334f60",
+    "name": "Mediatek USA Inc.",
+    "requested_url": "https://www.mediatek.com/",
+    "status": 200,
+    "final_url": "https://www.mediatek.com/",
+    "text_chars": 14542,
+    "logo_candidates": [
+      {
+        "src": "https://www.mediatek.com/hs-fs/hubfs/MediaTek%20Assets/Images/MediaTek-Logo.png?width=130&height=16&name=MediaTek-Logo.png",
+        "class": "hs-image-widget ",
+        "height": "16",
+        "style": "height: auto;width:130px;border-width:0px;border:0px;",
+        "width": "130",
+        "alt": "MediaTek",
+        "title": "MediaTek",
+        "srcset": "https://www.mediatek.com/hs-fs/hubfs/MediaTek%20Assets/Images/MediaTek-Logo.png?width=65&height=8&name=MediaTek-Logo.png 65w, https://www.mediatek.com/hs-fs/hubfs/MediaTek%20Assets/Images/MediaTek-Logo.png?width=130&height=16&name=MediaTek-Logo.png 130w, https://www.mediatek.com/hs-fs/hubfs/MediaTek%20Assets/Images/MediaTek-Logo.png?width=195&height=24&name=MediaTek-Logo.png 195w, https://www.mediatek.com/hs-fs/hubfs/MediaTek%20Assets/Images/MediaTek-Logo.png?width=260&height=32&name=MediaTek-Logo.png 260w, https://www.mediatek.com/hs-fs/hubfs/MediaTek%20Assets/Images/MediaTek-Logo.png?width=325&height=40&name=MediaTek-Logo.png 325w, https://www.mediatek.com/hs-fs/hubfs/MediaTek%20Assets/Images/MediaTek-Logo.png?width=390&height=48&name=MediaTek-Logo.png 390w",
+        "sizes": "(max-width: 130px) 100vw, 130px"
+      },
+      {
+        "src": "https://www.mediatek.com/hs-fs/hubfs/MediaTek%20Assets/Images/Static%20Images/DREAMFASTER_logo.png?width=1515&height=114&name=DREAMFASTER_logo.png",
+        "width": "1515",
+        "height": "114",
+        "loading": "lazy",
+        "alt": "DREAMFASTER_logo",
+        "style": "height: auto; max-width: 100%; width: 1515px;",
+        "srcset": "https://www.mediatek.com/hs-fs/hubfs/MediaTek%20Assets/Images/Static%20Images/DREAMFASTER_logo.png?width=758&height=57&name=DREAMFASTER_logo.png 758w, https://www.mediatek.com/hs-fs/hubfs/MediaTek%20Assets/Images/Static%20Images/DREAMFASTER_logo.png?width=1515&height=114&name=DREAMFASTER_logo.png 1515w, https://www.mediatek.com/hs-fs/hubfs/MediaTek%20Assets/Images/Static%20Images/DREAMFASTER_logo.png?width=2273&height=171&name=DREAMFASTER_logo.png 2273w, https://www.mediatek.com/hs-fs/hubfs/MediaTek%20Assets/Images/Static%20Images/DREAMFASTER_logo.png?width=3030&height=228&name=DREAMFASTER_logo.png 3030w, https://www.mediatek.com/hs-fs/hubfs/MediaTek%20Assets/Images/Static%20Images/DREAMFASTER_logo.png?width=3788&height=285&name=DREAMFASTER_logo.png 3788w, https://www.mediatek.com/hs-fs/hubfs/MediaTek%20Assets/Images/Static%20Images/DREAMFASTER_logo.png?width=4545&height=342&name=DREAMFASTER_logo.png 4545w",
+        "sizes": "(max-width: 1515px) 100vw, 1515px"
+      },
+      {
+        "src": "https://www.mediatek.com/hubfs/MediaTek%20Assets/Images/Slider%20images/Product_homepage.jpg",
+        "alt": "Product homepage",
+        "title": "Product homepage",
+        "loading": "eager",
+        "fetchpriority": "high"
+      },
+      {
+        "src": "https://www.mediatek.com/hubfs/MediaTek%20Assets/Images/Slider%20images/Smartphone_homepage.jpg",
+        "alt": "Smartphone homepage",
+        "title": "Smartphone homepage",
+        "loading": "eager",
+        "fetchpriority": "high"
+      },
+      {
+        "src": "https://www.mediatek.com/hubfs/raw_assets/public/MediaTek_Mar_2024/images/mediatek-logo.svg",
+        "class": "hs-image-widget ",
+        "style": "width:180px;border-width:0px;border:0px;",
+        "width": "180",
+        "alt": "MediaTek",
+        "title": "MediaTek"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-219/0e7b1e2222334f60.txt"
+  },
+  {
+    "id": "81c26809c51e35ff",
+    "name": "Medica",
+    "requested_url": "https://www.medica.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "a02065e2a625f7ee",
+    "name": "Medline Industries LP",
+    "requested_url": "https://www.medline.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "1d3cf79f184b1da7",
+    "name": "Medline Industries, L.p. (formerly Medline Industries, Inc.)",
+    "requested_url": "https://www.medline.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "b058cdee68378eca",
+    "name": "Meggitt USA",
+    "requested_url": "https://www.meggitt.com/",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

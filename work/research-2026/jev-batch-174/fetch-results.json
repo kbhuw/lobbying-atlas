@@ -1,0 +1,1634 @@
+[
+  {
+    "id": "2bf65947176708f9",
+    "name": "Blackve, Inc.",
+    "requested_url": "https://www.blackve.us/",
+    "status": 200,
+    "final_url": "https://www.blackve.us/",
+    "text_chars": 3447,
+    "logo_candidates": [
+      {
+        "src": "https://cdn.prod.website-files.com/6a300a40b65d94b14361d804/6a3020b5cff7368fe3ef931e_BlackVe%20Logo%202025.png",
+        "alt": "",
+        "sizes": "(max-width: 767px) 100vw, (max-width: 991px) 728px, 940px",
+        "srcset": "https://cdn.prod.website-files.com/6a300a40b65d94b14361d804/6a3020b5cff7368fe3ef931e_BlackVe%20Logo%202025-p-500.png 500w, https://cdn.prod.website-files.com/6a300a40b65d94b14361d804/6a3020b5cff7368fe3ef931e_BlackVe%20Logo%202025-p-800.png 800w, https://cdn.prod.website-files.com/6a300a40b65d94b14361d804/6a3020b5cff7368fe3ef931e_BlackVe%20Logo%202025-p-1080.png 1080w, https://cdn.prod.website-files.com/6a300a40b65d94b14361d804/6a3020b5cff7368fe3ef931e_BlackVe%20Logo%202025-p-1600.png 1600w, https://cdn.prod.website-files.com/6a300a40b65d94b14361d804/6a3020b5cff7368fe3ef931e_BlackVe%20Logo%202025-p-2000.png 2000w, https://cdn.prod.website-files.com/6a300a40b65d94b14361d804/6a3020b5cff7368fe3ef931e_BlackVe%20Logo%202025-p-2600.png 2600w, https://cdn.prod.website-files.com/6a300a40b65d94b14361d804/6a3020b5cff7368fe3ef931e_BlackVe%20Logo%202025-p-3200.png 3200w, https://cdn.prod.website-files.com/6a300a40b65d94b14361d804/6a3020b5cff7368fe3ef931e_BlackVe%20Logo%202025.png 7580w",
+        "class": "navbar_logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-174/2bf65947176708f9.txt"
+  },
+  {
+    "id": "b5e4c3de098e1906",
+    "name": "Blake International Rigs, LLC",
+    "requested_url": "https://www.blakerigs.com/",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.blakerigs.com'. (_ssl.c:1129)>"
+  },
+  {
+    "id": "f1dacad8fdc67dfb",
+    "name": "Blink Health Inc.",
+    "requested_url": "https://www.blinkhealth.com/",
+    "status": 200,
+    "final_url": "https://www.blinkhealth.com/",
+    "text_chars": 80,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-174/f1dacad8fdc67dfb.txt"
+  },
+  {
+    "id": "ea7fba775e60a1b4",
+    "name": "Blood Cancer United",
+    "requested_url": "https://bloodcancerunited.org/resources/newsroom",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "f4abeff6caa98c9f",
+    "name": "Blood Cancer United, Inc. (fka Leukemia & Lymphoma Society, Inc. (lls)",
+    "requested_url": "https://bloodcancerunited.org/research",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "c42f75e66fc49a16",
+    "name": "Bloomberg LP",
+    "requested_url": "https://www.bloomberg.com/company/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "b2a6fb62d4c24a97",
+    "name": "Blue Bird Body Company",
+    "requested_url": "https://investors.blue-bird.com/company-overview/default.aspx",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "45df7fe366d984b2",
+    "name": "Blue Cross And Blue Shield Association",
+    "requested_url": "https://www.bcbs.com/about-us",
+    "status": 200,
+    "final_url": "https://www.bcbs.com/about-us",
+    "text_chars": 3446,
+    "logo_candidates": [
+      {
+        "itemprop": "logo",
+        "alt": "BCBS Logo",
+        "loading": "lazy",
+        "width": "175",
+        "height": "34",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "bcbs-header__logo bcbs-header__logo--light bcbs-image bcbs-fade",
+        "style": "color:transparent",
+        "src": "/dA/cec184ec-9008-4a98-bd75-b5d2304fb861/85q"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-174/45df7fe366d984b2.txt"
+  },
+  {
+    "id": "a4f45c139c5bc5a0",
+    "name": "Blue Origin",
+    "requested_url": "https://www.blueorigin.com/about-blue",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "id": "d0b0b91706dbf8e6",
+    "name": "Blue Owl Capital Holdings LP",
+    "requested_url": "https://www.blueowl.com/about-us",
+    "status": 200,
+    "final_url": "https://www.blueowl.com/about-us",
+    "text_chars": 11239,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-174/d0b0b91706dbf8e6.txt"
+  },
+  {
+    "id": "d8a1dd0d78d8fb72",
+    "name": "Slate Auto (represented by Blue Owl Group)",
+    "requested_url": "https://www.slate.auto/",
+    "status": 200,
+    "final_url": "https://www.slate.auto/en",
+    "text_chars": 4563,
+    "logo_candidates": [
+      {
+        "alt": "PR logos",
+        "styleoverrides": "h-full w-full",
+        "loading": "lazy",
+        "width": "1497",
+        "height": "339",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-full w-full",
+        "style": "color:transparent",
+        "srcset": "https://images.ctfassets.net/20dhmw20vttc/32bXJin6dMYZaZRpI4jHBv/dfbefa0f26095ab3217da848e92ce6f0/slate-publication-logos.png?fm=webp&w=1920&q=75 1x, https://images.ctfassets.net/20dhmw20vttc/32bXJin6dMYZaZRpI4jHBv/dfbefa0f26095ab3217da848e92ce6f0/slate-publication-logos.png?fm=webp&w=3840&q=75 2x",
+        "src": "https://images.ctfassets.net/20dhmw20vttc/32bXJin6dMYZaZRpI4jHBv/dfbefa0f26095ab3217da848e92ce6f0/slate-publication-logos.png?fm=webp&w=3840&q=75"
+      },
+      {
+        "alt": "Slate Footer Icon",
+        "fetchpriority": "high",
+        "width": "1164",
+        "height": "152",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "w-full object-cover",
+        "style": "color:transparent",
+        "srcset": "https://images.ctfassets.net/20dhmw20vttc/40VZ968oGEwruGvzsHzPbl/69cdb32811dac4ddac6693a4e38589be/Logo__1_.svg 1x, https://images.ctfassets.net/20dhmw20vttc/40VZ968oGEwruGvzsHzPbl/69cdb32811dac4ddac6693a4e38589be/Logo__1_.svg 2x",
+        "src": "https://images.ctfassets.net/20dhmw20vttc/40VZ968oGEwruGvzsHzPbl/69cdb32811dac4ddac6693a4e38589be/Logo__1_.svg"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-174/d8a1dd0d78d8fb72.txt"
+  },
+  {
+    "id": "26a5b178a511e44b",
+    "name": "Bluefors Inc.",
+    "requested_url": "https://bluefors.com/",
+    "status": 200,
+    "final_url": "https://bluefors.com/",
+    "text_chars": 27827,
+    "logo_candidates": [
+      {
+        "width": "288",
+        "height": "36",
+        "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASAAAAAkAQMAAAATq3VhAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAABRJREFUOMtjYBgFo2AUjIJRQCwAAAU0AAHqr5sgAAAAAElFTkSuQmCC",
+        "class": "attachment-medium size-medium lazyload ewww_webp_lazy_load",
+        "alt": "Bluefors logo",
+        "decoding": "async",
+        "data-src": "https://cdn.bluefors.com/wp-content/uploads/2023/08/22150717/logo-black.png",
+        "data-eio-rwidth": "288",
+        "data-eio-rheight": "36",
+        "data-src-webp": "https://cdn.bluefors.com/wp-content/uploads/2023/08/22150717/logo-black.png.webp"
+      },
+      {
+        "width": "288",
+        "height": "36",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2023/08/22150717/logo-black.png",
+        "class": "attachment-medium size-medium",
+        "alt": "Bluefors logo",
+        "decoding": "async",
+        "data-eio": "l"
+      },
+      {
+        "width": "288",
+        "height": "36",
+        "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASAAAAAkAQMAAAATq3VhAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAABRJREFUOMtjYBgFo2AUjIJRQCwAAAU0AAHqr5sgAAAAAElFTkSuQmCC",
+        "class": "is-inverted lazyload ewww_webp_lazy_load",
+        "alt": "Bluefors logo",
+        "decoding": "async",
+        "data-src": "https://cdn.bluefors.com/wp-content/uploads/2023/08/22150718/logo-white.png",
+        "data-eio-rwidth": "288",
+        "data-eio-rheight": "36",
+        "data-src-webp": "https://cdn.bluefors.com/wp-content/uploads/2023/08/22150718/logo-white.png.webp"
+      },
+      {
+        "width": "288",
+        "height": "36",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2023/08/22150718/logo-white.png",
+        "class": "is-inverted",
+        "alt": "Bluefors logo",
+        "decoding": "async",
+        "data-eio": "l"
+      },
+      {
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2026/01/30183706/bluefors-logo.svg",
+        "data-eio": "l"
+      },
+      {
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2026/01/30183711/cryomech-logo.png",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "691",
+        "height": "606",
+        "data-id": "11010",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/06121500/Aalto-logo.png",
+        "alt": "",
+        "class": "wp-image-11010",
+        "srcset": "https://cdn.bluefors.com/wp-content/uploads/2025/06/06121500/Aalto-logo.png 691w, https://cdn.bluefors.com/wp-content/uploads/2025/06/06121500/Aalto-logo-400x351.png 400w",
+        "sizes": "(max-width: 691px) 100vw, 691px",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "187",
+        "height": "32",
+        "data-id": "11011",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/06121502/AIST_logo_en.svg",
+        "alt": "",
+        "class": "wp-image-11011",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "7016",
+        "height": "1837",
+        "data-id": "11013",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/06121505/Colored-Blacktype-Main-AliceBob-logotype.svg",
+        "alt": "",
+        "class": "wp-image-11013",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "320",
+        "height": "112",
+        "data-id": "11149",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/12134849/EEROQ_logo.png",
+        "alt": "",
+        "class": "wp-image-11149",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "800",
+        "height": "244",
+        "data-id": "11523",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2025/07/03091407/DiraqLogo_BlackText_RGB_Horiz-800x244.png",
+        "alt": "",
+        "class": "wp-image-11523",
+        "srcset": "https://cdn.bluefors.com/wp-content/uploads/2025/07/03091407/DiraqLogo_BlackText_RGB_Horiz-800x244.png 800w, https://cdn.bluefors.com/wp-content/uploads/2025/07/03091407/DiraqLogo_BlackText_RGB_Horiz-400x122.png 400w, https://cdn.bluefors.com/wp-content/uploads/2025/07/03091407/DiraqLogo_BlackText_RGB_Horiz-768x234.png 768w, https://cdn.bluefors.com/wp-content/uploads/2025/07/03091407/DiraqLogo_BlackText_RGB_Horiz.png 820w",
+        "sizes": "(max-width: 800px) 100vw, 800px",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "800",
+        "height": "450",
+        "data-id": "11217",
+        "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAyAAAAHCAQMAAAAtrT+LAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAENJREFUeNrtwYEAAAAAw6D5U1/hAFUBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALwGsYoAAaRlbhAAAAAASUVORK5CYII=",
+        "alt": "D-Wave logo",
+        "class": "wp-image-11217 lazyload ewww_webp_lazy_load",
+        "data-src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-800x450.png",
+        "data-srcset": "https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-800x450.png 800w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-400x225.png 400w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-768x432.png 768w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-1536x864.png 1536w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-1300x731.png 1300w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-1440x810.png 1440w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark.png 1920w",
+        "data-max-width": "800",
+        "data-sizes": "auto",
+        "data-eio-rwidth": "800",
+        "data-eio-rheight": "450",
+        "data-src-webp": "https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-800x450.png.webp",
+        "data-srcset-webp": "https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-800x450.png.webp 800w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-400x225.png.webp 400w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-768x432.png.webp 768w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-1536x864.png.webp 1536w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-1300x731.png.webp 1300w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-1440x810.png.webp 1440w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark.png.webp 1920w"
+      },
+      {
+        "decoding": "async",
+        "width": "800",
+        "height": "450",
+        "data-id": "11217",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-800x450.png",
+        "alt": "D-Wave logo",
+        "class": "wp-image-11217",
+        "srcset": "https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-800x450.png 800w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-400x225.png 400w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-768x432.png 768w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-1536x864.png 1536w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-1300x731.png 1300w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-1440x810.png 1440w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark.png 1920w",
+        "sizes": "(max-width: 800px) 100vw, 800px",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "156",
+        "height": "45",
+        "data-id": "11218",
+        "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJwAAAAtAQMAAABh4JDeAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAABFJREFUKM9jYBgFo2AUDBkAAAOxAAGgxHHeAAAAAElFTkSuQmCC",
+        "alt": "Forschungszentrum J\u00fclich logo",
+        "class": "wp-image-11218 lazyload ewww_webp_lazy_load",
+        "data-src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/16132145/Forschungszentrums_Julich.png",
+        "data-eio-rwidth": "156",
+        "data-eio-rheight": "45",
+        "data-src-webp": "https://cdn.bluefors.com/wp-content/uploads/2025/06/16132145/Forschungszentrums_Julich.png.webp"
+      },
+      {
+        "decoding": "async",
+        "width": "156",
+        "height": "45",
+        "data-id": "11218",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/16132145/Forschungszentrums_Julich.png",
+        "alt": "Forschungszentrum J\u00fclich logo",
+        "class": "wp-image-11218",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "764",
+        "height": "372",
+        "data-id": "11150",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/12134851/Fujitsu-logo-red.png",
+        "alt": "",
+        "class": "wp-image-11150",
+        "srcset": "https://cdn.bluefors.com/wp-content/uploads/2025/06/12134851/Fujitsu-logo-red.png 764w, https://cdn.bluefors.com/wp-content/uploads/2025/06/12134851/Fujitsu-logo-red-400x195.png 400w",
+        "sizes": "(max-width: 764px) 100vw, 764px",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "800",
+        "height": "284",
+        "data-id": "11220",
+        "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAyAAAAEcAQMAAAAFmULUAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAADNJREFUeNrtwTEBAAAAwqD1T20Gf6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAxwBwDAAB4cXcPAAAAABJRU5ErkJggg==",
+        "alt": "IQM quantum computers logo",
+        "class": "wp-image-11220 lazyload ewww_webp_lazy_load",
+        "data-src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-800x284.png",
+        "data-srcset": "https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-800x284.png 800w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-400x142.png 400w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-768x272.png 768w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-1536x545.png 1536w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-1300x461.png 1300w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-1440x510.png 1440w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1.png 2048w",
+        "data-max-width": "800",
+        "data-sizes": "auto",
+        "data-eio-rwidth": "800",
+        "data-eio-rheight": "284",
+        "data-src-webp": "https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-800x284.png.webp",
+        "data-srcset-webp": "https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-800x284.png.webp 800w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-400x142.png.webp 400w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-768x272.png.webp 768w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-1536x545.png.webp 1536w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-1300x461.png.webp 1300w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-1440x510.png.webp 1440w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1.png.webp 2048w"
+      },
+      {
+        "decoding": "async",
+        "width": "800",
+        "height": "284",
+        "data-id": "11220",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-800x284.png",
+        "alt": "IQM quantum computers logo",
+        "class": "wp-image-11220",
+        "srcset": "https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-800x284.png 800w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-400x142.png 400w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-768x272.png 768w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-1536x545.png 1536w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-1300x461.png 1300w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-1440x510.png 1440w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1.png 2048w",
+        "sizes": "(max-width: 800px) 100vw, 800px",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "105",
+        "height": "105",
+        "data-id": "11454",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/25150646/Leibniz-Rechenzentrum-logo.png",
+        "alt": "",
+        "class": "wp-image-11454",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "800",
+        "height": "303",
+        "data-id": "11014",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/06121507/photonic-logo-for-light-background-1-800x303.png",
+        "alt": "",
+        "class": "wp-image-11014",
+        "srcset": "https://cdn.bluefors.com/wp-content/uploads/2025/06/06121507/photonic-logo-for-light-background-1-800x303.png 800w, https://cdn.bluefors.com/wp-content/uploads/2025/06/06121507/photonic-logo-for-light-background-1-400x152.png 400w, https://cdn.bluefors.com/wp-content/uploads/2025/06/06121507/photonic-logo-for-light-background-1-768x291.png 768w, https://cdn.bluefors.com/wp-content/uploads/2025/06/06121507/photonic-logo-for-light-background-1.png 939w",
+        "sizes": "(max-width: 800px) 100vw, 800px",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "800",
+        "height": "267",
+        "data-id": "11804",
+        "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAyAAAAELAQMAAAAbSnD3AAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAADFJREFUeNrtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC4MaVcAASWZHTcAAAAASUVORK5CYII=",
+        "alt": "Qolab logo",
+        "class": "wp-image-11804 lazyload ewww_webp_lazy_load",
+        "data-src": "https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-800x267.png",
+        "data-srcset": "https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-800x267.png 800w, https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-400x134.png 400w, https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-768x256.png 768w, https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-1536x513.png 1536w, https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-1300x434.png 1300w, https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-1440x481.png 1440w, https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark.png 1797w",
+        "data-max-width": "800",
+        "data-sizes": "auto",
+        "data-eio-rwidth": "800",
+        "data-eio-rheight": "267",
+        "data-src-webp": "https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-800x267.png.webp",
+        "data-srcset-webp": "https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-800x267.png.webp 800w, https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-400x134.png.webp 400w, https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-768x256.png.webp 768w, https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-1536x513.png.webp 1536w, https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-1300x434.png.webp 1300w, https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-1440x481.png.webp 1440w, https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark.png.webp 1797w"
+      },
+      {
+        "decoding": "async",
+        "width": "800",
+        "height": "267",
+        "data-id": "11804",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-800x267.png",
+        "alt": "Qolab logo",
+        "class": "wp-image-11804",
+        "srcset": "https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-800x267.png 800w, https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-400x134.png 400w, https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-768x256.png 768w, https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-1536x513.png 1536w, https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-1300x434.png 1300w, https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-1440x481.png 1440w, https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark.png 1797w",
+        "sizes": "(max-width: 800px) 100vw, 800px",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "427",
+        "height": "102",
+        "data-id": "11448",
+        "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAasAAABmAQMAAABP3izwAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAABxJREFUWMPtwQENAAAAwqD3T20ON6AAAAAAAPg2FeoAAQ+30KMAAAAASUVORK5CYII=",
+        "alt": "Quantum Machines logo",
+        "class": "wp-image-11448 lazyload ewww_webp_lazy_load",
+        "data-src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/25144457/Quantum-Machines-logo-black.png",
+        "data-srcset": "https://cdn.bluefors.com/wp-content/uploads/2025/06/25144457/Quantum-Machines-logo-black.png 427w, https://cdn.bluefors.com/wp-content/uploads/2025/06/25144457/Quantum-Machines-logo-black-400x96.png 400w",
+        "data-max-width": "427",
+        "data-sizes": "auto",
+        "data-eio-rwidth": "427",
+        "data-eio-rheight": "102",
+        "data-src-webp": "https://cdn.bluefors.com/wp-content/uploads/2025/06/25144457/Quantum-Machines-logo-black.png.webp",
+        "data-srcset-webp": "https://cdn.bluefors.com/wp-content/uploads/2025/06/25144457/Quantum-Machines-logo-black.png.webp 427w, https://cdn.bluefors.com/wp-content/uploads/2025/06/25144457/Quantum-Machines-logo-black-400x96.png.webp 400w"
+      },
+      {
+        "decoding": "async",
+        "width": "427",
+        "height": "102",
+        "data-id": "11448",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/25144457/Quantum-Machines-logo-black.png",
+        "alt": "Quantum Machines logo",
+        "class": "wp-image-11448",
+        "srcset": "https://cdn.bluefors.com/wp-content/uploads/2025/06/25144457/Quantum-Machines-logo-black.png 427w, https://cdn.bluefors.com/wp-content/uploads/2025/06/25144457/Quantum-Machines-logo-black-400x96.png 400w",
+        "sizes": "(max-width: 427px) 100vw, 427px",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "1821",
+        "height": "597",
+        "data-id": "11022",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/06122328/quantum-motion-logo.svg",
+        "alt": "",
+        "class": "wp-image-11022",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "3000",
+        "height": "719",
+        "data-id": "13313",
+        "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB4AAAAHMAQMAAAAOJieoAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAIJJREFUeNrtwQENAAAAwqD3T20ON6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgzsRsAActsMcgAAAAASUVORK5CYII=",
+        "alt": "quobly logo",
+        "class": "wp-image-13313 lazyload ewww_webp_lazy_load",
+        "data-src": "https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur.png",
+        "data-srcset": "https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur.png 3000w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-400x96.png 400w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-800x192.png 800w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-768x184.png 768w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-1536x368.png 1536w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-2048x491.png 2048w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-1300x312.png 1300w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-1440x345.png 1440w",
+        "data-max-width": "3000",
+        "data-sizes": "auto",
+        "data-eio-rwidth": "3000",
+        "data-eio-rheight": "719",
+        "data-src-webp": "https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur.png.webp",
+        "data-srcset-webp": "https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur.png.webp 3000w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-400x96.png.webp 400w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-800x192.png.webp 800w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-768x184.png.webp 768w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-1536x368.png.webp 1536w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-2048x491.png.webp 2048w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-1300x312.png.webp 1300w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-1440x345.png.webp 1440w"
+      },
+      {
+        "decoding": "async",
+        "width": "3000",
+        "height": "719",
+        "data-id": "13313",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur.png",
+        "alt": "quobly logo",
+        "class": "wp-image-13313",
+        "srcset": "https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur.png 3000w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-400x96.png 400w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-800x192.png 800w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-768x184.png 768w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-1536x368.png 1536w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-2048x491.png 2048w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-1300x312.png 1300w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-1440x345.png 1440w",
+        "sizes": "(max-width: 3000px) 100vw, 3000px",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "300",
+        "height": "107",
+        "data-id": "11021",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/06122133/rigetti-logo-rgb-teal.png",
+        "alt": "",
+        "class": "wp-image-11021",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "375",
+        "height": "98",
+        "data-id": "11349",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/23152139/seeqc-logo.png",
+        "alt": "",
+        "class": "wp-image-11349",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "175",
+        "height": "63",
+        "data-id": "11380",
+        "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK8AAAA/AQMAAACsOgp1AAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAABRJREFUOMtjYBgFo2AUjIJRMKgBAAWpAAEEMTxXAAAAAElFTkSuQmCC",
+        "alt": "SemiQon logo",
+        "class": "wp-image-11380 lazyload ewww_webp_lazy_load",
+        "data-src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/24095428/semiqon_logo.png",
+        "data-eio-rwidth": "175",
+        "data-eio-rheight": "63",
+        "data-src-webp": "https://cdn.bluefors.com/wp-content/uploads/2025/06/24095428/semiqon_logo.png.webp"
+      },
+      {
+        "decoding": "async",
+        "width": "175",
+        "height": "63",
+        "data-id": "11380",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/24095428/semiqon_logo.png",
+        "alt": "SemiQon logo",
+        "class": "wp-image-11380",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "800",
+        "height": "317",
+        "data-id": "11152",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/12134858/Silicon-Quantum-Computing-logo-800x317.png",
+        "alt": "",
+        "class": "wp-image-11152",
+        "srcset": "https://cdn.bluefors.com/wp-content/uploads/2025/06/12134858/Silicon-Quantum-Computing-logo-800x317.png 800w, https://cdn.bluefors.com/wp-content/uploads/2025/06/12134858/Silicon-Quantum-Computing-logo-400x158.png 400w, https://cdn.bluefors.com/wp-content/uploads/2025/06/12134858/Silicon-Quantum-Computing-logo-768x304.png 768w, https://cdn.bluefors.com/wp-content/uploads/2025/06/12134858/Silicon-Quantum-Computing-logo.png 925w",
+        "sizes": "(max-width: 800px) 100vw, 800px",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "800",
+        "height": "571",
+        "data-id": "11460",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/25165507/VTT-logo-800x571.png",
+        "alt": "",
+        "class": "wp-image-11460",
+        "srcset": "https://cdn.bluefors.com/wp-content/uploads/2025/06/25165507/VTT-logo-800x571.png 800w, https://cdn.bluefors.com/wp-content/uploads/2025/06/25165507/VTT-logo-400x286.png 400w, https://cdn.bluefors.com/wp-content/uploads/2025/06/25165507/VTT-logo-768x549.png 768w, https://cdn.bluefors.com/wp-content/uploads/2025/06/25165507/VTT-logo-1536x1097.png 1536w, https://cdn.bluefors.com/wp-content/uploads/2025/06/25165507/VTT-logo-2048x1463.png 2048w, https://cdn.bluefors.com/wp-content/uploads/2025/06/25165507/VTT-logo-1300x929.png 1300w, https://cdn.bluefors.com/wp-content/uploads/2025/06/25165507/VTT-logo-1440x1029.png 1440w",
+        "sizes": "(max-width: 800px) 100vw, 800px",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "691",
+        "height": "606",
+        "data-id": "11010",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/06121500/Aalto-logo.png",
+        "alt": "",
+        "class": "wp-image-11010",
+        "srcset": "https://cdn.bluefors.com/wp-content/uploads/2025/06/06121500/Aalto-logo.png 691w, https://cdn.bluefors.com/wp-content/uploads/2025/06/06121500/Aalto-logo-400x351.png 400w",
+        "sizes": "(max-width: 691px) 100vw, 691px",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "187",
+        "height": "32",
+        "data-id": "11011",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/06121502/AIST_logo_en.svg",
+        "alt": "",
+        "class": "wp-image-11011",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "7016",
+        "height": "1837",
+        "data-id": "11013",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/06121505/Colored-Blacktype-Main-AliceBob-logotype.svg",
+        "alt": "",
+        "class": "wp-image-11013",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "320",
+        "height": "112",
+        "data-id": "11149",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/12134849/EEROQ_logo.png",
+        "alt": "",
+        "class": "wp-image-11149",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "800",
+        "height": "244",
+        "data-id": "11523",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2025/07/03091407/DiraqLogo_BlackText_RGB_Horiz-800x244.png",
+        "alt": "",
+        "class": "wp-image-11523",
+        "srcset": "https://cdn.bluefors.com/wp-content/uploads/2025/07/03091407/DiraqLogo_BlackText_RGB_Horiz-800x244.png 800w, https://cdn.bluefors.com/wp-content/uploads/2025/07/03091407/DiraqLogo_BlackText_RGB_Horiz-400x122.png 400w, https://cdn.bluefors.com/wp-content/uploads/2025/07/03091407/DiraqLogo_BlackText_RGB_Horiz-768x234.png 768w, https://cdn.bluefors.com/wp-content/uploads/2025/07/03091407/DiraqLogo_BlackText_RGB_Horiz.png 820w",
+        "sizes": "(max-width: 800px) 100vw, 800px",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "800",
+        "height": "450",
+        "data-id": "11217",
+        "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAyAAAAHCAQMAAAAtrT+LAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAENJREFUeNrtwYEAAAAAw6D5U1/hAFUBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALwGsYoAAaRlbhAAAAAASUVORK5CYII=",
+        "alt": "D-Wave logo",
+        "class": "wp-image-11217 lazyload ewww_webp_lazy_load",
+        "data-src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-800x450.png",
+        "data-srcset": "https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-800x450.png 800w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-400x225.png 400w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-768x432.png 768w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-1536x864.png 1536w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-1300x731.png 1300w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-1440x810.png 1440w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark.png 1920w",
+        "data-max-width": "800",
+        "data-sizes": "auto",
+        "data-eio-rwidth": "800",
+        "data-eio-rheight": "450",
+        "data-src-webp": "https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-800x450.png.webp",
+        "data-srcset-webp": "https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-800x450.png.webp 800w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-400x225.png.webp 400w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-768x432.png.webp 768w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-1536x864.png.webp 1536w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-1300x731.png.webp 1300w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-1440x810.png.webp 1440w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark.png.webp 1920w"
+      },
+      {
+        "decoding": "async",
+        "width": "800",
+        "height": "450",
+        "data-id": "11217",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-800x450.png",
+        "alt": "D-Wave logo",
+        "class": "wp-image-11217",
+        "srcset": "https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-800x450.png 800w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-400x225.png 400w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-768x432.png 768w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-1536x864.png 1536w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-1300x731.png 1300w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark-1440x810.png 1440w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132143/D-Wave_Quantum-Realized-Logo_Dark.png 1920w",
+        "sizes": "(max-width: 800px) 100vw, 800px",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "156",
+        "height": "45",
+        "data-id": "11218",
+        "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAJwAAAAtAQMAAABh4JDeAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAABFJREFUKM9jYBgFo2AUDBkAAAOxAAGgxHHeAAAAAElFTkSuQmCC",
+        "alt": "Forschungszentrum J\u00fclich logo",
+        "class": "wp-image-11218 lazyload ewww_webp_lazy_load",
+        "data-src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/16132145/Forschungszentrums_Julich.png",
+        "data-eio-rwidth": "156",
+        "data-eio-rheight": "45",
+        "data-src-webp": "https://cdn.bluefors.com/wp-content/uploads/2025/06/16132145/Forschungszentrums_Julich.png.webp"
+      },
+      {
+        "decoding": "async",
+        "width": "156",
+        "height": "45",
+        "data-id": "11218",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/16132145/Forschungszentrums_Julich.png",
+        "alt": "Forschungszentrum J\u00fclich logo",
+        "class": "wp-image-11218",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "764",
+        "height": "372",
+        "data-id": "11150",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/12134851/Fujitsu-logo-red.png",
+        "alt": "",
+        "class": "wp-image-11150",
+        "srcset": "https://cdn.bluefors.com/wp-content/uploads/2025/06/12134851/Fujitsu-logo-red.png 764w, https://cdn.bluefors.com/wp-content/uploads/2025/06/12134851/Fujitsu-logo-red-400x195.png 400w",
+        "sizes": "(max-width: 764px) 100vw, 764px",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "800",
+        "height": "284",
+        "data-id": "11220",
+        "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAyAAAAEcAQMAAAAFmULUAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAADNJREFUeNrtwTEBAAAAwqD1T20Gf6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAxwBwDAAB4cXcPAAAAABJRU5ErkJggg==",
+        "alt": "IQM quantum computers logo",
+        "class": "wp-image-11220 lazyload ewww_webp_lazy_load",
+        "data-src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-800x284.png",
+        "data-srcset": "https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-800x284.png 800w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-400x142.png 400w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-768x272.png 768w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-1536x545.png 1536w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-1300x461.png 1300w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-1440x510.png 1440w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1.png 2048w",
+        "data-max-width": "800",
+        "data-sizes": "auto",
+        "data-eio-rwidth": "800",
+        "data-eio-rheight": "284",
+        "data-src-webp": "https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-800x284.png.webp",
+        "data-srcset-webp": "https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-800x284.png.webp 800w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-400x142.png.webp 400w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-768x272.png.webp 768w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-1536x545.png.webp 1536w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-1300x461.png.webp 1300w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-1440x510.png.webp 1440w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1.png.webp 2048w"
+      },
+      {
+        "decoding": "async",
+        "width": "800",
+        "height": "284",
+        "data-id": "11220",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-800x284.png",
+        "alt": "IQM quantum computers logo",
+        "class": "wp-image-11220",
+        "srcset": "https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-800x284.png 800w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-400x142.png 400w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-768x272.png 768w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-1536x545.png 1536w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-1300x461.png 1300w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1-1440x510.png 1440w, https://cdn.bluefors.com/wp-content/uploads/2025/06/16132518/IQM-Logo-black-transparent-2048x726-1.png 2048w",
+        "sizes": "(max-width: 800px) 100vw, 800px",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "105",
+        "height": "105",
+        "data-id": "11454",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/25150646/Leibniz-Rechenzentrum-logo.png",
+        "alt": "",
+        "class": "wp-image-11454",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "800",
+        "height": "303",
+        "data-id": "11014",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/06121507/photonic-logo-for-light-background-1-800x303.png",
+        "alt": "",
+        "class": "wp-image-11014",
+        "srcset": "https://cdn.bluefors.com/wp-content/uploads/2025/06/06121507/photonic-logo-for-light-background-1-800x303.png 800w, https://cdn.bluefors.com/wp-content/uploads/2025/06/06121507/photonic-logo-for-light-background-1-400x152.png 400w, https://cdn.bluefors.com/wp-content/uploads/2025/06/06121507/photonic-logo-for-light-background-1-768x291.png 768w, https://cdn.bluefors.com/wp-content/uploads/2025/06/06121507/photonic-logo-for-light-background-1.png 939w",
+        "sizes": "(max-width: 800px) 100vw, 800px",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "800",
+        "height": "267",
+        "data-id": "11804",
+        "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAyAAAAELAQMAAAAbSnD3AAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAADFJREFUeNrtwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAC4MaVcAASWZHTcAAAAASUVORK5CYII=",
+        "alt": "Qolab logo",
+        "class": "wp-image-11804 lazyload ewww_webp_lazy_load",
+        "data-src": "https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-800x267.png",
+        "data-srcset": "https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-800x267.png 800w, https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-400x134.png 400w, https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-768x256.png 768w, https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-1536x513.png 1536w, https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-1300x434.png 1300w, https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-1440x481.png 1440w, https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark.png 1797w",
+        "data-max-width": "800",
+        "data-sizes": "auto",
+        "data-eio-rwidth": "800",
+        "data-eio-rheight": "267",
+        "data-src-webp": "https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-800x267.png.webp",
+        "data-srcset-webp": "https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-800x267.png.webp 800w, https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-400x134.png.webp 400w, https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-768x256.png.webp 768w, https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-1536x513.png.webp 1536w, https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-1300x434.png.webp 1300w, https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-1440x481.png.webp 1440w, https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark.png.webp 1797w"
+      },
+      {
+        "decoding": "async",
+        "width": "800",
+        "height": "267",
+        "data-id": "11804",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-800x267.png",
+        "alt": "Qolab logo",
+        "class": "wp-image-11804",
+        "srcset": "https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-800x267.png 800w, https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-400x134.png 400w, https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-768x256.png 768w, https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-1536x513.png 1536w, https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-1300x434.png 1300w, https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark-1440x481.png 1440w, https://cdn.bluefors.com/wp-content/uploads/2025/08/12135642/QOLAB-black-wordmark.png 1797w",
+        "sizes": "(max-width: 800px) 100vw, 800px",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "427",
+        "height": "102",
+        "data-id": "11448",
+        "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAasAAABmAQMAAABP3izwAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAABxJREFUWMPtwQENAAAAwqD3T20ON6AAAAAAAPg2FeoAAQ+30KMAAAAASUVORK5CYII=",
+        "alt": "Quantum Machines logo",
+        "class": "wp-image-11448 lazyload ewww_webp_lazy_load",
+        "data-src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/25144457/Quantum-Machines-logo-black.png",
+        "data-srcset": "https://cdn.bluefors.com/wp-content/uploads/2025/06/25144457/Quantum-Machines-logo-black.png 427w, https://cdn.bluefors.com/wp-content/uploads/2025/06/25144457/Quantum-Machines-logo-black-400x96.png 400w",
+        "data-max-width": "427",
+        "data-sizes": "auto",
+        "data-eio-rwidth": "427",
+        "data-eio-rheight": "102",
+        "data-src-webp": "https://cdn.bluefors.com/wp-content/uploads/2025/06/25144457/Quantum-Machines-logo-black.png.webp",
+        "data-srcset-webp": "https://cdn.bluefors.com/wp-content/uploads/2025/06/25144457/Quantum-Machines-logo-black.png.webp 427w, https://cdn.bluefors.com/wp-content/uploads/2025/06/25144457/Quantum-Machines-logo-black-400x96.png.webp 400w"
+      },
+      {
+        "decoding": "async",
+        "width": "427",
+        "height": "102",
+        "data-id": "11448",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/25144457/Quantum-Machines-logo-black.png",
+        "alt": "Quantum Machines logo",
+        "class": "wp-image-11448",
+        "srcset": "https://cdn.bluefors.com/wp-content/uploads/2025/06/25144457/Quantum-Machines-logo-black.png 427w, https://cdn.bluefors.com/wp-content/uploads/2025/06/25144457/Quantum-Machines-logo-black-400x96.png 400w",
+        "sizes": "(max-width: 427px) 100vw, 427px",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "1821",
+        "height": "597",
+        "data-id": "11022",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/06122328/quantum-motion-logo.svg",
+        "alt": "",
+        "class": "wp-image-11022",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "3000",
+        "height": "719",
+        "data-id": "13313",
+        "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAB4AAAAHMAQMAAAAOJieoAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAIJJREFUeNrtwQENAAAAwqD3T20ON6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHgzsRsAActsMcgAAAAASUVORK5CYII=",
+        "alt": "quobly logo",
+        "class": "wp-image-13313 lazyload ewww_webp_lazy_load",
+        "data-src": "https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur.png",
+        "data-srcset": "https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur.png 3000w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-400x96.png 400w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-800x192.png 800w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-768x184.png 768w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-1536x368.png 1536w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-2048x491.png 2048w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-1300x312.png 1300w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-1440x345.png 1440w",
+        "data-max-width": "3000",
+        "data-sizes": "auto",
+        "data-eio-rwidth": "3000",
+        "data-eio-rheight": "719",
+        "data-src-webp": "https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur.png.webp",
+        "data-srcset-webp": "https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur.png.webp 3000w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-400x96.png.webp 400w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-800x192.png.webp 800w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-768x184.png.webp 768w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-1536x368.png.webp 1536w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-2048x491.png.webp 2048w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-1300x312.png.webp 1300w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-1440x345.png.webp 1440w"
+      },
+      {
+        "decoding": "async",
+        "width": "3000",
+        "height": "719",
+        "data-id": "13313",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur.png",
+        "alt": "quobly logo",
+        "class": "wp-image-13313",
+        "srcset": "https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur.png 3000w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-400x96.png 400w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-800x192.png 800w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-768x184.png 768w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-1536x368.png 1536w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-2048x491.png 2048w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-1300x312.png 1300w, https://cdn.bluefors.com/wp-content/uploads/2026/05/07160100/2-Quobly-longeur-1440x345.png 1440w",
+        "sizes": "(max-width: 3000px) 100vw, 3000px",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "300",
+        "height": "107",
+        "data-id": "11021",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/06122133/rigetti-logo-rgb-teal.png",
+        "alt": "",
+        "class": "wp-image-11021",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "375",
+        "height": "98",
+        "data-id": "11349",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/23152139/seeqc-logo.png",
+        "alt": "",
+        "class": "wp-image-11349",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "175",
+        "height": "63",
+        "data-id": "11380",
+        "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK8AAAA/AQMAAACsOgp1AAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAABRJREFUOMtjYBgFo2AUjIJRMKgBAAWpAAEEMTxXAAAAAElFTkSuQmCC",
+        "alt": "SemiQon logo",
+        "class": "wp-image-11380 lazyload ewww_webp_lazy_load",
+        "data-src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/24095428/semiqon_logo.png",
+        "data-eio-rwidth": "175",
+        "data-eio-rheight": "63",
+        "data-src-webp": "https://cdn.bluefors.com/wp-content/uploads/2025/06/24095428/semiqon_logo.png.webp"
+      },
+      {
+        "decoding": "async",
+        "width": "175",
+        "height": "63",
+        "data-id": "11380",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/24095428/semiqon_logo.png",
+        "alt": "SemiQon logo",
+        "class": "wp-image-11380",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "800",
+        "height": "317",
+        "data-id": "11152",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/12134858/Silicon-Quantum-Computing-logo-800x317.png",
+        "alt": "",
+        "class": "wp-image-11152",
+        "srcset": "https://cdn.bluefors.com/wp-content/uploads/2025/06/12134858/Silicon-Quantum-Computing-logo-800x317.png 800w, https://cdn.bluefors.com/wp-content/uploads/2025/06/12134858/Silicon-Quantum-Computing-logo-400x158.png 400w, https://cdn.bluefors.com/wp-content/uploads/2025/06/12134858/Silicon-Quantum-Computing-logo-768x304.png 768w, https://cdn.bluefors.com/wp-content/uploads/2025/06/12134858/Silicon-Quantum-Computing-logo.png 925w",
+        "sizes": "(max-width: 800px) 100vw, 800px",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "800",
+        "height": "571",
+        "data-id": "11460",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2025/06/25165507/VTT-logo-800x571.png",
+        "alt": "",
+        "class": "wp-image-11460",
+        "srcset": "https://cdn.bluefors.com/wp-content/uploads/2025/06/25165507/VTT-logo-800x571.png 800w, https://cdn.bluefors.com/wp-content/uploads/2025/06/25165507/VTT-logo-400x286.png 400w, https://cdn.bluefors.com/wp-content/uploads/2025/06/25165507/VTT-logo-768x549.png 768w, https://cdn.bluefors.com/wp-content/uploads/2025/06/25165507/VTT-logo-1536x1097.png 1536w, https://cdn.bluefors.com/wp-content/uploads/2025/06/25165507/VTT-logo-2048x1463.png 2048w, https://cdn.bluefors.com/wp-content/uploads/2025/06/25165507/VTT-logo-1300x929.png 1300w, https://cdn.bluefors.com/wp-content/uploads/2025/06/25165507/VTT-logo-1440x1029.png 1440w",
+        "sizes": "(max-width: 800px) 100vw, 800px",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "768",
+        "height": "432",
+        "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAwAAAAGwAQMAAAAkGpCRAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAD9JREFUeNrtwTEBAAAAwqD1T20LL6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4GejsAABW1fuTQAAAABJRU5ErkJggg==",
+        "class": "attachment-medium_large size-medium_large wp-post-image lazyload ewww_webp_lazy_load",
+        "alt": "Bluefors and Basel Precision Instruments logos on light grey background.",
+        "data-src": "https://cdn.bluefors.com/wp-content/uploads/2026/05/21092035/Bluefors_Basel_Precision_Instruments_hero_1920x1080-768x432.jpg",
+        "data-srcset": "https://cdn.bluefors.com/wp-content/uploads/2026/05/21092035/Bluefors_Basel_Precision_Instruments_hero_1920x1080-768x432.jpg 768w, https://cdn.bluefors.com/wp-content/uploads/2026/05/21092035/Bluefors_Basel_Precision_Instruments_hero_1920x1080-400x225.jpg 400w, https://cdn.bluefors.com/wp-content/uploads/2026/05/21092035/Bluefors_Basel_Precision_Instruments_hero_1920x1080-800x450.jpg 800w, https://cdn.bluefors.com/wp-content/uploads/2026/05/21092035/Bluefors_Basel_Precision_Instruments_hero_1920x1080-1536x864.jpg 1536w, https://cdn.bluefors.com/wp-content/uploads/2026/05/21092035/Bluefors_Basel_Precision_Instruments_hero_1920x1080-1300x731.jpg 1300w, https://cdn.bluefors.com/wp-content/uploads/2026/05/21092035/Bluefors_Basel_Precision_Instruments_hero_1920x1080-1440x810.jpg 1440w, https://cdn.bluefors.com/wp-content/uploads/2026/05/21092035/Bluefors_Basel_Precision_Instruments_hero_1920x1080.jpg 1920w",
+        "data-max-width": "768",
+        "data-sizes": "auto",
+        "data-eio-rwidth": "768",
+        "data-eio-rheight": "432",
+        "data-src-webp": "https://cdn.bluefors.com/wp-content/uploads/2026/05/21092035/Bluefors_Basel_Precision_Instruments_hero_1920x1080-768x432.jpg.webp",
+        "data-srcset-webp": "https://cdn.bluefors.com/wp-content/uploads/2026/05/21092035/Bluefors_Basel_Precision_Instruments_hero_1920x1080-768x432.jpg.webp 768w, https://cdn.bluefors.com/wp-content/uploads/2026/05/21092035/Bluefors_Basel_Precision_Instruments_hero_1920x1080-400x225.jpg.webp 400w, https://cdn.bluefors.com/wp-content/uploads/2026/05/21092035/Bluefors_Basel_Precision_Instruments_hero_1920x1080-800x450.jpg.webp 800w, https://cdn.bluefors.com/wp-content/uploads/2026/05/21092035/Bluefors_Basel_Precision_Instruments_hero_1920x1080-1536x864.jpg.webp 1536w, https://cdn.bluefors.com/wp-content/uploads/2026/05/21092035/Bluefors_Basel_Precision_Instruments_hero_1920x1080-1300x731.jpg.webp 1300w, https://cdn.bluefors.com/wp-content/uploads/2026/05/21092035/Bluefors_Basel_Precision_Instruments_hero_1920x1080-1440x810.jpg.webp 1440w, https://cdn.bluefors.com/wp-content/uploads/2026/05/21092035/Bluefors_Basel_Precision_Instruments_hero_1920x1080.jpg.webp 1920w"
+      },
+      {
+        "decoding": "async",
+        "width": "768",
+        "height": "432",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2026/05/21092035/Bluefors_Basel_Precision_Instruments_hero_1920x1080-768x432.jpg",
+        "class": "attachment-medium_large size-medium_large wp-post-image",
+        "alt": "Bluefors and Basel Precision Instruments logos on light grey background.",
+        "srcset": "https://cdn.bluefors.com/wp-content/uploads/2026/05/21092035/Bluefors_Basel_Precision_Instruments_hero_1920x1080-768x432.jpg 768w, https://cdn.bluefors.com/wp-content/uploads/2026/05/21092035/Bluefors_Basel_Precision_Instruments_hero_1920x1080-400x225.jpg 400w, https://cdn.bluefors.com/wp-content/uploads/2026/05/21092035/Bluefors_Basel_Precision_Instruments_hero_1920x1080-800x450.jpg 800w, https://cdn.bluefors.com/wp-content/uploads/2026/05/21092035/Bluefors_Basel_Precision_Instruments_hero_1920x1080-1536x864.jpg 1536w, https://cdn.bluefors.com/wp-content/uploads/2026/05/21092035/Bluefors_Basel_Precision_Instruments_hero_1920x1080-1300x731.jpg 1300w, https://cdn.bluefors.com/wp-content/uploads/2026/05/21092035/Bluefors_Basel_Precision_Instruments_hero_1920x1080-1440x810.jpg 1440w, https://cdn.bluefors.com/wp-content/uploads/2026/05/21092035/Bluefors_Basel_Precision_Instruments_hero_1920x1080.jpg 1920w",
+        "sizes": "(max-width: 768px) 100vw, 768px",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "768",
+        "height": "432",
+        "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAwAAAAGwAQMAAAAkGpCRAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAD9JREFUeNrtwTEBAAAAwqD1T20LL6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4GejsAABW1fuTQAAAABJRU5ErkJggg==",
+        "class": "attachment-medium_large size-medium_large wp-post-image lazyload ewww_webp_lazy_load",
+        "alt": "QphoX and Bluefors logos with a photo of a photodiode on the still flange of a dilution refrigerator",
+        "data-src": "https://cdn.bluefors.com/wp-content/uploads/2026/03/24085527/QphoX_Bluefors_hero-1-768x432.jpg",
+        "data-srcset": "https://cdn.bluefors.com/wp-content/uploads/2026/03/24085527/QphoX_Bluefors_hero-1-768x432.jpg 768w, https://cdn.bluefors.com/wp-content/uploads/2026/03/24085527/QphoX_Bluefors_hero-1-400x225.jpg 400w, https://cdn.bluefors.com/wp-content/uploads/2026/03/24085527/QphoX_Bluefors_hero-1-800x450.jpg 800w, https://cdn.bluefors.com/wp-content/uploads/2026/03/24085527/QphoX_Bluefors_hero-1-1536x864.jpg 1536w, https://cdn.bluefors.com/wp-content/uploads/2026/03/24085527/QphoX_Bluefors_hero-1-1300x731.jpg 1300w, https://cdn.bluefors.com/wp-content/uploads/2026/03/24085527/QphoX_Bluefors_hero-1-1440x810.jpg 1440w, https://cdn.bluefors.com/wp-content/uploads/2026/03/24085527/QphoX_Bluefors_hero-1.jpg 1920w",
+        "data-max-width": "768",
+        "data-sizes": "auto",
+        "data-eio-rwidth": "768",
+        "data-eio-rheight": "432",
+        "data-src-webp": "https://cdn.bluefors.com/wp-content/uploads/2026/03/24085527/QphoX_Bluefors_hero-1-768x432.jpg.webp",
+        "data-srcset-webp": "https://cdn.bluefors.com/wp-content/uploads/2026/03/24085527/QphoX_Bluefors_hero-1-768x432.jpg.webp 768w, https://cdn.bluefors.com/wp-content/uploads/2026/03/24085527/QphoX_Bluefors_hero-1-400x225.jpg.webp 400w, https://cdn.bluefors.com/wp-content/uploads/2026/03/24085527/QphoX_Bluefors_hero-1-800x450.jpg.webp 800w, https://cdn.bluefors.com/wp-content/uploads/2026/03/24085527/QphoX_Bluefors_hero-1-1536x864.jpg.webp 1536w, https://cdn.bluefors.com/wp-content/uploads/2026/03/24085527/QphoX_Bluefors_hero-1-1300x731.jpg.webp 1300w, https://cdn.bluefors.com/wp-content/uploads/2026/03/24085527/QphoX_Bluefors_hero-1-1440x810.jpg.webp 1440w, https://cdn.bluefors.com/wp-content/uploads/2026/03/24085527/QphoX_Bluefors_hero-1.jpg.webp 1920w"
+      },
+      {
+        "decoding": "async",
+        "width": "768",
+        "height": "432",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2026/03/24085527/QphoX_Bluefors_hero-1-768x432.jpg",
+        "class": "attachment-medium_large size-medium_large wp-post-image",
+        "alt": "QphoX and Bluefors logos with a photo of a photodiode on the still flange of a dilution refrigerator",
+        "srcset": "https://cdn.bluefors.com/wp-content/uploads/2026/03/24085527/QphoX_Bluefors_hero-1-768x432.jpg 768w, https://cdn.bluefors.com/wp-content/uploads/2026/03/24085527/QphoX_Bluefors_hero-1-400x225.jpg 400w, https://cdn.bluefors.com/wp-content/uploads/2026/03/24085527/QphoX_Bluefors_hero-1-800x450.jpg 800w, https://cdn.bluefors.com/wp-content/uploads/2026/03/24085527/QphoX_Bluefors_hero-1-1536x864.jpg 1536w, https://cdn.bluefors.com/wp-content/uploads/2026/03/24085527/QphoX_Bluefors_hero-1-1300x731.jpg 1300w, https://cdn.bluefors.com/wp-content/uploads/2026/03/24085527/QphoX_Bluefors_hero-1-1440x810.jpg 1440w, https://cdn.bluefors.com/wp-content/uploads/2026/03/24085527/QphoX_Bluefors_hero-1.jpg 1920w",
+        "sizes": "(max-width: 768px) 100vw, 768px",
+        "data-eio": "l"
+      },
+      {
+        "decoding": "async",
+        "width": "768",
+        "height": "432",
+        "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAwAAAAGwAQMAAAAkGpCRAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAD9JREFUeNrtwTEBAAAAwqD1T20LL6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4GejsAABW1fuTQAAAABJRU5ErkJggg==",
+        "class": "attachment-medium_large size-medium_large wp-post-image lazyload ewww_webp_lazy_load",
+        "alt": "Bluefors and JPE logos",
+        "data-src": "https://cdn.bluefors.com/wp-content/uploads/2026/03/11132904/Bluefors_JPE_hero_1920x1080-768x432.jpg",
+        "data-srcset": "https://cdn.bluefors.com/wp-content/uploads/2026/03/11132904/Bluefors_JPE_hero_1920x1080-768x432.jpg 768w, https://cdn.bluefors.com/wp-content/uploads/2026/03/11132904/Bluefors_JPE_hero_1920x1080-400x225.jpg 400w, https://cdn.bluefors.com/wp-content/uploads/2026/03/11132904/Bluefors_JPE_hero_1920x1080-800x450.jpg 800w, https://cdn.bluefors.com/wp-content/uploads/2026/03/11132904/Bluefors_JPE_hero_1920x1080-1536x864.jpg 1536w, https://cdn.bluefors.com/wp-content/uploads/2026/03/11132904/Bluefors_JPE_hero_1920x1080-1300x731.jpg 1300w, https://cdn.bluefors.com/wp-content/uploads/2026/03/11132904/Bluefors_JPE_hero_1920x1080-1440x810.jpg 1440w, https://cdn.bluefors.com/wp-content/uploads/2026/03/11132904/Bluefors_JPE_hero_1920x1080.jpg 1920w",
+        "data-max-width": "768",
+        "data-sizes": "auto",
+        "data-eio-rwidth": "768",
+        "data-eio-rheight": "432",
+        "data-src-webp": "https://cdn.bluefors.com/wp-content/uploads/2026/03/11132904/Bluefors_JPE_hero_1920x1080-768x432.jpg.webp",
+        "data-srcset-webp": "https://cdn.bluefors.com/wp-content/uploads/2026/03/11132904/Bluefors_JPE_hero_1920x1080-768x432.jpg.webp 768w, https://cdn.bluefors.com/wp-content/uploads/2026/03/11132904/Bluefors_JPE_hero_1920x1080-400x225.jpg.webp 400w, https://cdn.bluefors.com/wp-content/uploads/2026/03/11132904/Bluefors_JPE_hero_1920x1080-800x450.jpg.webp 800w, https://cdn.bluefors.com/wp-content/uploads/2026/03/11132904/Bluefors_JPE_hero_1920x1080-1536x864.jpg.webp 1536w, https://cdn.bluefors.com/wp-content/uploads/2026/03/11132904/Bluefors_JPE_hero_1920x1080-1300x731.jpg.webp 1300w, https://cdn.bluefors.com/wp-content/uploads/2026/03/11132904/Bluefors_JPE_hero_1920x1080-1440x810.jpg.webp 1440w, https://cdn.bluefors.com/wp-content/uploads/2026/03/11132904/Bluefors_JPE_hero_1920x1080.jpg.webp 1920w"
+      },
+      {
+        "decoding": "async",
+        "width": "768",
+        "height": "432",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2026/03/11132904/Bluefors_JPE_hero_1920x1080-768x432.jpg",
+        "class": "attachment-medium_large size-medium_large wp-post-image",
+        "alt": "Bluefors and JPE logos",
+        "srcset": "https://cdn.bluefors.com/wp-content/uploads/2026/03/11132904/Bluefors_JPE_hero_1920x1080-768x432.jpg 768w, https://cdn.bluefors.com/wp-content/uploads/2026/03/11132904/Bluefors_JPE_hero_1920x1080-400x225.jpg 400w, https://cdn.bluefors.com/wp-content/uploads/2026/03/11132904/Bluefors_JPE_hero_1920x1080-800x450.jpg 800w, https://cdn.bluefors.com/wp-content/uploads/2026/03/11132904/Bluefors_JPE_hero_1920x1080-1536x864.jpg 1536w, https://cdn.bluefors.com/wp-content/uploads/2026/03/11132904/Bluefors_JPE_hero_1920x1080-1300x731.jpg 1300w, https://cdn.bluefors.com/wp-content/uploads/2026/03/11132904/Bluefors_JPE_hero_1920x1080-1440x810.jpg 1440w, https://cdn.bluefors.com/wp-content/uploads/2026/03/11132904/Bluefors_JPE_hero_1920x1080.jpg 1920w",
+        "sizes": "(max-width: 768px) 100vw, 768px",
+        "data-eio": "l"
+      },
+      {
+        "width": "288",
+        "height": "36",
+        "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASAAAAAkAQMAAAATq3VhAAAABlBMVEUAAAD///+l2Z/dAAAAAXRSTlMAQObYZgAAAAlwSFlzAAAOxAAADsQBlSsOGwAAABRJREFUOMtjYBgFo2AUjIJRQCwAAAU0AAHqr5sgAAAAAElFTkSuQmCC",
+        "class": "attachment-medium size-medium lazyload ewww_webp_lazy_load",
+        "alt": "Bluefors logo",
+        "decoding": "async",
+        "data-src": "https://cdn.bluefors.com/wp-content/uploads/2023/08/22150718/logo-white.png",
+        "data-eio-rwidth": "288",
+        "data-eio-rheight": "36",
+        "data-src-webp": "https://cdn.bluefors.com/wp-content/uploads/2023/08/22150718/logo-white.png.webp"
+      },
+      {
+        "width": "288",
+        "height": "36",
+        "src": "https://cdn.bluefors.com/wp-content/uploads/2023/08/22150718/logo-white.png",
+        "class": "attachment-medium size-medium",
+        "alt": "Bluefors logo",
+        "decoding": "async",
+        "data-eio": "l"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-174/26a5b178a511e44b.txt"
+  },
+  {
+    "id": "0466846622189eb1",
+    "name": "Bluescope Steel North America Corporation",
+    "requested_url": "https://www.bluescope.com/our-company/where-we-are/north-america",
+    "status": 200,
+    "final_url": "https://www.bluescope.com/our-company/where-we-are/north-america",
+    "text_chars": 8325,
+    "logo_candidates": [
+      {
+        "alt": "BlueScope Logo",
+        "src": "/content/dam/bluescope/corporate/bluescope-com/global/assets/Header_Logo.svg"
+      },
+      {
+        "alt": "BlueScope Logo",
+        "src": "/content/dam/bluescope/corporate/bluescope-com/global/assets/Header_Logo_Mobile.svg"
+      },
+      {
+        "alt": "BlueScope Logo",
+        "src": "/content/dam/bluescope/corporate/bluescope-com/global/assets/Header_Logo.svg"
+      },
+      {
+        "alt": "BlueScope Logo",
+        "src": "/content/dam/bluescope/corporate/bluescope-com/global/assets/Header_Logo_Mobile.svg"
+      },
+      {
+        "src": "/content/dam/bluescope/corporate/bluescope-com/our-brands/assets/logo/NorthStarBlueScope_RGB_POS.svg",
+        "class": "bs-featurecardimg__card--image bs-featurecardimg__image--cover",
+        "alt": "North Star BlueScope"
+      },
+      {
+        "src": "/content/dam/bluescope/corporate/bluescope-com/our-brands/assets/logo/BlueScope%20Recycling_Logo_RGB_Blue.svg",
+        "class": "bs-featurecardimg__card--image bs-featurecardimg__image--cover",
+        "alt": "BlueScope Recycling"
+      },
+      {
+        "src": "/content/dam/bluescope/corporate/bluescope-com/our-brands/assets/logo/BlueScope%20Coated%20Products_Logo_RGB_Blue.svg",
+        "class": "bs-featurecardimg__card--image bs-featurecardimg__image--cover",
+        "alt": "BlueScope Coated Products"
+      },
+      {
+        "src": "/content/dam/bluescope/corporate/bluescope-com/our-brands/assets/logo/Butler_Logo_RGB_Blue.svg",
+        "class": "bs-featurecardimg__card--image bs-featurecardimg__image--cover",
+        "alt": "Butler Buildings "
+      },
+      {
+        "src": "/content/dam/bluescope/corporate/bluescope-com/our-brands/assets/logo/Varco-Pruden-Logo-Horizontal-Tagline-Blue.png",
+        "class": "bs-featurecardimg__card--image bs-featurecardimg__image--cover",
+        "alt": "Varco Pruden"
+      },
+      {
+        "src": "/content/dam/bluescope/corporate/bluescope-com/our-brands/assets/logo/BlueScope%20Construction_Logo_RGB_Blue.svg",
+        "class": "bs-featurecardimg__card--image bs-featurecardimg__image--cover",
+        "alt": "BlueScope Construction"
+      },
+      {
+        "src": "/content/dam/bluescope/corporate/bluescope-com/our-brands/assets/logo/BlueScope%20Properties%20Group_Logo_RGB_Blue_2L.svg",
+        "class": "bs-featurecardimg__card--image bs-featurecardimg__image--cover",
+        "alt": "BlueScope Properties Group"
+      },
+      {
+        "src": "/content/dam/bluescope/corporate/bluescope-com/our-brands/assets/logo/Steelscape_Logo_2C_rgb.svg",
+        "class": "bs-featurecardimg__card--image bs-featurecardimg__image--cover",
+        "alt": "Steelscape"
+      },
+      {
+        "src": "/content/dam/bluescope/corporate/bluescope-com/our-brands/assets/logo/ASC%20Profiles_Logo_TM_2C_RBG.svg",
+        "class": "bs-featurecardimg__card--image bs-featurecardimg__image--cover",
+        "alt": "ASC Profiles"
+      },
+      {
+        "src": "/content/dam/bluescope/corporate/bluescope-com/global/assets/Footer_Logo.svg",
+        "alt": "BlueScope Logo",
+        "class": "footer-logo"
+      },
+      {
+        "src": "/content/dam/bluescope/corporate/bluescope-com/global/assets/Footer_Logo_Mobile.svg",
+        "alt": "BlueScope Logo",
+        "class": "footer-logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-174/0466846622189eb1.txt"
+  },
+  {
+    "id": "f0b2a8ec1c996681",
+    "name": "BMO Bank N.a.",
+    "requested_url": "https://www.bmo.com/en-us/",
+    "status": 200,
+    "final_url": "https://www.bmo.com/en-us/main/personal/",
+    "text_chars": 14757,
+    "logo_candidates": [
+      {
+        "src": "https://www.bmo.com/dist/images/logos/bmo-blue-on-transparent-en.svg",
+        "alt": "Bank of Montreal logo",
+        "data-orientation": "[object Object]",
+        "class": "css-1ago99h"
+      },
+      {
+        "src": "https://www.bmo.com/dist/images/logos/bmo-blue-on-transparent-en.svg",
+        "alt": "Bank of Montreal logo",
+        "data-orientation": "[object Object]",
+        "class": "css-1ago99h"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-174/f0b2a8ec1c996681.txt"
+  },
+  {
+    "id": "1f0962497402630c",
+    "name": "BMO Bank N.a. (fka BMO Harris Bank N.a.)",
+    "requested_url": "https://www.bmo.com/en-us/",
+    "status": 200,
+    "final_url": "https://www.bmo.com/en-us/main/personal/",
+    "text_chars": 14784,
+    "logo_candidates": [
+      {
+        "src": "https://www.bmo.com/dist/images/logos/bmo-blue-on-transparent-en.svg",
+        "alt": "Bank of Montreal logo",
+        "data-orientation": "[object Object]",
+        "class": "css-1ago99h"
+      },
+      {
+        "src": "https://www.bmo.com/dist/images/logos/bmo-blue-on-transparent-en.svg",
+        "alt": "Bank of Montreal logo",
+        "data-orientation": "[object Object]",
+        "class": "css-1ago99h"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-174/1f0962497402630c.txt"
+  },
+  {
+    "id": "678af83b0f71271c",
+    "name": "BMO Financial Corp. F/k/a BMO Harris Bank",
+    "requested_url": "https://www.bmo.com/main/about-bmo/investor-relations/",
+    "status": 200,
+    "final_url": "https://www.bmo.com/main/about-bmo/investor-relations",
+    "text_chars": 9388,
+    "logo_candidates": [
+      {
+        "src": "/resources/images/logos/roundel/roundel-en.png",
+        "data-src-retina": "/resources/images/logos/roundel/roundel-en-2x.png",
+        "alt": "BMO Bank of Montreal - We're here to help.\u2122"
+      },
+      {
+        "src": "/resources/images/logos/bank-of-montreal/bmo.svg",
+        "data-src-retina": "/resources/images/logos/bank-of-montreal/bmo.svg",
+        "alt": "BMO Bank of Montreal - We're here to help.\u2122"
+      },
+      {
+        "src": "/resources/images/logos/bank-of-montreal/bank-of-montreal-en-rev.png",
+        "data-src-retina": "/resources/images/logos/bank-of-montreal/bank-of-montreal-en-rev-2x.png",
+        "alt": "BMO Bank of Montreal - We're here to help.\u2122"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-174/678af83b0f71271c.txt"
+  },
+  {
+    "id": "cb50fe0791c8c283",
+    "name": "Board Of County Commissioners Of Charles County",
+    "requested_url": "https://www.charlescountymd.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "47e612d9eac837a4",
+    "name": "Elanco Animal Health (via Bockorny Group)",
+    "requested_url": "https://investor.elanco.com/",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "4730408907d61aba",
+    "name": "Nareit (via Bockorny Group)",
+    "requested_url": "https://www.reit.com/",
+    "status": 200,
+    "final_url": "https://www.reit.com/",
+    "text_chars": 6344,
+    "logo_candidates": [
+      {
+        "loading": "lazy",
+        "src": "/sites/default/files/styles/full_width/public/media-images/2026%20REITworld_980x551.jpg.webp?itok=-4hGRyec",
+        "width": "980",
+        "height": "551",
+        "alt": "2026 REITWorld logo"
+      },
+      {
+        "loading": "lazy",
+        "src": "/sites/default/files/2020-11/LEED-Logo.jpg",
+        "width": "102",
+        "height": "200",
+        "alt": "LEED Certificate"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-174/4730408907d61aba.txt"
+  },
+  {
+    "id": "32bfe2ff11de3656",
+    "name": "POET, LLC (via Bockorny Group)",
+    "requested_url": "https://poet.com/",
+    "status": 200,
+    "final_url": "https://poet.com/",
+    "text_chars": 2333,
+    "logo_candidates": [
+      {
+        "loading": "lazy",
+        "class": "img-fluid mx-0",
+        "src": "/resources/images/logos/footer_bar.svg",
+        "style": "height: 18px; width: 612px;",
+        "alt": ""
+      },
+      {
+        "loading": "lazy",
+        "class": "img-fluid mx-auto mx-xl-0",
+        "src": "/resources/images/poet-hn.svg",
+        "style": "height: 30px; width: 120px;",
+        "alt": "POET, LLC Logo"
+      },
+      {
+        "src": "/resources/images/logos/poet-logo-wh.svg",
+        "alt": "POET",
+        "style": "width: 98px; height: 17.5px;"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-174/32bfe2ff11de3656.txt"
+  },
+  {
+    "id": "79d545d61308cb5f",
+    "name": "Boehringer Ingelheim",
+    "requested_url": "https://www.boehringer-ingelheim.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "c67cb1c96d28a146",
+    "name": "Boehringer Ingelheim Pharmaceuticals",
+    "requested_url": "https://www.boehringer-ingelheim.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "916d7728966c49fc",
+    "name": "Boehringer Ingelheim USA Corporation",
+    "requested_url": "https://www.boehringer-ingelheim.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "9497649e65fa95ae",
+    "name": "Boesen & Snow, LLC",
+    "requested_url": "https://www.boesensnowlaw.com/",
+    "status": 200,
+    "final_url": "https://www.boesensnowlaw.com/",
+    "text_chars": 8179,
+    "logo_candidates": [
+      {
+        "src": "https://www.boesensnowlaw.com/wp-content/themes/boesensnowlaw/images/logo.png",
+        "alt": "Boesen & Snow Law"
+      },
+      {
+        "src": "https://www.boesensnowlaw.com/wp-content/themes/boesensnowlaw/images/ftr-logo.png",
+        "width": "364",
+        "height": "111",
+        "alt": "ftr-logo"
+      },
+      {
+        "width": "190",
+        "height": "190",
+        "src": "https://www.boesensnowlaw.com/wp-content/uploads/2026/04/cropped-Boesen-and-snow-logo.png",
+        "class": "custom-logo",
+        "alt": "Boesen & Snow Law",
+        "decoding": "async",
+        "srcset": "https://www.boesensnowlaw.com/wp-content/uploads/2026/04/cropped-Boesen-and-snow-logo.png 190w, https://www.boesensnowlaw.com/wp-content/uploads/2026/04/cropped-Boesen-and-snow-logo-150x150.png 150w, https://www.boesensnowlaw.com/wp-content/uploads/2026/04/cropped-Boesen-and-snow-logo-45x45.png 45w",
+        "sizes": "(max-width: 190px) 100vw, 190px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-174/9497649e65fa95ae.txt"
+  },
+  {
+    "id": "432464f4a631a55a",
+    "name": "Boldyn Networks (fka Signal Point Systems, Inc.)",
+    "requested_url": "https://www.boldyn.com/",
+    "status": 200,
+    "final_url": "https://www.boldyn.com/",
+    "text_chars": 6889,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-174/432464f4a631a55a.txt"
+  },
+  {
+    "id": "5321bf93ebc10fda",
+    "name": "BOM Bank",
+    "requested_url": "https://www.bofm.com/about/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "10788daefc51e1a5",
+    "name": "Bombardier Aerospace (holdings) USA Inc",
+    "requested_url": "https://bombardier.com/en/aircraft",
+    "status": 200,
+    "final_url": "https://bombardier.com/en/aircraft",
+    "text_chars": 191,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-174/10788daefc51e1a5.txt"
+  },
+  {
+    "id": "98015472277ddd48",
+    "name": "Bombardier Aerospace (holdings) USA Inc (former Client Bombardier Transit Corp)",
+    "requested_url": "https://bombardier.com/en/aircraft",
+    "status": 200,
+    "final_url": "https://bombardier.com/en/aircraft",
+    "text_chars": 231,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-174/98015472277ddd48.txt"
+  },
+  {
+    "id": "fa33f18accbcd4ce",
+    "name": "Bombardier Aerospace Holdings (usa) Inc Formerly Bombardier Transit Corporation",
+    "requested_url": "https://bombardier.com/en/aircraft",
+    "status": 200,
+    "final_url": "https://bombardier.com/en/aircraft",
+    "text_chars": 232,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-174/fa33f18accbcd4ce.txt"
+  },
+  {
+    "id": "846d64a840bb57de",
+    "name": "Bombas LLC",
+    "requested_url": "https://bombas.com/",
+    "error": "HTTP Error 429: Too Many Requests"
+  },
+  {
+    "id": "45d5544cc534355a",
+    "name": "Boon Logic, Inc.",
+    "requested_url": "https://boonlogic.com/about-us/",
+    "status": 200,
+    "final_url": "https://boonlogic.com/about-us/",
+    "text_chars": 5664,
+    "logo_candidates": [
+      {
+        "class": "e-image-base ",
+        "data-interaction-id": "c6f9a37",
+        "data-e-type": "widget",
+        "data-id": "c6f9a37",
+        "id": "6364",
+        "src": "https://boonlogic.com/wp-content/uploads/2026/09/Main-Logo-2-1.png",
+        "width": "140",
+        "height": "36",
+        "srcset": "",
+        "alt": ""
+      },
+      {
+        "loading": "lazy",
+        "width": "180",
+        "height": "47",
+        "src": "https://boonlogic.com/wp-content/uploads/2026/09/Main-Logo-2.png",
+        "class": "attachment-full size-full wp-image-6353",
+        "alt": ""
+      },
+      {
+        "width": "180",
+        "height": "47",
+        "src": "https://boonlogic.com/wp-content/uploads/2026/09/Main-Logo-2.png",
+        "class": "attachment-full size-full wp-image-6353",
+        "alt": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-174/45d5544cc534355a.txt"
+  },
+  {
+    "id": "37fe331e7b41be4f",
+    "name": "Borderplex Digital Assets LLC",
+    "requested_url": "https://www.borderplexdigital.com/",
+    "status": 200,
+    "final_url": "https://www.borderplexdigital.com/",
+    "text_chars": 3777,
+    "logo_candidates": [
+      {
+        "loading": "lazy",
+        "src": "https://static.wixstatic.com/media/be205d_0a37224c0370470fa734ec7dc973e278~mv2.png/v1/fill/w_49,h_6,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/bpd_logo_reverse_white.png",
+        "alt": "bpd_logo_reverse_white.png",
+        "style": "object-fit:contain;object-position:center"
+      },
+      {
+        "loading": "lazy",
+        "src": "https://static.wixstatic.com/media/be205d_34bc5904a5384a529bb299a2c5b57e3f~mv2.png/v1/fill/w_49,h_6,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/bpd_logo_color.png",
+        "alt": "bpd_logo_color.png",
+        "style": "object-fit:contain;object-position:center"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-174/37fe331e7b41be4f.txt"
+  },
+  {
+    "id": "207660a3e944c480",
+    "name": "Boston Scientific (office-based Facility Assn Obfa) (fka Uspa)",
+    "requested_url": "https://www.bostonscientific.com/",
+    "status": 200,
+    "final_url": "https://www.bostonscientific.com/en-US/home.html",
+    "text_chars": 8102,
+    "logo_candidates": [
+      {
+        "src": "/content/dam/logo-bsc.svg",
+        "alt": "Boston Scientific home",
+        "class": "bsds-nav-link-logo"
+      },
+      {
+        "src": "/adobe/dynamicmedia/deliver/dm-aid--3e9e07ec-0fba-4fdf-877c-bb66fa38079d/boston-scientific-logo-on-building-wall.jpg?preferwebp=true&quality=85",
+        "srcset": "/adobe/dynamicmedia/deliver/dm-aid--3e9e07ec-0fba-4fdf-877c-bb66fa38079d/boston-scientific-logo-on-building-wall.jpg?preferwebp=true&quality=85&width=576 576w,/adobe/dynamicmedia/deliver/dm-aid--3e9e07ec-0fba-4fdf-877c-bb66fa38079d/boston-scientific-logo-on-building-wall.jpg?preferwebp=true&quality=85&width=767 767w,/adobe/dynamicmedia/deliver/dm-aid--3e9e07ec-0fba-4fdf-877c-bb66fa38079d/boston-scientific-logo-on-building-wall.jpg?preferwebp=true&quality=85&width=991 991w,/adobe/dynamicmedia/deliver/dm-aid--3e9e07ec-0fba-4fdf-877c-bb66fa38079d/boston-scientific-logo-on-building-wall.jpg?preferwebp=true&quality=85&width=1200 1200w,/adobe/dynamicmedia/deliver/dm-aid--3e9e07ec-0fba-4fdf-877c-bb66fa38079d/boston-scientific-logo-on-building-wall.jpg?preferwebp=true&quality=85&width=1400 1400w,/adobe/dynamicmedia/deliver/dm-aid--3e9e07ec-0fba-4fdf-877c-bb66fa38079d/boston-scientific-logo-on-building-wall.jpg?preferwebp=true&quality=85&width=1600 1600w,/adobe/dynamicmedia/deliver/dm-aid--3e9e07ec-0fba-4fdf-877c-bb66fa38079d/boston-scientific-logo-on-building-wall.jpg?preferwebp=true&quality=85&width=2560 2560w",
+        "loading": "lazy",
+        "class": "cmp-image__image",
+        "itemprop": "contentUrl",
+        "width": "1280",
+        "height": "720",
+        "alt": "Boston Scientific corporate wall signage."
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-174/207660a3e944c480.txt"
+  },
+  {
+    "id": "af2e6d2421a5d742",
+    "name": "Boyd Watterson GSA Reit",
+    "requested_url": "https://boydwatterson.com/",
+    "status": 200,
+    "final_url": "https://boydwatterson.com/",
+    "text_chars": 5275,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "src": "https://i0.wp.com/boydwatterson.com/wp-content/uploads/2020/09/BWAM-Official-Logo-White-003-copy.png?fit=1894%2C1894&ssl=1",
+        "alt": "",
+        "width": "1894",
+        "height": "1894"
+      },
+      {
+        "src": "https://i0.wp.com/boydwatterson.com/wp-content/uploads/2025/07/Boyd-Watterson-logo-White.png?fit=3544%2C1188&ssl=1",
+        "alt": "",
+        "width": "3544",
+        "height": "1188",
+        "title": "Boyd Watterson logo \u2013 White"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-174/af2e6d2421a5d742.txt"
+  },
+  {
+    "id": "6b1c59a604436324",
+    "name": "Braeburn Pharmaceuticals",
+    "requested_url": "https://braeburnrx.com/about-us",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "96d884a883507f54",
+    "name": "Branded Cities DC, LLC",
+    "requested_url": "https://brandedcities.com/markets/washingtondc/",
+    "status": 200,
+    "final_url": "https://brandedcities.com/markets/washingtondc/",
+    "text_chars": 3277,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "decoding": "async",
+        "src": "https://brandedcities.com/wp-content/uploads/2025/04/bc-logo.png",
+        "alt": "Branded Cities Logo",
+        "width": "1662",
+        "height": "200",
+        "class": "img-responsive"
+      },
+      {
+        "decoding": "async",
+        "src": "https://brandedcities.com/wp-content/uploads/2025/04/bc-logo-darkBG.png",
+        "alt": "Branded Cities Logo",
+        "width": "1658",
+        "height": "200",
+        "class": "img-responsive"
+      },
+      {
+        "decoding": "async",
+        "class": "srcset-async srcset-auto wp-image-49",
+        "src": "https://brandedcities.com/wp-content/uploads/2025/04/bc-logo-darkBG.png",
+        "width": "1658",
+        "height": "200",
+        "alt": "Branded Cities Logo",
+        "data-no-bp": "",
+        "data-bp": "720,1032,1080",
+        "data-uniqueid": "49-116405",
+        "data-guid": "https://brandedcities.com/wp-content/uploads/2025/04/bc-logo-darkBG.png",
+        "data-path": "2025/04/bc-logo-darkBG.png",
+        "data-width": "1658",
+        "data-height": "200",
+        "data-singlew": "3",
+        "data-singleh": "",
+        "data-crop": "",
+        "loading": "lazy",
+        "data-srcset": "https://brandedcities.com/wp-content/uploads/2025/04/bc-logo-darkBG.png 1658w, https://brandedcities.com/wp-content/uploads/2025/04/bc-logo-darkBG-300x36.png 300w, https://brandedcities.com/wp-content/uploads/2025/04/bc-logo-darkBG-1024x124.png 1024w, https://brandedcities.com/wp-content/uploads/2025/04/bc-logo-darkBG-768x93.png 768w, https://brandedcities.com/wp-content/uploads/2025/04/bc-logo-darkBG-1536x185.png 1536w, https://brandedcities.com/wp-content/uploads/2025/04/bc-logo-darkBG-350x42.png 350w, https://brandedcities.com/wp-content/uploads/2025/04/bc-logo-darkBG-uai-720x87.png 720w, https://brandedcities.com/wp-content/uploads/2025/04/bc-logo-darkBG-uai-1032x124.png 1032w, https://brandedcities.com/wp-content/uploads/2025/04/bc-logo-darkBG-uai-1080x130.png 1080w",
+        "srcset": "data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTY1OCIgaGVpZ2h0PSIyMDAiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHBhdGggZD0iTTAgMGgxdjFIMHoiIGZpbGw9Im5vbmUiIGZpbGwtcnVsZT0iZXZlbm9kZCIvPjwvc3ZnPg=="
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-174/96d884a883507f54.txt"
+  },
+  {
+    "id": "84c6a04c80a03e12",
+    "name": "Brandt Holdings Co",
+    "requested_url": "https://brandtholdings.com/divisions/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "83eb6bb96b4be045",
+    "name": "Bread Financial",
+    "requested_url": "https://investor.breadfinancial.com/",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "9c8fa1f6ce0bdd61",
+    "name": "Bread Financial (f/k/a Alliance Data)",
+    "requested_url": "https://investor.breadfinancial.com/",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "9efa8056bf0fae61",
+    "name": "Bread Financial (fka Alliance Data Systems Corporation)",
+    "requested_url": "https://investor.breadfinancial.com/",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "f5dd0ff8e0875a7f",
+    "name": "Bread Financial Payments, Inc.",
+    "requested_url": "https://breadfinancial.gcs-web.com/",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "198837433294e822",
+    "name": "Breakthrough Energy Ventures, LLC (prev. Reported AS Breakthrough Energy, Llc)",
+    "requested_url": "https://www.breakthroughenergy.org/",
+    "status": 200,
+    "final_url": "https://www.breakthroughenergy.org/",
+    "text_chars": 2517,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-174/198837433294e822.txt"
+  },
+  {
+    "id": "a2dbab96b24da501",
+    "name": "Breakthrough T1D (f/k/a Jdrf)",
+    "requested_url": "https://www.breakthrought1d.org/about/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "0c14593bd068b8d2",
+    "name": "Breakthrough T1D (fka Juvenile Diabetes Research Foundation International)",
+    "requested_url": "https://www.breakthrought1d.org/about/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "d4d1e0f51a14b7fe",
+    "name": "Breakthrough T1D (formerly Known AS Jdrf Intl.)",
+    "requested_url": "https://www.breakthrought1d.org/about/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "a95e884599b9e185",
+    "name": "Breast Cancer Prevention Partners (formerly Known AS Breast Cancer Fund)",
+    "requested_url": "https://www.bcpp.org/about-us/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "f6de0b733398081b",
+    "name": "Breeze Smoke, LLC",
+    "requested_url": "https://www.breezesmoke.com/",
+    "status": 200,
+    "final_url": "https://www.breezesmoke.com/",
+    "text_chars": 1678,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "sizes": "600px",
+        "srcset": "https://static.wixstatic.com/media/788444_a8de85da68974fe3b059bd851e1f386d~mv2.png/v1/fill/w_600,h_283,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Scaleable-Design-Files-and-Logo.png 1x, https://static.wixstatic.com/media/788444_a8de85da68974fe3b059bd851e1f386d~mv2.png/v1/fill/w_1200,h_566,al_c,q_90,usm_0.66_1.00_0.01,enc_avif,quality_auto/Scaleable-Design-Files-and-Logo.png 2x",
+        "id": "img_comp-lmrxklvk",
+        "src": "https://static.wixstatic.com/media/788444_a8de85da68974fe3b059bd851e1f386d~mv2.png/v1/fill/w_600,h_283,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Scaleable-Design-Files-and-Logo.png",
+        "alt": "Scaleable-Design-Files-and-Logo.png",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "600",
+        "height": "283"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-174/f6de0b733398081b.txt"
+  },
+  {
+    "id": "d31094a53f90b6e5",
+    "name": "Bria Artificial Intelligence Inc.",
+    "requested_url": "https://bria.ai/",
+    "status": 200,
+    "final_url": "https://bria.ai/",
+    "text_chars": 6538,
+    "logo_candidates": [
+      {
+        "alt": "logo",
+        "width": "70",
+        "height": "44",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "aspect-35/22",
+        "style": "color:transparent",
+        "srcset": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzppcnj0l%2Fproduction%2Fd0f4aef10abdcc4bacaebeade789ea8c3e453882-210x132.png%3Fw%3D200%26fm%3Dwebp%26q%3D80%26fit%3Dmax&w=96&q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzppcnj0l%2Fproduction%2Fd0f4aef10abdcc4bacaebeade789ea8c3e453882-210x132.png%3Fw%3D200%26fm%3Dwebp%26q%3D80%26fit%3Dmax&w=200&q=75 2x",
+        "src": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzppcnj0l%2Fproduction%2Fd0f4aef10abdcc4bacaebeade789ea8c3e453882-210x132.png%3Fw%3D200%26fm%3Dwebp%26q%3D80%26fit%3Dmax&w=200&q=75"
+      },
+      {
+        "alt": "logo",
+        "width": "70",
+        "height": "44",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "aspect-35/22",
+        "style": "color:transparent",
+        "srcset": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzppcnj0l%2Fproduction%2Fd0f4aef10abdcc4bacaebeade789ea8c3e453882-210x132.png%3Fw%3D200%26fm%3Dwebp%26q%3D80%26fit%3Dmax&w=96&q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzppcnj0l%2Fproduction%2Fd0f4aef10abdcc4bacaebeade789ea8c3e453882-210x132.png%3Fw%3D200%26fm%3Dwebp%26q%3D80%26fit%3Dmax&w=200&q=75 2x",
+        "src": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzppcnj0l%2Fproduction%2Fd0f4aef10abdcc4bacaebeade789ea8c3e453882-210x132.png%3Fw%3D200%26fm%3Dwebp%26q%3D80%26fit%3Dmax&w=200&q=75"
+      },
+      {
+        "alt": "Logo",
+        "loading": "lazy",
+        "width": "191",
+        "height": "125",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-auto w-auto max-h-[125px] max-w-[191px] object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzppcnj0l%2Fproduction%2F288fbe33115d14703e7be272f5412dfe3f100937-884x570.png%3Fw%3D200%26fm%3Dwebp%26q%3D80%26fit%3Dmax&w=200&q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzppcnj0l%2Fproduction%2F288fbe33115d14703e7be272f5412dfe3f100937-884x570.png%3Fw%3D200%26fm%3Dwebp%26q%3D80%26fit%3Dmax&w=384&q=75 2x",
+        "src": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzppcnj0l%2Fproduction%2F288fbe33115d14703e7be272f5412dfe3f100937-884x570.png%3Fw%3D200%26fm%3Dwebp%26q%3D80%26fit%3Dmax&w=384&q=75"
+      },
+      {
+        "alt": "Logo",
+        "loading": "lazy",
+        "width": "191",
+        "height": "125",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-auto w-auto max-h-[125px] max-w-[191px] object-contain",
+        "style": "color:transparent",
+        "srcset": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzppcnj0l%2Fproduction%2F288fbe33115d14703e7be272f5412dfe3f100937-884x570.png%3Fw%3D200%26fm%3Dwebp%26q%3D80%26fit%3Dmax&w=200&q=75 1x, /_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzppcnj0l%2Fproduction%2F288fbe33115d14703e7be272f5412dfe3f100937-884x570.png%3Fw%3D200%26fm%3Dwebp%26q%3D80%26fit%3Dmax&w=384&q=75 2x",
+        "src": "/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fzppcnj0l%2Fproduction%2F288fbe33115d14703e7be272f5412dfe3f100937-884x570.png%3Fw%3D200%26fm%3Dwebp%26q%3D80%26fit%3Dmax&w=384&q=75"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-174/d31094a53f90b6e5.txt"
+  },
+  {
+    "id": "c4e7a34a547b2a92",
+    "name": "Codan Communications (via Brian Glackin & Associates)",
+    "requested_url": "https://www.codancomms.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "68cea34167a74294",
+    "name": "Bridge Consulting, PBC",
+    "requested_url": "https://www.bridgeconsulting.info/",
+    "status": 200,
+    "final_url": "https://www.bridgeconsulting.info/",
+    "text_chars": 4986,
+    "logo_candidates": [
+      {
+        "elementtiming": "nbf-header-logo-desktop",
+        "src": "//images.squarespace-cdn.com/content/v1/63ed16303ca959368c5156dd/5b2caf08-20a0-4d63-92d0-89e05f041933/bridge%2Bconsulting%2Bcolorado%2Blogo.png?format=1500w",
+        "alt": "Bridge Consulting Colorado",
+        "style": "display:block",
+        "fetchpriority": "high",
+        "loading": "eager",
+        "decoding": "async",
+        "data-loader": "raw"
+      },
+      {
+        "elementtiming": "nbf-header-logo-desktop",
+        "src": "//images.squarespace-cdn.com/content/v1/63ed16303ca959368c5156dd/5b2caf08-20a0-4d63-92d0-89e05f041933/bridge%2Bconsulting%2Bcolorado%2Blogo.png?format=1500w",
+        "alt": "Bridge Consulting Colorado",
+        "style": "display:block",
+        "fetchpriority": "high",
+        "loading": "eager",
+        "decoding": "async",
+        "data-loader": "raw"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-174/68cea34167a74294.txt"
+  }
+]

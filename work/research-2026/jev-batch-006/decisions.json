@@ -1,0 +1,133 @@
+{
+  "58d69148a4ab8409": {
+    "name": "Managed Health Care Associates, Inc.",
+    "description": "Alternate-site healthcare group purchasing organization and healthcare services and software company serving pharmacies, senior-care providers, and related providers.",
+    "website": "https://mhainc.com/",
+    "kind": "Healthcare group purchasing organization",
+    "ownership": "Subsidiary",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Official MHA history explicitly expands MHA to Managed Health Care Associates, Inc. and describes group purchasing, healthcare services and software. Identity and domain confirmed by indexed primary text on September 18, 2026. Existing Roper ownership evidence is retained with its original dates; not newly reverified.",
+    "notes": "Official MHA history explicitly expands MHA to Managed Health Care Associates, Inc. and describes group purchasing, healthcare services and software. Identity and domain confirmed by indexed primary text on September 18, 2026. Existing Roper ownership evidence is retained with its original dates; not newly reverified.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/2ca1e307-f332-40ea-8221-27f147b39f4f/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://mhainc.com/about/",
+        "label": "Organization evidence",
+        "claim": "Official MHA About page identifies Managed Health Care Associates, Inc. and describes it as an alternate-site GPO and healthcare services and software company."
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/882835/000088283516000035/cy2015_10-k.htm",
+        "label": "Organization evidence",
+        "claim": "Roper Technologies SEC annual report states that Roper acquired 100% of the shares of Managed Health Care Associates, Inc. on May 1, 2013."
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/882835/000119312525096722/d916794dars.pdf",
+        "label": "Organization evidence",
+        "claim": "Roper Technologies SEC annual report refers to Managed Health Care Associates as a Roper subsidiary."
+      },
+      {
+        "url": "https://mhainc.com/about/history/",
+        "label": "Official identity evidence",
+        "claim": "Official MHA history explicitly expands MHA to Managed Health Care Associates, Inc. and describes group purchasing, healthcare services and software. Identity and domain confirmed by indexed primary text on September 18, 2026. Existing Roper ownership evidence is retained with its original dates; not newly reverified."
+      }
+    ],
+    "as_of": "2026-09-06",
+    "checked_at": "2026-09-18",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "6a9bc290661f0834": {
+    "name": "Douglas PUD",
+    "description": "Public utility district providing electric power, broadband, and related utility services in Douglas County, Washington.",
+    "website": "https://douglaspud.org/",
+    "kind": "Public utility district",
+    "ownership": "Government body",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Official About Us identifies Douglas County Public Utility District as a public power system controlled by residents through elected commissioners, with no stockholders receiving dividends. Washington context and Wells project match the existing filing identity. Indexed official text checked September 18, 2026; direct homepage response lacked readable content.",
+    "notes": "Official About Us identifies Douglas County Public Utility District as a public power system controlled by residents through elected commissioners, with no stockholders receiving dividends. Washington context and Wells project match the existing filing identity. Indexed official text checked September 18, 2026; direct homepage response lacked readable content.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/4d0a7c04-bdbd-4fed-b136-7e3dd3618982/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://douglaspud.org/",
+        "label": "Organization evidence",
+        "claim": "Official source matches Douglas County PUD and supports the stated business description."
+      },
+      {
+        "url": "https://douglaspud.org/",
+        "label": "Organization evidence",
+        "claim": "Official site identifies Douglas PUD, its public utility services, and East Wenatchee/Bridgeport locations."
+      },
+      {
+        "url": "https://douglaspud.org/about-us/",
+        "label": "Official identity evidence",
+        "claim": "Official About Us identifies Douglas County Public Utility District as a public power system controlled by residents through elected commissioners, with no stockholders receiving dividends. Washington context and Wells project match the existing filing identity. Indexed official text checked September 18, 2026; direct homepage response lacked readable content."
+      }
+    ],
+    "as_of": "2026-09-06",
+    "checked_at": "2026-09-18",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "ca5de86040019b33": {
+    "name": "Coconut Grove Condo, LLC",
+    "description": "Delaware LLC serving as sponsor/developer for the Ziggurat Coconut Grove condominium project.",
+    "website": "https://zigguratcoconutgrove.com/legal-notices",
+    "kind": "Real-estate development LLC",
+    "ownership": "Unknown",
+    "legal_form": "LLC",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Official project terms explicitly identify Coconut Grove Condo, LLC as the Delaware LLC providing the Ziggurat website and acting as developer/sponsor. Indexed official text checked September 18, 2026. Direct request returned empty HTTP202; indexed source used. LLC legal form does not establish ownership. Project branding is not treated as a separately verified corporate logo.",
+    "notes": "Official project terms explicitly identify Coconut Grove Condo, LLC as the Delaware LLC providing the Ziggurat website and acting as developer/sponsor. Indexed official text checked September 18, 2026. Direct request returned empty HTTP202; indexed source used. LLC legal form does not establish ownership. Project branding is not treated as a separately verified corporate logo.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/78cf7616-ffcc-4364-a02c-21ffb6eb4f48/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://zigguratcoconutgrove.com/legal-notices",
+        "label": "Organization evidence",
+        "claim": "Official project legal notice identifies Coconut Grove Condo, LLC as a Delaware limited liability company and sponsor/developer."
+      },
+      {
+        "url": "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResultDetail?aggregateId=forl-m24000015141-68b0e61b-f6e1-475e-9f37-ef8e866ab9e6&directionType=CurrentList&inquirytype=EntityName&listNameOrder=COCONUTGROVECIVICCLUB+7536800&searchNameOrder=COCONUTGROVECONDO+M240000151410&searchTerm=THE+COCONUT+GROVE+CIVIC+CLUB%2C+INC.",
+        "label": "Organization evidence",
+        "claim": "Florida Division of Corporations record lists Coconut Grove Condo, LLC as an active foreign LLC."
+      },
+      {
+        "url": "https://zigguratcoconutgrove.com/legal-notices",
+        "label": "Official identity evidence",
+        "claim": "Official project terms explicitly identify Coconut Grove Condo, LLC as the Delaware LLC providing the Ziggurat website and acting as developer/sponsor. Indexed official text checked September 18, 2026. Direct request returned empty HTTP202; indexed source used. LLC legal form does not establish ownership. Project branding is not treated as a separately verified corporate logo."
+      }
+    ],
+    "as_of": "2026-09-05",
+    "checked_at": "2026-09-18",
+    "logo_url": "",
+    "logo_kind": "",
+    "logo_source_url": "",
+    "logo_status": "unresolved",
+    "website_status": "verified",
+    "status": "sourced"
+  }
+}

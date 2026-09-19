@@ -1,0 +1,1153 @@
+[
+  {
+    "id": "dadfa09a12868d33",
+    "name": "Balance of Nature (via American Capitol Group)",
+    "requested_url": "https://balanceofnature.com/",
+    "status": 200,
+    "final_url": "https://balanceofnature.com/",
+    "text_chars": 9405,
+    "logo_candidates": [
+      {
+        "class": "header__logo",
+        "src": "//balanceofnature.com/cdn/shop/files/BoN-Logo-R.png?v=1671727989",
+        "srcset": "//balanceofnature.com/cdn/shop/files/BoN-Logo-R.png?v=1671727989 1x, //balanceofnature.com/cdn/shop/files/BoN-Logo-R.png?v=1671727989 2x",
+        "alt": "Balance of Nature"
+      },
+      {
+        "class": "footer__logo",
+        "src": "//balanceofnature.com/cdn/shop/files/bon-logo.svg?v=1722275045&width=270",
+        "srcset": "//balanceofnature.com/cdn/shop/files/bon-logo.svg?v=1722275045&width=270 1x, Liquid error (sections/footer line 11): invalid url input 2x",
+        "alt": "Balance of Nature",
+        "width": "270",
+        "height": "32"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-094/dadfa09a12868d33.txt"
+  },
+  {
+    "id": "fb1539c6466ed1aa",
+    "name": "City of Klamath Falls, Oregon",
+    "requested_url": "https://klamathfalls.city/",
+    "status": 200,
+    "final_url": "https://klamathfalls.city/",
+    "text_chars": 1822,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-094/fb1539c6466ed1aa.txt"
+  },
+  {
+    "id": "e62f0e387440fe73",
+    "name": "Clenera, LLC",
+    "requested_url": "https://www.clenera.com/",
+    "status": 200,
+    "final_url": "https://www.clenera.com/",
+    "text_chars": 1943,
+    "logo_candidates": [
+      {
+        "src": "https://cdn.prod.website-files.com/5e30ec29a930936a16ac692e/67b4f7bcb159f6da52a8323d_2024_Clenera_Logo_Full_Color_RGB.png",
+        "width": "177",
+        "sizes": "(max-width: 479px) 93vw, 177px",
+        "srcset": "https://cdn.prod.website-files.com/5e30ec29a930936a16ac692e/67b4f7bcb159f6da52a8323d_2024_Clenera_Logo_Full_Color_RGB-p-500.png 500w, https://cdn.prod.website-files.com/5e30ec29a930936a16ac692e/67b4f7bcb159f6da52a8323d_2024_Clenera_Logo_Full_Color_RGB-p-800.png 800w, https://cdn.prod.website-files.com/5e30ec29a930936a16ac692e/67b4f7bcb159f6da52a8323d_2024_Clenera_Logo_Full_Color_RGB-p-1080.png 1080w, https://cdn.prod.website-files.com/5e30ec29a930936a16ac692e/67b4f7bcb159f6da52a8323d_2024_Clenera_Logo_Full_Color_RGB-p-1600.png 1600w, https://cdn.prod.website-files.com/5e30ec29a930936a16ac692e/67b4f7bcb159f6da52a8323d_2024_Clenera_Logo_Full_Color_RGB-p-2000.png 2000w, https://cdn.prod.website-files.com/5e30ec29a930936a16ac692e/67b4f7bcb159f6da52a8323d_2024_Clenera_Logo_Full_Color_RGB.png 2059w",
+        "alt": "",
+        "class": "image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/5e30ec29a930936a16ac692e/67b4f7bcb159f6da52a8323d_2024_Clenera_Logo_Full_Color_RGB.png",
+        "width": "172",
+        "sizes": "(max-width: 479px) 93vw, 172px",
+        "srcset": "https://cdn.prod.website-files.com/5e30ec29a930936a16ac692e/67b4f7bcb159f6da52a8323d_2024_Clenera_Logo_Full_Color_RGB-p-500.png 500w, https://cdn.prod.website-files.com/5e30ec29a930936a16ac692e/67b4f7bcb159f6da52a8323d_2024_Clenera_Logo_Full_Color_RGB-p-800.png 800w, https://cdn.prod.website-files.com/5e30ec29a930936a16ac692e/67b4f7bcb159f6da52a8323d_2024_Clenera_Logo_Full_Color_RGB-p-1080.png 1080w, https://cdn.prod.website-files.com/5e30ec29a930936a16ac692e/67b4f7bcb159f6da52a8323d_2024_Clenera_Logo_Full_Color_RGB-p-1600.png 1600w, https://cdn.prod.website-files.com/5e30ec29a930936a16ac692e/67b4f7bcb159f6da52a8323d_2024_Clenera_Logo_Full_Color_RGB-p-2000.png 2000w, https://cdn.prod.website-files.com/5e30ec29a930936a16ac692e/67b4f7bcb159f6da52a8323d_2024_Clenera_Logo_Full_Color_RGB.png 2059w",
+        "alt": "",
+        "class": "image"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-094/e62f0e387440fe73.txt"
+  },
+  {
+    "id": "832d884201a3a201",
+    "name": "Climbing Kites LLC",
+    "requested_url": "https://climbingkites.com/",
+    "status": 200,
+    "final_url": "https://climbingkites.com/",
+    "text_chars": 5726,
+    "logo_candidates": [
+      {
+        "src": "//climbingkites.com/cdn/shop/files/climbing-kites-logo-black.png?v=1773863436&width=600",
+        "alt": "Climbing Kites",
+        "srcset": "//climbingkites.com/cdn/shop/files/climbing-kites-logo-black.png?v=1773863436&width=130 130w, //climbingkites.com/cdn/shop/files/climbing-kites-logo-black.png?v=1773863436&width=195 195w, //climbingkites.com/cdn/shop/files/climbing-kites-logo-black.png?v=1773863436&width=260 260w",
+        "width": "130",
+        "height": "40.79395085066162",
+        "loading": "eager",
+        "class": "header__heading-logo motion-reduce",
+        "sizes": "(max-width: 260px) 50vw, 130px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-094/832d884201a3a201.txt"
+  },
+  {
+    "id": "0d5e18dfdc0c39d8",
+    "name": "CoventBridge (USA) LLC dba CoventBridge Integrity Systems",
+    "requested_url": "https://coventbridgeintegrity.com/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "ab90523c9379db4a",
+    "name": "EB5 United",
+    "requested_url": "https://www.eb5united.com/",
+    "status": 202,
+    "final_url": "https://www.eb5united.com/",
+    "text_chars": 71,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-094/ab90523c9379db4a.txt"
+  },
+  {
+    "id": "a5df5dd7b86207f7",
+    "name": "LOS Angeles County Sanitation District",
+    "requested_url": "https://www.lacsd.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "dc853300727ad6fb",
+    "name": "Military Produce Group, LLC",
+    "requested_url": "https://militaryproduce.com/",
+    "status": 200,
+    "final_url": "https://militaryproduce.com/",
+    "text_chars": 1864,
+    "logo_candidates": [
+      {
+        "src": "/sites/default/files/inline-images/Half-Makes-You-Whole-Logo-02-01.png",
+        "data-entity-uuid": "4c4e878f-dcd5-4817-b972-4576ef18da7b",
+        "data-entity-type": "file",
+        "alt": "half"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-094/dc853300727ad6fb.txt"
+  },
+  {
+    "id": "cef6e5a26bd0ad8e",
+    "name": "Missouri Farm Bureau Federation",
+    "requested_url": "https://mofb.org/",
+    "status": 200,
+    "final_url": "https://mofb.org/",
+    "text_chars": 14334,
+    "logo_candidates": [
+      {
+        "src": "/MOFB/wp-content/uploads/2018/09/mofblogo2.png",
+        "alt": "Missouri Farm Bureau",
+        "id": "logo2"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-094/cef6e5a26bd0ad8e.txt"
+  },
+  {
+    "id": "de88720eeab46bb4",
+    "name": "NAHEFFA \u2014 National Association of Health and Educational Facilities Finance Authorities",
+    "requested_url": "https://www.naheffa.com/",
+    "status": 200,
+    "final_url": "https://www.naheffa.com/",
+    "text_chars": 2179,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-094/de88720eeab46bb4.txt"
+  },
+  {
+    "id": "17731dd93c38f9d3",
+    "name": "Outdoor Research",
+    "requested_url": "https://www.outdoorresearch.com/",
+    "status": 200,
+    "final_url": "https://www.outdoorresearch.com/",
+    "text_chars": 76265,
+    "logo_candidates": [
+      {
+        "class": "logo logo__footer",
+        "src": "https://cdn.shopify.com/s/files/1/0741/3602/7457/files/footer.svg?v=1687257816",
+        "width": "130",
+        "height": "28",
+        "alt": "Outdoor Research"
+      },
+      {
+        "class": "logo logo__footer",
+        "src": "https://cdn.shopify.com/s/files/1/0741/3602/7457/files/footer.svg?v=1687257816",
+        "width": "140",
+        "height": "50",
+        "alt": "Outdoor Research"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-094/17731dd93c38f9d3.txt"
+  },
+  {
+    "id": "e3a48cd30376a50e",
+    "name": "Philips Image Guided Therapy/volcano Corporation (cardiovascular Coalition)",
+    "requested_url": "https://www.cardiovascularcoalition.com/",
+    "status": 200,
+    "final_url": "https://www.cardiovascularcoalition.com/",
+    "text_chars": 2096,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "sizes": "335px",
+        "srcset": "https://static.wixstatic.com/media/4d8e3a_2680e230bd984104ae186657cebd6dc4~mv2.png/v1/fill/w_335,h_105,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/CVC%201%20-%20whiteblue%20(2).png 1x, https://static.wixstatic.com/media/4d8e3a_2680e230bd984104ae186657cebd6dc4~mv2.png/v1/fill/w_670,h_210,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/CVC%201%20-%20whiteblue%20(2).png 2x",
+        "id": "img_comp-lh9j412n",
+        "src": "https://static.wixstatic.com/media/4d8e3a_2680e230bd984104ae186657cebd6dc4~mv2.png/v1/fill/w_335,h_105,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/CVC%201%20-%20whiteblue%20(2).png",
+        "alt": "CardioVascular Coalition Logo",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "335",
+        "height": "105"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-094/e3a48cd30376a50e.txt"
+  },
+  {
+    "id": "9f12c47fbbf46e14",
+    "name": "Rune Technologies, Inc.",
+    "requested_url": "https://www.runetech.com/",
+    "status": 200,
+    "final_url": "https://www.runetech.com/",
+    "text_chars": 83,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-094/9f12c47fbbf46e14.txt"
+  },
+  {
+    "id": "832e28d6d25c6a60",
+    "name": "Safespill Systems, LLC",
+    "requested_url": "https://safespill.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "1bae45aa63105db8",
+    "name": "Spotted Hawk Development, LLC",
+    "requested_url": "https://spotted-hawk.com/",
+    "status": 200,
+    "final_url": "https://spotted-hawk.com/",
+    "text_chars": 11693,
+    "logo_candidates": [
+      {
+        "src": "https://images.leadconnectorhq.com/image/f_webp/q_80/r_1200/u_https://assets.cdn.filesafe.space/um1PtGDRTjrXiJyj8LMS/media/6a049e43601d54df823a2ab9.png",
+        "alt": "Brand Logo",
+        "style": "height:150px !important;object-fit:unset;",
+        "class": "hl-optimized mw-100",
+        "loading": "lazy",
+        "fetchpriority": "auto",
+        "data-animation-class": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-094/1bae45aa63105db8.txt"
+  },
+  {
+    "id": "63ef57f0f7215409",
+    "name": "the American Institute of Aeronautics and Astronautics",
+    "requested_url": "https://www.aiaa.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "4eb5addedc26330e",
+    "name": "the Vucci LAW Group, P.a.",
+    "requested_url": "https://thevuccilawgroup.com/",
+    "status": 200,
+    "final_url": "https://thevuccilawgroup.com/",
+    "text_chars": 19348,
+    "logo_candidates": [
+      {
+        "id": "image-23-8",
+        "alt": "",
+        "src": "https://thevuccilawgroup.com/wp-content/uploads/2025/05/logo.webp",
+        "class": "ct-image",
+        "srcset": "https://thevuccilawgroup.com/wp-content/uploads/2025/05/logo.webp 650w, https://thevuccilawgroup.com/wp-content/uploads/2025/05/logo-300x69.webp 300w",
+        "sizes": "(max-width: 650px) 100vw, 650px"
+      },
+      {
+        "id": "image-140-10",
+        "alt": "",
+        "src": "https://thevuccilawgroup.com/wp-content/uploads/2025/07/disney-cruse-logo.png",
+        "class": "ct-image"
+      },
+      {
+        "id": "image-211-10",
+        "alt": "",
+        "src": "https://thevuccilawgroup.com/wp-content/uploads/2025/09/margaritaville-at-sea-logo-1.jpg",
+        "class": "ct-image"
+      },
+      {
+        "id": "image-213-10",
+        "alt": "",
+        "src": "https://thevuccilawgroup.com/wp-content/uploads/2025/09/seabourn-logo.jpg",
+        "class": "ct-image"
+      },
+      {
+        "id": "image-177-8",
+        "alt": "",
+        "src": "https://thevuccilawgroup.com/wp-content/uploads/2025/05/CTA-logo-1.png",
+        "class": "ct-image",
+        "srcset": "",
+        "sizes": "(max-width: 108px) 100vw, 108px"
+      },
+      {
+        "id": "image-179-8",
+        "alt": "",
+        "src": "https://thevuccilawgroup.com/wp-content/uploads/2025/05/CTA-logo-2.png",
+        "class": "ct-image",
+        "srcset": "",
+        "sizes": "(max-width: 107px) 100vw, 107px"
+      },
+      {
+        "id": "image-46-8",
+        "alt": "",
+        "src": "https://thevuccilawgroup.com/wp-content/uploads/2025/05/logo.webp",
+        "class": "ct-image",
+        "srcset": "https://thevuccilawgroup.com/wp-content/uploads/2025/05/logo.webp 650w, https://thevuccilawgroup.com/wp-content/uploads/2025/05/logo-300x69.webp 300w",
+        "sizes": "(max-width: 650px) 100vw, 650px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-094/4eb5addedc26330e.txt"
+  },
+  {
+    "id": "489a757513111c4b",
+    "name": "Winning Strategies Washington (on Behalf of Synderys)",
+    "requested_url": "https://www.synderys.com/",
+    "status": 200,
+    "final_url": "https://www.synderys.com/",
+    "text_chars": 1871,
+    "logo_candidates": [
+      {
+        "elementtiming": "nbf-header-logo-desktop",
+        "src": "//images.squarespace-cdn.com/content/v1/66ba2d8643a1e52526067d83/5e587612-27a7-438c-a64b-5b0b32176b1a/Synderys+Logo+FINAL.png?format=1500w",
+        "alt": "Synderys",
+        "style": "display:block",
+        "fetchpriority": "high",
+        "loading": "eager",
+        "decoding": "async",
+        "data-loader": "raw"
+      },
+      {
+        "elementtiming": "nbf-header-logo-desktop",
+        "src": "//images.squarespace-cdn.com/content/v1/66ba2d8643a1e52526067d83/5e587612-27a7-438c-a64b-5b0b32176b1a/Synderys+Logo+FINAL.png?format=1500w",
+        "alt": "Synderys",
+        "style": "display:block",
+        "fetchpriority": "high",
+        "loading": "eager",
+        "decoding": "async",
+        "data-loader": "raw"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-094/489a757513111c4b.txt"
+  },
+  {
+    "id": "4d3d1416269fdb1f",
+    "name": "American Federation of Government Employees",
+    "requested_url": "https://www.afge.org/",
+    "status": 200,
+    "final_url": "https://www.afge.org/",
+    "text_chars": 9905,
+    "logo_candidates": [
+      {
+        "style": "border: 1px #fdb625 solid;",
+        "title": "AFGE Solidarity Center",
+        "alt": "",
+        "src": "/contentassets/4cadfc3745134112883745ff08d385b9/solidarity-center-logo.png",
+        "height": "125",
+        "width": "500"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-094/4d3d1416269fdb1f.txt"
+  },
+  {
+    "id": "f25012a2cca6c095",
+    "name": "CDFI Coalition Financial Institutions, Inc.",
+    "requested_url": "https://cdfi.org/",
+    "status": 200,
+    "final_url": "https://cdfi.org/",
+    "text_chars": 4045,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-094/f25012a2cca6c095.txt"
+  },
+  {
+    "id": "2e992c07041f6043",
+    "name": "City of Lubbock, Texas (Lubbock Preston Smith International Airport)",
+    "requested_url": "https://ci.lubbock.tx.us/",
+    "status": 200,
+    "final_url": "https://www.mylubbock.us/",
+    "text_chars": 3198,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-094/2e992c07041f6043.txt"
+  },
+  {
+    "id": "72b9165778ee00c8",
+    "name": "Confederaci\u00f3n Latinoamericana de Agentes Aduanales (CLAA)",
+    "requested_url": "https://claa.org.mx/",
+    "status": 202,
+    "final_url": "https://claa.mx/",
+    "text_chars": 108,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-094/72b9165778ee00c8.txt"
+  },
+  {
+    "id": "d0e22d7fd71bfd5a",
+    "name": "Envision Strategy, LLC on Behalf of Healthcare Association of Nys, Inc.",
+    "requested_url": "https://www.hanys.org/",
+    "status": 200,
+    "final_url": "https://www.hanys.org/",
+    "text_chars": 2953,
+    "logo_candidates": [
+      {
+        "src": "/images/design/2015/print/hanys-logo-with-text.png",
+        "alt": ""
+      },
+      {
+        "src": "/images/design/2009/icons/hanys_logo_56x51.png",
+        "alt": "",
+        "width": "56",
+        "height": "51"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-094/d0e22d7fd71bfd5a.txt"
+  },
+  {
+    "id": "5d7891b7eacab2b0",
+    "name": "Evolution Well Services Operating, LLC",
+    "requested_url": "https://evolutionws.com/",
+    "status": 200,
+    "final_url": "https://evolutionws.com/",
+    "text_chars": 6548,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-094/5d7891b7eacab2b0.txt"
+  },
+  {
+    "id": "2fbcad81d9b11801",
+    "name": "Hoverfly Technologies",
+    "requested_url": "https://hoverflytech.com/about/",
+    "status": 200,
+    "final_url": "https://hoverflytech.com/about/",
+    "text_chars": 10913,
+    "logo_candidates": [
+      {
+        "class": "br-lazy",
+        "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAwIDAnPjwvc3ZnPg==",
+        "data-breeze": "https://hoverflytech.com/wp-content/uploads/Logo-White_Close-1024x233.png",
+        "alt": "Company logo"
+      },
+      {
+        "class": "br-lazy",
+        "src": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHZpZXdCb3g9JzAgMCAwIDAnPjwvc3ZnPg==",
+        "data-breeze": "https://hoverflytech.com/wp-content/uploads/Logo-White_Close-1024x233.png",
+        "alt": "Company logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-094/2fbcad81d9b11801.txt"
+  },
+  {
+    "id": "2ffc380a2ce28082",
+    "name": "Industrial Defender, LLC",
+    "requested_url": "https://www.industrialdefender.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "96cbdfe0132d8d6b",
+    "name": "Moth + Flame",
+    "requested_url": "https://www.mothandflame.com/",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "id": "29b40eb7af4ab818",
+    "name": "Multi Service Technology Solutions, Inc. (d/b/a TreviPay)",
+    "requested_url": "https://www.trevipay.com/",
+    "status": 200,
+    "final_url": "https://www.trevipay.com/",
+    "text_chars": 9700,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "width": "2560",
+        "height": "652",
+        "src": "https://www.trevipay.com/wp-content/uploads/2026/08/trevipay-logo-blue-on-white-large.jpg",
+        "class": "attachment-full size-full wp-image-29834 not-transparent",
+        "alt": "TreviPay corporate logo for B2B payments and invoicing",
+        "srcset": "https://www.trevipay.com/wp-content/uploads/2026/08/trevipay-logo-blue-on-white-large.jpg 2560w, https://www.trevipay.com/wp-content/uploads/2026/08/trevipay-logo-blue-on-white-large-576x147.jpg 576w, https://www.trevipay.com/wp-content/uploads/2026/08/trevipay-logo-blue-on-white-large-768x196.jpg 768w, https://www.trevipay.com/wp-content/uploads/2026/08/trevipay-logo-blue-on-white-large-1536x391.jpg 1536w, https://www.trevipay.com/wp-content/uploads/2026/08/trevipay-logo-blue-on-white-large-2048x522.jpg 2048w",
+        "sizes": "(max-width: 2560px) 100vw, 2560px",
+        "data-has-transparency": "false",
+        "data-dominant-color": "b0c2f4",
+        "style": "--dominant-color: #b0c2f4"
+      },
+      {
+        "width": "116",
+        "height": "90",
+        "decoding": "async",
+        "class": "swiper-slide-image",
+        "src": "https://www.trevipay.com/wp-content/uploads/2026/08/mastercard-logo-mono.svg",
+        "alt": "Mastercard Logo"
+      },
+      {
+        "width": "544",
+        "height": "83",
+        "decoding": "async",
+        "class": "swiper-slide-image",
+        "src": "https://www.trevipay.com/wp-content/uploads/2026/08/samsung-logo-white.svg",
+        "alt": "Samsung"
+      },
+      {
+        "width": "427",
+        "height": "163",
+        "decoding": "async",
+        "class": "swiper-slide-image",
+        "src": "https://www.trevipay.com/wp-content/uploads/2026/08/walmart-business-logo-stacked.svg",
+        "alt": "Walmart Business"
+      },
+      {
+        "width": "470",
+        "height": "82",
+        "decoding": "async",
+        "class": "swiper-slide-image",
+        "src": "https://www.trevipay.com/wp-content/uploads/2026/08/united-airlines-logo-white.svg",
+        "alt": "United Airlines"
+      },
+      {
+        "width": "495",
+        "height": "102",
+        "decoding": "async",
+        "class": "swiper-slide-image",
+        "src": "https://www.trevipay.com/wp-content/uploads/2026/08/lenovo-logo-2015.svg",
+        "alt": "Lenovo"
+      },
+      {
+        "width": "495",
+        "height": "495",
+        "decoding": "async",
+        "class": "swiper-slide-image",
+        "src": "https://www.trevipay.com/wp-content/uploads/2026/08/general-motors-logo-mono.svg",
+        "alt": "general-motors-logo-mono"
+      },
+      {
+        "width": "169",
+        "height": "116",
+        "decoding": "async",
+        "class": "swiper-slide-image",
+        "src": "https://www.trevipay.com/wp-content/uploads/2026/08/best-buy-business-lockup-logo.svg",
+        "alt": "Best Buy Business"
+      },
+      {
+        "width": "706",
+        "height": "378",
+        "decoding": "async",
+        "class": "swiper-slide-image",
+        "src": "https://www.trevipay.com/wp-content/uploads/2026/08/currys-business-logo-white.svg",
+        "alt": "Currys Business"
+      },
+      {
+        "width": "159",
+        "height": "20",
+        "decoding": "async",
+        "class": "swiper-slide-image",
+        "src": "https://www.trevipay.com/wp-content/uploads/2026/08/air-canada-logo-white.svg",
+        "alt": "Air Canada"
+      },
+      {
+        "width": "543",
+        "height": "112",
+        "decoding": "async",
+        "class": "swiper-slide-image",
+        "src": "https://www.trevipay.com/wp-content/uploads/2026/08/paccar-logo-white.svg",
+        "alt": "Paccar"
+      },
+      {
+        "width": "3928",
+        "height": "413",
+        "decoding": "async",
+        "class": "swiper-slide-image",
+        "src": "https://www.trevipay.com/wp-content/uploads/2026/08/international-motors-logo.svg",
+        "alt": "International Motors"
+      },
+      {
+        "width": "92",
+        "height": "18",
+        "decoding": "async",
+        "class": "swiper-slide-image",
+        "src": "https://www.trevipay.com/wp-content/uploads/2026/08/staples-canada-logo-white.svg",
+        "alt": "Staples Canada"
+      },
+      {
+        "width": "1919",
+        "height": "497",
+        "decoding": "async",
+        "class": "swiper-slide-image",
+        "src": "https://www.trevipay.com/wp-content/uploads/2026/08/allianz-logo.svg",
+        "alt": "Allianz"
+      },
+      {
+        "width": "520",
+        "height": "80",
+        "decoding": "async",
+        "class": "swiper-slide-image",
+        "src": "https://www.trevipay.com/wp-content/uploads/2026/08/albertsons-logo.svg",
+        "alt": "Albertsons"
+      },
+      {
+        "width": "177",
+        "height": "43",
+        "decoding": "async",
+        "class": "swiper-slide-image",
+        "src": "https://www.trevipay.com/wp-content/uploads/2026/08/ace-for-business-logo.svg",
+        "alt": "Ace for Business"
+      },
+      {
+        "width": "256",
+        "height": "118",
+        "decoding": "async",
+        "class": "swiper-slide-image",
+        "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20256%20118'%3E%3C/svg%3E",
+        "alt": "Red Wing Shoes Logo",
+        "data-lazy-src": "https://www.trevipay.com/wp-content/uploads/2026/08/red-wing-tertiary-logo.svg"
+      },
+      {
+        "width": "256",
+        "height": "118",
+        "decoding": "async",
+        "class": "swiper-slide-image",
+        "src": "https://www.trevipay.com/wp-content/uploads/2026/08/red-wing-tertiary-logo.svg",
+        "alt": "Red Wing Shoes Logo"
+      },
+      {
+        "width": "454",
+        "height": "122",
+        "decoding": "async",
+        "class": "swiper-slide-image",
+        "src": "https://www.trevipay.com/wp-content/uploads/2026/08/northern-tool-equipment-logo-white.svg",
+        "alt": "Northern Tool Equipment"
+      },
+      {
+        "width": "105",
+        "height": "71",
+        "decoding": "async",
+        "class": "swiper-slide-image",
+        "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20105%2071'%3E%3C/svg%3E",
+        "alt": "hino-trucks-logo-cutout",
+        "data-lazy-src": "https://www.trevipay.com/wp-content/uploads/2026/08/hino-trucks-logo-cutout.svg"
+      },
+      {
+        "width": "105",
+        "height": "71",
+        "decoding": "async",
+        "class": "swiper-slide-image",
+        "src": "https://www.trevipay.com/wp-content/uploads/2026/08/hino-trucks-logo-cutout.svg",
+        "alt": "hino-trucks-logo-cutout"
+      },
+      {
+        "width": "231",
+        "height": "122",
+        "decoding": "async",
+        "class": "swiper-slide-image",
+        "src": "https://www.trevipay.com/wp-content/uploads/2026/08/super-micro-computer-logo-white.svg",
+        "alt": "SuperMicro Computers"
+      },
+      {
+        "width": "253",
+        "height": "46",
+        "decoding": "async",
+        "class": "swiper-slide-image",
+        "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20253%2046'%3E%3C/svg%3E",
+        "alt": "Harbor Freight Logo",
+        "data-lazy-src": "https://www.trevipay.com/wp-content/uploads/2026/08/harbor-freight-logo-cutout.svg"
+      },
+      {
+        "width": "253",
+        "height": "46",
+        "decoding": "async",
+        "class": "swiper-slide-image",
+        "src": "https://www.trevipay.com/wp-content/uploads/2026/08/harbor-freight-logo-cutout.svg",
+        "alt": "Harbor Freight Logo"
+      },
+      {
+        "width": "214",
+        "height": "25",
+        "decoding": "async",
+        "class": "swiper-slide-image",
+        "src": "https://www.trevipay.com/wp-content/uploads/2026/08/tico-logo.svg",
+        "alt": "Tico"
+      },
+      {
+        "width": "707",
+        "height": "211",
+        "decoding": "async",
+        "class": "swiper-slide-image",
+        "src": "https://www.trevipay.com/wp-content/uploads/2026/08/uatp-logo-white-text.svg",
+        "alt": "AUTP"
+      },
+      {
+        "width": "1338",
+        "height": "537",
+        "decoding": "async",
+        "class": "swiper-slide-image",
+        "src": "https://www.trevipay.com/wp-content/uploads/2026/08/monolithic-power-systems-logo.svg",
+        "alt": "MPS Monolithic Power Systems"
+      },
+      {
+        "decoding": "async",
+        "class": "e-image-base e-247803f-ed8d86f",
+        "data-interaction-id": "247803f",
+        "data-e-type": "widget",
+        "data-id": "247803f",
+        "id": "33362",
+        "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%201733%20312'%3E%3C/svg%3E",
+        "width": "1733",
+        "height": "312",
+        "srcset": "",
+        "alt": "Crossroads Conference Logo",
+        "data-lazy-src": "https://www.trevipay.com/wp-content/uploads/2026/09/crossroads-conference-logo-white.svg"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "class": "e-image-base e-247803f-ed8d86f",
+        "data-interaction-id": "247803f",
+        "data-e-type": "widget",
+        "data-id": "247803f",
+        "id": "33362",
+        "src": "https://www.trevipay.com/wp-content/uploads/2026/09/crossroads-conference-logo-white.svg",
+        "width": "1733",
+        "height": "312",
+        "srcset": "",
+        "alt": "Crossroads Conference Logo"
+      },
+      {
+        "width": "576",
+        "height": "138",
+        "src": "data:image/svg+xml,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20viewBox='0%200%20576%20138'%3E%3C/svg%3E",
+        "class": "attachment-medium size-medium wp-image-28003 has-transparency",
+        "alt": "TreviPay corporate logo for B2B payments and invoicing",
+        "data-lazy-srcset": "https://www.trevipay.com/wp-content/uploads/2026/08/trevipay-logo-white-576x138.png 576w, https://www.trevipay.com/wp-content/uploads/2026/08/trevipay-logo-white-768x185.png 768w, https://www.trevipay.com/wp-content/uploads/2026/08/trevipay-logo-white-1536x369.png 1536w, https://www.trevipay.com/wp-content/uploads/2026/08/trevipay-logo-white-2048x492.png 2048w",
+        "data-lazy-sizes": "(max-width: 576px) 100vw, 576px",
+        "data-has-transparency": "true",
+        "data-dominant-color": "565656",
+        "style": "--dominant-color: #565656",
+        "data-lazy-src": "https://www.trevipay.com/wp-content/uploads/2026/08/trevipay-logo-white-576x138.png"
+      },
+      {
+        "width": "576",
+        "height": "138",
+        "src": "https://www.trevipay.com/wp-content/uploads/2026/08/trevipay-logo-white-576x138.png",
+        "class": "attachment-medium size-medium wp-image-28003 has-transparency",
+        "alt": "TreviPay corporate logo for B2B payments and invoicing",
+        "srcset": "https://www.trevipay.com/wp-content/uploads/2026/08/trevipay-logo-white-576x138.png 576w, https://www.trevipay.com/wp-content/uploads/2026/08/trevipay-logo-white-768x185.png 768w, https://www.trevipay.com/wp-content/uploads/2026/08/trevipay-logo-white-1536x369.png 1536w, https://www.trevipay.com/wp-content/uploads/2026/08/trevipay-logo-white-2048x492.png 2048w",
+        "sizes": "(max-width: 576px) 100vw, 576px",
+        "data-has-transparency": "true",
+        "data-dominant-color": "565656",
+        "style": "--dominant-color: #565656"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-094/29b40eb7af4ab818.txt"
+  },
+  {
+    "id": "ccdbeff5d6afc2a2",
+    "name": "OKX Inc.",
+    "requested_url": "https://www.okx.com/",
+    "status": 200,
+    "final_url": "https://www.okx.com/en-us",
+    "text_chars": 4533,
+    "logo_candidates": [
+      {
+        "width": "82",
+        "height": "36",
+        "class": "logo-img   \n        ",
+        "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKQAAABICAQAAADSOpYzAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAAmJLR0QA/4ePzL8AAAAJcEhZcwAAFiUAABYlAUlSJPAAAAAHdElNRQfmBwMNKhI4Vg/yAAABMklEQVR42u3aQW6DMBBAUZyT5eSFE/RInS5psOKx8Scq0n9ZNXjA+VE3VpZFkiRJkiShYo0rrYPPWyf3+3VYXZL138nTuudLxLVfVCmHrcXY+uqjteejPF7/XH5G1teXe+ebt1E/Q0IMCTEkxJAQQ0IMCTEkxJAQQ0IMCTEkxJCQ+4XcBq+Orj87n54oPlv3iWc2Xk3A55tzZs8rd+l55OT54PB5ZLrhMjd/2M3keeXufv/a/5QhIYaEGBJiSIghIYaEGBJiSIghIYaEGBJiSEgaMjtG+/B+tw/f8eVqlPq1X7xYlX5wfTXfPj/095Hv1tdfRPLJ/X3kvRkSYkiIISGGhBgSYkiIISGGhBgSYkiIISGGhDwuOOH7a+t4p//qmflticYrf946OS9JkiRJkk75BUgSur6QrNyYAAAAJXRFWHRkYXRlOmNyZWF0ZQAyMDIyLTA3LTAzVDEzOjQyOjE4KzAwOjAwKpbwNQAAACV0RVh0ZGF0ZTptb2RpZnkAMjAyMi0wNy0wM1QxMzo0MjoxOCswMDowMFvLSIkAAAAASUVORK5CYII=",
+        "alt": "OKX - Leading Cryptocurrency Exchange",
+        "title": "OKX United States"
+      },
+      {
+        "data-testid": "okd-picture-img-default",
+        "width": "185",
+        "height": "75",
+        "class": "",
+        "src": "https://www.okx.com/cdn/assets/imgs/236/DD7AC9432E675714.png",
+        "alt": "Logo of Tribeca Festival"
+      },
+      {
+        "data-testid": "okd-picture-img-default",
+        "width": "129",
+        "height": "34",
+        "class": "",
+        "src": "https://www.okx.com/cdn/assets/imgs/2210/499A92F3657A52EC.png",
+        "alt": "Logo of McLaren Formula 1 Team"
+      },
+      {
+        "data-testid": "okd-picture-img-default",
+        "width": "64",
+        "height": "64",
+        "class": "",
+        "src": "https://www.okx.com/cdn/assets/imgs/2210/6279B178FADAFCC5.png",
+        "alt": "Logo of Manchester City"
+      },
+      {
+        "data-testid": "okd-picture-img-default",
+        "width": "185",
+        "height": "75",
+        "class": "",
+        "src": "https://www.okx.com/cdn/assets/imgs/236/DD7AC9432E675714.png",
+        "alt": "Logo of Tribeca Festival"
+      },
+      {
+        "data-testid": "okd-picture-img-default",
+        "width": "129",
+        "height": "34",
+        "class": "",
+        "src": "https://www.okx.com/cdn/assets/imgs/2210/499A92F3657A52EC.png",
+        "alt": "Logo of McLaren Formula 1 Team"
+      },
+      {
+        "data-testid": "okd-picture-img-default",
+        "width": "64",
+        "height": "64",
+        "class": "",
+        "src": "https://www.okx.com/cdn/assets/imgs/2210/6279B178FADAFCC5.png",
+        "alt": "Logo of Manchester City"
+      },
+      {
+        "data-testid": "okd-picture-img-default",
+        "originwith": "374",
+        "height": "112",
+        "class": "logo-img",
+        "src": "https://www.okx.com/cdn/assets/imgs/2210/DBDC29AD98D75479.png",
+        "alt": "OKX logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-094/ccdbeff5d6afc2a2.txt"
+  },
+  {
+    "id": "e5e7688f5047dd82",
+    "name": "Open Source MD, Inc.",
+    "requested_url": "https://opensourcemd.net/",
+    "status": 200,
+    "final_url": "https://opensourcemd.net/",
+    "text_chars": 1921,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "decoding": "async",
+        "src": "https://opensourcemd.net/wp-content/uploads/2024/11/logo.png",
+        "data-orig-src": "https://opensourcemd.net/wp-content/uploads/2024/11/logo.png",
+        "srcset": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%272520%27%20height%3D%27612%27%20viewBox%3D%270%200%202520%20612%27%3E%3Crect%20width%3D%272520%27%20height%3D%27612%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "data-srcset": "https://opensourcemd.net/wp-content/uploads/2024/11/logo.png 1x, https://opensourcemd.net/wp-content/uploads/2024/11/logo.png 2x",
+        "style": "max-height:612px;height:auto;",
+        "retina_url": "https://opensourcemd.net/wp-content/uploads/2024/11/logo.png",
+        "width": "2520",
+        "height": "612",
+        "class": "lazyload img-responsive fusion-standard-logo",
+        "alt": "Open Source M.D. Logo"
+      },
+      {
+        "decoding": "async",
+        "width": "64",
+        "height": "64",
+        "alt": "Open Source M.D. logo",
+        "title": "favicon",
+        "src": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%2764%27%20height%3D%2764%27%20viewBox%3D%270%200%2064%2064%27%3E%3Crect%20width%3D%2764%27%20height%3D%2764%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "data-orig-src": "https://opensourcemd.net/wp-content/uploads/2023/04/favicon.png",
+        "class": "lazyload img-responsive wp-image-12"
+      },
+      {
+        "decoding": "async",
+        "src": "https://opensourcemd.net/wp-content/uploads/2023/04/favicon.png",
+        "data-orig-src": "https://opensourcemd.net/wp-content/uploads/2024/11/logo.png",
+        "srcset": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%2764%27%20height%3D%2764%27%20viewBox%3D%270%200%2064%2064%27%3E%3Crect%20width%3D%2764%27%20height%3D%2764%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "data-srcset": "https://opensourcemd.net/wp-content/uploads/2024/11/logo.png 1x, https://opensourcemd.net/wp-content/uploads/2024/11/logo.png 2x",
+        "style": "max-height:612px;height:auto;",
+        "retina_url": "https://opensourcemd.net/wp-content/uploads/2024/11/logo.png",
+        "width": "2520",
+        "height": "612",
+        "class": "lazyload img-responsive fusion-standard-logo",
+        "alt": "Open Source M.D. Logo"
+      },
+      {
+        "decoding": "async",
+        "src": "https://opensourcemd.net/wp-content/uploads/2023/04/favicon.png",
+        "data-orig-src": "https://opensourcemd.net/wp-content/uploads/2024/11/logo.png",
+        "srcset": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%2764%27%20height%3D%2764%27%20viewBox%3D%270%200%2064%2064%27%3E%3Crect%20width%3D%2764%27%20height%3D%2764%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "data-srcset": "https://opensourcemd.net/wp-content/uploads/2024/11/logo.png 1x, https://opensourcemd.net/wp-content/uploads/2024/11/logo.png 2x",
+        "style": "max-height:612px;height:auto;",
+        "retina_url": "https://opensourcemd.net/wp-content/uploads/2024/11/logo.png",
+        "width": "2520",
+        "height": "612",
+        "class": "lazyload img-responsive fusion-standard-logo",
+        "alt": "Open Source M.D. Logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-094/e5e7688f5047dd82.txt"
+  },
+  {
+    "id": "4574aabfccba3604",
+    "name": "Ridgewood Partners, LLC on Behalf of Sierra Railroad Company",
+    "requested_url": "https://sierrarailroad.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "e0937471121bbbcb",
+    "name": "Sbir Advisors OBO Appgate Cybersecurity Inc",
+    "requested_url": "https://appgate.com/",
+    "error": "HTTP Error 405: Not Allowed"
+  },
+  {
+    "id": "feb39a09b25dd3b6",
+    "name": "the American Occupational Therapy Association, Inc. (aota)",
+    "requested_url": "https://www.aota.org/",
+    "status": 200,
+    "final_url": "https://www.aota.org/",
+    "text_chars": 114,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-094/feb39a09b25dd3b6.txt"
+  },
+  {
+    "id": "29e764308ee9ee4e",
+    "name": "Air Protein",
+    "requested_url": "https://www.airprotein.com/",
+    "status": 200,
+    "final_url": "https://www.airprotein.com/",
+    "text_chars": 84,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-094/29e764308ee9ee4e.txt"
+  },
+  {
+    "id": "4afb5fe0aa1ae90c",
+    "name": "Ansys, Inc.",
+    "requested_url": "https://investors.ansys.com/",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "ac0cd4098f04d150",
+    "name": "Atkinsrealis Nuclear Secured, LLC",
+    "requested_url": "https://www.atkinsrealis.com/en/markets-and-services/markets/nuclear",
+    "status": 200,
+    "final_url": "https://www.atkinsrealis.com/en/markets-and-services/markets/nuclear",
+    "text_chars": 136340,
+    "logo_candidates": [
+      {
+        "src": "/~/media/Images/A/atkinsrealis/logo/logo-gray.svg",
+        "alt": "AtkinsR\u00e9alis site logo image",
+        "role": "Logo img",
+        "width": "",
+        "height": "",
+        "class": "logo-white"
+      },
+      {
+        "src": "/~/media/Images/A/atkinsrealis/logo/logo-gray.svg",
+        "alt": "AtkinsR\u00e9alis Logo",
+        "width": "",
+        "height": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-094/ac0cd4098f04d150.txt"
+  },
+  {
+    "id": "f684500dc9d19bf0",
+    "name": "BBG Aerosystems / Fulcrum Autonomy",
+    "requested_url": "https://www.fulcrumautonomy.com/",
+    "status": 200,
+    "final_url": "https://fulcrumautonomy.com/",
+    "text_chars": 3299,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-094/f684500dc9d19bf0.txt"
+  },
+  {
+    "id": "415d35b9e379da23",
+    "name": "Bio-Techne",
+    "requested_url": "https://www.bio-techne.com/about/about-bio-techne",
+    "error": "[Errno 60] Operation timed out"
+  },
+  {
+    "id": "1b42999fe121fa35",
+    "name": "City of Lexington, Virginia",
+    "requested_url": "https://www.lexingtonva.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "4e2c9555ea332cb2",
+    "name": "City of Millbrae, California",
+    "requested_url": "https://ci.millbrae.ca.us/",
+    "status": 200,
+    "final_url": "https://ci.millbrae.ca.us/",
+    "text_chars": 5166,
+    "logo_candidates": [
+      {
+        "class": "media",
+        "src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data-delay-load": "/ImageRepository/Document?documentID=85",
+        "alt": "Logo Placeholder",
+        "data-delayed-image": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-094/4e2c9555ea332cb2.txt"
+  },
+  {
+    "id": "c3fc8e0a44882f1e",
+    "name": "Houston METRO (via Cline Strategic Consulting)",
+    "requested_url": "https://www.ridemetro.org/",
+    "status": 200,
+    "final_url": "https://www.ridemetro.org/",
+    "text_chars": 9049,
+    "logo_candidates": [
+      {
+        "class": "navbar-brand-img",
+        "src": "/ResourcePackages/Main/dist/assets/images/METRO-Logo.svg",
+        "alt": "METRO logo",
+        "data-sf-ec-immutable": ""
+      },
+      {
+        "src": "/ResourcePackages/Main/dist/assets/images/METRO-Logo.svg",
+        "alt": "Metro logo"
+      },
+      {
+        "src": "/ResourcePackages/Main/dist/assets/images/logo-chrome@1x.png",
+        "alt": "browser logo",
+        "srcset": "/ResourcePackages/Main/dist/assets/images/logo-chrome@1x.png 1x, /ResourcePackages/Main/dist/assets/images/logo-chrome@2x.png 2x",
+        "width": "96",
+        "height": "96"
+      },
+      {
+        "src": "/ResourcePackages/Main/dist/assets/images/logo-safari@1x.png",
+        "alt": "browser logo",
+        "srcset": "/ResourcePackages/Main/dist/assets/images/logo-safari@1x.png 1x, /ResourcePackages/Main/dist/assets/images/logo-safari@2x.png 2x",
+        "width": "96",
+        "height": "96"
+      },
+      {
+        "src": "/ResourcePackages/Main/dist/assets/images/logo-mozilla@1x.png",
+        "alt": "browser logo",
+        "srcset": "/ResourcePackages/Main/dist/assets/images/logo-mozilla@1x.png 1x, /ResourcePackages/Main/dist/assets/images/logo-mozilla@2x.png 2x",
+        "width": "96",
+        "height": "96"
+      },
+      {
+        "src": "/ResourcePackages/Main/dist/assets/images/logo-edge@1x.png",
+        "alt": "browser logo",
+        "srcset": "/ResourcePackages/Main/dist/assets/images/logo-edge@1x.png 1x, /ResourcePackages/Main/dist/assets/images/logo-edge@2x.png 2x",
+        "width": "96",
+        "height": "96"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-094/c3fc8e0a44882f1e.txt"
+  },
+  {
+    "id": "69aa2664fba88a1c",
+    "name": "GALT Aerospace and affiliates",
+    "requested_url": "https://www.galt.aero/",
+    "status": 200,
+    "final_url": "https://www.galt.aero/",
+    "text_chars": 3189,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "src": "https://static.wixstatic.com/media/2a2df8_c43e1b59cebc47698e242514ecc3d954~mv2.png/v1/fill/w_49,h_13,al_c,q_85,usm_0.66_1.00_0.01,blur_2,enc_avif,quality_auto/GALT_AEROSPACE_LOGO_WHITE.png",
+        "alt": "GALT_AEROSPACE_LOGO_WHITE.png",
+        "style": "object-fit:cover;object-position:50% 50%"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-094/69aa2664fba88a1c.txt"
+  },
+  {
+    "id": "7bd804206d97ac1e",
+    "name": "Guam Regional Medical City",
+    "requested_url": "https://www.grmc.gu/",
+    "status": 200,
+    "final_url": "https://www.grmc.gu/",
+    "text_chars": 11018,
+    "logo_candidates": [
+      {
+        "src": "https://www.grmc.gu/wp-content/uploads/2023/10/GRMC-logo_colored-landscape.png",
+        "width": "897",
+        "height": "280",
+        "srcset": "https://www.grmc.gu/wp-content/uploads/2023/10/GRMC-logo_colored-landscape-400x124.png 400w, https://www.grmc.gu/wp-content/uploads/2023/10/GRMC-logo_colored-landscape-600x187.png 600w, https://www.grmc.gu/wp-content/uploads/2023/10/GRMC-logo_colored-landscape.png 897w",
+        "sizes": "(max-width: 767px) 100vw, (max-width: 1150px) 100vw, 1150px",
+        "alt": ""
+      },
+      {
+        "src": "https://www.grmc.gu/wp-content/uploads/2023/10/GRMC-logo_colored-landscape.png",
+        "width": "897",
+        "height": "280",
+        "srcset": "https://www.grmc.gu/wp-content/uploads/2023/10/GRMC-logo_colored-landscape-400x124.png 400w, https://www.grmc.gu/wp-content/uploads/2023/10/GRMC-logo_colored-landscape-600x187.png 600w, https://www.grmc.gu/wp-content/uploads/2023/10/GRMC-logo_colored-landscape.png 897w",
+        "sizes": "(max-width: 767px) 100vw, (max-width: 1150px) 100vw, 1150px",
+        "alt": ""
+      },
+      {
+        "src": "https://www.grmc.gu/wp-content/uploads/2023/10/GRMC-logo_colored-landscape.png",
+        "width": "200",
+        "alt": ""
+      },
+      {
+        "alt": "",
+        "loading": "lazy",
+        "decoding": "async",
+        "class": "alignnone wp-image-8268",
+        "src": "https://www.grmc.gu/wp-content/uploads/2023/10/GRMC-logo_colored-landscape-300x94.png",
+        "width": "201",
+        "height": "63",
+        "srcset": "https://www.grmc.gu/wp-content/uploads/2023/10/GRMC-logo_colored-landscape-300x94.png 300w, https://www.grmc.gu/wp-content/uploads/2023/10/GRMC-logo_colored-landscape-768x240.png 768w, https://www.grmc.gu/wp-content/uploads/2023/10/GRMC-logo_colored-landscape.png 897w",
+        "sizes": "auto, (max-width: 201px) 100vw, 201px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-094/7bd804206d97ac1e.txt"
+  },
+  {
+    "id": "fddea3dd9fa07ee1",
+    "name": "Knds - KMW + Nexter Defense Systems",
+    "requested_url": "https://knds.com/",
+    "error": "[Errno 54] Connection reset by peer"
+  },
+  {
+    "id": "0c0b81c298da7712",
+    "name": "Palladyne AI",
+    "requested_url": "https://investor.palladyneai.com/",
+    "error": "The read operation timed out"
+  },
+  {
+    "id": "badd20e41d7e0f88",
+    "name": "Perles Law Firm",
+    "requested_url": "https://www.perleslaw.com/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1129)>"
+  },
+  {
+    "id": "fd6ef8d7d2109914",
+    "name": "Port Authority Police Benevolent Association, Inc.",
+    "requested_url": "https://papba.org/",
+    "status": 200,
+    "final_url": "https://papba.org/",
+    "text_chars": 4209,
+    "logo_candidates": [
+      {
+        "width": "500",
+        "height": "500",
+        "src": "https://papba.org/wp-content/uploads/2018/08/logo_wtc_memorial.png",
+        "class": "custom-logo",
+        "alt": "PAPBA",
+        "decoding": "async",
+        "fetchpriority": "high",
+        "srcset": "https://papba.org/wp-content/uploads/2018/08/logo_wtc_memorial.png 500w, https://papba.org/wp-content/uploads/2018/08/logo_wtc_memorial-150x150.png 150w, https://papba.org/wp-content/uploads/2018/08/logo_wtc_memorial-350x350.png 350w, https://papba.org/wp-content/uploads/2018/08/logo_wtc_memorial-240x240.png 240w, https://papba.org/wp-content/uploads/2018/08/logo_wtc_memorial-180x180.png 180w",
+        "sizes": "(max-width: 500px) 100vw, 500px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-094/fd6ef8d7d2109914.txt"
+  },
+  {
+    "id": "50ab0b544cdb9c43",
+    "name": "American Cement Association (formerly Portland Cement Association)",
+    "requested_url": "https://www.cement.org/",
+    "status": 200,
+    "final_url": "https://www.cement.org/",
+    "text_chars": 6336,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-094/50ab0b544cdb9c43.txt"
+  },
+  {
+    "id": "1d10b8197e665041",
+    "name": "Project for Privacy and Surveillance Accountability, Inc.",
+    "requested_url": "https://www.protectprivacynow.org/",
+    "status": 200,
+    "final_url": "https://www.protectprivacynow.org/",
+    "text_chars": 3093,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-094/1d10b8197e665041.txt"
+  },
+  {
+    "id": "e134dcc9e4f4f23c",
+    "name": "Project Omega",
+    "requested_url": "https://projectomega.com/",
+    "status": 200,
+    "final_url": "https://projectomega.com/",
+    "text_chars": 4617,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-094/e134dcc9e4f4f23c.txt"
+  }
+]

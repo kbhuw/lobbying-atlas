@@ -1,0 +1,452 @@
+[
+  {
+    "id": "2bf65947176708f9",
+    "name": "Blackve, Inc.",
+    "requested_url": "https://www.blackve.us/about-us",
+    "status": 200,
+    "final_url": "https://www.blackve.us/about-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/0-2bf65947176708f9.txt",
+    "text_chars": 4899
+  },
+  {
+    "id": "d0b0b91706dbf8e6",
+    "name": "Blue Owl Capital Holdings LP",
+    "requested_url": "https://www.blueowl.com/terms-service",
+    "status": 200,
+    "final_url": "https://www.blueowl.com/terms-service",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/1-d0b0b91706dbf8e6.txt",
+    "text_chars": 25774
+  },
+  {
+    "id": "d0b0b91706dbf8e6",
+    "name": "Blue Owl Capital Holdings LP",
+    "requested_url": "https://www.blueowl.com/privacy-notice",
+    "status": 200,
+    "final_url": "https://www.blueowl.com/privacy-notice",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/2-d0b0b91706dbf8e6.txt",
+    "text_chars": 30729
+  },
+  {
+    "id": "d8a1dd0d78d8fb72",
+    "name": "Slate Auto (represented by Blue Owl Group)",
+    "requested_url": "https://www.slate.auto/en/terms",
+    "status": 200,
+    "final_url": "https://www.slate.auto/en/terms",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/3-d8a1dd0d78d8fb72.txt",
+    "text_chars": 19438
+  },
+  {
+    "id": "d8a1dd0d78d8fb72",
+    "name": "Slate Auto (represented by Blue Owl Group)",
+    "requested_url": "https://www.slate.auto/en/privacy",
+    "status": 200,
+    "final_url": "https://www.slate.auto/en/privacy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/4-d8a1dd0d78d8fb72.txt",
+    "text_chars": 19698
+  },
+  {
+    "id": "26a5b178a511e44b",
+    "name": "Bluefors Inc.",
+    "requested_url": "https://bluefors.com/privacy-notice/",
+    "status": 200,
+    "final_url": "https://bluefors.com/privacy-notice/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/5-26a5b178a511e44b.txt",
+    "text_chars": 27060
+  },
+  {
+    "id": "0466846622189eb1",
+    "name": "Bluescope Steel North America Corporation",
+    "requested_url": "https://www.bluescope.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.bluescope.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/6-0466846622189eb1.txt",
+    "text_chars": 6816
+  },
+  {
+    "id": "0466846622189eb1",
+    "name": "Bluescope Steel North America Corporation",
+    "requested_url": "https://www.bluescope.com/terms-conditions",
+    "status": 200,
+    "final_url": "https://www.bluescope.com/terms-conditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/7-0466846622189eb1.txt",
+    "text_chars": 16230
+  },
+  {
+    "id": "1f0962497402630c",
+    "name": "BMO Bank N.a. (fka BMO Harris Bank N.a.)",
+    "requested_url": "https://www.bmo.com/en-us/main/about-us/legal/",
+    "status": 200,
+    "final_url": "https://www.bmo.com/en-us/main/about-us/legal/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/8-1f0962497402630c.txt",
+    "text_chars": 9573
+  },
+  {
+    "id": "1f0962497402630c",
+    "name": "BMO Bank N.a. (fka BMO Harris Bank N.a.)",
+    "requested_url": "https://www.bmo.com/en-us/main/about-us/privacy/",
+    "status": 200,
+    "final_url": "https://www.bmo.com/en-us/main/about-bmo/who-we-are/business-conduct/privacy-code/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/9-1f0962497402630c.txt",
+    "text_chars": 8390
+  },
+  {
+    "id": "678af83b0f71271c",
+    "name": "BMO Financial Corp. F/k/a BMO Harris Bank",
+    "requested_url": "https://www.bmo.com/main/personal/legal/?icid=tl-FEAT2953BRND4-AJBMOH352",
+    "status": 200,
+    "final_url": "https://www.bmo.com/en-ca/main/personal/legal/?icid=tl-FEAT2953BRND4-AJBMOH352",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/10-678af83b0f71271c.txt",
+    "text_chars": 24296
+  },
+  {
+    "id": "678af83b0f71271c",
+    "name": "BMO Financial Corp. F/k/a BMO Harris Bank",
+    "requested_url": "https://www.bmo.com/online/debitcards/registration/",
+    "status": 200,
+    "final_url": "https://authentication.bmo.com/enrollment/cdb/step/terms",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/11-678af83b0f71271c.txt",
+    "text_chars": 159
+  },
+  {
+    "id": "4730408907d61aba",
+    "name": "Nareit (via Bockorny Group)",
+    "requested_url": "https://www.reit.com/reit/privacy-statement",
+    "status": 200,
+    "final_url": "https://www.reit.com/reit/privacy-statement",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/12-4730408907d61aba.txt",
+    "text_chars": 33042
+  },
+  {
+    "id": "4730408907d61aba",
+    "name": "Nareit (via Bockorny Group)",
+    "requested_url": "https://www.reit.com/reit/terms-and-conditions-use",
+    "status": 200,
+    "final_url": "https://www.reit.com/reit/terms-and-conditions-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/13-4730408907d61aba.txt",
+    "text_chars": 31053
+  },
+  {
+    "id": "9497649e65fa95ae",
+    "name": "Boesen & Snow, LLC",
+    "requested_url": "https://www.boesensnowlaw.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.boesensnowlaw.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/14-9497649e65fa95ae.txt",
+    "text_chars": 14402
+  },
+  {
+    "id": "9497649e65fa95ae",
+    "name": "Boesen & Snow, LLC",
+    "requested_url": "https://www.boesensnowlaw.com/about/",
+    "status": 200,
+    "final_url": "https://www.boesensnowlaw.com/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/15-9497649e65fa95ae.txt",
+    "text_chars": 8002
+  },
+  {
+    "id": "432464f4a631a55a",
+    "name": "Boldyn Networks (fka Signal Point Systems, Inc.)",
+    "requested_url": "https://www.boldyn.com/legal",
+    "status": 200,
+    "final_url": "https://www.boldyn.com/legal",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/16-432464f4a631a55a.txt",
+    "text_chars": 4902
+  },
+  {
+    "id": "432464f4a631a55a",
+    "name": "Boldyn Networks (fka Signal Point Systems, Inc.)",
+    "requested_url": "https://www.boldyn.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.boldyn.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/17-432464f4a631a55a.txt",
+    "text_chars": 31394
+  },
+  {
+    "id": "37fe331e7b41be4f",
+    "name": "Borderplex Digital Assets LLC",
+    "requested_url": "https://www.borderplexdigital.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.borderplexdigital.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/18-37fe331e7b41be4f.txt",
+    "text_chars": 4459
+  },
+  {
+    "id": "37fe331e7b41be4f",
+    "name": "Borderplex Digital Assets LLC",
+    "requested_url": "https://www.borderplexdigital.com/terms-and-conditions",
+    "status": 200,
+    "final_url": "https://www.borderplexdigital.com/terms-and-conditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/19-37fe331e7b41be4f.txt",
+    "text_chars": 6503
+  },
+  {
+    "id": "207660a3e944c480",
+    "name": "Boston Scientific (office-based Facility Assn Obfa) (fka Uspa)",
+    "requested_url": "https://www.bostonscientific.com/en-US/terms-of-use.html",
+    "status": 200,
+    "final_url": "https://www.bostonscientific.com/en-US/terms-of-use.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/20-207660a3e944c480.txt",
+    "text_chars": 24994
+  },
+  {
+    "id": "207660a3e944c480",
+    "name": "Boston Scientific (office-based Facility Assn Obfa) (fka Uspa)",
+    "requested_url": "https://www.bostonscientific.com/en-US/privacy-policy.html",
+    "status": 200,
+    "final_url": "https://www.bostonscientific.com/en-US/privacy-policy.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/21-207660a3e944c480.txt",
+    "text_chars": 38503
+  },
+  {
+    "id": "96d884a883507f54",
+    "name": "Branded Cities DC, LLC",
+    "requested_url": "https://brandedcities.com/aboutus/",
+    "status": 200,
+    "final_url": "https://brandedcities.com/aboutus/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/22-96d884a883507f54.txt",
+    "text_chars": 2045
+  },
+  {
+    "id": "96d884a883507f54",
+    "name": "Branded Cities DC, LLC",
+    "requested_url": "https://brandedcities.com/aboutus/awards/",
+    "status": 200,
+    "final_url": "https://brandedcities.com/aboutus/awards/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/23-96d884a883507f54.txt",
+    "text_chars": 1637
+  },
+  {
+    "id": "f6de0b733398081b",
+    "name": "Breeze Smoke, LLC",
+    "requested_url": "https://www.breezesmoke.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.breezesmoke.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/24-f6de0b733398081b.txt",
+    "text_chars": 7199
+  },
+  {
+    "id": "d31094a53f90b6e5",
+    "name": "Bria Artificial Intelligence Inc.",
+    "requested_url": "https://bria.ai/legal-lobby",
+    "status": 200,
+    "final_url": "https://bria.ai/legal-lobby",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/25-d31094a53f90b6e5.txt",
+    "text_chars": 8541
+  },
+  {
+    "id": "d31094a53f90b6e5",
+    "name": "Bria Artificial Intelligence Inc.",
+    "requested_url": "https://bria.ai/terms-of-use",
+    "status": 200,
+    "final_url": "https://bria.ai/terms-of-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/26-d31094a53f90b6e5.txt",
+    "text_chars": 22329
+  },
+  {
+    "id": "da72a21db0cd52da",
+    "name": "AWS Public Policy, Americas",
+    "requested_url": "https://aws.amazon.com/privacy/?nc1=f_pr",
+    "status": 200,
+    "final_url": "https://aws.amazon.com/privacy/?nc1=f_pr",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/27-da72a21db0cd52da.txt",
+    "text_chars": 60061
+  },
+  {
+    "id": "da72a21db0cd52da",
+    "name": "AWS Public Policy, Americas",
+    "requested_url": "https://aws.amazon.com/about-aws/our-impact/",
+    "status": 200,
+    "final_url": "https://aws.amazon.com/about-aws/our-impact/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/28-da72a21db0cd52da.txt",
+    "text_chars": 11817
+  },
+  {
+    "id": "e630c2da9e492a39",
+    "name": "Main Line Health (via AxAdvocacy)",
+    "requested_url": "https://www.mainlinehealth.org/about/policies/patient-privacy-policies",
+    "status": 200,
+    "final_url": "https://www.mainlinehealth.org/about/policies/patient-privacy-policies",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/29-e630c2da9e492a39.txt",
+    "text_chars": 32732
+  },
+  {
+    "id": "e630c2da9e492a39",
+    "name": "Main Line Health (via AxAdvocacy)",
+    "requested_url": "https://www.mainlinehealth.org/about",
+    "status": 200,
+    "final_url": "https://www.mainlinehealth.org/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/30-e630c2da9e492a39.txt",
+    "text_chars": 12692
+  },
+  {
+    "id": "5d8c4d5a8d0a6000",
+    "name": "Tecomet, Inc. (via Axinn)",
+    "requested_url": "https://www.tecomet.com/about-resources/resources/faqs/",
+    "status": 200,
+    "final_url": "https://www.tecomet.com/about-resources/resources/faqs/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/31-5d8c4d5a8d0a6000.txt",
+    "text_chars": 9051
+  },
+  {
+    "id": "5d8c4d5a8d0a6000",
+    "name": "Tecomet, Inc. (via Axinn)",
+    "requested_url": "https://www.tecomet.com/about-resources/about/locations/",
+    "status": 200,
+    "final_url": "https://www.tecomet.com/about-resources/about/locations/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/32-5d8c4d5a8d0a6000.txt",
+    "text_chars": 11634
+  },
+  {
+    "id": "d2ccfb204d9e7c20",
+    "name": "Babtel",
+    "requested_url": "https://www.babtel.net/about/",
+    "status": 200,
+    "final_url": "https://www.babtel.net/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/33-d2ccfb204d9e7c20.txt",
+    "text_chars": 9370
+  },
+  {
+    "id": "12411ec9bde1312d",
+    "name": "Baker Hughes Energy Services, LLC",
+    "requested_url": "https://www.bakerhughes.com/company/about-us",
+    "status": 200,
+    "final_url": "https://www.bakerhughes.com/company/about-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/34-12411ec9bde1312d.txt",
+    "text_chars": 32001
+  },
+  {
+    "id": "12411ec9bde1312d",
+    "name": "Baker Hughes Energy Services, LLC",
+    "requested_url": "https://www.bakerhughes.com/company/about-us/company-leadership?team_list=46",
+    "status": 200,
+    "final_url": "https://www.bakerhughes.com/company-leadership?team_list=46",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/35-12411ec9bde1312d.txt",
+    "text_chars": 26652
+  },
+  {
+    "id": "3e5dcf33b673bf4c",
+    "name": "Bausch & Lomb",
+    "requested_url": "https://www.bausch.com/about-bausch-lomb/",
+    "status": 200,
+    "final_url": "https://www.bausch.com/about-bausch-lomb/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/36-3e5dcf33b673bf4c.txt",
+    "text_chars": 6162
+  },
+  {
+    "id": "3e5dcf33b673bf4c",
+    "name": "Bausch & Lomb",
+    "requested_url": "https://www.bausch.com/about-bausch-lomb/board/",
+    "status": 200,
+    "final_url": "https://www.bausch.com/about-bausch-lomb/board/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/37-3e5dcf33b673bf4c.txt",
+    "text_chars": 5661
+  },
+  {
+    "id": "6c814815d3b40283",
+    "name": "Baxter Healthcare",
+    "requested_url": "https://www.baxter.com/global-privacy-policy",
+    "status": 200,
+    "final_url": "https://www.baxter.com/global-privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/38-6c814815d3b40283.txt",
+    "text_chars": 1834
+  },
+  {
+    "id": "6c814815d3b40283",
+    "name": "Baxter Healthcare",
+    "requested_url": "https://www.baxter.com/hipaa-notice-privacy-practices",
+    "status": 200,
+    "final_url": "https://www.baxter.com/hipaa-notice-privacy-practices",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/39-6c814815d3b40283.txt",
+    "text_chars": 1865
+  },
+  {
+    "id": "74fa3f14cfb47706",
+    "name": "Baystate Health",
+    "requested_url": "https://www.baystatehealth.org/notice-of-privacy-practices",
+    "status": 200,
+    "final_url": "https://www.baystatehealth.org/notice-of-privacy-practices",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/40-74fa3f14cfb47706.txt",
+    "text_chars": 4081
+  },
+  {
+    "id": "74fa3f14cfb47706",
+    "name": "Baystate Health",
+    "requested_url": "https://www.baystatehealth.org/about-us/leadership",
+    "status": 200,
+    "final_url": "https://www.baystatehealth.org/about-us/leadership",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/41-74fa3f14cfb47706.txt",
+    "text_chars": 28325
+  },
+  {
+    "id": "e7cf58489159fba2",
+    "name": "Beijing Xiaomi Mobile Software",
+    "requested_url": "https://www.mi.com/global/about/",
+    "status": 200,
+    "final_url": "https://www.mi.com/global/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/42-e7cf58489159fba2.txt",
+    "text_chars": 9155
+  },
+  {
+    "id": "e7cf58489159fba2",
+    "name": "Beijing Xiaomi Mobile Software",
+    "requested_url": "https://www.mi.com/global/about/founder/",
+    "status": 200,
+    "final_url": "https://www.mi.com/global/about/founder/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/43-e7cf58489159fba2.txt",
+    "text_chars": 11599
+  },
+  {
+    "id": "96189b884b5e9a35",
+    "name": "Beijing Xiaomi Mobile Software",
+    "requested_url": "https://www.mi.com/global/about/",
+    "status": 200,
+    "final_url": "https://www.mi.com/global/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/44-96189b884b5e9a35.txt",
+    "text_chars": 9155
+  },
+  {
+    "id": "96189b884b5e9a35",
+    "name": "Beijing Xiaomi Mobile Software",
+    "requested_url": "https://www.mi.com/global/about/founder/",
+    "status": 200,
+    "final_url": "https://www.mi.com/global/about/founder/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/45-96189b884b5e9a35.txt",
+    "text_chars": 11599
+  },
+  {
+    "id": "eb56dd920848332e",
+    "name": "Bekaert Corporation",
+    "requested_url": "https://www.bekaert.com/en/about-us",
+    "status": 200,
+    "final_url": "https://www.bekaert.com/en/about-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/46-eb56dd920848332e.txt",
+    "text_chars": 3806
+  },
+  {
+    "id": "eb56dd920848332e",
+    "name": "Bekaert Corporation",
+    "requested_url": "https://www.bekaert.com/en/about-us/history",
+    "status": 200,
+    "final_url": "https://www.bekaert.com/en/about-us/history",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/47-eb56dd920848332e.txt",
+    "text_chars": 25615
+  },
+  {
+    "id": "3573f281976c0b8c",
+    "name": "Benjamin Company ON Behalf Of Sutter Health",
+    "requested_url": "https://www.sutterhealth.org/about-us/awards",
+    "status": 200,
+    "final_url": "https://www.sutterhealth.org/about-us/awards",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/48-3573f281976c0b8c.txt",
+    "text_chars": 8350
+  },
+  {
+    "id": "3573f281976c0b8c",
+    "name": "Benjamin Company ON Behalf Of Sutter Health",
+    "requested_url": "https://www.sutterhealth.org/about-us/careers",
+    "status": 200,
+    "final_url": "https://www.sutterhealth.org/about-us/careers",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-176/49-3573f281976c0b8c.txt",
+    "text_chars": 11288
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "3327f3b6662f6697": {
+    "name": "United Service Organizations",
+    "ein": "208861567",
+    "legal_name": "United Service Organizations",
+    "filed_website": "HTTP://WWW.USO.ORG",
+    "reason": "Possible foundation versus lobbying-organization mismatch; review required, not a proven mismatch."
+  },
+  "0a950197f4f06659": {
+    "name": "National Panhellenic Conference",
+    "ein": "351960621",
+    "legal_name": "National Panhellenic Conference",
+    "filed_website": "WWW.NPCWOMEN.ORG/FOUNDATION/",
+    "reason": "Possible foundation versus lobbying-organization mismatch; review required, not a proven mismatch."
+  },
+  "4ff8fb88092e9f25": {
+    "name": "National Association Of State Departments Of Agriculture",
+    "ein": "521224508",
+    "legal_name": "National Association Of State Departments Of Agriculture",
+    "filed_website": "WWW.NASDA.ORG/NASDA-FOUNDATION/",
+    "reason": "Possible foundation versus lobbying-organization mismatch; review required, not a proven mismatch."
+  },
+  "51514eaae0e51611": {
+    "name": "Zero Emission Transportation Association",
+    "ein": "852297985",
+    "reason": "Automatic tax return points to ZETA Education Fund; association profile uses separate official evidence. Suppress affiliate tax identity."
+  }
+}

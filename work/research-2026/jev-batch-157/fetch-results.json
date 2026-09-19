@@ -1,0 +1,452 @@
+[
+  {
+    "id": "aeeb6fe022be083d",
+    "name": "AECOM Consult, Inc.",
+    "requested_url": "https://aecom.com/terms-use",
+    "status": 200,
+    "final_url": "https://aecom.com/terms-use/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/0-aeeb6fe022be083d.txt",
+    "text_chars": 13496
+  },
+  {
+    "id": "aeeb6fe022be083d",
+    "name": "AECOM Consult, Inc.",
+    "requested_url": "https://aecom.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://aecom.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/1-aeeb6fe022be083d.txt",
+    "text_chars": 64848
+  },
+  {
+    "id": "8d60b749d8f8c3fb",
+    "name": "Aero Precision",
+    "requested_url": "https://www.aeroprecisionusa.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.aeroprecisionusa.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/2-8d60b749d8f8c3fb.txt",
+    "text_chars": 14670
+  },
+  {
+    "id": "8d60b749d8f8c3fb",
+    "name": "Aero Precision",
+    "requested_url": "https://www.aeroprecisionusa.com/terms-conditions",
+    "status": 200,
+    "final_url": "https://www.aeroprecisionusa.com/terms-conditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/3-8d60b749d8f8c3fb.txt",
+    "text_chars": 14850
+  },
+  {
+    "id": "ea51cf788862fc7a",
+    "name": "AICPA",
+    "requested_url": "https://www.aicpa-cima.com/help/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.aicpa-cima.com/help/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/4-ea51cf788862fc7a.txt",
+    "text_chars": 27885
+  },
+  {
+    "id": "ea51cf788862fc7a",
+    "name": "AICPA",
+    "requested_url": "https://www.aicpa-cima.com/help/terms-and-conditions",
+    "status": 200,
+    "final_url": "https://www.aicpa-cima.com/help/terms-and-conditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/5-ea51cf788862fc7a.txt",
+    "text_chars": 36425
+  },
+  {
+    "id": "94b739271c37126f",
+    "name": "VEON Ltd. (via Akin Gump)",
+    "requested_url": "https://www.veon.com/terms-of-use",
+    "status": 200,
+    "final_url": "https://www.veon.com/terms-of-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/6-94b739271c37126f.txt",
+    "text_chars": 14087
+  },
+  {
+    "id": "94b739271c37126f",
+    "name": "VEON Ltd. (via Akin Gump)",
+    "requested_url": "https://www.veon.com/veon-privacy",
+    "status": 200,
+    "final_url": "https://www.veon.com/veon-privacy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/7-94b739271c37126f.txt",
+    "text_chars": 5054
+  },
+  {
+    "id": "24b37fd7f5150500",
+    "name": "Power4PR (via Alianza for Progress)",
+    "requested_url": "https://www.power4puertorico.com/privacy-policy-1",
+    "status": 200,
+    "final_url": "https://www.power4puertorico.com/privacy-policy-1",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/8-24b37fd7f5150500.txt",
+    "text_chars": 6498
+  },
+  {
+    "id": "3686c1064a148f46",
+    "name": "LIFT (American Lightweight Materials Manufacturing Innovation Institute)",
+    "requested_url": "https://lift.technology/about-us/",
+    "status": 200,
+    "final_url": "https://lift.technology/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/9-3686c1064a148f46.txt",
+    "text_chars": 10927
+  },
+  {
+    "id": "fc8b1ea8801ed819",
+    "name": "AMCot, Inc.",
+    "requested_url": "https://amcot.org/privacy-policy/",
+    "status": 200,
+    "final_url": "https://amcot.org/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/10-fc8b1ea8801ed819.txt",
+    "text_chars": 11430
+  },
+  {
+    "id": "3ee8d60b3d34b384",
+    "name": "American College of Mohs Surgeons",
+    "requested_url": "https://www.mohscollege.org/terms-of-use",
+    "status": 200,
+    "final_url": "https://www.mohscollege.org/terms-of-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/11-3ee8d60b3d34b384.txt",
+    "text_chars": 12894
+  },
+  {
+    "id": "3ee8d60b3d34b384",
+    "name": "American College of Mohs Surgeons",
+    "requested_url": "https://www.mohscollege.org/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.mohscollege.org/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/12-3ee8d60b3d34b384.txt",
+    "text_chars": 7977
+  },
+  {
+    "id": "6d1996ebd10d81e0",
+    "name": "American Vein & Lymphatic Society (office-based Facility Assn Obfa) (fka Uspa)",
+    "requested_url": "https://www.myavls.org/about-us.html",
+    "status": 200,
+    "final_url": "https://www.myavls.org/about-us.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/13-6d1996ebd10d81e0.txt",
+    "text_chars": 2845
+  },
+  {
+    "id": "6d1996ebd10d81e0",
+    "name": "American Vein & Lymphatic Society (office-based Facility Assn Obfa) (fka Uspa)",
+    "requested_url": "https://www.myavls.org/about-research.html",
+    "status": 200,
+    "final_url": "https://www.myavls.org/about-research.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/14-6d1996ebd10d81e0.txt",
+    "text_chars": 1834
+  },
+  {
+    "id": "a39fbead755a763b",
+    "name": "American Wild Horses Conservation",
+    "requested_url": "https://www.americanwildhorse.org/about-us",
+    "status": 200,
+    "final_url": "https://www.americanwildhorse.org/about-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/15-a39fbead755a763b.txt",
+    "text_chars": 2844
+  },
+  {
+    "id": "a39fbead755a763b",
+    "name": "American Wild Horses Conservation",
+    "requested_url": "https://www.americanwildhorse.org/about-wild-horses",
+    "status": 200,
+    "final_url": "https://www.americanwildhorse.org/about-wild-horses",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/16-a39fbead755a763b.txt",
+    "text_chars": 5250
+  },
+  {
+    "id": "2dfd6e8ba2641c14",
+    "name": "AN Achievable Dream Academies",
+    "requested_url": "https://achievabledream.org/about",
+    "status": 200,
+    "final_url": "https://achievabledream.org/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/17-2dfd6e8ba2641c14.txt",
+    "text_chars": 2963
+  },
+  {
+    "id": "2dfd6e8ba2641c14",
+    "name": "AN Achievable Dream Academies",
+    "requested_url": "https://achievabledream.org/about/team/",
+    "status": 200,
+    "final_url": "https://achievabledream.org/about/team/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/18-2dfd6e8ba2641c14.txt",
+    "text_chars": 4882
+  },
+  {
+    "id": "ea725531ed1faf2f",
+    "name": "Amtechnologies",
+    "requested_url": "https://amtechnologies.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://amtechnologies.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/19-ea725531ed1faf2f.txt",
+    "text_chars": 29183
+  },
+  {
+    "id": "ea725531ed1faf2f",
+    "name": "Amtechnologies",
+    "requested_url": "https://amtechnologies.com/terms-and-conditions/",
+    "status": 200,
+    "final_url": "https://amtechnologies.com/terms-and-conditions/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/20-ea725531ed1faf2f.txt",
+    "text_chars": 7843
+  },
+  {
+    "id": "1f802cc519e32bc9",
+    "name": "Ande, Inc.",
+    "requested_url": "https://www.ande.com/privacy-policy-",
+    "status": 200,
+    "final_url": "https://www.ande.com/privacy-policy-",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/21-1f802cc519e32bc9.txt",
+    "text_chars": 26570
+  },
+  {
+    "id": "1f802cc519e32bc9",
+    "name": "Ande, Inc.",
+    "requested_url": "https://www.ande.com/about",
+    "status": 200,
+    "final_url": "https://www.ande.com/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/22-1f802cc519e32bc9.txt",
+    "text_chars": 3456
+  },
+  {
+    "id": "29f551a3e7dfc734",
+    "name": "Anesthesia Practice Consultants, PC (on behalf of Michiganders for Fair Healthcare)",
+    "requested_url": "https://apcpc.net/about-us/",
+    "status": 200,
+    "final_url": "https://apcpc.net/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/23-29f551a3e7dfc734.txt",
+    "text_chars": 2747
+  },
+  {
+    "id": "f9f358dcc6dfe7c2",
+    "name": "Anfield Resources Holding Corporation",
+    "requested_url": "https://anfieldenergy.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://anfieldenergy.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/24-f9f358dcc6dfe7c2.txt",
+    "text_chars": 32732
+  },
+  {
+    "id": "a6cf36b0712f4e62",
+    "name": "Aon (including filed Aon Corporation aliases)",
+    "requested_url": "https://www.aon.com/en/about/leadership-and-governance/legal-notice",
+    "status": 200,
+    "final_url": "https://www.aon.com/en/about/leadership-and-governance/legal-notice",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/25-a6cf36b0712f4e62.txt",
+    "text_chars": 47670
+  },
+  {
+    "id": "a6cf36b0712f4e62",
+    "name": "Aon (including filed Aon Corporation aliases)",
+    "requested_url": "https://www.aon.com/en/about/leadership-and-governance/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.aon.com/en/about/leadership-and-governance/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/26-a6cf36b0712f4e62.txt",
+    "text_chars": 41880
+  },
+  {
+    "id": "0ed3959f02dbbe72",
+    "name": "Aon Risk Services",
+    "requested_url": "https://www.aon.com/about-aon/privacy.jsp",
+    "status": 200,
+    "final_url": "https://www.aon.com/about-aon/privacy.jsp",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/27-0ed3959f02dbbe72.txt",
+    "text_chars": 36081
+  },
+  {
+    "id": "0ed3959f02dbbe72",
+    "name": "Aon Risk Services",
+    "requested_url": "https://www.aon.com/about-aon/legal-notice.jsp",
+    "status": 200,
+    "final_url": "https://www.aon.com/about-aon/legal-notice.jsp",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/28-0ed3959f02dbbe72.txt",
+    "text_chars": 17378
+  },
+  {
+    "id": "28b6ddae0535f96a",
+    "name": "Aon Service Corporation",
+    "requested_url": "https://www.aon.com/about-aon/privacy.jsp",
+    "status": 200,
+    "final_url": "https://www.aon.com/about-aon/privacy.jsp",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/29-28b6ddae0535f96a.txt",
+    "text_chars": 36087
+  },
+  {
+    "id": "28b6ddae0535f96a",
+    "name": "Aon Service Corporation",
+    "requested_url": "https://www.aon.com/about-aon/legal-notice.jsp",
+    "status": 200,
+    "final_url": "https://www.aon.com/about-aon/legal-notice.jsp",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/30-28b6ddae0535f96a.txt",
+    "text_chars": 17384
+  },
+  {
+    "id": "547f1ab25d80a0b4",
+    "name": "ApoE4 Alzheimer\u2019s Alliance",
+    "requested_url": "https://apoe4alzheimersalliance.org/resources/index.html",
+    "status": 200,
+    "final_url": "https://apoe4alzheimersalliance.org/resources/index.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/31-547f1ab25d80a0b4.txt",
+    "text_chars": 1859
+  },
+  {
+    "id": "14bc43e3b1f2e663",
+    "name": "ApolloMD (Americans for Fair Health Care)",
+    "requested_url": "https://apollomd.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://apollomd.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/32-14bc43e3b1f2e663.txt",
+    "text_chars": 4177
+  },
+  {
+    "id": "00cdbc0057440df6",
+    "name": "Applied Research Institute, Inc.",
+    "requested_url": "https://www.theari.us/terms/",
+    "status": 200,
+    "final_url": "https://www.theari.us/terms/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/33-00cdbc0057440df6.txt",
+    "text_chars": 9242
+  },
+  {
+    "id": "00cdbc0057440df6",
+    "name": "Applied Research Institute, Inc.",
+    "requested_url": "https://www.theari.us/privacy/",
+    "status": 200,
+    "final_url": "https://www.theari.us/privacy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/34-00cdbc0057440df6.txt",
+    "text_chars": 19925
+  },
+  {
+    "id": "97e192da8f72be0d",
+    "name": "Applied Research Institute, Inc. (ARI)",
+    "requested_url": "https://www.theari.us/terms/",
+    "status": 200,
+    "final_url": "https://www.theari.us/terms/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/35-97e192da8f72be0d.txt",
+    "text_chars": 9248
+  },
+  {
+    "id": "97e192da8f72be0d",
+    "name": "Applied Research Institute, Inc. (ARI)",
+    "requested_url": "https://www.theari.us/privacy/",
+    "status": 200,
+    "final_url": "https://www.theari.us/privacy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/36-97e192da8f72be0d.txt",
+    "text_chars": 19931
+  },
+  {
+    "id": "51d95d9f8f9e0836",
+    "name": "Apprenticeships for America, Inc.",
+    "requested_url": "https://apprenticeshipsforamerica.org/privacy-policy",
+    "status": 200,
+    "final_url": "https://apprenticeshipsforamerica.org/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/37-51d95d9f8f9e0836.txt",
+    "text_chars": 11646
+  },
+  {
+    "id": "51d95d9f8f9e0836",
+    "name": "Apprenticeships for America, Inc.",
+    "requested_url": "https://apprenticeshipsforamerica.org/terms-conditions",
+    "status": 200,
+    "final_url": "https://apprenticeshipsforamerica.org/terms-conditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/38-51d95d9f8f9e0836.txt",
+    "text_chars": 13866
+  },
+  {
+    "id": "9185a50b408c90c6",
+    "name": "Aclara Technologies Inc.",
+    "requested_url": "https://www.hubbell.com/hubbell/en/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.hubbell.com/hubbell/en/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/39-9185a50b408c90c6.txt",
+    "text_chars": 25629
+  },
+  {
+    "id": "9185a50b408c90c6",
+    "name": "Aclara Technologies Inc.",
+    "requested_url": "https://www.hubbell.com/hubbell/en/terms/hus",
+    "status": 200,
+    "final_url": "https://www.hubbell.com/hubbell/en/terms/hus",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/40-9185a50b408c90c6.txt",
+    "text_chars": 5600
+  },
+  {
+    "id": "c2ddc2222b8c7365",
+    "name": "Neste US, Inc.",
+    "requested_url": "https://www.neste.com/privacy/cookies",
+    "status": 200,
+    "final_url": "https://www.neste.com/privacy/cookies",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/41-c2ddc2222b8c7365.txt",
+    "text_chars": 1923
+  },
+  {
+    "id": "c2ddc2222b8c7365",
+    "name": "Neste US, Inc.",
+    "requested_url": "https://www.neste.com/about-neste",
+    "status": 200,
+    "final_url": "https://www.neste.com/about-neste",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/42-c2ddc2222b8c7365.txt",
+    "text_chars": 2525
+  },
+  {
+    "id": "257ce2823a9da982",
+    "name": "INNIO Waukesha Gas Engines Inc.",
+    "requested_url": "https://www.innio.com/en/terms-and-conditions/",
+    "status": 200,
+    "final_url": "https://www.innio.com/en/terms-and-conditions/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/43-257ce2823a9da982.txt",
+    "text_chars": 5509
+  },
+  {
+    "id": "4228cb17ea6c1892",
+    "name": "Achieve",
+    "requested_url": "https://www.achieve.com/about/partners",
+    "status": 200,
+    "final_url": "https://www.achieve.com/about/partners",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/44-4228cb17ea6c1892.txt",
+    "text_chars": 9280
+  },
+  {
+    "id": "4228cb17ea6c1892",
+    "name": "Achieve",
+    "requested_url": "https://www.achieve.com/about/contact-us",
+    "status": 200,
+    "final_url": "https://www.achieve.com/about/contact-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/45-4228cb17ea6c1892.txt",
+    "text_chars": 1722
+  },
+  {
+    "id": "d34e45116ab02360",
+    "name": "Flock Safety (represented by BGR Government Affairs)",
+    "requested_url": "https://www.flocksafety.com/legal/privacy-notice",
+    "status": 200,
+    "final_url": "https://www.flocksafety.com/legal/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/46-d34e45116ab02360.txt",
+    "text_chars": 28740
+  },
+  {
+    "id": "d34e45116ab02360",
+    "name": "Flock Safety (represented by BGR Government Affairs)",
+    "requested_url": "https://www.flocksafety.com/legal/terms-of-service",
+    "status": 200,
+    "final_url": "https://www.flocksafety.com/legal/terms-and-conditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/47-d34e45116ab02360.txt",
+    "text_chars": 46471
+  },
+  {
+    "id": "d5373550d567b6db",
+    "name": "Norsk Hydro Usa, LLC",
+    "requested_url": "https://www.hydro.com/en/global/about-hydro/sponsorships/",
+    "status": 200,
+    "final_url": "https://www.hydro.com/en/global/about-hydro/sponsorships/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/48-d5373550d567b6db.txt",
+    "text_chars": 5112
+  },
+  {
+    "id": "d5373550d567b6db",
+    "name": "Norsk Hydro Usa, LLC",
+    "requested_url": "https://www.hydro.com/en/global/about-hydro/this-is-hydro/",
+    "status": 200,
+    "final_url": "https://www.hydro.com/en/global/about-hydro/this-is-hydro/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-157/49-d5373550d567b6db.txt",
+    "text_chars": 5610
+  }
+]

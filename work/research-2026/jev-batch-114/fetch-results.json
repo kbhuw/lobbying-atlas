@@ -1,0 +1,293 @@
+[
+  {
+    "id": "51ad1de3c90eb543",
+    "name": "Augusta University Research Institute",
+    "requested_url": "https://www.augusta.edu/research/about/announcements.php",
+    "status": 200,
+    "final_url": "https://www.augusta.edu/research/about/announcements.php",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-114/0-51ad1de3c90eb543.txt",
+    "text_chars": 11247
+  },
+  {
+    "id": "51ad1de3c90eb543",
+    "name": "Augusta University Research Institute",
+    "requested_url": "https://www.augusta.edu/research/about/res-admin-edu-training.php",
+    "status": 200,
+    "final_url": "https://www.augusta.edu/research/about/res-admin-edu-training.php",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-114/1-51ad1de3c90eb543.txt",
+    "text_chars": 7058
+  },
+  {
+    "id": "c51e2b94f5983b8c",
+    "name": "Michigan Hospital Association",
+    "requested_url": "https://www.mha.org/about/careers-at-the-mha/",
+    "status": 200,
+    "final_url": "https://www.mha.org/about/careers-at-the-mha/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-114/2-c51e2b94f5983b8c.txt",
+    "text_chars": 10023
+  },
+  {
+    "id": "c51e2b94f5983b8c",
+    "name": "Michigan Hospital Association",
+    "requested_url": "https://www.mha.org/about/committees-councils/",
+    "status": 200,
+    "final_url": "https://www.mha.org/about/committees-councils/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-114/3-c51e2b94f5983b8c.txt",
+    "text_chars": 18354
+  },
+  {
+    "id": "be6bcbcbbce15d61",
+    "name": "North American Olive Oil Association (fka Alliance for Olive Oil Qlty Stndrds)",
+    "requested_url": "https://www.aboutoliveoil.org/the-basics-of-olive-oil",
+    "status": 200,
+    "final_url": "https://www.aboutoliveoil.org/the-basics-of-olive-oil",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-114/4-be6bcbcbbce15d61.txt",
+    "text_chars": 4787
+  },
+  {
+    "id": "be6bcbcbbce15d61",
+    "name": "North American Olive Oil Association (fka Alliance for Olive Oil Qlty Stndrds)",
+    "requested_url": "https://www.aboutoliveoil.org/certified-olive-oil-list",
+    "status": 200,
+    "final_url": "https://www.aboutoliveoil.org/certified-olive-oil-list",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-114/5-be6bcbcbbce15d61.txt",
+    "text_chars": 6087
+  },
+  {
+    "id": "be609bc432db4039",
+    "name": "the Sisters of Charity St.augustine Health System, Inc.",
+    "requested_url": "https://sistersofcharityhealth.org/about-us/leadership/ministry-leadership/",
+    "status": 200,
+    "final_url": "https://sistersofcharityhealth.org/about-us/leadership/ministry-leadership/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-114/6-be609bc432db4039.txt",
+    "text_chars": 33029
+  },
+  {
+    "id": "f25012a2cca6c095",
+    "name": "CDFI Coalition Financial Institutions, Inc.",
+    "requested_url": "https://cdfi.org/about/history-and-mission/",
+    "status": 200,
+    "final_url": "https://cdfi.org/about/history-and-mission/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-114/7-f25012a2cca6c095.txt",
+    "text_chars": 8278
+  },
+  {
+    "id": "f25012a2cca6c095",
+    "name": "CDFI Coalition Financial Institutions, Inc.",
+    "requested_url": "https://cdfi.org/about-cdfi-coalition/cdfi-coalition-members/",
+    "status": 200,
+    "final_url": "https://cdfi.org/about-cdfi-coalition/cdfi-coalition-members/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-114/8-f25012a2cca6c095.txt",
+    "text_chars": 9102
+  },
+  {
+    "id": "ac0cd4098f04d150",
+    "name": "Atkinsrealis Nuclear Secured, LLC",
+    "requested_url": "https://www.atkinsrealis.com/en/about/our-history",
+    "status": 200,
+    "final_url": "https://www.atkinsrealis.com/en/about/our-history",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-114/9-ac0cd4098f04d150.txt",
+    "text_chars": 104850
+  },
+  {
+    "id": "ac0cd4098f04d150",
+    "name": "Atkinsrealis Nuclear Secured, LLC",
+    "requested_url": "https://www.atkinsrealis.com/en/about/our-purpose",
+    "status": 200,
+    "final_url": "https://www.atkinsrealis.com/en/about/our-purpose",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-114/10-ac0cd4098f04d150.txt",
+    "text_chars": 107852
+  },
+  {
+    "id": "330a1412bd114c26",
+    "name": "CMS Affordable Housing (via Arnall Golden Gregory)",
+    "requested_url": "https://www.cms-results.com/2026/06/clarification-about-death-move-out-procedure/",
+    "status": 200,
+    "final_url": "https://www.cms-results.com/2026/06/clarification-about-death-move-out-procedure/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-114/11-330a1412bd114c26.txt",
+    "text_chars": 4684
+  },
+  {
+    "id": "9d44dc9fd0aa274c",
+    "name": "JTR Strategies LLC (on Behalf of Avidyne Corporation)",
+    "requested_url": "https://www.avidyne.com/about-us/",
+    "status": 200,
+    "final_url": "https://www.avidyne.com/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-114/12-9d44dc9fd0aa274c.txt",
+    "text_chars": 5332
+  },
+  {
+    "id": "801b8d62f8e0a733",
+    "name": "Sunbound Homes",
+    "requested_url": "https://www.sunbound.ai/company/about-us",
+    "status": 200,
+    "final_url": "https://www.sunbound.ai/company/about-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-114/13-801b8d62f8e0a733.txt",
+    "text_chars": 5421
+  },
+  {
+    "id": "9e8a7f74981b8d1c",
+    "name": "Voices of Alzheimer's, Inc.",
+    "requested_url": "https://www.voicesofad.com/about-us-menu",
+    "status": 200,
+    "final_url": "https://www.voicesofad.com/about-voa",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-114/14-9e8a7f74981b8d1c.txt",
+    "text_chars": 4179
+  },
+  {
+    "id": "9aa8e7f84116db75",
+    "name": "Aviation Technical Services, Inc.",
+    "requested_url": "https://www.atsmro.com/privacy-policy-2/",
+    "status": 200,
+    "final_url": "https://www.atsmro.com/privacy-policy-2/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-114/15-9aa8e7f84116db75.txt",
+    "text_chars": 17277
+  },
+  {
+    "id": "9aa8e7f84116db75",
+    "name": "Aviation Technical Services, Inc.",
+    "requested_url": "https://www.atsmro.com/terms-conditions-2/",
+    "status": 200,
+    "final_url": "https://www.atsmro.com/terms-conditions-2/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-114/16-9aa8e7f84116db75.txt",
+    "text_chars": 25283
+  },
+  {
+    "id": "4fb9e88b8463c98e",
+    "name": "Deep Mile Networks, LLC",
+    "requested_url": "https://deepmile.com/about-us/",
+    "status": 200,
+    "final_url": "https://deepmile.com/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-114/17-4fb9e88b8463c98e.txt",
+    "text_chars": 4131
+  },
+  {
+    "id": "2a19fbb0a251e2a8",
+    "name": "Orano USA LLC (formerly Known AS Areva Nuclear Materials Llc)",
+    "requested_url": "https://www.orano.group/usa/en/legal-notice",
+    "status": 200,
+    "final_url": "https://www.orano.group/usa/en/legal-notice",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-114/18-2a19fbb0a251e2a8.txt",
+    "text_chars": 17600
+  },
+  {
+    "id": "2a19fbb0a251e2a8",
+    "name": "Orano USA LLC (formerly Known AS Areva Nuclear Materials Llc)",
+    "requested_url": "https://www.orano.group/usa/en/about-us",
+    "status": 200,
+    "final_url": "https://www.orano.group/usa/en/about-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-114/19-2a19fbb0a251e2a8.txt",
+    "text_chars": 6863
+  },
+  {
+    "id": "b34791264da1c96b",
+    "name": "Psgc (prairie State Generating Company)",
+    "requested_url": "https://prairiestateenergycampus.com/about/",
+    "status": 200,
+    "final_url": "https://prairiestateenergycampus.com/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-114/20-b34791264da1c96b.txt",
+    "text_chars": 4252
+  },
+  {
+    "id": "b34791264da1c96b",
+    "name": "Psgc (prairie State Generating Company)",
+    "requested_url": "https://prairiestateenergycampus.com//about/",
+    "status": 200,
+    "final_url": "https://prairiestateenergycampus.com/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-114/21-b34791264da1c96b.txt",
+    "text_chars": 4252
+  },
+  {
+    "id": "c7508e206260c260",
+    "name": "ST Paper Company, LLC",
+    "requested_url": "https://www.stpaperllc.com/main/aboutus.php",
+    "status": 200,
+    "final_url": "https://www.stpaperllc.com/main/aboutus",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-114/22-c7508e206260c260.txt",
+    "text_chars": 5545
+  },
+  {
+    "id": "b05302a4bb91715e",
+    "name": "ML Strategies, LLC on behalf of Daikin U.S. Corporation",
+    "requested_url": "https://www.mlstrategies.com/privacy-statement",
+    "status": 200,
+    "final_url": "https://www.mlstrategies.com/privacy-statement",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-114/23-b05302a4bb91715e.txt",
+    "text_chars": 4811
+  },
+  {
+    "id": "b05302a4bb91715e",
+    "name": "ML Strategies, LLC on behalf of Daikin U.S. Corporation",
+    "requested_url": "https://www.mlstrategies.com/gdpr-privacy-notice",
+    "status": 200,
+    "final_url": "https://www.mlstrategies.com/gdpr-privacy-notice",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-114/24-b05302a4bb91715e.txt",
+    "text_chars": 6623
+  },
+  {
+    "id": "34b11420e8403004",
+    "name": "ML Strategies, LLC on behalf of PriceSmart, Inc.",
+    "requested_url": "https://www.mlstrategies.com/privacy-statement",
+    "status": 200,
+    "final_url": "https://www.mlstrategies.com/privacy-statement",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-114/25-34b11420e8403004.txt",
+    "text_chars": 4804
+  },
+  {
+    "id": "34b11420e8403004",
+    "name": "ML Strategies, LLC on behalf of PriceSmart, Inc.",
+    "requested_url": "https://www.mlstrategies.com/gdpr-privacy-notice",
+    "status": 200,
+    "final_url": "https://www.mlstrategies.com/gdpr-privacy-notice",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-114/26-34b11420e8403004.txt",
+    "text_chars": 6616
+  },
+  {
+    "id": "639e504176c52b00",
+    "name": "Prairie State Generating Company",
+    "requested_url": "https://prairiestateenergycampus.com/about/",
+    "status": 200,
+    "final_url": "https://prairiestateenergycampus.com/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-114/27-639e504176c52b00.txt",
+    "text_chars": 4245
+  },
+  {
+    "id": "639e504176c52b00",
+    "name": "Prairie State Generating Company",
+    "requested_url": "https://prairiestateenergycampus.com//about/",
+    "status": 200,
+    "final_url": "https://prairiestateenergycampus.com/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-114/28-639e504176c52b00.txt",
+    "text_chars": 4245
+  },
+  {
+    "id": "813a40996cdfcef6",
+    "name": "Wison NEW Energies Company",
+    "requested_url": "https://www.wison.com/legal",
+    "status": 200,
+    "final_url": "https://www.wison.com/legal",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-114/29-813a40996cdfcef6.txt",
+    "text_chars": 2902
+  },
+  {
+    "id": "813a40996cdfcef6",
+    "name": "Wison NEW Energies Company",
+    "requested_url": "https://www.wison.com/privacy",
+    "status": 200,
+    "final_url": "https://www.wison.com/privacy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-114/30-813a40996cdfcef6.txt",
+    "text_chars": 1809
+  },
+  {
+    "id": "51c56c3a3b3db3bb",
+    "name": "American FED of Government Employees Afl-cio",
+    "requested_url": "https://www.afge.org/privacy-policy/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "51c56c3a3b3db3bb",
+    "name": "American FED of Government Employees Afl-cio",
+    "requested_url": "https://www.afge.org/common-pages/legal-notices/",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

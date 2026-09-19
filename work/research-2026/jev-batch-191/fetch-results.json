@@ -1,0 +1,2842 @@
+[
+  {
+    "id": "1719e0db222f7858",
+    "name": "Climavision Operating LLC",
+    "requested_url": "https://climavision.com/",
+    "status": 200,
+    "final_url": "https://climavision.com/",
+    "text_chars": 6478,
+    "logo_candidates": [
+      {
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/themes/climavision/library/images/site-logo.png",
+        "alt": "Climavision"
+      },
+      {
+        "class": "logo",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/climavision-logo-white.png",
+        "data-std-src": "https://climavision.com/wp-content/uploads/2025/06/climavision-logo.webp",
+        "data-light-src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/climavision-logo-white.png",
+        "loading": "eager",
+        "width": "600",
+        "height": "114",
+        "alt": "Climavision Logo"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-synoptic_horz_sq_white.png",
+        "alt": "Synoptic"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-atm.png",
+        "alt": "company logo"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-gray.png",
+        "alt": "company logo"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-noaa.png",
+        "alt": "company logo"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-bge.png",
+        "alt": "company logo"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-arcus.png",
+        "alt": "company logo"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-abc-owned-television-stations.png",
+        "alt": "company logo"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-cargill.png",
+        "alt": "company logo"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-millerville.png",
+        "alt": "company logo"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/10/Enverus-Logo2.png",
+        "alt": "Enverus"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-the-weather-company_sq.png",
+        "alt": "company logo"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-centerpoint-energy.png",
+        "alt": "company logo"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-western-kentucky-university.png",
+        "alt": "company logo"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-zoeller-pump.png",
+        "alt": "company logo"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-synoptic_horz_sq_white.png",
+        "alt": "Synoptic"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-atm.png",
+        "alt": "company logo"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-gray.png",
+        "alt": "company logo"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-noaa.png",
+        "alt": "company logo"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-bge.png",
+        "alt": "company logo"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-arcus.png",
+        "alt": "company logo"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-abc-owned-television-stations.png",
+        "alt": "company logo"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-cargill.png",
+        "alt": "company logo"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-millerville.png",
+        "alt": "company logo"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-the-weather-company_sq.png",
+        "alt": "company logo"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-centerpoint-energy.png",
+        "alt": "company logo"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-western-kentucky-university.png",
+        "alt": "company logo"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-penn-state_vert.png",
+        "alt": "company logo"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-zoeller-pump.png",
+        "alt": "company logo"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-synoptic_horz_sq_white.png",
+        "alt": "Synoptic"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-atm.png",
+        "alt": "company logo"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-gray.png",
+        "alt": "company logo"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-noaa.png",
+        "alt": "company logo"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-bge.png",
+        "alt": "company logo"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-arcus.png",
+        "alt": "company logo"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-abc-owned-television-stations.png",
+        "alt": "company logo"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-cargill.png",
+        "alt": "company logo"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-millerville.png",
+        "alt": "company logo"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-the-weather-company_sq.png",
+        "alt": "company logo"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-centerpoint-energy.png",
+        "alt": "company logo"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-western-kentucky-university.png",
+        "alt": "company logo"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-penn-state_vert.png",
+        "alt": "company logo"
+      },
+      {
+        "class": "logo",
+        "width": "100",
+        "height": "100",
+        "data-width": "100",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-zoeller-pump.png",
+        "alt": "company logo"
+      },
+      {
+        "class": "logo",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-columbia-county-ga2.png",
+        "loading": "lazy",
+        "width": "600",
+        "height": "114",
+        "alt": "Columbia County GA Logo"
+      },
+      {
+        "class": "logo",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-centerpoint-energy3.png",
+        "loading": "lazy",
+        "width": "399",
+        "height": "142",
+        "alt": "Centerpoint Energy Logo"
+      },
+      {
+        "class": "logo",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2025/06/logo-synoptic-data_white2.png",
+        "loading": "lazy",
+        "width": "600",
+        "height": "114",
+        "alt": "Synoptic Data Logo"
+      },
+      {
+        "class": "logo",
+        "src": "https://climavision-preview.netlify.app/assets/climavision-logo-white.png",
+        "width": "600",
+        "height": "114",
+        "alt": "Climavision Logo",
+        "loading": "lazy"
+      },
+      {
+        "class": "social-icon",
+        "width": "50",
+        "height": "50",
+        "src": "https://climavision-preview.netlify.app/assets/social-linkedin.png",
+        "alt": "LinkedIn logo"
+      },
+      {
+        "class": "social-icon",
+        "width": "50",
+        "height": "50",
+        "src": "https://climavision-preview.netlify.app/assets/social-x.png",
+        "alt": "X logo"
+      },
+      {
+        "width": "300",
+        "height": "300",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2024/05/gfg-logo.png",
+        "class": "image wp-image-5794  attachment-full size-full",
+        "alt": "",
+        "style": "max-width: 100%; height: auto;",
+        "decoding": "async",
+        "loading": "lazy",
+        "srcset": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2024/05/gfg-logo.png 300w, https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2024/05/gfg-logo.png?w=60 60w, https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2024/05/gfg-logo.png?w=120 120w, https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2024/05/gfg-logo.png?w=180 180w, https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2024/05/gfg-logo.png?w=240 240w",
+        "sizes": "auto, (max-width: 300px) 100vw, 300px"
+      },
+      {
+        "width": "500",
+        "height": "277",
+        "src": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2022/09/Weather-Ready-Nation-logo-500x277.png",
+        "class": "image wp-image-2618  attachment-medium size-medium",
+        "alt": "Weather Ready Nation logo",
+        "style": "max-width: 100%; height: auto;",
+        "decoding": "async",
+        "loading": "lazy",
+        "srcset": "https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2022/09/Weather-Ready-Nation-logo-500x277.png 500w, https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2022/09/Weather-Ready-Nation-logo-768x426.png 768w, https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2022/09/Weather-Ready-Nation-logo.png 865w, https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2022/09/Weather-Ready-Nation-logo.png?w=173 173w, https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2022/09/Weather-Ready-Nation-logo.png?w=346 346w, https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2022/09/Weather-Ready-Nation-logo.png?w=692 692w, https://eg5c9vcv2j9.exactdn.com/wp-content/uploads/2022/09/Weather-Ready-Nation-logo.png?w=450 450w",
+        "sizes": "auto, (max-width: 500px) 100vw, 500px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-191/1719e0db222f7858.txt"
+  },
+  {
+    "id": "447187ae70bf1ba4",
+    "name": "County Line Rail (via CLR Fund I, LP)",
+    "requested_url": "https://www.clrail.com/",
+    "status": 200,
+    "final_url": "https://www.clrail.com/",
+    "text_chars": 3000,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "sizes": "177px",
+        "srcset": "https://static.wixstatic.com/media/cf3591_6e18ef2f650a4d908815cb421b541696~mv2.png/v1/fill/w_177,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/CLR%20logo%202C%20horiz.png 1x, https://static.wixstatic.com/media/cf3591_6e18ef2f650a4d908815cb421b541696~mv2.png/v1/fill/w_354,h_136,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/CLR%20logo%202C%20horiz.png 2x",
+        "id": "img_comp-mgtvo1zd",
+        "src": "https://static.wixstatic.com/media/cf3591_6e18ef2f650a4d908815cb421b541696~mv2.png/v1/fill/w_177,h_68,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/CLR%20logo%202C%20horiz.png",
+        "alt": "CLR Logo",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "177",
+        "height": "68"
+      },
+      {
+        "fetchpriority": "high",
+        "sizes": "547px",
+        "srcset": "https://static.wixstatic.com/media/cf3591_d549b74e8a5544b1bc7013c3ed2ea4f3~mv2.png/v1/fill/w_547,h_76,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/CLR%20logo%20chain.png 1x, https://static.wixstatic.com/media/cf3591_d549b74e8a5544b1bc7013c3ed2ea4f3~mv2.png/v1/fill/w_1094,h_152,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/CLR%20logo%20chain.png 2x",
+        "id": "img_comp-mh5bvqpk",
+        "src": "https://static.wixstatic.com/media/cf3591_d549b74e8a5544b1bc7013c3ed2ea4f3~mv2.png/v1/fill/w_547,h_76,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/CLR%20logo%20chain.png",
+        "alt": "CLR Sabine Railroad ",
+        "style": "object-fit:cover",
+        "class": "gRkIq0 sFiSiq",
+        "width": "547",
+        "height": "76"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-191/447187ae70bf1ba4.txt"
+  },
+  {
+    "id": "462f441fef0c5909",
+    "name": "CMH Services, Inc. (Clayton)",
+    "requested_url": "https://www.claytonhomes.com/",
+    "status": 200,
+    "final_url": "https://www.claytonhomes.com/",
+    "text_chars": 2425,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-191/462f441fef0c5909.txt"
+  },
+  {
+    "id": "089c5d8c1ad47b6d",
+    "name": "CN F/k/a Grand Trunk Corporation",
+    "requested_url": "https://www.cn.ca/",
+    "status": 200,
+    "final_url": "https://www.cn.ca/en/",
+    "text_chars": 11948,
+    "logo_candidates": [
+      {
+        "src": "/Images/CN/CN_one_logo.png"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-191/089c5d8c1ad47b6d.txt"
+  },
+  {
+    "id": "9d4c68094803bb21",
+    "name": "Coach USA",
+    "requested_url": "https://www.coachusa.com/",
+    "status": 200,
+    "final_url": "https://www.coachusa.com/",
+    "text_chars": 1899,
+    "logo_candidates": [
+      {
+        "alt": "Logo",
+        "loading": "lazy",
+        "width": "230",
+        "height": "50",
+        "decoding": "async",
+        "data-nimg": "1",
+        "style": "color:transparent",
+        "srcset": "/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fnutlwuf1v0oy%2F51MOkeSN8tpvUYJuoYyUVg%2Fe1a2b35d2fdbad2fb22d3583693cf72b%2Fimage.png&w=256&q=75 1x, /_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fnutlwuf1v0oy%2F51MOkeSN8tpvUYJuoYyUVg%2Fe1a2b35d2fdbad2fb22d3583693cf72b%2Fimage.png&w=640&q=75 2x",
+        "src": "/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fnutlwuf1v0oy%2F51MOkeSN8tpvUYJuoYyUVg%2Fe1a2b35d2fdbad2fb22d3583693cf72b%2Fimage.png&w=640&q=75"
+      },
+      {
+        "alt": "CoachCanada",
+        "data-testid": "CoachCanada-image",
+        "aria-label": "CoachCanada-image",
+        "component-name": "image",
+        "loading": "lazy",
+        "width": "133",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "py-2 px-4 inline-block",
+        "style": "color:transparent;height:auto",
+        "srcset": "/_next/image?url=%2Fpng%2Fcoach-canada-footer-logo.png&w=256&q=75 1x, /_next/image?url=%2Fpng%2Fcoach-canada-footer-logo.png&w=384&q=75 2x",
+        "src": "/_next/image?url=%2Fpng%2Fcoach-canada-footer-logo.png&w=384&q=75"
+      },
+      {
+        "alt": "Megabus",
+        "data-testid": "Megabus-image",
+        "aria-label": "Megabus-image",
+        "component-name": "image",
+        "loading": "lazy",
+        "width": "177",
+        "height": "40",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "py-2 px-4 inline-block float-right",
+        "style": "color:transparent;height:auto",
+        "srcset": "/_next/image?url=%2Fpng%2Fmegabus-footer-logo.png&w=256&q=75 1x, /_next/image?url=%2Fpng%2Fmegabus-footer-logo.png&w=384&q=75 2x",
+        "src": "/_next/image?url=%2Fpng%2Fmegabus-footer-logo.png&w=384&q=75"
+      },
+      {
+        "alt": "CoachLogo",
+        "data-testid": "CoachLogo-image",
+        "aria-label": "CoachLogo-image",
+        "component-name": "image",
+        "loading": "lazy",
+        "width": "200",
+        "height": "100",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-7 CUSA:hidden lg:block cursor-pointer",
+        "style": "color:transparent",
+        "src": "/svg/coach-logo.svg"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-191/9d4c68094803bb21.txt"
+  },
+  {
+    "id": "856cbed1b664ac4a",
+    "name": "Coalition to Preserve Independent Contractor Status",
+    "requested_url": "https://iccoalition.org/resources/",
+    "status": 200,
+    "final_url": "https://iccoalition.org/resources/",
+    "text_chars": 1168,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-191/856cbed1b664ac4a.txt"
+  },
+  {
+    "id": "b55617da156894d6",
+    "name": "Coalition to Stop Flu",
+    "requested_url": "https://flucoalition.org/news-press/",
+    "status": 202,
+    "final_url": "https://flucoalition.org/news-press/",
+    "text_chars": 92,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-191/b55617da156894d6.txt"
+  },
+  {
+    "id": "fbf6327859f0d76a",
+    "name": "Coastal 150 (coastal Alabama Leadership Council) (fka Coastal AL Partnership)",
+    "requested_url": "https://www.coastal150.com/who-we-are",
+    "status": 200,
+    "final_url": "https://www.coastal150.com/who-we-are",
+    "text_chars": 1937,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-191/fbf6327859f0d76a.txt"
+  },
+  {
+    "id": "5f16f52fadd53677",
+    "name": "Codan Communications",
+    "requested_url": "https://codan.com.au/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "ca249285bab9372b",
+    "name": "Cohere US, Inc.",
+    "requested_url": "https://cohere.com/",
+    "status": 200,
+    "final_url": "https://cohere.com/",
+    "text_chars": 8711,
+    "logo_candidates": [
+      {
+        "alt": "Cohere",
+        "title": "",
+        "loading": "eager",
+        "width": "118",
+        "height": "20",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "mb-1 h-5 w-[118px]",
+        "style": "color:transparent",
+        "src": "/logo.svg"
+      },
+      {
+        "alt": "Cohere",
+        "title": "",
+        "loading": "eager",
+        "width": "118",
+        "height": "20",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-5 w-[118px]",
+        "style": "color:transparent",
+        "src": "/logo.svg"
+      },
+      {
+        "alt": "Cohere",
+        "loading": "lazy",
+        "width": "48",
+        "height": "48",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-12 w-12",
+        "style": "color:transparent",
+        "src": "/logo_mobile_dark.svg"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/5836b142b7434a7600de0481735a41a310dd3c3c-171x61.svg",
+        "width": "171",
+        "height": "61",
+        "alt": "Oracle Logo",
+        "loading": "lazy",
+        "class": "h-full w-full object-contain"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/d5bd03ccb68aceccae91a5e93f104e143b8b930d-170x60.svg",
+        "width": "170",
+        "height": "60",
+        "alt": "Dell Technologies Logo",
+        "loading": "lazy",
+        "class": "h-full w-full object-contain"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/39abce988f8dc7b0c10f36e7e766e5d04d3e2d94-171x61.svg",
+        "width": "171",
+        "height": "61",
+        "alt": "RBC Logo",
+        "loading": "lazy",
+        "class": "h-full w-full object-contain"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/e8a30bc84caccaef42d84f2c447c58c63443d2fb-170x60.svg",
+        "width": "170",
+        "height": "60",
+        "alt": "LG CNS Logo",
+        "loading": "lazy",
+        "class": "h-full w-full object-contain"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/bea01a873a54823b1b79c71b16e74e94d7871b14-170x60.svg",
+        "width": "170",
+        "height": "60",
+        "alt": "Fujitsu Logo",
+        "loading": "lazy",
+        "class": "h-full w-full object-contain"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/38a1f54b2cfcd93209930bedec2bd723a70d5e90-170x61.svg",
+        "width": "170",
+        "height": "61",
+        "alt": "Bell Logo",
+        "loading": "lazy",
+        "class": "h-full w-full object-contain"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/d1d693711b08a6ea65038d7514ba2dbafcc2e1dc-170x60.svg",
+        "width": "170",
+        "height": "60",
+        "alt": "Asana Logo",
+        "loading": "lazy",
+        "class": "h-full w-full object-contain"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/54e53caa528ef24999cf049aef76184d41f89cac-170x60.svg",
+        "width": "170",
+        "height": "60",
+        "alt": "RWS Logo",
+        "loading": "lazy",
+        "class": "h-full w-full object-contain"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/9210d325433b4057e78429767006c4886df08ac4-170x60.svg",
+        "width": "170",
+        "height": "60",
+        "alt": "SAP Logo",
+        "loading": "lazy",
+        "class": "h-full w-full object-contain"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/6fa18af555fccc6529de4bb0f6ceb0f00db62696-171x61.svg",
+        "width": "171",
+        "height": "61",
+        "alt": "Salesforce Logo",
+        "loading": "lazy",
+        "class": "h-full w-full object-contain"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/2e187278486f46880d2ee09aa592921051795576-170x60.svg",
+        "width": "170",
+        "height": "60",
+        "alt": "TD Bank Logo",
+        "loading": "lazy",
+        "class": "h-full w-full object-contain"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/e7a9cfbbe3c3a6e61b156dd1f5a19219e69f861e-170x60.svg",
+        "width": "170",
+        "height": "60",
+        "alt": "Ensemble Logo",
+        "loading": "lazy",
+        "class": "h-full w-full object-contain"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/ccb5e5d4efb26a574f0795f046a002f84d7575d8-170x60.svg",
+        "width": "170",
+        "height": "60",
+        "alt": "Second Front Logo",
+        "loading": "lazy",
+        "class": "h-full w-full object-contain"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/5e55f56f8e105cddbcd6f243fc2686c7eeb63a29-160x50.svg",
+        "width": "160",
+        "height": "50",
+        "alt": "McKinsey & Company Logo",
+        "loading": "lazy",
+        "class": "h-full w-full object-contain"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/44b6dcb718341a204c9684ecd69889fd204d1368-170x60.svg",
+        "width": "170",
+        "height": "60",
+        "alt": "Accenture Logo",
+        "loading": "lazy",
+        "class": "h-full w-full object-contain"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/2c9edaee49f36102928edaa202f77008f801c6af-171x61.svg",
+        "width": "171",
+        "height": "61",
+        "alt": "BambooHR Logo",
+        "loading": "lazy",
+        "class": "h-full w-full object-contain"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/6f71c91323c494c888e0f4c22c8925d107884f91-170x60.svg",
+        "width": "170",
+        "height": "60",
+        "alt": "STC Logo",
+        "loading": "lazy",
+        "class": "h-full w-full object-contain"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/3f494c982827192476e43ee5748fe16f7de69c95-170x60.svg",
+        "width": "170",
+        "height": "60",
+        "alt": "Carahsoft Logo",
+        "loading": "lazy",
+        "class": "h-full w-full object-contain"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/5836b142b7434a7600de0481735a41a310dd3c3c-171x61.svg",
+        "width": "171",
+        "height": "61",
+        "alt": "Oracle Logo",
+        "loading": "lazy",
+        "class": "h-full w-full object-contain"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/d5bd03ccb68aceccae91a5e93f104e143b8b930d-170x60.svg",
+        "width": "170",
+        "height": "60",
+        "alt": "Dell Technologies Logo",
+        "loading": "lazy",
+        "class": "h-full w-full object-contain"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/39abce988f8dc7b0c10f36e7e766e5d04d3e2d94-171x61.svg",
+        "width": "171",
+        "height": "61",
+        "alt": "RBC Logo",
+        "loading": "lazy",
+        "class": "h-full w-full object-contain"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/e8a30bc84caccaef42d84f2c447c58c63443d2fb-170x60.svg",
+        "width": "170",
+        "height": "60",
+        "alt": "LG CNS Logo",
+        "loading": "lazy",
+        "class": "h-full w-full object-contain"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/bea01a873a54823b1b79c71b16e74e94d7871b14-170x60.svg",
+        "width": "170",
+        "height": "60",
+        "alt": "Fujitsu Logo",
+        "loading": "lazy",
+        "class": "h-full w-full object-contain"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/38a1f54b2cfcd93209930bedec2bd723a70d5e90-170x61.svg",
+        "width": "170",
+        "height": "61",
+        "alt": "Bell Logo",
+        "loading": "lazy",
+        "class": "h-full w-full object-contain"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/d1d693711b08a6ea65038d7514ba2dbafcc2e1dc-170x60.svg",
+        "width": "170",
+        "height": "60",
+        "alt": "Asana Logo",
+        "loading": "lazy",
+        "class": "h-full w-full object-contain"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/54e53caa528ef24999cf049aef76184d41f89cac-170x60.svg",
+        "width": "170",
+        "height": "60",
+        "alt": "RWS Logo",
+        "loading": "lazy",
+        "class": "h-full w-full object-contain"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/9210d325433b4057e78429767006c4886df08ac4-170x60.svg",
+        "width": "170",
+        "height": "60",
+        "alt": "SAP Logo",
+        "loading": "lazy",
+        "class": "h-full w-full object-contain"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/6fa18af555fccc6529de4bb0f6ceb0f00db62696-171x61.svg",
+        "width": "171",
+        "height": "61",
+        "alt": "Salesforce Logo",
+        "loading": "lazy",
+        "class": "h-full w-full object-contain"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/2e187278486f46880d2ee09aa592921051795576-170x60.svg",
+        "width": "170",
+        "height": "60",
+        "alt": "TD Bank Logo",
+        "loading": "lazy",
+        "class": "h-full w-full object-contain"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/e7a9cfbbe3c3a6e61b156dd1f5a19219e69f861e-170x60.svg",
+        "width": "170",
+        "height": "60",
+        "alt": "Ensemble Logo",
+        "loading": "lazy",
+        "class": "h-full w-full object-contain"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/ccb5e5d4efb26a574f0795f046a002f84d7575d8-170x60.svg",
+        "width": "170",
+        "height": "60",
+        "alt": "Second Front Logo",
+        "loading": "lazy",
+        "class": "h-full w-full object-contain"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/5e55f56f8e105cddbcd6f243fc2686c7eeb63a29-160x50.svg",
+        "width": "160",
+        "height": "50",
+        "alt": "McKinsey & Company Logo",
+        "loading": "lazy",
+        "class": "h-full w-full object-contain"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/44b6dcb718341a204c9684ecd69889fd204d1368-170x60.svg",
+        "width": "170",
+        "height": "60",
+        "alt": "Accenture Logo",
+        "loading": "lazy",
+        "class": "h-full w-full object-contain"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/2c9edaee49f36102928edaa202f77008f801c6af-171x61.svg",
+        "width": "171",
+        "height": "61",
+        "alt": "BambooHR Logo",
+        "loading": "lazy",
+        "class": "h-full w-full object-contain"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/6f71c91323c494c888e0f4c22c8925d107884f91-170x60.svg",
+        "width": "170",
+        "height": "60",
+        "alt": "STC Logo",
+        "loading": "lazy",
+        "class": "h-full w-full object-contain"
+      },
+      {
+        "src": "https://cdn.sanity.io/images/rjtqmwfu/web3-prod/3f494c982827192476e43ee5748fe16f7de69c95-170x60.svg",
+        "width": "170",
+        "height": "60",
+        "alt": "Carahsoft Logo",
+        "loading": "lazy",
+        "class": "h-full w-full object-contain"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-191/ca249285bab9372b.txt"
+  },
+  {
+    "id": "73f502ff512b5be9",
+    "name": "College Avenue Student Loans LLC",
+    "requested_url": "https://www.collegeave.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "812298e6e294c55d",
+    "name": "College of Healthcare Information Management Executives (CHIME)",
+    "requested_url": "https://chimecentral.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "dfec2e169937b641",
+    "name": "College of Healthcare Information Management Executives (CHIME)",
+    "requested_url": "https://chimecentral.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "87597d9cecf2c071",
+    "name": "Colorado Tiny Homes LLC",
+    "requested_url": "https://coloradotinyhomes.com/",
+    "status": 202,
+    "final_url": "https://coloradotinyhomes.com/",
+    "text_chars": 88,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-191/87597d9cecf2c071.txt"
+  },
+  {
+    "id": "5759e76534530f5f",
+    "name": "Colosseum Rare Metals, Inc.",
+    "requested_url": "https://datelineresources.com.au/",
+    "status": 200,
+    "final_url": "https://www.datelineresources.com.au/",
+    "text_chars": 5184,
+    "logo_candidates": [
+      {
+        "width": "222",
+        "height": "97",
+        "src": "https://www.datelineresources.com.au/wp-content/uploads/2025/10/dataline.svg",
+        "class": "custom-logo svg-logo-image",
+        "alt": "Dateline Resources",
+        "decoding": "async"
+      },
+      {
+        "width": "222",
+        "height": "97",
+        "src": "https://www.datelineresources.com.au/wp-content/uploads/2025/10/dataline.svg",
+        "class": "custom-logo svg-logo-image",
+        "alt": "Dateline Resources",
+        "decoding": "async"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-191/5759e76534530f5f.txt"
+  },
+  {
+    "id": "be671687c8c0ab88",
+    "name": "Community Bank Advisory Services, LLC",
+    "requested_url": "https://www.communitybankadvisory.com/",
+    "status": 200,
+    "final_url": "https://www.communitybankadvisory.com/",
+    "text_chars": 3201,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-191/be671687c8c0ab88.txt"
+  },
+  {
+    "id": "16df2b70ce4bf58d",
+    "name": "Community Choice Financial Holdings, LLC",
+    "requested_url": "https://www.ccfi.com/",
+    "status": 200,
+    "final_url": "https://www.ccfi.com/",
+    "text_chars": 6447,
+    "logo_candidates": [
+      {
+        "class": "fl-logo-img",
+        "itemscope": null,
+        "itemtype": "http://schema.org/ImageObject",
+        "src": "https://www.ccfi.com/wp-content/uploads/2025/06/CCF-Logo-1.png",
+        "data-retina": "https://www.ccfi.com/wp-content/uploads/2025/06/CCF-Logo-1.png",
+        "alt": "Community Choice Financial"
+      },
+      {
+        "class": "fl-logo-img",
+        "itemscope": null,
+        "itemtype": "http://schema.org/ImageObject",
+        "src": "https://www.ccfi.com/wp-content/uploads/2025/06/CCF-Logo-1.png",
+        "data-retina": "https://www.ccfi.com/wp-content/uploads/2025/06/CCF-Logo-1.png",
+        "alt": "Community Choice Financial"
+      },
+      {
+        "decoding": "async",
+        "src": "/wp-content/uploads/2025/06/rapid-cash-logo-square.png",
+        "alt": "Rapid Cash",
+        "loading": "lazy"
+      },
+      {
+        "decoding": "async",
+        "src": "/wp-content/uploads/2025/11/Cash-Central-Logo-310x310-2.png",
+        "alt": "Cash Central",
+        "loading": "lazy"
+      },
+      {
+        "class": "fl-logo-img footerLogo",
+        "src": "/wp-content/uploads/2017/04/ccfi_logo_footer.png",
+        "data-retina": "",
+        "alt": "Community Choice Financial",
+        "style": "max-width:120px;"
+      },
+      {
+        "src": "/wp-content/uploads/2023/10/ola-logo-1.png",
+        "style": "max-height:64px;"
+      },
+      {
+        "src": "/wp-content/uploads/2025/06/LinkedIn_logo.png",
+        "style": "max-height:50px;"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-191/16df2b70ce4bf58d.txt"
+  },
+  {
+    "id": "45af18082e8f37ed",
+    "name": "Composite Energy Technologies, D/b/a Goetz Composites",
+    "requested_url": "https://www.compositeenergytechnologies.com/",
+    "status": 200,
+    "final_url": "https://www.compositeenergytechnologies.com/",
+    "text_chars": 2240,
+    "logo_candidates": [
+      {
+        "elementtiming": "nbf-header-logo-desktop",
+        "src": "//images.squarespace-cdn.com/content/v1/69205fa43c2c4c216f39e03b/278d8c04-34b2-4a10-8434-7ff4561e0855/cet-logo-navbar.png?format=1500w",
+        "alt": "CET",
+        "style": "display:block",
+        "fetchpriority": "high",
+        "loading": "eager",
+        "decoding": "async",
+        "data-loader": "raw"
+      },
+      {
+        "elementtiming": "nbf-header-logo-desktop",
+        "src": "//images.squarespace-cdn.com/content/v1/69205fa43c2c4c216f39e03b/278d8c04-34b2-4a10-8434-7ff4561e0855/cet-logo-navbar.png?format=1500w",
+        "alt": "CET",
+        "style": "display:block",
+        "fetchpriority": "high",
+        "loading": "eager",
+        "decoding": "async",
+        "data-loader": "raw"
+      },
+      {
+        "data-stretch": "false",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/69205fa43c2c4c216f39e03b/76466554-adeb-4919-9333-73515393858b/Part+of+the+DIANA+Network+Logo_navy+blue.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/69205fa43c2c4c216f39e03b/76466554-adeb-4919-9333-73515393858b/Part+of+the+DIANA+Network+Logo_navy+blue.png",
+        "data-image-dimensions": "1841x512",
+        "data-image-focal-point": "0.5,0.5",
+        "data-sqsp-image-block-image": null,
+        "alt": "",
+        "data-licensed-asset-preview": "false",
+        "data-load": "false",
+        "elementtiming": "system-image-block",
+        "src": "https://images.squarespace-cdn.com/content/v1/69205fa43c2c4c216f39e03b/76466554-adeb-4919-9333-73515393858b/Part+of+the+DIANA+Network+Logo_navy+blue.png",
+        "width": "1841",
+        "height": "512",
+        "sizes": "auto, (max-width: 640px) 100vw, (max-width: 767px) 75.00vw, 25.00vw",
+        "style": "display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);",
+        "srcset": "https://images.squarespace-cdn.com/content/v1/69205fa43c2c4c216f39e03b/76466554-adeb-4919-9333-73515393858b/Part+of+the+DIANA+Network+Logo_navy+blue.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/69205fa43c2c4c216f39e03b/76466554-adeb-4919-9333-73515393858b/Part+of+the+DIANA+Network+Logo_navy+blue.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/69205fa43c2c4c216f39e03b/76466554-adeb-4919-9333-73515393858b/Part+of+the+DIANA+Network+Logo_navy+blue.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/69205fa43c2c4c216f39e03b/76466554-adeb-4919-9333-73515393858b/Part+of+the+DIANA+Network+Logo_navy+blue.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/69205fa43c2c4c216f39e03b/76466554-adeb-4919-9333-73515393858b/Part+of+the+DIANA+Network+Logo_navy+blue.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/69205fa43c2c4c216f39e03b/76466554-adeb-4919-9333-73515393858b/Part+of+the+DIANA+Network+Logo_navy+blue.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/69205fa43c2c4c216f39e03b/76466554-adeb-4919-9333-73515393858b/Part+of+the+DIANA+Network+Logo_navy+blue.png?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs",
+        "data-image-component": "1.0.1"
+      },
+      {
+        "data-stretch": "false",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/69205fa43c2c4c216f39e03b/1a7b2fe6-b445-43e5-8181-550c7ba2fe13/ISO_Logo-e1714566330281.webp",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/69205fa43c2c4c216f39e03b/1a7b2fe6-b445-43e5-8181-550c7ba2fe13/ISO_Logo-e1714566330281.webp",
+        "data-image-dimensions": "343x322",
+        "data-image-focal-point": "0.5,0.5",
+        "data-sqsp-image-block-image": null,
+        "alt": "",
+        "data-licensed-asset-preview": "false",
+        "data-load": "false",
+        "elementtiming": "system-image-block",
+        "src": "https://images.squarespace-cdn.com/content/v1/69205fa43c2c4c216f39e03b/1a7b2fe6-b445-43e5-8181-550c7ba2fe13/ISO_Logo-e1714566330281.webp",
+        "width": "343",
+        "height": "322",
+        "sizes": "auto, (max-width: 640px) 100vw, (max-width: 767px) 75.00vw, 25.00vw",
+        "style": "display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);",
+        "srcset": "https://images.squarespace-cdn.com/content/v1/69205fa43c2c4c216f39e03b/1a7b2fe6-b445-43e5-8181-550c7ba2fe13/ISO_Logo-e1714566330281.webp?format=100w 100w, https://images.squarespace-cdn.com/content/v1/69205fa43c2c4c216f39e03b/1a7b2fe6-b445-43e5-8181-550c7ba2fe13/ISO_Logo-e1714566330281.webp?format=300w 300w, https://images.squarespace-cdn.com/content/v1/69205fa43c2c4c216f39e03b/1a7b2fe6-b445-43e5-8181-550c7ba2fe13/ISO_Logo-e1714566330281.webp?format=500w 500w, https://images.squarespace-cdn.com/content/v1/69205fa43c2c4c216f39e03b/1a7b2fe6-b445-43e5-8181-550c7ba2fe13/ISO_Logo-e1714566330281.webp?format=750w 750w, https://images.squarespace-cdn.com/content/v1/69205fa43c2c4c216f39e03b/1a7b2fe6-b445-43e5-8181-550c7ba2fe13/ISO_Logo-e1714566330281.webp?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/69205fa43c2c4c216f39e03b/1a7b2fe6-b445-43e5-8181-550c7ba2fe13/ISO_Logo-e1714566330281.webp?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/69205fa43c2c4c216f39e03b/1a7b2fe6-b445-43e5-8181-550c7ba2fe13/ISO_Logo-e1714566330281.webp?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs",
+        "data-image-component": "1.0.1"
+      },
+      {
+        "data-stretch": "false",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/69205fa43c2c4c216f39e03b/d92aae28-440d-4a63-91f7-7caf2b1e6efc/cet-logo-footer.png",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/69205fa43c2c4c216f39e03b/d92aae28-440d-4a63-91f7-7caf2b1e6efc/cet-logo-footer.png",
+        "data-image-dimensions": "1564x613",
+        "data-image-focal-point": "0.5,0.5",
+        "data-sqsp-image-block-image": null,
+        "alt": "",
+        "data-licensed-asset-preview": "false",
+        "data-load": "false",
+        "elementtiming": "system-image-block",
+        "src": "https://images.squarespace-cdn.com/content/v1/69205fa43c2c4c216f39e03b/d92aae28-440d-4a63-91f7-7caf2b1e6efc/cet-logo-footer.png",
+        "width": "1564",
+        "height": "613",
+        "sizes": "auto, (max-width: 640px) 100.00vw, (max-width: 767px) 62.50vw, 16.67vw",
+        "style": "display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);",
+        "srcset": "https://images.squarespace-cdn.com/content/v1/69205fa43c2c4c216f39e03b/d92aae28-440d-4a63-91f7-7caf2b1e6efc/cet-logo-footer.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/69205fa43c2c4c216f39e03b/d92aae28-440d-4a63-91f7-7caf2b1e6efc/cet-logo-footer.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/69205fa43c2c4c216f39e03b/d92aae28-440d-4a63-91f7-7caf2b1e6efc/cet-logo-footer.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/69205fa43c2c4c216f39e03b/d92aae28-440d-4a63-91f7-7caf2b1e6efc/cet-logo-footer.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/69205fa43c2c4c216f39e03b/d92aae28-440d-4a63-91f7-7caf2b1e6efc/cet-logo-footer.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/69205fa43c2c4c216f39e03b/d92aae28-440d-4a63-91f7-7caf2b1e6efc/cet-logo-footer.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/69205fa43c2c4c216f39e03b/d92aae28-440d-4a63-91f7-7caf2b1e6efc/cet-logo-footer.png?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs",
+        "data-image-component": "1.0.1"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-191/45af18082e8f37ed.txt"
+  },
+  {
+    "id": "fa9e1f480e9276cc",
+    "name": "Begin (Conscious Content Media, Inc.)",
+    "requested_url": "https://www.beginlearning.com/",
+    "status": 200,
+    "final_url": "https://www.beginlearning.com/",
+    "text_chars": 2430,
+    "logo_candidates": [
+      {
+        "src": "https://static.beginlearning.com/deployedassets/63b70baf/static/img/begin/begin-logo-sm.svg",
+        "alt": "Image",
+        "style": "width:100%;height:auto"
+      },
+      {
+        "src": "https://static.beginlearning.com/deployedassets/63b70baf/static/img/begin/homepage/family-brands/sesame-logo.svg",
+        "alt": "sesame logo",
+        "style": "width:100%;height:auto"
+      },
+      {
+        "src": "https://static.beginlearning.com/deployedassets/63b70baf/static/img/begin/homepage/family-brands/homer-logo.svg",
+        "alt": "HOMER logo",
+        "style": "width:100%;height:auto"
+      },
+      {
+        "src": "https://static.beginlearning.com/deployedassets/63b70baf/static/img/begin/homepage/family-brands/little-passports-logo.svg",
+        "alt": "Little Passports logo",
+        "style": "width:100%;height:auto"
+      },
+      {
+        "src": "https://static.beginlearning.com/deployedassets/63b70baf/static/img/begin/homepage/family-brands/codespark-logo.svg",
+        "alt": "codeSpark logo",
+        "style": "width:100%;height:auto"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-191/fa9e1f480e9276cc.txt"
+  },
+  {
+    "id": "23a88406b2135101",
+    "name": "Conservice Parent LLC",
+    "requested_url": "https://www.conservice.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "a1326f363112a6c1",
+    "name": "Continental Service Group, Inc. D/b/a ConServe",
+    "requested_url": "https://www.conserve.com/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "7fec3360b201f841",
+    "name": "Continental Strategy LLC (o/b/o Plexos Group LLC)",
+    "requested_url": "https://www.plexosgroup.com/",
+    "status": 200,
+    "final_url": "https://www.plexosgroup.com/disaster-recovery-experts",
+    "text_chars": 7642,
+    "logo_candidates": [
+      {
+        "src": "https://www.plexosgroup.com/hs-fs/hubfs/plexos_logo_white-1.png?width=340&height=97&name=plexos_logo_white-1.png",
+        "alt": "plexos_logo_white-1",
+        "width": "340",
+        "height": "97",
+        "srcset": "https://www.plexosgroup.com/hs-fs/hubfs/plexos_logo_white-1.png?width=170&height=49&name=plexos_logo_white-1.png 170w, https://www.plexosgroup.com/hs-fs/hubfs/plexos_logo_white-1.png?width=340&height=97&name=plexos_logo_white-1.png 340w, https://www.plexosgroup.com/hs-fs/hubfs/plexos_logo_white-1.png?width=510&height=146&name=plexos_logo_white-1.png 510w, https://www.plexosgroup.com/hs-fs/hubfs/plexos_logo_white-1.png?width=680&height=194&name=plexos_logo_white-1.png 680w, https://www.plexosgroup.com/hs-fs/hubfs/plexos_logo_white-1.png?width=850&height=243&name=plexos_logo_white-1.png 850w, https://www.plexosgroup.com/hs-fs/hubfs/plexos_logo_white-1.png?width=1020&height=291&name=plexos_logo_white-1.png 1020w",
+        "sizes": "(max-width: 340px) 100vw, 340px"
+      },
+      {
+        "src": "https://www.plexosgroup.com/hs-fs/hubfs/plexos_logo-1.png?width=340&height=97&name=plexos_logo-1.png",
+        "alt": "plexos_logo-1",
+        "width": "340",
+        "height": "97",
+        "srcset": "https://www.plexosgroup.com/hs-fs/hubfs/plexos_logo-1.png?width=170&height=49&name=plexos_logo-1.png 170w, https://www.plexosgroup.com/hs-fs/hubfs/plexos_logo-1.png?width=340&height=97&name=plexos_logo-1.png 340w, https://www.plexosgroup.com/hs-fs/hubfs/plexos_logo-1.png?width=510&height=146&name=plexos_logo-1.png 510w, https://www.plexosgroup.com/hs-fs/hubfs/plexos_logo-1.png?width=680&height=194&name=plexos_logo-1.png 680w, https://www.plexosgroup.com/hs-fs/hubfs/plexos_logo-1.png?width=850&height=243&name=plexos_logo-1.png 850w, https://www.plexosgroup.com/hs-fs/hubfs/plexos_logo-1.png?width=1020&height=291&name=plexos_logo-1.png 1020w",
+        "sizes": "(max-width: 340px) 100vw, 340px"
+      },
+      {
+        "src": "https://www.plexosgroup.com/hs-fs/hubfs/plexos_logo_white-1.png?width=178&height=51&name=plexos_logo_white-1.png",
+        "width": "178",
+        "height": "51",
+        "loading": "lazy",
+        "alt": "plexos_logo_white-1",
+        "style": "height: auto; max-width: 100%; width: 178px;",
+        "srcset": "https://www.plexosgroup.com/hs-fs/hubfs/plexos_logo_white-1.png?width=89&height=26&name=plexos_logo_white-1.png 89w, https://www.plexosgroup.com/hs-fs/hubfs/plexos_logo_white-1.png?width=178&height=51&name=plexos_logo_white-1.png 178w, https://www.plexosgroup.com/hs-fs/hubfs/plexos_logo_white-1.png?width=267&height=77&name=plexos_logo_white-1.png 267w, https://www.plexosgroup.com/hs-fs/hubfs/plexos_logo_white-1.png?width=356&height=102&name=plexos_logo_white-1.png 356w, https://www.plexosgroup.com/hs-fs/hubfs/plexos_logo_white-1.png?width=445&height=128&name=plexos_logo_white-1.png 445w, https://www.plexosgroup.com/hs-fs/hubfs/plexos_logo_white-1.png?width=534&height=153&name=plexos_logo_white-1.png 534w",
+        "sizes": "(max-width: 178px) 100vw, 178px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-191/7fec3360b201f841.txt"
+  },
+  {
+    "id": "150dd7bd33afb37a",
+    "name": "Continuing Medical Education Coalition",
+    "requested_url": "https://www.cmecoalition.org/",
+    "status": 200,
+    "final_url": "https://www.cmecoalition.org/",
+    "text_chars": 9887,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-191/150dd7bd33afb37a.txt"
+  },
+  {
+    "id": "7fa26bb4973384c1",
+    "name": "Control AI US, Inc.",
+    "requested_url": "https://controlai.org/",
+    "status": 200,
+    "final_url": "https://controlai.org/",
+    "text_chars": 9932,
+    "logo_candidates": [
+      {
+        "decoding": "async",
+        "width": "2400",
+        "height": "754",
+        "sizes": "(min-width: 1440px) max(111px, 111.4058px), (min-width: 1200px) and (max-width: 1439.98px) max(111px, 111.4058px), (min-width: 810px) and (max-width: 1199.98px) max(111px, 111.4058px), (max-width: 809.98px) max(111px, 111.4058px)",
+        "srcset": "https://framerusercontent.com/images/ZOnA3naer3v31p9qFwdfGwE2lI.png?scale-down-to=512&width=2400&height=754 512w,https://framerusercontent.com/images/ZOnA3naer3v31p9qFwdfGwE2lI.png?scale-down-to=1024&width=2400&height=754 1024w,https://framerusercontent.com/images/ZOnA3naer3v31p9qFwdfGwE2lI.png?scale-down-to=2048&width=2400&height=754 2048w,https://framerusercontent.com/images/ZOnA3naer3v31p9qFwdfGwE2lI.png?width=2400&height=754 2400w",
+        "src": "https://framerusercontent.com/images/ZOnA3naer3v31p9qFwdfGwE2lI.png?width=2400&height=754",
+        "alt": "TIME logo",
+        "style": "display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+      },
+      {
+        "decoding": "async",
+        "width": "392",
+        "height": "129",
+        "src": "https://framerusercontent.com/images/lTgiwsNyofMXG5ZZXTAzQgDCaPQ.png?width=392&height=129",
+        "alt": "The Guardian logo",
+        "style": "display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+      },
+      {
+        "decoding": "async",
+        "width": "2560",
+        "height": "399",
+        "sizes": "(min-width: 1440px) max(225px, 224.6269px), (min-width: 1200px) and (max-width: 1439.98px) max(225px, 224.6269px), (min-width: 810px) and (max-width: 1199.98px) max(225px, 224.6269px), (max-width: 809.98px) max(225px, 224.6269px)",
+        "srcset": "https://framerusercontent.com/images/mNMSHbGF47pPViC1DiWYK7CNfE.png?scale-down-to=512&width=2560&height=399 512w,https://framerusercontent.com/images/mNMSHbGF47pPViC1DiWYK7CNfE.png?scale-down-to=1024&width=2560&height=399 1024w,https://framerusercontent.com/images/mNMSHbGF47pPViC1DiWYK7CNfE.png?scale-down-to=2048&width=2560&height=399 2048w,https://framerusercontent.com/images/mNMSHbGF47pPViC1DiWYK7CNfE.png?width=2560&height=399 2560w",
+        "src": "https://framerusercontent.com/images/mNMSHbGF47pPViC1DiWYK7CNfE.png?width=2560&height=399",
+        "alt": "The Guardian logo",
+        "style": "display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+      },
+      {
+        "decoding": "async",
+        "width": "914",
+        "height": "109",
+        "sizes": "(min-width: 1440px) max(293px, 293.4862px), (min-width: 1200px) and (max-width: 1439.98px) max(293px, 293.4862px), (min-width: 810px) and (max-width: 1199.98px) max(293px, 293.4862px), (max-width: 809.98px) max(293px, 293.4862px)",
+        "srcset": "https://framerusercontent.com/images/vME7N5o2Wf8gnEVPJLrMgVBp1Q.png?scale-down-to=512&width=914&height=109 512w,https://framerusercontent.com/images/vME7N5o2Wf8gnEVPJLrMgVBp1Q.png?width=914&height=109 914w",
+        "src": "https://framerusercontent.com/images/vME7N5o2Wf8gnEVPJLrMgVBp1Q.png?width=914&height=109",
+        "alt": "The Times logo",
+        "style": "display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+      },
+      {
+        "decoding": "async",
+        "width": "2400",
+        "height": "754",
+        "sizes": "(min-width: 1440px) max(111px, 111.4058px), (min-width: 1200px) and (max-width: 1439.98px) max(111px, 111.4058px), (min-width: 810px) and (max-width: 1199.98px) max(111px, 111.4058px), (max-width: 809.98px) max(111px, 111.4058px)",
+        "srcset": "https://framerusercontent.com/images/ZOnA3naer3v31p9qFwdfGwE2lI.png?scale-down-to=512&width=2400&height=754 512w,https://framerusercontent.com/images/ZOnA3naer3v31p9qFwdfGwE2lI.png?scale-down-to=1024&width=2400&height=754 1024w,https://framerusercontent.com/images/ZOnA3naer3v31p9qFwdfGwE2lI.png?scale-down-to=2048&width=2400&height=754 2048w,https://framerusercontent.com/images/ZOnA3naer3v31p9qFwdfGwE2lI.png?width=2400&height=754 2400w",
+        "src": "https://framerusercontent.com/images/ZOnA3naer3v31p9qFwdfGwE2lI.png?width=2400&height=754",
+        "alt": "TIME logo",
+        "style": "display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+      },
+      {
+        "decoding": "async",
+        "width": "2560",
+        "height": "399",
+        "sizes": "(min-width: 1440px) max(225px, 224.6269px), (min-width: 1200px) and (max-width: 1439.98px) max(225px, 224.6269px), (min-width: 810px) and (max-width: 1199.98px) max(225px, 224.6269px), (max-width: 809.98px) max(225px, 224.6269px)",
+        "srcset": "https://framerusercontent.com/images/mNMSHbGF47pPViC1DiWYK7CNfE.png?scale-down-to=512&width=2560&height=399 512w,https://framerusercontent.com/images/mNMSHbGF47pPViC1DiWYK7CNfE.png?scale-down-to=1024&width=2560&height=399 1024w,https://framerusercontent.com/images/mNMSHbGF47pPViC1DiWYK7CNfE.png?scale-down-to=2048&width=2560&height=399 2048w,https://framerusercontent.com/images/mNMSHbGF47pPViC1DiWYK7CNfE.png?width=2560&height=399 2560w",
+        "src": "https://framerusercontent.com/images/mNMSHbGF47pPViC1DiWYK7CNfE.png?width=2560&height=399",
+        "alt": "The Guardian logo",
+        "style": "display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+      },
+      {
+        "decoding": "async",
+        "width": "392",
+        "height": "129",
+        "src": "https://framerusercontent.com/images/lTgiwsNyofMXG5ZZXTAzQgDCaPQ.png?width=392&height=129",
+        "alt": "The Guardian logo",
+        "style": "display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+      },
+      {
+        "decoding": "async",
+        "width": "914",
+        "height": "109",
+        "sizes": "(min-width: 1440px) max(293px, 293.4862px), (min-width: 1200px) and (max-width: 1439.98px) max(293px, 293.4862px), (min-width: 810px) and (max-width: 1199.98px) max(293px, 293.4862px), (max-width: 809.98px) max(293px, 293.4862px)",
+        "srcset": "https://framerusercontent.com/images/vME7N5o2Wf8gnEVPJLrMgVBp1Q.png?scale-down-to=512&width=914&height=109 512w,https://framerusercontent.com/images/vME7N5o2Wf8gnEVPJLrMgVBp1Q.png?width=914&height=109 914w",
+        "src": "https://framerusercontent.com/images/vME7N5o2Wf8gnEVPJLrMgVBp1Q.png?width=914&height=109",
+        "alt": "The Times logo",
+        "style": "display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+      },
+      {
+        "decoding": "async",
+        "width": "2400",
+        "height": "754",
+        "sizes": "(min-width: 1440px) max(111px, 111.4058px), (min-width: 1200px) and (max-width: 1439.98px) max(111px, 111.4058px), (min-width: 810px) and (max-width: 1199.98px) max(111px, 111.4058px), (max-width: 809.98px) max(111px, 111.4058px)",
+        "srcset": "https://framerusercontent.com/images/ZOnA3naer3v31p9qFwdfGwE2lI.png?scale-down-to=512&width=2400&height=754 512w,https://framerusercontent.com/images/ZOnA3naer3v31p9qFwdfGwE2lI.png?scale-down-to=1024&width=2400&height=754 1024w,https://framerusercontent.com/images/ZOnA3naer3v31p9qFwdfGwE2lI.png?scale-down-to=2048&width=2400&height=754 2048w,https://framerusercontent.com/images/ZOnA3naer3v31p9qFwdfGwE2lI.png?width=2400&height=754 2400w",
+        "src": "https://framerusercontent.com/images/ZOnA3naer3v31p9qFwdfGwE2lI.png?width=2400&height=754",
+        "alt": "TIME logo",
+        "style": "display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+      },
+      {
+        "decoding": "async",
+        "width": "2560",
+        "height": "399",
+        "sizes": "(min-width: 1440px) max(225px, 224.6269px), (min-width: 1200px) and (max-width: 1439.98px) max(225px, 224.6269px), (min-width: 810px) and (max-width: 1199.98px) max(225px, 224.6269px), (max-width: 809.98px) max(225px, 224.6269px)",
+        "srcset": "https://framerusercontent.com/images/mNMSHbGF47pPViC1DiWYK7CNfE.png?scale-down-to=512&width=2560&height=399 512w,https://framerusercontent.com/images/mNMSHbGF47pPViC1DiWYK7CNfE.png?scale-down-to=1024&width=2560&height=399 1024w,https://framerusercontent.com/images/mNMSHbGF47pPViC1DiWYK7CNfE.png?scale-down-to=2048&width=2560&height=399 2048w,https://framerusercontent.com/images/mNMSHbGF47pPViC1DiWYK7CNfE.png?width=2560&height=399 2560w",
+        "src": "https://framerusercontent.com/images/mNMSHbGF47pPViC1DiWYK7CNfE.png?width=2560&height=399",
+        "alt": "The Guardian logo",
+        "style": "display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+      },
+      {
+        "decoding": "async",
+        "width": "392",
+        "height": "129",
+        "src": "https://framerusercontent.com/images/lTgiwsNyofMXG5ZZXTAzQgDCaPQ.png?width=392&height=129",
+        "alt": "The Guardian logo",
+        "style": "display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+      },
+      {
+        "decoding": "async",
+        "width": "914",
+        "height": "109",
+        "sizes": "(min-width: 1440px) max(293px, 293.4862px), (min-width: 1200px) and (max-width: 1439.98px) max(293px, 293.4862px), (min-width: 810px) and (max-width: 1199.98px) max(293px, 293.4862px), (max-width: 809.98px) max(293px, 293.4862px)",
+        "srcset": "https://framerusercontent.com/images/vME7N5o2Wf8gnEVPJLrMgVBp1Q.png?scale-down-to=512&width=914&height=109 512w,https://framerusercontent.com/images/vME7N5o2Wf8gnEVPJLrMgVBp1Q.png?width=914&height=109 914w",
+        "src": "https://framerusercontent.com/images/vME7N5o2Wf8gnEVPJLrMgVBp1Q.png?width=914&height=109",
+        "alt": "The Times logo",
+        "style": "display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+      },
+      {
+        "decoding": "async",
+        "width": "8440",
+        "height": "2924",
+        "sizes": "(min-width: 1440px) max(109.6854px, 202.052px), (min-width: 810px) and (max-width: 1199.98px) max(109.6854px, 202.052px), (max-width: 809.98px) max(109.6854px, 202.052px), (min-width: 1200px) and (max-width: 1439.98px) max(109.6854px, 202.052px)",
+        "srcset": "https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?scale-down-to=512&width=8440&height=2924 512w,https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?scale-down-to=1024&width=8440&height=2924 1024w,https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?scale-down-to=2048&width=8440&height=2924 2048w,https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?scale-down-to=4096&width=8440&height=2924 4096w,https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?width=8440&height=2924 8440w",
+        "src": "https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?width=8440&height=2924",
+        "alt": "ControlAI logo",
+        "style": "display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+      },
+      {
+        "decoding": "async",
+        "width": "8440",
+        "height": "2924",
+        "sizes": "(min-width: 1440px) max(109.6854px, 202.052px), (min-width: 810px) and (max-width: 1199.98px) max(109.6854px, 202.052px), (max-width: 809.98px) max(109.6854px, 202.052px), (min-width: 1200px) and (max-width: 1439.98px) max(109.6854px, 202.052px)",
+        "srcset": "https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?scale-down-to=512&width=8440&height=2924 512w,https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?scale-down-to=1024&width=8440&height=2924 1024w,https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?scale-down-to=2048&width=8440&height=2924 2048w,https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?scale-down-to=4096&width=8440&height=2924 4096w,https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?width=8440&height=2924 8440w",
+        "src": "https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?width=8440&height=2924",
+        "alt": "ControlAI logo",
+        "style": "display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+      },
+      {
+        "decoding": "async",
+        "width": "8440",
+        "height": "2924",
+        "sizes": "(min-width: 1440px) max(109.6854px, 202.052px), (min-width: 810px) and (max-width: 1199.98px) max(109.6854px, 202.052px), (max-width: 809.98px) max(109.6854px, 202.052px), (min-width: 1200px) and (max-width: 1439.98px) max(109.6854px, 202.052px)",
+        "srcset": "https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?scale-down-to=512&width=8440&height=2924 512w,https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?scale-down-to=1024&width=8440&height=2924 1024w,https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?scale-down-to=2048&width=8440&height=2924 2048w,https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?scale-down-to=4096&width=8440&height=2924 4096w,https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?width=8440&height=2924 8440w",
+        "src": "https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?width=8440&height=2924",
+        "alt": "ControlAI logo",
+        "style": "display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+      },
+      {
+        "decoding": "async",
+        "width": "8440",
+        "height": "2924",
+        "sizes": "(min-width: 1440px) max(109.6854px, 202.052px), (min-width: 810px) and (max-width: 1199.98px) max(109.6854px, 202.052px), (max-width: 809.98px) max(109.6854px, 202.052px), (min-width: 1200px) and (max-width: 1439.98px) max(109.6854px, 202.052px)",
+        "srcset": "https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?scale-down-to=512&width=8440&height=2924 512w,https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?scale-down-to=1024&width=8440&height=2924 1024w,https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?scale-down-to=2048&width=8440&height=2924 2048w,https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?scale-down-to=4096&width=8440&height=2924 4096w,https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?width=8440&height=2924 8440w",
+        "src": "https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?width=8440&height=2924",
+        "alt": "ControlAI logo",
+        "style": "display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+      },
+      {
+        "decoding": "async",
+        "width": "8440",
+        "height": "2924",
+        "sizes": "(min-width: 1440px) max(109.6854px, 202.052px), (min-width: 810px) and (max-width: 1199.98px) max(109.6854px, 202.052px), (max-width: 809.98px) max(109.6854px, 202.052px), (min-width: 1200px) and (max-width: 1439.98px) max(109.6854px, 202.052px)",
+        "srcset": "https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?scale-down-to=512&width=8440&height=2924 512w,https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?scale-down-to=1024&width=8440&height=2924 1024w,https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?scale-down-to=2048&width=8440&height=2924 2048w,https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?scale-down-to=4096&width=8440&height=2924 4096w,https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?width=8440&height=2924 8440w",
+        "src": "https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?width=8440&height=2924",
+        "alt": "ControlAI logo",
+        "style": "display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+      },
+      {
+        "decoding": "async",
+        "width": "8440",
+        "height": "2924",
+        "sizes": "(min-width: 1440px) max(109.6854px, 202.052px), (min-width: 810px) and (max-width: 1199.98px) max(109.6854px, 202.052px), (max-width: 809.98px) max(109.6854px, 202.052px), (min-width: 1200px) and (max-width: 1439.98px) max(109.6854px, 202.052px)",
+        "srcset": "https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?scale-down-to=512&width=8440&height=2924 512w,https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?scale-down-to=1024&width=8440&height=2924 1024w,https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?scale-down-to=2048&width=8440&height=2924 2048w,https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?scale-down-to=4096&width=8440&height=2924 4096w,https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?width=8440&height=2924 8440w",
+        "src": "https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?width=8440&height=2924",
+        "alt": "ControlAI logo",
+        "style": "display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+      },
+      {
+        "decoding": "async",
+        "width": "8440",
+        "height": "2924",
+        "sizes": "(min-width: 1440px) max(109.6854px, 202.052px), (min-width: 810px) and (max-width: 1199.98px) max(109.6854px, 202.052px), (max-width: 809.98px) max(109.6854px, 202.052px), (min-width: 1200px) and (max-width: 1439.98px) max(109.6854px, 202.052px)",
+        "srcset": "https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?scale-down-to=512&width=8440&height=2924 512w,https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?scale-down-to=1024&width=8440&height=2924 1024w,https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?scale-down-to=2048&width=8440&height=2924 2048w,https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?scale-down-to=4096&width=8440&height=2924 4096w,https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?width=8440&height=2924 8440w",
+        "src": "https://framerusercontent.com/images/2jAgmh0i5BlQqB153OminGQoQI.png?width=8440&height=2924",
+        "alt": "ControlAI logo",
+        "style": "display:block;width:100%;height:100%;border-radius:inherit;corner-shape:inherit;object-position:center;object-fit:cover"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-191/7fa26bb4973384c1.txt"
+  },
+  {
+    "id": "8e61c2580cd9d60d",
+    "name": "Convatec, Inc. F/k/a Triad Life Sciences, Inc.",
+    "requested_url": "https://www.convatec.com/",
+    "status": 200,
+    "final_url": "https://www.convatec.com/",
+    "text_chars": 6502,
+    "logo_candidates": [
+      {
+        "loading": "lazy",
+        "slot": "logo",
+        "src": "https://digitalassetcdn.net/3d8f7f66-63e3-4282-bb8d-b29f00d18867.png?format=webp&quality=85&v=43",
+        "alt": "Convatec Logo",
+        "aria-hidden": "true"
+      },
+      {
+        "slot": "desktoplogo",
+        "loading": "lazy",
+        "alt": "Convatec Logo",
+        "aria-hidden": "true",
+        "src": "/globalassets/global-assets/logos/logo-footer.svg"
+      },
+      {
+        "loading": "lazy",
+        "slot": "logo",
+        "src": "https://digitalassetcdn.net/3d8f7f66-63e3-4282-bb8d-b29f00d18867.png?format=webp&quality=85&v=43",
+        "alt": "Convatec main logo",
+        "aria-hidden": "true"
+      },
+      {
+        "loading": "lazy",
+        "slot": "login-menu-logo",
+        "src": "https://digitalassetcdn.net/3d8f7f66-63e3-4282-bb8d-b29f00d18867.png?format=webp&quality=85&v=43",
+        "alt": "Convatec main logo",
+        "aria-hidden": "true"
+      },
+      {
+        "loading": "lazy",
+        "class": "nav-bar-logo",
+        "slot": "logo-mobile",
+        "src": "https://digitalassetcdn.net/3d8f7f66-63e3-4282-bb8d-b29f00d18867.png?format=webp&quality=85&v=43",
+        "alt": "Convatec main logo",
+        "aria-hidden": "true"
+      },
+      {
+        "loading": "lazy",
+        "slot": "logo",
+        "src": "https://digitalassetcdn.net/3d8f7f66-63e3-4282-bb8d-b29f00d18867.png?format=webp&quality=85&v=43",
+        "alt": "Convatec Logo",
+        "aria-hidden": "true"
+      },
+      {
+        "slot": "desktoplogo",
+        "loading": "lazy",
+        "alt": "Convatec Logo",
+        "aria-hidden": "true",
+        "src": "/globalassets/global-assets/logos/logo-footer.svg"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-191/8e61c2580cd9d60d.txt"
+  },
+  {
+    "id": "b502442cb751c97c",
+    "name": "Cooper Group of Companies",
+    "requested_url": "https://thecoopergroup.com/",
+    "status": 200,
+    "final_url": "https://thecoopergroup.com/",
+    "text_chars": 3519,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-191/b502442cb751c97c.txt"
+  },
+  {
+    "id": "49ed464aa9daf9b5",
+    "name": "Cora Systems US Inc",
+    "requested_url": "https://corasystems.com/",
+    "status": 200,
+    "final_url": "https://corasystems.com/",
+    "text_chars": 6429,
+    "logo_candidates": [
+      {
+        "alt": "Cora Systems Logo",
+        "loading": "eager",
+        "width": "112",
+        "height": "32",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-auto w-auto transition-all duration-300 max-h-[40px] max-w-[120px]",
+        "style": "color:transparent",
+        "src": "/_next/static/media/cora-logo-white.3ac9db11.svg"
+      },
+      {
+        "alt": "Logo 1",
+        "loading": "lazy",
+        "width": "318",
+        "height": "60",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-auto w-full max-w-[160px] object-contain",
+        "style": "color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(\"data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 318 60'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3CfeColorMatrix values='1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 100 -1' result='s'/%3E%3CfeFlood x='0' y='0' width='100%25' height='100%25'/%3E%3CfeComposite operator='out' in='s'/%3E%3CfeComposite in2='SourceGraphic'/%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage width='100%25' height='100%25' x='0' y='0' preserveAspectRatio='none' style='filter: url(%23b);' href='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iOCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgICAgPHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2Y0ZjVmNiIvPgogICAgPC9zdmc+'/%3E%3C/svg%3E\")",
+        "sizes": "(max-width: 640px) 120px, (max-width: 1024px) 150px, 180px",
+        "srcset": "/img/f/328957/318x60/48a9038e0f/honeywell-logo-1.png/m/16x0/smart/filters:quality(85):format(webp) 16w, /img/f/328957/318x60/48a9038e0f/honeywell-logo-1.png/m/32x0/smart/filters:quality(85):format(webp) 32w, /img/f/328957/318x60/48a9038e0f/honeywell-logo-1.png/m/48x0/smart/filters:quality(85):format(webp) 48w, /img/f/328957/318x60/48a9038e0f/honeywell-logo-1.png/m/64x0/smart/filters:quality(85):format(webp) 64w, /img/f/328957/318x60/48a9038e0f/honeywell-logo-1.png/m/96x0/smart/filters:quality(85):format(webp) 96w, /img/f/328957/318x60/48a9038e0f/honeywell-logo-1.png/m/128x0/smart/filters:quality(85):format(webp) 128w, /img/f/328957/318x60/48a9038e0f/honeywell-logo-1.png/m/256x0/smart/filters:quality(85):format(webp) 256w, /img/f/328957/318x60/48a9038e0f/honeywell-logo-1.png/m/318x0/smart/filters:quality(85):format(webp) 384w, /img/f/328957/318x60/48a9038e0f/honeywell-logo-1.png/m/318x0/smart/filters:quality(85):format(webp) 640w, /img/f/328957/318x60/48a9038e0f/honeywell-logo-1.png/m/318x0/smart/filters:quality(85):format(webp) 750w, /img/f/328957/318x60/48a9038e0f/honeywell-logo-1.png/m/318x0/smart/filters:quality(85):format(webp) 828w, /img/f/328957/318x60/48a9038e0f/honeywell-logo-1.png/m/318x0/smart/filters:quality(85):format(webp) 1080w, /img/f/328957/318x60/48a9038e0f/honeywell-logo-1.png/m/318x0/smart/filters:quality(85):format(webp) 1200w, /img/f/328957/318x60/48a9038e0f/honeywell-logo-1.png/m/318x0/smart/filters:quality(85):format(webp) 1440w, /img/f/328957/318x60/48a9038e0f/honeywell-logo-1.png/m/318x0/smart/filters:quality(85):format(webp) 1920w",
+        "src": "/img/f/328957/318x60/48a9038e0f/honeywell-logo-1.png/m/318x0/smart/filters:quality(85):format(webp)"
+      },
+      {
+        "alt": "Logo 2",
+        "loading": "lazy",
+        "width": "300",
+        "height": "84",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-auto w-full max-w-[160px] object-contain",
+        "style": "color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(\"data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 84'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3CfeColorMatrix values='1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 100 -1' result='s'/%3E%3CfeFlood x='0' y='0' width='100%25' height='100%25'/%3E%3CfeComposite operator='out' in='s'/%3E%3CfeComposite in2='SourceGraphic'/%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage width='100%25' height='100%25' x='0' y='0' preserveAspectRatio='none' style='filter: url(%23b);' href='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iMTEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9IiNmNGY1ZjYiLz4KICAgIDwvc3ZnPg=='/%3E%3C/svg%3E\")",
+        "sizes": "(max-width: 640px) 120px, (max-width: 1024px) 150px, 180px",
+        "srcset": "/img/f/328957/300x84/c3c25b9c74/electronics-logo.png/m/16x0/smart/filters:quality(85):format(webp) 16w, /img/f/328957/300x84/c3c25b9c74/electronics-logo.png/m/32x0/smart/filters:quality(85):format(webp) 32w, /img/f/328957/300x84/c3c25b9c74/electronics-logo.png/m/48x0/smart/filters:quality(85):format(webp) 48w, /img/f/328957/300x84/c3c25b9c74/electronics-logo.png/m/64x0/smart/filters:quality(85):format(webp) 64w, /img/f/328957/300x84/c3c25b9c74/electronics-logo.png/m/96x0/smart/filters:quality(85):format(webp) 96w, /img/f/328957/300x84/c3c25b9c74/electronics-logo.png/m/128x0/smart/filters:quality(85):format(webp) 128w, /img/f/328957/300x84/c3c25b9c74/electronics-logo.png/m/256x0/smart/filters:quality(85):format(webp) 256w, /img/f/328957/300x84/c3c25b9c74/electronics-logo.png/m/300x0/smart/filters:quality(85):format(webp) 384w, /img/f/328957/300x84/c3c25b9c74/electronics-logo.png/m/300x0/smart/filters:quality(85):format(webp) 640w, /img/f/328957/300x84/c3c25b9c74/electronics-logo.png/m/300x0/smart/filters:quality(85):format(webp) 750w, /img/f/328957/300x84/c3c25b9c74/electronics-logo.png/m/300x0/smart/filters:quality(85):format(webp) 828w, /img/f/328957/300x84/c3c25b9c74/electronics-logo.png/m/300x0/smart/filters:quality(85):format(webp) 1080w, /img/f/328957/300x84/c3c25b9c74/electronics-logo.png/m/300x0/smart/filters:quality(85):format(webp) 1200w, /img/f/328957/300x84/c3c25b9c74/electronics-logo.png/m/300x0/smart/filters:quality(85):format(webp) 1440w, /img/f/328957/300x84/c3c25b9c74/electronics-logo.png/m/300x0/smart/filters:quality(85):format(webp) 1920w",
+        "src": "/img/f/328957/300x84/c3c25b9c74/electronics-logo.png/m/300x0/smart/filters:quality(85):format(webp)"
+      },
+      {
+        "alt": "Logo 3",
+        "loading": "lazy",
+        "width": "300",
+        "height": "84",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-auto w-full max-w-[160px] object-contain",
+        "style": "color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(\"data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 84'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3CfeColorMatrix values='1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 100 -1' result='s'/%3E%3CfeFlood x='0' y='0' width='100%25' height='100%25'/%3E%3CfeComposite operator='out' in='s'/%3E%3CfeComposite in2='SourceGraphic'/%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage width='100%25' height='100%25' x='0' y='0' preserveAspectRatio='none' style='filter: url(%23b);' href='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iMTEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9IiNmNGY1ZjYiLz4KICAgIDwvc3ZnPg=='/%3E%3C/svg%3E\")",
+        "sizes": "(max-width: 640px) 120px, (max-width: 1024px) 150px, 180px",
+        "srcset": "/img/f/328957/300x84/32d1620a97/camlin-logo.png/m/16x0/smart/filters:quality(85):format(webp) 16w, /img/f/328957/300x84/32d1620a97/camlin-logo.png/m/32x0/smart/filters:quality(85):format(webp) 32w, /img/f/328957/300x84/32d1620a97/camlin-logo.png/m/48x0/smart/filters:quality(85):format(webp) 48w, /img/f/328957/300x84/32d1620a97/camlin-logo.png/m/64x0/smart/filters:quality(85):format(webp) 64w, /img/f/328957/300x84/32d1620a97/camlin-logo.png/m/96x0/smart/filters:quality(85):format(webp) 96w, /img/f/328957/300x84/32d1620a97/camlin-logo.png/m/128x0/smart/filters:quality(85):format(webp) 128w, /img/f/328957/300x84/32d1620a97/camlin-logo.png/m/256x0/smart/filters:quality(85):format(webp) 256w, /img/f/328957/300x84/32d1620a97/camlin-logo.png/m/300x0/smart/filters:quality(85):format(webp) 384w, /img/f/328957/300x84/32d1620a97/camlin-logo.png/m/300x0/smart/filters:quality(85):format(webp) 640w, /img/f/328957/300x84/32d1620a97/camlin-logo.png/m/300x0/smart/filters:quality(85):format(webp) 750w, /img/f/328957/300x84/32d1620a97/camlin-logo.png/m/300x0/smart/filters:quality(85):format(webp) 828w, /img/f/328957/300x84/32d1620a97/camlin-logo.png/m/300x0/smart/filters:quality(85):format(webp) 1080w, /img/f/328957/300x84/32d1620a97/camlin-logo.png/m/300x0/smart/filters:quality(85):format(webp) 1200w, /img/f/328957/300x84/32d1620a97/camlin-logo.png/m/300x0/smart/filters:quality(85):format(webp) 1440w, /img/f/328957/300x84/32d1620a97/camlin-logo.png/m/300x0/smart/filters:quality(85):format(webp) 1920w",
+        "src": "/img/f/328957/300x84/32d1620a97/camlin-logo.png/m/300x0/smart/filters:quality(85):format(webp)"
+      },
+      {
+        "alt": "Logo 4",
+        "loading": "lazy",
+        "width": "300",
+        "height": "84",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-auto w-full max-w-[160px] object-contain",
+        "style": "color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(\"data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 84'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3CfeColorMatrix values='1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 100 -1' result='s'/%3E%3CfeFlood x='0' y='0' width='100%25' height='100%25'/%3E%3CfeComposite operator='out' in='s'/%3E%3CfeComposite in2='SourceGraphic'/%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage width='100%25' height='100%25' x='0' y='0' preserveAspectRatio='none' style='filter: url(%23b);' href='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iMTEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9IiNmNGY1ZjYiLz4KICAgIDwvc3ZnPg=='/%3E%3C/svg%3E\")",
+        "sizes": "(max-width: 640px) 120px, (max-width: 1024px) 150px, 180px",
+        "srcset": "/img/f/328957/300x84/e895c3b651/boston-scientific-logo.png/m/16x0/smart/filters:quality(85):format(webp) 16w, /img/f/328957/300x84/e895c3b651/boston-scientific-logo.png/m/32x0/smart/filters:quality(85):format(webp) 32w, /img/f/328957/300x84/e895c3b651/boston-scientific-logo.png/m/48x0/smart/filters:quality(85):format(webp) 48w, /img/f/328957/300x84/e895c3b651/boston-scientific-logo.png/m/64x0/smart/filters:quality(85):format(webp) 64w, /img/f/328957/300x84/e895c3b651/boston-scientific-logo.png/m/96x0/smart/filters:quality(85):format(webp) 96w, /img/f/328957/300x84/e895c3b651/boston-scientific-logo.png/m/128x0/smart/filters:quality(85):format(webp) 128w, /img/f/328957/300x84/e895c3b651/boston-scientific-logo.png/m/256x0/smart/filters:quality(85):format(webp) 256w, /img/f/328957/300x84/e895c3b651/boston-scientific-logo.png/m/300x0/smart/filters:quality(85):format(webp) 384w, /img/f/328957/300x84/e895c3b651/boston-scientific-logo.png/m/300x0/smart/filters:quality(85):format(webp) 640w, /img/f/328957/300x84/e895c3b651/boston-scientific-logo.png/m/300x0/smart/filters:quality(85):format(webp) 750w, /img/f/328957/300x84/e895c3b651/boston-scientific-logo.png/m/300x0/smart/filters:quality(85):format(webp) 828w, /img/f/328957/300x84/e895c3b651/boston-scientific-logo.png/m/300x0/smart/filters:quality(85):format(webp) 1080w, /img/f/328957/300x84/e895c3b651/boston-scientific-logo.png/m/300x0/smart/filters:quality(85):format(webp) 1200w, /img/f/328957/300x84/e895c3b651/boston-scientific-logo.png/m/300x0/smart/filters:quality(85):format(webp) 1440w, /img/f/328957/300x84/e895c3b651/boston-scientific-logo.png/m/300x0/smart/filters:quality(85):format(webp) 1920w",
+        "src": "/img/f/328957/300x84/e895c3b651/boston-scientific-logo.png/m/300x0/smart/filters:quality(85):format(webp)"
+      },
+      {
+        "alt": "Logo 5",
+        "loading": "lazy",
+        "width": "300",
+        "height": "84",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-auto w-full max-w-[160px] object-contain",
+        "style": "color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(\"data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 300 84'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3CfeColorMatrix values='1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 100 -1' result='s'/%3E%3CfeFlood x='0' y='0' width='100%25' height='100%25'/%3E%3CfeComposite operator='out' in='s'/%3E%3CfeComposite in2='SourceGraphic'/%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage width='100%25' height='100%25' x='0' y='0' preserveAspectRatio='none' style='filter: url(%23b);' href='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iMTEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9IiNmNGY1ZjYiLz4KICAgIDwvc3ZnPg=='/%3E%3C/svg%3E\")",
+        "sizes": "(max-width: 640px) 120px, (max-width: 1024px) 150px, 180px",
+        "srcset": "/img/f/328957/300x84/1f2ffe373a/automated-logic-logo.png/m/16x0/smart/filters:quality(85):format(webp) 16w, /img/f/328957/300x84/1f2ffe373a/automated-logic-logo.png/m/32x0/smart/filters:quality(85):format(webp) 32w, /img/f/328957/300x84/1f2ffe373a/automated-logic-logo.png/m/48x0/smart/filters:quality(85):format(webp) 48w, /img/f/328957/300x84/1f2ffe373a/automated-logic-logo.png/m/64x0/smart/filters:quality(85):format(webp) 64w, /img/f/328957/300x84/1f2ffe373a/automated-logic-logo.png/m/96x0/smart/filters:quality(85):format(webp) 96w, /img/f/328957/300x84/1f2ffe373a/automated-logic-logo.png/m/128x0/smart/filters:quality(85):format(webp) 128w, /img/f/328957/300x84/1f2ffe373a/automated-logic-logo.png/m/256x0/smart/filters:quality(85):format(webp) 256w, /img/f/328957/300x84/1f2ffe373a/automated-logic-logo.png/m/300x0/smart/filters:quality(85):format(webp) 384w, /img/f/328957/300x84/1f2ffe373a/automated-logic-logo.png/m/300x0/smart/filters:quality(85):format(webp) 640w, /img/f/328957/300x84/1f2ffe373a/automated-logic-logo.png/m/300x0/smart/filters:quality(85):format(webp) 750w, /img/f/328957/300x84/1f2ffe373a/automated-logic-logo.png/m/300x0/smart/filters:quality(85):format(webp) 828w, /img/f/328957/300x84/1f2ffe373a/automated-logic-logo.png/m/300x0/smart/filters:quality(85):format(webp) 1080w, /img/f/328957/300x84/1f2ffe373a/automated-logic-logo.png/m/300x0/smart/filters:quality(85):format(webp) 1200w, /img/f/328957/300x84/1f2ffe373a/automated-logic-logo.png/m/300x0/smart/filters:quality(85):format(webp) 1440w, /img/f/328957/300x84/1f2ffe373a/automated-logic-logo.png/m/300x0/smart/filters:quality(85):format(webp) 1920w",
+        "src": "/img/f/328957/300x84/1f2ffe373a/automated-logic-logo.png/m/300x0/smart/filters:quality(85):format(webp)"
+      },
+      {
+        "alt": "Red \"Honeywell\" logo on a transparent background.",
+        "loading": "lazy",
+        "width": "212",
+        "height": "60",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-auto w-full max-w-[106px]",
+        "style": "color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(\"data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 212 60'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3CfeColorMatrix values='1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 100 -1' result='s'/%3E%3CfeFlood x='0' y='0' width='100%25' height='100%25'/%3E%3CfeComposite operator='out' in='s'/%3E%3CfeComposite in2='SourceGraphic'/%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage width='100%25' height='100%25' x='0' y='0' preserveAspectRatio='none' style='filter: url(%23b);' href='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iMTEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9IiNmNGY1ZjYiLz4KICAgIDwvc3ZnPg=='/%3E%3C/svg%3E\")",
+        "sizes": "(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "srcset": "/img/f/328957/212x60/58e4193240/honeywell-logo-testimonial.png/m/212x0/smart/filters:quality(85):format(webp) 256w, /img/f/328957/212x60/58e4193240/honeywell-logo-testimonial.png/m/212x0/smart/filters:quality(85):format(webp) 384w, /img/f/328957/212x60/58e4193240/honeywell-logo-testimonial.png/m/212x0/smart/filters:quality(85):format(webp) 640w, /img/f/328957/212x60/58e4193240/honeywell-logo-testimonial.png/m/212x0/smart/filters:quality(85):format(webp) 750w, /img/f/328957/212x60/58e4193240/honeywell-logo-testimonial.png/m/212x0/smart/filters:quality(85):format(webp) 828w, /img/f/328957/212x60/58e4193240/honeywell-logo-testimonial.png/m/212x0/smart/filters:quality(85):format(webp) 1080w, /img/f/328957/212x60/58e4193240/honeywell-logo-testimonial.png/m/212x0/smart/filters:quality(85):format(webp) 1200w, /img/f/328957/212x60/58e4193240/honeywell-logo-testimonial.png/m/212x0/smart/filters:quality(85):format(webp) 1440w, /img/f/328957/212x60/58e4193240/honeywell-logo-testimonial.png/m/212x0/smart/filters:quality(85):format(webp) 1920w",
+        "src": "/img/f/328957/212x60/58e4193240/honeywell-logo-testimonial.png/m/212x0/smart/filters:quality(85):format(webp)"
+      },
+      {
+        "alt": "Logo of TT Electronics featuring a blue circle with \"TT\" inside and \"Electronics\" in black text to the right.",
+        "loading": "lazy",
+        "width": "212",
+        "height": "60",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-auto w-full max-w-[106px]",
+        "style": "color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(\"data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 212 60'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3CfeColorMatrix values='1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 100 -1' result='s'/%3E%3CfeFlood x='0' y='0' width='100%25' height='100%25'/%3E%3CfeComposite operator='out' in='s'/%3E%3CfeComposite in2='SourceGraphic'/%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage width='100%25' height='100%25' x='0' y='0' preserveAspectRatio='none' style='filter: url(%23b);' href='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iMTEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9IiNmNGY1ZjYiLz4KICAgIDwvc3ZnPg=='/%3E%3C/svg%3E\")",
+        "sizes": "(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "srcset": "/img/f/328957/212x60/0f413766fa/electronics-logo-testimonial.png/m/212x0/smart/filters:quality(85):format(webp) 256w, /img/f/328957/212x60/0f413766fa/electronics-logo-testimonial.png/m/212x0/smart/filters:quality(85):format(webp) 384w, /img/f/328957/212x60/0f413766fa/electronics-logo-testimonial.png/m/212x0/smart/filters:quality(85):format(webp) 640w, /img/f/328957/212x60/0f413766fa/electronics-logo-testimonial.png/m/212x0/smart/filters:quality(85):format(webp) 750w, /img/f/328957/212x60/0f413766fa/electronics-logo-testimonial.png/m/212x0/smart/filters:quality(85):format(webp) 828w, /img/f/328957/212x60/0f413766fa/electronics-logo-testimonial.png/m/212x0/smart/filters:quality(85):format(webp) 1080w, /img/f/328957/212x60/0f413766fa/electronics-logo-testimonial.png/m/212x0/smart/filters:quality(85):format(webp) 1200w, /img/f/328957/212x60/0f413766fa/electronics-logo-testimonial.png/m/212x0/smart/filters:quality(85):format(webp) 1440w, /img/f/328957/212x60/0f413766fa/electronics-logo-testimonial.png/m/212x0/smart/filters:quality(85):format(webp) 1920w",
+        "src": "/img/f/328957/212x60/0f413766fa/electronics-logo-testimonial.png/m/212x0/smart/filters:quality(85):format(webp)"
+      },
+      {
+        "alt": "Red and black \"Tech Logic\" logo with a curved red swoosh above the \"T\".",
+        "loading": "lazy",
+        "width": "5000",
+        "height": "1637",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-auto w-full max-w-[106px]",
+        "style": "color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(\"data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 5000 1637'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3CfeColorMatrix values='1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 100 -1' result='s'/%3E%3CfeFlood x='0' y='0' width='100%25' height='100%25'/%3E%3CfeComposite operator='out' in='s'/%3E%3CfeComposite in2='SourceGraphic'/%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage width='100%25' height='100%25' x='0' y='0' preserveAspectRatio='none' style='filter: url(%23b);' href='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iMTMiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9IiNmNGY1ZjYiLz4KICAgIDwvc3ZnPg=='/%3E%3C/svg%3E\")",
+        "sizes": "(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "srcset": "/img/f/328957/5000x1637/5841769b7c/automated_logic_logo.png/m/256x0/smart/filters:quality(85):format(webp) 256w, /img/f/328957/5000x1637/5841769b7c/automated_logic_logo.png/m/384x0/smart/filters:quality(85):format(webp) 384w, /img/f/328957/5000x1637/5841769b7c/automated_logic_logo.png/m/640x0/smart/filters:quality(85):format(webp) 640w, /img/f/328957/5000x1637/5841769b7c/automated_logic_logo.png/m/750x0/smart/filters:quality(85):format(webp) 750w, /img/f/328957/5000x1637/5841769b7c/automated_logic_logo.png/m/828x0/smart/filters:quality(70):format(webp) 828w, /img/f/328957/5000x1637/5841769b7c/automated_logic_logo.png/m/1080x0/smart/filters:quality(70):format(webp) 1080w, /img/f/328957/5000x1637/5841769b7c/automated_logic_logo.png/m/1200x0/smart/filters:quality(70):format(webp) 1200w, /img/f/328957/5000x1637/5841769b7c/automated_logic_logo.png/m/1440x0/smart/filters:quality(70):format(webp) 1440w, /img/f/328957/5000x1637/5841769b7c/automated_logic_logo.png/m/1920x0/smart/filters:quality(70):format(webp) 1920w",
+        "src": "/img/f/328957/5000x1637/5841769b7c/automated_logic_logo.png/m/1920x0/smart/filters:quality(70):format(webp)"
+      },
+      {
+        "alt": "Blue Teleflex logo with stylized \"T\" and \"F\" design elements and registered trademark symbol.",
+        "loading": "lazy",
+        "width": "2560",
+        "height": "387",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-auto w-full max-w-[106px]",
+        "style": "color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(\"data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 2560 387'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3CfeColorMatrix values='1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 100 -1' result='s'/%3E%3CfeFlood x='0' y='0' width='100%25' height='100%25'/%3E%3CfeComposite operator='out' in='s'/%3E%3CfeComposite in2='SourceGraphic'/%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage width='100%25' height='100%25' x='0' y='0' preserveAspectRatio='none' style='filter: url(%23b);' href='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iNiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICAgICAgPHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgZmlsbD0iI2Y0ZjVmNiIvPgogICAgPC9zdmc+'/%3E%3C/svg%3E\")",
+        "sizes": "(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "srcset": "/img/f/328957/2560x387/7df2f4448b/teleflex_logo-svg.png/m/256x0/smart/filters:quality(85):format(webp) 256w, /img/f/328957/2560x387/7df2f4448b/teleflex_logo-svg.png/m/384x0/smart/filters:quality(85):format(webp) 384w, /img/f/328957/2560x387/7df2f4448b/teleflex_logo-svg.png/m/640x0/smart/filters:quality(85):format(webp) 640w, /img/f/328957/2560x387/7df2f4448b/teleflex_logo-svg.png/m/750x0/smart/filters:quality(85):format(webp) 750w, /img/f/328957/2560x387/7df2f4448b/teleflex_logo-svg.png/m/828x0/smart/filters:quality(70):format(webp) 828w, /img/f/328957/2560x387/7df2f4448b/teleflex_logo-svg.png/m/1080x0/smart/filters:quality(70):format(webp) 1080w, /img/f/328957/2560x387/7df2f4448b/teleflex_logo-svg.png/m/1200x0/smart/filters:quality(70):format(webp) 1200w, /img/f/328957/2560x387/7df2f4448b/teleflex_logo-svg.png/m/1440x0/smart/filters:quality(70):format(webp) 1440w, /img/f/328957/2560x387/7df2f4448b/teleflex_logo-svg.png/m/1920x0/smart/filters:quality(70):format(webp) 1920w",
+        "src": "/img/f/328957/2560x387/7df2f4448b/teleflex_logo-svg.png/m/1920x0/smart/filters:quality(70):format(webp)"
+      },
+      {
+        "alt": "",
+        "loading": "lazy",
+        "width": "212",
+        "height": "60",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-auto w-full max-w-[106px]",
+        "style": "color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(\"data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 212 60'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3CfeColorMatrix values='1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 100 -1' result='s'/%3E%3CfeFlood x='0' y='0' width='100%25' height='100%25'/%3E%3CfeComposite operator='out' in='s'/%3E%3CfeComposite in2='SourceGraphic'/%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage width='100%25' height='100%25' x='0' y='0' preserveAspectRatio='none' style='filter: url(%23b);' href='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iMTEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9IiNmNGY1ZjYiLz4KICAgIDwvc3ZnPg=='/%3E%3C/svg%3E\")",
+        "sizes": "(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "srcset": "/img/f/328957/212x60/f7025afe6a/genentech-testimonial-logo-1.svg 256w, /img/f/328957/212x60/f7025afe6a/genentech-testimonial-logo-1.svg 384w, /img/f/328957/212x60/f7025afe6a/genentech-testimonial-logo-1.svg 640w, /img/f/328957/212x60/f7025afe6a/genentech-testimonial-logo-1.svg 750w, /img/f/328957/212x60/f7025afe6a/genentech-testimonial-logo-1.svg 828w, /img/f/328957/212x60/f7025afe6a/genentech-testimonial-logo-1.svg 1080w, /img/f/328957/212x60/f7025afe6a/genentech-testimonial-logo-1.svg 1200w, /img/f/328957/212x60/f7025afe6a/genentech-testimonial-logo-1.svg 1440w, /img/f/328957/212x60/f7025afe6a/genentech-testimonial-logo-1.svg 1920w",
+        "src": "/img/f/328957/212x60/f7025afe6a/genentech-testimonial-logo-1.svg"
+      },
+      {
+        "alt": "Red \"Honeywell\" logo on a transparent background.",
+        "loading": "lazy",
+        "width": "212",
+        "height": "60",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-auto w-full max-w-[106px]",
+        "style": "color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(\"data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 212 60'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3CfeColorMatrix values='1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 100 -1' result='s'/%3E%3CfeFlood x='0' y='0' width='100%25' height='100%25'/%3E%3CfeComposite operator='out' in='s'/%3E%3CfeComposite in2='SourceGraphic'/%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage width='100%25' height='100%25' x='0' y='0' preserveAspectRatio='none' style='filter: url(%23b);' href='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iMTEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9IiNmNGY1ZjYiLz4KICAgIDwvc3ZnPg=='/%3E%3C/svg%3E\")",
+        "sizes": "(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "srcset": "/img/f/328957/212x60/58e4193240/honeywell-logo-testimonial.png/m/212x0/smart/filters:quality(85):format(webp) 256w, /img/f/328957/212x60/58e4193240/honeywell-logo-testimonial.png/m/212x0/smart/filters:quality(85):format(webp) 384w, /img/f/328957/212x60/58e4193240/honeywell-logo-testimonial.png/m/212x0/smart/filters:quality(85):format(webp) 640w, /img/f/328957/212x60/58e4193240/honeywell-logo-testimonial.png/m/212x0/smart/filters:quality(85):format(webp) 750w, /img/f/328957/212x60/58e4193240/honeywell-logo-testimonial.png/m/212x0/smart/filters:quality(85):format(webp) 828w, /img/f/328957/212x60/58e4193240/honeywell-logo-testimonial.png/m/212x0/smart/filters:quality(85):format(webp) 1080w, /img/f/328957/212x60/58e4193240/honeywell-logo-testimonial.png/m/212x0/smart/filters:quality(85):format(webp) 1200w, /img/f/328957/212x60/58e4193240/honeywell-logo-testimonial.png/m/212x0/smart/filters:quality(85):format(webp) 1440w, /img/f/328957/212x60/58e4193240/honeywell-logo-testimonial.png/m/212x0/smart/filters:quality(85):format(webp) 1920w",
+        "src": "/img/f/328957/212x60/58e4193240/honeywell-logo-testimonial.png/m/212x0/smart/filters:quality(85):format(webp)"
+      },
+      {
+        "alt": "",
+        "loading": "lazy",
+        "width": "212",
+        "height": "60",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-auto w-full max-w-[106px]",
+        "style": "color:transparent;background-size:cover;background-position:50% 50%;background-repeat:no-repeat;background-image:url(\"data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 212 60'%3E%3Cfilter id='b' color-interpolation-filters='sRGB'%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3CfeColorMatrix values='1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 100 -1' result='s'/%3E%3CfeFlood x='0' y='0' width='100%25' height='100%25'/%3E%3CfeComposite operator='out' in='s'/%3E%3CfeComposite in2='SourceGraphic'/%3E%3CfeGaussianBlur stdDeviation='20'/%3E%3C/filter%3E%3Cimage width='100%25' height='100%25' x='0' y='0' preserveAspectRatio='none' style='filter: url(%23b);' href='data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNDAiIGhlaWdodD0iMTEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CiAgICAgIDxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9IiNmNGY1ZjYiLz4KICAgIDwvc3ZnPg=='/%3E%3C/svg%3E\")",
+        "sizes": "(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "srcset": "/img/f/328957/212x60/a38cf9be77/mds-aero-logo-white-background.svg 256w, /img/f/328957/212x60/a38cf9be77/mds-aero-logo-white-background.svg 384w, /img/f/328957/212x60/a38cf9be77/mds-aero-logo-white-background.svg 640w, /img/f/328957/212x60/a38cf9be77/mds-aero-logo-white-background.svg 750w, /img/f/328957/212x60/a38cf9be77/mds-aero-logo-white-background.svg 828w, /img/f/328957/212x60/a38cf9be77/mds-aero-logo-white-background.svg 1080w, /img/f/328957/212x60/a38cf9be77/mds-aero-logo-white-background.svg 1200w, /img/f/328957/212x60/a38cf9be77/mds-aero-logo-white-background.svg 1440w, /img/f/328957/212x60/a38cf9be77/mds-aero-logo-white-background.svg 1920w",
+        "src": "/img/f/328957/212x60/a38cf9be77/mds-aero-logo-white-background.svg"
+      },
+      {
+        "alt": "Cora Systems Logo",
+        "loading": "lazy",
+        "width": "530",
+        "height": "90",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-auto w-auto max-w-[322px]",
+        "style": "color:transparent",
+        "src": "/_next/static/media/cora-logo-footer.023943a8.svg"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-191/49ed464aa9daf9b5.txt"
+  },
+  {
+    "id": "4262ca21d270caac",
+    "name": "Core Lifting of Lafayette, LLC",
+    "requested_url": "https://corelifting.com/",
+    "status": 200,
+    "final_url": "https://corelifting.com/",
+    "text_chars": 110,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-191/4262ca21d270caac.txt"
+  },
+  {
+    "id": "a7edd2e919ff3a68",
+    "name": "CoreCivic (formerly CCA of Tennessee)",
+    "requested_url": "https://www.corecivic.com/",
+    "status": 200,
+    "final_url": "https://www.corecivic.com/",
+    "text_chars": 4722,
+    "logo_candidates": [
+      {
+        "src": "https://www.corecivic.com/hs-fs/hubfs/_global_layout/CoreCivic-LOGO-new.png?width=440&height=106&name=CoreCivic-LOGO-new.png",
+        "alt": "CoreCivic logo",
+        "width": "440",
+        "height": "106",
+        "srcset": "https://www.corecivic.com/hs-fs/hubfs/_global_layout/CoreCivic-LOGO-new.png?width=220&height=53&name=CoreCivic-LOGO-new.png 220w, https://www.corecivic.com/hs-fs/hubfs/_global_layout/CoreCivic-LOGO-new.png?width=440&height=106&name=CoreCivic-LOGO-new.png 440w, https://www.corecivic.com/hs-fs/hubfs/_global_layout/CoreCivic-LOGO-new.png?width=660&height=159&name=CoreCivic-LOGO-new.png 660w, https://www.corecivic.com/hs-fs/hubfs/_global_layout/CoreCivic-LOGO-new.png?width=880&height=212&name=CoreCivic-LOGO-new.png 880w, https://www.corecivic.com/hs-fs/hubfs/_global_layout/CoreCivic-LOGO-new.png?width=1100&height=265&name=CoreCivic-LOGO-new.png 1100w, https://www.corecivic.com/hs-fs/hubfs/_global_layout/CoreCivic-LOGO-new.png?width=1320&height=318&name=CoreCivic-LOGO-new.png 1320w",
+        "sizes": "(max-width: 440px) 100vw, 440px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-191/a7edd2e919ff3a68.txt"
+  },
+  {
+    "id": "3cbed33f12187685",
+    "name": "Corfin Holdings Inc., doing business as Micross",
+    "requested_url": "https://www.micross.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "fb4f193197dde185",
+    "name": "Google Client Services LLC (via Cornerstone Government Affairs)",
+    "requested_url": "https://about.google/",
+    "status": 200,
+    "final_url": "https://about.google/",
+    "text_chars": 1670,
+    "logo_candidates": [
+      {
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/f5/d3/a7f9db7045429cb6dc6be56bdcbe/google-logo-about.svg",
+        "alt": "Google logo"
+      },
+      {
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/f5/d3/a7f9db7045429cb6dc6be56bdcbe/google-logo-about.svg",
+        "alt": "Google logo"
+      },
+      {
+        "class": "image",
+        "data-alt-override": "false",
+        "alt": "The Google logo, a capital \u201cG\u201d in red, yellow, green and blue.",
+        "srcset": "https://www.gstatic.com/marketing-cms/assets/images/5b/b0/3a62c7b4486e943fceeeb3fe90df/g-about-gatg.png=n-w64-h65-fcrop64=1,000005f5ffffffff-rw 1x,https://www.gstatic.com/marketing-cms/assets/images/5b/b0/3a62c7b4486e943fceeeb3fe90df/g-about-gatg.png=n-w128-h131-fcrop64=1,000005f5ffffffff-rw 2x",
+        "width": "64",
+        "height": "64",
+        "fetchpriority": "",
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/5b/b0/3a62c7b4486e943fceeeb3fe90df/g-about-gatg.png=n-w64-h65-fcrop64=1,000005f5ffffffff-rw"
+      },
+      {
+        "src": "https://www.gstatic.com/marketing-cms/assets/images/b3/a5/529a3d3047d18be9a5f3547ad7e3/google-logo-footer.svg",
+        "alt": "Google logo in dark gray"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-191/fb4f193197dde185.txt"
+  },
+  {
+    "id": "527c98141e19bf10",
+    "name": "Corrigan & Ussery on Behalf of Dewberry Engineers",
+    "requested_url": "https://www.dewberry.com/",
+    "status": 200,
+    "final_url": "https://www.dewberry.com/",
+    "text_chars": 2765,
+    "logo_candidates": [
+      {
+        "src": "/images/default-source/site-assets/logos/dewberry-logo.png?sfvrsn=ba9ba825_0",
+        "srcset": "/images/default-source/site-assets/dewberry-logo.png 1x,\n/images/default-source/site-assets/dewberry-logo@2x.png 2x, \n/images/default-source/site-assets/dewberry-logo@3x.png 3x",
+        "alt": "Dewberry Logo",
+        "sfref": "[images%7COpenAccessDataProvider]1eadee17-c236-4657-a3d1-66194a173c65",
+        "data-sf-ec-immutable": ""
+      },
+      {
+        "src": "/images/default-source/site-assets/logos/dewberry-logo-white.png?sfvrsn=3d77cb31_0",
+        "height": "29",
+        "title": "dewberry-logo-white",
+        "data-displaymode": "Original",
+        "alt": "dewberry-logo-white",
+        "width": "189"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-191/527c98141e19bf10.txt"
+  },
+  {
+    "id": "0f8be2974526fc5d",
+    "name": "Cotulla Acquisitionco O/b/o Aviation Institute of Maintenance",
+    "requested_url": "https://aviationmaintenance.edu/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "d04713975cf62985",
+    "name": "Council of Michigan Foundations",
+    "requested_url": "https://www.michiganfoundations.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "ed3eb2cace8b5822",
+    "name": "Credit.com (formerly Progrexion ASG)",
+    "requested_url": "https://credit.com/",
+    "status": 200,
+    "final_url": "https://credit.com/",
+    "text_chars": 7319,
+    "logo_candidates": [
+      {
+        "src": "https://credit.com/hubfs/raw_assets/public/ccom-theme/assets/images/Logo/logo_lg_svg.svg",
+        "alt": "Logo",
+        "class": "logo-icon",
+        "aria-hidden": "true",
+        "width": "170",
+        "height": "36"
+      },
+      {
+        "class": "cc_mobilelogo_image",
+        "src": "https://credit.com/hubfs/raw_assets/public/ccom-theme/assets/images/Logo/logo_lg_svg.svg",
+        "alt": "Credit.com Logo",
+        "aria-hidden": "true",
+        "width": "117",
+        "height": "24"
+      },
+      {
+        "class": "forbes-logo",
+        "alt": "forbes-logo",
+        "src": "https://credit.com/hubfs/raw_assets/public/ccom-theme/assets/images/pages/Home/Forbes_logo.svg",
+        "width": "179",
+        "height": "48"
+      },
+      {
+        "class": "wsj-logo",
+        "alt": "wsj-logo",
+        "src": "https://credit.com/hubfs/raw_assets/public/ccom-theme/assets/images/pages/Home/wsj.svg",
+        "width": "83",
+        "height": "48"
+      },
+      {
+        "class": "nerdwallet",
+        "alt": "nerdwallet",
+        "src": "https://credit.com/hubfs/raw_assets/public/ccom-theme/assets/images/pages/Home/Nerdwallet_Horizontal_Logo.svg",
+        "height": "48"
+      },
+      {
+        "class": "nerdwallet",
+        "alt": "nerdwallet",
+        "src": "https://credit.com/hubfs/raw_assets/public/ccom-theme/assets/images/pages/Home/Nerdwallet_Horizontal_Logo.svg",
+        "height": "48"
+      },
+      {
+        "class": "wsj-logo",
+        "alt": "wsj-logo",
+        "src": "https://credit.com/hubfs/raw_assets/public/ccom-theme/assets/images/pages/Home/wsj.svg",
+        "width": "83",
+        "height": "48"
+      },
+      {
+        "class": "forbes-logo",
+        "alt": "forbes-logo",
+        "src": "https://credit.com/hubfs/raw_assets/public/ccom-theme/assets/images/pages/Home/Forbes_logo.svg",
+        "width": "179",
+        "height": "48"
+      },
+      {
+        "src": "https://credit.com/hs-fs/hubfs/logo_footer_white.png?width=235&height=48&name=logo_footer_white.png",
+        "alt": "Logo",
+        "aria-hidden": "true",
+        "height": "48",
+        "width": "235",
+        "loading": "lazy",
+        "srcset": "https://credit.com/hs-fs/hubfs/logo_footer_white.png?width=118&height=24&name=logo_footer_white.png 118w, https://credit.com/hs-fs/hubfs/logo_footer_white.png?width=235&height=48&name=logo_footer_white.png 235w, https://credit.com/hs-fs/hubfs/logo_footer_white.png?width=353&height=72&name=logo_footer_white.png 353w, https://credit.com/hs-fs/hubfs/logo_footer_white.png?width=470&height=96&name=logo_footer_white.png 470w, https://credit.com/hs-fs/hubfs/logo_footer_white.png?width=588&height=120&name=logo_footer_white.png 588w, https://credit.com/hs-fs/hubfs/logo_footer_white.png?width=705&height=144&name=logo_footer_white.png 705w",
+        "sizes": "(max-width: 235px) 100vw, 235px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-191/ed3eb2cace8b5822.txt"
+  },
+  {
+    "id": "a3eadaba44602e09",
+    "name": "Cross Domain Systems",
+    "requested_url": "https://www.crossdomainsystems.com/",
+    "status": 200,
+    "final_url": "https://www.crossdomainsystems.com/",
+    "text_chars": 2265,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-191/a3eadaba44602e09.txt"
+  },
+  {
+    "id": "0125e227c725bda2",
+    "name": "Crusoe Technologies (fka Crusoe Energy)",
+    "requested_url": "https://www.crusoe.ai/",
+    "status": 200,
+    "final_url": "https://www.crusoe.ai/",
+    "text_chars": 20823,
+    "logo_candidates": [
+      {
+        "width": "100",
+        "height": "50",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aac4a443df399fdc0063a8c_1x.png",
+        "loading": "eager",
+        "class": "partner-logo-image is-invert"
+      },
+      {
+        "width": "100",
+        "height": "50",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/69f9fedcfa3483a4fe27efaf_Fireworks%20Logo.png",
+        "loading": "eager",
+        "class": "partner-logo-image is-invert"
+      },
+      {
+        "width": "100",
+        "height": "50",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aac4a0831dba394faef5161_roboflow.png",
+        "loading": "eager",
+        "class": "partner-logo-image is-invert"
+      },
+      {
+        "width": "100",
+        "height": "50",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aac4a714c6ccece2aedc9a5_Together.png",
+        "loading": "eager",
+        "class": "partner-logo-image is-invert"
+      },
+      {
+        "width": "100",
+        "height": "50",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/69f9fbc3b669ebffba128d86_modal%20logo.png",
+        "loading": "eager",
+        "class": "partner-logo-image is-invert"
+      },
+      {
+        "width": "100",
+        "height": "50",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/69f9fc0a97e05139048c9280_baseten%20logo.png",
+        "loading": "eager",
+        "class": "partner-logo-image is-invert"
+      },
+      {
+        "width": "100",
+        "height": "50",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/69f9fc52acd4175cb7cc1933_Reflection%20%20logo.png",
+        "loading": "eager",
+        "class": "partner-logo-image is-invert"
+      },
+      {
+        "width": "100",
+        "height": "50",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/69f9fc7669d7c5eb152fa023_jasper%20logo.png",
+        "loading": "eager",
+        "class": "partner-logo-image is-invert"
+      },
+      {
+        "width": "100",
+        "height": "50",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/69f9fc98a44e01f90b492701_cartesia%20logo.png",
+        "loading": "eager",
+        "class": "partner-logo-image is-invert"
+      },
+      {
+        "width": "100",
+        "height": "50",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/69f9fcb2d4e7cfc371034c99_figure%20logo.png",
+        "loading": "eager",
+        "class": "partner-logo-image is-invert"
+      },
+      {
+        "width": "100",
+        "height": "50",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6a69d84c44b83fe51ff359f6_Odyssey%20Black.svg",
+        "loading": "eager",
+        "class": "partner-logo-image is-invert"
+      },
+      {
+        "width": "100",
+        "height": "50",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aac49de5af7edfc111ba51a_cognition.png",
+        "loading": "eager",
+        "class": "partner-logo-image is-invert"
+      },
+      {
+        "width": "100",
+        "height": "50",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/69fcdadb75f228c93bf1d4f7_image-3476%201.png",
+        "loading": "eager",
+        "class": "partner-logo-image is-invert"
+      },
+      {
+        "width": "100",
+        "height": "50",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6a5601a4263f9436c9495a78_Covariant%20logo.svg",
+        "loading": "eager",
+        "class": "partner-logo-image is-invert"
+      },
+      {
+        "width": "100",
+        "height": "50",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/69f9fde5c8d8945289a97e1b_synteny%20logo.png",
+        "loading": "eager",
+        "class": "partner-logo-image is-invert"
+      },
+      {
+        "width": "100",
+        "height": "50",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aac4a443df399fdc0063a8c_1x.png",
+        "loading": "eager",
+        "class": "partner-logo-image is-invert"
+      },
+      {
+        "width": "100",
+        "height": "50",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/69f9fedcfa3483a4fe27efaf_Fireworks%20Logo.png",
+        "loading": "eager",
+        "class": "partner-logo-image is-invert"
+      },
+      {
+        "width": "100",
+        "height": "50",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aac4a0831dba394faef5161_roboflow.png",
+        "loading": "eager",
+        "class": "partner-logo-image is-invert"
+      },
+      {
+        "width": "100",
+        "height": "50",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aac4a714c6ccece2aedc9a5_Together.png",
+        "loading": "eager",
+        "class": "partner-logo-image is-invert"
+      },
+      {
+        "width": "100",
+        "height": "50",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/69f9fbc3b669ebffba128d86_modal%20logo.png",
+        "loading": "eager",
+        "class": "partner-logo-image is-invert"
+      },
+      {
+        "width": "100",
+        "height": "50",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/69f9fc0a97e05139048c9280_baseten%20logo.png",
+        "loading": "eager",
+        "class": "partner-logo-image is-invert"
+      },
+      {
+        "width": "100",
+        "height": "50",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/69f9fc52acd4175cb7cc1933_Reflection%20%20logo.png",
+        "loading": "eager",
+        "class": "partner-logo-image is-invert"
+      },
+      {
+        "width": "100",
+        "height": "50",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/69f9fc7669d7c5eb152fa023_jasper%20logo.png",
+        "loading": "eager",
+        "class": "partner-logo-image is-invert"
+      },
+      {
+        "width": "100",
+        "height": "50",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/69f9fc98a44e01f90b492701_cartesia%20logo.png",
+        "loading": "eager",
+        "class": "partner-logo-image is-invert"
+      },
+      {
+        "width": "100",
+        "height": "50",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/69f9fcb2d4e7cfc371034c99_figure%20logo.png",
+        "loading": "eager",
+        "class": "partner-logo-image is-invert"
+      },
+      {
+        "width": "100",
+        "height": "50",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6a69d84c44b83fe51ff359f6_Odyssey%20Black.svg",
+        "loading": "eager",
+        "class": "partner-logo-image is-invert"
+      },
+      {
+        "width": "100",
+        "height": "50",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aac49de5af7edfc111ba51a_cognition.png",
+        "loading": "eager",
+        "class": "partner-logo-image is-invert"
+      },
+      {
+        "width": "100",
+        "height": "50",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/69fcdadb75f228c93bf1d4f7_image-3476%201.png",
+        "loading": "eager",
+        "class": "partner-logo-image is-invert"
+      },
+      {
+        "width": "100",
+        "height": "50",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6a5601a4263f9436c9495a78_Covariant%20logo.svg",
+        "loading": "eager",
+        "class": "partner-logo-image is-invert"
+      },
+      {
+        "width": "100",
+        "height": "50",
+        "alt": "",
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/69f9fde5c8d8945289a97e1b_synteny%20logo.png",
+        "loading": "eager",
+        "class": "partner-logo-image is-invert"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/69f96233dbdd090aecdf8552_logo%201.png",
+        "loading": "lazy",
+        "width": "100",
+        "alt": "",
+        "class": "service-icon-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/69f96233dbdd090aecdf8552_logo%201.png",
+        "loading": "lazy",
+        "width": "100",
+        "alt": "",
+        "class": "service-icon-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6a3b21e3627d49cdd598f1ac_691e6860b8dd069dae281bf4_Kimi%20K2%20logo.avif",
+        "loading": "lazy",
+        "width": "100",
+        "alt": "",
+        "class": "service-icon-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aab7bd4b95c43d3ea4ba661_Series%20E%20funding.jpg",
+        "loading": "lazy",
+        "width": "472",
+        "height": "262",
+        "alt": "Crusoe logo with \"Series F\" text and company logo",
+        "sizes": "(max-width: 479px) 100vw, 472px",
+        "srcset": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aab7bd4b95c43d3ea4ba661_Series%20E%20funding-p-500.jpg 500w, https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aab7bd4b95c43d3ea4ba661_Series%20E%20funding-p-800.jpg 800w, https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aab7bd4b95c43d3ea4ba661_Series%20E%20funding-p-1080.jpg 1080w, https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aab7bd4b95c43d3ea4ba661_Series%20E%20funding-p-1600.jpg 1600w, https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aab7bd4b95c43d3ea4ba661_Series%20E%20funding-p-2000.jpg 2000w, https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aab7bd4b95c43d3ea4ba661_Series%20E%20funding-p-2600.jpg 2600w, https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aab7bd4b95c43d3ea4ba661_Series%20E%20funding.jpg 3200w",
+        "class": "blog-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aac1b9763df382c91470a5d_Press%20Release%20Image-%20BoD%20New%20Members%20-%20FINAL.jpg",
+        "loading": "lazy",
+        "width": "472",
+        "height": "262",
+        "alt": "Crusoe logo with text stating \"meet our new board members\" and three headshots (Bill Stein, Thomas Seifert, JB Straubel)",
+        "sizes": "(max-width: 479px) 100vw, 472px",
+        "srcset": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aac1b9763df382c91470a5d_Press%20Release%20Image-%20BoD%20New%20Members%20-%20FINAL-p-500.jpg 500w, https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aac1b9763df382c91470a5d_Press%20Release%20Image-%20BoD%20New%20Members%20-%20FINAL-p-800.jpg 800w, https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aac1b9763df382c91470a5d_Press%20Release%20Image-%20BoD%20New%20Members%20-%20FINAL-p-1080.jpg 1080w, https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aac1b9763df382c91470a5d_Press%20Release%20Image-%20BoD%20New%20Members%20-%20FINAL.jpg 1200w",
+        "class": "blog-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aa863dfb7ab4c5a1a39caea_perplexity.jpg",
+        "loading": "lazy",
+        "width": "472",
+        "height": "262",
+        "alt": "A black rectangular card with a thin white outline displays the white logos for \"Crusoe\" and \"Perplexity\" separated by a vertical divider, centered over a colorful, grainy abstract background of dark blue and warm orange gradient hues.",
+        "sizes": "(max-width: 479px) 100vw, 472px",
+        "srcset": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aa863dfb7ab4c5a1a39caea_perplexity-p-500.jpg 500w, https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aa863dfb7ab4c5a1a39caea_perplexity-p-800.jpg 800w, https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aa863dfb7ab4c5a1a39caea_perplexity-p-1080.jpg 1080w, https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aa863dfb7ab4c5a1a39caea_perplexity-p-1600.jpg 1600w, https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aa863dfb7ab4c5a1a39caea_perplexity-p-2000.jpg 2000w, https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aa863dfb7ab4c5a1a39caea_perplexity.jpg 2400w",
+        "class": "blog-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aa7773a38eaf00f0150b83b_image%20(1).webp",
+        "loading": "lazy",
+        "width": "472",
+        "height": "262",
+        "alt": "High-angle view of Crusoe's 2nd Tulsa facility, a large, manufacturing warehouse facility featuring rows of tall industrial metal shelving stretching down a wide concrete aisle. In the foreground and mid-ground, several workers in casual work attire gather near metal equipment racks, modular workstations, and grey parts carts. Overhead, black signs hang along the aisle, with the closest sign prominently displaying the lime-green text Assembly Cell D above a white Crusoe logo and Tulsa label, with matching signs for other assembly cells receding into the distance.",
+        "sizes": "(max-width: 479px) 100vw, 472px",
+        "srcset": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aa7773a38eaf00f0150b83b_image%20(1)-p-500.webp 500w, https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aa7773a38eaf00f0150b83b_image%20(1)-p-800.webp 800w, https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aa7773a38eaf00f0150b83b_image%20(1)-p-1080.webp 1080w, https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aa7773a38eaf00f0150b83b_image%20(1)-p-1600.webp 1600w, https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aa7773a38eaf00f0150b83b_image%20(1).webp 1920w",
+        "class": "blog-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6a99a773f3c12b395673dbc5_6a5e763248badd3035629fdc_On%20energy_white%20logo%201.avif",
+        "loading": "lazy",
+        "width": "472",
+        "height": "262",
+        "alt": "Crusoe and ON.energy partnership",
+        "class": "blog-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6a99a74676dd2f64ae8ce495_6a57b460fc29a9e3ea457452_New%20Data%20Center%20Campus%20(1).avif",
+        "loading": "lazy",
+        "width": "472",
+        "height": "262",
+        "alt": "Illustration of the Crusoe and Lancium AI data center campus with data center buildings and wind turbines, Crusoe and Lancium logos above.",
+        "class": "blog-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6a99a69980d6b8d9d98645f5_69c61994909ddf363dad4f9e_Blog%201200x675%20(1).avif",
+        "loading": "lazy",
+        "width": "472",
+        "height": "262",
+        "alt": "Crusoe and Microsoft logos with design graphic in the background.",
+        "class": "blog-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/69c4312f634da51a00f339d5_ns_03.avif",
+        "loading": "lazy",
+        "width": "472",
+        "height": "262",
+        "alt": "Crusoe logo alongside Form Energy logo with nature in background",
+        "sizes": "(max-width: 479px) 100vw, 472px",
+        "srcset": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/69c4312f634da51a00f339d5_ns_03-p-500.avif 500w, https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/69c4312f634da51a00f339d5_ns_03-p-800.avif 800w, https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/69c4312f634da51a00f339d5_ns_03.avif 1200w",
+        "class": "blog-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/69c1af396fc0c1a9e3251a05_J538_Newsroom_F1.avif",
+        "loading": "lazy",
+        "width": "472",
+        "height": "262",
+        "alt": "Fast Company's Most Innovative Company award logo with a lightbulb icon.",
+        "sizes": "(max-width: 479px) 100vw, 472px",
+        "srcset": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/69c1af396fc0c1a9e3251a05_J538_Newsroom_F1-p-500.avif 500w, https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/69c1af396fc0c1a9e3251a05_J538_Newsroom_F1.avif 939w",
+        "class": "blog-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/699cacaf343ab920c76642c2_ISO%2027001%20and%20ISO%2042001%20Certifications.avif",
+        "loading": "lazy",
+        "width": "472",
+        "height": "262",
+        "alt": "ISO 27001 and ISO 42001 certification logos displayed on Crusoe branded graphic",
+        "sizes": "(max-width: 479px) 100vw, 472px",
+        "srcset": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/699cacaf343ab920c76642c2_ISO%2027001%20and%20ISO%2042001%20Certifications-p-500.avif 500w, https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/699cacaf343ab920c76642c2_ISO%2027001%20and%20ISO%2042001%20Certifications-p-800.avif 800w, https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/699cacaf343ab920c76642c2_ISO%2027001%20and%20ISO%2042001%20Certifications-p-1080.avif 1080w, https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/699cacaf343ab920c76642c2_ISO%2027001%20and%20ISO%2042001%20Certifications.avif 2400w",
+        "class": "blog-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6924c42b258756b52fe18dda_crusoe-logo.avif",
+        "loading": "lazy",
+        "width": "472",
+        "height": "262",
+        "alt": "Crusoe logo",
+        "sizes": "(max-width: 479px) 100vw, 472px",
+        "srcset": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6924c42b258756b52fe18dda_crusoe-logo-p-500.avif 500w, https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6924c42b258756b52fe18dda_crusoe-logo-p-800.webp 800w, https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6924c42b258756b52fe18dda_crusoe-logo-p-1080.webp 1080w, https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6924c42b258756b52fe18dda_crusoe-logo.avif 2400w",
+        "class": "blog-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/68f7c88901152ba581e36e4a_spacejam.avif",
+        "loading": "lazy",
+        "width": "472",
+        "height": "262",
+        "alt": "Image of Crusoe and Starcloud logos signifying new partnership",
+        "sizes": "(max-width: 479px) 100vw, 472px",
+        "srcset": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/68f7c88901152ba581e36e4a_spacejam-p-500.avif 500w, https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/68f7c88901152ba581e36e4a_spacejam-p-800.avif 800w, https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/68f7c88901152ba581e36e4a_spacejam-p-1080.avif 1080w, https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/68f7c88901152ba581e36e4a_spacejam.avif 2546w",
+        "class": "blog-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/69c431fe31d1613abe691e53_ns_07.avif",
+        "loading": "lazy",
+        "width": "472",
+        "height": "262",
+        "alt": "Crusoe and Atero logos signifying acquisition",
+        "sizes": "(max-width: 479px) 100vw, 472px",
+        "srcset": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/69c431fe31d1613abe691e53_ns_07-p-500.avif 500w, https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/69c431fe31d1613abe691e53_ns_07-p-800.avif 800w, https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/69c431fe31d1613abe691e53_ns_07.avif 1200w",
+        "class": "blog-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6874d4d3a4b9e37feb5bb0c4_2021_EOY_Regional_Award_Winner_Logo.avif",
+        "loading": "lazy",
+        "width": "472",
+        "height": "262",
+        "alt": "",
+        "class": "blog-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6874d01487871e19a8362938_crusoe_lancium.avif",
+        "loading": "lazy",
+        "width": "472",
+        "height": "262",
+        "alt": "Crusoe and Lancium co-branded logos.",
+        "class": "blog-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6874cfd3ca204b038c862fab_redwood-energy.avif",
+        "loading": "lazy",
+        "width": "472",
+        "height": "262",
+        "alt": "Crusoe and Redwood Energy co-branded logos.",
+        "class": "blog-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6874cfd2eb977a32f16d450a_Group_134267.avif",
+        "loading": "lazy",
+        "width": "472",
+        "height": "262",
+        "alt": "Crusoe and AMD co-branded logos.",
+        "class": "blog-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6874cfcf7b94ae1ea90c4571_Frame_1321314754.avif",
+        "loading": "lazy",
+        "width": "472",
+        "height": "262",
+        "alt": "Crusoe, Blow Owl, and Primary Digital Infrastructure co-branded logos.",
+        "class": "blog-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6874cfd04db1af73019678e5_GPURating_800x420.avif",
+        "loading": "lazy",
+        "width": "472",
+        "height": "262",
+        "alt": "Crusoe's logo displayed on a blue background.",
+        "class": "blog-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6874cfd0218dbe18854de54f_NYDIGAquistio_800x420.avif",
+        "loading": "lazy",
+        "width": "472",
+        "height": "262",
+        "alt": "NYDIG logo.",
+        "class": "blog-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6874cfcfca204b038c8625ad_crusoexvast.avif",
+        "loading": "lazy",
+        "width": "472",
+        "height": "262",
+        "alt": "Crusoe and Vast co-branded logos.",
+        "class": "blog-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6874cfce5517f5ba58b7b962_4_way_pr_image_final.avif",
+        "loading": "lazy",
+        "width": "472",
+        "height": "262",
+        "alt": "Announcement titled 'SES, NVIDIA, and Industry Leaders Collaborate to Accelerate Li-Metal Battery Innovations for Electric Vehicles' with logos of SES, NVIDIA, Crusoe, and Supermicro.",
+        "class": "blog-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6874cfce1fd1acf60e253d18_Frame_1321314749.avif",
+        "loading": "lazy",
+        "width": "472",
+        "height": "262",
+        "alt": "Crusoe and Lowercarbon Capital co-branded logos.",
+        "class": "blog-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6874cfcd9ea5f2ec8c3d701f_Frame_1321314743.avif",
+        "loading": "lazy",
+        "width": "472",
+        "height": "262",
+        "alt": "Heatmap logo.",
+        "class": "blog-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6874cfcc1f6116aee42f1ce4_gtc24-spring-sponsor-logo-1200-_2x__1_.avif",
+        "loading": "lazy",
+        "width": "472",
+        "height": "262",
+        "alt": "NVIDIA GTC logo.",
+        "class": "blog-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6874cfcc646d99ce110b6024_Rescale_and_Crusoe.avif",
+        "loading": "lazy",
+        "width": "472",
+        "height": "262",
+        "alt": "Crusoe and Rescale co-branded logos.",
+        "class": "blog-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6874cfccc035d8ad8c90cfbd_logo.avif",
+        "loading": "lazy",
+        "width": "472",
+        "height": "262",
+        "alt": "Hewlett Packard Enterprise logo.",
+        "class": "blog-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6874cfca1fd1acf60e253aa8_Crusoe_Lancium_Cross_Licensing__1080____1080_px_.avif",
+        "loading": "lazy",
+        "width": "472",
+        "height": "262",
+        "alt": "Crusoe and Lancium Balancing Energy logos with title \"Cross-licensing of Intellectual Property Announcement\".",
+        "class": "blog-image"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6855c1aa175582ee23e0aa19/69b9a04681c8126d059d6646_4c0e1c9456a2e6a98e5cd064290fce64_AboutCrusoe_Thumb.avif",
+        "loading": "lazy",
+        "width": "2216",
+        "height": "1510",
+        "alt": "Image of hills with Crusoe logo and text \"AI factory company\"",
+        "srcset": "https://cdn.prod.website-files.com/6855c1aa175582ee23e0aa19/69b9a04681c8126d059d6646_4c0e1c9456a2e6a98e5cd064290fce64_AboutCrusoe_Thumb-p-500.avif 500w, https://cdn.prod.website-files.com/6855c1aa175582ee23e0aa19/69b9a04681c8126d059d6646_4c0e1c9456a2e6a98e5cd064290fce64_AboutCrusoe_Thumb.avif 1389w",
+        "sizes": "100vw",
+        "class": "video-cover"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aab16611aeb69a56935c1ee_Perplexity%20Logo_black%201.png",
+        "loading": "lazy",
+        "width": "100",
+        "height": "56",
+        "alt": "",
+        "class": "quote-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aab17973fa8e0385b7356a6_Group%202147206847.png",
+        "loading": "lazy",
+        "width": "100",
+        "height": "56",
+        "alt": "",
+        "class": "quote-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aab18a4336a06631a6181f4_Layer_1%20(3).png",
+        "loading": "lazy",
+        "width": "100",
+        "height": "56",
+        "alt": "",
+        "class": "quote-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6aab1a63a5f3cabc2b60321b_synteny-logo-1d6ebc0940-2%201%20(2).png",
+        "loading": "lazy",
+        "width": "100",
+        "height": "56",
+        "alt": "",
+        "class": "quote-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6a69d84c44b83fe51ff359f6_Odyssey%20Black.svg",
+        "loading": "lazy",
+        "width": "100",
+        "height": "56",
+        "alt": "",
+        "class": "quote-logo"
+      },
+      {
+        "src": "https://cdn.prod.website-files.com/6863cc86499b79ce3ab28f8b/6a69d84c44b83fe51ff359f6_Odyssey%20Black.svg",
+        "loading": "lazy",
+        "width": "100",
+        "height": "56",
+        "alt": "",
+        "class": "quote-logo"
+      },
+      {
+        "width": "465",
+        "height": "111",
+        "alt": "Company logo",
+        "src": "https://cdn.prod.website-files.com/6855c1aa175582ee23e0aa19/68762899486863fd46acd673_logo-footer.svg",
+        "loading": "lazy",
+        "class": "crusoe is-footer"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-191/0125e227c725bda2.txt"
+  },
+  {
+    "id": "763f3c541e5b9703",
+    "name": "Curana Health Management Services, LLC",
+    "requested_url": "https://curanahealth.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "808e950f6d2e043f",
+    "name": "CVS Previously Aetna",
+    "requested_url": "https://www.cvshealth.com/",
+    "status": 200,
+    "final_url": "https://www.cvshealth.com/",
+    "text_chars": 7045,
+    "logo_candidates": [
+      {
+        "class": "logo fetch--priority ",
+        "src": "/content/dam/enterprise/cvs-enterprise/logos/CVS_Health_logo.svg",
+        "alt": "CVS Health logo"
+      },
+      {
+        "class": "logo fetch--priority ",
+        "src": "/content/dam/enterprise/cvs-enterprise/logos/CVS_Health_logo.svg",
+        "alt": "CVS Health logo"
+      },
+      {
+        "class": " lazyload",
+        "loading": "lazy",
+        "data-lazysrc": "/content/dam/enterprise/cvs-enterprise/logos/news-component-hero-logo/CVSHealth-Enterprise-Hero-Logo-1600x900.jpeg",
+        "alt": "CVS logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-191/808e950f6d2e043f.txt"
+  },
+  {
+    "id": "5ee11251ae2237ef",
+    "name": "POSCO International (via Daeryook & AJU)",
+    "requested_url": "https://www.poscointl.com/",
+    "status": 200,
+    "final_url": "https://www.poscointl.com/",
+    "text_chars": 4436,
+    "logo_candidates": [
+      {
+        "class": "base blank",
+        "src": "/images/header_logo_blank.png",
+        "alt": "POSCO INTERNATIONAL LOGO Blank"
+      },
+      {
+        "class": "base default",
+        "src": "/images/header_logo.svg",
+        "alt": "POSCO INTERNATIONAL LOGO Default"
+      },
+      {
+        "class": "base hover pc",
+        "src": "/images/header_logo_hover.svg",
+        "alt": "POSCO INTERNATIONAL LOGO Over"
+      },
+      {
+        "class": "base hover mo",
+        "src": "/images/header_logo_hover.gif",
+        "alt": "POSCO INTERNATIONAL LOGO Over"
+      },
+      {
+        "class": "base",
+        "src": "/images/header_logo.svg",
+        "alt": "POSCO INTERNATIONAL LOGO Default"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-191/5ee11251ae2237ef.txt"
+  },
+  {
+    "id": "8239a5e484b3fd20",
+    "name": "Huntington Ingalls (via Dahlberg Strategic)",
+    "requested_url": "https://hii.com/",
+    "status": 200,
+    "final_url": "https://www.hii.com/",
+    "text_chars": 3362,
+    "logo_candidates": [
+      {
+        "src": "/logo.svg",
+        "alt": "HII Logo",
+        "class": "h-[42px] w-auto"
+      },
+      {
+        "src": "/logo.svg",
+        "alt": "HII Logo",
+        "class": "h-[42px] w-auto brightness-0 invert"
+      },
+      {
+        "alt": "HII",
+        "loading": "lazy",
+        "width": "188",
+        "height": "84",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "h-[84px] w-auto",
+        "style": "color:transparent",
+        "src": "/logo-full.svg?dpl=dpl_2hHt5p96Qf75MNG7MwwcXa9qEJBa"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-191/8239a5e484b3fd20.txt"
+  },
+  {
+    "id": "e2e2668c90a07d66",
+    "name": "DemeRx, Inc.",
+    "requested_url": "https://demerx.com/",
+    "status": 200,
+    "final_url": "https://www.demerx.com/",
+    "text_chars": 1589,
+    "logo_candidates": [
+      {
+        "width": "459",
+        "height": "250",
+        "src": "https://www.demerx.com/wp-content/uploads/2024/10/logo-alt-min.png",
+        "class": "attachment-large size-large",
+        "alt": "",
+        "loading": "eager",
+        "decoding": "async",
+        "srcset": "https://www.demerx.com/wp-content/uploads/2024/10/logo-alt-min.png 459w, https://www.demerx.com/wp-content/uploads/2024/10/logo-alt-min-300x163.png 300w",
+        "sizes": "(max-width: 459px) 100vw, 459px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-191/e2e2668c90a07d66.txt"
+  },
+  {
+    "id": "4fe82669a91bfafd",
+    "name": "Detroit Defense (formerly Ricardo, Inc.)",
+    "requested_url": "https://detroitdefense.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "3fd17ae75f4a80f3",
+    "name": "Development InfoStructure (Devis)",
+    "requested_url": "https://www.devis.com/",
+    "status": 200,
+    "final_url": "https://www.devis.com/",
+    "text_chars": 6929,
+    "logo_candidates": [
+      {
+        "elementtiming": "nbf-header-logo-desktop",
+        "src": "//images.squarespace-cdn.com/content/v1/66f2c9a5e1b7b113e3275acf/1727187378585-0G7RO1KEJM0Y5PKH7KQ3/Logo.png?format=1500w",
+        "alt": "Devis Innovation Lab (Copy)",
+        "style": "display:block",
+        "fetchpriority": "high",
+        "loading": "eager",
+        "decoding": "async",
+        "data-loader": "raw"
+      },
+      {
+        "elementtiming": "nbf-header-logo-desktop",
+        "src": "//images.squarespace-cdn.com/content/v1/66f2c9a5e1b7b113e3275acf/1727187378585-0G7RO1KEJM0Y5PKH7KQ3/Logo.png?format=1500w",
+        "alt": "Devis Innovation Lab (Copy)",
+        "style": "display:block",
+        "fetchpriority": "high",
+        "loading": "eager",
+        "decoding": "async",
+        "data-loader": "raw"
+      },
+      {
+        "data-stretch": "false",
+        "data-src": "https://images.squarespace-cdn.com/content/v1/66580cde9619ca0616027cac/19fd1748-697b-44c6-babe-90f8ffce2b02/6111769ae6d6032dcd69287b_small+business+association+ok+logo.jpg",
+        "data-image": "https://images.squarespace-cdn.com/content/v1/66580cde9619ca0616027cac/19fd1748-697b-44c6-babe-90f8ffce2b02/6111769ae6d6032dcd69287b_small+business+association+ok+logo.jpg",
+        "data-image-dimensions": "1300x372",
+        "data-image-focal-point": "0.5,0.5",
+        "data-sqsp-image-block-image": null,
+        "alt": "",
+        "data-licensed-asset-preview": "false",
+        "data-load": "false",
+        "elementtiming": "system-image-block",
+        "src": "https://images.squarespace-cdn.com/content/v1/66580cde9619ca0616027cac/19fd1748-697b-44c6-babe-90f8ffce2b02/6111769ae6d6032dcd69287b_small+business+association+ok+logo.jpg",
+        "width": "1300",
+        "height": "372",
+        "sizes": "auto, (max-width: 640px) 100.00vw, (max-width: 767px) 62.50vw, 16.67vw",
+        "style": "display:block;object-position: var(--image-component-focal-point);object-fit: var(--image-component-object-fit);",
+        "srcset": "https://images.squarespace-cdn.com/content/v1/66580cde9619ca0616027cac/19fd1748-697b-44c6-babe-90f8ffce2b02/6111769ae6d6032dcd69287b_small+business+association+ok+logo.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/66580cde9619ca0616027cac/19fd1748-697b-44c6-babe-90f8ffce2b02/6111769ae6d6032dcd69287b_small+business+association+ok+logo.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/66580cde9619ca0616027cac/19fd1748-697b-44c6-babe-90f8ffce2b02/6111769ae6d6032dcd69287b_small+business+association+ok+logo.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/66580cde9619ca0616027cac/19fd1748-697b-44c6-babe-90f8ffce2b02/6111769ae6d6032dcd69287b_small+business+association+ok+logo.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/66580cde9619ca0616027cac/19fd1748-697b-44c6-babe-90f8ffce2b02/6111769ae6d6032dcd69287b_small+business+association+ok+logo.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/66580cde9619ca0616027cac/19fd1748-697b-44c6-babe-90f8ffce2b02/6111769ae6d6032dcd69287b_small+business+association+ok+logo.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/66580cde9619ca0616027cac/19fd1748-697b-44c6-babe-90f8ffce2b02/6111769ae6d6032dcd69287b_small+business+association+ok+logo.jpg?format=2500w 2500w",
+        "loading": "lazy",
+        "decoding": "async",
+        "data-loader": "sqs",
+        "data-image-component": "1.0.1"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-191/3fd17ae75f4a80f3.txt"
+  },
+  {
+    "id": "fba07997a66cbc9f",
+    "name": "Diamond Plastic Corporation",
+    "requested_url": "https://www.dpcpipe.com/",
+    "status": 200,
+    "final_url": "https://www.dpcpipe.com/",
+    "text_chars": 2338,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-191/fba07997a66cbc9f.txt"
+  },
+  {
+    "id": "08c88348e905def5",
+    "name": "Digicel Holdings (Bermuda) Limited",
+    "requested_url": "https://www.digicelgroup.com/",
+    "status": 200,
+    "final_url": "https://www.digicelgroup.com/en",
+    "text_chars": 515,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-191/08c88348e905def5.txt"
+  },
+  {
+    "id": "a13d13145f56b1a3",
+    "name": "Diplomatic Perspective",
+    "requested_url": "https://diplomaticperspective.org/",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "id": "6d154f3c0b48424f",
+    "name": "Disability and Rehabilitation Research Coalition",
+    "requested_url": "https://drrc-coalition.org/about/",
+    "status": 200,
+    "final_url": "https://drrc-coalition.org/about/",
+    "text_chars": 4276,
+    "logo_candidates": [
+      {
+        "width": "750",
+        "height": "331",
+        "src": "https://drrc-coalition.org/wp-content/uploads/2021/01/cropped-drrc-logo.png",
+        "class": "custom-logo",
+        "alt": "Disability and Rehabilitation Research Coalition (DRRC)",
+        "decoding": "async",
+        "srcset": "https://drrc-coalition.org/wp-content/uploads/2021/01/cropped-drrc-logo.png?w=750&h=331 750w, https://drrc-coalition.org/wp-content/uploads/2021/01/cropped-drrc-logo.png?w=1500&h=663 1500w, https://drrc-coalition.org/wp-content/uploads/2021/01/cropped-drrc-logo.png?w=150&h=66 150w, https://drrc-coalition.org/wp-content/uploads/2021/01/cropped-drrc-logo.png?w=300&h=133 300w, https://drrc-coalition.org/wp-content/uploads/2021/01/cropped-drrc-logo.png?w=768&h=339 768w, https://drrc-coalition.org/wp-content/uploads/2021/01/cropped-drrc-logo.png?w=1024&h=453 1024w, https://drrc-coalition.org/wp-content/uploads/2021/01/cropped-drrc-logo.png?w=1440&h=636 1440w",
+        "sizes": "(max-width: 750px) 100vw, 750px",
+        "data-attachment-id": "355",
+        "data-permalink": "https://drrc-coalition.org/cropped-drrc-logo-png/",
+        "data-orig-file": "https://drrc-coalition.org/wp-content/uploads/2021/01/cropped-drrc-logo.png",
+        "data-orig-size": "1747,772",
+        "data-comments-opened": "1",
+        "data-image-meta": "{\"aperture\":\"0\",\"credit\":\"\",\"camera\":\"\",\"caption\":\"\",\"created_timestamp\":\"0\",\"copyright\":\"\",\"focal_length\":\"0\",\"iso\":\"0\",\"shutter_speed\":\"0\",\"title\":\"\",\"orientation\":\"0\"}",
+        "data-image-title": "cropped-drrc-logo.png",
+        "data-image-description": "<p>https://disabilityandrehabilitationresearchcoalition.files.wordpress.com/2021/01/cropped-drrc-logo.png</p>\n",
+        "data-image-caption": "",
+        "data-large-file": "https://drrc-coalition.org/wp-content/uploads/2021/01/cropped-drrc-logo.png?w=750"
+      },
+      {
+        "loading": "lazy",
+        "alt": "",
+        "src": "https://s2.wp.com/i/logo/wpcom-gray-white.png?m=1479929237i",
+        "srcset": "https://s2.wp.com/i/logo/wpcom-gray-white.png 1x",
+        "class": "avatar avatar-50",
+        "height": "50",
+        "width": "50"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-191/6d154f3c0b48424f.txt"
+  },
+  {
+    "id": "0d40837e0f188af4",
+    "name": "Distilleria Serralles",
+    "requested_url": "https://donq.com/",
+    "status": 200,
+    "final_url": "https://donq.com/",
+    "text_chars": 2890,
+    "logo_candidates": [
+      {
+        "src": "/site2026/assets/img/logo-header.png"
+      },
+      {
+        "src": "/site2026/assets/img/logo-header.png"
+      },
+      {
+        "src": "/site2026/assets/img/Logo-Menu-Mobile.png",
+        "class": "logo"
+      },
+      {
+        "src": "../site2026/assets/img/logo-hero.png",
+        "alt": "",
+        "class": "logo-hero"
+      },
+      {
+        "src": "/site2026/assets/img/logo-header.png"
+      },
+      {
+        "width": "73",
+        "height": "72",
+        "src": "https://donq.com/wp-content/uploads/2026/06/menu-logo.png",
+        "class": "vc_single_image-img attachment-full",
+        "alt": "",
+        "title": "menu-logo",
+        "decoding": "async"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-191/0d40837e0f188af4.txt"
+  },
+  {
+    "id": "8621bb707a4de7a2",
+    "name": "DJI Technologies, Inc.",
+    "requested_url": "https://www.dji.com/",
+    "status": 200,
+    "final_url": "https://www.dji.com/",
+    "text_chars": 6511,
+    "logo_candidates": [
+      {
+        "data-src": "https://www-cdn.djiits.com/cms/uploads/805f770bc6e734343eab48d1dc2a49c0.svg",
+        "style": "height:32px",
+        "alt": "air-3s",
+        "class": "banner-logo banner-headline swiper-lazy"
+      },
+      {
+        "data-src": "https://www-cdn.djiits.com/cms/uploads/a02a6a51b25f2b54e7e8979e87e3dabc.svg",
+        "style": "height:32px",
+        "alt": "mavic-3-pro",
+        "class": "banner-logo banner-headline swiper-lazy"
+      },
+      {
+        "data-src": "https://www-cdn.djiits.com/cms/uploads/de17f3f323cf896a71f69c009480e39f.svg",
+        "style": "height:32px",
+        "alt": "osmo-action-6-us",
+        "class": "banner-logo banner-headline swiper-lazy"
+      },
+      {
+        "data-src": "https://www-cdn.djiits.com/cms/uploads/f96569e53307cad64f824f940a968c6c.svg",
+        "style": "height:32px",
+        "alt": "osmo-pocket-3",
+        "class": "banner-logo banner-headline swiper-lazy"
+      },
+      {
+        "data-src": "https://www-cdn.djiits.com/cms/uploads/0a21238328727bc9b609ac7455087e59.svg",
+        "style": "height:32px",
+        "alt": "rs-5",
+        "class": "banner-logo banner-headline swiper-lazy"
+      },
+      {
+        "data-src": "https://www-cdn.djiits.com/cms/uploads/c4faca545fbc5b910b5d944e5a3c0c58.svg",
+        "style": "height:32px",
+        "alt": "matrice-400",
+        "class": "banner-logo banner-headline swiper-lazy"
+      },
+      {
+        "data-src": "https://www-cdn.djiits.com/cms/uploads/dd31c17eeb2bd75b2ca6c02164b4eac2.svg",
+        "style": "height:32px",
+        "alt": "t100-t70",
+        "class": "banner-logo banner-headline swiper-lazy"
+      },
+      {
+        "data-src": "https://www-cdn.djiits.com/cms/uploads/95aa93ff6f6bbd35848cdeab6ed82709.svg",
+        "style": "height:32px",
+        "alt": "flycart-100",
+        "class": "banner-logo banner-headline swiper-lazy"
+      },
+      {
+        "data-dps-src": "4d5f44d2163b5c1ed7a2cee0f3d48aa0.svg",
+        "style": "height: 32px",
+        "alt": "osmo-360",
+        "class": "logo-icon dps-cms lazy-img"
+      },
+      {
+        "data-dps-src": "590b2d29ad143c7d60afc8987df9811e.svg",
+        "style": "height: 32px",
+        "alt": "flip",
+        "class": "logo-icon dps-cms lazy-img"
+      },
+      {
+        "data-dps-src": "ed7b40ffb5d03d3ddc439837d92addea.svg",
+        "style": "height: 32px",
+        "alt": "osmo-mobile-8-us",
+        "class": "logo-icon dps-cms lazy-img"
+      },
+      {
+        "data-layzr": "https://www-cdn.djiits.com/dps/176201ad61d0753e17d860c4ca117932.svg",
+        "alt": "DJI Logo",
+        "class": "logo gray"
+      },
+      {
+        "data-layzr": "https://www-cdn.djiits.com/dps/a4cb06c299208ffb34ecdcf8b2a5d94a.svg",
+        "alt": "DJI Logo",
+        "class": "logo white"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-191/8621bb707a4de7a2.txt"
+  }
+]

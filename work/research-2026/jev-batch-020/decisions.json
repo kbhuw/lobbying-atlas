@@ -1,0 +1,81 @@
+{
+  "b90f0f90542fe371": {
+    "name": "O'Grady Peyton International (USA)",
+    "description": "Recruits and places international nurses and allied healthcare professionals in U.S. jobs and supports licensing, visas, relocation, and immigration processes.",
+    "website": "https://www.ogradypeyton.com/",
+    "kind": "International healthcare staffing agency",
+    "ownership": "Subsidiary",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "AMN Healthcare SEC exhibit from 2023 explicitly names O Grady-Peyton International (USA), Inc. as holder of the O Grady Peyton and O Grady Peyton International trademarks. Current official brand homepage explicitly calls it an AMN Healthcare company and describes international nurse and allied-health recruitment. Historical legal-name evidence and current affiliation support identity; parent and overseas subsidiaries are not merged.",
+    "notes": "AMN Healthcare SEC exhibit from 2023 explicitly names O Grady-Peyton International (USA), Inc. as holder of the O Grady Peyton and O Grady Peyton International trademarks. Current official brand homepage explicitly calls it an AMN Healthcare company and describes international nurse and allied-health recruitment. Historical legal-name evidence and current affiliation support identity; parent and overseas subsidiaries are not merged.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/01c9338b-8f2b-481a-bfa3-296ec8a701a1/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.ogradypeyton.com/",
+        "label": "Organization evidence",
+        "claim": "O'Grady Peyton says it is an international nurse and allied staffing recruitment agency placing nurses and medical technologists across all 50 states and assisting with licensure and immigration processes."
+      },
+      {
+        "url": "https://www.sec.gov/Archives/edgar/data/1142750/000114275023000011/amn-ex41x2023033110q.htm",
+        "label": "Indexed primary legal-name evidence checked September 18, 2026",
+        "claim": "AMN Healthcare SEC exhibit from 2023 explicitly names O Grady-Peyton International (USA), Inc. as holder of the O Grady Peyton and O Grady Peyton International trademarks. Current official brand homepage explicitly calls it an AMN Healthcare company and describes international nurse and allied-health recruitment. Historical legal-name evidence and current affiliation support identity; parent and overseas subsidiaries are not merged."
+      }
+    ],
+    "as_of": "2026-09-18",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://www.ogradypeyton.com/siteassets/amn_ogrady_peyton.svg",
+    "logo_kind": "logo",
+    "logo_source_url": "https://www.ogradypeyton.com/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "ffb1eb96dc382769": {
+    "name": "National Asian/Pacific Islander American Chamber of Commerce & Entrepreneurship",
+    "description": "National chamber organization supporting AAPI and other small-business owners through advocacy, grants, and entrepreneurship programs.",
+    "website": "https://www.nationalace.org/",
+    "kind": "organization",
+    "ownership": "Unknown",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Official National ACE 2022 Seattle roundtable release expands National Asian/Pacific Islander American Chamber of Commerce and Entrepreneurship. Current directly retrieved homepage describes its small-business advocacy, grants and support programs. Tax status of the separate International Leadership Foundation mentioned in the release is not transferred to National ACE; ACE Foundation remains separate.",
+    "notes": "Official National ACE 2022 Seattle roundtable release expands National Asian/Pacific Islander American Chamber of Commerce and Entrepreneurship. Current directly retrieved homepage describes its small-business advocacy, grants and support programs. Tax status of the separate International Leadership Foundation mentioned in the release is not transferred to National ACE; ACE Foundation remains separate.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/d55e8c80-354b-4b4b-a550-ac641b804933/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.nationalace.org/",
+        "label": "Organization evidence",
+        "claim": "National ACE describes its mission, small-business programs, advocacy, and grants."
+      },
+      {
+        "url": "https://www.nationalace.org/about",
+        "label": "Organization evidence",
+        "claim": "National ACE describes its mission and small-business advocacy/program work; the page does not establish the entity’s tax status."
+      },
+      {
+        "url": "https://www.nationalace.org/news/seattle-roundtable-press-release",
+        "label": "Indexed primary legal-name evidence checked September 18, 2026",
+        "claim": "Official National ACE 2022 Seattle roundtable release expands National Asian/Pacific Islander American Chamber of Commerce and Entrepreneurship. Current directly retrieved homepage describes its small-business advocacy, grants and support programs. Tax status of the separate International Leadership Foundation mentioned in the release is not transferred to National ACE; ACE Foundation remains separate."
+      }
+    ],
+    "as_of": "2026-09-18",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://static1.squarespace.com/static/5dd45b834ed45716078d0628/t/5f0c481405f9c80a14c0b900/1617219467704/?format=1500w",
+    "logo_kind": "logo",
+    "logo_source_url": "https://www.nationalace.org/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  }
+}

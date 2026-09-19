@@ -1,0 +1,449 @@
+[
+  {
+    "id": "45ec8311b4109db1",
+    "name": "Mellon Financial Services Corporation #1",
+    "requested_url": "https://www.bny.com/corporate/global/en/data-privacy.html",
+    "status": 200,
+    "final_url": "https://www.bny.com/corporate/global/en/data-privacy.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/0-45ec8311b4109db1.txt",
+    "text_chars": 4918
+  },
+  {
+    "id": "45ec8311b4109db1",
+    "name": "Mellon Financial Services Corporation #1",
+    "requested_url": "https://www.bny.com/corporate/global/en/terms-of-use.html",
+    "status": 200,
+    "final_url": "https://www.bny.com/corporate/global/en/terms-of-use.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/1-45ec8311b4109db1.txt",
+    "text_chars": 53532
+  },
+  {
+    "id": "19410aa983c8faff",
+    "name": "Mellon Financial Services Corporation #1",
+    "requested_url": "https://www.bny.com/corporate/global/en/data-privacy.html",
+    "status": 200,
+    "final_url": "https://www.bny.com/corporate/global/en/data-privacy.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/2-19410aa983c8faff.txt",
+    "text_chars": 4918
+  },
+  {
+    "id": "19410aa983c8faff",
+    "name": "Mellon Financial Services Corporation #1",
+    "requested_url": "https://www.bny.com/corporate/global/en/terms-of-use.html",
+    "status": 200,
+    "final_url": "https://www.bny.com/corporate/global/en/terms-of-use.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/3-19410aa983c8faff.txt",
+    "text_chars": 53532
+  },
+  {
+    "id": "4ea0779691e2df22",
+    "name": "Mellon Financial Services Corporation #1",
+    "requested_url": "https://www.bny.com/corporate/global/en/data-privacy.html",
+    "status": 200,
+    "final_url": "https://www.bny.com/corporate/global/en/data-privacy.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/4-4ea0779691e2df22.txt",
+    "text_chars": 4918
+  },
+  {
+    "id": "4ea0779691e2df22",
+    "name": "Mellon Financial Services Corporation #1",
+    "requested_url": "https://www.bny.com/corporate/global/en/terms-of-use.html",
+    "status": 200,
+    "final_url": "https://www.bny.com/corporate/global/en/terms-of-use.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/5-4ea0779691e2df22.txt",
+    "text_chars": 53532
+  },
+  {
+    "id": "1f9f2acaa8cb8cb9",
+    "name": "Members Exchange (MEMX)",
+    "requested_url": "https://memx.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://memx.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/6-1f9f2acaa8cb8cb9.txt",
+    "text_chars": 19532
+  },
+  {
+    "id": "2f499220189c0024",
+    "name": "Mercedes-Benz USA, LLC",
+    "requested_url": "https://www.mbusa.com/en/legal-notices",
+    "status": 200,
+    "final_url": "https://www.mbusa.com/en/legal-notices",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/7-2f499220189c0024.txt",
+    "text_chars": 5303
+  },
+  {
+    "id": "2f499220189c0024",
+    "name": "Mercedes-Benz USA, LLC",
+    "requested_url": "https://www.mbusa.com/en/privacy-policy",
+    "error": "HTTP Error 500: Internal Server Error"
+  },
+  {
+    "id": "832217c4660f0676",
+    "name": "Mercer Associates LLC on behalf of Escape International / AirTEP",
+    "requested_url": "https://www.escape-international.com/terms-of-use/",
+    "status": 200,
+    "final_url": "https://www.escape-international.com/terms-of-use/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/9-832217c4660f0676.txt",
+    "text_chars": 2178
+  },
+  {
+    "id": "832217c4660f0676",
+    "name": "Mercer Associates LLC on behalf of Escape International / AirTEP",
+    "requested_url": "https://www.escape-international.com/about-us/",
+    "status": 200,
+    "final_url": "https://www.escape-international.com/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/10-832217c4660f0676.txt",
+    "text_chars": 2178
+  },
+  {
+    "id": "9d96673426d18984",
+    "name": "Mercury Public Affairs LLC on behalf of Cabot Corporation",
+    "requested_url": "https://www.cabotcorp.com/information/terms-of-sale",
+    "status": 200,
+    "final_url": "https://www.cabotcorp.com/information/terms-of-sale",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/11-9d96673426d18984.txt",
+    "text_chars": 2676
+  },
+  {
+    "id": "9d96673426d18984",
+    "name": "Mercury Public Affairs LLC on behalf of Cabot Corporation",
+    "requested_url": "https://www.cabotcorp.com/information/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.cabotcorp.com/information/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/12-9d96673426d18984.txt",
+    "text_chars": 24232
+  },
+  {
+    "id": "016099b5701d8a46",
+    "name": "Mercury Technologies, Inc.",
+    "requested_url": "https://mercury.com/legal",
+    "status": 200,
+    "final_url": "https://mercury.com/legal",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/13-016099b5701d8a46.txt",
+    "text_chars": 5161
+  },
+  {
+    "id": "016099b5701d8a46",
+    "name": "Mercury Technologies, Inc.",
+    "requested_url": "https://mercury.com/legal/privacy",
+    "status": 200,
+    "final_url": "https://mercury.com/legal/privacy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/14-016099b5701d8a46.txt",
+    "text_chars": 37426
+  },
+  {
+    "id": "894f37d770279b87",
+    "name": "Methanex (dba Methanex USA Llc, Methanex Louisiana Llc, Methanex Geismar III LLC",
+    "requested_url": "https://www.methanex.com/terms-of-use/",
+    "status": 200,
+    "final_url": "https://www.methanex.com/terms-of-use/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/15-894f37d770279b87.txt",
+    "text_chars": 8900
+  },
+  {
+    "id": "894f37d770279b87",
+    "name": "Methanex (dba Methanex USA Llc, Methanex Louisiana Llc, Methanex Geismar III LLC",
+    "requested_url": "https://www.methanex.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.methanex.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/16-894f37d770279b87.txt",
+    "text_chars": 10629
+  },
+  {
+    "id": "f1ff39449c42986c",
+    "name": "Metlife Group, Inc.",
+    "requested_url": "https://www.metlife.com/stories/legal/",
+    "status": 200,
+    "final_url": "https://www.metlife.com/stories/legal/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/17-f1ff39449c42986c.txt",
+    "text_chars": 10671
+  },
+  {
+    "id": "f1ff39449c42986c",
+    "name": "Metlife Group, Inc.",
+    "requested_url": "https://www.metlife.com/insurance/legal-plans/",
+    "status": 200,
+    "final_url": "https://www.metlife.com/insurance/legal-plans/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/18-f1ff39449c42986c.txt",
+    "text_chars": 17985
+  },
+  {
+    "id": "687000676b872303",
+    "name": "Metlife Group, Inc. (fka Metlife Services and Solutions, Llc)",
+    "requested_url": "https://www.metlife.com/stories/legal/",
+    "status": 200,
+    "final_url": "https://www.metlife.com/stories/legal/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/19-687000676b872303.txt",
+    "text_chars": 10713
+  },
+  {
+    "id": "687000676b872303",
+    "name": "Metlife Group, Inc. (fka Metlife Services and Solutions, Llc)",
+    "requested_url": "https://www.metlife.com/insurance/legal-plans/",
+    "status": 200,
+    "final_url": "https://www.metlife.com/insurance/legal-plans/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/20-687000676b872303.txt",
+    "text_chars": 18027
+  },
+  {
+    "id": "5ff7d2e3bd9c05cd",
+    "name": "Mexichem Fluor (Orbia Fluor & Energy Materials)",
+    "requested_url": "https://www.orbia-fem.com/privacy-notice",
+    "status": 200,
+    "final_url": "https://www.orbia-fem.com/privacy-notice",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/21-5ff7d2e3bd9c05cd.txt",
+    "text_chars": 33263
+  },
+  {
+    "id": "5ff7d2e3bd9c05cd",
+    "name": "Mexichem Fluor (Orbia Fluor & Energy Materials)",
+    "requested_url": "https://www.orbia-fem.com/terms_and_conditions",
+    "status": 200,
+    "final_url": "https://www.orbia-fem.com/terms_and_conditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/22-5ff7d2e3bd9c05cd.txt",
+    "text_chars": 14486
+  },
+  {
+    "id": "90661cec58c9ced9",
+    "name": "Michigan Potash Company, LLC",
+    "requested_url": "https://michiganpotash.com/about-us/",
+    "status": 200,
+    "final_url": "https://michiganpotash.com/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/23-90661cec58c9ced9.txt",
+    "text_chars": 2076
+  },
+  {
+    "id": "d5ecb79ee241bf76",
+    "name": "Micron Technologies, Inc.",
+    "requested_url": "https://www.micron.com/legal",
+    "status": 200,
+    "final_url": "https://www.micron.com/legal",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/24-d5ecb79ee241bf76.txt",
+    "text_chars": 8666
+  },
+  {
+    "id": "d5ecb79ee241bf76",
+    "name": "Micron Technologies, Inc.",
+    "requested_url": "https://www.micron.com/Privacy",
+    "status": 200,
+    "final_url": "https://www.micron.com/Privacy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/25-d5ecb79ee241bf76.txt",
+    "text_chars": 38753
+  },
+  {
+    "id": "6e7a482299d6d9bb",
+    "name": "Minidoka Pilgrimage Planning Committee",
+    "requested_url": "https://www.minidokapilgrimage.org/about-3",
+    "status": 200,
+    "final_url": "https://www.minidokapilgrimage.org/about-3",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/26-6e7a482299d6d9bb.txt",
+    "text_chars": 12429
+  },
+  {
+    "id": "6e7a482299d6d9bb",
+    "name": "Minidoka Pilgrimage Planning Committee",
+    "requested_url": "https://www.minidokapilgrimage.org/about-us",
+    "status": 200,
+    "final_url": "https://www.minidokapilgrimage.org/about-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/27-6e7a482299d6d9bb.txt",
+    "text_chars": 1375
+  },
+  {
+    "id": "2e4172b94b1d65b8",
+    "name": "Missy Edwards Strategies on behalf of Truckload Carriers Association",
+    "requested_url": "https://mmestrategies.com/about/",
+    "status": 200,
+    "final_url": "https://mmestrategies.com/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/28-2e4172b94b1d65b8.txt",
+    "text_chars": 4025
+  },
+  {
+    "id": "5a476133c8af1467",
+    "name": "Mitra Future Technologies, Inc.",
+    "requested_url": "https://www.mitrachem.com/privacy-policy-cookie-notice",
+    "status": 200,
+    "final_url": "https://www.mitrachem.com/privacy-policy-cookie-notice",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/29-5a476133c8af1467.txt",
+    "text_chars": 5179
+  },
+  {
+    "id": "7535914098d09484",
+    "name": "Mitsubishi Power Americas, Inc.",
+    "requested_url": "https://power.mhi.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.mhi.com/privacy.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/30-7535914098d09484.txt",
+    "text_chars": 24288
+  },
+  {
+    "id": "7535914098d09484",
+    "name": "Mitsubishi Power Americas, Inc.",
+    "requested_url": "https://power.mhi.com/about",
+    "status": 200,
+    "final_url": "https://power.mhi.com/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/31-7535914098d09484.txt",
+    "text_chars": 5071
+  },
+  {
+    "id": "ba665c79172dc6ba",
+    "name": "Mobivolt Defense LLC",
+    "requested_url": "https://mobivolt.energy/terms-and-conditions",
+    "status": 200,
+    "final_url": "https://mobivolt.energy/terms-and-conditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/32-ba665c79172dc6ba.txt",
+    "text_chars": 750
+  },
+  {
+    "id": "ba665c79172dc6ba",
+    "name": "Mobivolt Defense LLC",
+    "requested_url": "https://mobivolt.energy/about",
+    "status": 200,
+    "final_url": "https://mobivolt.energy/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/33-ba665c79172dc6ba.txt",
+    "text_chars": 1868
+  },
+  {
+    "id": "9864791d877a879a",
+    "name": "Mondelez Global LLC (successor by Merger to Clif BAR & Company)",
+    "requested_url": "https://www.mondelezinternational.com/terms-of-use/",
+    "status": 200,
+    "final_url": "https://www.mondelezinternational.com/terms-of-use/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/34-9864791d877a879a.txt",
+    "text_chars": 3967
+  },
+  {
+    "id": "9864791d877a879a",
+    "name": "Mondelez Global LLC (successor by Merger to Clif BAR & Company)",
+    "requested_url": "https://www.mondelezinternational.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.mondelezinternational.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/35-9864791d877a879a.txt",
+    "text_chars": 3973
+  },
+  {
+    "id": "dedb364f1a5fdb94",
+    "name": "Monument Strategies, LLC",
+    "requested_url": "https://monument-strategies.com/wordpress/index.php/about-us/",
+    "status": 200,
+    "final_url": "https://monument-strategies.com/wordpress/index.php/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/36-dedb364f1a5fdb94.txt",
+    "text_chars": 2595
+  },
+  {
+    "id": "dedb364f1a5fdb94",
+    "name": "Monument Strategies, LLC",
+    "requested_url": "https://monument-strategies.com/wordpress/index.php/about-us/team/",
+    "status": 200,
+    "final_url": "https://monument-strategies.com/wordpress/index.php/about-us/team/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/37-dedb364f1a5fdb94.txt",
+    "text_chars": 6550
+  },
+  {
+    "id": "51dbe249cac3022d",
+    "name": "Morgan Stanley Dean Witter & Company",
+    "requested_url": "https://www.morganstanley.com/terms",
+    "status": 200,
+    "final_url": "https://www.morganstanley.com/terms",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/38-51dbe249cac3022d.txt",
+    "text_chars": 23324
+  },
+  {
+    "id": "51dbe249cac3022d",
+    "name": "Morgan Stanley Dean Witter & Company",
+    "requested_url": "https://www.morganstanley.com/privacy-pledge",
+    "status": 200,
+    "final_url": "https://www.morganstanley.com/privacy-pledge",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/39-51dbe249cac3022d.txt",
+    "text_chars": 11909
+  },
+  {
+    "id": "f040f554a7df7640",
+    "name": "Morningstar Dbrs, Inc.",
+    "requested_url": "https://dbrs.morningstar.com/terms-and-conditions",
+    "status": 200,
+    "final_url": "https://dbrs.morningstar.com/terms-and-conditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/40-f040f554a7df7640.txt",
+    "text_chars": 17030
+  },
+  {
+    "id": "f040f554a7df7640",
+    "name": "Morningstar Dbrs, Inc.",
+    "requested_url": "https://dbrs.morningstar.com/about-us",
+    "status": 200,
+    "final_url": "https://dbrs.morningstar.com/about-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/41-f040f554a7df7640.txt",
+    "text_chars": 7749
+  },
+  {
+    "id": "10c1b6cdd7753b35",
+    "name": "Mosaik Solutions LLC (now DBA Ookla)",
+    "requested_url": "https://www.ookla.com/terms",
+    "status": 200,
+    "final_url": "https://www.ookla.com/terms",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/42-10c1b6cdd7753b35.txt",
+    "text_chars": 60985
+  },
+  {
+    "id": "10c1b6cdd7753b35",
+    "name": "Mosaik Solutions LLC (now DBA Ookla)",
+    "requested_url": "https://www.ookla.com/privacy",
+    "status": 200,
+    "final_url": "https://www.ookla.com/privacy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/43-10c1b6cdd7753b35.txt",
+    "text_chars": 36063
+  },
+  {
+    "id": "3e7ee1ea44aa4e04",
+    "name": "Mountainstar Capital, LLC",
+    "requested_url": "https://www.mountainstarcapital.com/terms-of-use/",
+    "status": 200,
+    "final_url": "https://www.mountainstarcapital.com/terms-of-use/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/44-3e7ee1ea44aa4e04.txt",
+    "text_chars": 27370
+  },
+  {
+    "id": "3e7ee1ea44aa4e04",
+    "name": "Mountainstar Capital, LLC",
+    "requested_url": "https://www.mountainstarcapital.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.mountainstarcapital.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/45-3e7ee1ea44aa4e04.txt",
+    "text_chars": 14495
+  },
+  {
+    "id": "fb4f193197dde185",
+    "name": "Google Client Services LLC (via Cornerstone Government Affairs)",
+    "requested_url": "https://about.google/around-the-globe/",
+    "status": 200,
+    "final_url": "https://about.google/around-the-globe/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/46-fb4f193197dde185.txt",
+    "text_chars": 1532
+  },
+  {
+    "id": "fb4f193197dde185",
+    "name": "Google Client Services LLC (via Cornerstone Government Affairs)",
+    "requested_url": "https://about.google/brand-resource-center/",
+    "status": 200,
+    "final_url": "https://partnermarketinghub.withgoogle.com/brands/google/overview/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/47-fb4f193197dde185.txt",
+    "text_chars": 4551
+  },
+  {
+    "id": "527c98141e19bf10",
+    "name": "Corrigan & Ussery on Behalf of Dewberry Engineers",
+    "requested_url": "https://www.dewberry.com/about",
+    "status": 200,
+    "final_url": "https://www.dewberry.com/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/48-527c98141e19bf10.txt",
+    "text_chars": 5480
+  },
+  {
+    "id": "ed3eb2cace8b5822",
+    "name": "Credit.com (formerly Progrexion ASG)",
+    "requested_url": "https://credit.com/privacy-notice/",
+    "status": 200,
+    "final_url": "https://credit.com/privacy-notice",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-227/49-ed3eb2cace8b5822.txt",
+    "text_chars": 12307
+  }
+]

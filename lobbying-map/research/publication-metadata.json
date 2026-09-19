@@ -1,0 +1,12 @@
+{
+  "total": 76895,
+  "counts": {
+    "unresolved": 838,
+    "sourced": 17244,
+    "pending": 36753,
+    "self_reported": 20922,
+    "registry_matched": 1138
+  },
+  "updated": "2026-09-13",
+  "definition": "Sourced profiles have individual research. Registry matches use legal name and city/state automatically and remain a separate evidence tier. Self-reported descriptions come from filings. Historical identity questions and unknown fields may remain."
+}

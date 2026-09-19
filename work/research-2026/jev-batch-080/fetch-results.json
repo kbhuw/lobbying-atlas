@@ -1,0 +1,446 @@
+[
+  {
+    "id": "c633a0907c5565f4",
+    "name": "National Reverse Mortgage Lenders Association (through Fennel Consulting, Llc)",
+    "requested_url": "https://www.reversemortgage.org/about/",
+    "status": 200,
+    "final_url": "https://www.reversemortgage.org/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/0-c633a0907c5565f4.txt",
+    "text_chars": 4975
+  },
+  {
+    "id": "c633a0907c5565f4",
+    "name": "National Reverse Mortgage Lenders Association (through Fennel Consulting, Llc)",
+    "requested_url": "https://www.reversemortgage.org/about/advice-for-children-of-seniors/",
+    "status": 200,
+    "final_url": "https://www.reversemortgage.org/about/advice-for-children-of-seniors/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/1-c633a0907c5565f4.txt",
+    "text_chars": 6946
+  },
+  {
+    "id": "a1128160911cf226",
+    "name": "Atada",
+    "requested_url": "https://atada.org/legal-issues",
+    "status": 200,
+    "final_url": "https://atada.org/legal-issues",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/2-a1128160911cf226.txt",
+    "text_chars": 9128
+  },
+  {
+    "id": "a1128160911cf226",
+    "name": "Atada",
+    "requested_url": "https://atada.org/about",
+    "status": 200,
+    "final_url": "https://atada.org/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/3-a1128160911cf226.txt",
+    "text_chars": 4165
+  },
+  {
+    "id": "c8c698d82ab23fbc",
+    "name": "Insights Association (fka: Marketing Research Association)",
+    "requested_url": "https://www.insightsassociation.org/About-Us/Chapters",
+    "status": 200,
+    "final_url": "https://www.insightsassociation.org/About-Us/Chapters",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/4-c8c698d82ab23fbc.txt",
+    "text_chars": 5535
+  },
+  {
+    "id": "c8c698d82ab23fbc",
+    "name": "Insights Association (fka: Marketing Research Association)",
+    "requested_url": "https://www.insightsassociation.org/About-Us/Laureates",
+    "status": 200,
+    "final_url": "https://www.insightsassociation.org/About-Us/Laureates",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/5-c8c698d82ab23fbc.txt",
+    "text_chars": 26513
+  },
+  {
+    "id": "d93954328ab017bf",
+    "name": "SAN Jacinto College Community District",
+    "requested_url": "https://www.sanjac.edu/about/strategic-plan/",
+    "status": 200,
+    "final_url": "https://www.sanjac.edu/about/strategic-plan/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/6-d93954328ab017bf.txt",
+    "text_chars": 6324
+  },
+  {
+    "id": "d93954328ab017bf",
+    "name": "SAN Jacinto College Community District",
+    "requested_url": "https://www.sanjac.edu/about/locations/index.php",
+    "status": 200,
+    "final_url": "https://www.sanjac.edu/about/locations/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/7-d93954328ab017bf.txt",
+    "text_chars": 5749
+  },
+  {
+    "id": "f6191934de9b20d9",
+    "name": "Ioneer USA Corporation",
+    "requested_url": "https://www.ioneer.com/rhyolite-ridge-project/about-rhyolite-ridge/safety/",
+    "status": 200,
+    "final_url": "https://www.ioneer.com/rhyolite-ridge-project/about-rhyolite-ridge/safety/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/8-f6191934de9b20d9.txt",
+    "text_chars": 3945
+  },
+  {
+    "id": "3b23dd145c850fdd",
+    "name": "Nutrien US LLC (formerly Known AS Agrium U.s. Inc.) (A Nutrien LTD Subsidiary)",
+    "requested_url": "https://www.nutrien.com/about/leadership",
+    "status": 200,
+    "final_url": "https://www.nutrien.com/about/leadership",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/9-3b23dd145c850fdd.txt",
+    "text_chars": 3079
+  },
+  {
+    "id": "3b23dd145c850fdd",
+    "name": "Nutrien US LLC (formerly Known AS Agrium U.s. Inc.) (A Nutrien LTD Subsidiary)",
+    "requested_url": "https://www.nutrien.com/about/our-business",
+    "status": 200,
+    "final_url": "https://www.nutrien.com/about/our-business",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/10-3b23dd145c850fdd.txt",
+    "text_chars": 4139
+  },
+  {
+    "id": "967d9cbf3d528627",
+    "name": "Waste Control Specialists (represented by Governmental Strategies Inc.)",
+    "requested_url": "https://www.wcstexas.com/about/our-team/",
+    "status": 200,
+    "final_url": "https://www.wcstexas.com/about/our-team/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/11-967d9cbf3d528627.txt",
+    "text_chars": 8389
+  },
+  {
+    "id": "967d9cbf3d528627",
+    "name": "Waste Control Specialists (represented by Governmental Strategies Inc.)",
+    "requested_url": "https://www.wcstexas.com/about/our-facilities/facilities/",
+    "status": 200,
+    "final_url": "https://www.wcstexas.com/about/our-facilities/facilities/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/12-967d9cbf3d528627.txt",
+    "text_chars": 9908
+  },
+  {
+    "id": "977c7c028b863d80",
+    "name": "Cloaked, Inc.",
+    "requested_url": "https://www.cloaked.com/legal/terms-of-service",
+    "status": 200,
+    "final_url": "https://www.cloaked.com/legal/terms-of-service",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/13-977c7c028b863d80.txt",
+    "text_chars": 60378
+  },
+  {
+    "id": "977c7c028b863d80",
+    "name": "Cloaked, Inc.",
+    "requested_url": "https://www.cloaked.com/about",
+    "status": 200,
+    "final_url": "https://www.cloaked.com/about",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/14-977c7c028b863d80.txt",
+    "text_chars": 9412
+  },
+  {
+    "id": "ec6c43e7c7f7af88",
+    "name": "National Medal of Honor Museum",
+    "requested_url": "https://mohmuseum.org/terms-and-conditions",
+    "status": 200,
+    "final_url": "https://mohmuseum.org/terms-and-conditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/15-ec6c43e7c7f7af88.txt",
+    "text_chars": 25389
+  },
+  {
+    "id": "ec6c43e7c7f7af88",
+    "name": "National Medal of Honor Museum",
+    "requested_url": "https://mohmuseum.org/about-the-museum",
+    "status": 200,
+    "final_url": "https://mohmuseum.org/about-the-museum",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/16-ec6c43e7c7f7af88.txt",
+    "text_chars": 4955
+  },
+  {
+    "id": "97aafe4b94f1337f",
+    "name": "Solventum Health Information Systems, Inc",
+    "requested_url": "https://www.solventum.com/en-us/home/legal/dmca/",
+    "status": 200,
+    "final_url": "https://www.solventum.com/en-us/home/legal/dmca/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/17-97aafe4b94f1337f.txt",
+    "text_chars": 23364
+  },
+  {
+    "id": "97aafe4b94f1337f",
+    "name": "Solventum Health Information Systems, Inc",
+    "requested_url": "https://www.solventum.com/en-us/home/our-company/hipaa-privacy/",
+    "status": 200,
+    "final_url": "https://www.solventum.com/en-us/home/our-company/hipaa-privacy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/18-97aafe4b94f1337f.txt",
+    "text_chars": 35928
+  },
+  {
+    "id": "d539dd3ffb358350",
+    "name": "Quantum-systems, Inc.",
+    "requested_url": "https://quantum-systems.com/terms-and-conditions/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "d539dd3ffb358350",
+    "name": "Quantum-systems, Inc.",
+    "requested_url": "https://quantum-systems.com/about-us/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "bc45244ef131b0bf",
+    "name": "Safety and Advocacy for Empowerment (safe) (f/k/a Coalition of Ignition Interloc",
+    "requested_url": "https://www.safedrive.org/about-ignition-interlocks",
+    "status": 200,
+    "final_url": "https://www.safedrive.org/about-ignition-interlocks",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/21-bc45244ef131b0bf.txt",
+    "text_chars": 5474
+  },
+  {
+    "id": "de3415331ed6a3c9",
+    "name": "Supplycore LLC",
+    "requested_url": "https://www.supplycore.com/about/",
+    "status": 200,
+    "final_url": "https://www.supplycore.com/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/22-de3415331ed6a3c9.txt",
+    "text_chars": 6485
+  },
+  {
+    "id": "de3415331ed6a3c9",
+    "name": "Supplycore LLC",
+    "requested_url": "https://www.supplycore.com/about/culture/",
+    "status": 200,
+    "final_url": "https://www.supplycore.com/about/culture/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/23-de3415331ed6a3c9.txt",
+    "text_chars": 2056
+  },
+  {
+    "id": "bc870cbcf107b325",
+    "name": "City of Philadelphia \u2014 Department of Aviation",
+    "requested_url": "https://www.phl.org/about/airlines",
+    "status": 200,
+    "final_url": "https://www.phl.org/about/airlines",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/24-bc870cbcf107b325.txt",
+    "text_chars": 5977
+  },
+  {
+    "id": "bc870cbcf107b325",
+    "name": "City of Philadelphia \u2014 Department of Aviation",
+    "requested_url": "https://www.phl.org/about-us/contact",
+    "status": 200,
+    "final_url": "https://www.phl.org/about-us/contact",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/25-bc870cbcf107b325.txt",
+    "text_chars": 2615
+  },
+  {
+    "id": "ee6a15a93c6e16af",
+    "name": "Team Housing Solutions, Inc.",
+    "requested_url": "https://www.teamhousing.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.teamhousing.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/26-ee6a15a93c6e16af.txt",
+    "text_chars": 10710
+  },
+  {
+    "id": "ee6a15a93c6e16af",
+    "name": "Team Housing Solutions, Inc.",
+    "requested_url": "https://www.teamhousing.com/about-us",
+    "status": 200,
+    "final_url": "https://www.teamhousing.com/about-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/27-ee6a15a93c6e16af.txt",
+    "text_chars": 3299
+  },
+  {
+    "id": "c48bd9261055414f",
+    "name": "Anchorage Digital Bank",
+    "requested_url": "https://www.anchorage.com/legal",
+    "status": 200,
+    "final_url": "https://www.anchorage.com/legal",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/28-c48bd9261055414f.txt",
+    "text_chars": 6710
+  },
+  {
+    "id": "c48bd9261055414f",
+    "name": "Anchorage Digital Bank",
+    "requested_url": "https://www.anchorage.com/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.anchorage.com/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/29-c48bd9261055414f.txt",
+    "text_chars": 4326
+  },
+  {
+    "id": "6e586df25a774ea9",
+    "name": "APCO Worldwide (on behalf of Hikma Pharmaceuticals USA Inc.)",
+    "requested_url": "https://www.hikma.com/useful-links/terms-of-use/",
+    "status": 200,
+    "final_url": "https://www.hikma.com/useful-links/terms-of-use/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/30-6e586df25a774ea9.txt",
+    "text_chars": 40189
+  },
+  {
+    "id": "6e586df25a774ea9",
+    "name": "APCO Worldwide (on behalf of Hikma Pharmaceuticals USA Inc.)",
+    "requested_url": "https://www.hikma.com/useful-links/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.hikma.com/useful-links/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/31-6e586df25a774ea9.txt",
+    "text_chars": 33764
+  },
+  {
+    "id": "15a6f9af2df4f735",
+    "name": "Everdriven",
+    "requested_url": "https://www.everdriven.com/terms-of-use/",
+    "status": 200,
+    "final_url": "https://www.everdriven.com/terms-of-use/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/32-15a6f9af2df4f735.txt",
+    "text_chars": 37290
+  },
+  {
+    "id": "15a6f9af2df4f735",
+    "name": "Everdriven",
+    "requested_url": "https://www.everdriven.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.everdriven.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/33-15a6f9af2df4f735.txt",
+    "text_chars": 42305
+  },
+  {
+    "id": "22379179dad92d32",
+    "name": "Forterra (formerly RR.ai)",
+    "requested_url": "https://www.forterra.com/legal/terms-of-use",
+    "status": 200,
+    "final_url": "https://www.forterra.com/legal/terms-of-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/34-22379179dad92d32.txt",
+    "text_chars": 2827
+  },
+  {
+    "id": "22379179dad92d32",
+    "name": "Forterra (formerly RR.ai)",
+    "requested_url": "https://www.forterra.com/legal/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.forterra.com/legal/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/35-22379179dad92d32.txt",
+    "text_chars": 37353
+  },
+  {
+    "id": "37b3fb4ecc7c8e9b",
+    "name": "Kids Street (formerly known as Condista)",
+    "requested_url": "https://kidsstreet.com/privacy.html",
+    "status": 200,
+    "final_url": "https://kidsstreet.com/privacy.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/36-37b3fb4ecc7c8e9b.txt",
+    "text_chars": 8309
+  },
+  {
+    "id": "37b3fb4ecc7c8e9b",
+    "name": "Kids Street (formerly known as Condista)",
+    "requested_url": "https://kidsstreet.com/terms-of-use.html",
+    "status": 200,
+    "final_url": "https://kidsstreet.com/terms-of-use.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/37-37b3fb4ecc7c8e9b.txt",
+    "text_chars": 9912
+  },
+  {
+    "id": "7bf099e868b828c6",
+    "name": "Midwest Gaming & Entertainment (Rivers Casino Des Plaines)",
+    "requested_url": "https://www.riverscasino.com/desplaines/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.riverscasino.com/desplaines/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/38-7bf099e868b828c6.txt",
+    "text_chars": 32289
+  },
+  {
+    "id": "7bf099e868b828c6",
+    "name": "Midwest Gaming & Entertainment (Rivers Casino Des Plaines)",
+    "requested_url": "https://www.riverscasino.com/desplaines/terms-and-conditions",
+    "status": 200,
+    "final_url": "https://www.riverscasino.com/desplaines/terms-and-conditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/39-7bf099e868b828c6.txt",
+    "text_chars": 35766
+  },
+  {
+    "id": "eaa5648ca56d340a",
+    "name": "Peabody Investments Corp",
+    "requested_url": "https://www.peabodyenergy.com/Legal",
+    "status": 200,
+    "final_url": "https://www.peabodyenergy.com/Legal",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/40-eaa5648ca56d340a.txt",
+    "text_chars": 16440
+  },
+  {
+    "id": "eaa5648ca56d340a",
+    "name": "Peabody Investments Corp",
+    "requested_url": "https://www.peabodyenergy.com/Privacy",
+    "status": 200,
+    "final_url": "https://www.peabodyenergy.com/Privacy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/41-eaa5648ca56d340a.txt",
+    "text_chars": 17723
+  },
+  {
+    "id": "7790cd52721b4862",
+    "name": "the Association of Schools of Allied Health Professions",
+    "requested_url": "https://www.asahp.org/about-asahp",
+    "status": 200,
+    "final_url": "https://www.asahp.org/about-asahp",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/42-7790cd52721b4862.txt",
+    "text_chars": 5336
+  },
+  {
+    "id": "5f8d6b9de89056a7",
+    "name": "VAN Scoyoc Associates on Behalf of the University of North Dakota",
+    "requested_url": "https://und.edu/about/terms-of-use.html",
+    "status": 200,
+    "final_url": "https://und.edu/about/terms-of-use.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/43-5f8d6b9de89056a7.txt",
+    "text_chars": 8031
+  },
+  {
+    "id": "5f8d6b9de89056a7",
+    "name": "VAN Scoyoc Associates on Behalf of the University of North Dakota",
+    "requested_url": "https://und.edu/about/index.html",
+    "status": 200,
+    "final_url": "https://und.edu/about/index.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/44-5f8d6b9de89056a7.txt",
+    "text_chars": 7322
+  },
+  {
+    "id": "b6c24e8f5c1548a1",
+    "name": "G+D Currency Technology America",
+    "requested_url": "https://www.gi-de.com/en/data-privacy",
+    "status": 200,
+    "final_url": "https://www.gi-de.com/en/data-privacy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/45-b6c24e8f5c1548a1.txt",
+    "text_chars": 4871
+  },
+  {
+    "id": "b6c24e8f5c1548a1",
+    "name": "G+D Currency Technology America",
+    "requested_url": "https://www.gi-de.com/en/about-us/company",
+    "status": 200,
+    "final_url": "https://www.gi-de.com/en/about-us/company",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/46-b6c24e8f5c1548a1.txt",
+    "text_chars": 10519
+  },
+  {
+    "id": "f2ad06a46ca62606",
+    "name": "Lockton Management, LLC",
+    "requested_url": "https://global.lockton.com/us/en/terms-of-use",
+    "status": 200,
+    "final_url": "https://global.lockton.com/us/en/terms-of-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/47-f2ad06a46ca62606.txt",
+    "text_chars": 17583
+  },
+  {
+    "id": "f2ad06a46ca62606",
+    "name": "Lockton Management, LLC",
+    "requested_url": "https://global.lockton.com/us/en/privacy-notice",
+    "status": 200,
+    "final_url": "https://global.lockton.com/us/en/privacy-notice",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/48-f2ad06a46ca62606.txt",
+    "text_chars": 38714
+  },
+  {
+    "id": "4e63ff8210716229",
+    "name": "Revenue Cycle Coding Strategies and RC Billing",
+    "requested_url": "https://www.rccsinc.com/privacy.html",
+    "status": 200,
+    "final_url": "https://www.rccsinc.com/privacy.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-080/49-4e63ff8210716229.txt",
+    "text_chars": 11760
+  }
+]

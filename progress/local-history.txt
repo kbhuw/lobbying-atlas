@@ -1,0 +1,819 @@
+eda46db645082e9d75838ef2abf57b639f5a5607 2026-09-18 21:06:00 -0700 Preserve verified full MEMX logo as content-addressed asset
+68bfca16ef903fba1b9c69c471c751202f1ad2d6 2026-09-18 21:05:05 -0700 Confirm Mercury and MEMX identities from official privacy policies
+4f3d2b7e3618f3ce89e3040fbddc672fce255643 2026-09-18 21:04:09 -0700 Confirm Monument Strategies LLC and remove unsupported ownership label
+b1e08b8ecf5f9576064a52468ceb65f623efb82e 2026-09-18 21:03:17 -0700 Resolve McGraw-Hill Education operating subsidiary relationship from SEC filing
+b48c5d11b2e4a6bbd810fe0dcd490dc9a2f77f7b 2026-09-18 21:02:22 -0700 Confirm McGraw Hill LLC exact service-provider identity
+ae432e3ca9c4c992d249e8c2ff0cbec6bcb96c22 2026-09-18 21:01:23 -0700 Confirm Luxium former identity and completed Excelitas acquisition
+941a6319435ee08db89ea5e7eb1197f52da688ba 2026-09-18 21:00:34 -0700 Confirm Logiqal and replace L3Harris icon with full official logo
+1dc0f10f098298c94ed3d8109eb1866110d5cc21 2026-09-18 20:59:19 -0700 Confirm Kulanu center identity while preserving unknown tax status
+4a819f03ba31547933c98731a9d1eca6848e1df0 2026-09-18 20:58:05 -0700 Resolve Hypori LLC and Intralot US subsidiary identities
+a9dc11ba503df3c5b5b03debfefe929ea6a30b2e 2026-09-18 20:57:02 -0700 Confirm Hyundai beneficiary and clarify ICE and ITG evidence
+8340edc6d25b4638bff45022ab2321a3e30dedf2 2026-09-18 20:55:33 -0700 Use content-addressed official logo asset and verify production build
+46b6a1fbff0662dfdc3847c320a64d8e9fd1bdb8 2026-09-18 20:55:00 -0700 Confirm Vibrant Planet PBC and preserve full official Genevant wordmark
+5bc150c61d1d94262cc6bc4cc035652a4ae08130 2026-09-18 20:53:47 -0700 Verify four legal entities from official policies and company boilerplate
+17236133e0a7b6c14ded886c8a0550539a55b9e9 2026-09-18 20:52:31 -0700 Confirm Quantum Knight and Prime Therapeutics beneficiaries
+61be6caf52dda765827463bf41f7496369764c7d 2026-09-18 20:51:23 -0700 Confirm Ellwood business unit relationship and FDATA identity
+7d716c4ed8c0b0f9f29692cfd43f7d4b11f01ef5 2026-09-18 20:50:34 -0700 Verify Dynamo Express and Brooklyn identities and source family ownership
+da1fe5e239b52b1eb8cccd51e1a61af617f24f40 2026-09-18 20:49:09 -0700 Confirm Eliant and flight school association identities from screened sources
+52050df26e16fe5f2c470f5a736476b18f086f8d 2026-09-18 20:45:40 -0700 Verify CBAX identity and add B Braun logo
+cf4b8ab6e29f3e706a24a8919e178dd11f7d0b4d 2026-09-18 20:43:45 -0700 Add verified Avports and Avanos full logos
+0af5b217413b32aebe25b7093ac0b091f753a1e7 2026-09-18 20:42:21 -0700 Verify Begin and DRRC official logo sources
+4a1cea56f10af3972e80675530d7c61b45ab900d 2026-09-18 20:41:11 -0700 Verify Begin corporate identity and research coalition
+2ef21e7d3f30711d69959315a815744d588ef7ee 2026-09-18 20:38:49 -0700 Verify CH4 Systems and two municipal logos
+cfe37fb9429e4e9a00b6fa4bfd47723a1d9be414 2026-09-18 20:37:32 -0700 Confirm five municipalities from recovered official sources
+6ee8536f47eff37ca70b448e59a4c65cfb644b6f 2026-09-18 20:36:13 -0700 Verify Bright Path and Bumble Bee and clarify Blackboard gap
+a8495b172d7fefdd53de13007526221e2db048b4 2026-09-18 20:34:54 -0700 Verify BlueSky and Cocoon official logo assets
+927e959f1daea59c0def7b6e12739db2d88e3764 2026-09-18 20:33:45 -0700 Verify BlueSky Innovations and Cocoon identities
+22b47bc7e0b4d4df7a56ca7343ba256aa3d33e66 2026-09-18 20:32:42 -0700 Confirm BlackVe BorderPlex and Boesen Snow identities
+6df876dc327f85134af70bc2013048663a1f7175 2026-09-18 20:31:08 -0700 Verify current Boon Logic and Bridge Consulting logos
+9af1f63c24a988d46a44f3c60eb0cff4fa7aee0d 2026-09-18 20:29:57 -0700 Verify BCBS BMO POET Boon Logic and Bridge Consulting
+e39ada388fa0fae1401dfa1c58051ee9865e3d18 2026-09-18 20:28:40 -0700 Verify two organizations and remove unverified Blackstone assets
+a1ba5f2b7518857436c4ed149fd6d58838a5ce06 2026-09-18 20:27:31 -0700 Verify Benteler OSG and BIOS organization identities
+b4de2d7a5238c72397c23c8cb8090f717cfa4898 2026-09-18 20:25:20 -0700 Verify five identities and BAM ownership relationship
+9eeed1306375c0e5c4cc834b9e1eb81c66392f3d 2026-09-18 20:24:03 -0700 Verify five profiles and consolidate Binance US aliases
+8a2917a1c8384471da2bb336f24e199bba90f4c9 2026-09-18 20:22:54 -0700 Verify five corporate identities and AHEAD logo source
+7397e9f366ec61a2667b9839c421de94cc8fc6c9 2026-09-18 20:21:46 -0700 Verify AAHOA APEAM and AHEAD identities
+6324a959e863405c65455d3088d0e835b183b7c6 2026-09-18 20:20:46 -0700 Consolidate verified ARI aliases and add Bobbie logo
+80649ae7a937c36401727c6b8092241a3157ec90 2026-09-18 20:19:29 -0700 Confirm Bobbie webAI and a16z legal identities
+fb899f2fe04223558c47ae92fbba4f62a8c6c639 2026-09-18 20:18:23 -0700 Verify health coverage coalition and Accelint wordmark
+5a6535b97db21beedad8249db5a1ecc00cf020cd 2026-09-18 20:16:54 -0700 Verify Milton-Freewater and Accelint source evidence
+fc576d4b30a65aba17abde9343a6fe04b888e2a3 2026-09-18 20:15:25 -0700 Verify three organization identities and two official logos
+56190d7d6fc5d57a23a5e964987108be17982cbd 2026-09-18 20:12:13 -0700 Verify JASIC and UPMC Health Plan identities
+8427f940a8599d7158889d2904b816e9ff149a48 2026-09-18 20:10:28 -0700 Verify Kodex USAP and Avanos identities with primary evidence
+fb367087908b56c2ff406fc6fa38d03aad35dd43 2026-09-18 20:09:03 -0700 Verify ten identities, consolidate Payward variants and add three logos
+062a503d904ec37eeac2ec5226218df77844d054 2026-09-18 20:06:56 -0700 Verify eight legal identities and ETF nonprofit status
+b8a4273000693e10acafd9d6d6235f96c866fa37 2026-09-18 20:05:59 -0700 Confirm Engine Technology Forum former-name relationship
+1e6dbcbb8d1870c8e42c505bbd161940c284d3e7 2026-09-18 20:04:37 -0700 Verify LTSE Services BCR Indigo identities and Sightline logo
+be0f88f2d5984fb4dcc40af28b2d08ec1a6b8edb 2026-09-18 20:02:59 -0700 Verify seven identities with legal, former-name and nonprofit evidence
+305f3202d9ba3205c69a5cab39cc73bcd84666e5 2026-09-18 20:01:17 -0700 Verify four identities and add readable official city logos
+4db38f5b4238bb6f840674ea1f7470dc7fc486d6 2026-09-18 19:58:39 -0700 Verify six identities and consolidate Orano USA former-name duplicate
+425757597df16fb2722a6200e7cee79cbf6043cd 2026-09-18 19:57:05 -0700 Verify eight organization identities and BMO parent relationship
+322e1649c949cf0468d36f8d50e6171ebdfa201f 2026-09-18 19:55:56 -0700 Confirm NABIP former NAHU identity from official 2026 letter
+35eb177eba2e69df95733d755da5aaed98c40211 2026-09-18 19:54:29 -0700 Verify corporate identities, consolidate PSGC alias and add two city logos
+bd7549c619e17a91caecdf9c59ebaa3c2d93c208 2026-09-18 19:52:26 -0700 Verify twelve identities, merge Houston METRO aliases and remove incorrect ETI domain
+c42a98338ddc766223aa51832bc59a3bb84adf30 2026-09-18 19:50:26 -0700 Verify BILH NEMA FetchyFox and NYDIG with primary sources
+19491e27c66d732dd598222fda4676304be35074 2026-09-18 19:48:36 -0700 Add visually verified ANEP official logo
+4deb0547bd958ef954742b281a2c6f358e471709 2026-09-18 19:45:11 -0700 Verify four organization identities from JEV screened official sources
+ef20bee9e375c1913c6173d8bc22f4935e401e82 2026-09-18 19:42:21 -0700 Confirm NFDA, ANEP, Lacey and ARTBA identities
+bdef1529184c4016058a399f7814d87bdcbf6b91 2026-09-18 19:40:42 -0700 Publish complete reviewed directory through batch 103
+fec1a4aef7190cff15a3deb0bf620082ebeaf7ee 2026-09-18 19:39:27 -0700 Verify Ro, Stardust, Third Eye Health and Arena legal identities
+9a9573d4f90074f5ef9d434e8846c89d8ef5b979 2026-09-18 19:38:55 -0700 Document Novolex predecessor and BPI merger history
+ab4acf20b8528267980333cfcfc2fab53f10d6ef 2026-09-18 19:37:25 -0700 Add visually verified Broward Sheriff logo
+fdcad1e362ca831233ea1329e51e425964c1ca4d 2026-09-18 19:35:37 -0700 Verify seven organizations including documented association rebrands
+2524eb07e64a43e8f8caf2616e1cc300d5c30a16 2026-09-18 19:33:26 -0700 Confirm five entities, establish Clenera parent, and verify PAPBA logo
+09254ecd83d74d87d0f545c33a9193626e433912 2026-09-18 19:32:02 -0700 Confirm seven identities and merge duplicate MEMA directory entries
+d83ee2116aafe47971859bf90216c1d24bb1b18e 2026-09-18 19:30:07 -0700 Confirm three corporate identities and verify Kenner and NAAUSA logos
+3ea637b9086fe5ec0446be369d972cd575773cdd 2026-09-18 19:28:45 -0700 Confirm six institutions and update SCM integration and RTP branding
+b08ab293528592b057a6857c3125011db676c058 2026-09-18 19:26:53 -0700 Verify five legal entities and add three official full logos
+c9077343522c9b53de7ce4421fa909b82064d87e 2026-09-18 19:25:38 -0700 Confirm nine organizations and broaden Taylor Defense description
+a9ccf5d2c946c24990586e18be5546f5d16ef807 2026-09-18 19:24:17 -0700 Verify RSM name history and Center for a Free Economy nonprofit status
+7daa465a3e4e95c652ea3625ba842b69bf370a85 2026-09-18 19:23:13 -0700 Confirm eight researched identities and restore Viking Village logo
+f16e8d684851e9daabfff46984504013136d224a 2026-09-18 19:21:46 -0700 Resolve six identities using JEV-screened legal evidence
+fd61b2bd18873ee915cf9fcb432baa5353d517fe 2026-09-18 19:20:38 -0700 Confirm five organizations from JEV-screened official pages
+18f170245ee4f9f0987e0b040c1cf3dcf68d4d43 2026-09-18 19:17:01 -0700 Publish accumulated organization research through batch 080
+b733477a003e80f50bf4476663b657bd95ec9755 2026-09-18 19:16:21 -0700 Resolve seven identities including merger and rebrand evidence
+20bbc1775e5148265bdb553b77b88202a27f8a63 2026-09-18 19:14:45 -0700 Confirm seven organization identities from screened official pages
+71c30dfa96203ec7ba88588b53ae7222b12bcc62 2026-09-18 19:13:55 -0700 Confirm Keys Fisheries from recovered compressed official page
+3d5faa571ccea20c59205ff4b2d8fc35c340964e 2026-09-18 19:12:22 -0700 Confirm six legal entities and preserve affiliate distinctions
+1af914221dd18cf6bec633ecf5d5696990e6205e 2026-09-18 19:10:49 -0700 Verify four identities and two full official logos
+9de91323d606ae42f7a4afb66d853e2b48b817f4 2026-09-18 19:09:16 -0700 Confirm Medicom exact legal identity from official policies
+3946b178c0b393f0462dbcd4429960836757db8f 2026-09-18 19:07:47 -0700 Confirm seven identities and improve ownership annotations
+11c480bf7083b2228304df28f74dafff7681f21c 2026-09-18 19:06:13 -0700 Confirm six organizations and document former-name relationships
+53e593d596745670df5d05a0c02429bf06146319 2026-09-18 19:04:24 -0700 Confirm six organizations and clarify ownership evidence
+89713e7bf0e4bcc29e5a6a193bc4ab1963d2e3b7 2026-09-18 19:02:18 -0700 Confirm five legal identities and source Ripple ownership
+af00560fbb16e20a83465ec48ed436ce7fc1ed5e 2026-09-18 19:00:45 -0700 Confirm four identities and verify four official logos
+a96a9add9075f56d78d829b84234a9ab7f9c6622 2026-09-18 18:59:26 -0700 Verify five identities from JEV-screened official evidence
+283863dd06fb3010c3dca2fd83e51095b57bcd20 2026-09-18 18:58:02 -0700 Confirm seven organizations and consolidate Veterans United filings
+42ba2a7e62148fbd9d1d7e936a9d92efc23a71e6 2026-09-18 18:52:15 -0700 Verify seven identities including US entity named in group privacy PDF
+25abe3d8395f40987386bf2b38759855ec0f9526 2026-09-18 18:47:26 -0700 Verify ten exact organizations and preserve affiliate distinctions
+4adca468622b76cbe6dbb494d4bf694ac05a1596 2026-09-18 18:44:35 -0700 Add eight visually verified official organization logos
+f195527dc1b9dbb5c7fce5917663279da846cc3e 2026-09-18 18:41:56 -0700 Use existing family ownership display category
+924d24d10e1e2a74d6f5697ca6081f8bed9e723d 2026-09-18 18:41:30 -0700 Verify ten organizations and source nonprofit and family ownership
+f4785fd88f17aa070a8a53400e6379d8ae5c79a6 2026-09-18 18:37:49 -0700 Verify twelve identities and add sourced logo and ownership corrections
+9de8ebd895420a36b4300e9ba36c74cad63d89c9 2026-09-18 18:34:19 -0700 Publish complete reviewed directory with compressed evidence ledger
+698bcefc1c45ba9845581fa74bf3fb4638de3818 2026-09-18 18:34:18 -0700 Compress complete research ledger to fit source upload limits
+92fb2da0cc7c34fe562bfe708ef4e3acfa3e653e 2026-09-18 18:32:27 -0700 Verify six legal identities and correct antimicrobial developer category
+cfe29390e871879554097a14721d1fe2d4994d8f 2026-09-18 18:30:44 -0700 Confirm eight identities after Jev evidence screening
+fa4c6b5582e35a47a25659f24bc73f7ca69f6aaf 2026-09-18 18:26:34 -0700 Verify four legal identities from official privacy and app terms
+72b0430d26cf8d7696b3b4945c9e2864b8ec0ec4 2026-09-18 18:25:44 -0700 Consolidate duplicate ASPPH card while retaining all source filings
+f23f1eeef4e909901fd08ceab11692671a5f9ecb 2026-09-18 18:25:09 -0700 Verify five association coalition and airport identities
+1102e9c7333c42aaab325ad96c785ead46c78b02 2026-09-18 18:24:23 -0700 Verify two municipal identities and Southwest agribusiness coalition
+3679a027bdc9d4b2f260c43fe344490eb746741d 2026-09-18 18:23:50 -0700 Apply reviewed NCC NUCA and renewable thermal identities
+e84ae7ddbefda6cd433970d96b37b218f0f19920 2026-09-18 18:23:07 -0700 Publish current reviewed directory snapshot; full research history retained on main
+226fbd5bd283e78220d37df11df1179c31c160d0 2026-09-18 18:18:48 -0700 Normalize newer ownership labels without changing source evidence
+5f034e10a115c1055576ed07eeaaa513fca80a30 2026-09-18 18:18:11 -0700 Confirm InquisIT and document Priority legal-form conflict
+63caadd403d8464d600a3bbf3cb64388c82bd73f 2026-09-18 18:17:26 -0700 Confirm Nusano legal identity and clarify production-stage description
+461227f9654f19d8c3be2047f265cbd0a8a64a35 2026-09-18 18:16:40 -0700 Verify coaching board, NHLPA and Rose Bowl operator identities
+786daf80789bafcc3971676f94ca7a185a4401ff 2026-09-18 18:16:03 -0700 Confirm IRC nonprofit and Sutter Butte government identities
+8bbb13ad89fb010d4433f8f1f2697818e90a1003 2026-09-18 18:14:53 -0700 Verify Gardian identity and Protect the 1st nonprofit status
+ed7f9da25d1949e68cc3ed197ebb7b0a984e5f39 2026-09-18 18:14:09 -0700 Verify five legal identities from JEV-screened official policies
+a191453f1271144e6eaa82067512550bb5b218b7 2026-09-18 18:12:52 -0700 Replace Merlin site icon with verified official wordmark
+2cf7e2ce2d3379007233fc8a69b4b2c1775b53f7 2026-09-18 18:12:11 -0700 Verify legal identities and flag SNA LP versus LLC discrepancy
+bf41d799581c5e525d0f4cd7bc89a408873ce342 2026-09-18 18:11:16 -0700 Verify six JEV-screened organization identities from official pages
+0a9c75c419b6a7daa768f102e9acfe60b2433f3c 2026-09-18 18:08:01 -0700 Document NCSEA current name and nonprofit bylaws
+22b34e82745b6792dad52d8f4b85b0eac56ce0ba 2026-09-18 18:04:14 -0700 Verify Commissariat and SEPMI while preserving entity boundaries
+b07edd7f36e99d34c484f4c75bfbeb8593bc97f5 2026-09-18 18:03:27 -0700 Verify Socure and Medical Microinstruments exact identities
+ef621b85fc021973e87ef4a2a35edec51a8fd367 2026-09-18 18:02:47 -0700 Verify SSINA RAA and AIRI with primary association evidence
+a00a329f1117f556f29886a83fac1fcebb4cd75d 2026-09-18 18:02:09 -0700 Merge Keidanren Japanese and English names using official charter
+e708194209bd37a8f024bef964541a5ebfc48261 2026-09-18 18:01:29 -0700 Merge verified NOSSCR acronym variant preserving original filings
+192f9fcf3632b35576f58d5957eac0a11d87eb9d 2026-09-18 18:00:35 -0700 Verify five organizations and add Boone and Harrison seals
+f790814b6e532595573ea7ef3112c70eb3a63bbb 2026-09-18 17:59:30 -0700 Verify CWLP Dry Prairie and Geothermal Rising Action
+4a45ed2d9782722099c6e3dd705dd62e368891a5 2026-09-18 17:58:42 -0700 Verify ABEMEL North Lauderdale and KOSA identities
+c284c867e8ba43fc71b5788d62e25b12a195890e 2026-09-18 17:57:51 -0700 Resolve National ACE and OGrady Peyton legal identities
+aab9c20361e951766bd4e7f85a01685822c0e063 2026-09-18 17:57:09 -0700 Verify Rainmaker and cetacean institute with precise activity descriptions
+dd8dd64b389b00df13e548279043155bb7e7619c 2026-09-18 17:56:30 -0700 Confirm Tacoma Madison Foster City and MGMA identities
+5d6ce7824b7139040c4a1813acfb029b2898062d 2026-09-18 17:55:53 -0700 Verify AWFS Grunley NOSSCR and ASPPH with nonprofit evidence
+849dfb77196d57deca50a46e77ad83a3b572f2a2 2026-09-18 17:55:12 -0700 Verify PES Nasscom and MPet with official PES logo
+ce761144aab0a527e73cf7508082d14d4f961cf4 2026-09-18 17:54:09 -0700 Confirm Nichino Hemophilia Alliance Quercis and renal association identities
+5b5821b6fea3f57a165b5f610f42c3a22d079e82 2026-09-18 17:53:13 -0700 Verify Gritman, Climate and Wildfire Institute and SGVCOG identities
+1fba3d8db50702dbd60b50c49f4c6aff823fda7e 2026-09-18 17:50:46 -0700 Verify Chester wastewater, Riverside Transit and NOWRA identities
+ff98df60907f7e76ed910a016ccc5d130f7fe3b0 2026-09-18 17:49:29 -0700 Resolve Cyclone, FortressFire and Aternium identity bridges
+30876b64360ad6beb888e73049dd42f3a89f80b7 2026-09-18 17:48:47 -0700 Confirm SunGas and Protect Environmental legal identities
+c704df8ff7948c7dabd86cf36e2cb1f79a1520ce 2026-09-18 17:48:06 -0700 Confirm three identities and remove unsupported classification claims
+6db4763b5fe880109aa2c55474ff45d456074019 2026-09-18 17:47:27 -0700 Confirm three company identities and Metal Technologies family ownership
+56ea2ee612a3d5f8ed29c06fbaf975310e9ff33d 2026-09-18 17:46:47 -0700 Verify NATA, NAST and Prairie Band identities and NATA logo
+dc385bac25e64021d41ef513a7eb386a916ee0a7 2026-09-18 17:45:59 -0700 Confirm four identities and verify ENMU Ruidoso logo
+2eeb3730216d50192dbd231ccbb9afb3d35d9c27 2026-09-18 17:44:23 -0700 Confirm MHA, Douglas PUD and Coconut Grove developer identities
+d0e12c31c0d72c71a144bd50db9c85fd21b982b9 2026-09-18 17:43:48 -0700 Confirm eight government identities using official sources
+22055014311470c4f903fa80bf6a444b5512d6ad 2026-09-18 17:43:01 -0700 Verify ASRC and Rocktree identities and correct Visalia domain
+e125721791644d0fcc2ac5e42ac0b57795790bbe 2026-09-18 17:41:52 -0700 Confirm Bri-Steel, Markham district and Ri-Corp identities
+a36e93c4e106637c8f9927f43e6c235b0d584094 2026-09-18 17:41:01 -0700 Confirm municipal identities and correct San Juan Bautista website
+866d765cf618386f49104ed0fd8b624e20d45b02 2026-09-18 17:38:45 -0700 Verify three organization identities through Jev-assisted evidence review
+2b00391bbcccccd71f864e5f64cd56ba9bdcf71b 2026-09-14 02:36:23 -0700 Resolve Cyclokinetics rename and clarify hydropower project status
+fda7156c7a20226b7d612ed3a81ee04d8732c4a1 2026-09-14 02:33:45 -0700 Confirm five association identities with dated primary evidence
+6612e55fce02a038d1e6e461bb303b45c08220f4 2026-09-14 02:31:01 -0700 Confirm three company identities and correct company branding
+37b19eaecee58054ac5a8dd8129d0724b9525b44 2026-09-14 02:26:57 -0700 Confirm seven county and association identities with primary evidence
+93dfa90f29a6b59ca7be48814ae65b3bcf91f104 2026-09-14 02:24:17 -0700 Confirm public agencies and research organizations with official sources
+a46752dcc0c397f89048aa13063c303bf093874c 2026-09-14 02:21:12 -0700 Resolve commercial space rename and confirm five operating identities
+5ea7c0023b8214410e7ec1d003189b90bc454a74 2026-09-14 02:17:25 -0700 Confirm eleven organization identities with official evidence
+d3bb0d79d1946ae89d373c68ce3c28afeda042f3 2026-09-14 02:09:32 -0700 Corroborate eight coalition identities from primary records
+0b3d4730ff83b8ea21f3afca9df0f29fec269e45 2026-09-14 02:04:37 -0700 Verify seventeen organization identities and add four official logos
+b490dd27dfc10171791a69f6bd3d3b8f3c586bc1 2026-09-14 01:57:10 -0700 Verify coalition identities and consolidate sourced APTA duplicate
+eaac01da7a5e79b19e2541b0b600bd02c854cb49 2026-09-14 01:49:02 -0700 Verify fourteen organization identities and improve official logo contrast
+9341d8c365eeec30a8c1319099dff07aec755c46 2026-09-14 01:33:56 -0700 Confirm three operating identities and add Caracol wordmark
+b18fb5b3b5d8207b3603255a1a643119d06c93d7 2026-09-14 01:28:20 -0700 Confirm adviser and municipal identities and update carrier status
+b46baae99f6fed72c1fca6cab561193c85212604 2026-09-14 01:24:46 -0700 Verify six additional identities and qualify historical relationships
+9f127c448b5ae4e65495e92311b67a8a67cc7e56 2026-09-14 01:20:48 -0700 Verify coalition, government and company identities with primary evidence
+20b74967883962b2fbc4666a220fb13e1e3421ce 2026-09-14 01:15:25 -0700 Verify ten organization identities and consolidate BSA and Cosentino variants
+fb25badea9cddd879a8ec64c829bbe8939dc5ce2 2026-09-14 01:04:01 -0700 Resolve municipal and subsidiary identities and qualify unsupported entity links
+9464a1a30e46aac0662ad0dec135ecff7252724d 2026-09-14 00:58:44 -0700 Verify seventeen organization identities and replace stale company websites
+fa9f7250b1b9bc2e370bbfe23f6adfa91df8264b 2026-09-14 00:52:10 -0700 Verify Bullish and Bullseye identities and qualify Bumble Bee legal name
+213ca55989d33901db1013b6963ed9e7e5714a2b 2026-09-14 00:48:31 -0700 Confirm construction advocacy and waste service organization identities
+c5f263b65c677185298be8337e664f68179fedf9 2026-09-14 00:45:48 -0700 Classify BAM from its official mutual insurance charter
+8258773438d891b47c5fb5bb2a5d1105e48cff6a 2026-09-14 00:43:47 -0700 Verify healthcare beneficiaries and preserve direct and intermediary records
+aa65e855d957517f983aa47edf3f9177aa091208 2026-09-14 00:40:30 -0700 Resolve current organization websites and consolidate BSA naming history
+8d249a7e443b143373f3aa959ef7f04e717ff7b7 2026-09-14 00:34:25 -0700 Clarify campaign identities, add official logos and consolidate T1 records
+84eb8dae3118e00156c7ddb878c97e0e2e4ec476 2026-09-14 00:31:47 -0700 Verify organization identities and correct intermediary website attribution
+e7dcf29138dadcb1edb28d88cd574b01ca021849 2026-09-14 00:24:01 -0700 Confirm and consolidate Riveer and Tactical Lighting filing pairs
+bfc7951aba70709e47f9bcda47e24e0d3a4fa86e 2026-09-14 00:20:29 -0700 Verify Earth Force and consolidate five filing-name pairs
+e7f33520dc7a237dfd970855d047dab795859832 2026-09-14 00:17:09 -0700 Consolidate Overwatch and separate Novocoast spelling uncertainty
+83252f3a56834c22dbb9c03c1d01ec4d104c2878 2026-09-14 00:15:00 -0700 Verify three represented organizations and qualify Bridger legal entity
+c44fb8ba3e59307081f97d50be8cdf461797aa67 2026-09-14 00:12:33 -0700 Consolidate three verified direct and intermediary filing pairs
+f4070056deb16d442ddffec167cf3d97fede9892 2026-09-14 00:10:23 -0700 Verify six represented organizations and Overwatch branding
+a721c76cd11a155086994d067a480c91d1153def 2026-09-14 00:06:53 -0700 Confirm Cape Endeavors LLC distinct from namesake corporation
+6aa65a175ecb791beab18ddfdef06008cfc2ddc0 2026-09-14 00:03:07 -0700 Verify NEXGEN address match and replace Solcoa icon with wordmark
+17d234e1c0e78640ab57eeaa1dcfece7af328856 2026-09-14 00:00:26 -0700 Remove wrong Bennett website and confirm TMS operator identity
+ee6c3bc890f4bf930121f876eb0509c70a051920 2026-09-13 23:58:18 -0700 Source ACLM nonprofit status from explicit official statement
+fc6b39f0ac18d71a4115af1c6805e8a48806c3f9 2026-09-13 23:56:01 -0700 Confirm ACLM identity and qualify Wild Manta entity distinction
+47f8ff1466847aa7f49f1c024a0cc438360b4dc6 2026-09-13 23:52:53 -0700 Verify Esteve Pharmaceuticals and source reported ownership
+921a9c8f9df98bb89886700cea201333eab75383 2026-09-13 23:50:37 -0700 Confirm Encoura and distinguish DemeRx clinical entity
+cd5cc74e271e136fda65e818216597a3659557cb 2026-09-13 23:47:59 -0700 Confirm Knox legal identity and document PDRI name uncertainty
+da021c087e1f4faddf2b3e496f4fc0a029660ab9 2026-09-13 23:45:15 -0700 Verify Trajector Medical and qualify stale and ambiguous source claims
+ea7c5371671094848756d01d262efc325e72d6ac 2026-09-13 23:42:43 -0700 Verify Pacific Defense and Ondo; qualify Particula legal mismatch
+79e6b05c23667a2b3d6831dcc197289e4a58bf26 2026-09-13 23:40:23 -0700 Verify OmniTRAX and Pike Electric operating identities
+8f3db3c68a7b9bc823a832137ae64d0eac2b6535 2026-09-13 23:38:43 -0700 Document PDS Health identity and add official PFM logo
+8f4beebed35551e9b3e273339374703b5f0216c6 2026-09-13 23:35:43 -0700 Verify Systecon, Western Pacific Timber and WEX Health identities
+3dc98250a4830b3ccb5040a6b972237b94498a0b 2026-09-13 23:33:40 -0700 Verify five organization identities and correct PFM and PharmAdva activity
+3cc2af8ac6728c83f6a52c60345c873765c6bfcd 2026-09-13 23:25:21 -0700 Correct numismatists association website and unrelated party logo
+3191956468070464d9e3dd8efde33f4593f0df8d 2026-09-13 23:22:25 -0700 Consolidate Blue Diamond filings with cooperative identity and logo
+8af5c442db20bb34347d232a439929329752e854 2026-09-13 23:18:53 -0700 Confirm four organizations and correct Proto-Town classification
+fcd915c3b519f381d53596295286a4958f33d4bd 2026-09-13 23:14:09 -0700 Confirm six official operators and document Xtellus name conflict
+cf44624237b4d4677b403d669103f5334e317f25 2026-09-13 23:11:11 -0700 Resolve four companies with registration and ownership evidence
+87e5ec8346cee0b6d274c7b2845c39b31ef1818c 2026-09-13 23:06:58 -0700 Confirm Sentinel Synolo and RWC340B with primary documents
+1bef5ac039ea417893fe0df69490423ffe0c039c 2026-09-13 23:05:21 -0700 Clarify pharmaceutical associations and consolidate PILMA duplicates
+66856a537a5003c5e3b29f4941a80d285aad1a2b 2026-09-13 23:01:46 -0700 Confirm six organization identities and clarify filing intermediaries
+72d127c9fbdca43204fbfc75d5ff299f226af27a 2026-09-13 22:57:51 -0700 Correct PPLA identity and confirm four company operators
+acd24de835d8c117bfd8e1b1d1a3eab90065e96b 2026-09-13 22:48:55 -0700 Verify Civan and Potter addresses and record NTEC tribal ownership
+26be13e0e1ea3aeeab164edcdbb1d386910130ef 2026-09-13 22:46:56 -0700 Confirm ClassWallet and Springfield municipal utility governance
+d03b2709ef46d5d348d18bc3846707e6a682e721 2026-09-13 22:44:25 -0700 Confirm five company identities and document Ampact nonprofit status
+fdef12c1a5e2ad9689be2efe03afc0042caee9ee 2026-09-13 22:41:16 -0700 Confirm eight sourced identities independently of unresolved ownership
+b358aec40601b5423c6ab88985a886834a3d7a5a 2026-09-13 22:37:35 -0700 Use verified full Hyperion and Vorbeck company logos
+0c5f05e9382f40bd37be01c464e1b05e7f55558c 2026-09-13 22:35:08 -0700 Add three verified official icons and clarify Seerist entity scope
+67b45b1cb87c6253fe334e354fdf7d930a7b961f 2026-09-13 22:31:41 -0700 Confirm Apex and i3 operating identities from official company pages
+ef2ecb83da61098c4cbe825e0ea97055dd82416d 2026-09-13 22:29:44 -0700 Confirm Sound Pharma Rebellion and Neros with official legal identity evidence
+c88ea8b3f4fcba93a3b1b6d625ca0e0b9948fb5e 2026-09-13 22:26:38 -0700 Resolve Outpost and Clearspeed identity bridges with source qualifications
+e802063f3369ac6e2f343632bf193852f5e1298a 2026-09-13 22:25:21 -0700 Merge GTS and UPT filing variants using original registration addresses
+10b7ea12f51c2728bca6a27e5fd79379031bbb43 2026-09-13 22:22:24 -0700 Resolve seven identities and source GTS private ownership
+ccb7739771e0cec83497045de5844d98d7b5dd6b 2026-09-13 22:17:52 -0700 Verify five operating identities against official sites and federal awards
+366050e41aca4e7d8cc0dafa789d1701668bf491 2026-09-13 22:15:20 -0700 Clarify represented clients and document PNI legal-name discrepancy
+82cfcc67e77c40fc28e970b604d84f5b34ad83ed 2026-09-13 22:13:17 -0700 Consolidate sourced X-Bow client variants preserving original filings
+60067bc959149f6918f5299fa556b17b8687479e 2026-09-13 22:06:02 -0700 Verify 21 represented clients and clarify eleven directory labels
+d0e13564bdff90eef04f56daf079a1feef3fbde3 2026-09-13 22:04:18 -0700 Confirm 34 reviewed federal name and domain matches
+f484c866edb573be795dbdb8651fc8bdd50a2c86 2026-09-13 22:02:17 -0700 Verify Altaeros and Astrion legal identities
+a45f31ec3ab324666cfeb1e30ab0be87827eeafd 2026-09-13 22:00:22 -0700 Verify Soilcea Li Industries and South 8 identities
+3a4dcc8b6c2952cca0978da21c69be507a99a386 2026-09-13 21:58:16 -0700 Verify NexTech identity and Quantum parent ownership
+3663be158a24ac62c5ad086e003adfaad9189300 2026-09-13 21:56:16 -0700 Add thirteen visually verified official organization logos
+b8ef38eb190891265a851dfa2c0e79c79ef33633 2026-09-13 21:53:54 -0700 Verify SpinQi Flip and Tagup through rendered official websites
+5f5e312f4c73478e7634d2fe51dfbec8bba93296 2026-09-13 21:50:54 -0700 Correct Iridia business description using molecular authentication evidence
+be60aa87b3431bc87598e9361dc3681c59b6b3e0 2026-09-13 21:49:57 -0700 Verify four logos and synchronize resolved profile status counts
+7315492d2880cb31f93543b2c5f86c673cab225a 2026-09-13 21:48:05 -0700 Resolve 21 identities and correct federal contractor websites
+f76994cb01fdff5678ab04399d47196b823aa3ff 2026-09-13 21:45:15 -0700 Verify six additional operating names with federal company evidence
+70e1d786d0784070a2319961d035641f645478cd 2026-09-13 21:44:14 -0700 Resolve 43 identities with reviewed SBIR name and domain evidence
+2cf2f9d118fd7849a3977e7feaf8f60315fb1ba4 2026-09-13 21:41:29 -0700 Verify Darkhive identity against SBIR and company records
+30806dee82ae7d3a97f5bfbbf3419d63e52292d7 2026-09-13 21:39:19 -0700 Verify official Delos logo asset
+60119f9fc596d927443ff379acf0387a511f825a 2026-09-13 21:34:16 -0700 Verify Delek Delos and Delfin identities and ownership distinctions
+5e9f41b5184a3f3c6f29b7236b36e6ffeffee41b 2026-09-13 21:32:05 -0700 Distinguish Decision Sciences companies and verify Deepnight
+caf8616177d266ffc922c985c7f29b4967777733 2026-09-13 21:30:06 -0700 Identify voting advocacy nonprofit and flag contaminated candidate website
+ae42cddf0dfde46d6af03ab4f252e83665a01f9a 2026-09-13 21:28:15 -0700 Clarify Ventura Water and county hospital identity and ownership
+e37b30b2899646ea3acf9ac1694293f607874cb7 2026-09-13 21:25:00 -0700 Confirm Data2 Danti and D-Fend US identities
+64ffb8a6ab5b2d658ac146328d24d10c35bda2f4 2026-09-13 21:22:48 -0700 Verify Datamaxx identity and ownership source
+91efdbac467f7f0445cc3efd32b218c35b697d1c 2026-09-13 21:21:43 -0700 Verify Deacon and DataSpring legal operators
+0691e9903abbe487fba3814f8b9c87c044e07325 2026-09-13 21:20:12 -0700 Resolve Central States funds and Arizona irrigation district
+1390260e2e309a2c5ce54d2c4e81eb12d8627978 2026-09-13 21:17:56 -0700 Verify Cenith and CEPI US legal identities
+c264f526d2e7db9a3bb6513554c379476fcb730d 2026-09-13 21:16:18 -0700 Verify six organization identities against official sources
+5cbb2fcd0546f5e779f7e9e3bbc5bc4c637ef282 2026-09-13 21:09:39 -0700 Confirm CAT Labs and clarify Cascade Space development timeline
+f5fc4f2b68ff0fc95444bf04e928faf93a14120f 2026-09-13 21:07:36 -0700 Verify Carda Careforth and Cascade Designs identities
+b3e069e3c9a6548214367944da7b14cc551ed554 2026-09-13 21:05:34 -0700 Add verified official Attalon wordmark
+9c5a5bdb73806a48f29bdf90b7506d877fcc991b 2026-09-13 21:02:49 -0700 Verify Cabana operator and Cambium filing identities
+f33d0eca9789fa19dd2e766f67cb88c72a0e5ff3 2026-09-13 21:00:16 -0700 Verify CAE USA ownership from FY2026 annual report
+36061aa16616eaa8c638f40ca7bb98367569020b 2026-09-13 20:57:43 -0700 Confirm Caddo Calumet and Cadmus filing identities
+9e9246a4fcd1d2dd7e1275ba47ada63f372ec12e 2026-09-13 20:54:53 -0700 Verify four company identities and repair Buhler profile
+ea674bdd38513cc4fd768a55e08610513ca4a65b 2026-09-13 20:52:16 -0700 Verify four nonprofit identities against official tax disclosures
+de4bec31b65f75cb071d6637ba7d66e6049a9025 2026-09-13 20:49:51 -0700 Verify BigID Atsign Attalon and annotate Atropos acquisition
+ed9d2bd6ab840073092947421f4da0f13b2f30fe 2026-09-13 20:46:12 -0700 Resolve five filing identities and add Columbia Gorge logo
+ee393af40009323e4302a23fbea270c7ddef591f 2026-09-13 20:41:50 -0700 Verify four identities against primary legal and NASA records
+6f85e45447024a1905cd69aa93cdec010c5f2019 2026-09-13 20:37:28 -0700 Add verified Agnes Scott and Gardner-Webb logos
+04eb2d433c76975175bad8bc54e728065b6aaedd 2026-09-13 20:30:14 -0700 Add verified Carlsmed and Chime logos
+d93d15c31ec0d8f06d04355c50db5734780ed324 2026-09-13 20:27:19 -0700 Support verified local logo assets and add official ByteDance SVG
+dca0fd28f390629ca5d873bcb94210694604e3fd 2026-09-13 20:23:42 -0700 Add verified CANPACK group wordmark
+bb986b22c305dddd6dbc230ffda0c1e88d91c16a 2026-09-13 20:21:22 -0700 Add official Microsoft and Burning Man Project logos
+8b95de306fefe2d2a461589feb83d8f290f8af57 2026-09-13 20:18:38 -0700 Explain TP-Link intermediary chain from LDA and legal sources
+01b9fc7bf31dbb503027db2c19c4d8f5e3bd99de 2026-09-13 20:16:17 -0700 Resolve Amp Americas II legal name from dated primary announcement
+4b5ef8d6ef37fbe9666732f4a52674160d766b27 2026-09-13 20:14:18 -0700 Resolve AEM Holdings and AMG Vanadium with primary entity evidence
+b8af8f31fe183e1b8b841a9ead9053d22a2d9624 2026-09-13 20:11:56 -0700 Correct Acxiom LLC regional website using current legal terms
+94091734da05dfb0fe877832904176cd85823c61 2026-09-13 20:09:15 -0700 Distinguish AFGE Council 220 and Local 476 identities
+f57057ff0b943017b10a5099a61de377b1318d74 2026-09-13 20:06:47 -0700 Resolve four identities from substantive legal and organization pages
+0ad9fdd9e3a2e9a498f11be361a4fcc4949dae35 2026-09-13 20:04:35 -0700 Confirm Western Global from substantive regional evidence
+5bf442dfc0c870027937f32a148eeb8e5ba21029 2026-09-13 20:02:18 -0700 Resolve AmericanHort Nebraska and VulnCheck identities
+4227af969b9a49206462df958080b3df3424490f 2026-09-13 19:59:07 -0700 Verify 12 institutional identities and filed websites
+91d3eb91a30b8c4d2d69a96c3e86d77ccc275411 2026-09-13 19:56:28 -0700 Verify 14 identities and highlight Y Combinator
+092f0e498f6a4932c175dbca5569f30e8a5d5751 2026-09-13 19:54:02 -0700 Verify 16 identities with legal and operating evidence
+611969c98ad40971fc2d7e91367055fe16b1bb69 2026-09-13 19:50:19 -0700 Verify 13 organization identities and clarify planned projects
+ecdc5a64bd3a63845ed10faf108beec9e775e276 2026-09-13 19:43:09 -0700 Review seven organizations and add verified Trillium logo
+2a8f58ffd38fdb584c86ca33ceaab87b3895b3bc 2026-09-13 19:39:07 -0700 Review 27 organizations and clarify private development and claims coaching
+958fd040b85f072a0ac316baa21613a85c5340b8 2026-09-13 19:36:04 -0700 Review 12 organizations and verify True Source Honey nonprofit status
+a78a0744f048642d8876ad305ad99820270a4c1e 2026-09-13 19:33:06 -0700 Review 33 organizations and correct incomplete activity descriptions
+cdb752410c294de610e66ca31b90f753ead0d3e3 2026-09-13 19:30:24 -0700 Review six organizations with explicit legal and product-development evidence
+9099d4781906b5727cb1410e279be726bf36da31 2026-09-13 19:27:50 -0700 Review 43 organizations and clarify investigational and development status
+a3d35409574f908e73206d17af9191ee4f4c6489 2026-09-13 19:24:44 -0700 Review 35 organization identities and restore correct Sage logo
+3ab4dcca0f32d38a9583213da0dfd3504c99f5b2 2026-09-13 19:20:36 -0700 Correct Sage website identity and establish Sabine Neches registration match
+16276feae0801802022fa26599ae41b8d3414b4c 2026-09-13 19:19:13 -0700 Review 14 additional government, education and business organizations
+62654ef6d42b0ede46a44429f0307f1b95ca2e3f 2026-09-13 19:16:05 -0700 Review 30 more exact organizations and clarify development versus operations
+e77d9d956847eb2530a87bd2c92c8eca1a7bcaaf 2026-09-13 19:13:49 -0700 Review 37 organization identities with precise activities and ownership evidence
+42db46689f4fa46e6df48391cfcb710952b2b19a 2026-09-13 19:10:46 -0700 Review 30 additional organization identities and flag unsupported website match
+891c6393efec8cfaf059f1bfbe39035ac599dabf 2026-09-13 19:04:18 -0700 Verify 41 organization identities and ownership distinctions
+9b7b314bacc2c35b1a8c42366ba2c9fe311d4146 2026-09-13 19:01:25 -0700 Verify 32 organizations and distinguish proposed financial services
+afe71a0615b792c02351fba8c3ecc377ffe549ae 2026-09-13 18:58:19 -0700 Verify 48 identities and record conflicting product evidence
+0b6cec83d6ba548377e2936bb81917d370dbbaef 2026-09-13 18:54:17 -0700 Verify 46 organizations with precise activity and type evidence
+3008dde582064b87cf6d8cbaeb828c41acf7893f 2026-09-13 18:51:20 -0700 Verify 35 exact identities and clarify association and software activities
+8e1aa4b78384dc0d4a7c2f712328ebb6a6ab123f 2026-09-13 18:47:46 -0700 Verify 36 organization identities and correct development and affiliation claims
+ef18681b57ba7816c7f22f1f97677da0aaf75ec5 2026-09-13 18:44:33 -0700 Verify 29 organization profiles with corrected activities and source distinctions
+1581535d8f31cb7d45df96b1fe9d246bde89ecf6 2026-09-13 18:42:15 -0700 Verify 29 identities and distinguish affiliation and development claims
+0c3246c9606d431b249b1b7c46d4c7d582057d47 2026-09-13 18:39:46 -0700 Verify 40 organization identities and clarify activity and nonprofit evidence
+361ef83ea8833b9adadc8fe987de344281bb9726 2026-09-13 18:32:18 -0700 Confirm 40 profiles with scoped descriptions and official legal evidence
+4a9785b4d613ddbcdd2a9766b61b377d58fae11c 2026-09-13 18:29:38 -0700 Verify 43 organizations and correct GenBioPro activity description
+32a93b5f571ebd621eec4d7f8e263982e457c48b 2026-09-13 18:27:09 -0700 Verify 53 identities and correct EnCharge AI business classification
+321b9f85bd94f7f40f911bb96fbf59cae0fe2f46 2026-09-13 18:23:59 -0700 Confirm 44 organizations and correct current activities and entity scope
+40725291577b9237df5d3c8e44d551b65bd0bff0 2026-09-13 18:21:49 -0700 Verify 41 organization identities from substantive official sources
+8e66f733b4a870369c9c5d1f1aa503b8dd8fe9a0 2026-09-13 18:18:01 -0700 Confirm 34 identities while preserving distinct entities and coalition scope
+1a6750e178a008ab31e797e6b4d09a71328eb9bf 2026-09-13 18:15:37 -0700 Verify 25 organization profiles and remove unsupported identity claims
+f44af8e35f2371373bc378557ad53600b5ea440d 2026-09-13 18:11:56 -0700 Confirm 63 organization identities with legal and activity evidence
+de6c92f08ce192f600fa2f5c6650fcf1542999ed 2026-09-13 18:08:30 -0700 Verify 40 organizations and correct Atomic Canyon and Aztalan identities
+b271840aac01fe8ac19195bc98f8906041a560d4 2026-09-13 18:00:10 -0700 Confirm 45 official organization identities with precise scope notes
+23a0d7cf4c1217dbf80451f270e1455ec1087256 2026-09-13 17:56:22 -0700 Confirm 41 official-site identities and classify Amazon as publicly traded
+7cb9e1762cde138f797711283aefea22c60d9f58 2026-09-13 17:51:49 -0700 Confirm AnewHealth Antares Nuclear and Anthro Energy identities
+338657d616020968a08ad42c7113a27502773348 2026-09-13 17:49:15 -0700 Resolve seven organization identities from official sites and add two assets
+cd03d7b9eb4094f8ac94daa4530f6a0bbfca1c25 2026-09-13 17:45:06 -0700 Add verified organization websites and four official brand assets
+1a2587bcfb9c6577fef7eca9e493ee9b90d1bb84 2026-09-13 17:39:43 -0700 Verify ten remaining government-source identities and official city websites
+b85a7b3c470277c0c6420633750e6a95dd2e03fb 2026-09-13 17:38:12 -0700 Confirm 31 exact organizations and preserve ownership uncertainty
+9db7a2bd1869f6de6cfa9e14e493ea6ebd039f42 2026-09-13 17:35:10 -0700 Verify 28 organization identities against primary government records
+58a5b47c128dcd382640289791103bc0d74dee59 2026-09-13 17:27:25 -0700 Separate Lakewood and Miami filings by verified client jurisdiction
+ca6eb3fe2bf874158f00ef15d8584fe9b5bb0864 2026-09-13 17:23:34 -0700 Confirm 20 organizations against primary government evidence
+a5470059877b064dcbaa47b057affb78d84bdda5 2026-09-13 17:20:20 -0700 Verify five identities and correct Hoh Tribe website and logo
+0a58c12fcbb2656f3f67b9d093cc4d4973faf5ff 2026-09-13 17:17:10 -0700 Verify eight city identities and five official websites
+45da17e5ebeda3fca855b4a71402b4c3463ff6d0 2026-09-13 17:14:59 -0700 Confirm 13 government-backed identities and retain mixed-city ambiguity
+04ab6027fb691ca3b5e131138c2fd0aa4a0c3825 2026-09-13 17:12:33 -0700 Verify 13 identities from government registries and records
+a4d5b65e4173426ad1c25e1ab28aa991b78baf2d 2026-09-13 17:09:37 -0700 Verify seven organizations using government records
+2196e62f5b77662d79edb6c7d8554bcbc2575bfc 2026-09-13 17:06:07 -0700 Confirm 22 identities and add three sourced group logos
+dfdd7b75c241ccb78c44a6d3957371c43258d459 2026-09-13 16:51:16 -0700 Verify 11 identities and remove unsupported rename evidence
+a2435e0486a579213a62bce3ee78597c2c0e81c6 2026-09-13 16:47:11 -0700 Confirm 20 exact organizations from checked SEC evidence
+c40509be87b7a85b28baa53e018d2b9b8b43a0e1 2026-09-13 16:40:37 -0700 Resolve five SEC-backed identities and preserve dated ownership distinctions
+b55620485e6d9c14ccd3913d92c6d766f368fa0f 2026-09-13 16:37:06 -0700 Verify eight featured identities and distinguish hospital and holding-company names
+887c1bd4c9cb616e29c0af3ef14c6d6eaf5bf6ec 2026-09-13 16:33:33 -0700 Clarify intermediary roles and verify seven featured directory entries
+ca73f8beda32a86348e1914a16a74485f3fe9035 2026-09-13 16:30:16 -0700 Verify ten featured organizations and improve entity-specific websites and logos
+53a0913a2dadc7e3c984a6fea1b6398895004271 2026-09-13 16:26:56 -0700 Verify corporate histories and exact identities for nine featured organizations
+84f67ea61dfe59222eaf46b4a245e76d1a8d6b49 2026-09-13 16:23:15 -0700 Clarify ten featured profiles with exact corporate and intermediary evidence
+46b95c25b6fe28bf36ce44fa68c847ee93ca015d 2026-09-13 16:20:18 -0700 Verify nine more featured organization identities and Franklin logo
+731d8009eb82e7fc71c20946ee5b92cf10081d1d 2026-09-13 16:12:15 -0700 Verify six identities and clarify insurer and former-name distinctions
+b6e17c45044333f544bf91bd752e0423a8fdbf97 2026-09-13 16:04:51 -0700 Verify nine identities in EDF to Empower research batch
+41bc4ea8b136c382d3e2cbafbb1190d192101d22 2026-09-13 15:57:29 -0700 Verify eight organization identities and add Dorel logo
+2dfe0576bee7ae370ffe8bd000ce4cf4acbfbe57 2026-09-13 15:48:50 -0700 Consolidate Delta aliases and verify batch 105 identities
+02728f91a10f8546a702c6566436b410cb15d84a 2026-09-13 15:43:16 -0700 Resolve represented clients and cross-check company identities in batch 104
+d3742698db8a7a75db9abd501ff2dd5138c6e770 2026-09-13 15:38:39 -0700 Clarify represented clients and verify batch 103 identities
+f2b0de1c359b5353183fd9393b9e05e2aed43e68 2026-09-13 15:34:31 -0700 Verify featured identities and correct subsidiary scope in batch 102
+8e7347e10155e8d49e547afe113dce19533aedbe 2026-09-13 15:27:06 -0700 Verify nine featured identities and reject Cann namesake match
+ac064518513bf25a2c90ba9c9eab5083727b637b 2026-09-13 15:21:39 -0700 Resolve seven more featured identities with primary evidence
+f3a6ebf7ec81d6c6a7979f3365cc7b1bc765c617 2026-09-13 15:18:41 -0700 Verify eight featured identities and X-Bow logo
+750dc2d661401041c53dd1039c5924cdd8258492 2026-09-13 15:13:58 -0700 Verify featured company identities and current ownership changes
+7d1bf34091916c046cf96919ecb918380a5db3a2 2026-09-13 15:08:38 -0700 Research 19 more featured identities and merge Bancorp duplicates
+92e41cc1d0e39754cea5c6c5a94c5a3aabf61aa4 2026-09-13 14:56:17 -0700 Verify twenty more organizations and clarify parent and affiliate identities
+52c42fb8ed87e69c66e01266e0f07f5ca1990513 2026-09-13 14:49:34 -0700 Verify nineteen organizations and unify UNICEF legal and public names
+e04999c2171eaa8abe35074a7e8c3585a75861cd 2026-09-13 14:44:50 -0700 Verify sixteen more featured organization identities and clarify filing scopes
+8a109f5753c7c700bcb75406aba174b92fc9edb0 2026-09-13 14:35:09 -0700 Confirm 19 identities and consolidate Trust for Public Land records
+be56619b2edfbb725ac7cfad5c5bd6a64cec1050 2026-09-13 14:29:35 -0700 Verify 19 identities and correct museum and subsidiary scope
+20d214e0834b2002eb300990b21e2b1f348e0eb1 2026-09-13 14:24:08 -0700 Verify 18 more organization identities and three official logos
+0082d106c804d41429d2d753dd6e7a8354d95c3e 2026-09-13 14:14:46 -0700 Verify SCORE through TIAA and consolidate Komen legal and DBA records
+e1c33841f12b36f62345b3201c3319f7bc96fae2 2026-09-13 14:09:01 -0700 Research Hartford through Serco and clarify reported client histories
+dc481e7c63e08b60a729442ce1faf164ffb7af07 2026-09-13 14:02:15 -0700 Research TerraPower through GEO and preserve represented-client relationships
+81aeba396dd6fbf2ef9335883da021ad137cd9e6 2026-09-13 03:38:35 -0700 Verify Teamworks through Terawatt identities and official brand assets
+da5915609486bb8245458fe03d5c49f866f1e1e3 2026-09-13 03:27:49 -0700 Research 20 featured entries and resolve Suniva identity and website
+e600e9eb082a9deeb2df1c0ee28616aee06f142b 2026-09-13 03:22:07 -0700 Research 20 featured entries with exact bank and insurance entity distinctions
+afa924a53df3e5c577cf3987a758ea1d885c877a 2026-09-13 03:13:15 -0700 Research next 20 featured entries and consolidate HPE represented-client labels
+644cfd4e3a498d7d0cbcf28a37c42e5cce07207a 2026-09-13 03:09:52 -0700 Research 20 featured organizations and merge CLEAR and Shell name variants
+774372278915deecacea08ba08853aea7d1a1a57 2026-09-13 02:59:19 -0700 Verify featured identities, subsidiary ownership, and official logos
+46ccb2aae9d2feb375c1ddf2bf2b4f06e2ce6145 2026-09-13 02:53:49 -0700 Verify featured agencies and companies; consolidate WETA ferry brand
+b26cf5c80b81787c71407510dfb8fc7004bf4a5b 2026-09-13 02:49:04 -0700 Verify twenty featured identities and current ownership records
+e989ef94108d4fd7a4a0c9d0e1c0bbe9da2b419c 2026-09-13 02:44:55 -0700 Research featured organizations through PVH with sourced identities
+ac1ad26398d03c905673524aed43097b56ba691c 2026-09-13 02:37:07 -0700 Verify 18 identities with pharmaceutical and fitness subsidiary evidence
+21fb3f487e4c58d1b8a54d6e8472ae5ae9545e70 2026-09-13 02:33:18 -0700 Verify 18 identities and distinguish Newsmax holding-company history
+31dc36a20f364e58683e8fa72b44f7e202bdfcf3 2026-09-13 02:29:00 -0700 Verify 16 more identities and correct veterans museum description
+62043c0360737690250fe2045f399ee248f2b426 2026-09-13 02:24:58 -0700 Verify 16 identities, correct Miami Tribe website and merge NASCAR acronym
+dd0c45b63afda86deb5c31417e4664127bb95f33 2026-09-13 02:19:57 -0700 Verify 14 identities, add Mattel logo and merge Mastercard trading name
+a4d149900e0c60ba1794050319eba33b01e7bc42 2026-09-13 02:14:24 -0700 Verify 15 more organization identities and qualify Maersk and M&T scope
+f90319e4aa34ee9b1bab7ba0bd8442693d736f76 2026-09-13 02:03:10 -0700 Confirm fourteen identities using legal filings and official history
+dbdd6507e6dc5de5d14557b974cb7db73f5cc581 2026-09-13 01:58:55 -0700 Confirm thirteen organizations and clarify mutual insurer scope
+7de6609c5209dae2e9c09eea676544db3d677221 2026-09-13 01:55:27 -0700 Verify fifteen identities and guard original research provenance
+9e606d4baadde2ad0708861939d64944081ee0eb 2026-09-13 01:51:28 -0700 Verify sixteen identities add official logos and merge IGS DBA
+92ea80e0de81e6e8abde714579a76b987cbc1641 2026-09-13 01:47:19 -0700 Confirm twenty-seven organization identities and clarify filing name claims
+9e2472002d4663f11ba0cf8f02c3463fb9b33b1a 2026-09-13 01:38:52 -0700 Verify twenty-six identities and correct Huntington Ingalls entity ambiguity
+1d2ef70a2cd244925d570d8a1f20e5b2614009b8 2026-09-13 01:32:21 -0700 Verify twelve identities and add official Home Depot logo
+678ecd1a568040c0491447161a04a0526c26aeb1 2026-09-13 01:27:53 -0700 Verify twenty-four organizations and bridge Highland former name
+5eb3eb847e61ef4780cce00aaa08197404c698f2 2026-09-13 01:22:19 -0700 Verify twenty-four identities and consolidate HPE filing variants
+fb725155e51e935a6e07a23ba4678dac849dbe04 2026-09-13 01:14:03 -0700 Verify nineteen identities and correct Halter organization category
+525449011a7d2025ea22ed89c850910723816b17 2026-09-13 01:09:59 -0700 Verify nineteen organizations and combine three duplicate pairs
+20f06c212e5c490ac5576a1058054f3391ca4037 2026-09-13 01:05:40 -0700 Verify twenty-one identities and three official logos
+9626abcb783b7498b62ab7a41a1a8d16e6e58e18 2026-09-13 01:00:15 -0700 Verify twenty-three organizations with primary identity evidence
+de4223bee9f96d3827ee9795c1015c95780ad864 2026-09-13 00:55:49 -0700 Verify ten organizations and merge FirstKey Homes aliases
+988cf7d67af776abe9d4f88165d244a970e7a4c5 2026-09-13 00:48:22 -0700 Correct two unrelated organization matches and verify host committees
+e6e95e6f0674605617fb90d8b67221bd5e4501f8 2026-09-13 00:42:13 -0700 Verify 24 additional lobbying organizations with original filing context
+57196380eb205b97cf7cc486a1353f4888e8bc28 2026-09-13 00:37:15 -0700 Verify 20 identities and correct Electronic Frontier Foundation mismatch
+5bba5a43d092ce649a264d54f5b8a994d71f256d 2026-09-13 00:31:22 -0700 Verify 22 organization identities and consolidate doTERRA and DPWN records
+487ff5a049b5832a45d6d2054e48c90d631259c9 2026-09-13 00:22:28 -0700 Verify 23 additional organizations and consolidate DIRECTV records
+c6524e0a70332f6cccac501886f181f9b897e69b 2026-09-13 00:16:19 -0700 Verify 32 organization identities and current ownership evidence
+abba6f237aaff13e1514c3a02041f5aedf44f8ae 2026-09-13 00:01:37 -0700 Resolve corporate and nonprofit identities and consolidate three duplicate groups
+9cb58fd090d513c5f17543c81dae992c574f0700 2026-09-12 23:54:48 -0700 Verify municipal and corporate identities and group Anthropic filings
+d4b508df46cd72a7f0029c6528591116e64ec618 2026-09-12 23:47:24 -0700 Verify featured identities, correct ownership and add official logos
+7371906bda3f4a64c7cd619f0f684a137f4fb780 2026-09-12 23:31:29 -0700 Confirm twelve featured identities and resolve Business Roundtable duplicates
+1bbbde6600b99771e207f776b1a633905e1b733a 2026-09-12 23:21:26 -0700 Confirm 166 organization identities and add eight official logos
+df058c7e934dfaba928685c7ec0d7c5671aa1b21 2026-09-12 23:05:59 -0700 Publish current researched directory snapshot; full research history retained on main
+5998e7bd10d77e3417febb1fc8bd1516ff4529d9 2026-09-12 23:02:30 -0700 Confirm 26 identities and add twelve official logos
+8eff1e12c5769afbcf91b4aec522c24a91760bb4 2026-09-12 22:55:22 -0700 Verify 63 more identities from recovered sites and address variants
+bd63fb08e8a56b9cda813c1a1e0c8adb5e596811 2026-09-12 22:49:15 -0700 Resolve 54 identities using legal pages and recovered official sites
+f40b78b0088122fbe68459cead3c7ee571ddc1f5 2026-09-12 22:40:42 -0700 Confirm 67 more lobbying identities and merge WOCN aliases
+d78b0f82cfd3808d2af0a68dabe69d5cff65fc9e 2026-09-12 22:35:43 -0700 Confirm 62 lobbying identities and add Ryan and Smart Shooter logos
+dc804253805338155a6e172d753c4d46f600c084 2026-09-12 22:29:52 -0700 Verify 84 more lobbying identities and merge Shift5 and RTX variants
+fc4477dd483c6e46ecde7f0310ff91d9ed42911b 2026-09-12 22:19:20 -0700 Confirm 83 identities, merge Physical Sciences duplicates, and add official logos
+cadc5c32a9c49d1c4d72d12ae58e12381d53b2e5 2026-09-12 22:12:06 -0700 Confirm 95 identities and merge Partner Therapeutics duplicate records
+a0a283f096758d6589be41f607724229d76f5dab 2026-09-12 22:01:08 -0700 Confirm 92 organization identities and add sourced ownership and logo details
+01ded1e8840370cc51ca2bfc49f70c1aa035b305 2026-09-12 21:53:30 -0700 Confirm 93 identities, merge three duplicate groups, and remove unrelated citations
+a3322d29b9574a0b1ab1e99e0af95ca1a5d80388 2026-09-12 21:43:43 -0700 Verify 90 identities, five logos and ownership statements
+d170caba8a4e7e2fd0c2b15705b82a3333d9854a 2026-09-12 21:35:52 -0700 Confirm 93 filing identities and correct unsupported provenance note
+4ec0051c10cba9ab562e76ec3abf8d60948da4fa 2026-09-12 21:27:05 -0700 Confirm 69 identities and source ownership and official logos
+08745ef6078f8e7c36f2389ec8e9eff2bf838afa 2026-09-12 21:17:21 -0700 Confirm 59 organization identities with filing and official address evidence
+88b78e9a722567ab5c91303e93417c329c4ebd08 2026-09-12 21:07:19 -0700 Verify 37 further organization identities from saved primary evidence
+80fdfa12187c4bb2a936d47d1910ef9ff888d539 2026-09-12 20:59:40 -0700 Verify ten organization identities against filing addresses
+de9196e8647d08ec8b66d2725a9c1eb1da044c02 2026-09-12 20:50:58 -0700 Clarify association name changes and clean evidence notes
+be09d7dcd4a408d13b8fba9ed36e40bba0cdae46 2026-09-12 20:43:20 -0700 Restore exact Amazon filing names and verify AANA identity
+3d33190b80e95477c6229f1e01976a4aebc0ffca 2026-09-12 20:37:45 -0700 Correct organization identity matches and fleet association website
+50105fd4f65174ed129e80e58540e93bdb445d73 2026-09-12 20:25:55 -0700 Resolve exact IRS identity matches and flag a conflicting foundation match
+9fcf7e7712e9668b64bb1d491293089879f42f57 2026-09-12 20:22:17 -0700 Verify eight organizations and consolidate AXPC filing aliases
+a2f90bca36d8abca433796db209181dc7471e65c 2026-09-12 20:14:24 -0700 Resolve company identities and consolidate verified Allocore and Altria aliases
+38cb737583d569942bd038f8f5e0e15b0b286471 2026-09-12 20:09:01 -0700 Confirm ten further coalition and organization identities
+594d977241097aa3bcf37ab9274547b5d8862eaa 2026-09-12 20:05:50 -0700 Verify fourteen lobbying identities and clarify organization annotations
+a74ae38f18d20e8fa75cb83f9172392e4ddc4af2 2026-09-12 19:55:08 -0700 Annotate lobbying entities with registry evidence and official logos
+11b0e24575a9c394f09f5d33b316330985bc7a47 2026-09-12 19:44:40 -0700 Verify organization identities and clarify ownership with primary evidence
+4efa169e63dacecbfcc1f052993ea740d2b3f9a7 2026-09-12 19:24:18 -0700 Merge verified aliases and update six organization profiles
+a9dbca341418bb0667da78e672aafbb60ecbd37d 2026-09-12 19:18:44 -0700 Verify aviation and healthcare identities and repair coalition website
+db3591c987b1069c493bd94a70dea1764fd3caf3 2026-09-12 19:13:54 -0700 Verify eleven organization identities with primary records
+6920d1aae8ae9db1d84e1f21ffe7d0026a1e6d81 2026-09-12 19:02:20 -0700 Corroborate fourteen lobbying identities and add official logos
+8683d7174c4a9d038b16cb7d5fa2c76ec582e089 2026-09-12 18:51:57 -0700 Confirm fifteen identities, resolve Accendra duplicate, and add logos
+5301c8766a7d5a68fe213eb353442d888cfb3fa3 2026-09-12 18:42:25 -0700 Confirm sixteen lobbying identities and add three sourced logos
+9a4173f93cc45f16ab62ea231a3e36026e750c51 2026-09-12 18:32:31 -0700 Confirm seven organization identities and add two official logos
+c1c8e14bfa2acb534345436beab28c4bfeacfaf0 2026-09-12 18:22:27 -0700 Confirm 21 identities and merge two evidenced name variants
+29bb1d75d8afd76fc702b4d6c4a7ae135f9fdbd5 2026-09-12 18:14:32 -0700 Confirm ten organization identities and remove unverified ACCA assets
+7974c7a97d7e2c786b839b57edc19f906385f365 2026-09-12 18:05:38 -0700 Corroborate Amex subsidiary and three association identities
+3a602f5af83216c4028ea86f62b04a3c6237eff0 2026-09-12 17:59:24 -0700 Confirm four organization identities with original records
+20e622f8d61de55c8acf25d1264cae35bb91b570 2026-09-12 17:54:24 -0700 Add 173 verified logos and 18 sourced identity confirmations
+d6abade796ab12e10143fc7a2b1753b57c988a86 2026-09-12 17:39:37 -0700 Add 235 reviewed logos and 32 exact registry identity matches
+a98d721c004ac26fdfb3db5d9bb97d16eb4b9018 2026-09-12 17:30:12 -0700 Confirm 82 identities from original records and recover 11 official logos
+e960e44bfb444648fefbb11795a35969a4360173 2026-09-12 17:21:58 -0700 Add 260 reviewed logos and resolve 13 organization identities
+dc32e45917d61bf9d91e9fdd73ac7fac67b64fc4 2026-09-12 17:09:06 -0700 Add 97 reviewed organization logos and confirm four identities
+69934ce5e6615ee8842144f14ca91605546ddd4b 2026-09-12 17:00:33 -0700 Consolidate 60 additional evidence-reviewed organization groups
+04511c9735c056720e8c1112f1c795f88c29a4d4 2026-09-12 16:54:14 -0700 Consolidate 42 evidence-reviewed duplicate organization groups
+21c64d4cc5e76fd29d242532cbde391ed123905a 2026-09-12 16:41:34 -0700 Add 46 verified logos and confirm three legal identities with official evidence
+3f60c3ebf9d0cc08e9a096f582a7d471f516dc5e 2026-09-12 16:37:20 -0700 Recover nine official logos from lazy-loaded images and inline SVGs
+dd87392b78a62708f7713ba442a9a0e0f2b9c25a 2026-09-12 16:29:23 -0700 Add 35 visually verified organization logos with readable backgrounds
+3992a5327aec9dad172ff879b925c9e9786a4a57 2026-09-12 16:27:04 -0700 Confirm 15 organization identities through official legal disclosures
+e0b823a554b0c4b849465e58fb3fb9a081c91360 2026-09-12 16:20:52 -0700 Verify nine company identities against explicit official ownership statements
+8176c53ba637041b5c58dc3fc8ec4a1b2e2c85b6 2026-09-12 16:18:44 -0700 Replace government domain candidates with five verified official websites
+135e8acc2ec81f2aa66477860d9939033b65d7e4 2026-09-12 16:17:17 -0700 Verify 83 government identities against current registry and original filings
+b2b0a160eb1bd323f36f14538398573d3024ba6e 2026-09-12 16:12:36 -0700 Verify 43 nonprofit websites and add 30 visually checked official logos
+a2a4516f159af35383430e3f48a9ec62e956b559 2026-09-12 16:09:53 -0700 Verify 57 nonprofit identities through original registration documents
+a97fceab71dbe4fdaa12bf30b709273f6a19f59b 2026-09-12 16:07:16 -0700 Resolve 18 further identities against original disclosures and IRS records
+354019f2e0cfeeaa3c3e4f98296234d2c646d2c9 2026-09-12 16:02:19 -0700 Verify 175 nonprofit identities against original filing and IRS records
+d7dd5c0272da73ea57be4d2bfbaa837a20cffc47 2026-09-12 16:00:44 -0700 Correct subsidiary ownership for Santander US and Athene
+22375f0ce729f7575b6fce78eae45d700034da05 2026-09-12 15:59:38 -0700 Add twelve visually verified official company logos
+b03504804997b2ca9a6e8e7e1787e27d656445a2 2026-09-12 15:58:25 -0700 Verify fourteen issuer websites after batch page review
+16b981e4baac523f32a189de5e0b87a03629bc57 2026-09-12 15:56:27 -0700 Resolve two identities and remove mismatched ABCO website
+0dfcda20897ddc3a1d919460dc6a33a7ccdb3640 2026-09-12 15:55:44 -0700 Confirm strict legal-name issuer matches from SEC batch join
+9331fc87fbcdb218946ceff5153ebd64c16e628a 2026-09-12 15:53:05 -0700 Verify 64 exact issuer identities against fresh SEC records
+a19e21dc37ec0e96a183a81bdf4285c9bc5241e4 2026-09-12 15:50:58 -0700 Resolve ten public issuer profiles after evidence audit
+243938dab93b91447c984eb0c91f8e6201f7cfbc 2026-09-10 20:48:24 -0700 Confirm SAIC and UNFI issuer identities
+76c28fccb2aa9c922879cc05dbc46eed961983f3 2026-09-10 20:41:16 -0700 Clarify Primer Neuralink and IoECorp profiles with primary sources
+c2b8c47e94a448b0ccc4643f816c591491e53e7a 2026-09-10 20:39:50 -0700 Replace Optiver favicon with sourced official wordmark
+5c9225b444e658c6934aba9c8d07ed279a5f10a6 2026-09-10 20:38:01 -0700 Document JBS successor and Diversified Energy legal identity
+3f98ebfff189893a8cb46ac3d5ca6a9f37a5ca17 2026-09-10 20:36:44 -0700 Clarify ONWARD and Optiver entities and verify Honolulu
+3cc7ff1968bdff3884e5ef467c2bf6dcb01d85d1 2026-09-10 20:32:39 -0700 Verify Paramount Pittsburgh and Juneau government profiles
+27ae33ab3b743c0f6f4c5deae6a91554ba7da100 2026-09-10 20:31:30 -0700 Verify Pensacola Perris and Petal city profiles
+5365327ec2813c0ac5f26ed2ddb9397e3c90061b 2026-09-10 20:30:29 -0700 Add verified Palo Alto logo with readable background
+179d11dfa1b3df9a5368a447352062fb11edb935 2026-09-10 20:29:37 -0700 Verify Pacifica Palo Alto and Paso Robles identities
+91d33a174eaf79f460197d68bd538ea867459bcb 2026-09-10 20:28:23 -0700 Verify Newport Beach Orange and Palm Desert profiles
+7ee566584bccd7838293cd5f3637023a70f53a0a 2026-09-10 20:27:16 -0700 Verify Miami Springs and Myrtle Beach city profiles
+7bbc69af1bbba4dee972b058f8defedf504ef292 2026-09-10 20:26:20 -0700 Verify Mountlake Terrace New Orleans and Newark identities
+2179d55747da5e90f3edec1434b787f83309e8d1 2026-09-10 20:25:18 -0700 Add visually verified Lemoore city logo
+ef96038c6218d7a9f7460539994880af06b3f12c 2026-09-10 20:24:17 -0700 Verify Monmouth Moorhead and Mountain View profiles
+84907f53ec10d704d06c1332e410c2500076fbca 2026-09-10 20:23:17 -0700 Verify Medical Lake Memphis and Lancaster profiles
+89239f496c0893732ef8f94f5715cf15600a4d88 2026-09-10 20:19:43 -0700 Verify Livermore Los Angeles and Medford identities
+c001c280f0f6eb554a9bcbc270c76dd6b39d9ade 2026-09-10 20:18:42 -0700 Verify Laguna Beach Lemoore and Lexington identities
+76f495093118e7f4ab080eb4129d31f5b3afa3aa 2026-09-10 20:17:39 -0700 Verify Westminster Winter Haven and La Quinta profiles
+ab67be2d0ed6f99a408b920680f2bfe45b620999 2026-09-10 20:16:31 -0700 Add visually verified Solon and West Monroe logos
+5463b7d9b461d19f6b7ddc3fee70d750cfda82e2 2026-09-10 20:15:36 -0700 Verify four city identities and website destinations
+084d9981e4c273735fd62bbbd390bb99f59c5955 2026-09-10 20:14:35 -0700 Verify six municipal profiles and correct official domains
+47faa565fefb65811af42889a3b99bda5567edbf 2026-09-10 20:13:28 -0700 Verify SeaTac Solon South Pasadena and St Louis Park identities
+95906cd473e793b516942e3d17b89f83a8e34300 2026-09-10 20:08:47 -0700 Verify four city identities and clarify municipal services
+220da6b958bfe49fdb71a990ed1dcb04114c4313 2026-09-10 20:07:42 -0700 Verify six government profiles and correct jurisdiction types
+7dc3d529a2416be6c81525f09b96b6700a33a97d 2026-09-10 20:06:25 -0700 Resolve Kingman with official evidence and verify La Habra logo
+bd7429465ab89883e85fd06916646c5c6b630bb1 2026-09-10 20:05:03 -0700 Verify local government identities and correct Fallbrook district classification
+d594a342ebeac43f37555c9e11a9ecfcfc7e06b1 2026-09-10 20:03:34 -0700 Verify eight city profiles with official service descriptions
+14d6c32c3c83eabda4343c408637834f5ad08bc1 2026-09-10 19:59:25 -0700 Verify Healdsburg logo and improve Greeley logo contrast
+fa69664d0a96523763a462c228a3c7a80d93175b 2026-09-10 19:58:26 -0700 Verify eight municipal profiles and clarify city services
+ad4a3930ca1444f79ce6f96112a41631cb8720ac 2026-09-10 19:57:03 -0700 Verify eight municipal profiles and distinguish Glendale jurisdictions
+595a7663cea54d9877a6c6e8d946c44afaaa36a4 2026-09-10 19:55:50 -0700 Add visually verified Dublin Gallup and Coral Gables logos
+e8d49c2b59d767ace0237103e3375dedf14448fa 2026-09-10 19:54:45 -0700 Verify eight city identities against municipal sources
+574c3172c4147a6417e1c4fd8f6b27bf08e50659 2026-09-10 19:53:23 -0700 Verify five municipal identities and current official websites
+06af322eb27119059a21663568c70622eb871c85 2026-09-10 19:48:43 -0700 Source private ownership for KPK and Intrax
+4f30d6f3d81de5dfa8413bcfeda985f7f261d1d0 2026-09-10 19:47:28 -0700 Resolve HFA and Fresno healthcare legal-name relationships
+4f5b7db77bbe4f5ccf37fabda999bcc446214e71 2026-09-10 19:44:14 -0700 Verify five organization identities and preserve name histories
+77be621aa00e6f82e582f94f2eef187708074dfa 2026-09-10 19:42:46 -0700 Verify four industry and advocacy organization profiles
+e8ce0340c6d7fe36733c7b263f29815d68443247 2026-09-10 19:41:27 -0700 Verify five nonprofit identities and clarify supporting entity roles
+bbe4b19e7b76c04137792df7489bc73bb4b5e607 2026-09-10 19:39:57 -0700 Resolve foundation and trading-name identities with official evidence
+8621ab8145ac01747f909a3b80287068d093c5a9 2026-09-10 19:38:19 -0700 Clarify WAC rebrand and Accumulus separation in four verified profiles
+4c509b8024f749a3aa362a637e61511f26c1470b 2026-09-10 19:37:02 -0700 Verify five associations and nonprofits with corrected websites
+55eb6b4ae11b8a9ff29a820e5a62a80e313fe1bf 2026-09-10 19:35:49 -0700 Verify four healthcare and education organization identities
+1825e118bd8f7c22da0615e353b85809f3d33398 2026-09-10 19:31:08 -0700 Verify three association profiles and clarify National Council name history
+21ce262f8763c2b54ae608c603d4d9e50101757c 2026-09-10 19:29:46 -0700 Recover NAfME official identity and document conservation follow-up
+afe457933ab146208e712e7924041d03cfd7b704 2026-09-10 19:28:39 -0700 Verify three organization profiles and remove invalid website placeholders
+6ace1489388f0295fe460423bb9374402214eaab 2026-09-10 19:27:16 -0700 Verify four association identities and update official domains
+698ac11f52aaaa9de12427565737c68505934672 2026-09-10 19:23:01 -0700 Verify four professional and nonprofit association identities
+f6c5a629af7d058a22c86869b10fe382d2448811 2026-09-10 19:21:36 -0700 Verify six nonprofit and professional organization profiles
+d131e36b755ed5cf8db64081d765057962160e03 2026-09-10 19:20:18 -0700 Verify five organization profiles from official identity evidence
+07eed8ead9ab48694e48039b47f865d82d648cb2 2026-09-10 19:18:45 -0700 Resolve US Global Leadership Campaign identity using official membership evidence
+87538ee4b127dffba1ce43d66e2e7b266034406e 2026-09-10 19:17:45 -0700 Verify four association profiles and document Metro rebrand
+06708c104fa1cc7ae01e3a73066d9c8d3c640ea4 2026-09-10 19:16:12 -0700 Add visually verified Rhombus Power logo
+bc2a51313b7363d90e77fc7f140e790dfe01c1fe 2026-09-10 19:14:09 -0700 Confirm six professional and advocacy organization profiles
+a9312e0d63ea49c088c8d9af47d33b5445741ecc 2026-09-10 19:12:28 -0700 Verify eight organization identities and clarify activities
+6ff4cc4bd18c3a7f9d5c2a64c7892b4d5b336d7b 2026-09-10 19:10:38 -0700 Confirm six nonprofit and trade organization identities from official sources
+70390ec895d58904268d039383ee6b88a982525c 2026-09-10 19:05:25 -0700 Verify eight association and nonprofit profiles
+1d9a069d5d2fe9c9df52fad96d74672fe182fd2d 2026-09-10 19:03:29 -0700 Verify nine profiles and document contractor website gap
+8c9aa20b06fcbd5a0f37fc91367f1f22839e5abb 2026-09-10 19:01:14 -0700 Verify GHIC and Cleveland museum identities
+a63231e977817b0f69d0a771f625986677e98624 2026-09-10 18:59:01 -0700 Clarify twelve organizations and verify official websites
+a99d907fabbeebc171d00bcc4a5c0e880980a73a 2026-09-10 18:56:45 -0700 Verify ten nonprofit and association identities
+728737fddac6acf628c441a47fe9955ad11794a7 2026-09-10 18:54:45 -0700 Add reviewed Oatly and Nazanin Boniadi branding
+dc1b01c6c86f4f6a60e39851f63fb9cdb8bf225b 2026-09-10 18:50:50 -0700 Verify six nonprofit identities against official websites
+d2fc7e51a76c47b39d013fbc3f85679c3616cf2f 2026-09-10 18:45:09 -0700 Complete fourteen nonprofit profiles with official identity evidence
+122adcef0b1283d138c32f9eb010cb468dd37a81 2026-09-10 18:40:37 -0700 Add five visually reviewed official organization logos
+6d882152f5420f7a0ed4da988f63597da0a45ebb 2026-09-10 18:36:56 -0700 Correct 462 tax-exempt labels using exact IRS and disclosure links
+8bc4c1f618c0c450d12fd54de021655585a53d07 2026-09-10 18:33:50 -0700 Verify five nonprofit identities and correct six tax classifications
+10fa2678da62cd35b6fdd4d7bc2f120c4a417d7b 2026-09-10 18:31:54 -0700 Complete four nonprofit identity and classification reviews
+1914e3e312d4d8112460354c28d9a7a61a9ee39c 2026-09-10 18:27:44 -0700 Add five reviewed organization logos including repaired header assets
+29b21ff60a5d1ceb06ddb99322e3d2114e603987 2026-09-10 18:25:02 -0700 Verify healthcare identity and correct foundation classification and logos
+f15121c640d50e56398a4072a3adbab092cfa6d4 2026-09-10 18:18:02 -0700 Add thirteen reviewed official organization logos
+8b27882e0ff66ff5296510675da8f36c9f594ba0 2026-09-10 18:13:12 -0700 Replace unrelated logo candidates with four official header assets
+4968be692a042cce088ac29ac325b2e9cef46046 2026-09-10 18:10:37 -0700 Add seven verified logos and tighten filing source attribution
+67d76f3005a1206269c2d93c263196962c4ca2d1 2026-09-10 18:08:31 -0700 Resolve coalition and broadcaster identity links from 2026 filings
+5a39d34f5fa4a59e9cfa27f53fedb4a77d5b40ea 2026-09-10 18:06:18 -0700 Verify PHCC and Barksdale Forward against 2026 lobbying filings
+0de21ee4c931c83c8ebc2c35bb6df14670454540 2026-09-10 18:03:37 -0700 Confirm nonprofit identities and correct Action affiliate branding
+eafc742ae712a745f94cdcd9c4c4e47d802892c5 2026-09-10 18:01:18 -0700 Add ten individually reviewed organization branding assets
+12587971ea6ba34aaf82c487a34e6ddc49954c94 2026-09-10 17:58:56 -0700 Confirm credit union ownership and legal forms with official evidence
+4900f80f218fcb034cc3b592fdb5f695ba4ef6d1 2026-09-10 17:53:53 -0700 Add four reviewed official logos including corrected CSPA branding
+031feb4c2e8cbf920c70ce912fa48e45c84cd92c 2026-09-10 17:52:19 -0700 Correct Ask Sage subsidiary identity and add verified organization logos
+8d24803bbb375250bf31d5b07d1b69dda264784f 2026-09-09 13:06:33 -0700 Merge Anduril records using matching registration addresses
+942c3b364848aab029a2b1d950f7e7a67b9eb26d 2026-09-09 13:04:18 -0700 Add reviewed Amaero Anduril Arlo and Arotech logos
+857e06922bc9d08ab2bbca2ea7547216bc35d46b 2026-09-09 13:02:08 -0700 Unify AMD name variants and add verified issuer logo
+77356ae02ce378b189fcf053d5e39b9fff950eda 2026-09-09 12:59:53 -0700 Verify secure URL for 340B Working Table logo
+0477b3019eae565391c4ca060295370191ddf792 2026-09-09 12:59:04 -0700 Add eighteen verified logos and retain uncertain brand matches for review
+a9aa9a6aaa11465f6fa9f9957755ab561fca189f 2026-09-09 12:57:23 -0700 Add fifteen verified logos including Roku and Owens Corning
+5dccdc9834516ceceb983c6f22d3ddc156174bbc 2026-09-09 12:53:01 -0700 Add thirty-seven reviewed official-site logos
+581d5399c5599e57e455d183dd0c2bf8d0120b1f 2026-09-09 12:50:27 -0700 Add seventeen visually verified organization logos
+75866b916530f92983b022b49b130e54c551d1da 2026-09-09 12:48:02 -0700 Add five verified organization logos with readable backgrounds
+fc807251b78c5da1cc8997aefa2d5bb956e5f4f7 2026-09-09 12:45:53 -0700 Verify Amnesty USA and America250 nonprofit identities
+4ae75a02ba80eaf036961a9d32635eb6a0dd87e7 2026-09-09 12:41:33 -0700 Separate Douglas County jurisdictions and export resolved 2026 entities
+0ab2152b69d11d7354612774c71ee7a8c018a409 2026-09-09 12:33:30 -0700 Document verified government name collisions before splitting records
+640b3f14b92eb36effc30958c3360dbb1979ae22 2026-09-09 12:30:32 -0700 Resolve Corcoran and Maricopa jurisdiction from detailed LDA records
+971ceb3c8628f45d4caeaae722fd9d0fb437591c 2026-09-09 12:27:43 -0700 Identify CSC Sugar and botanical advocacy organization with logos
+acd6866e0ce4cca19f7208234f73a59979e8e466 2026-09-09 12:23:13 -0700 Resolve Hermosa former name and Azorna provider identity
+85226057ce73ea8ac932cab1f4c96e6b81ad58d2 2026-09-09 12:20:18 -0700 Research AFIT advocacy and Ampwave manufacturing identities
+cd5cf9204884746c06439d864d9b8962887e7d01 2026-09-09 12:18:03 -0700 Identify AmeriCorps Seniors Professional Network and official branding
+d534dd9e9783e80b699f8d79ed6b3f1231924b29 2026-09-09 12:14:46 -0700 Resolve Albion and Aerodesign identities with primary sources
+2cf50c6c2c6887bfe9d752183932cf7f717d9f3a 2026-09-09 12:05:57 -0700 Clarify Acelen Renewables ownership and development-stage operations
+1a39e4aed5d00a1a18285170593697af41633f23 2026-09-09 10:50:08 -0700 Complete sourced TSC and A New Policy organization profiles
+8d1875a6a89b43c7d081118b490c84995be8df6f 2026-09-09 10:46:33 -0700 Add five verified corporate and civic logos
+baa2d0ca1b63587742f4b3131e8942a542a242ad 2026-09-09 07:49:06 -0700 Recover official Texas Biomed and Highway Users logos
+547dffef9b40b6e99a059c7a4a0d8456fb2babe6 2026-09-09 04:45:45 -0700 Resolve Maryland council tax status and document geothermal affiliate
+a24005eb525b2108f12a7db6fd5b56148499025e 2026-09-09 04:40:55 -0700 Clarify nonprofit corporate form and tax evidence scope
+8d6845a0a36c81e1cc5bdf8bb778911e5ced05bf 2026-09-09 04:38:51 -0700 Recover NVIDIA embedded logo and MPR stylesheet logo
+a52d9762d7772a7c1b8597d465b45a860a57ae2e 2026-09-09 04:34:02 -0700 Add two hospital logos and Alliant Energy branding
+f79800d4759e3162ff67f42378726d788492d496 2026-09-09 04:31:59 -0700 Add verified AFSA and ASCRS official logos
+329510dff3bfc79e92776f5114d6afa21c618529 2026-09-09 04:29:13 -0700 Document three exact organization ownership classifications
+4ada5595c6d2838b822bbd9805124e1f0839b721 2026-09-09 04:24:46 -0700 Resolve six ownership gaps from direct organization evidence
+c5d7917bc40f3f13a8ee04656cece524d338e174 2026-09-09 03:25:47 -0700 Connect Rippling and Helium brands to exact lobbying entities
+2b254bffe8ffc2ff9ea259af3b62db5ca97e9227 2026-09-09 03:23:06 -0700 Verify IWLA NPPC and neurology academy tax status
+55408f6fd3aedea42d9c6699c2561baba98e38c6 2026-09-09 03:18:21 -0700 Add verified AMAC Action IWLA and ASTS logos
+5a1ae4f1619d13b056c3a0abd80b5cf7471ab69d 2026-09-09 03:15:37 -0700 Verify brain coalition, Parents Anonymous and Mohs society status
+105e981e77d18f12298ee0f4552c2e7440d568f0 2026-09-09 03:12:25 -0700 Source five organizational nonprofit classifications
+53f86de64c8f07397f628353916078c4a909869e 2026-09-09 03:08:08 -0700 Resolve Highmark and rice association nonprofit identities
+9cffacbfcc8054afb9e63458d7e2c5166bf626b8 2026-09-09 03:03:16 -0700 Verify nonprofit affiliate identities and legal forms
+48d812d7f79eafb00b2ff0b63155729442809aed 2026-09-09 02:55:22 -0700 Source nonprofit status for nine additional organizations
+181d890d551879b15632194b42458eadf6089d34 2026-09-09 02:52:53 -0700 Verify fifteen nonprofit classifications from contact and about pages
+b4c4233baa39ec9cfecaeb409c074e1337e43888 2026-09-09 02:47:17 -0700 Add verified Anderson University and ISSA logos
+49f9287f227994da346389fb08208b2a01fe0cc3 2026-09-09 02:42:15 -0700 Verify 49 IRS classifications with official address evidence
+ba04462b438f181bc0f66c9df68c1bf9d3f4e932 2026-09-09 02:36:43 -0700 Verify eleven nonprofit classifications against IRS and official sites
+9dd7f78b367ac7a31888c46293b6ad242cfbfaa6 2026-09-09 02:32:41 -0700 Document Tuffaloy and Apptronik ownership evidence
+07fdd51f3d4be99c82dc60fc4efd55acfcd5f81f 2026-09-09 02:30:51 -0700 Source public and nonprofit status for three organizations
+a16505cd0372ff7a8f20661491d36bb1ce39d899 2026-09-09 02:28:12 -0700 Clarify Innovate Alabama statutory public corporation status
+73f7a5b0b907332afe007649ac5373baa0391cda 2026-09-09 02:20:40 -0700 Merge verified NY Waterway naming variants and document ownership
+31bc718e2ed1e3af34320a84290a8153eb3e9837 2026-09-09 02:17:19 -0700 Verify QuVa private ownership and current company website
+c6f64fa635441184166429868dea76fc0dbc4ec7 2026-09-09 02:14:51 -0700 Include mutual ownership in member-owned filter
+0c65ee6879f43cc1e13fc9931e1232b83650072a 2026-09-09 02:13:27 -0700 Clarify TruStage mutual ownership and MBDA US identity
+3f8ca02663d5a9ba5db76251ed3fb5bbf95f09a1 2026-09-09 02:08:40 -0700 Clarify ownership evidence wording and resolve four classifications
+450f5409e9d55eeb22fd32139ea9ac924650eb81 2026-09-09 01:52:23 -0700 Resolve NextNav subsidiary and flag IonQ legal name mismatch
+e0dd4ffe30667d7ae658725ab2e6e74c09f73651 2026-09-09 01:49:00 -0700 Correct Golden State Medical Supply identity and assets
+1a18b4abb6480d40bd4ef4b839f3050eecb96cae 2026-09-09 01:44:46 -0700 Resolve kidney care identity and healthcare ownership evidence
+325a1061a8a80f6a170f9f2ef7656928b9813721 2026-09-09 01:41:05 -0700 Verify Yubico US subsidiary ownership against annual report
+331580313d686f6572db8e528f576d9026093adf 2026-09-09 01:35:27 -0700 Document ZeroFox private ownership and operating subsidiary relationship
+42bc10ad64b77b83f2a7bd26a7e7c08323f59b4c 2026-09-09 01:30:55 -0700 Resolve eight ownership gaps from individually checked portfolio matches
+9ac1eb05b3d6418dc333ceb3100698f4b8237c2f 2026-09-09 01:26:45 -0700 Resolve six private-company classifications from investor records
+23139002dcd3c212072ea2cbb069bf180f64c2f8 2026-09-09 01:24:06 -0700 Source nonprofit classifications for four national associations
+22f1e05c29dbff9b4a88c1112a7f7c5c18bcdfc5 2026-09-09 01:21:14 -0700 Document NewGlobe private ownership and preserve official SVG branding
+7695837f59a355b8d29b9afe0a471c6d40a647f5 2026-09-09 01:16:44 -0700 Consolidate Platform Aerospace legal and trading names
+4b699b776177d0fe6dd19e106de6ffdc9a1e3b5c 2026-09-09 01:14:28 -0700 Verify final 23 assets in saved partial-site review batch
+af44ea8ad25ddbbebe30fd3a1250628f0dc74c60 2026-09-09 01:11:35 -0700 Add 19 official assets and correct unsupported website certainty
+88816df47fd6df026f7a540153ede935ef4daadf 2026-09-09 01:08:13 -0700 Add 38 verified assets from individual website reviews
+d4003b69584500637bcf845b49ed01f4b144fd94 2026-09-09 01:04:20 -0700 Consolidate Mill Industries aliases using original registrations
+bad2c5fb22e5145cf756970f7cf2e0af6fcef9c2 2026-09-09 01:02:33 -0700 Verify 16 additional organization branding assets
+2387f8a7ee192ca2bfed8e42b500c3d4507c06ff 2026-09-09 00:59:45 -0700 Add 44 verified official assets for 2026 organizations
+60615fb979c22f1e10283bf916351829eb6f16c4 2026-09-09 00:53:12 -0700 Add 33 official assets and correct Forest Landowners website
+eabd4ea80db19539c46a7c9182f768564d3b2d9b 2026-09-09 00:49:34 -0700 Add 25 official assets and correct Bobbie Baby website
+0114008014b1e38151b6a759b63d3fa781f58835 2026-09-09 00:45:59 -0700 Add 17 checked official organization assets
+d992c0d49f773613a847ebd272906f8e9d8e012d 2026-09-09 00:41:50 -0700 Correct ADS and food equipment websites and add 18 official assets
+41882923e587e30966f6d6505c0ae5c8e88c55bc 2026-09-09 00:35:45 -0700 Identify Fourcompany through official storefront and DailyMed label
+cbc066187b78d2ef6e772bdfc64f3d19a343df1c 2026-09-09 00:33:53 -0700 Resolve 1 Nation Action identity against Florida corporate record
+b8f510a23ae0ea5d8d7a05095535c85f5038f51a 2026-09-09 00:29:08 -0700 Add 120 verified organization assets and remove unrelated coalition website
+626328835003180348048390ac71ea67a77222ec 2026-09-09 00:17:54 -0700 Add 61 official assets and correct Agoura Hills website
+d863314ad44c75828a8e7a20aaee47b5286a53ca 2026-09-09 00:11:03 -0700 Add 129 source-checked organization logos and icons
+43b456c5c1db9410eb7611ec253732fc8971b9fd 2026-09-09 00:06:30 -0700 Document EveryLife rebrand as RARE Foundation
+f9526e3301d795803b2b7bc47c75e1b9bd73c661 2026-09-09 00:05:16 -0700 Add 39 official assets and correct San Antonio homepage
+2127195d6534c76d6757c00643146ccb855d7851 2026-09-09 00:00:58 -0700 Add twelve verified official organization branding assets
+4200368af1ce5eb9809a6f312df5dbe1cccf114a 2026-09-08 23:55:08 -0700 Add six organization logos verified on official websites
+d376a1d4c5f9854fe73a9082e1741197115fb456 2026-09-08 23:52:00 -0700 Restore disclosed end clients in Atlas Crossing directory labels
+b7ae231f987b80f5a8b55977734c5e718c41d682 2026-09-08 23:50:09 -0700 Merge Acesso spelling variants and preserve Accelerate end clients
+afb03278a6332f6cc1957e29c1822062ed5d88d3 2026-09-08 23:46:58 -0700 Verify Ark Infotech and Academy for Innovative Education identities
+81318b7fca35d3f8937c94dabb4931f2a5d0e851 2026-09-08 23:44:28 -0700 Verify ADC Tech subsidiary relationship and correct JVIS evidence
+48d34c8e39da0496317817ac731408b0664f112a 2026-09-08 23:39:55 -0700 Annotate Marble, 317 Coalition and 8 Star Alaska with primary evidence
+1b442e0111a5e226d497a7fe3bd69ea99fe5d536 2026-09-08 23:37:06 -0700 Resolve 4iG and 11:11 Media Impact using primary registration evidence
+ef54a9fb4474235e7250004b8d827872636250fa 2026-09-08 23:32:36 -0700 Identify Burke hospital and separate namesake filing histories
+ceb11543361292b375ec61d8384a345d199a37c4 2026-09-08 23:26:18 -0700 Partition Anderson University filings by verified client identity
+ac99668740a35910ca87ec54406bc29380a34456 2026-09-08 23:21:46 -0700 Use filing client states to correct hospital and university identities
+be22f12c1d57aca35b026bb555d1500ce57e7576 2026-09-08 23:13:23 -0700 Annotate McKay Healthcare, Priority Hospital Group and Sabine district
+70fe208524a7b9574f6733e7a86611cdccfc9ed2 2026-09-08 23:08:30 -0700 Resolve drainage, water conservation and port districts
+73cfb08a27758a091c3935f088909b9676ab7446 2026-09-08 23:04:42 -0700 Resolve Placer County agencies and add official site icons
+e5c1ab925f2680db35b7a265b99c0c23ddc3e9a4 2026-09-08 22:58:26 -0700 Remove malformed lobbying API links and validate numeric source IDs
+1898ec1df499bb5e132c8ce91f73981630c3886e 2026-09-08 22:56:03 -0700 Resolve Humboldt County from California filing and board contract
+d420a565d25787e8c5bc577f5c028e2addf761ba 2026-09-08 22:51:01 -0700 Identify two public agencies and add three official logos
+6e4f66d33ec2b18684b9a8efee5c8381267f1b53 2026-09-08 22:44:33 -0700 Resolve four organization profiles from primary evidence
+0c55447453f616077a7b06c8c8d249e3fb187932 2026-09-08 22:32:22 -0700 Permit cited HTTP sources from verified HTTP-only official sites
+c309f6fd5732d75768a349fa99e6ad0d91c15bbe 2026-09-08 22:31:22 -0700 Resolve municipal geography and enrich nineteen sourced profiles
+c75613c4cf981a330ffff31767f0245fd749be06 2026-09-08 22:15:28 -0700 Resolve Valley Hospital geography and document shared organization branding
+a88daf033fa57133816edf8fa0940c99e636eaa8 2026-09-08 22:06:34 -0700 Add sourced organization branding and readable inverse logo backgrounds
+dffaa3f89bd2eac32b744eb797c88cc2f12bc81c 2026-09-08 18:38:41 -0700 Separate unsupported Prudential name grouping without losing filings
+b4874a67968c13e626eae3e018a6b786ae15da16 2026-09-08 18:20:37 -0700 Add checked logo variants and correct represented-client website
+ed8af05cd30dcdd6264ae7e42ecfbf96255980ee 2026-09-08 18:10:49 -0700 Fill nine source-checked organization logo gaps
+0c807847be78e5511bee6e3d97f9669aed9a1df7 2026-09-08 18:04:59 -0700 Correct league branding on NFL profiles
+cc9dcbe93e59e88c8311add1650429ca60624f12 2026-09-08 17:59:43 -0700 Reuse verified alias branding and correct Trulieve listing note
+afa14cee2c6031842b216a42ae326b2a7a5a2d14 2026-09-08 17:53:19 -0700 Consolidate four source-verified organization aliases
+83dcee253456cfd2f08087792e4d4794fd6320af 2026-09-08 17:43:21 -0700 Group equivalent ownership labels into readable filter categories
+bcfd4353d490773686b0aca35f8eac6298dde971 2026-09-08 16:50:05 -0700 Replace five unsupported client citations with original disclosures
+9b58af9a5921e7789ad965b0bde755062f985981 2026-09-08 16:47:45 -0700 Distinguish confirmed and partial research in profile labels and filters
+335b3b77cecc3e3372960147ce68a80d657b41a2 2026-09-08 16:45:26 -0700 Complete first review pass for all 2026 source-name groups
+8d0acb487a035035da9e27f668071d5c5bee8cdc 2026-09-08 12:30:37 -0700 Review 100 more 2026 organizations and merge Steamship Authority aliases
+e34b46bccb57afcdbd09f23e61fb797e41153aed 2026-09-08 12:17:24 -0700 Review 100 lobbying clients and correct namesakes and ownership
+d191f7ba838f98c5ddbbc74b528287d4a6e52add 2026-09-08 12:05:14 -0700 Annotate 100 additional 2026 lobbying clients with checked sources and logos
+d87a0284b78921723d9923ac90a9c2c2c67efa6d 2026-09-08 11:53:59 -0700 Review 100 more 2026 lobbying entries and merge verified aliases
+47c01fe1c0361b15e816264956518cbe3bf96930 2026-09-08 10:35:30 -0700 Exclude obsolete indexes from deployment output
+53ec4179cfd4db221e89643a28c00099f98b7a9a 2026-09-08 10:22:53 -0700 Annotate next 100 organizations and verify Voyager name history
+3bbe34e48a4d0661dc087b3580246bb9d4863be2 2026-09-08 10:10:17 -0700 Research 100 more 2026 organizations and verify identity merges
+99c80bed432069add0c7c21902e67efca8e76f01 2026-09-08 09:40:44 -0700 Review 300 federal lobbying clients with compact research storage
+9049e59d3ee6fd7ddc07121e60ace7f324982ccd 2026-09-08 09:37:58 -0700 Annotate another 100 federal lobbying clients and verify five duplicate groups
+136af43feb98e54de1a74ef50aa137bf956e9608 2026-09-08 09:24:38 -0700 Review 100 more 2026 lobbying organizations and verify four identity merges
+02940e324d2379bd21f45a43d2152fc18f502d22 2026-09-08 01:21:07 -0700 Review 100 organizations, clarify university identities and recover official logos
+90fdbd357f56e85526dbbdf8311e76fe3a4f2808 2026-09-08 01:05:19 -0700 Review next 100 federal lobbying organizations and five identity merges
+b5ffc700f86951ab2fe86931350a80e547780b5e 2026-09-08 00:50:12 -0700 Review 100 organizations and resolve namesake websites
+be3b8ab54a0b27601ed8370e2b5573792be2a56e 2026-09-08 00:39:53 -0700 Annotate 100 clients and correct current identities and branding
+2fbd99806e8420b8f2ae74be906be6eccc1c9b1c 2026-09-08 00:27:02 -0700 Review 100 more clients with precise operating-entity ownership
+06f8f7742c0716d047529cad9e3424c02975df1a 2026-09-08 00:17:42 -0700 Review 100 lobbying clients and verify five identity merges
+1301373f4df4f3ea0c01e145f636be9c852baf4c 2026-09-08 00:02:02 -0700 Research 100 organizations and reconcile TikTok JV Timken and TNC identities
+b4575ca04c6fbe29b6bfcd0add1a63f87ed30610 2026-09-07 23:52:42 -0700 Research 100 lobbying organizations and reconcile Transport Project and Travelers variants
+caf611d6121018c83ee6ca4a1672f681330d0b33 2026-09-07 23:42:28 -0700 Research 100 additional 2026 lobbying organizations through Secured Finance Network
+2b576ab80be4a3f979e1efcb43f061e917b8f4ef 2026-09-07 23:26:47 -0700 Research 100 more lobbying clients and correct ownership and branding
+9b4e72422d4bcad299e1880360a167f3542e1785 2026-09-07 23:18:06 -0700 Annotate another 100 federal lobbying clients and preserve verified identity distinctions
+2bae2df761dce0cae68b5328f8b20627922ac098 2026-09-07 23:04:16 -0700 Research 100 more 2026 lobbying organizations and merge Cigna aliases
+c9f99a35190ee31790631f93d1908d4ce855bbc3 2026-09-07 18:01:56 -0700 Research 100 organizations and clarify ownership and duplicate identities
+023bffbbbbc49a84e531885015be152e921d373b 2026-09-07 17:50:53 -0700 Research 100 organizations and consolidate TechNet source names
+be1622e2f876a25b5718261199e104e56afce9d5 2026-09-07 17:40:24 -0700 Research 100 more organizations and consolidate Swisher naming variants
+6af96eba472901deeaa676918560c6cc51076042 2026-09-07 17:28:21 -0700 Research 100 organizations and consolidate five verified duplicate groups
+719d85a667f049145cfe54349af472d64de0978f 2026-09-07 17:18:04 -0700 Add 100 researched profiles with corrected organization identities
+61b58866a49f82d89449481ce2c145f7ae641365 2026-09-07 17:08:02 -0700 Review 100 organizations with current ownership and checked logos
+62352cec7be70e896ea92251b4a29136db40d09b 2026-09-07 16:57:03 -0700 Research 100 more 2026 organizations and verify three identity merges
+221d6c56fdf4f2cd4b76dd14cd11596d31f6e43e 2026-09-07 16:43:27 -0700 Add round122 organization research and five verified identity merges
+1d82e18e378cf8ef942d63052235debe99d90589 2026-09-07 16:24:31 -0700 Research round122 queue and integrate round121 verified organization profiles
+da845684a69319c52c927ab2a39f91cc5a66bea9 2026-09-07 16:13:18 -0700 Research round 120 with verified websites and ownership corrections
+66365da045f904cb7e790c31a4759a5916afedcb 2026-09-07 16:06:03 -0700 Research round 119 with exact company identity and logo corrections
+80915b8a25b22ff73ef1cb819d06800386eb8d17 2026-09-07 15:58:37 -0700 Research round 118 with corrected ownership and organization identities
+d293a0444c543866150dcf6320e39781038c8428 2026-09-07 15:50:10 -0700 Research and verify round 117 lobbying organizations
+51a30c0c898322ff1daf9e824b43cbf7a922fd65 2026-09-07 15:42:13 -0700 Research 100 additional 2026 lobbying organizations in round 116
+02e41a6c9f18aa7cd94be6175bab35710d005af7 2026-09-07 03:35:02 -0700 Research 100 more 2026 lobbying organizations through San Luis Delta Mendota
+a66d1dfe153b8570069688ca1f42b737fb7ebfbc 2026-09-07 03:26:02 -0700 Research 100 more 2026 lobbying organizations through Safe Alliance
+2bcf6dbfe69be4b1d806f13d9734581b474ccdd4 2026-09-07 03:17:07 -0700 Research 100 more 2026 lobbying organizations through RSBIX
+cc1a09882159717ed9cbb06f0fd4ce4c58edb041 2026-09-07 03:07:46 -0700 Research 100 more 2026 lobbying organizations through Risepoint
+214b9438bb6cbd56ef2baf8a72f80ab73180e348 2026-09-07 02:52:45 -0700 Review 100 additional 2026 lobbying profiles and correct namesake matches
+ebd6c69ef54c1a54547749056efb79dcdd42848d 2026-09-07 02:41:36 -0700 Annotate 100 more 2026 lobbying organizations with verified identity evidence
+350010f6e16946601c43b82481c26f8a22fd0623 2026-09-07 02:31:48 -0700 Research 100 additional 2026 lobbying identities with reviewed assets
+b99ebb0246003ca337cf27dbd4e6e9ec7baadf62 2026-09-07 02:19:53 -0700 Update Quantinuum ownership after verified June IPO
+79c6c775e22f9cd5bc56956df18d5d40da7d9b19 2026-09-07 02:14:41 -0700 Review next 100 lobbying clients and correct ownership and source mismatches
+2753914c74a9757a3f1bb140bcb1c81d3c950b69 2026-09-07 02:03:06 -0700 Research 100 more 2026 clients with verified websites and logos
+d8b51ad426ea549a5e4794abf51c76da64e41ce7 2026-09-07 01:51:34 -0700 Annotate next 100 lobbying clients and correct identity collisions
+fab9c6839dbf0ee7ff116727cfa0ce153eb82fd6 2026-09-07 01:42:06 -0700 Research 100 additional 2026 lobbying organizations
+d500f6de8315078bd96e40b943ab5b6a3acdf750 2026-09-07 01:30:47 -0700 Review 100 additional lobbying entities with sourced websites and logos
+584eb6ebe526bc2bd32e2479aff6bc50d9728931 2026-09-07 01:21:32 -0700 Review 100 lobbying clients and consolidate PHEAA duplicate
+cab88539eafd8cc702a20981e77b6a90eac1c62c 2026-09-07 01:09:11 -0700 Review next 100 lobbying clients and correct organization identities
+8d951d86042dab9007b252ef19809857e3c8a4f7 2026-09-07 00:57:39 -0700 Review 100 additional 2026 lobbying organizations
+f00e84c4bce0f390e977a5671c70918bfcd68ab3 2026-09-07 00:43:38 -0700 Research 100 lobbying clients and merge verified OCRA and PNWA aliases
+0f0e72e79be61f3eda8393a9c9cb506191178aa0 2026-09-07 00:32:44 -0700 Research 100 more lobbying organizations with corrected identities and source evidence
+fe01abe82507acac6649f38563365a0b8ff2eb75 2026-09-07 00:22:10 -0700 Research 100 lobbying clients and merge verified Omaha Public Power aliases
+d5680042c08194bcad3afcdc5f95e758fd7c6d4d 2026-09-07 00:10:29 -0700 Research 100 more 2026 lobbying organizations with verified source and logo checks
+f68e5bb3b6b5d12b76a7b724696eac6232f66d8d 2026-09-06 23:55:12 -0700 Research 100 organizations and combine NCPA aliases
+df620fb3e7c0431db77d7692163474267e60bbec 2026-09-06 23:44:06 -0700 Research next 100 federal lobbying organizations for 2026
+936f779c91b87f3305bd98942a634e25c30597bb 2026-09-06 23:26:01 -0700 Combine verified organization aliases and research next 100 entries
+b4b17311dac1b2260e0efa3a188facb4fc15f7a0 2026-09-06 23:13:16 -0700 Research next 100 federal lobbying organizations for 2026
+565e61652eb28c25536f22c95e331057693a4ca8 2026-09-06 22:58:45 -0700 Research next 100 organizations and verify official identities
+bf5bfcf415758586bf86fd002cafd772c6569a0b 2026-09-06 22:45:21 -0700 Research 100 additional 2026 lobbying organizations
+9e49b4ad73d1613ea8a9d039eee6ff45484a6ce9 2026-09-06 22:32:16 -0700 Review 100 2026 associations and resolve arts coalition identity
+211c06908077b1cfa0fc75d56f260782cda1c6a9 2026-09-06 22:19:10 -0700 Review 100 more 2026 organizations with identity and logo corrections
+940ae08f1dae2f3eba2ac487208abb4bd4294ae2 2026-09-06 21:59:58 -0700 Annotate next 100 2026 lobbying clients and correct entity matches
+86b8e61a87daec38aea025b5b4b82140859bee41 2026-09-06 21:48:54 -0700 Review 100 more 2026 lobbying organizations with sourced identity corrections
+35d40ed28b7839956486b6d0d26672d6eb1387b4 2026-09-06 21:30:52 -0700 Research next 100 federal lobbying clients for 2026
+4bf46e98f708cd34a774935c54b2dc4433f5c47c 2026-09-06 21:11:20 -0700 Research 100 more 2026 lobbying organizations
+63b952aaaa8672ac2d7970cdd93d60c6afc85b75 2026-09-06 20:54:15 -0700 Research 100 additional 2026 lobbying organizations
+ed085017b93bb1c910ef2e7af525624c052a0121 2026-09-06 20:36:38 -0700 Annotate next 100 federal lobbying clients with ownership and logo checks
+fade937e80952172f7dc0fe6f2c09d9be74448ad 2026-09-06 20:24:20 -0700 Research 100 more 2026 lobbying organizations and audit official logos
+66ec67cfc99aa23412aa7d1403eb55d0df2f1303 2026-09-06 20:11:03 -0700 Research 100 additional 2026 lobbying clients with audited identities and branding
+677e50207719817917d5edbddf248b56cdf3fb26 2026-09-06 19:59:30 -0700 Review 100 more 2026 organizations and correct exact identity matches
+73b906821c8067c1cae7dffcf6740f7be8415e9e 2026-09-06 19:47:38 -0700 Research next 100 federal lobbying organizations for 2026
+c9dfcad668b49eea2412bf7468400bf3b3e249ad 2026-09-06 19:33:27 -0700 Add reviewed 2026 profiles from Liberty Global Logistics through LiveRamp
+65ba885671ed67f9e8e7927aba06dd466a150c14 2026-09-06 19:22:30 -0700 Research 100 more 2026 lobbying clients with audited sources and logos
+1ce7e6a07f598252a904526a1c12dcf67afbceb1 2026-09-06 19:05:06 -0700 Research next 100 federal lobbying organizations for 2026
+e2119be00dd9f7487e4d51cb445aa7e2f868abc8 2026-09-06 18:20:06 -0700 Research 100 additional 2026 lobbying clients and verify organization assets
+d0205160b6438ed2f6fa3c4c983f5c775c9aee32 2026-09-06 17:42:37 -0700 Review next 100 federal lobbying clients and correct entity classifications
+7f9074c73c688ba631586bfb9021e7bee1ca30e0 2026-09-06 17:16:30 -0700 Research 100 more 2026 lobbying clients with verified identities and assets
+ea711edd522e7a4b2cdc6ba550caca32c9b78645 2026-09-06 17:02:56 -0700 Annotate 100 lobbying clients and correct legal identities and logos
+fe2541702d9f61668c004a68e419765f3eb697ae 2026-09-06 16:51:07 -0700 Research 100 federal lobbying entries with corrected identities and assets
+ea4d4dc8b4cf3afc225822556d900c6c512e6013 2026-09-06 07:54:54 -0700 Research 100 lobbying clients with registry evidence and corrected ownership
+95cc450edb9232f750e86353f1e21d01a4d5e770 2026-09-06 07:42:52 -0700 Research 100 lobbying clients and resolve nonprofit identities and branding
+a246d2a9ea8cf5653a7e28fbd810ad920810624d 2026-09-06 07:30:15 -0700 Research 100 lobbying clients with corrected identities and official logos
+8e0570d18186bebc7755e1fcbc194a1a36b4c6a4 2026-09-06 07:10:58 -0700 Research 100 lobbying clients and resolve malformed names and official identities
+c725e19fb89900f5dfc4bab9b67a4e150668ae40 2026-09-06 06:58:54 -0700 Research 100 lobbying clients with corrected identities and official logos
+8da767e4902bf02a450e21e9cfbd218b97f8011e 2026-09-06 06:43:11 -0700 Research 100 lobbying clients and correct beneficiary identities and ownership
+b1c10604b0960df2653d19c0d31fd076fdc47c03 2026-09-06 06:28:54 -0700 Research 100 lobbying clients and resolve entity, ownership and logo errors
+3253e2d407bc7b1c915a23554bb09a91f09ab55a 2026-09-06 06:15:46 -0700 Research 100 lobbying clients and correct websites, ownership and logos
+b08c3bb63f19b995f90e96d651ee8df96c796fa2 2026-09-06 05:58:30 -0700 Research 100 lobbying clients and correct entity and logo mismatches
+d2553d3d18c86e6a6f7116da9c2a978a671d355a 2026-09-06 05:46:50 -0700 Research next 100 lobbying clients with sourced websites and logo review
+17dde078dc71c01ed2114b91cc25186b89df7d53 2026-09-06 05:35:50 -0700 Research 100 federal lobbying clients with corrected identities and logos
+7b626fd6d9b015a236cf9bd3567e5f01097df4c4 2026-09-06 05:19:47 -0700 Research 100 federal lobbying clients and correct websites and ownership
+3d926fa38834665ec52339bf482f451f43e7a1c5 2026-09-06 05:07:25 -0700 Annotate 100 lobbying clients with corrected company identities and official assets
+9b0f0aba364ed19ae6c67b08f7d5d387a15a96bb 2026-09-06 04:52:48 -0700 Research 100 lobbying clients and verify official websites and logos
+0c27e9293b9d68abb4ad97be7ec4ae30286ab2f1 2026-09-06 04:32:49 -0700 Annotate 100 lobbying clients with corrected identities and official assets
+512a7edf83ace489437039de96b59f50a5e0c209 2026-09-06 04:18:51 -0700 Research 100 more lobbying organizations and verify identity and logos
+8ad1bcfccbce89e11f08e8afb53a9134f2933a43 2026-09-06 04:01:28 -0700 Research 100 more organizations and correct websites and ownership
+ea41a7c3505ae68af5f3b3452c86f186d4c4b91a 2026-09-06 03:44:43 -0700 Research 100 lobbying entries with verified identities and branding
+880f293ef3db5fb1a765e5ee04622dd21b6d8648 2026-09-06 03:24:13 -0700 Research 100 more lobbying entries and correct organization identities
+a5fd5f5f07db8c1121ba89a115e195898df30af3 2026-09-06 03:10:16 -0700 Research 100 lobbying entries with verified identities and company logos
+e7498e59ef5fa8272747d5a0bf884ee019b90919 2026-09-06 02:52:04 -0700 Research 100 more 2026 lobbying organizations with identity and ownership corrections
+74b1336af00643ae4cfc06eff2a367d19cd3be84 2026-09-06 02:37:46 -0700 Research next 100 federal lobbying entries and correct identity collisions
+4a14395ba5e85748580d3ea211ef04e48280ee40 2026-09-06 02:24:36 -0700 Research next 100 federal lobbying entries with sources and logos
+e5608acaa2b184cadf8207c4200a1839290db93c 2026-09-06 02:10:01 -0700 Research next 100 federal lobbying entries with sources and logos
+1a9c0b3c56a2c4a1cb26b3ced3f3d758822030a0 2026-09-06 01:51:45 -0700 Research next 100 federal lobbying entries with sources and logos
+f53973ede3697da0cd4b18dc49ed34636a9be844 2026-09-06 01:35:18 -0700 Add next 100 researched lobbying profiles and audited logos
+5fe94a10f8b1f62515197c75cfa585b82cbe91c9 2026-09-06 01:21:23 -0700 Add verified annotations for next 100 lobbying entries
+bb01547db1183a87f089166461221458799ca3b4 2026-09-06 01:06:55 -0700 Research and verify next 100 federal lobbying profiles
+36a3ca300386b746be97864e019aec74ca7d0667 2026-09-06 00:52:49 -0700 Add sourced profiles for 100 more 2026 lobbying entries
+81a36772be1b8ccf9e9baa9f58540b87ad0b4e7a 2026-09-06 00:36:14 -0700 Research 100 additional 2026 lobbying clients and verify identities
+599ba02f912d3621ede3d49f7a7d04bbacd949a4 2026-09-06 00:23:36 -0700 Review 100 more 2026 lobbying entries with sourced identities and assets
+ca2cf0a56940ef1f8b0abed116b946c34fd2bb75 2026-09-06 00:09:46 -0700 Research next 100 federal lobbying clients with location and ownership corrections
+591cb536fa69e33c132ac25e023d32b604327657 2026-09-05 23:55:15 -0700 Research 100 more 2026 lobbying clients and document identity ambiguities
+06e881507cc122a34baf42340be399909f9736c7 2026-09-05 23:37:48 -0700 Research next 100 lobbying organizations with sourced identities and logos
+579af8b326ba1b681d34f69a578d4f3110e05c4a 2026-09-05 23:20:44 -0700 Research 100 more 2026 clients and resolve coalition identities
+6c7def6c5fc61deb0ea54446d35a1028c861a971 2026-09-05 22:38:12 -0700 Review 200 additional 2026 lobbying entries and correct identity assets
+c5e037c1e0d8273534c2868a0f16a54c9e35322a 2026-09-05 22:13:43 -0700 Research 200 municipal and related lobbying clients with verified assets
+275544c66d79d3d821a0812f9c0bbd74858e4cfa 2026-09-05 21:58:19 -0700 Research 100 municipal lobbying clients and audit official city logos
+2b4feb7d35aae7a8fd7245ed22a76edc27c725c0 2026-09-05 21:46:03 -0700 Research and verify 100 additional lobbying organization profiles
+916316bab9ea0a2071a6cf5cd8febaf5d8f9cf42 2026-09-05 21:28:35 -0700 Research 30 more tribal healthcare and child services profiles
+09b713e1bb131e4cc860f857e41d9ca9099ef4ac 2026-09-05 21:16:29 -0700 Add 30 researched utility healthcare and contractor profiles
+c0aedc1cf0756d4455da94898d68fb52e3b06d14 2026-09-05 21:09:13 -0700 Research 30 more lobbying clients with source and ownership checks
+041b62ef6e58eacbdbad9b6189061f87dcca00ab 2026-09-05 19:57:23 -0700 Research thirty 2026 clients and correct subsidiary and current ownership identities
+5d46e14bd8612bfafc131b2255486d838c2c8375 2026-09-05 19:48:03 -0700 Add thirty researched 2026 organization profiles and identity distinctions
+877f8ddf156d4a8cf6c67fdeec0d94240eae357c 2026-09-05 19:37:25 -0700 Research thirty more 2026 lobbying organizations with sourced websites and logos
+bbcbd98eaf3bf51883333e0f1aa0f5dea1464edd 2026-09-05 19:19:48 -0700 Add sourced research and branding for 30 more 2026 organizations
+4394b1207d9f17d38f476d6ec35e61b0c59fccdd 2026-09-05 18:12:40 -0700 Research 30 additional 2026 lobbying organizations with sourced identities and branding
+df0d369f22be20b5abd88e758666fc49ad881444 2026-09-05 17:32:38 -0700 Research 30 lobbying entities with ownership changes and official branding
+3c915b5ec99ae0d9ffe999a7f83448a29c48f35e 2026-09-05 17:17:53 -0700 Research 30 more 2026 lobbying clients with exact company identities
+94568783b98b3b92c97d3fe3080945c2371eb9a8 2026-09-05 17:11:34 -0700 Repair six official website links and national union identity mismatch
+edef1375665ea1ef6afeb8fb1cecd6b3adf939b4 2026-09-05 17:03:03 -0700 Research 30 additional 2026 lobbying organizations with sources and branding
+ccc65b656e8563c654a9d4852dd4d1e1271f31e3 2026-09-05 16:51:51 -0700 Research 30 Capricor through Carbon organization profiles
+da72c64d5847e6baa0dbdcdc6771ccb11beb5e60 2026-09-05 16:45:11 -0700 Research 30 represented organizations behind Capitol Counsel filings
+41d575ad565363b1154d83c5b0e9f0d3f83ace56 2026-09-05 16:38:46 -0700 Research 30 Canon through Capital organization profiles
+4e4a2eb7212eb6c467c7d4bc8cf33702ccbe5c62 2026-09-05 16:28:31 -0700 Annotate next 30 federal lobbying clients with verified identities and websites
+aaaeec140789b8fe4d01aab067bf91773d2f3204 2026-09-05 16:22:26 -0700 Research 30 more 2026 lobbying organizations with official websites and assets
+a6d678126804f34edd80b21882c37abffbf30bb0 2026-09-05 16:13:15 -0700 Research 90 California and C-name lobbying clients with verified identities
+1bd18f5548ff6f96cbf33eaddbc861bf83f466c2 2026-09-05 15:59:05 -0700 Research 90 more lobbying clients with sourced identities and websites
+882cdc2f6db63ce5b1d97ebc6c37a7534c05bf4f 2026-09-05 15:44:19 -0700 Research 90 additional 2026 clients and correct entity website matches
+6a5bd0e84f8151a54d7d54641d87a9cd0026d458 2026-09-05 15:34:05 -0700 Annotate 90 more 2026 lobbying organizations and validate identity assets
+c17812f095b0d456a9ebdabb7dfd1648864fa9dc 2026-09-05 15:17:46 -0700 Add 90 researched 2026 profiles and correct three earlier identities
+638be0368fb086ba8ac9d17222d255728cd7070e 2026-09-05 15:07:07 -0700 Research 90 additional lobbying organizations with identity and asset checks
+88bca91d760eb02dd72f9dba1a4e27d0a893d0a1 2026-09-05 14:55:00 -0700 Add 90 researched 2026 organization profiles and identity corrections
+27d44e56c6c66ddcd1ef6918335f2ab6120acda9 2026-09-05 14:46:17 -0700 Research and verify 90 more 2026 lobbying organizations
+6c9c2848a8c81b5a7d1fc3fb2f43f60c7455d1c2 2026-09-05 14:35:05 -0700 Add 90 researched organization profiles with corrected websites and assets
+9d9e94b68d5870fdb463dec059f79d7c8206ce13 2026-09-05 14:24:27 -0700 Annotate 90 federal lobbying organizations with identity and ownership evidence
+e8df8d5156894d271636ac2306f253839f98474c 2026-09-05 14:13:14 -0700 Research 90 more 2026 lobbying organizations and verify identity assets
+99e724680cf8ea14af4b38406a4b65a353b232b4 2026-09-05 14:01:42 -0700 Add researched associations and companies with corrected identities and logos
+5e183773f2f62f9f7ef02727f1133704ac9fc85b 2026-09-05 13:53:33 -0700 Research 90 organizations with verified identity distinctions and website assets
+7939c96fea5b7d531359440acea654b5133285fc 2026-09-05 13:40:27 -0700 Annotate 90 federal lobbying clients with checked identities and assets
+f07e836c8e88ae69e2a85fcf9910a7d7457f21e2 2026-09-05 13:28:05 -0700 Research 90 more 2026 lobbying clients and verify identity assets
+04dc71ac6946f90009df1f71b15eb7f841aadf31 2026-09-05 13:15:49 -0700 Review 90 additional organizations and support Swiss exchange evidence
+4a835475c86dce5a1b6ef339b2bee5d532ef31bb 2026-09-05 13:04:02 -0700 Research and verify 90 more 2026 organizations
+629f369c72c73c454760e0217a0d33d9c2768bc3 2026-09-05 12:49:10 -0700 Research 90 more 2026 lobbying organizations with verified identity corrections
+a1fcc836f6ae826706d8049f09cb3a429f61fc96 2026-09-05 12:35:18 -0700 Research 90 organizations and correct cooperative and client identities
+5d089193e642b072ea53b60f9ae0bf9baa9d2955 2026-09-05 12:25:58 -0700 Add 90 researched organizations with corrected client identities
+6692b3534b9ae05c835caf79983bff28696e3b40 2026-09-05 03:58:42 -0700 Research 90 additional 2026 organizations and verify branding
+5107dcc880af25242c2b68b711c1c582ddb04a6b 2026-09-05 03:46:43 -0700 Annotate 90 more 2026 organizations and correct identity matches
+be51d8a6196440d23c9bf6f89248c7cac990c180 2026-09-05 03:34:45 -0700 Research 90 more 2026 lobbying clients with source and branding checks
+082379aae45db8246f6ea5fd925a0721266e7a85 2026-09-05 03:19:39 -0700 Research 90 organizations and clarify represented clients
+a07ee1c737477d54a643cfd92639edea4a26cc88 2026-09-05 03:09:09 -0700 Research 90 more lobbying organizations and validate official branding
+cb2540a24ab5a96feaa7905d898c22315e85967f 2026-09-05 02:54:11 -0700 Add 90 researched organizations with verified sources and branding
+54d6eed61d1742c04e255c2201dc5258784a9861 2026-09-05 02:42:36 -0700 Add 90 individually reviewed 2026 organizations and branding
+06e366f6c29eb837a337a3059de215f803bfce15 2026-09-05 02:30:56 -0700 Review 90 organizations with ownership and official branding evidence
+2f592ba0ff049b98cd18f9f404c05f768936ea13 2026-09-05 02:16:00 -0700 Review 325 organizations with corrected legal identities and official branding
+0da6a795f14163d24b0a90105c3cab44d9806670 2026-09-05 02:02:15 -0700 Add 150 individually reviewed nonprofit profiles with identity and logo corrections
+c6770310b37460bf9d88a73bb52da16174f12d89 2026-09-05 01:51:46 -0700 Review 225 nonprofit organizations and verify current identities and branding
+0d99059412169e6e1a18fbcb5d98865254578ef9 2026-09-05 01:34:48 -0700 Publish 282 researched profiles using reproducible annotation overlays
+4c1429b36fbbbc13396375b3fd19cd336d707159 2026-09-05 01:31:15 -0700 Review 150 nonprofit profiles with tax return and official identity evidence
+5eb4f7d8bf06644d8a347240c9282a545e78fa4e 2026-09-05 01:23:54 -0700 Review 132 government profiles with location and website corrections
+42d2252247c56ce2fb88224e73466e77985a5b23 2026-09-05 01:07:56 -0700 Review 220 additional company profiles and correct current business identities
+1c29b65a6efe1076c8b19dff7d8ac8901d651ba9 2026-09-05 00:53:38 -0700 Add 147 reviewed institutions and businesses with current identity notes
+066a3a4fd800fa52bd9ef00ec4b13d56e5d42f02 2026-09-05 00:42:33 -0700 Review 402 government entries and flag mixed-state name groups
+2ae9f0cea22a7128642466dabaa6b71635e6fff4 2026-09-05 00:31:32 -0700 Add 279 individually reviewed college profiles and checked branding
+14329e27556ddc7457babf9a50462bf658957da7 2026-09-05 00:11:48 -0700 Review 60 companies and correct organization branding selection
+4c0840575c65efdb25e4aa25d4bccbc7fa2c665c 2026-09-04 23:58:38 -0700 Research 65 companies and reconcile 27 existing 2026 reviews
+e58c9359e6c39233fc17f8e223cd6471f008a5f4 2026-09-04 23:46:41 -0700 Review 80 more 2026 organizations and correct LIIF website
+37b1114193b75e843b46545b5b0330eb860277c2 2026-09-04 23:34:50 -0700 Review 123 further 2026 profiles and decode compressed source pages
+60d9de3b86e846177ac5c0c65a13308f3d259ed2 2026-09-04 23:21:15 -0700 Review 80 more 2026 organizations and resolve website relationships
+16218d16309770a045b64133cac4dd621ade15ee 2026-09-04 23:08:48 -0700 Review 30 more 2026 organization profiles and branding
+a1d516889411809c4f6c5f395f8a7c5298615cc6 2026-09-04 22:57:56 -0700 Publish reviewed company profiles and resolve identity and logo issues
+e90cb612d290ec192de115d2144fb70856dfa454 2026-09-04 22:40:36 -0700 Expand 2026 profiles and withhold ambiguous foundation matches
+7e5ea51c91fb48f693941459e61d71d7e95aaf7e 2026-09-04 22:30:57 -0700 Add 58 source-reviewed organization profiles for 2026
+01b3b50cd64e3803c35fb524b001d6c6f813d825 2026-09-04 22:23:05 -0700 Add 20 reviewed 2026 profiles and sourced website evidence
+cf462f44f88a7a3b9c0c89691c816f381cfe6c8b 2026-09-04 22:10:20 -0700 Add 2026 reviewed profiles, websites and official site branding
+0a316da7dbcd952fcccac6b0698e46918e17408d 2026-09-04 21:34:53 -0700 Add reviewed organization profiles and transparent registry matching
+9b4d872a8076a35a9416614646ce8fb43b02aefa 2026-09-04 20:56:05 -0700 Add sourced organization profiles and resumable research queue
+970baea4973d46b06a8f755e9ee7061a428dd1b4 2026-09-04 20:14:37 -0700 Keep report details readable in narrow windows
+82e65581657abdceaab4841a96cd8f2c32a08d71 2026-09-04 20:10:56 -0700 Simplify directory and consolidate disclosed name variants
+7703235fe9e242d6e45673e9d62aca1a22c8c0ec 2026-09-04 18:56:21 -0700 Build federal lobbying directory for 1999–2026

@@ -1,0 +1,356 @@
+[
+  {
+    "id": "3b23dd145c850fdd",
+    "name": "Nutrien US LLC (formerly Known AS Agrium U.s. Inc.) (A Nutrien LTD Subsidiary)",
+    "requested_url": "https://www.nutrien.com/about/our-business/phosphate",
+    "status": 200,
+    "final_url": "https://www.nutrien.com/about/our-business/phosphate",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/0-3b23dd145c850fdd.txt",
+    "text_chars": 5306
+  },
+  {
+    "id": "0fffd6f1b5719359",
+    "name": "National Community Renaissance",
+    "requested_url": "https://nationalcore.org/about-us/board-of-directors/",
+    "status": 200,
+    "final_url": "https://nationalcore.org/about-us/board-of-directors/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/1-0fffd6f1b5719359.txt",
+    "text_chars": 15070
+  },
+  {
+    "id": "0fffd6f1b5719359",
+    "name": "National Community Renaissance",
+    "requested_url": "https://nationalcore.org/about-us/investor-information-request/",
+    "status": 200,
+    "final_url": "https://nationalcore.org/about-us/investor-information-request/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/2-0fffd6f1b5719359.txt",
+    "text_chars": 1230
+  },
+  {
+    "id": "aa94cbffd0570aec",
+    "name": "Trio Group",
+    "requested_url": "https://www.thinktrio.com/about-us/our-partners",
+    "status": 200,
+    "final_url": "https://www.thinktrio.com/about-us/our-partners",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/3-aa94cbffd0570aec.txt",
+    "text_chars": 4611
+  },
+  {
+    "id": "aa94cbffd0570aec",
+    "name": "Trio Group",
+    "requested_url": "https://www.thinktrio.com/about-us/leadership-team",
+    "status": 200,
+    "final_url": "https://www.thinktrio.com/about-us/leadership-team",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/4-aa94cbffd0570aec.txt",
+    "text_chars": 4614
+  },
+  {
+    "id": "a3f4a42beedab788",
+    "name": "Materion Brush Inc.",
+    "requested_url": "https://www.materion.com/en/legal/website-terms-and-conditions",
+    "status": 200,
+    "final_url": "https://www.materion.com/en/legal/website-terms-and-conditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/5-a3f4a42beedab788.txt",
+    "text_chars": 28012
+  },
+  {
+    "id": "a3f4a42beedab788",
+    "name": "Materion Brush Inc.",
+    "requested_url": "https://www.materion.com/en/legal/terms-and-conditions-of-sales",
+    "status": 200,
+    "final_url": "https://www.materion.com/en/legal/terms-and-conditions-of-sales",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/6-a3f4a42beedab788.txt",
+    "text_chars": 4805
+  },
+  {
+    "id": "51ad1de3c90eb543",
+    "name": "Augusta University Research Institute",
+    "requested_url": "https://www.augusta.edu/about/traditions",
+    "status": 200,
+    "final_url": "https://www.augusta.edu/about/traditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/7-51ad1de3c90eb543.txt",
+    "text_chars": 7526
+  },
+  {
+    "id": "51ad1de3c90eb543",
+    "name": "Augusta University Research Institute",
+    "requested_url": "https://www.augusta.edu/about/contact.php",
+    "status": 200,
+    "final_url": "https://www.augusta.edu/about/contact.php",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/8-51ad1de3c90eb543.txt",
+    "text_chars": 5690
+  },
+  {
+    "id": "b5c2b7d8fa86c3cc",
+    "name": "Novolex (formerly Hilex Poly Company)",
+    "requested_url": "https://novolex.com/content/footer/Novolex%20Privacy%20Policy.pdf",
+    "source_format": "pdf",
+    "status": 200,
+    "final_url": "https://novolex.com/content/footer/Novolex%20Privacy%20Policy.pdf",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/9-b5c2b7d8fa86c3cc.txt",
+    "text_chars": 37552
+  },
+  {
+    "id": "b5c2b7d8fa86c3cc",
+    "name": "Novolex (formerly Hilex Poly Company)",
+    "requested_url": "https://novolex.com/content/footer/Novolex%20Terms%20of%20Use.pdf",
+    "source_format": "pdf",
+    "status": 200,
+    "final_url": "https://novolex.com/content/footer/Novolex%20Terms%20of%20Use.pdf",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/10-b5c2b7d8fa86c3cc.txt",
+    "text_chars": 22310
+  },
+  {
+    "id": "bb38059bfa91179b",
+    "name": "Vipo US",
+    "requested_url": "https://www.viposolutions.com/vipo-privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.viposolutions.com/vipo-privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/11-bb38059bfa91179b.txt",
+    "text_chars": 28957
+  },
+  {
+    "id": "bb38059bfa91179b",
+    "name": "Vipo US",
+    "requested_url": "https://www.viposolutions.com/about-us/",
+    "status": 200,
+    "final_url": "https://www.viposolutions.com/about-us/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/12-bb38059bfa91179b.txt",
+    "text_chars": 9313
+  },
+  {
+    "id": "728ffce89ad760bb",
+    "name": "HealthFund Solutions (via Arnall Golden Gregory)",
+    "requested_url": "https://www.healthfundsolutions.com/about/terms-of-use",
+    "status": 200,
+    "final_url": "https://www.healthfundsolutions.com/about/terms-of-use",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/13-728ffce89ad760bb.txt",
+    "text_chars": 22991
+  },
+  {
+    "id": "728ffce89ad760bb",
+    "name": "HealthFund Solutions (via Arnall Golden Gregory)",
+    "requested_url": "https://www.healthfundsolutions.com/about/privacy-notice",
+    "status": 200,
+    "final_url": "https://www.healthfundsolutions.com/about/privacy-notice",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/14-728ffce89ad760bb.txt",
+    "text_chars": 11143
+  },
+  {
+    "id": "96535d6bdfe89240",
+    "name": "MMR Group, Inc.",
+    "requested_url": "https://mmrgrp.com/about-mmr",
+    "status": 200,
+    "final_url": "https://mmrgrp.com/about-mmr",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/15-96535d6bdfe89240.txt",
+    "text_chars": 9878
+  },
+  {
+    "id": "96535d6bdfe89240",
+    "name": "MMR Group, Inc.",
+    "requested_url": "https://mmrgrp.com/about-mmr/philanthropy",
+    "status": 200,
+    "final_url": "https://mmrgrp.com/about-mmr/philanthropy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/16-96535d6bdfe89240.txt",
+    "text_chars": 3378
+  },
+  {
+    "id": "f1280e2854eaca77",
+    "name": "National Carbon Technologies, LLC",
+    "requested_url": "https://aymium.com/about/",
+    "status": 200,
+    "final_url": "https://aymium.com/about/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/17-f1280e2854eaca77.txt",
+    "text_chars": 4103
+  },
+  {
+    "id": "f1280e2854eaca77",
+    "name": "National Carbon Technologies, LLC",
+    "requested_url": "https://aymium.com/about/leadership/",
+    "status": 200,
+    "final_url": "https://aymium.com/about/leadership/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/18-f1280e2854eaca77.txt",
+    "text_chars": 15292
+  },
+  {
+    "id": "6320cf5a9208104b",
+    "name": "Netafim USA",
+    "requested_url": "https://www.netafimusa.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://www.netafimusa.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/19-6320cf5a9208104b.txt",
+    "text_chars": 39454
+  },
+  {
+    "id": "6320cf5a9208104b",
+    "name": "Netafim USA",
+    "requested_url": "https://www.netafimusa.com/terms-and-conditions/",
+    "status": 200,
+    "final_url": "https://www.netafimusa.com/terms-and-conditions/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/20-6320cf5a9208104b.txt",
+    "text_chars": 9657
+  },
+  {
+    "id": "533751f8e9162228",
+    "name": "Proskauer Rose LLP on Behalf of Copperweld Bimetallics, LLC",
+    "requested_url": "https://www.copperweld.com/legal/terms",
+    "status": 200,
+    "final_url": "https://www.copperweld.com/legal/terms",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/21-533751f8e9162228.txt",
+    "text_chars": 72926
+  },
+  {
+    "id": "533751f8e9162228",
+    "name": "Proskauer Rose LLP on Behalf of Copperweld Bimetallics, LLC",
+    "requested_url": "https://www.copperweld.com/legal/privacy",
+    "status": 200,
+    "final_url": "https://www.copperweld.com/legal/privacy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/22-533751f8e9162228.txt",
+    "text_chars": 43728
+  },
+  {
+    "id": "4bcde63763b2bfa3",
+    "name": "Resolution Copper Company",
+    "requested_url": "https://resolutioncopper.com/about-us/arizona-copper/",
+    "status": 200,
+    "final_url": "https://resolutioncopper.com/about-us/arizona-copper/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/23-4bcde63763b2bfa3.txt",
+    "text_chars": 9014
+  },
+  {
+    "id": "efbdeab3330b50b9",
+    "name": "the Vascular Care Group (cardiovascular Coalition)",
+    "requested_url": "https://thevascularcaregroup.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://thevascularcaregroup.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/24-efbdeab3330b50b9.txt",
+    "text_chars": 10440
+  },
+  {
+    "id": "efbdeab3330b50b9",
+    "name": "the Vascular Care Group (cardiovascular Coalition)",
+    "requested_url": "https://thevascularcaregroup.com/terms-of-service/",
+    "status": 200,
+    "final_url": "https://thevascularcaregroup.com/terms-of-service/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/25-efbdeab3330b50b9.txt",
+    "text_chars": 6183
+  },
+  {
+    "id": "fc40c7348633ec09",
+    "name": "Vantor Holdings",
+    "requested_url": "https://vantor.com/legal/",
+    "status": 200,
+    "final_url": "https://vantor.com/legal/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/26-fc40c7348633ec09.txt",
+    "text_chars": 4102
+  },
+  {
+    "id": "fc40c7348633ec09",
+    "name": "Vantor Holdings",
+    "requested_url": "https://vantor.com/resources/website-terms-of-use/",
+    "status": 200,
+    "final_url": "https://vantor.com/resources/website-terms-of-use/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/27-fc40c7348633ec09.txt",
+    "text_chars": 1436
+  },
+  {
+    "id": "72dfaea08ce1d7de",
+    "name": "Welspun USA Inc.",
+    "requested_url": "https://welspunusa.com/pages/privacy-policy",
+    "status": 200,
+    "final_url": "https://welspunusa.com/pages/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/28-72dfaea08ce1d7de.txt",
+    "text_chars": 14758
+  },
+  {
+    "id": "0b75636d3d59d8a9",
+    "name": "Methodist Children's Home Society Family of Services",
+    "requested_url": "https://mchsmi.org/wp-content/uploads/2023/12/MCHS_Privacy-Policy_revised-12012023.pdf",
+    "source_format": "pdf",
+    "status": 200,
+    "final_url": "https://mchsmi.org/wp-content/uploads/2023/12/MCHS_Privacy-Policy_revised-12012023.pdf",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/29-0b75636d3d59d8a9.txt",
+    "text_chars": 9862
+  },
+  {
+    "id": "2537ba0041dd3702",
+    "name": "RXR Development Services, LLC",
+    "requested_url": "https://rxrbuilds.com/privacy-policy/",
+    "status": 200,
+    "final_url": "https://rxrbuilds.com/privacy-policy/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/30-2537ba0041dd3702.txt",
+    "text_chars": 13173
+  },
+  {
+    "id": "2537ba0041dd3702",
+    "name": "RXR Development Services, LLC",
+    "requested_url": "https://rxrbuilds.com/aboutus/",
+    "status": 200,
+    "final_url": "https://rxrbuilds.com/team/",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/31-2537ba0041dd3702.txt",
+    "text_chars": 3425
+  },
+  {
+    "id": "d53d45a4023725d4",
+    "name": "Taylor Defense Products, LLC",
+    "requested_url": "https://www.taylordefenseproducts.com/terms.html",
+    "status": 200,
+    "final_url": "https://www.taylordefenseproducts.com/terms.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/32-d53d45a4023725d4.txt",
+    "text_chars": 9318
+  },
+  {
+    "id": "d53d45a4023725d4",
+    "name": "Taylor Defense Products, LLC",
+    "requested_url": "https://www.taylordefenseproducts.com/privacy-policy.html",
+    "status": 200,
+    "final_url": "https://www.taylordefenseproducts.com/privacy-policy.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/33-d53d45a4023725d4.txt",
+    "text_chars": 3449
+  },
+  {
+    "id": "7a024e7601584359",
+    "name": "Telgoo5",
+    "requested_url": "https://www.telgoo5.com/about-us",
+    "status": 200,
+    "final_url": "https://www.telgoo5.com/about-us",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/34-7a024e7601584359.txt",
+    "text_chars": 5310
+  },
+  {
+    "id": "06ceadf0327a5cec",
+    "name": "APCO Worldwide (on behalf of QuidelOrtho)",
+    "requested_url": "https://www.quidelortho.com/global/en/our-company/regulatory/legal-trademarks",
+    "status": 200,
+    "final_url": "https://www.quidelortho.com/global/en/our-company/regulatory/legal-trademarks",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/35-06ceadf0327a5cec.txt",
+    "text_chars": 5890
+  },
+  {
+    "id": "06ceadf0327a5cec",
+    "name": "APCO Worldwide (on behalf of QuidelOrtho)",
+    "requested_url": "https://www.quidelortho.com/content/quidelortho/global/global/en/our-company/regulatory/privacy-notice.html",
+    "status": 200,
+    "final_url": "https://www.quidelortho.com/content/quidelortho/global/global/en/our-company/regulatory/privacy-notice.html",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/36-06ceadf0327a5cec.txt",
+    "text_chars": 29733
+  },
+  {
+    "id": "5455a4ce40282c8f",
+    "name": "Astroscale U.s. Inc.",
+    "requested_url": "https://www.astroscale-us.com/legal/privacy-policy",
+    "status": 200,
+    "final_url": "https://www.astroscale-us.com/en/legal/privacy-policy",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/37-5455a4ce40282c8f.txt",
+    "text_chars": 13701
+  },
+  {
+    "id": "5455a4ce40282c8f",
+    "name": "Astroscale U.s. Inc.",
+    "requested_url": "https://www.astroscale-us.com/legal/terms-and-conditions",
+    "status": 200,
+    "final_url": "https://www.astroscale-us.com/en/legal/terms-and-conditions",
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-088/38-5455a4ce40282c8f.txt",
+    "text_chars": 12934
+  }
+]

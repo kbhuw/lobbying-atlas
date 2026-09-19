@@ -1,0 +1,12 @@
+import json,pathlib,copy,collections
+root=pathlib.Path(__file__).resolve().parents[2];b=root/'work/research-2026/identity-wave40-bulk';path=root/'work/research-2026/reviewed.json';p=json.loads(path.read_text());a=json.loads((b/'agent-first44.json').read_text());m={x['id']:x for x in json.loads((b/'matches.json').read_text())};extra={'06efcc8b3b9b3b3c','890e551655a3e595','418b0d84312280f3','ee6a15a93c6e16af','c0a53b334b3c35c0','622c7d4554b397c0','63af1d8ee6cad61e','a00f418cdbacd241','d2d033a77fffbf18'};backup={x['id']:copy.deepcopy(p[x['id']]) for x in a}
+for d in a:
+ id=d['id']
+ if id in extra:d.update(decision='hold',evidence='Exact filed legal entity remains uncorroborated beyond operating brand/group page; retain partial status.')
+ if id=='ccfc7ed9b8b5524e':d.update(decision='confirm',evidence='Full official page copyright explicitly identifies Tennessee Walking Horse National Celebration; exact Shelbyville address matches filing.')
+ if id=='ada1716efbe0af57':d['evidence']='Swiss Rockets AG official investor contact gives exact name and Basel address; the company develops and invests in biotechnology, not aerospace.'
+ if d['decision']!='confirm':continue
+ x=p[id];assert x['review_outcome']=='partial';r=m[id]['matches'][0]['registration'];proof=f"{d['evidence']} Registration: {r['client_name']}, {r['address']}, {r['city']}, {r['state']}; {r['archive']} / {r['member']}.";x.update(status='sourced',review_outcome='confirmed',website_status='verified',checked_at='2026-09-12',as_of='2026-09-12');old=x.get('identity_evidence','');x['identity_evidence']=(old if isinstance(old,str) else json.dumps(old))+' '+proof;x['sources'] += [{'url':d['url'],'label':'Official identity and registration-address corroboration','claim':proof},{'url':r['source_url'],'label':'House registration archive: '+r['member'],'claim':proof}]
+(b/'agent44-before.json').write_text(json.dumps(backup,indent=2,ensure_ascii=False));(b/'agent44-decisions.json').write_text(json.dumps(a,indent=2,ensure_ascii=False))
+for f,pretty in [(path,True),(root/'lobbying-map/research/reviewed-2026.json',False),(root/'outputs/2026-research-trial/profiles.json',True)]:f.write_text(json.dumps(p,indent=2 if pretty else None,ensure_ascii=False))
+allids=[x['id'] for x in a+json.loads((b/'local44-decisions.json').read_text())];assert len(allids)==88 and set(allids)==set(m);print(collections.Counter(x['decision'] for x in a));print(collections.Counter(x['review_outcome'] for x in p.values()))

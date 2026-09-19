@@ -1,0 +1,133 @@
+{
+  "7420ba4258ae1115": {
+    "name": "Loan Syndications and Trading Association",
+    "description": "Trade association supporting the syndicated-loan and corporate-loan markets.",
+    "website": "https://www.lsta.org/",
+    "kind": "Financial-services trade association",
+    "ownership": "Unknown",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Official bylaws page expands the exact Loan Syndications and Trading Association, Inc. name. Direct homepage supports loan-market education, standards and advocacy. Indexed official bylaws checked September 18, 2026. Removed unsupported tax-exempt label: prior notes explicitly said tax status was not independently confirmed.",
+    "notes": "Official bylaws page expands the exact Loan Syndications and Trading Association, Inc. name. Direct homepage supports loan-market education, standards and advocacy. Indexed official bylaws checked September 18, 2026. Removed unsupported tax-exempt label: prior notes explicitly said tax status was not independently confirmed.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/fd007aa5-3c7c-4444-a607-2524c20da626/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://www.lsta.org/content/lsta-bylaws/?ind=1645216526295&wpdmdl=184",
+        "label": "Organization evidence",
+        "claim": "Official LSTA bylaws identify Loan Syndications and Trading Association, Inc."
+      },
+      {
+        "url": "https://www.lsta.org/about/",
+        "label": "Organization evidence",
+        "claim": "Official LSTA site describes its role in the syndicated-loan market."
+      },
+      {
+        "url": "https://www.lsta.org/content/lsta-bylaws/",
+        "label": "Official identity evidence",
+        "claim": "Official bylaws page expands the exact Loan Syndications and Trading Association, Inc. name. Direct homepage supports loan-market education, standards and advocacy. Indexed official bylaws checked September 18, 2026. Removed unsupported tax-exempt label: prior notes explicitly said tax status was not independently confirmed."
+      }
+    ],
+    "as_of": "2026-09-06",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://www.lsta.org/wp-content/uploads/2025/08/LSTA_Logo_Stacked_2026_RGB_3C.svg",
+    "logo_kind": "logo",
+    "logo_source_url": "https://www.lsta.org/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "20a62d58a45596fc": {
+    "name": "Keidanren",
+    "description": "Keidanren, the Japan Business Federation, represents Japanese companies and advocates on economic and business policy.",
+    "website": "https://www.keidanren.or.jp/en/",
+    "kind": "Business federation",
+    "ownership": "Unknown",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Official About page explicitly identifies KEIDANREN as Japan Business Federation and describes corporate and industry-association membership. Direct homepage has economic and business policy publications. Indexed official About page checked September 18, 2026; ownership remains unknown.",
+    "notes": "Official About page explicitly identifies KEIDANREN as Japan Business Federation and describes corporate and industry-association membership. Direct homepage has economic and business policy publications. Indexed official About page checked September 18, 2026; ownership remains unknown.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/ffdc1ad0-5344-45f5-acac-d6088902323b/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://lda.gov/api/v1/clients/101195/?format=json",
+        "label": "Organization evidence",
+        "claim": "LDA client record provides the exact disclosed name and self-reported activity."
+      },
+      {
+        "url": "https://www.keidanren.or.jp/en/",
+        "label": "Organization evidence",
+        "claim": "Official organization website identifies the organization and describes the stated activity."
+      },
+      {
+        "label": "Official organization branding",
+        "url": "https://www.keidanren.or.jp/en/",
+        "claim": "Official organization branding. The recipient is the same organization or a documented filing-name variant as the donor; the recipient's official identity evidence supports the shared organization branding. Disclosed name and activity compared with the cited primary organization evidence. Identity is tied to the exact disclosed client name and filing context. Ownership is stated only where organizational or public-sector evidence supports it; no LLC or absence-of-IPO inference was used."
+      },
+      {
+        "url": "https://www.keidanren.or.jp/en/profile/pro001.html",
+        "label": "Official identity evidence",
+        "claim": "Official About page explicitly identifies KEIDANREN as Japan Business Federation and describes corporate and industry-association membership. Direct homepage has economic and business policy publications. Indexed official About page checked September 18, 2026; ownership remains unknown."
+      }
+    ],
+    "as_of": "2026-09-06",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://www.keidanren.or.jp/images/logo_keidanren02.png",
+    "logo_kind": "logo",
+    "logo_source_url": "https://www.keidanren.or.jp/en/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  },
+  "2e9ae76f4566b464": {
+    "name": "Insurance JSC Dallbogg: Life and Health AD",
+    "description": "Bulgarian insurer offering motor, property, health, travel and other insurance products.",
+    "website": "https://dallbogg.com/en/",
+    "kind": "Bulgarian insurance company",
+    "ownership": "Unknown",
+    "legal_form": "",
+    "review_outcome": "confirmed",
+    "featured": false,
+    "identity_evidence": "Direct official homepage names DallBogg: Life and Health Insurance Company JSC, gives Sofia Bulgaria address and lists motor, property, health and other insurance products. Insurer kept separate from similarly named pension assurance operation. Corporate name alone is not evidence of a current life-insurance product or ownership class. Checked September 18, 2026.",
+    "notes": "Direct official homepage names DallBogg: Life and Health Insurance Company JSC, gives Sofia Bulgaria address and lists motor, property, health and other insurance products. Insurer kept separate from similarly named pension assurance operation. Corporate name alone is not evidence of a current life-insurance product or ownership class. Checked September 18, 2026.",
+    "sources": [
+      {
+        "url": "https://lda.gov/filings/public/filing/e5b3304a-f12e-4e0f-977d-d0527fab4e40/print/",
+        "label": "Original lobbying disclosure",
+        "claim": "Original reported label and filing provenance retained; filing alone does not establish ownership."
+      },
+      {
+        "url": "https://dallbogg.com/en/",
+        "label": "Organization evidence",
+        "claim": "DallBogg identifies itself as a Life and Health Insurance Company JSC and lists its insurance products and Sofia address."
+      },
+      {
+        "url": "https://www.ivass.it/consumatori/azioni-tutela/vigilanza-imprese-estere/dallbogg/index.html",
+        "label": "Organization evidence",
+        "claim": "Italian insurance regulator page identifies DallBogg: Life and Health AD and its cross-border insurance regulatory status."
+      },
+      {
+        "url": "https://dallbogg.com/en/",
+        "label": "Official identity evidence",
+        "claim": "Direct official homepage names DallBogg: Life and Health Insurance Company JSC, gives Sofia Bulgaria address and lists motor, property, health and other insurance products. Insurer kept separate from similarly named pension assurance operation. Corporate name alone is not evidence of a current life-insurance product or ownership class. Checked September 18, 2026."
+      }
+    ],
+    "as_of": "2026-09-06",
+    "checked_at": "2026-09-18",
+    "logo_url": "https://dallbogg.com/wp-content/uploads/2026/08/DallBogg-Logo-1.png",
+    "logo_kind": "logo",
+    "logo_source_url": "https://dallbogg.com/en/",
+    "logo_status": "official_site_asset",
+    "website_status": "verified",
+    "status": "sourced"
+  }
+}

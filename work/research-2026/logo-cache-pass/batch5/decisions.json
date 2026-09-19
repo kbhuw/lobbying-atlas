@@ -1,0 +1,33 @@
+{
+  "accepted": [
+    1,
+    2,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    14,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "dark": [
+    14
+  ],
+  "deferred": {
+    "0": "Foundation logo rather than hospital",
+    "3": "Download failed",
+    "10": "Metro Conference rebranding requires relationship verification",
+    "11": "Coalition brand needs exact Campaign entity verification",
+    "12": "Wiregrass subsidiary logo rather than Construction Partners",
+    "13": "NASAD accreditation logo rather than college",
+    "15": "Athletics mascot; prefer university institutional mark",
+    "22": "Walker Webcast program logo rather than Walker & Dunlop",
+    "23": "Public library logo rather than city government"
+  }
+}

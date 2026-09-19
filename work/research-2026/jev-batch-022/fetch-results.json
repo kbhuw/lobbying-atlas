@@ -1,0 +1,1100 @@
+[
+  {
+    "id": "8daa381c645ea40a",
+    "name": "Medical Micro Instruments (mmi, Inc.)",
+    "requested_url": "https://www.mmimicro.com/",
+    "status": 200,
+    "final_url": "https://www.mmimicro.com/",
+    "text_chars": 7544,
+    "logo_candidates": [
+      {
+        "class": "stnd skip-lazy dark-version",
+        "width": "810",
+        "height": "349",
+        "alt": "MMI",
+        "src": "https://www.mmimicro.com/wp-content/uploads/2024/04/MMI_Logo_Stacked_Tagline_Positive_RGB1.png"
+      },
+      {
+        "class": "mobile-only-logo skip-lazy",
+        "alt": "MMI",
+        "width": "810",
+        "height": "349",
+        "src": "https://www.mmimicro.com/wp-content/uploads/2024/04/MMI_Logo_Stacked_Tagline_Positive_RGB1.png"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-022/8daa381c645ea40a.txt"
+  },
+  {
+    "id": "eb84d550f5e05941",
+    "name": "Moran Global Strategies, Inc. on behalf of Siemens Government Technologies, Inc.",
+    "requested_url": "https://moranstrategies.com/",
+    "status": 200,
+    "final_url": "https://moranstrategies.com/",
+    "text_chars": 4055,
+    "logo_candidates": [
+      {
+        "src": "/wp-content/uploads/MGS-LOGO-2.png",
+        "width": "3300",
+        "height": "1252",
+        "alt": "Moran Global Strategies",
+        "id": "logo",
+        "data-height-percentage": "82"
+      },
+      {
+        "fetchpriority": "high",
+        "decoding": "async",
+        "src": "https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2.png",
+        "alt": "Moran Global Strategies",
+        "title": "MGS LOGO",
+        "width": "3300",
+        "height": "1252",
+        "srcset": "https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2.png 3300w, https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2-1280x486.png 1280w, https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2-980x372.png 980w, https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2-480x182.png 480w",
+        "sizes": "(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 3300px, 100vw",
+        "class": "wp-image-174"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "src": "https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2-WHITE.png",
+        "width": "3300",
+        "height": "1252",
+        "srcset": "https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2-WHITE.png 3300w, https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2-WHITE-1280x486.png 1280w, https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2-WHITE-980x372.png 980w, https://moranstrategies.com/wp-content/uploads/MGS-LOGO-2-WHITE-480x182.png 480w",
+        "sizes": "(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 3300px, 100vw",
+        "class": "wp-image-197",
+        "alt": "Moran Global Strategies Logo",
+        "title": "Moran Global Strategies Logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-022/eb84d550f5e05941.txt"
+  },
+  {
+    "id": "eb3639f1b1d8a0b0",
+    "name": "National Asphalt Pavement Association",
+    "requested_url": "https://www.asphaltpavement.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "9902804f4ff89428",
+    "name": "National Child Support Enforcement Association",
+    "requested_url": "https://www.ncsea.org/about/",
+    "status": 200,
+    "final_url": "https://www.ncsea.org/about/",
+    "text_chars": 31918,
+    "logo_candidates": [
+      {
+        "fetchpriority": "high",
+        "decoding": "async",
+        "class": "aligncenter wp-image-20 size-full",
+        "src": "/wp-content/uploads/2020/04/NCSEA-Logo-488x150-1.png",
+        "alt": "",
+        "width": "488",
+        "height": "150",
+        "srcset": "https://www.ncsea.org/wp-content/uploads/2020/04/NCSEA-Logo-488x150-1.png 488w, https://www.ncsea.org/wp-content/uploads/2020/04/NCSEA-Logo-488x150-1-300x92.png 300w",
+        "sizes": "(max-width: 488px) 100vw, 488px"
+      },
+      {
+        "loading": "lazy",
+        "decoding": "async",
+        "class": "alignleft wp-image-46",
+        "src": "/wp-content/uploads/2020/04/NCSEA-Footer-Logo.png",
+        "alt": "",
+        "width": "129",
+        "height": "80"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-022/9902804f4ff89428.txt"
+  },
+  {
+    "id": "c919ca0ef0e641af",
+    "name": "National Council on Teacher Retirement",
+    "requested_url": "https://nctr.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "418c1cbc56a23842",
+    "name": "National Organization of Social Security Claimants Representatives (nosscr)",
+    "requested_url": "https://nosscr.org/",
+    "status": 200,
+    "final_url": "https://nosscr.org/",
+    "text_chars": 5685,
+    "logo_candidates": [
+      {
+        "src": "https://nosscr.org/wp-content/uploads/2026/07/NOSSCR-logo-horiz.png",
+        "srcset": "https://nosscr.org/wp-content/uploads/2026/07/NOSSCR-logo-horiz.png 1x, https://nosscr.org/wp-content/uploads/2026/07/NOSSCR-logo-horiz.png 2x",
+        "width": "1050",
+        "height": "137",
+        "style": "max-height:137px;height:auto;",
+        "alt": "NOSSCR Logo",
+        "data-retina_logo_url": "https://nosscr.org/wp-content/uploads/2026/07/NOSSCR-logo-horiz.png",
+        "class": "fusion-standard-logo"
+      },
+      {
+        "src": "https://nosscr.org/wp-content/uploads/2026/07/NOSSCR-logo-horiz.png",
+        "srcset": "https://nosscr.org/wp-content/uploads/2026/07/NOSSCR-logo-horiz.png 1x, https://nosscr.org/wp-content/uploads/2026/07/NOSSCR-logo-horiz.png 2x",
+        "width": "1050",
+        "height": "137",
+        "style": "max-height:137px;height:auto;",
+        "alt": "NOSSCR Logo",
+        "data-retina_logo_url": "https://nosscr.org/wp-content/uploads/2026/07/NOSSCR-logo-horiz.png",
+        "class": "fusion-mobile-logo"
+      },
+      {
+        "src": "https://nosscr.org/wp-content/uploads/2026/07/NOSSCR-logo-horiz.png",
+        "srcset": "https://nosscr.org/wp-content/uploads/2026/07/NOSSCR-logo-horiz.png 1x, https://nosscr.org/wp-content/uploads/2026/07/NOSSCR-logo-horiz.png 2x",
+        "width": "1050",
+        "height": "137",
+        "style": "max-height:137px;height:auto;",
+        "alt": "NOSSCR Logo",
+        "data-retina_logo_url": "https://nosscr.org/wp-content/uploads/2026/07/NOSSCR-logo-horiz.png",
+        "class": "fusion-sticky-logo"
+      },
+      {
+        "decoding": "async",
+        "width": "600",
+        "height": "338",
+        "alt": "NOSSCR",
+        "src": "https://nosscr.org/wp-content/uploads/2026/07/NOSSCR-logo-stacked-REV.png",
+        "data-orig-src": "https://nosscr.org/wp-content/uploads/2026/07/NOSSCR-logo-stacked-REV-600x338.png",
+        "class": "lazyload img-responsive wp-image-17452",
+        "srcset": "data:image/svg+xml,%3Csvg%20xmlns%3D%27http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%27%20width%3D%27665%27%20height%3D%27375%27%20viewBox%3D%270%200%20665%20375%27%3E%3Crect%20width%3D%27665%27%20height%3D%27375%27%20fill-opacity%3D%220%22%2F%3E%3C%2Fsvg%3E",
+        "data-srcset": "https://nosscr.org/wp-content/uploads/2026/07/NOSSCR-logo-stacked-REV-200x113.png 200w, https://nosscr.org/wp-content/uploads/2026/07/NOSSCR-logo-stacked-REV-400x226.png 400w, https://nosscr.org/wp-content/uploads/2026/07/NOSSCR-logo-stacked-REV-600x338.png 600w, https://nosscr.org/wp-content/uploads/2026/07/NOSSCR-logo-stacked-REV.png 665w",
+        "data-sizes": "auto",
+        "data-orig-sizes": "(max-width: 640px) 100vw, 600px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-022/418c1cbc56a23842.txt"
+  },
+  {
+    "id": "d0e33837bd49d851",
+    "name": "North Dakota Corn Growers Association",
+    "requested_url": "https://ndcorngrowers.org/",
+    "status": 202,
+    "final_url": "https://ndcorngrowers.org/",
+    "text_chars": 98,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-022/d0e33837bd49d851.txt"
+  },
+  {
+    "id": "e30735b7b4e92886",
+    "name": "OpenAI OpCo, LLC",
+    "requested_url": "https://openai.com/about/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "8c7a5cd0c50a59a3",
+    "name": "Options Clearing Corporation (occ)",
+    "requested_url": "https://www.theocc.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "bfc36df6e2d4dc48",
+    "name": "RAI Services Company (fka- Raisc)",
+    "requested_url": "https://www.reynoldsamerican.com/",
+    "error": "HTTP Error 503: Service Unavailable"
+  },
+  {
+    "id": "845a3c30aa5f46df",
+    "name": "SAN Diego State University Research Foundation",
+    "requested_url": "https://www.foundation.sdsu.edu/",
+    "status": 200,
+    "final_url": "https://www.foundation.sdsu.edu/",
+    "text_chars": 4429,
+    "logo_candidates": [
+      {
+        "src": "https://ou-resources.sdsu.edu/images/_sdsu/logo-2022/logo.png",
+        "alt": "San Diego State University"
+      },
+      {
+        "src": "https://ou-resources.sdsu.edu/images/_sdsu/logo-2022/logo.png",
+        "alt": "San Diego State University"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-022/845a3c30aa5f46df.txt"
+  },
+  {
+    "id": "40b2f2a1792318cb",
+    "name": "Saracen Development LLC",
+    "requested_url": "https://www.saracenresort.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "3e7a897db5eb6a0a",
+    "name": "Sergeants Benevolent Association of New York City",
+    "requested_url": "https://sbanypd.nyc/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "ce68a7160ea26063",
+    "name": "Specialty Steel Industy of North America",
+    "requested_url": "https://www.ssina.com/",
+    "status": 200,
+    "final_url": "https://www.ssina.com/",
+    "text_chars": 6176,
+    "logo_candidates": [
+      {
+        "src": "https://www.ssina.com/wp-content/themes/ssina/resources/img/Logo/SSINA__logo__Medium.png",
+        "class": "logo",
+        "alt": "SSINA-LOGO"
+      },
+      {
+        "class": "logo",
+        "src": "https://www.ssina.com/wp-content/themes/ssina/resources/img/Logo/green-building-counsil-member__seal.png"
+      },
+      {
+        "class": "logo",
+        "src": "https://www.ssina.com/wp-content/themes/ssina/resources/img/Logo/SSINA__logo__Small.png"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-022/ce68a7160ea26063.txt"
+  },
+  {
+    "id": "cccdaa5af6caf979",
+    "name": "Urban Flood Safety & Water Quality District",
+    "requested_url": "https://urbanfloodsafetyor.gov/contact-us/",
+    "status": 202,
+    "final_url": "https://urbanfloodsafetyor.gov/contact-us/",
+    "text_chars": 120,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-022/cccdaa5af6caf979.txt"
+  },
+  {
+    "id": "c93e166e13ff2a23",
+    "name": "Commissariat of the Holy Land",
+    "requested_url": "https://myfranciscan.org/",
+    "status": 200,
+    "final_url": "https://myfranciscan.org/",
+    "text_chars": 2678,
+    "logo_candidates": [
+      {
+        "src": "https://myfranciscan.org/wp-content/uploads/2017/07/FMHLA-Logo-New-_web-resized.png",
+        "srcset": "https://myfranciscan.org/wp-content/uploads/2017/07/FMHLA-Logo-New-_web-resized.png 1x",
+        "width": "342",
+        "height": "72",
+        "alt": "Franciscan Monastery of the Holy Land in America Logo",
+        "retina_logo_url": "",
+        "class": "fusion-standard-logo"
+      },
+      {
+        "src": "https://myfranciscan.org/wp-content/uploads/2017/07/FMHLA-Logo-New-_web-resized.png",
+        "srcset": "https://myfranciscan.org/wp-content/uploads/2017/07/FMHLA-Logo-New-_web-resized.png 1x",
+        "width": "342",
+        "height": "72",
+        "alt": "Franciscan Monastery of the Holy Land in America Logo",
+        "retina_logo_url": "",
+        "class": "fusion-mobile-logo"
+      },
+      {
+        "decoding": "async",
+        "src": "https://myfranciscan.org/wp-content/uploads/2017/07/FMHLA-Logo-New-_footer.png"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-022/c93e166e13ff2a23.txt"
+  },
+  {
+    "id": "018cfa3a8d17f31b",
+    "name": "Credit Union Loan Source, LLC",
+    "requested_url": "https://www.buyculsloans.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "f5755b225c595a5b",
+    "name": "Datasys Group S.A.",
+    "requested_url": "https://www.datasysgroup.com/",
+    "status": 200,
+    "final_url": "https://www.datasysgroup.com/",
+    "text_chars": 82,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-022/f5755b225c595a5b.txt"
+  },
+  {
+    "id": "622ced36ba4f0d78",
+    "name": "Harrison County, MS",
+    "requested_url": "https://www.co.harrison.ms.us/",
+    "status": 200,
+    "final_url": "https://www.co.harrison.ms.us/",
+    "text_chars": 729,
+    "logo_candidates": [
+      {
+        "src": "/_images/logo1.gif",
+        "class": "logo",
+        "width": "150",
+        "height": "150",
+        "border": "0"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-022/622ced36ba4f0d78.txt"
+  },
+  {
+    "id": "0c04e79478266d4a",
+    "name": "Hydrogen Fuel Cell Bus Council",
+    "requested_url": "https://hydrogenfuelcellbuscouncil.org/",
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  {
+    "id": "30e2cdfc65aeb0e0",
+    "name": "Jackson County, Mississippi",
+    "requested_url": "https://www.co.jackson.ms.us/",
+    "status": 200,
+    "final_url": "https://www.co.jackson.ms.us/",
+    "text_chars": 2059,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-022/30e2cdfc65aeb0e0.txt"
+  },
+  {
+    "id": "4682ba141146bcf9",
+    "name": "Larimer County, Co",
+    "requested_url": "https://www.larimer.gov/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "ff29b05b097e801a",
+    "name": "Lower Yellowstone Irrigation Project",
+    "requested_url": "https://www.usbr.gov/gp/multimedia/publications/wyoming/loweryellowstone/",
+    "error": "[Errno 54] Connection reset by peer"
+  },
+  {
+    "id": "605a75c17001bb95",
+    "name": "National AHEC Organization",
+    "requested_url": "https://www.nationalahec.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "233ee487d44a820e",
+    "name": "Professional Compounding Centers of America (pcca)",
+    "requested_url": "https://pccarx.com/",
+    "status": 200,
+    "final_url": "https://pccarx.com/",
+    "text_chars": 11517,
+    "logo_candidates": [
+      {
+        "src": "https://cdn1.pccarx.com/1/Portals/0/Images/Public Pages Redesigned/Home/pcca-logo-white.svg?tx=c_scale,w_200",
+        "alt": "PCCA",
+        "width": "122",
+        "height": "37.2"
+      },
+      {
+        "src": "https://cdn1.pccarx.com/1/Portals/0/Images/Public Pages Redesigned/Home/pcca-logo-white.svg?tx=c_scale,w_200",
+        "alt": "PCCA",
+        "width": "122",
+        "height": "37.2"
+      },
+      {
+        "class": "img-fluid",
+        "alt": "Image",
+        "src": "https://cdn1.pccarx.com/1/Portals/_default/Skins/Porto/Resources/img/logo.png?tx=c_scale,w_120",
+        "width": "120",
+        "height": "36"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-022/233ee487d44a820e.txt"
+  },
+  {
+    "id": "088e9e6bd1e3252e",
+    "name": "Prosperity Capital Management Limited",
+    "requested_url": "https://adviserinfo.sec.gov/firm/summary/160624",
+    "status": 200,
+    "final_url": "https://adviserinfo.sec.gov/firm/summary/160624",
+    "text_chars": 213,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-022/088e9e6bd1e3252e.txt"
+  },
+  {
+    "id": "1eee642f0928cb41",
+    "name": "Pueblo of Ohkay Owingeh",
+    "requested_url": "https://ohkay.org/",
+    "error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1129)>"
+  },
+  {
+    "id": "5ff10fc21ede7e12",
+    "name": "Reinsurance Assn of America",
+    "requested_url": "https://www.reinsurance.org/RAA/RAA/Default.aspx",
+    "status": 200,
+    "final_url": "https://www.reinsurance.org/RAA/RAA/Default.aspx",
+    "text_chars": 10269,
+    "logo_candidates": [
+      {
+        "src": "/images/site images/Black-logo-globes-Re-Ed-webpage-2026.png?version=5963A620",
+        "style": "",
+        "alt": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-022/5ff10fc21ede7e12.txt"
+  },
+  {
+    "id": "a3b8af15db0c8237",
+    "name": "Sabine River Authority of Texas",
+    "requested_url": "https://www.sratx.org/",
+    "status": 202,
+    "final_url": "https://www.sratx.org/",
+    "text_chars": 88,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-022/a3b8af15db0c8237.txt"
+  },
+  {
+    "id": "a277ff9abd866a95",
+    "name": "Sacramento Area Council of Governments",
+    "requested_url": "https://www.sacog.gov/",
+    "error": "<urlopen error [Errno 8] nodename nor servname provided, or not known>"
+  },
+  {
+    "id": "f2d380428a670572",
+    "name": "Sacramento Area Flood Control Agency (safca)",
+    "requested_url": "https://www.safca.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "165844ea19fe1f2d",
+    "name": "Semi Global",
+    "requested_url": "https://www.semi.org/en/about-semi-membership/about-semi",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "24c3c49d4e1634cb",
+    "name": "Socure Inc.",
+    "requested_url": "https://www.socure.com/",
+    "status": 200,
+    "final_url": "https://www.socure.com/",
+    "text_chars": 8445,
+    "logo_candidates": [
+      {
+        "alt": "Coinbase_logo_upd",
+        "loading": "lazy",
+        "width": "1101",
+        "height": "196",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "block max-h-[80px] max-w-[185px] h-auto w-auto object-contain",
+        "style": "color:transparent",
+        "src": "https://media.socure.com/app/uploads/2026/02/Coinbase_logo_upd.svg"
+      },
+      {
+        "alt": "revolut-logo-transparent-Photoroom",
+        "loading": "lazy",
+        "width": "594",
+        "height": "138",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "block max-h-[80px] max-w-[185px] h-auto w-auto object-contain",
+        "style": "color:transparent",
+        "sizes": "180px",
+        "srcset": "/_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Frevolut-logo-transparent-Photoroom-e1771878380127.png&w=16&q=75 16w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Frevolut-logo-transparent-Photoroom-e1771878380127.png&w=32&q=75 32w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Frevolut-logo-transparent-Photoroom-e1771878380127.png&w=48&q=75 48w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Frevolut-logo-transparent-Photoroom-e1771878380127.png&w=64&q=75 64w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Frevolut-logo-transparent-Photoroom-e1771878380127.png&w=96&q=75 96w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Frevolut-logo-transparent-Photoroom-e1771878380127.png&w=128&q=75 128w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Frevolut-logo-transparent-Photoroom-e1771878380127.png&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Frevolut-logo-transparent-Photoroom-e1771878380127.png&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Frevolut-logo-transparent-Photoroom-e1771878380127.png&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Frevolut-logo-transparent-Photoroom-e1771878380127.png&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Frevolut-logo-transparent-Photoroom-e1771878380127.png&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Frevolut-logo-transparent-Photoroom-e1771878380127.png&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Frevolut-logo-transparent-Photoroom-e1771878380127.png&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Frevolut-logo-transparent-Photoroom-e1771878380127.png&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Frevolut-logo-transparent-Photoroom-e1771878380127.png&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Frevolut-logo-transparent-Photoroom-e1771878380127.png&w=3840&q=75 3840w",
+        "src": "/_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Frevolut-logo-transparent-Photoroom-e1771878380127.png&w=3840&q=75"
+      },
+      {
+        "alt": "draft-kings-logo-Photoroom",
+        "loading": "lazy",
+        "width": "268",
+        "height": "188",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "block max-h-[80px] max-w-[185px] h-auto w-auto object-contain",
+        "style": "color:transparent",
+        "sizes": "180px",
+        "srcset": "/_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Fdraft-kings-logo-Photoroom.png&w=16&q=75 16w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Fdraft-kings-logo-Photoroom.png&w=32&q=75 32w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Fdraft-kings-logo-Photoroom.png&w=48&q=75 48w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Fdraft-kings-logo-Photoroom.png&w=64&q=75 64w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Fdraft-kings-logo-Photoroom.png&w=96&q=75 96w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Fdraft-kings-logo-Photoroom.png&w=128&q=75 128w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Fdraft-kings-logo-Photoroom.png&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Fdraft-kings-logo-Photoroom.png&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Fdraft-kings-logo-Photoroom.png&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Fdraft-kings-logo-Photoroom.png&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Fdraft-kings-logo-Photoroom.png&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Fdraft-kings-logo-Photoroom.png&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Fdraft-kings-logo-Photoroom.png&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Fdraft-kings-logo-Photoroom.png&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Fdraft-kings-logo-Photoroom.png&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Fdraft-kings-logo-Photoroom.png&w=3840&q=75 3840w",
+        "src": "/_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Fdraft-kings-logo-Photoroom.png&w=3840&q=75"
+      },
+      {
+        "alt": "Logo (2)",
+        "loading": "lazy",
+        "width": "800",
+        "height": "194",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "block max-h-[80px] max-w-[185px] h-auto w-auto object-contain",
+        "style": "color:transparent",
+        "sizes": "180px",
+        "srcset": "/_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FLogo-2.png&w=16&q=75 16w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FLogo-2.png&w=32&q=75 32w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FLogo-2.png&w=48&q=75 48w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FLogo-2.png&w=64&q=75 64w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FLogo-2.png&w=96&q=75 96w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FLogo-2.png&w=128&q=75 128w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FLogo-2.png&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FLogo-2.png&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FLogo-2.png&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FLogo-2.png&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FLogo-2.png&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FLogo-2.png&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FLogo-2.png&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FLogo-2.png&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FLogo-2.png&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FLogo-2.png&w=3840&q=75 3840w",
+        "src": "/_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FLogo-2.png&w=3840&q=75"
+      },
+      {
+        "alt": "underdog-logo-Photoroom",
+        "loading": "lazy",
+        "width": "1024",
+        "height": "307",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "block max-h-[80px] max-w-[185px] h-auto w-auto object-contain",
+        "style": "color:transparent",
+        "sizes": "180px",
+        "srcset": "/_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Funderdog-logo-Photoroom-e1771287684756.png&w=16&q=75 16w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Funderdog-logo-Photoroom-e1771287684756.png&w=32&q=75 32w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Funderdog-logo-Photoroom-e1771287684756.png&w=48&q=75 48w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Funderdog-logo-Photoroom-e1771287684756.png&w=64&q=75 64w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Funderdog-logo-Photoroom-e1771287684756.png&w=96&q=75 96w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Funderdog-logo-Photoroom-e1771287684756.png&w=128&q=75 128w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Funderdog-logo-Photoroom-e1771287684756.png&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Funderdog-logo-Photoroom-e1771287684756.png&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Funderdog-logo-Photoroom-e1771287684756.png&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Funderdog-logo-Photoroom-e1771287684756.png&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Funderdog-logo-Photoroom-e1771287684756.png&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Funderdog-logo-Photoroom-e1771287684756.png&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Funderdog-logo-Photoroom-e1771287684756.png&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Funderdog-logo-Photoroom-e1771287684756.png&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Funderdog-logo-Photoroom-e1771287684756.png&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Funderdog-logo-Photoroom-e1771287684756.png&w=3840&q=75 3840w",
+        "src": "/_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Funderdog-logo-Photoroom-e1771287684756.png&w=3840&q=75"
+      },
+      {
+        "alt": "Gemini",
+        "loading": "lazy",
+        "width": "1200",
+        "height": "260",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "block max-h-[80px] max-w-[185px] h-auto w-auto object-contain",
+        "style": "color:transparent",
+        "sizes": "180px",
+        "srcset": "/_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F11%2F1200px-Gemini_digital_currency_exchange_logo.svg-1.png.webp&w=16&q=75 16w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F11%2F1200px-Gemini_digital_currency_exchange_logo.svg-1.png.webp&w=32&q=75 32w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F11%2F1200px-Gemini_digital_currency_exchange_logo.svg-1.png.webp&w=48&q=75 48w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F11%2F1200px-Gemini_digital_currency_exchange_logo.svg-1.png.webp&w=64&q=75 64w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F11%2F1200px-Gemini_digital_currency_exchange_logo.svg-1.png.webp&w=96&q=75 96w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F11%2F1200px-Gemini_digital_currency_exchange_logo.svg-1.png.webp&w=128&q=75 128w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F11%2F1200px-Gemini_digital_currency_exchange_logo.svg-1.png.webp&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F11%2F1200px-Gemini_digital_currency_exchange_logo.svg-1.png.webp&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F11%2F1200px-Gemini_digital_currency_exchange_logo.svg-1.png.webp&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F11%2F1200px-Gemini_digital_currency_exchange_logo.svg-1.png.webp&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F11%2F1200px-Gemini_digital_currency_exchange_logo.svg-1.png.webp&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F11%2F1200px-Gemini_digital_currency_exchange_logo.svg-1.png.webp&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F11%2F1200px-Gemini_digital_currency_exchange_logo.svg-1.png.webp&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F11%2F1200px-Gemini_digital_currency_exchange_logo.svg-1.png.webp&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F11%2F1200px-Gemini_digital_currency_exchange_logo.svg-1.png.webp&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F11%2F1200px-Gemini_digital_currency_exchange_logo.svg-1.png.webp&w=3840&q=75 3840w",
+        "src": "/_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F11%2F1200px-Gemini_digital_currency_exchange_logo.svg-1.png.webp&w=3840&q=75"
+      },
+      {
+        "alt": "public-logov2",
+        "loading": "lazy",
+        "width": "420",
+        "height": "200",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "block max-h-[80px] max-w-[185px] h-auto w-auto object-contain",
+        "style": "color:transparent",
+        "sizes": "180px",
+        "srcset": "/_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2025%2F01%2Fpublic-logov2.png&w=16&q=75 16w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2025%2F01%2Fpublic-logov2.png&w=32&q=75 32w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2025%2F01%2Fpublic-logov2.png&w=48&q=75 48w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2025%2F01%2Fpublic-logov2.png&w=64&q=75 64w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2025%2F01%2Fpublic-logov2.png&w=96&q=75 96w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2025%2F01%2Fpublic-logov2.png&w=128&q=75 128w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2025%2F01%2Fpublic-logov2.png&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2025%2F01%2Fpublic-logov2.png&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2025%2F01%2Fpublic-logov2.png&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2025%2F01%2Fpublic-logov2.png&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2025%2F01%2Fpublic-logov2.png&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2025%2F01%2Fpublic-logov2.png&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2025%2F01%2Fpublic-logov2.png&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2025%2F01%2Fpublic-logov2.png&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2025%2F01%2Fpublic-logov2.png&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2025%2F01%2Fpublic-logov2.png&w=3840&q=75 3840w",
+        "src": "/_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2025%2F01%2Fpublic-logov2.png&w=3840&q=75"
+      },
+      {
+        "alt": "TradeStation",
+        "loading": "lazy",
+        "width": "800",
+        "height": "180",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "block max-h-[80px] max-w-[185px] h-auto w-auto object-contain",
+        "style": "color:transparent",
+        "sizes": "180px",
+        "srcset": "/_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F12%2FTradeStation-logo-v2.png&w=16&q=75 16w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F12%2FTradeStation-logo-v2.png&w=32&q=75 32w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F12%2FTradeStation-logo-v2.png&w=48&q=75 48w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F12%2FTradeStation-logo-v2.png&w=64&q=75 64w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F12%2FTradeStation-logo-v2.png&w=96&q=75 96w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F12%2FTradeStation-logo-v2.png&w=128&q=75 128w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F12%2FTradeStation-logo-v2.png&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F12%2FTradeStation-logo-v2.png&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F12%2FTradeStation-logo-v2.png&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F12%2FTradeStation-logo-v2.png&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F12%2FTradeStation-logo-v2.png&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F12%2FTradeStation-logo-v2.png&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F12%2FTradeStation-logo-v2.png&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F12%2FTradeStation-logo-v2.png&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F12%2FTradeStation-logo-v2.png&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F12%2FTradeStation-logo-v2.png&w=3840&q=75 3840w",
+        "src": "/_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F12%2FTradeStation-logo-v2.png&w=3840&q=75"
+      },
+      {
+        "alt": "PrizePicks",
+        "loading": "lazy",
+        "width": "500",
+        "height": "83",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "block max-h-[80px] max-w-[185px] h-auto w-auto object-contain",
+        "style": "color:transparent",
+        "sizes": "180px",
+        "srcset": "/_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F11%2FPrizePicks_Logo1.png&w=16&q=75 16w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F11%2FPrizePicks_Logo1.png&w=32&q=75 32w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F11%2FPrizePicks_Logo1.png&w=48&q=75 48w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F11%2FPrizePicks_Logo1.png&w=64&q=75 64w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F11%2FPrizePicks_Logo1.png&w=96&q=75 96w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F11%2FPrizePicks_Logo1.png&w=128&q=75 128w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F11%2FPrizePicks_Logo1.png&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F11%2FPrizePicks_Logo1.png&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F11%2FPrizePicks_Logo1.png&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F11%2FPrizePicks_Logo1.png&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F11%2FPrizePicks_Logo1.png&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F11%2FPrizePicks_Logo1.png&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F11%2FPrizePicks_Logo1.png&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F11%2FPrizePicks_Logo1.png&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F11%2FPrizePicks_Logo1.png&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F11%2FPrizePicks_Logo1.png&w=3840&q=75 3840w",
+        "src": "/_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2024%2F11%2FPrizePicks_Logo1.png&w=3840&q=75"
+      },
+      {
+        "alt": "FSA_logo",
+        "loading": "lazy",
+        "width": "149",
+        "height": "53",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "block max-h-[80px] max-w-[185px] h-auto w-auto object-contain",
+        "style": "color:transparent",
+        "src": "https://media.socure.com/app/uploads/2026/03/FSA_logo.svg"
+      },
+      {
+        "alt": "Fanatics_logo",
+        "loading": "lazy",
+        "width": "233",
+        "height": "48",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "block max-h-[80px] max-w-[185px] h-auto w-auto object-contain",
+        "style": "color:transparent",
+        "src": "https://media.socure.com/app/uploads/2026/02/Fanatics_logo.svg"
+      },
+      {
+        "alt": "Kalshi Logo 1",
+        "loading": "lazy",
+        "width": "390",
+        "height": "100",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "block max-h-[80px] max-w-[185px] h-auto w-auto object-contain",
+        "style": "color:transparent",
+        "src": "https://media.socure.com/app/uploads/2026/02/Kalshi-Logo-1.svg"
+      },
+      {
+        "alt": "linkedin-logo-Photoroom",
+        "loading": "lazy",
+        "width": "679",
+        "height": "292",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "block max-h-[80px] max-w-[185px] h-auto w-auto object-contain",
+        "style": "color:transparent",
+        "sizes": "180px",
+        "srcset": "/_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Flinkedin-logo-Photoroom.png&w=16&q=75 16w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Flinkedin-logo-Photoroom.png&w=32&q=75 32w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Flinkedin-logo-Photoroom.png&w=48&q=75 48w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Flinkedin-logo-Photoroom.png&w=64&q=75 64w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Flinkedin-logo-Photoroom.png&w=96&q=75 96w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Flinkedin-logo-Photoroom.png&w=128&q=75 128w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Flinkedin-logo-Photoroom.png&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Flinkedin-logo-Photoroom.png&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Flinkedin-logo-Photoroom.png&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Flinkedin-logo-Photoroom.png&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Flinkedin-logo-Photoroom.png&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Flinkedin-logo-Photoroom.png&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Flinkedin-logo-Photoroom.png&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Flinkedin-logo-Photoroom.png&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Flinkedin-logo-Photoroom.png&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Flinkedin-logo-Photoroom.png&w=3840&q=75 3840w",
+        "src": "/_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2Flinkedin-logo-Photoroom.png&w=3840&q=75"
+      },
+      {
+        "alt": "Login_gov_logo",
+        "loading": "lazy",
+        "width": "293",
+        "height": "41",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "block max-h-[80px] max-w-[185px] h-auto w-auto object-contain",
+        "style": "color:transparent",
+        "src": "https://media.socure.com/app/uploads/2026/02/Login_gov_logo.svg"
+      },
+      {
+        "alt": "TikTok_logo",
+        "loading": "lazy",
+        "width": "500",
+        "height": "145",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "block max-h-[80px] max-w-[185px] h-auto w-auto object-contain",
+        "style": "color:transparent",
+        "src": "https://media.socure.com/app/uploads/2026/02/TikTok_logo.svg"
+      },
+      {
+        "alt": "Uber_logo_2018 (1)",
+        "loading": "lazy",
+        "width": "125",
+        "height": "44",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "block max-h-[80px] max-w-[185px] h-auto w-auto object-contain",
+        "style": "color:transparent",
+        "sizes": "180px",
+        "srcset": "/_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FUber_logo_2018-1.png&w=16&q=75 16w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FUber_logo_2018-1.png&w=32&q=75 32w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FUber_logo_2018-1.png&w=48&q=75 48w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FUber_logo_2018-1.png&w=64&q=75 64w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FUber_logo_2018-1.png&w=96&q=75 96w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FUber_logo_2018-1.png&w=128&q=75 128w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FUber_logo_2018-1.png&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FUber_logo_2018-1.png&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FUber_logo_2018-1.png&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FUber_logo_2018-1.png&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FUber_logo_2018-1.png&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FUber_logo_2018-1.png&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FUber_logo_2018-1.png&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FUber_logo_2018-1.png&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FUber_logo_2018-1.png&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FUber_logo_2018-1.png&w=3840&q=75 3840w",
+        "src": "/_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FUber_logo_2018-1.png&w=3840&q=75"
+      },
+      {
+        "alt": "idJxGuURW1_logos",
+        "loading": "lazy",
+        "width": "48",
+        "height": "44",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "block max-h-[80px] max-w-[185px] h-auto w-auto object-contain",
+        "style": "color:transparent",
+        "sizes": "180px",
+        "srcset": "/_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FidJxGuURW1_logos-1.png&w=16&q=75 16w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FidJxGuURW1_logos-1.png&w=32&q=75 32w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FidJxGuURW1_logos-1.png&w=48&q=75 48w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FidJxGuURW1_logos-1.png&w=64&q=75 64w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FidJxGuURW1_logos-1.png&w=96&q=75 96w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FidJxGuURW1_logos-1.png&w=128&q=75 128w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FidJxGuURW1_logos-1.png&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FidJxGuURW1_logos-1.png&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FidJxGuURW1_logos-1.png&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FidJxGuURW1_logos-1.png&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FidJxGuURW1_logos-1.png&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FidJxGuURW1_logos-1.png&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FidJxGuURW1_logos-1.png&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FidJxGuURW1_logos-1.png&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FidJxGuURW1_logos-1.png&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FidJxGuURW1_logos-1.png&w=3840&q=75 3840w",
+        "src": "/_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FidJxGuURW1_logos-1.png&w=3840&q=75"
+      },
+      {
+        "alt": "Caesars_Entertainment_logo_2020",
+        "loading": "lazy",
+        "width": "850",
+        "height": "468",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "block max-h-[80px] max-w-[185px] h-auto w-auto object-contain",
+        "style": "color:transparent",
+        "sizes": "180px",
+        "srcset": "/_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FCaesars_Entertainment_logo_2020.png&w=16&q=75 16w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FCaesars_Entertainment_logo_2020.png&w=32&q=75 32w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FCaesars_Entertainment_logo_2020.png&w=48&q=75 48w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FCaesars_Entertainment_logo_2020.png&w=64&q=75 64w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FCaesars_Entertainment_logo_2020.png&w=96&q=75 96w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FCaesars_Entertainment_logo_2020.png&w=128&q=75 128w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FCaesars_Entertainment_logo_2020.png&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FCaesars_Entertainment_logo_2020.png&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FCaesars_Entertainment_logo_2020.png&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FCaesars_Entertainment_logo_2020.png&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FCaesars_Entertainment_logo_2020.png&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FCaesars_Entertainment_logo_2020.png&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FCaesars_Entertainment_logo_2020.png&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FCaesars_Entertainment_logo_2020.png&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FCaesars_Entertainment_logo_2020.png&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FCaesars_Entertainment_logo_2020.png&w=3840&q=75 3840w",
+        "src": "/_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FCaesars_Entertainment_logo_2020.png&w=3840&q=75"
+      },
+      {
+        "alt": "Cash_App-Full-Logo.wine",
+        "loading": "lazy",
+        "width": "1996",
+        "height": "656",
+        "decoding": "async",
+        "data-nimg": "1",
+        "class": "block max-h-[80px] max-w-[185px] h-auto w-auto object-contain",
+        "style": "color:transparent",
+        "sizes": "180px",
+        "srcset": "/_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FCash_App-Full-Logo.wine_-e1771413066119.png&w=16&q=75 16w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FCash_App-Full-Logo.wine_-e1771413066119.png&w=32&q=75 32w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FCash_App-Full-Logo.wine_-e1771413066119.png&w=48&q=75 48w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FCash_App-Full-Logo.wine_-e1771413066119.png&w=64&q=75 64w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FCash_App-Full-Logo.wine_-e1771413066119.png&w=96&q=75 96w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FCash_App-Full-Logo.wine_-e1771413066119.png&w=128&q=75 128w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FCash_App-Full-Logo.wine_-e1771413066119.png&w=256&q=75 256w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FCash_App-Full-Logo.wine_-e1771413066119.png&w=384&q=75 384w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FCash_App-Full-Logo.wine_-e1771413066119.png&w=640&q=75 640w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FCash_App-Full-Logo.wine_-e1771413066119.png&w=750&q=75 750w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FCash_App-Full-Logo.wine_-e1771413066119.png&w=828&q=75 828w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FCash_App-Full-Logo.wine_-e1771413066119.png&w=1080&q=75 1080w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FCash_App-Full-Logo.wine_-e1771413066119.png&w=1200&q=75 1200w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FCash_App-Full-Logo.wine_-e1771413066119.png&w=1920&q=75 1920w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FCash_App-Full-Logo.wine_-e1771413066119.png&w=2048&q=75 2048w, /_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FCash_App-Full-Logo.wine_-e1771413066119.png&w=3840&q=75 3840w",
+        "src": "/_next/image?url=https%3A%2F%2Fmedia.socure.com%2Fapp%2Fuploads%2F2026%2F02%2FCash_App-Full-Logo.wine_-e1771413066119.png&w=3840&q=75"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-022/24c3c49d4e1634cb.txt"
+  },
+  {
+    "id": "b54bfc0c4d453a47",
+    "name": "Soho Apparel Group Inc.",
+    "requested_url": "https://www.sohoapparel.com/",
+    "status": 200,
+    "final_url": "https://www.sohoapparel.com/",
+    "text_chars": 521,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-022/b54bfc0c4d453a47.txt"
+  },
+  {
+    "id": "0ca3967ef6fc0b0f",
+    "name": "Sustainable Energy Principles and Manufacturing International, Inc.",
+    "requested_url": "https://sep-mi.com/",
+    "status": 200,
+    "final_url": "https://sep-mi.com/",
+    "text_chars": 4824,
+    "logo_candidates": [
+      {
+        "width": "1994",
+        "height": "790",
+        "src": "https://sep-mi.com/wp-content/uploads/2023/09/cca.png",
+        "class": "attachment-full size-full",
+        "alt": "A logo for the sustainable energy principles and practices international.",
+        "style": "max-width:179px;",
+        "decoding": "async",
+        "fetchpriority": "high",
+        "srcset": "https://sep-mi.com/wp-content/uploads/2023/09/cca.png 1994w, https://sep-mi.com/wp-content/uploads/2023/09/cca-400x158.png 400w, https://sep-mi.com/wp-content/uploads/2023/09/cca-1300x515.png 1300w, https://sep-mi.com/wp-content/uploads/2023/09/cca-768x304.png 768w, https://sep-mi.com/wp-content/uploads/2023/09/cca-1536x609.png 1536w, https://sep-mi.com/wp-content/uploads/2023/09/cca-860x341.png 860w, https://sep-mi.com/wp-content/uploads/2023/09/cca-430x170.png 430w, https://sep-mi.com/wp-content/uploads/2023/09/cca-700x277.png 700w, https://sep-mi.com/wp-content/uploads/2023/09/cca-150x59.png 150w",
+        "sizes": "(max-width: 1994px) 100vw, 1994px"
+      },
+      {
+        "width": "1994",
+        "height": "790",
+        "src": "https://sep-mi.com/wp-content/uploads/2023/09/cca.png",
+        "class": "vc_single_image-img attachment-full",
+        "alt": "A logo for the sustainable energy principles and practices international.",
+        "title": "cca",
+        "decoding": "async",
+        "loading": "lazy",
+        "srcset": "https://sep-mi.com/wp-content/uploads/2023/09/cca.png 1994w, https://sep-mi.com/wp-content/uploads/2023/09/cca-400x158.png 400w, https://sep-mi.com/wp-content/uploads/2023/09/cca-1300x515.png 1300w, https://sep-mi.com/wp-content/uploads/2023/09/cca-768x304.png 768w, https://sep-mi.com/wp-content/uploads/2023/09/cca-1536x609.png 1536w, https://sep-mi.com/wp-content/uploads/2023/09/cca-860x341.png 860w, https://sep-mi.com/wp-content/uploads/2023/09/cca-430x170.png 430w, https://sep-mi.com/wp-content/uploads/2023/09/cca-700x277.png 700w, https://sep-mi.com/wp-content/uploads/2023/09/cca-150x59.png 150w",
+        "sizes": "auto, (max-width: 1994px) 100vw, 1994px"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-022/0ca3967ef6fc0b0f.txt"
+  },
+  {
+    "id": "6a865208c9212835",
+    "name": "Tiber Creek Group OBO Mussallem CHD Alliance",
+    "requested_url": "https://mussallemchdalliance.org/",
+    "error": "<urlopen error [SSL: TLSV1_ALERT_PROTOCOL_VERSION] tlsv1 alert protocol version (_ssl.c:1129)>"
+  },
+  {
+    "id": "3623443ea12ee792",
+    "name": "Tidewater Community College Education Foundation",
+    "requested_url": "https://www.tcc.edu/about-tcc/educational-foundation/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "6b17ac6946d6104a",
+    "name": "Town of Boone NC",
+    "requested_url": "https://www.boonenc.gov/",
+    "status": 200,
+    "final_url": "https://www.boonenc.gov/",
+    "text_chars": 2184,
+    "logo_candidates": [
+      {
+        "class": "media",
+        "src": "/ImageRepository/Document?documentID=4531",
+        "alt": "NEW LOGO 2026.03.12 Boone_town logo (1)",
+        "data-delayed-image": ""
+      },
+      {
+        "class": "media",
+        "src": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "data-delay-load": "/ImageRepository/Document?documentID=4531",
+        "alt": "NEW LOGO 2026.03.12 Boone_town logo (1)",
+        "data-delayed-image": ""
+      },
+      {
+        "src": "/ImageRepository/Document?documentId=4659",
+        "class": "fr-dib",
+        "alt": "Boone NC Footer Logo"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-022/6b17ac6946d6104a.txt"
+  },
+  {
+    "id": "afb081b1902d8ff9",
+    "name": "Town of Dumfries, Virginia",
+    "requested_url": "https://dumfriesva.gov/",
+    "status": 200,
+    "final_url": "https://dumfriesva.gov/",
+    "text_chars": 100,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-022/afb081b1902d8ff9.txt"
+  },
+  {
+    "id": "0a8286e6f9a4d38f",
+    "name": "Woolpert, Inc.",
+    "requested_url": "https://woolpert.com/about/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "fb6ef2a94940196d",
+    "name": "Association Of Independent Research Institutes",
+    "requested_url": "https://www.airi.org/",
+    "status": 200,
+    "final_url": "https://www.airi.org/",
+    "text_chars": 4761,
+    "logo_candidates": [
+      {
+        "style": "margin: 0px 0px 0px 0px;",
+        "src": "/assets/site/logo.png",
+        "alt": ""
+      },
+      {
+        "style": "margin: 0px 0px 0px 0px;",
+        "src": "/assets/site/logo.png",
+        "alt": ""
+      },
+      {
+        "class": "img-responsive",
+        "style": "margin: 0; max-width: 250px; height: auto;",
+        "title": "",
+        "src": "/assets/sponsor-logos/AWS__copy_.jpg",
+        "alt": "",
+        "align": ""
+      },
+      {
+        "class": "img-responsive",
+        "style": "margin: 0; max-width: 250px; height: auto;",
+        "title": "",
+        "src": "/assets/sponsor-logos/9i-workday_2018.jpg",
+        "alt": "",
+        "align": ""
+      },
+      {
+        "class": "img-responsive",
+        "style": "margin: 0; max-width: 220px; height: auto;",
+        "title": "",
+        "src": "/assets/sponsor-logos/ThriveBuildings_Logo_RGB.png",
+        "alt": "",
+        "align": ""
+      },
+      {
+        "class": "img-responsive",
+        "style": "margin: 0; max-width: 250px; height: auto;",
+        "title": "",
+        "src": "/assets/sponsor-logos/Attain_PartnersBlueHorz_Logo.png",
+        "alt": "",
+        "align": ""
+      },
+      {
+        "class": "img-responsive",
+        "style": "margin: 0; max-width: 200px; height: auto;",
+        "title": "",
+        "src": "/assets/sponsor-logos/globus_org-600x600_600x600__1_.jpg",
+        "alt": "",
+        "align": ""
+      },
+      {
+        "class": "img-responsive",
+        "style": "margin: 0; max-width: 250px; height: auto;",
+        "title": "",
+        "src": "/assets/sponsor-logos/LabArchives.png",
+        "alt": "",
+        "align": ""
+      },
+      {
+        "src": "https://www.airi.org/assets/sponsor-logos/ML%20Weekes%20Logo.jpg",
+        "alt": "",
+        "width": "330",
+        "height": "111"
+      },
+      {
+        "src": "https://www.airi.org/assets/Cayuse-logo.png",
+        "alt": "",
+        "width": "305",
+        "height": "212"
+      },
+      {
+        "class": "img-responsive",
+        "style": "margin: 0; max-width: 250px; height: auto;",
+        "title": "",
+        "src": "/assets/sponsor-logos/c3_logo_1024x500.png",
+        "alt": "",
+        "align": ""
+      },
+      {
+        "src": "https://www.airi.org/assets/ServeVita_logo_final.png",
+        "alt": "",
+        "width": "275",
+        "height": "53"
+      },
+      {
+        "style": "max-width: 200px; margin-top: 20px;",
+        "src": "/../assets/site/footer-logo.png",
+        "alt": ""
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-022/fb6ef2a94940196d.txt"
+  },
+  {
+    "id": "a2c6c328960e62e5",
+    "name": "City of Brewton, Alabama",
+    "requested_url": "https://cityofbrewton.org",
+    "status": 202,
+    "final_url": "https://cityofbrewton.org",
+    "text_chars": 84,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-022/a2c6c328960e62e5.txt"
+  },
+  {
+    "id": "7cfb34d88c84e200",
+    "name": "City of Wetumpka, Alabama",
+    "requested_url": "https://www.wetumpkaal.gov/",
+    "status": 200,
+    "final_url": "https://www.wetumpkaal.gov/",
+    "text_chars": 3400,
+    "logo_candidates": [],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-022/7cfb34d88c84e200.txt"
+  },
+  {
+    "id": "5d3526c0806f0376",
+    "name": "Clever Benefit Ventures, LLC",
+    "requested_url": "https://cleverbenefits.com/",
+    "status": 200,
+    "final_url": "https://cleverbenefits.com/",
+    "text_chars": 2853,
+    "logo_candidates": [
+      {
+        "src": "/assets/cb-logo.png",
+        "alt": "clever benefits",
+        "class": "h-full object-contain"
+      },
+      {
+        "src": "/assets/cb-logo.png",
+        "alt": "clever benefits",
+        "class": "h-full object-contain"
+      },
+      {
+        "src": "/assets/clh-logo-dark.svg",
+        "alt": "Clever Health",
+        "class": "h-full object-contain"
+      },
+      {
+        "src": "/assets/clx-logo-dark.svg",
+        "alt": "Clever RX",
+        "class": "h-full object-contain"
+      },
+      {
+        "src": "/assets/agentlogin-logo-dark.svg",
+        "alt": "Agent Login",
+        "class": "h-full max-h-20 object-contain md:max-h-16"
+      },
+      {
+        "src": "/assets/cb-logo.png",
+        "alt": "clever benefits",
+        "class": "h-full object-contain"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-022/5d3526c0806f0376.txt"
+  },
+  {
+    "id": "67d1ea416219787b",
+    "name": "Cotton Logistics, Inc.",
+    "requested_url": "https://www.cottonlogistics.com/",
+    "status": 200,
+    "final_url": "https://www.cottonlogistics.com/",
+    "text_chars": 14430,
+    "logo_candidates": [
+      {
+        "src": "/assets/images/template/logo.svg",
+        "alt": "Cotton Logistics logo"
+      },
+      {
+        "src": "/assets/components/phpthumbof/cache/logo.8facae27c3be79c479a26c69f0082e20.png",
+        "alt": "Cotton Logistics Logo",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/components/phpthumbof/cache/environmental_support_services_2x.29b0ee39ead3c730c7a4dbc99ddba488.png",
+        "alt": "Cotton Environmental Support Services Logo",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/components/phpthumbof/cache/cotton_culinary_logo_new.29b0ee39ead3c730c7a4dbc99ddba488.png",
+        "alt": "Cotton Culinary Logo",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/components/phpthumbof/cache/global_disaster_solutions_2x.29b0ee39ead3c730c7a4dbc99ddba488.png",
+        "alt": "Cotton Global Disaster Solutions Logo",
+        "loading": "lazy"
+      },
+      {
+        "src": "/assets/images/template/logo.svg",
+        "alt": "Cotton Logistics logo",
+        "width": "168",
+        "height": "94"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-022/67d1ea416219787b.txt"
+  },
+  {
+    "id": "9cd8627caab1c1c5",
+    "name": "East-West Center",
+    "requested_url": "https://www.eastwestcenter.org/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "d3ff3d3de7f7bab1",
+    "name": "Empower Clinic Services, LLC DBD Empower Pharmacy",
+    "requested_url": "https://empowerpharmacy.com/",
+    "status": 200,
+    "final_url": "https://www.empowerpharmacy.com/",
+    "text_chars": 6812,
+    "logo_candidates": [
+      {
+        "width": "1024",
+        "height": "159",
+        "src": "https://www.empowerpharmacy.com/wp-content/uploads/2025/02/Empower-Full-Color@4x.webp",
+        "class": "attachment-full size-full",
+        "alt": "Empower Logo",
+        "decoding": "async",
+        "fetchpriority": "high",
+        "srcset": "https://www.empowerpharmacy.com/wp-content/uploads/2025/02/Empower-Full-Color@4x.webp 1024w, https://www.empowerpharmacy.com/wp-content/uploads/2025/02/Empower-Full-Color@4x-300x47.webp 300w, https://www.empowerpharmacy.com/wp-content/uploads/2025/02/Empower-Full-Color@4x-1015x159.webp 1015w",
+        "sizes": "(max-width: 1024px) 100vw, 1024px"
+      },
+      {
+        "width": "80",
+        "height": "80",
+        "src": "https://www.empowerpharmacy.com/wp-content/uploads/2024/01/on-light-3.svg",
+        "class": "attachment-thumbnail size-thumbnail",
+        "alt": "Certificate Logo 1",
+        "loading": "lazy",
+        "decoding": "async"
+      },
+      {
+        "width": "80",
+        "height": "80",
+        "src": "https://www.empowerpharmacy.com/wp-content/uploads/2026/03/LegitScript-Cert-150x150.png",
+        "class": "attachment-thumbnail size-thumbnail",
+        "alt": "Certificate Logo 2",
+        "loading": "lazy",
+        "decoding": "async",
+        "srcset": "https://www.empowerpharmacy.com/wp-content/uploads/2026/03/LegitScript-Cert-150x150.png 150w, https://www.empowerpharmacy.com/wp-content/uploads/2026/03/LegitScript-Cert.png 300w",
+        "sizes": "auto, (max-width: 150px) 100vw, 150px"
+      },
+      {
+        "width": "80",
+        "height": "80",
+        "src": "https://www.empowerpharmacy.com/wp-content/uploads/2024/01/on-light-5.svg",
+        "class": "attachment-thumbnail size-thumbnail",
+        "alt": "Certificate Logo 3",
+        "loading": "lazy",
+        "decoding": "async"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-022/d3ff3d3de7f7bab1.txt"
+  },
+  {
+    "id": "86b5892fa2e9c1d7",
+    "name": "Excelitas Technologies Corp.",
+    "requested_url": "https://www.excelitas.com/",
+    "error": "HTTP Error 403: Forbidden"
+  },
+  {
+    "id": "7369e80f9cf4733b",
+    "name": "Flexsys America LP",
+    "requested_url": "https://www.flexsys.com",
+    "status": 200,
+    "final_url": "https://flexsys.com/",
+    "text_chars": 6551,
+    "logo_candidates": [
+      {
+        "src": "https://flexsys.com/wp-content/uploads/2023/09/Flexsys_Logo_RGB_Inverse.png",
+        "srcset": "https://flexsys.com/wp-content/uploads/2023/09/Flexsys_Logo_RGB_Inverse.png 1557w, https://flexsys.com/wp-content/uploads/2023/09/Flexsys_Logo_RGB_Inverse-300x54.png 300w, https://flexsys.com/wp-content/uploads/2023/09/Flexsys_Logo_RGB_Inverse-1030x184.png 1030w, https://flexsys.com/wp-content/uploads/2023/09/Flexsys_Logo_RGB_Inverse-768x137.png 768w, https://flexsys.com/wp-content/uploads/2023/09/Flexsys_Logo_RGB_Inverse-1536x274.png 1536w, https://flexsys.com/wp-content/uploads/2023/09/Flexsys_Logo_RGB_Inverse-1500x268.png 1500w, https://flexsys.com/wp-content/uploads/2023/09/Flexsys_Logo_RGB_Inverse-705x126.png 705w",
+        "sizes": "(max-width: 1557px) 100vw, 1557px",
+        "class": "alternate avia-standard-logo",
+        "alt": "",
+        "title": "Flexsys_Logo_RGB_Inverse"
+      },
+      {
+        "decoding": "async",
+        "fetchpriority": "high",
+        "class": "wp-image-59 avia-img-lazy-loading-not-59 avia_image ",
+        "src": "https://flexsys.com/wp-content/uploads/2021/09/Flexsys_Logo-Rev.svg",
+        "alt": "Flexsys Light",
+        "title": "Flexsys_Logo-Rev",
+        "height": "1",
+        "width": "1",
+        "itemprop": "thumbnailUrl"
+      }
+    ],
+    "path": "/Users/kushbhuwalka/Documents/Codex/2026-09-04/https-lda-gov-api-https-lda/work/research-2026/jev-batch-022/7369e80f9cf4733b.txt"
+  },
+  {
+    "id": "45a547909f708518",
+    "name": "Genera PR",
+    "requested_url": "https://genera-pr.com/",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

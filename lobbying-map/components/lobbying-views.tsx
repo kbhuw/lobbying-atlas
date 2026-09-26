@@ -2,7 +2,7 @@
 import {useEffect,useMemo,useState} from 'react';
 import {Table,TableHeader,TableBody,TableRow,TableHead,TableCell} from '@/components/ui/table';
 import {Button} from '@/components/ui/button';
-import {LobbyIndex,IssueBoard,FirmDetail,OrgLobby,FilingDetail,loadIndex,loadIssue,loadFirm,loadOrgLobby,loadOrgFilings,dollars} from '@/lib/lobbying';
+import {LobbyIndex,IssueBoard,TopicBoard,FirmDetail,OrgLobby,FilingDetail,loadIndex,loadIssue,loadTopic,loadFirm,loadOrgLobby,loadOrgFilings,dollars} from '@/lib/lobbying';
 import {readable} from '@/lib/directory';
 
 function Pager({page,count,onChange}:{page:number;count:number;onChange:(n:number)=>void}){
@@ -11,25 +11,30 @@ function Pager({page,count,onChange}:{page:number;count:number;onChange:(n:numbe
 
 export function IssuesExplorer({year:initialYear,onOpenOrg}:{year:number;onOpenOrg:(orgKey:string)=>void}){
   const [index,setIndex]=useState<LobbyIndex|null>(null);
+  const [mode,setMode]=useState<'topics'|'codes'>('topics');
   const [code,setCode]=useState<string|null>(null);
   const [year,setYear]=useState(initialYear);
   useEffect(()=>setYear(initialYear),[initialYear]);
-  const [board,setBoard]=useState<IssueBoard|null>(null);
+  const [board,setBoard]=useState<IssueBoard|TopicBoard|null>(null);
+  const [boardName,setBoardName]=useState('');
   const [q,setQ]=useState('');const [page,setPage]=useState(0);
   const [err,setErr]=useState('');
   useEffect(()=>{loadIndex().then(setIndex).catch(()=>setErr('Could not load lobbying data.'))},[]);
-  useEffect(()=>{setBoard(null);if(code)loadIssue(code,year).then(setBoard).catch(()=>setErr('Could not load this issue.'))},[code,year]);
+  useEffect(()=>{setBoard(null);if(!code)return;
+    const load=mode==='topics'?loadTopic(code,year):loadIssue(code,year);
+    load.then(b=>{setBoard(b);setBoardName(b.name)}).catch(()=>setErr('Could not load this issue.'))},[code,year,mode]);
   useEffect(()=>setPage(0),[q,code,year]);
   if(err)return <p>{err}</p>;
   if(!index)return <p className="count">Loading…</p>;
+  const hasTopics=!!Object.keys(index.topic_index||{}).length;
 
   if(code&&board){
     const s=q.trim().toLowerCase();
     const orgs=board.organizations.filter(o=>o.name.toLowerCase().includes(s));
     return <>
-      <button className="back" onClick={()=>{setCode(null);setQ('')}}>← All issue areas</button>
-      <h1>{index.issue_codes[code]||code}</h1>
-      <p className="secondary">Who lobbied on this issue in {year}. Amounts attribute each filing's full reported amount to every issue it lists.</p>
+      <button className="back" onClick={()=>{setCode(null);setQ('')}}>← {mode==='topics'?'All topics':'All issue areas'}</button>
+      <h1>{boardName||index.issue_codes[code]||code}</h1>
+      <p className="secondary">Who lobbied on this in {year}. Amounts attribute each filing's full reported amount to every issue it lists.</p>
       <YearPicker index={index} year={year} onChange={setYear}/>
       <div className="controls"><label className="search"><span>Search organizations</span><input type="search" value={q} placeholder="Organization name" onChange={e=>setQ(e.target.value)}/></label></div>
       <p className="count">{orgs.length.toLocaleString()} organizations</p>
@@ -41,18 +46,23 @@ export function IssuesExplorer({year:initialYear,onOpenOrg}:{year:number;onOpenO
       <Pager page={page} count={orgs.length} onChange={setPage}/>
     </>;
   }
-  if(code)return <><button className="back" onClick={()=>setCode(null)}>← All issue areas</button><p className="count">Loading…</p></>;
+  if(code)return <><button className="back" onClick={()=>setCode(null)}>← Back</button><p className="count">Loading…</p></>;
 
-  const rows=Object.entries(index.issue_codes)
-    .map(([c,name])=>({c,name,...(index.issue_index[c]?.[String(year)]||{organizations:0,amount:0})}))
+  const source=mode==='topics'?index.topic_names||{}:index.issue_codes;
+  const iidx=mode==='topics'?index.topic_index||{}:index.issue_index;
+  const rows=Object.entries(source)
+    .map(([c,name])=>({c,name,...(iidx[c]?.[String(year)]||{organizations:0,amount:0})}))
     .filter(r=>r.name.toLowerCase().includes(q.trim().toLowerCase()))
     .sort((a,b)=>b.amount-a.amount||b.organizations-a.organizations);
   return <>
     <h1>Who lobbied for what</h1>
-    <p className="secondary">Pick an issue area to see which organizations reported lobbying on it, ranked by reported spend.</p>
+    <p className="secondary">Pick a topic to see which organizations reported lobbying on it, ranked by reported spend.{hasTopics?' Topics are AI-normalized from the free-text descriptions on each filing; issue areas are the official LDA categories.':''}</p>
+    {hasTopics&&<div className="featured-links" role="group" aria-label="View">
+      <button className={mode==='topics'?'year-active':''} onClick={()=>{setMode('topics');setCode(null)}}>Topics</button>
+      <button className={mode==='codes'?'year-active':''} onClick={()=>{setMode('codes');setCode(null)}}>Issue areas</button></div>}
     <YearPicker index={index} year={year} onChange={setYear}/>
-    <div className="controls"><label className="search"><span>Search issues</span><input type="search" value={q} placeholder="Issue area" onChange={e=>setQ(e.target.value)}/></label></div>
-    <Table><TableHeader><TableRow><TableHead>Issue area</TableHead><TableHead>Organizations</TableHead><TableHead>Reported spend</TableHead></TableRow></TableHeader>
+    <div className="controls"><label className="search"><span>Search</span><input type="search" value={q} placeholder={mode==='topics'?'Topic':'Issue area'} onChange={e=>setQ(e.target.value)}/></label></div>
+    <Table><TableHeader><TableRow><TableHead>{mode==='topics'?'Topic':'Issue area'}</TableHead><TableHead>Organizations</TableHead><TableHead>Reported spend</TableHead></TableRow></TableHeader>
     <TableBody>{rows.map(r=><TableRow key={r.c}>
       <TableCell><button className="name" onClick={()=>setCode(r.c)}>{r.name}</button></TableCell>
       <TableCell>{r.organizations.toLocaleString()}</TableCell>
@@ -81,6 +91,7 @@ export function FirmsExplorer({onOpenOrg}:{onOpenOrg:(orgKey:string)=>void}){
       <button className="back" onClick={()=>{setFirm(null);setQ('')}}>← All lobbying firms</button>
       <h1>{readable(firm.name||'')}</h1>
       <p className="secondary">{firm.filings.toLocaleString()} filings · {dollars(firm.total)} reported income · {firm.clients.length.toLocaleString()} clients (2024–2026, latest filing per period)</p>
+      {firm.topics&&Object.keys(firm.topics).length>0&&<p className="secondary">Top topics: {Object.keys(firm.topics).slice(0,8).map(t=>index.topic_names?.[t]||t).join(' · ')}</p>}
       {Object.keys(firm.issues).length>0&&<p className="secondary">Top issues: {Object.keys(firm.issues).slice(0,8).map(c=>index.issue_codes[c]||c).join(' · ')}</p>}
       <div className="controls"><label className="search"><span>Search clients</span><input type="search" value={q} placeholder="Client name" onChange={e=>setQ(e.target.value)}/></label></div>
       <p className="count">{clients.length.toLocaleString()} clients</p>
@@ -124,6 +135,7 @@ export function OrgLobbyPanel({orgKey,index}:{orgKey:string;index:LobbyIndex}){
     <h2 style={{fontSize:20,marginTop:0}}>Lobbying activity · 2024–2026</h2>
     <p>{org.name} reported <strong>{dollars(org.total)}</strong> in lobbying across {org.filings} filing{org.filings===1?'':'s'}{org.firms.length?<> via {org.firms.length===1?'firm ':'firms '}<strong>{org.firms.slice(0,4).map(f=>readable(f.name||'')).join(', ')}{org.firms.length>4?' and more':''}</strong></>:null}.</p>
     {!!org.lobbyists.length&&<p className="secondary">Named lobbyists: {org.lobbyists.slice(0,12).join(', ')}{org.lobbyists.length>12?` +${org.lobbyists.length-12} more`:''}</p>}
+    {org.topics&&Object.keys(org.topics).length>0&&<p className="secondary"><strong>Top topics:</strong> {Object.keys(org.topics).slice(0,8).map(t=>index.topic_names?.[t]||t).join(' · ')}</p>}
     {issueNames.length>0&&<dl>{issueNames.map(([code,amt])=><div key={code}><dt>{index.issue_codes[code]||code}</dt><dd className="amount">{dollars(amt)}</dd></div>)}</dl>}
     {!!org.sample_texts.length&&<details><summary>What the filings say ({org.sample_texts.length})</summary><ul>{org.sample_texts.map((t,i)=><li key={i}>{t}</li>)}</ul></details>}
     {latest.length>0&&<details open={open} onToggle={e=>setOpen((e.target as HTMLDetailsElement).open)}>
@@ -131,7 +143,7 @@ export function OrgLobbyPanel({orgKey,index}:{orgKey:string;index:LobbyIndex}){
       <ul>{latest.slice(0,30).map(f=><li key={f.id}>
         <strong>{f.kind} · {f.year} · {dollars(f.amount)}</strong>{f.firm?` — ${readable(f.firm||'')}`:''}
         {f.activities.map((a,i)=><div key={i} className="secondary">
-          {a.issue||a.code}{a.text?` — ${a.text}`:''}
+          {a.issue||a.code}{a.topic?` · ${index.topic_names?.[a.topic]||a.topic}`:''}{a.text?` — ${a.text}`:''}
           {a.lobbyists.length>0&&<span><br/>Lobbyists: {a.lobbyists.map(l=>l.name).join(', ')}</span>}
           {a.agencies.length>0&&<span><br/>Contacted: {a.agencies.join('; ')}</span>}
         </div>)}

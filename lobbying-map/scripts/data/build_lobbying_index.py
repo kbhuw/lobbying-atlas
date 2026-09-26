@@ -76,6 +76,18 @@ def main():
     db.row_factory = sqlite3.Row
     emap = json.loads((db_path.parent / "entity-map.json").read_text())
 
+    # JEV topic labels for free-text issue descriptions (optional enrichment).
+    tmap = {}
+    tn = {}
+    topics_db = db_path.parent.parent / "jev" / "desc-topics.sqlite"
+    topics_json = db_path.parent.parent / "jev" / "topics.json"
+    if topics_db.exists() and topics_json.exists():
+        tn = {t["id"]: t.get("label", t["id"]) for t in json.loads(topics_json.read_text())}
+        tdb = sqlite3.connect(topics_db)
+        for desc, topic in tdb.execute("SELECT description, topic FROM desc_topics"):
+            tmap[desc] = topic
+        tdb.close()
+
     filings = {}
     for f in db.execute("SELECT * FROM filings"):
         d = dict(f)
@@ -103,8 +115,10 @@ def main():
 
     shards = defaultdict(list)
     firm = defaultdict(lambda: {"clients": defaultdict(lambda: {"amount": 0.0, "filings": 0, "issues": set()}),
-                                "issues": defaultdict(float), "total": 0.0, "filings": 0})
+                                "issues": defaultdict(float), "topics": defaultdict(float),
+                                "total": 0.0, "filings": 0})
     org = defaultdict(lambda: {"amount": 0.0, "filings": 0, "issues": defaultdict(float),
+                               "topics": defaultdict(float),
                                "firms": defaultdict(lambda: {"amount": 0.0, "filings": 0}),
                                "years": set(), "sample_texts": set(), "filing_ids": [],
                                "lobbyists": set()})
@@ -121,6 +135,7 @@ def main():
                 continue
             fa.append({"code": a["issue_code"], "issue": ISSUE_CODES.get(a["issue_code"], a["issue_code"]),
                        "text": a["description"], "agencies": split_agencies(a["agencies"]),
+                       "topic": tmap.get(a["description"]),
                        "lobbyists": lobs.get((uuid, i), [])})
             n_act += 1
         shard = hashlib.md5(uuid.encode()).hexdigest()[:2]
@@ -148,6 +163,8 @@ def main():
             c["issues"].add(a["code"])
             if amt:
                 fr["issues"][a["code"]] += amt
+                if a.get("topic"):
+                    fr["topics"][a["topic"]] += amt
 
         okey = org_key(f["group_id"], f["client_name"])
         o = org[okey]
@@ -167,6 +184,8 @@ def main():
         for a in fa:
             if amt:
                 o["issues"][a["code"]] += amt
+                if a.get("topic"):
+                    o["topics"][a["topic"]] += amt
             if a["text"] and len(o["sample_texts"]) < 5:
                 o["sample_texts"].add(a["text"][:240])
             for l in a["lobbyists"]:
@@ -191,6 +210,33 @@ def main():
                 e["filings"] += 1
                 if amt:
                     e["amount"] += amt
+    ty = defaultdict(lambda: defaultdict(lambda: {"amount": 0.0, "filings": 0}))
+    for uuid, f in filings.items():
+        if uuid not in latest_uuids:
+            continue
+        amt = money(f["income"]) or money(f["expenses"])
+        year = f["filing_year"] or int((f["dt_posted"] or "0000")[:4] or 0)
+        for a in acts.get(uuid, []):
+            topic = tmap.get(a["description"])
+            if topic and a["issue_code"]:
+                key = org_key(f["group_id"], f["client_name"])
+                e = ty[(topic, year)][key]
+                e["name"] = f["client_name"]
+                e["filings"] += 1
+                if amt:
+                    e["amount"] += amt
+    topic_index = {}
+    for (topic, year), clients in ty.items():
+        rows = sorted(({"id": k, "name": v["name"], "amount": round(v["amount"], 2) or None,
+                        "filings": v["filings"]} for k, v in clients.items()),
+                      key=lambda r: -(r["amount"] or 0))
+        wjson(out / "topics" / f"{topic}-{year}.json.gz",
+              {"topic": topic, "name": tn.get(topic, topic), "year": year,
+               "organizations": rows})
+        topic_index.setdefault(topic, {})[str(year)] = {
+            "organizations": len(rows),
+            "amount": round(sum(v["amount"] for v in clients.values()), 2)}
+
     for (code, year), clients in iy.items():
         rows = sorted(({"id": k, "name": v["name"], "amount": round(v["amount"], 2) or None,
                         "filings": v["filings"]} for k, v in clients.items()),
@@ -212,7 +258,8 @@ def main():
                                 "issues": sorted(v["issues"])}
                                for k, v in fr["clients"].items()),
                               key=lambda r: -r["amount"]),
-            "issues": {k: round(v, 2) for k, v in sorted(fr["issues"].items(), key=lambda x: -x[1])}})
+            "issues": {k: round(v, 2) for k, v in sorted(fr["issues"].items(), key=lambda x: -x[1])},
+            "topics": {k: round(v, 2) for k, v in sorted(fr["topics"].items(), key=lambda x: -x[1])}})
 
     for okey, o in org.items():
         wjson(out / "orgs" / f"{okey}.json.gz", {
@@ -220,6 +267,7 @@ def main():
             "name": o["name"], "total": round(o["amount"], 2), "filings": o["filings"],
             "years": sorted(o["years"]),
             "issues": {k: round(v, 2) for k, v in sorted(o["issues"].items(), key=lambda x: -x[1])},
+            "topics": {k: round(v, 2) for k, v in sorted(o["topics"].items(), key=lambda x: -x[1])},
             "firms": sorted(({"firm_id": k, "name": v["name"],
                               "amount": round(v["amount"], 2), "filings": v["filings"]}
                              for k, v in o["firms"].items()), key=lambda r: -r["amount"]),
@@ -235,7 +283,8 @@ def main():
                               "filings": fr["filings"], "clients": len(fr["clients"])}
                              for rid, fr in firm.items() if rid),
                             key=lambda r: -r["total"]),
-        "issue_codes": ISSUE_CODES, "issue_index": issue_index})
+        "issue_codes": ISSUE_CODES, "issue_index": issue_index,
+        "topic_names": tn, "topic_index": topic_index})
     print(json.dumps({"filings": len(filings), "activities": n_act,
                       "orgs": len(org), "firms": len(firm),
                       "shards": len(shards), "issue_years": len(iy)}))

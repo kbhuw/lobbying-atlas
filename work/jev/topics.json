@@ -1,0 +1,317 @@
+[
+ {
+  "id": "monitoring_general",
+  "description": "Generic monitoring, tracking, or 'general discussions' with no specific policy ask \u2014 e.g. 'Monitor issues related to X', 'general lobbying on behalf of client', 'issues affecting the industry'.",
+  "label": "General monitoring"
+ },
+ {
+  "id": "appropriations_annual",
+  "description": "Annual/FY appropriations and spending bills, budget line items, agency funding levels, community projects/earmarks (CPF/CDS), omnibus/minibus packages, CRs.",
+  "label": "Appropriations & funding bills"
+ },
+ {
+  "id": "ndaa_defense_auth",
+  "description": "National Defense Authorization Act and defense policy/authorization issues; military construction; force posture.",
+  "label": "Defense authorization (NDAA)"
+ },
+ {
+  "id": "defense_programs",
+  "description": "Specific DoD weapons systems, procurement programs, defense contracting, RDT&E programs.",
+  "label": "Defense programs & procurement"
+ },
+ {
+  "id": "obbba_hr1",
+  "description": "The One Big Beautiful Bill Act / H.R.1 (119th Congress) reconciliation package.",
+  "label": "One Big Beautiful Bill Act (H.R.1)"
+ },
+ {
+  "id": "inflation_reduction_act",
+  "description": "Inflation Reduction Act implementation and provisions \u2014 drug price negotiation, clean-energy tax credits, Medicare redesign.",
+  "label": "Inflation Reduction Act"
+ },
+ {
+  "id": "medicare_medicaid",
+  "description": "Medicare/Medicaid payment rates, reimbursement rules, managed care, program integrity, site-neutral, coverage decisions.",
+  "label": "Medicare & Medicaid policy"
+ },
+ {
+  "id": "drug_pricing_pbm",
+  "description": "Drug pricing, PBM reform, 340B program, pharmaceutical supply chain and rebate issues.",
+  "label": "Drug pricing & PBMs"
+ },
+ {
+  "id": "health_fda",
+  "description": "FDA regulation of drugs/devices/diagnostics, approvals, clinical trials, lab testing (LDT), cosmetics.",
+  "label": "FDA & health regulation"
+ },
+ {
+  "id": "public_health",
+  "description": "CDC/NIH funding, disease programs, pandemic preparedness, mental health, opioids, public health programs.",
+  "label": "Public health programs"
+ },
+ {
+  "id": "tax_credits",
+  "description": "Specific tax credits/incentives \u2014 clean energy credits (45V, 45Q, 45U, 48, 48C, 45X), R&D amortization, bonus depreciation, low-income housing credits.",
+  "label": "Tax credits & incentives"
+ },
+ {
+  "id": "tax_general",
+  "description": "Corporate/individual tax rates, international tax (GILTI/FDII/BEAT), TCJA extensions, IRS issues, SALT, carried interest.",
+  "label": "Tax policy"
+ },
+ {
+  "id": "tariffs_trade",
+  "description": "Tariffs, Section 301/232, trade agreements, customs/CBP, trade remedies, USMCA, forced labor (UFLPA), de minimis.",
+  "label": "Tariffs & trade"
+ },
+ {
+  "id": "export_controls_sanctions",
+  "description": "Export controls (BIS/EAR), economic sanctions (OFAC), outbound investment screening, entity lists.",
+  "label": "Export controls & sanctions"
+ },
+ {
+  "id": "ai_policy",
+  "description": "Artificial intelligence regulation/policy \u2014 model safety, AI standards, federal AI use, compute, AI liability, moratorium/preemption debates.",
+  "label": "AI policy"
+ },
+ {
+  "id": "data_privacy",
+  "description": "Consumer data privacy (APRA and similar), children's privacy (COPPA), health data, data brokers, state privacy laws.",
+  "label": "Data privacy"
+ },
+ {
+  "id": "online_platforms",
+  "description": "Content moderation, Section 230, kids online safety (KOSA), app store rules, platform competition.",
+  "label": "Online platforms & Section 230"
+ },
+ {
+  "id": "antitrust",
+  "description": "Antitrust enforcement, mergers, DOJ/FTC competition policy, market dominance issues.",
+  "label": "Antitrust & competition"
+ },
+ {
+  "id": "spectrum_telecom",
+  "description": "Spectrum auctions/allocation, FCC issues, broadband funding (BEAD/USF), net neutrality, 5G/6G, satellite.",
+  "label": "Spectrum & telecom"
+ },
+ {
+  "id": "copyright_ip",
+  "description": "Patents, copyright, trademarks, DMCA, IP enforcement, patent reform (PTAB), AI training-data copyright.",
+  "label": "Copyright & patents"
+ },
+ {
+  "id": "semiconductors_chips",
+  "description": "CHIPS Act implementation, semiconductor manufacturing/incentives, chip supply chain.",
+  "label": "Semiconductors & CHIPS"
+ },
+ {
+  "id": "cybersecurity",
+  "description": "Cybersecurity regulation, incident reporting (CIRCIA), federal cybersecurity, CISA, cyber standards.",
+  "label": "Cybersecurity"
+ },
+ {
+  "id": "energy_permitting",
+  "description": "Permitting reform, NEPA, transmission siting, interconnection queues.",
+  "label": "Energy permitting & transmission"
+ },
+ {
+  "id": "clean_energy",
+  "description": "Wind/solar/storage/geothermal/hydrogen projects and incentives, renewable fuels, EV/EV charging, clean hydrogen.",
+  "label": "Clean energy"
+ },
+ {
+  "id": "oil_gas",
+  "description": "Oil/gas production, LNG exports, pipelines, drilling leases, methane rules.",
+  "label": "Oil & gas"
+ },
+ {
+  "id": "nuclear",
+  "description": "Nuclear reactors, NRC licensing, SMRs/advanced reactors, nuclear fuel.",
+  "label": "Nuclear energy"
+ },
+ {
+  "id": "utilities_grid",
+  "description": "Electric utility regulation, FERC, grid reliability, rate issues, distributed energy.",
+  "label": "Utilities & grid"
+ },
+ {
+  "id": "aviation",
+  "description": "FAA, airlines, airports, air traffic control, drones/UAS, aircraft manufacturing.",
+  "label": "Aviation"
+ },
+ {
+  "id": "surface_transport",
+  "description": "Rail, trucking (FMCSA), highways, transit, auto safety/NHTSA, vehicle rules, EV mandates (transportation side).",
+  "label": "Surface transportation"
+ },
+ {
+  "id": "maritime",
+  "description": "Ports, shipping, Jones Act, Coast Guard, fisheries.",
+  "label": "Maritime & ports"
+ },
+ {
+  "id": "housing",
+  "description": "Housing policy, HUD programs, mortgages, Fannie/Freddie, affordable housing development.",
+  "label": "Housing & mortgages"
+ },
+ {
+  "id": "banking_capital",
+  "description": "Bank regulation, capital rules (Basel), CFPB, deposit insurance, payments, credit unions.",
+  "label": "Banking & capital markets"
+ },
+ {
+  "id": "crypto_fintech",
+  "description": "Digital assets, stablecoins, crypto market structure, SEC/CFTC jurisdiction over tokens, fintech/ payments innovation.",
+  "label": "Crypto & fintech"
+ },
+ {
+  "id": "insurance",
+  "description": "Insurance regulation \u2014 flood (NFIP), crop, life/health insurance rules, terrorism risk insurance.",
+  "label": "Insurance"
+ },
+ {
+  "id": "securities_markets",
+  "description": "SEC rules, capital markets, disclosure, exchanges, accredited investors, proxy/adviser regulation.",
+  "label": "Securities & SEC"
+ },
+ {
+  "id": "labor_employment",
+  "description": "Wages, OSHA, unions/NLRB, worker classification, EEOC, apprenticeships, workforce programs.",
+  "label": "Labor & employment"
+ },
+ {
+  "id": "immigration",
+  "description": "Immigration, visas (H-1B, H-2, EB), border, asylum, DACA, refugee policy.",
+  "label": "Immigration & visas"
+ },
+ {
+  "id": "education",
+  "description": "K-12 and higher education, student loans, Title IX, accreditation, school funding.",
+  "label": "Education"
+ },
+ {
+  "id": "agriculture_farmbill",
+  "description": "Farm bill, USDA programs, commodities, crop insurance (policy side), rural development.",
+  "label": "Agriculture & farm bill"
+ },
+ {
+  "id": "food_nutrition",
+  "description": "Food safety/labeling (FDA/USDA), SNAP/WIC, dietary guidelines, infant formula.",
+  "label": "Food & nutrition"
+ },
+ {
+  "id": "environment_epa",
+  "description": "EPA regulations \u2014 air quality, water quality, PFAS/chemicals (TSCA), Superfund, climate rules (Clean Air Act).",
+  "label": "Environment & EPA rules"
+ },
+ {
+  "id": "water_resources",
+  "description": "Water infrastructure, Army Corps, Bureau of Reclamation, drought, drinking water.",
+  "label": "Water resources"
+ },
+ {
+  "id": "public_lands",
+  "description": "Interior/BLM, mining on federal lands, forestry/USFS, national parks, grazing, offshore leasing.",
+  "label": "Public lands & mining"
+ },
+ {
+  "id": "homeland_security",
+  "description": "DHS programs, TSA, FEMA, border security tech, emergency management.",
+  "label": "Homeland security"
+ },
+ {
+  "id": "government_contracting",
+  "description": "Federal procurement rules, FAR, GSA schedules, government contracts/grants mechanics, federal IT procurement.",
+  "label": "Government contracting"
+ },
+ {
+  "id": "judiciary_legal",
+  "description": "Courts, tort reform, legal services, class actions, arbitration, crime bills.",
+  "label": "Judiciary & legal reform"
+ },
+ {
+  "id": "elections_democracy",
+  "description": "Election administration, campaign finance, voting rights, ethics.",
+  "label": "Elections & democracy"
+ },
+ {
+  "id": "tribal",
+  "description": "Indian Country issues \u2014 tribal gaming, self-governance, tribal funding, land-into-trust.",
+  "label": "Tribal affairs"
+ },
+ {
+  "id": "foreign_policy",
+  "description": "Foreign aid, treaties, diplomacy, international institutions, FARA-adjacent policy advocacy.",
+  "label": "Foreign policy & aid"
+ },
+ {
+  "id": "space",
+  "description": "NASA, commercial space, space launch.",
+  "label": "Space"
+ },
+ {
+  "id": "science_research",
+  "description": "Federal R&D funding, NSF/DOE science programs, research policy, tech transfer.",
+  "label": "Science & research funding"
+ },
+ {
+  "id": "manufacturing_supplychain",
+  "description": "Buy American/domestic content, industrial policy, supply chain resilience, manufacturing incentives (non-CHIPS).",
+  "label": "Manufacturing & supply chain"
+ },
+ {
+  "id": "small_business",
+  "description": "SBA programs, small business lending/contracting.",
+  "label": "Small business"
+ },
+ {
+  "id": "retirement",
+  "description": "ERISA, 401(k)/pensions, retirement savings policy.",
+  "label": "Retirement & pensions"
+ },
+ {
+  "id": "consumer_products",
+  "description": "CPSC, product safety, consumer protection rules (non-financial), warranty/repair (right to repair).",
+  "label": "Consumer products"
+ },
+ {
+  "id": "media_advertising",
+  "description": "Broadcasting, journalism support, advertising rules, music licensing/royalties.",
+  "label": "Media & advertising"
+ },
+ {
+  "id": "gaming_sports",
+  "description": "Gambling/sports betting regulation, sports governance, NIL/athletes.",
+  "label": "Gaming & sports"
+ },
+ {
+  "id": "cannabis",
+  "description": "Cannabis scheduling, banking (SAFER), hemp, state-federal conflicts.",
+  "label": "Cannabis"
+ },
+ {
+  "id": "veterans",
+  "description": "VA programs, veterans benefits/health.",
+  "label": "Veterans"
+ },
+ {
+  "id": "postal",
+  "description": "USPS issues.",
+  "label": "Postal"
+ },
+ {
+  "id": "guns",
+  "description": "Firearms policy, ATF.",
+  "label": "Firearms"
+ },
+ {
+  "id": "district_municipal",
+  "description": "DC/local municipal issues, local project funding.",
+  "label": "Local & municipal issues"
+ },
+ {
+  "id": "other",
+  "description": "Genuine policy topic not covered by any other class \u2014 use sparingly.",
+  "label": "Other topics"
+ }
+]

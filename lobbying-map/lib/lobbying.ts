@@ -5,9 +5,11 @@ export type LobbyIndex={
   top_firms:{id:number;name:string;total:number;filings:number;clients:number}[];
   issue_codes:Record<string,string>;
   issue_index:Record<string,Record<string,{organizations:number;amount:number}>>;
+  topic_names?:Record<string,string>;
+  topic_index?:Record<string,Record<string,{organizations:number;amount:number}>>;
 };
 export type Activity={code:string|null;issue:string|null;text:string|null;
-  agencies:string[];
+  agencies:string[];topic?:string|null;
   lobbyists:{name:string;covered_position:string|null;new:boolean}[]};
 export type FilingDetail={id:string;senate_id:string|null;form:string;
   group_id:string|null;client:string;
@@ -16,11 +18,14 @@ export type FilingDetail={id:string;senate_id:string|null;form:string;
   terminated:string|null;latest:boolean;activities:Activity[]};
 export type IssueBoard={code:string;name:string;year:number;
   organizations:{id:string;name:string;amount:number|null;filings:number}[]};
+export type TopicBoard={topic:string;name:string;year:number;
+  organizations:{id:string;name:string;amount:number|null;filings:number}[]};
 export type FirmDetail={id:number;name:string;total:number;filings:number;
   clients:{key:string;name:string;amount:number;filings:number;issues:string[]}[];
-  issues:Record<string,number>};
+  issues:Record<string,number>;topics?:Record<string,number>};
 export type OrgLobby={id:string;group_id:string|null;name:string;
   total:number;filings:number;years:number[];issues:Record<string,number>;
+  topics?:Record<string,number>;
   firms:{firm_id:number;name:string;amount:number;filings:number}[];
   lobbyists:string[];filing_ids:string[];sample_texts:string[]};
 
@@ -32,6 +37,7 @@ const get=async<T>(path:string):Promise<T>=>{
 
 export const loadIndex=()=>get<LobbyIndex>('/data/lobbying/index.json.gz');
 export const loadIssue=(code:string,year:number)=>get<IssueBoard>(`/data/lobbying/issues/${code}-${year}.json.gz`);
+export const loadTopic=(topic:string,year:number)=>get<TopicBoard>(`/data/lobbying/topics/${topic}-${year}.json.gz`);
 export const loadFirm=(id:number)=>get<FirmDetail>(`/data/lobbying/firms/${id}.json.gz`);
 export const loadOrgLobby=(key:string)=>get<OrgLobby>(`/data/lobbying/orgs/${key}.json.gz`);
 

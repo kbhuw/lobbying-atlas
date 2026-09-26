@@ -42,10 +42,12 @@ export const loadFirm=(id:number)=>get<FirmDetail>(`/data/lobbying/firms/${id}.j
 export const loadOrgLobby=(key:string)=>get<OrgLobby>(`/data/lobbying/orgs/${key}.json.gz`);
 
 export type Insider={name:string;bucket:string;former:string;total:number;
-  filings:number;clients:string[]};
+  filings:number;clients:string[];topics:string[]};
 export type ForeignClient={client:string;country:string;filings:number;
   total:number;topics:string[]};
+export type Spender={client:string;total:number;filings:number;topics:string[]};
 export type Notable={revolving_door:Insider[];foreign:ForeignClient[];
+  spenders:Spender[];
   stats:{lobbyists_former_gov:number;former_members:number}};
 export const loadNotable=()=>get<Notable>('/data/lobbying/notable.json.gz');
 

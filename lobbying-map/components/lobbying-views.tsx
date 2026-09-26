@@ -158,43 +158,54 @@ const COUNTRY:Record<string,string>={CAN:'Canada',GBR:'United Kingdom',AUS:'Aust
 
 export function NotableExplorer(){
   const [data,setData]=useState<Notable|null>(null);
-  const [mode,setMode]=useState<'door'|'foreign'>('door');
+  const [mode,setMode]=useState<'spend'|'door'|'foreign'>('spend');
   const [q,setQ]=useState('');const [page,setPage]=useState(0);const [err,setErr]=useState('');
   useEffect(()=>{loadNotable().then(setData).catch(()=>setErr('Could not load this data.'))},[]);
   useEffect(()=>setPage(0),[q,mode]);
   if(err)return <p>{err}</p>;
   if(!data)return <p className="count">Loading…</p>;
   const s=q.trim().toLowerCase();
+  const spenders=data.spenders.filter(r=>r.client.toLowerCase().includes(s)||r.topics.some(t=>t.toLowerCase().includes(s)));
   const door=data.revolving_door.filter(r=>r.name.toLowerCase().includes(s)||r.clients.some(c=>c.toLowerCase().includes(s))||(r.former||'').toLowerCase().includes(s));
   const foreign=data.foreign.filter(r=>r.client.toLowerCase().includes(s)||(COUNTRY[r.country]||r.country).toLowerCase().includes(s));
-  const rows=mode==='door'?door:foreign;
+  const rows=mode==='spend'?spenders:mode==='door'?door:foreign;
   return <>
     <div className="hero">
       <h1>Worth a look</h1>
-      <p>Patterns that raise eyebrows: people who used to work in government and now get paid to lobby it, and companies headquartered abroad lobbying Washington. Federal filings, 2024–2026.</p>
+      <p>Who's paying the most, who's lobbying after working in government, and who's headquartered abroad. Federal filings, 2024–2026.</p>
       <p className="secondary">{data.stats.lobbyists_former_gov.toLocaleString()} registered lobbyists disclosed a former government job — including {data.stats.former_members.toLocaleString()} former members of Congress.</p>
     </div>
     <div className="hero-controls">
-      <label className="search big-search"><input type="search" value={q} placeholder={mode==='door'?'Search people or their clients — e.g. Collins, Eli Lilly':'Search companies or countries — e.g. ByteDance, China'} onChange={e=>setQ(e.target.value)} aria-label="Search"/></label>
+      <label className="search big-search"><input type="search" value={q} placeholder={mode==='spend'?'Search companies or topics — e.g. Amazon, drug pricing':mode==='door'?'Search people or their clients — e.g. Collins, Eli Lilly':'Search companies or countries — e.g. ByteDance, China'} onChange={e=>setQ(e.target.value)} aria-label="Search"/></label>
       <div className="featured-links" role="group" aria-label="View">
+        <button className={mode==='spend'?'year-active':''} onClick={()=>setMode('spend')}>Biggest spenders</button>
         <button className={mode==='door'?'year-active':''} onClick={()=>setMode('door')}>Revolving door</button>
         <button className={mode==='foreign'?'year-active':''} onClick={()=>setMode('foreign')}>Foreign-based clients</button>
       </div>
     </div>
-    <p className="count">{rows.length.toLocaleString()} {mode==='door'?'former government insiders':'companies based abroad'}</p>
+    <p className="count">{rows.length.toLocaleString()} {mode==='spend'?'companies and groups':mode==='door'?'former government insiders':'companies based abroad'}</p>
     {mode==='door'&&<p className="secondary">Ranked by the total reported on filings each person is listed on — a filing's full amount counts toward every lobbyist it names.</p>}
-    <div className="org-list">{mode==='door'?door.slice(page*40,(page+1)*40).map((r,i)=>(
+    <div className="org-list">{mode==='spend'?spenders.slice(page*40,(page+1)*40).map((r,i)=>(
+      <div key={'s'+i} className="org-row static-row">
+        <span className="rank">{page*40+i+1}</span>
+        <span className="org-main"><span className="org-name">{r.client}</span>
+        <span className="org-sub">Lobbies on: {r.topics.join(', ')||'not disclosed'}</span>
+        <span className="org-sub">{r.filings} filing{r.filings===1?'':'s'}, 2024–2026</span></span>
+        <span className="org-amt">{dollars(r.total)}<span className="org-sub">reported</span></span>
+      </div>)):mode==='door'?door.slice(page*40,(page+1)*40).map((r,i)=>(
       <div key={'d'+i} className="org-row static-row">
         <span className="rank">{page*40+i+1}</span>
         <span className="org-main"><span className="org-name">{r.name} <span className="insider-badge">{BUCKET_LABEL[r.bucket]||'Government job'}</span></span>
         <span className="org-sub">Before: {r.former||'government job'}</span>
-        <span className="org-sub">Now lobbying for: {r.clients.join(', ')||'undisclosed'}</span></span>
+        <span className="org-sub">Now lobbying for: {r.clients.join(', ')||'undisclosed'}</span>
+        {r.topics.length>0&&<span className="org-sub">On: {r.topics.join(', ')}</span>}</span>
         <span className="org-amt">{dollars(r.total)}<span className="org-sub">{r.filings} filings</span></span>
       </div>)):foreign.slice(page*40,(page+1)*40).map((r,i)=>(
       <div key={'f'+i} className="org-row static-row">
         <span className="rank">{page*40+i+1}</span>
         <span className="org-main"><span className="org-name">{r.client}</span>
-        <span className="org-sub">{COUNTRY[r.country]||r.country} · {r.filings} filing{r.filings===1?'':'s'}{r.topics.length?` · ${r.topics.join(', ')}`:''}</span></span>
+        <span className="org-sub">{COUNTRY[r.country]||r.country} · {r.filings} filing{r.filings===1?'':'s'}</span>
+        {r.topics.length>0&&<span className="org-sub">Lobbies on: {r.topics.join(', ')}</span>}</span>
         <span className="org-amt">{dollars(r.total)}</span>
       </div>))}
     </div>

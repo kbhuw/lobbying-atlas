@@ -86,6 +86,9 @@ def clean_name(name):
         name = re.sub(r'\bIii\b', 'III', name)
         name = re.sub(r'\bIv\b', 'IV', name)
         name = re.sub(r'\bUs\b\.?', 'US', name)
+        name = re.sub(r"'S\b", "'s", name)
+        name = re.sub(r'\bLlc\b', 'LLC', name)
+        name = re.sub(r'\bInc\b\.?', 'Inc.', name)
     return name.strip()
 
 def main(out_path):
@@ -94,6 +97,28 @@ def main(out_path):
     p = sqlite3.connect(POSITIONS)
     topics = {t['id']: t['label'] for t in json.load(open(TOPICS))}
     pos_bucket = {r[0]: r[1] for r in p.execute('select position, bucket from positions')}
+    desc_topic = {r[0]: r[1] for r in d.execute('select description, topic from desc_topics')}
+
+    # one pass: doc -> client, and doc -> topic counts
+    doc_client, client_docs, client_total = {}, collections.Counter(), collections.Counter()
+    for doc, client, amt in f.execute(
+            'select doc_id, client_name, coalesce(income,0)+coalesce(expenses,0) from filings'):
+        doc_client[doc] = client
+        if client:
+            client_docs[client] += 1
+            client_total[client] += amt or 0
+    doc_topics, client_topics = {}, collections.defaultdict(collections.Counter)
+    for doc, desc in f.execute('select doc_id, description from activities where description is not null'):
+        t = desc_topic.get(desc)
+        if not t:
+            continue
+        doc_topics.setdefault(doc, collections.Counter())[t] += 1
+        c = doc_client.get(doc)
+        if c:
+            client_topics[c][t] += 1
+
+    def topic_labels(counter, n=4):
+        return [topics.get(t, t) for t, _ in counter.most_common(n)]
 
     # --- revolving door -----------------------------------------------------
     # dedupe amount per (lobbyist, doc): the doc's full amount counts once
@@ -126,6 +151,9 @@ def main(out_path):
                  'military', 'other_gov', 'unclear']
         bucket = sorted(buckets, key=lambda b: order.index(b) if b in order else 99)[0]
         best_pos = max(e['positions'].items(), key=lambda kv: kv[1])[0]
+        tc = collections.Counter()
+        for doc in e['docs']:
+            tc.update(doc_topics.get(doc, {}))
         rows.append({
             'name': clean_name(name),
             'bucket': bucket,
@@ -133,6 +161,7 @@ def main(out_path):
             'total': round(e['total']),
             'filings': len(e['docs']),
             'clients': [clean_name(c) for c, _ in sorted(e['clients'].items(), key=lambda kv: -kv[1])[:4]],
+            'topics': topic_labels(tc),
         })
     rows.sort(key=lambda r: -r['total'])
     revolving = rows[:150]
@@ -158,9 +187,18 @@ def main(out_path):
                         'total': round(amt or 0),
                         'topics': [topics.get(t, t) for t, _ in tc.most_common(4)]})
 
+    # --- biggest spenders: company -> what it lobbied on --------------------
+    spenders = [{
+        'client': clean_name(c),
+        'total': round(client_total[c]),
+        'filings': client_docs[c],
+        'topics': topic_labels(client_topics[c]),
+    } for c in sorted(client_total, key=lambda c: -client_total[c])[:200]]
+
     out = {
         'revolving_door': revolving,
         'foreign': foreign,
+        'spenders': spenders,
         'stats': {
             'lobbyists_former_gov': len(by_name),
             'former_members': sum(1 for r in rows if r['bucket'] == 'member_of_congress'),

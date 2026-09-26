@@ -144,3 +144,5 @@ body {
 .company-identity,.profile-title{display:flex;align-items:center;gap:12px}.organization-mark{width:40px;height:40px;flex:0 0 40px;object-fit:contain;background:#fff;border:1px solid #e0e0e0;border-radius:6px;padding:4px}.empty-mark{display:flex;align-items:center;justify-content:center;color:#777;background:#f6f6f6;font-size:14px}.profile-title{margin-bottom:24px}.profile-title h1{margin:0}.profile-title .organization-mark{width:64px;height:64px;flex-basis:64px}.website-link{display:inline-block;font-size:14px;margin:7px 0 0 52px}.coverage-note{font-size:14px;color:#555;margin:12px 0}.coverage-note p{max-width:780px;margin:8px 0}.description{font-size:16px;line-height:1.6}
 
 .organization-mark.dark-mark{background:#18232d;border-color:#18232d}
+.view-nav{display:flex;gap:6px;align-items:center}.view-nav button{background:none;border:0;padding:8px 12px;font-size:15px;color:#174c83;border-radius:4px}.view-nav button:hover{text-decoration:underline}.view-nav button.active{font-weight:700;color:#111;background:#f0f0f0}
+.year-active{font-weight:700!important;border-color:#111!important;color:#111!important}

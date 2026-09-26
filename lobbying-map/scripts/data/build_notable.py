@@ -81,20 +81,45 @@ BILL_RE = re.compile(
     r'H\.?\s?Con\.?\s?Res\.?|S\.?\s?Con\.?\s?Res\.?|H\.?\s?Res\.?|'
     r'S\.?\s?Res\.?)\s*\.?\s*#?\s*\d+\b')
 ACT_RE = re.compile(r'\b([A-Z][A-Za-z0-9&\'\-]*(?:\s+[A-Za-z0-9&\'\-,\(\)]+){0,7}?\s+Act)\b')
-STOP_ACTS = {'the act', 'this act', 'such act', 'the clayton act', 'lobbying act'}
+STOP_ACTS = {'the act', 'this act', 'such act', 'an act', 'reform act',
+             'the clayton act', 'lobbying act', 'appropriations act',
+             'the social security act'}
+BAD_BILL_PREFIX = ('to amend ', 'an act', 'lnd is ', 'changes to ', 'act ')
+
+def ok_bill(m):
+    m = re.sub(r'\s+', ' ', m).strip(' ,')
+    low = m.lower()
+    if low in STOP_ACTS or len(m) > 70 or len(m) < 4:
+        return ''
+    if low.startswith(BAD_BILL_PREFIX):
+        return ''
+    return m
+
+def bill_key(m):
+    # dedupe HR 40 / H.R. 40 / H.R.40 spellings of the same bill
+    return re.sub(r'[^a-z0-9]', '', m.lower())
 
 def extract_bills(texts, n=6):
     """Most-mentioned bill numbers and named Acts across a client's descriptions."""
     c = collections.Counter()
-    for t, weight in (texts.items()):
+    for t, weight in texts.items():
         for m in BILL_RE.findall(t):
-            c[re.sub(r'\s+', ' ', m).replace(' .', '.').strip(' .')] += weight
+            m = re.sub(r'\s+', ' ', m).replace(' .', '.').strip(' .')
+            if m:
+                c[m] += weight
         for m in ACT_RE.findall(t):
-            m = m.strip()
-            if m.lower() in STOP_ACTS or len(m) > 70:
-                continue
-            c[m] += weight
-    return [b for b, _ in c.most_common(n)]
+            m = ok_bill(m)
+            if m:
+                c[m] += weight
+    out, seen = [], set()
+    for b, _ in c.most_common(60):
+        k = bill_key(b)
+        if k not in seen:
+            seen.add(k)
+            out.append(b)
+        if len(out) >= n:
+            break
+    return out
 
 def pick_says(texts, n=3, width=190):
     """A few verbatim filing descriptions, trimmed for display."""

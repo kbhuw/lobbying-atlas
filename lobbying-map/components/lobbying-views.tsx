@@ -189,10 +189,10 @@ export function NotableExplorer(){
       <div key={'s'+i} className="org-row static-row">
         <span className="rank">{page*40+i+1}</span>
         <span className="org-main"><span className="org-name">{r.client}</span>
-        {r.bills.length>0&&<span className="org-sub"><strong>Bills & laws:</strong> {r.bills.join(', ')}</span>}
-        {r.says.length>0&&<span className="org-sub"><strong>Filings say:</strong> “{r.says.join('” — “')}”</span>}
-        <span className="org-sub">Topics: {r.topics.join(', ')||'not disclosed'} · {r.filings} filing{r.filings===1?'':'s'}, 2024–2026</span></span>
-        <span className="org-amt">{dollars(r.total)}<span className="org-sub">reported</span></span>
+        <span className="org-sub"><strong>Lobbies on:</strong> {r.topics.join(', ')||'not disclosed'}</span>
+        {r.bills.length>0&&<span className="org-sub"><strong>Bills:</strong> {r.bills.slice(0,4).join(' · ')}</span>}
+        {r.says.length>0&&<details className="row-details"><summary>What their filings say</summary>{r.says.map((t,j)=><p key={j}>“{t}”</p>)}</details>}</span>
+        <span className="org-amt">{dollars(r.total)}<span className="org-sub">{r.filings} filings</span></span>
       </div>)):mode==='door'?door.slice(page*40,(page+1)*40).map((r,i)=>(
       <div key={'d'+i} className="org-row static-row">
         <span className="rank">{page*40+i+1}</span>
@@ -205,10 +205,10 @@ export function NotableExplorer(){
       <div key={'f'+i} className="org-row static-row">
         <span className="rank">{page*40+i+1}</span>
         <span className="org-main"><span className="org-name">{r.client}</span>
-        <span className="org-sub">{COUNTRY[r.country]||r.country} · {r.filings} filing{r.filings===1?'':'s'}</span>
-        {r.bills.length>0&&<span className="org-sub"><strong>Bills & laws:</strong> {r.bills.join(', ')}</span>}
-        {r.says.length>0&&<span className="org-sub"><strong>Filings say:</strong> “{r.says.join('” — “')}”</span>}
-        {r.topics.length>0&&<span className="org-sub">Topics: {r.topics.join(', ')}</span>}</span>
+        <span className="org-sub"><strong>Lobbies on:</strong> {r.topics.join(', ')||'not disclosed'}</span>
+        {r.bills.length>0&&<span className="org-sub"><strong>Bills:</strong> {r.bills.slice(0,4).join(' · ')}</span>}
+        {r.says.length>0&&<details className="row-details"><summary>What their filings say</summary>{r.says.map((t,j)=><p key={j}>“{t}”</p>)}</details>}
+        <span className="org-sub">{COUNTRY[r.country]||r.country} · {r.filings} filing{r.filings===1?'':'s'}</span></span>
         <span className="org-amt">{dollars(r.total)}</span>
       </div>))}
     </div>

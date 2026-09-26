@@ -1,7 +1,7 @@
 'use client';
 import {useEffect,useMemo,useState} from 'react';
 import {Button} from '@/components/ui/button';
-import {LobbyIndex,IssueBoard,TopicBoard,FirmDetail,OrgLobby,FilingDetail,loadIndex,loadIssue,loadTopic,loadFirm,loadOrgLobby,loadOrgFilings,dollars} from '@/lib/lobbying';
+import {LobbyIndex,IssueBoard,TopicBoard,FirmDetail,OrgLobby,FilingDetail,Notable,loadIndex,loadIssue,loadTopic,loadFirm,loadOrgLobby,loadOrgFilings,loadNotable,dollars} from '@/lib/lobbying';
 import {readable,Company} from '@/lib/directory';
 
 function Pager({page,count,onChange}:{page:number;count:number;onChange:(n:number)=>void}){
@@ -64,7 +64,7 @@ export function IssuesExplorer({year:initialYear,onOpenOrg,companies}:{year:numb
   return <>
     <div className="hero">
       <h1>Who lobbied for what?</h1>
-      <p>Every federal lobbying filing, searchable. Pick a topic to see which organizations paid to lobby on it and how much they reported spending.{hasTopics?' Topics are grouped from the free-text descriptions on each filing; issue areas are the official LDA categories.':''}</p>
+      <p>Pick a topic to see who paid to lobby on it — and how much they reported spending.{hasTopics?' Topics are grouped by AI from what filers actually wrote on their forms; issue areas are the government\u2019s own categories.':''}</p>
     </div>
     <div className="hero-controls">
       <label className="search big-search"><input type="search" value={q} placeholder={mode==='topics'?'Search topics — e.g. AI, defense, pharma':'Search issue areas — e.g. Defense, Taxation'} onChange={e=>setQ(e.target.value)} aria-label={mode==='topics'?'Search topics':'Search issue areas'}/></label>
@@ -140,6 +140,66 @@ export function FirmsExplorer({onOpenOrg,companies}:{onOpenOrg:(orgKey:string)=>
     </div>
     <Pager page={page} count={firms.length} onChange={setPage}/>
     {!firms.length&&<p>No matches. Try a different search.</p>}
+  </>;
+}
+
+const BUCKET_LABEL:Record<string,string>={
+  member_of_congress:'Former member of Congress',
+  congressional_leadership:'Top congressional aide',
+  executive_branch:'White House / executive branch',
+  agency:'Federal agency staff',
+  congressional_staff:'Congressional staffer',
+  military:'Military / defense',
+  other_gov:'Other government job',
+  unclear:'Government job',
+};
+
+const COUNTRY:Record<string,string>={CAN:'Canada',GBR:'United Kingdom',AUS:'Australia',SUI:'Switzerland',MEX:'Mexico',KOR:'South Korea',ISR:'Israel',UAE:'United Arab Emirates',BRA:'Brazil',NED:'Netherlands',PUR:'Puerto Rico',GER:'Germany',CAY:'Cayman Islands',JPN:'Japan',IRL:'Ireland',LUX:'Luxembourg',CHN:'China',FRA:'France',SWE:'Sweden',NOR:'Norway',BEL:'Belgium',DEN:'Denmark',ITA:'Italy',ESP:'Spain',IND:'India',SGP:'Singapore',HKG:'Hong Kong',TWN:'Taiwan',SAU:'Saudi Arabia',QAT:'Qatar',BHR:'Bahrain',KWT:'Kuwait',BER:'Bermuda',BVI:'British Virgin Islands',VGB:'British Virgin Islands',JEY:'Jersey',GGY:'Guernsey',IMN:'Isle of Man',LIE:'Liechtenstein',MCO:'Monaco',PAN:'Panama',BHS:'Bahamas',BRB:'Barbados',TTO:'Trinidad & Tobago',ARG:'Argentina',CHL:'Chile',COL:'Colombia',PER:'Peru',POL:'Poland',AUT:'Austria',PRT:'Portugal',FIN:'Finland',ISL:'Iceland',EST:'Estonia',LVA:'Latvia',LTU:'Lithuania',CZE:'Czech Republic',SVK:'Slovakia',HUN:'Hungary',ROU:'Romania',BGR:'Bulgaria',GRC:'Greece',TUR:'Turkey',UKR:'Ukraine',RUS:'Russia',GEO:'Georgia',ARM:'Armenia',AZE:'Azerbaijan',KAZ:'Kazakhstan',NGA:'Nigeria',GHA:'Ghana',ZAF:'South Africa',EGY:'Egypt',MAR:'Morocco',TUN:'Tunisia',LBY:'Libya',IRQ:'Iraq',AFG:'Afghanistan',PAK:'Pakistan',BGD:'Bangladesh',LKA:'Sri Lanka',THA:'Thailand',VNM:'Vietnam',MYS:'Malaysia',IDN:'Indonesia',PHL:'Philippines',NZL:'New Zealand',BUL:'Bulgaria',NGR:'Nigeria',GUA:'Guatemala',MKD:'North Macedonia',BGRX:'Bulgaria'};
+
+export function NotableExplorer(){
+  const [data,setData]=useState<Notable|null>(null);
+  const [mode,setMode]=useState<'door'|'foreign'>('door');
+  const [q,setQ]=useState('');const [page,setPage]=useState(0);const [err,setErr]=useState('');
+  useEffect(()=>{loadNotable().then(setData).catch(()=>setErr('Could not load this data.'))},[]);
+  useEffect(()=>setPage(0),[q,mode]);
+  if(err)return <p>{err}</p>;
+  if(!data)return <p className="count">Loading…</p>;
+  const s=q.trim().toLowerCase();
+  const door=data.revolving_door.filter(r=>r.name.toLowerCase().includes(s)||r.clients.some(c=>c.toLowerCase().includes(s))||(r.former||'').toLowerCase().includes(s));
+  const foreign=data.foreign.filter(r=>r.client.toLowerCase().includes(s)||(COUNTRY[r.country]||r.country).toLowerCase().includes(s));
+  const rows=mode==='door'?door:foreign;
+  return <>
+    <div className="hero">
+      <h1>Worth a look</h1>
+      <p>Patterns that raise eyebrows: people who used to work in government and now get paid to lobby it, and companies headquartered abroad lobbying Washington. Federal filings, 2024–2026.</p>
+      <p className="secondary">{data.stats.lobbyists_former_gov.toLocaleString()} registered lobbyists disclosed a former government job — including {data.stats.former_members.toLocaleString()} former members of Congress.</p>
+    </div>
+    <div className="hero-controls">
+      <label className="search big-search"><input type="search" value={q} placeholder={mode==='door'?'Search people or their clients — e.g. Collins, Eli Lilly':'Search companies or countries — e.g. ByteDance, China'} onChange={e=>setQ(e.target.value)} aria-label="Search"/></label>
+      <div className="featured-links" role="group" aria-label="View">
+        <button className={mode==='door'?'year-active':''} onClick={()=>setMode('door')}>Revolving door</button>
+        <button className={mode==='foreign'?'year-active':''} onClick={()=>setMode('foreign')}>Foreign-based clients</button>
+      </div>
+    </div>
+    <p className="count">{rows.length.toLocaleString()} {mode==='door'?'former government insiders':'companies based abroad'}</p>
+    {mode==='door'&&<p className="secondary">Ranked by the total reported on filings each person is listed on — a filing's full amount counts toward every lobbyist it names.</p>}
+    <div className="org-list">{mode==='door'?door.slice(page*40,(page+1)*40).map((r,i)=>(
+      <div key={'d'+i} className="org-row static-row">
+        <span className="rank">{page*40+i+1}</span>
+        <span className="org-main"><span className="org-name">{r.name} <span className="insider-badge">{BUCKET_LABEL[r.bucket]||'Government job'}</span></span>
+        <span className="org-sub">Before: {r.former||'government job'}</span>
+        <span className="org-sub">Now lobbying for: {r.clients.join(', ')||'undisclosed'}</span></span>
+        <span className="org-amt">{dollars(r.total)}<span className="org-sub">{r.filings} filings</span></span>
+      </div>)):foreign.slice(page*40,(page+1)*40).map((r,i)=>(
+      <div key={'f'+i} className="org-row static-row">
+        <span className="rank">{page*40+i+1}</span>
+        <span className="org-main"><span className="org-name">{r.client}</span>
+        <span className="org-sub">{COUNTRY[r.country]||r.country} · {r.filings} filing{r.filings===1?'':'s'}{r.topics.length?` · ${r.topics.join(', ')}`:''}</span></span>
+        <span className="org-amt">{dollars(r.total)}</span>
+      </div>))}
+    </div>
+    <Pager page={page} count={rows.length} onChange={setPage}/>
+    {!rows.length&&<p>No matches. Try a different search.</p>}
   </>;
 }
 

@@ -76,6 +76,43 @@ def clean_position(raw):
     best = re.sub(r'\s*\(\s*[^)]*$', '', best)
     return best.strip(' ,.-–(')[:140]
 
+BILL_RE = re.compile(
+    r'\b(?:H\.?\s?R\.?|S\.?|H\.?\s?J\.?\s?Res\.?|S\.?\s?J\.?\s?Res\.?|'
+    r'H\.?\s?Con\.?\s?Res\.?|S\.?\s?Con\.?\s?Res\.?|H\.?\s?Res\.?|'
+    r'S\.?\s?Res\.?)\s*\.?\s*#?\s*\d+\b')
+ACT_RE = re.compile(r'\b([A-Z][A-Za-z0-9&\'\-]*(?:\s+[A-Za-z0-9&\'\-,\(\)]+){0,7}?\s+Act)\b')
+STOP_ACTS = {'the act', 'this act', 'such act', 'the clayton act', 'lobbying act'}
+
+def extract_bills(texts, n=6):
+    """Most-mentioned bill numbers and named Acts across a client's descriptions."""
+    c = collections.Counter()
+    for t, weight in (texts.items()):
+        for m in BILL_RE.findall(t):
+            c[re.sub(r'\s+', ' ', m).replace(' .', '.').strip(' .')] += weight
+        for m in ACT_RE.findall(t):
+            m = m.strip()
+            if m.lower() in STOP_ACTS or len(m) > 70:
+                continue
+            c[m] += weight
+    return [b for b, _ in c.most_common(n)]
+
+def pick_says(texts, n=3, width=190):
+    """A few verbatim filing descriptions, trimmed for display."""
+    out = []
+    for t, _ in texts.most_common(40):
+        t = re.sub(r'\s+', ' ', t).strip(' ;,.')
+        if len(t) < 25:
+            continue
+        if len(t) > width:
+            cut = t[:width]
+            cut = cut[:max(cut.rfind(';'), cut.rfind(','), cut.rfind(' and '), width - 30)]
+            t = cut.rstrip(' ;,.') + '…'
+        if t and all(t.lower() != o.lower() for o in out):
+            out.append(t)
+        if len(out) >= n:
+            break
+    return out
+
 def clean_name(name):
     if name == name.upper() and len(name) > 4:
         name = name.title()
@@ -116,6 +153,18 @@ def main(out_path):
         c = doc_client.get(doc)
         if c:
             client_topics[c][t] += 1
+
+    # second pass: verbatim description counts, only for clients we'll display
+    keep = set(sorted(client_total, key=lambda c: -client_total[c])[:220])
+    keep |= {r[0] for r in f.execute(
+        "select client_name from filings where client_country is not null"
+        " and client_country not in ('USA','US','United States','')"
+        " group by client_name")}
+    client_texts = collections.defaultdict(collections.Counter)
+    for doc, desc in f.execute('select doc_id, description from activities where description is not null'):
+        c = doc_client.get(doc)
+        if c in keep:
+            client_texts[c][desc] += 1
 
     def topic_labels(counter, n=4):
         return [topics.get(t, t) for t, _ in counter.most_common(n)]
@@ -185,7 +234,9 @@ def main(out_path):
                 tc[r[0]] += 1
         foreign.append({'client': clean_name(client), 'country': country, 'filings': n,
                         'total': round(amt or 0),
-                        'topics': [topics.get(t, t) for t, _ in tc.most_common(4)]})
+                        'topics': [topics.get(t, t) for t, _ in tc.most_common(4)],
+                        'bills': extract_bills(client_texts.get(client, collections.Counter())),
+                        'says': pick_says(client_texts.get(client, collections.Counter()), 2)})
 
     # --- biggest spenders: company -> what it lobbied on --------------------
     spenders = [{
@@ -193,6 +244,8 @@ def main(out_path):
         'total': round(client_total[c]),
         'filings': client_docs[c],
         'topics': topic_labels(client_topics[c]),
+        'bills': extract_bills(client_texts.get(c, collections.Counter())),
+        'says': pick_says(client_texts.get(c, collections.Counter()), 2),
     } for c in sorted(client_total, key=lambda c: -client_total[c])[:200]]
 
     out = {

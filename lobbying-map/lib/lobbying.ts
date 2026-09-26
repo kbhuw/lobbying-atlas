@@ -41,6 +41,17 @@ export const loadTopic=(topic:string,year:number)=>get<TopicBoard>(`/data/lobbyi
 export const loadFirm=(id:number)=>get<FirmDetail>(`/data/lobbying/firms/${id}.json.gz`);
 export const loadOrgLobby=(key:string)=>get<OrgLobby>(`/data/lobbying/orgs/${key}.json.gz`);
 
+export type Insider={name:string;bucket:string;former:string;total:number;
+  filings:number;clients:string[];topics:string[]};
+export type ForeignClient={client:string;country:string;filings:number;
+  total:number;topics:string[];bills:string[];says:string[]};
+export type Spender={client:string;total:number;filings:number;topics:string[];
+  bills:string[];says:string[]};
+export type Notable={revolving_door:Insider[];foreign:ForeignClient[];
+  spenders:Spender[];
+  stats:{lobbyists_former_gov:number;former_members:number}};
+export const loadNotable=()=>get<Notable>('/data/lobbying/notable.json.gz');
+
 // Filing shards are keyed by sha256(doc_id)[:2] (WebCrypto has no MD5).
 async function sha256hex(s:string){
   const b=await crypto.subtle.digest('SHA-256',new TextEncoder().encode(s));

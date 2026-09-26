@@ -146,3 +146,22 @@ body {
 .organization-mark.dark-mark{background:#18232d;border-color:#18232d}
 .view-nav{display:flex;gap:6px;align-items:center}.view-nav button{background:none;border:0;padding:8px 12px;font-size:15px;color:#174c83;border-radius:4px}.view-nav button:hover{text-decoration:underline}.view-nav button.active{font-weight:700;color:#111;background:#f0f0f0}
 .year-active{font-weight:700!important;border-color:#111!important;color:#111!important}
+
+.hero{margin:0 0 8px}
+.hero h1{font-size:34px;letter-spacing:-.03em}
+.hero p{max-width:780px;font-size:17px;color:#444;margin:0 0 8px}
+.hero-controls{display:flex;flex-wrap:wrap;gap:14px 20px;align-items:end;margin:14px 0 6px}
+.big-search{flex:1;min-width:280px}
+.big-search input{width:100%;border:1px solid #999;padding:10px 14px;border-radius:8px;font-size:18px;height:52px}
+.hero-controls .featured-links{margin:0}
+.hero-controls .featured-links button{padding:9px 14px;font-size:15px;height:52px;border-radius:8px}
+.card-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:12px;margin:8px 0 24px}
+.topic-card{display:block;text-align:left;border:1px solid #ddd;border-radius:10px;padding:14px 16px;background:#fff;font:inherit}
+.topic-card:hover{border-color:#174c83;box-shadow:0 1px 4px rgba(0,0,0,.1)}
+.topic-card:focus-visible{outline:2px solid #111;outline-offset:2px}
+.topic-name{display:block;font-size:16px;font-weight:600;color:#161616;margin-bottom:8px;overflow-wrap:anywhere}
+.topic-meta{display:flex;justify-content:space-between;gap:8px;font-size:14px;color:#555}
+.topic-meta strong{color:#161616;font-weight:600;white-space:nowrap}
+.topic-bar{display:block;height:4px;background:#eee;border-radius:2px;margin-top:10px;overflow:hidden}
+.topic-bar>span{display:block;height:100%;background:#174c83}
+@media(max-width:700px){.hero h1{font-size:28px}.card-grid{grid-template-columns:1fr}}

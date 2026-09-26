@@ -54,19 +54,28 @@ export function IssuesExplorer({year:initialYear,onOpenOrg}:{year:number;onOpenO
     .map(([c,name])=>({c,name,...(iidx[c]?.[String(year)]||{organizations:0,amount:0})}))
     .filter(r=>r.name.toLowerCase().includes(q.trim().toLowerCase()))
     .sort((a,b)=>b.amount-a.amount||b.organizations-a.organizations);
+  const maxAmount=rows[0]?.amount||1;
   return <>
-    <h1>Who lobbied for what</h1>
-    <p className="secondary">Pick a topic to see which organizations reported lobbying on it, ranked by reported spend.{hasTopics?' Topics are AI-normalized from the free-text descriptions on each filing; issue areas are the official LDA categories.':''}</p>
-    {hasTopics&&<div className="featured-links" role="group" aria-label="View">
-      <button className={mode==='topics'?'year-active':''} onClick={()=>{setMode('topics');setCode(null)}}>Topics</button>
-      <button className={mode==='codes'?'year-active':''} onClick={()=>{setMode('codes');setCode(null)}}>Issue areas</button></div>}
-    <YearPicker index={index} year={year} onChange={setYear}/>
-    <div className="controls"><label className="search"><span>Search</span><input type="search" value={q} placeholder={mode==='topics'?'Topic':'Issue area'} onChange={e=>setQ(e.target.value)}/></label></div>
-    <Table><TableHeader><TableRow><TableHead>{mode==='topics'?'Topic':'Issue area'}</TableHead><TableHead>Organizations</TableHead><TableHead>Reported spend</TableHead></TableRow></TableHeader>
-    <TableBody>{rows.map(r=><TableRow key={r.c}>
-      <TableCell><button className="name" onClick={()=>setCode(r.c)}>{r.name}</button></TableCell>
-      <TableCell>{r.organizations.toLocaleString()}</TableCell>
-      <TableCell className="amount">{dollars(r.amount)}</TableCell></TableRow>)}</TableBody></Table>
+    <div className="hero">
+      <h1>Who lobbied for what?</h1>
+      <p>Every federal lobbying filing, searchable. Pick a topic to see which organizations paid to lobby on it and how much they reported spending.{hasTopics?' Topics are grouped from the free-text descriptions on each filing; issue areas are the official LDA categories.':''}</p>
+    </div>
+    <div className="hero-controls">
+      <label className="search big-search"><input type="search" value={q} placeholder={mode==='topics'?'Search topics — e.g. AI, defense, pharma':'Search issue areas — e.g. Defense, Taxation'} onChange={e=>setQ(e.target.value)} aria-label={mode==='topics'?'Search topics':'Search issue areas'}/></label>
+      {hasTopics&&<div className="featured-links" role="group" aria-label="View">
+        <button className={mode==='topics'?'year-active':''} onClick={()=>{setMode('topics');setCode(null)}}>Topics</button>
+        <button className={mode==='codes'?'year-active':''} onClick={()=>{setMode('codes');setCode(null)}}>Issue areas</button></div>}
+      <YearPicker index={index} year={year} onChange={setYear}/>
+    </div>
+    <p className="count" aria-live="polite">{rows.length.toLocaleString()} {mode==='topics'?'topics':'issue areas'} lobbied in {year}</p>
+    <div className="card-grid">
+      {rows.map(r=><button key={r.c} className="topic-card" onClick={()=>setCode(r.c)}>
+        <span className="topic-name">{r.name}</span>
+        <span className="topic-meta"><span>{r.organizations.toLocaleString()} organizations</span><strong>{dollars(r.amount)}</strong></span>
+        <span className="topic-bar"><span style={{width:Math.max(2,Math.round(r.amount/maxAmount*100))+'%'}}/></span>
+      </button>)}
+    </div>
+    {!rows.length&&<p>No matches. Try a different search.</p>}
   </>;
 }
 
@@ -106,17 +115,24 @@ export function FirmsExplorer({onOpenOrg}:{onOpenOrg:(orgKey:string)=>void}){
 
   const s=q.trim().toLowerCase();
   const firms=index.top_firms.filter(f=>(f.name||'').toLowerCase().includes(s));
+  const maxFirmTotal=firms[0]?.total||1;
+  const PAGE=40;
   return <>
-    <h1>Lobbying firms</h1>
-    <p className="secondary">Firms ranked by reported lobbying income, 2024–2026. In-house teams appear when they file for their own organization.</p>
-    <div className="controls"><label className="search"><span>Search firms</span><input type="search" value={q} placeholder="Firm name" onChange={e=>setQ(e.target.value)}/></label></div>
+    <div className="hero">
+      <h1>Lobbying firms</h1>
+      <p>Which firms get hired to lobby, ranked by reported income, 2024–2026. In-house teams appear when they file for their own organization.</p>
+    </div>
+    <div className="controls"><label className="search big-search"><input type="search" value={q} placeholder="Search firms — e.g. Akin Gump, Brownstein" onChange={e=>setQ(e.target.value)} aria-label="Search firms"/></label></div>
     <p className="count">{firms.length.toLocaleString()} registrants</p>
-    <Table><TableHeader><TableRow><TableHead>Firm</TableHead><TableHead>Clients</TableHead><TableHead>Reported income</TableHead></TableRow></TableHeader>
-    <TableBody>{firms.slice(page*40,(page+1)*40).map(f=><TableRow key={f.id}>
-      <TableCell><button className="name" onClick={()=>loadFirm(f.id).then(setFirm).catch(()=>setErr('Could not load this firm.'))}>{readable(f.name||'')}</button></TableCell>
-      <TableCell>{f.clients.toLocaleString()}</TableCell>
-      <TableCell className="amount">{dollars(f.total)}</TableCell></TableRow>)}</TableBody></Table>
+    <div className="card-grid">
+      {firms.slice(page*PAGE,(page+1)*PAGE).map(f=><button key={f.id} className="topic-card" onClick={()=>loadFirm(f.id).then(setFirm).catch(()=>setErr('Could not load this firm.'))}>
+        <span className="topic-name">{readable(f.name||'')}</span>
+        <span className="topic-meta"><span>{f.clients.toLocaleString()} clients</span><strong>{dollars(f.total)}</strong></span>
+        <span className="topic-bar"><span style={{width:Math.max(2,Math.round(f.total/maxFirmTotal*100))+'%'}}/></span>
+      </button>)}
+    </div>
     <Pager page={page} count={firms.length} onChange={setPage}/>
+    {!firms.length&&<p>No matches. Try a different search.</p>}
   </>;
 }
 

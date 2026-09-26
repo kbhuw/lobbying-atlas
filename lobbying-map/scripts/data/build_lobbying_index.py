@@ -2,7 +2,7 @@
 
 Outputs under public/data/lobbying/:
   index.json.gz                 — years, counts, issue index, top firms
-  filings/{xx}.json.gz          — full filing detail, sharded by md5(doc_id)[:2]
+  filings/{xx}.json.gz          — full filing detail, sharded by sha256(doc_id)[:2]
   issues/{CODE}-{year}.json.gz  — per issue code + year org leaderboard
   firms/{registrant_id}.json.gz — per-firm rollup (clients, spend, issues)
   orgs/{key}.json.gz            — per-organization rollup (group_id or c<client_id>)
@@ -138,7 +138,7 @@ def main():
                        "topic": tmap.get(a["description"]),
                        "lobbyists": lobs.get((uuid, i), [])})
             n_act += 1
-        shard = hashlib.md5(uuid.encode()).hexdigest()[:2]
+        shard = hashlib.sha256(uuid.encode()).hexdigest()[:2]
         shards[shard].append({
             "id": uuid, "senate_id": f["senate_id"], "form": f["form"],
             "group_id": f["group_id"],

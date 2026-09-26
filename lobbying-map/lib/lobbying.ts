@@ -41,13 +41,13 @@ export const loadTopic=(topic:string,year:number)=>get<TopicBoard>(`/data/lobbyi
 export const loadFirm=(id:number)=>get<FirmDetail>(`/data/lobbying/firms/${id}.json.gz`);
 export const loadOrgLobby=(key:string)=>get<OrgLobby>(`/data/lobbying/orgs/${key}.json.gz`);
 
-// Filing shards are keyed by md5(doc_id)[:2].
-async function md5hex(s:string){
-  const b=await crypto.subtle.digest('MD5',new TextEncoder().encode(s));
+// Filing shards are keyed by sha256(doc_id)[:2] (WebCrypto has no MD5).
+async function sha256hex(s:string){
+  const b=await crypto.subtle.digest('SHA-256',new TextEncoder().encode(s));
   return [...new Uint8Array(b)].map(x=>x.toString(16).padStart(2,'0')).join('');
 }
 export async function loadOrgFilings(filingIds:string[]):Promise<FilingDetail[]>{
-  const prefixes=[...new Set(await Promise.all(filingIds.map(async id=>(await md5hex(id)).slice(0,2))))];
+  const prefixes=[...new Set(await Promise.all(filingIds.map(async id=>(await sha256hex(id)).slice(0,2))))];
   const shards=await Promise.all(prefixes.map(p=>get<FilingDetail[]>(`/data/lobbying/filings/${p}.json.gz`)));
   const want=new Set(filingIds);
   return shards.flat().filter(f=>want.has(f.id));

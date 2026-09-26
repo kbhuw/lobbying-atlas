@@ -29,8 +29,9 @@ export type OrgLobby={id:string;group_id:string|null;name:string;
   firms:{firm_id:number;name:string;amount:number;filings:number}[];
   lobbyists:string[];filing_ids:string[];sample_texts:string[]};
 
+const BASE='/lobby';
 const get=async<T>(path:string):Promise<T>=>{
-  const r=await fetch(path);
+  const r=await fetch(BASE+path);
   if(!r.ok)throw new Error(path);
   return readData<T>(r);
 };

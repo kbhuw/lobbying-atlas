@@ -1,15 +1,20 @@
 'use client';
 import {useEffect,useMemo,useState} from 'react';
-import {Table,TableHeader,TableBody,TableRow,TableHead,TableCell} from '@/components/ui/table';
 import {Button} from '@/components/ui/button';
 import {LobbyIndex,IssueBoard,TopicBoard,FirmDetail,OrgLobby,FilingDetail,loadIndex,loadIssue,loadTopic,loadFirm,loadOrgLobby,loadOrgFilings,dollars} from '@/lib/lobbying';
-import {readable} from '@/lib/directory';
+import {readable,Company} from '@/lib/directory';
 
 function Pager({page,count,onChange}:{page:number;count:number;onChange:(n:number)=>void}){
   return <div className="pager"><span>{count?(page*40+1).toLocaleString()+'–'+Math.min((page+1)*40,count).toLocaleString():'0'} of {count.toLocaleString()}</span><Button variant="outline" disabled={!page} onClick={()=>onChange(page-1)}>Previous</Button><Button variant="outline" disabled={(page+1)*40>=count} onClick={()=>onChange(page+1)}>Next</Button></div>;
 }
 
-export function IssuesExplorer({year:initialYear,onOpenOrg}:{year:number;onOpenOrg:(orgKey:string)=>void}){
+function Mark({name,profile}:{name:string;profile?:Company['profile']}){
+  const [failed,setFailed]=useState(false);
+  const src=profile?.logo_url;
+  return src&&!failed?<img className={"organization-mark"+(profile?.logo_background==='dark'?' dark-mark':'')} src={src} alt="" loading="lazy" referrerPolicy="no-referrer" onError={()=>setFailed(true)}/>:<span className="organization-mark empty-mark" aria-hidden="true">{name.replace(/[^A-Za-z0-9]/g,'').slice(0,2).toUpperCase()}</span>;
+}
+
+export function IssuesExplorer({year:initialYear,onOpenOrg,companies}:{year:number;onOpenOrg:(orgKey:string)=>void;companies?:Map<string,Company>}){
   const [index,setIndex]=useState<LobbyIndex|null>(null);
   const [mode,setMode]=useState<'topics'|'codes'>('topics');
   const [code,setCode]=useState<string|null>(null);
@@ -34,15 +39,16 @@ export function IssuesExplorer({year:initialYear,onOpenOrg}:{year:number;onOpenO
     return <>
       <button className="back" onClick={()=>{setCode(null);setQ('')}}>← {mode==='topics'?'All topics':'All issue areas'}</button>
       <h1>{boardName||index.issue_codes[code]||code}</h1>
-      <p className="secondary">Who lobbied on this in {year}. Amounts attribute each filing's full reported amount to every issue it lists.</p>
+      <p className="secondary">Who reported lobbying on this in {year}, ranked by spending. Each filing's full amount counts toward every topic it lists.</p>
       <YearPicker index={index} year={year} onChange={setYear}/>
       <div className="controls"><label className="search"><span>Search organizations</span><input type="search" value={q} placeholder="Organization name" onChange={e=>setQ(e.target.value)}/></label></div>
       <p className="count">{orgs.length.toLocaleString()} organizations</p>
-      <Table><TableHeader><TableRow><TableHead>Organization</TableHead><TableHead>Reported spend</TableHead><TableHead>Filings</TableHead></TableRow></TableHeader>
-      <TableBody>{orgs.slice(page*40,(page+1)*40).map(o=><TableRow key={o.id}>
-        <TableCell><button className="name" onClick={()=>onOpenOrg(o.id)}>{o.name}</button></TableCell>
-        <TableCell className="amount">{dollars(o.amount)}</TableCell>
-        <TableCell>{o.filings}</TableCell></TableRow>)}</TableBody></Table>
+      <div className="org-list">{orgs.slice(page*40,(page+1)*40).map((o,i)=>{const c=companies?.get(o.id);const display=c?.name||readable(o.name);return <button key={o.id} className="org-row" onClick={()=>onOpenOrg(o.id)}>
+        <span className="rank">{page*40+i+1}</span>
+        <Mark name={display} profile={c?.profile}/>
+        <span className="org-main"><span className="org-name">{display}</span><span className="org-sub">{o.filings} report{o.filings===1?'':'s'} filed in {year}</span></span>
+        <span className="org-amt">{dollars(o.amount)}</span>
+      </button>})}</div>
       <Pager page={page} count={orgs.length} onChange={setPage}/>
     </>;
   }
@@ -84,7 +90,7 @@ function YearPicker({index,year,onChange}:{index:LobbyIndex;year:number;onChange
     <button key={y} className={y===year?'year-active':''} onClick={()=>onChange(y)}>{y}</button>)}</div>;
 }
 
-export function FirmsExplorer({onOpenOrg}:{onOpenOrg:(orgKey:string)=>void}){
+export function FirmsExplorer({onOpenOrg,companies}:{onOpenOrg:(orgKey:string)=>void;companies?:Map<string,Company>}){
   const [index,setIndex]=useState<LobbyIndex|null>(null);
   const [firm,setFirm]=useState<FirmDetail|null>(null);
   const [q,setQ]=useState('');const [page,setPage]=useState(0);const [err,setErr]=useState('');
@@ -104,11 +110,12 @@ export function FirmsExplorer({onOpenOrg}:{onOpenOrg:(orgKey:string)=>void}){
       {Object.keys(firm.issues).length>0&&<p className="secondary">Top issues: {Object.keys(firm.issues).slice(0,8).map(c=>index.issue_codes[c]||c).join(' · ')}</p>}
       <div className="controls"><label className="search"><span>Search clients</span><input type="search" value={q} placeholder="Client name" onChange={e=>setQ(e.target.value)}/></label></div>
       <p className="count">{clients.length.toLocaleString()} clients</p>
-      <Table><TableHeader><TableRow><TableHead>Client</TableHead><TableHead>Issues</TableHead><TableHead>Reported income</TableHead></TableRow></TableHeader>
-      <TableBody>{clients.slice(page*40,(page+1)*40).map(c=><TableRow key={String(c.key)}>
-        <TableCell><button className="name" onClick={()=>onOpenOrg(c.key)}>{c.name}</button></TableCell>
-        <TableCell><span className="secondary">{c.issues.slice(0,4).map(i=>index.issue_codes[i]||i).join(' · ')}</span></TableCell>
-        <TableCell className="amount">{dollars(c.amount)}</TableCell></TableRow>)}</TableBody></Table>
+      <div className="org-list">{clients.slice(page*40,(page+1)*40).map((c,i)=>{const co=companies?.get(c.key);const display=co?.name||readable(c.name);return <button key={String(c.key)} className="org-row" onClick={()=>onOpenOrg(c.key)}>
+        <span className="rank">{page*40+i+1}</span>
+        <Mark name={display} profile={co?.profile}/>
+        <span className="org-main"><span className="org-name">{display}</span><span className="org-sub">{c.issues.slice(0,4).map(x=>index.issue_codes[x]||x).join(' · ')}</span></span>
+        <span className="org-amt">{dollars(c.amount)}</span>
+      </button>})}</div>
       <Pager page={page} count={clients.length} onChange={setPage}/>
     </>;
   }
@@ -123,7 +130,7 @@ export function FirmsExplorer({onOpenOrg}:{onOpenOrg:(orgKey:string)=>void}){
       <p>Which firms get hired to lobby, ranked by reported income, 2024–2026. In-house teams appear when they file for their own organization.</p>
     </div>
     <div className="controls"><label className="search big-search"><input type="search" value={q} placeholder="Search firms — e.g. Akin Gump, Brownstein" onChange={e=>setQ(e.target.value)} aria-label="Search firms"/></label></div>
-    <p className="count">{firms.length.toLocaleString()} registrants</p>
+    <p className="count">{firms.length.toLocaleString()} lobbying firms</p>
     <div className="card-grid">
       {firms.slice(page*PAGE,(page+1)*PAGE).map(f=><button key={f.id} className="topic-card" onClick={()=>loadFirm(f.id).then(setFirm).catch(()=>setErr('Could not load this firm.'))}>
         <span className="topic-name">{readable(f.name||'')}</span>

@@ -156,7 +156,7 @@ const BUCKET_LABEL:Record<string,string>={
 
 const COUNTRY:Record<string,string>={CAN:'Canada',GBR:'United Kingdom',AUS:'Australia',SUI:'Switzerland',MEX:'Mexico',KOR:'South Korea',ISR:'Israel',UAE:'United Arab Emirates',BRA:'Brazil',NED:'Netherlands',PUR:'Puerto Rico',GER:'Germany',CAY:'Cayman Islands',JPN:'Japan',IRL:'Ireland',LUX:'Luxembourg',CHN:'China',FRA:'France',SWE:'Sweden',NOR:'Norway',BEL:'Belgium',DEN:'Denmark',ITA:'Italy',ESP:'Spain',IND:'India',SGP:'Singapore',HKG:'Hong Kong',TWN:'Taiwan',SAU:'Saudi Arabia',QAT:'Qatar',BHR:'Bahrain',KWT:'Kuwait',BER:'Bermuda',BVI:'British Virgin Islands',VGB:'British Virgin Islands',JEY:'Jersey',GGY:'Guernsey',IMN:'Isle of Man',LIE:'Liechtenstein',MCO:'Monaco',PAN:'Panama',BHS:'Bahamas',BRB:'Barbados',TTO:'Trinidad & Tobago',ARG:'Argentina',CHL:'Chile',COL:'Colombia',PER:'Peru',POL:'Poland',AUT:'Austria',PRT:'Portugal',FIN:'Finland',ISL:'Iceland',EST:'Estonia',LVA:'Latvia',LTU:'Lithuania',CZE:'Czech Republic',SVK:'Slovakia',HUN:'Hungary',ROU:'Romania',BGR:'Bulgaria',GRC:'Greece',TUR:'Turkey',UKR:'Ukraine',RUS:'Russia',GEO:'Georgia',ARM:'Armenia',AZE:'Azerbaijan',KAZ:'Kazakhstan',NGA:'Nigeria',GHA:'Ghana',ZAF:'South Africa',EGY:'Egypt',MAR:'Morocco',TUN:'Tunisia',LBY:'Libya',IRQ:'Iraq',AFG:'Afghanistan',PAK:'Pakistan',BGD:'Bangladesh',LKA:'Sri Lanka',THA:'Thailand',VNM:'Vietnam',MYS:'Malaysia',IDN:'Indonesia',PHL:'Philippines',NZL:'New Zealand',BUL:'Bulgaria',NGR:'Nigeria',GUA:'Guatemala',MKD:'North Macedonia',BGRX:'Bulgaria'};
 
-export function NotableExplorer(){
+export function NotableExplorer({onOpenOrg,companies}:{onOpenOrg:(k:string)=>void;companies?:Map<string,Company>}){
   const [data,setData]=useState<Notable|null>(null);
   const [mode,setMode]=useState<'spend'|'door'|'foreign'>('spend');
   const [q,setQ]=useState('');const [page,setPage]=useState(0);const [err,setErr]=useState('');
@@ -188,10 +188,14 @@ export function NotableExplorer(){
     <div className="org-list">{mode==='spend'?spenders.slice(page*40,(page+1)*40).map((r,i)=>(
       <div key={'s'+i} className="org-row static-row">
         <span className="rank">{page*40+i+1}</span>
+        <Mark name={r.client} profile={companies?.get(r.org||'')?.profile}/>
         <span className="org-main"><span className="org-name">{r.client}</span>
-        <span className="org-sub"><strong>Lobbies on:</strong> {r.topics.join(', ')||'not disclosed'}</span>
-        {r.bills.length>0&&<span className="org-sub"><strong>Bills:</strong> {r.bills.slice(0,4).join(' · ')}</span>}
-        {r.says.length>0&&<details className="row-details"><summary>What their filings say</summary>{r.says.map((t,j)=><p key={j}>“{t}”</p>)}</details>}</span>
+        <span className="org-sub">{r.blurb}</span>
+        <details className="row-details"><summary>Click for details</summary>
+          {r.bills.length>0&&<p><strong>Bills &amp; laws named:</strong> {r.bills.slice(0,6).join(' · ')}</p>}
+          {r.says.map((t,j)=><p key={j}>“{t}”</p>)}
+          {r.org&&companies?.get(r.org)&&<p><button className="linklike" onClick={()=>onOpenOrg(r.org!)}>Full profile →</button></p>}
+        </details></span>
         <span className="org-amt">{dollars(r.total)}<span className="org-sub">{r.filings} filings</span></span>
       </div>)):mode==='door'?door.slice(page*40,(page+1)*40).map((r,i)=>(
       <div key={'d'+i} className="org-row static-row">
@@ -204,10 +208,14 @@ export function NotableExplorer(){
       </div>)):foreign.slice(page*40,(page+1)*40).map((r,i)=>(
       <div key={'f'+i} className="org-row static-row">
         <span className="rank">{page*40+i+1}</span>
+        <Mark name={r.client} profile={companies?.get(r.org||'')?.profile}/>
         <span className="org-main"><span className="org-name">{r.client}</span>
-        <span className="org-sub"><strong>Lobbies on:</strong> {r.topics.join(', ')||'not disclosed'}</span>
-        {r.bills.length>0&&<span className="org-sub"><strong>Bills:</strong> {r.bills.slice(0,4).join(' · ')}</span>}
-        {r.says.length>0&&<details className="row-details"><summary>What their filings say</summary>{r.says.map((t,j)=><p key={j}>“{t}”</p>)}</details>}
+        <span className="org-sub">{r.blurb}</span>
+        <details className="row-details"><summary>Click for details</summary>
+          {r.bills.length>0&&<p><strong>Bills &amp; laws named:</strong> {r.bills.slice(0,6).join(' · ')}</p>}
+          {r.says.map((t,j)=><p key={j}>“{t}”</p>)}
+          {r.org&&companies?.get(r.org)&&<p><button className="linklike" onClick={()=>onOpenOrg(r.org!)}>Full profile →</button></p>}
+        </details>
         <span className="org-sub">{COUNTRY[r.country]||r.country} · {r.filings} filing{r.filings===1?'':'s'}</span></span>
         <span className="org-amt">{dollars(r.total)}</span>
       </div>))}

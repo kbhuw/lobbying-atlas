@@ -14,13 +14,14 @@ Inputs:
 
 Usage: python3 build_notable.py <out.json.gz>
 """
-import gzip, json, re, sqlite3, sys, collections
+import gzip, json, re, sqlite3, sys, collections, unicodedata
 
 ROOT = '/home/ubuntu/repos/lobbying-atlas'
 FILINGS = f'{ROOT}/work/filings-detail/filings-2024-2026.sqlite'
 DESCS = f'{ROOT}/work/jev/desc-topics.sqlite'
 POSITIONS = f'{ROOT}/work/jev/positions.sqlite'
 TOPICS = f'{ROOT}/work/jev/topics.json'
+ENTITY_MAP = f'{ROOT}/work/filings-detail/entity-map.json'
 
 ABBR = [
     (r'(?<![A-Za-z])Reps\.?(?=\s+[A-Z])', 'Representatives '),
@@ -138,6 +139,12 @@ def pick_says(texts, n=3, width=190):
             break
     return out
 
+def norm(s):
+    s = unicodedata.normalize('NFKC', s or '').upper().replace('&', ' AND ')
+    s = re.sub(r'[.\u2019\']', '', s)
+    s = re.sub(r'[^\w ]', ' ', s, flags=re.UNICODE)
+    return ' '.join(s.split())
+
 def clean_name(name):
     if name == name.upper() and len(name) > 4:
         name = name.title()
@@ -193,6 +200,42 @@ def main(out_path):
 
     def topic_labels(counter, n=4):
         return [topics.get(t, t) for t, _ in counter.most_common(n)]
+
+    try:
+        entity_map = {norm(e['name']): e['group_id']
+                      for e in json.load(open(ENTITY_MAP)).values()}
+    except FileNotFoundError:
+        entity_map = {}
+
+    def oxford(items):
+        if len(items) <= 1:
+            return ''.join(items)
+        if len(items) == 2:
+            return ' and '.join(items)
+        return ', '.join(items[:-1]) + ' and ' + items[-1]
+
+    ACR = {'ndaa': 'NDAA', 'pbms': 'PBMs', 'epa': 'EPA', 'sec': 'SEC',
+           'fda': 'FDA', 'ai': 'AI', 'h.r.1': 'H.R.1'}
+    def low_label(l):
+        if l.startswith(('One Big', 'Inflation Reduction')):
+            return l
+        t = l.lower()
+        for k, v in ACR.items():
+            t = re.sub(r'\b' + re.escape(k) + r'\b', v, t)
+        return t
+
+    def blurb(name, labels, bills):
+        labels = [low_label(l) for l in labels]
+        if labels:
+            s = f'{name} is lobbying on {oxford(labels)}'
+        else:
+            s = f'{name} filed lobbying reports'
+        real_bills = [b for b in bills if not re.match(r'^(H\.?\s?R\.?|S\.?)\s*\.?\s*#?\s*\d', b)]
+        if real_bills:
+            s += f' — including the {oxford(real_bills[:2])}'
+        elif bills:
+            s += f' — including {oxford(bills[:2])}'
+        return s + '.'
 
     # --- revolving door -----------------------------------------------------
     # dedupe amount per (lobbyist, doc): the doc's full amount counts once
@@ -257,21 +300,33 @@ def main(out_path):
             r = d.execute('select topic from desc_topics where description=?', (desc,)).fetchone()
             if r:
                 tc[r[0]] += 1
-        foreign.append({'client': clean_name(client), 'country': country, 'filings': n,
+        name = clean_name(client)
+        labels = [topics.get(t, t) for t, _ in tc.most_common(4)]
+        bills = extract_bills(client_texts.get(client, collections.Counter()))
+        foreign.append({'client': name, 'country': country, 'filings': n,
                         'total': round(amt or 0),
-                        'topics': [topics.get(t, t) for t, _ in tc.most_common(4)],
-                        'bills': extract_bills(client_texts.get(client, collections.Counter())),
-                        'says': pick_says(client_texts.get(client, collections.Counter()), 2)})
+                        'topics': labels,
+                        'bills': bills,
+                        'says': pick_says(client_texts.get(client, collections.Counter()), 2),
+                        'blurb': blurb(name, labels, bills),
+                        'org': entity_map.get(norm(client))})
 
     # --- biggest spenders: company -> what it lobbied on --------------------
-    spenders = [{
-        'client': clean_name(c),
-        'total': round(client_total[c]),
-        'filings': client_docs[c],
-        'topics': topic_labels(client_topics[c]),
-        'bills': extract_bills(client_texts.get(c, collections.Counter())),
-        'says': pick_says(client_texts.get(c, collections.Counter()), 2),
-    } for c in sorted(client_total, key=lambda c: -client_total[c])[:200]]
+    spenders = []
+    for c in sorted(client_total, key=lambda c: -client_total[c])[:200]:
+        name = clean_name(c)
+        labels = topic_labels(client_topics[c])
+        bills = extract_bills(client_texts.get(c, collections.Counter()))
+        spenders.append({
+            'client': name,
+            'total': round(client_total[c]),
+            'filings': client_docs[c],
+            'topics': labels,
+            'bills': bills,
+            'says': pick_says(client_texts.get(c, collections.Counter()), 2),
+            'blurb': blurb(name, labels, bills),
+            'org': entity_map.get(norm(c)),
+        })
 
     out = {
         'revolving_door': revolving,

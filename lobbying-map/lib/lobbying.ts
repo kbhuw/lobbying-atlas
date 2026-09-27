@@ -52,6 +52,16 @@ export type Notable={revolving_door:Insider[];foreign:ForeignClient[];
   stats:{lobbyists_former_gov:number;former_members:number}};
 export const loadNotable=()=>get<Notable>('/data/lobbying/notable.json.gz');
 
+// Stances are AI-inferred: filings never record support/oppose, so the model
+// buckets each org from bill context + filing language. Always label as likely.
+export type StanceEntry={org:string;why:string;id:string|null};
+export type StanceBill={key:string;name:string;about:string;org_count:number;
+  supports:StanceEntry[];opposes:StanceEntry[];watching:StanceEntry[]};
+export type OrgStances={supports:{bill:string;why:string}[];
+  opposes:{bill:string;why:string}[];watching:{bill:string;why:string}[]};
+export type Stances={bills:StanceBill[];orgs:Record<string,OrgStances>};
+export const loadStances=()=>get<Stances>('/data/lobbying/stances.json.gz');
+
 // Filing shards are keyed by sha256(doc_id)[:2] (WebCrypto has no MD5).
 async function sha256hex(s:string){
   const b=await crypto.subtle.digest('SHA-256',new TextEncoder().encode(s));

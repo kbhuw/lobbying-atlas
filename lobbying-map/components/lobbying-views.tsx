@@ -1,7 +1,7 @@
 'use client';
 import {useEffect,useMemo,useState} from 'react';
 import {Button} from '@/components/ui/button';
-import {LobbyIndex,IssueBoard,TopicBoard,FirmDetail,OrgLobby,FilingDetail,Notable,loadIndex,loadIssue,loadTopic,loadFirm,loadOrgLobby,loadOrgFilings,loadNotable,dollars} from '@/lib/lobbying';
+import {LobbyIndex,IssueBoard,TopicBoard,FirmDetail,OrgLobby,FilingDetail,Notable,Stances,StanceBill,loadIndex,loadIssue,loadTopic,loadFirm,loadOrgLobby,loadOrgFilings,loadNotable,loadStances,dollars} from '@/lib/lobbying';
 import {readable,Company} from '@/lib/directory';
 
 function Pager({page,count,onChange}:{page:number;count:number;onChange:(n:number)=>void}){
@@ -158,9 +158,11 @@ const COUNTRY:Record<string,string>={CAN:'Canada',GBR:'United Kingdom',AUS:'Aust
 
 export function NotableExplorer({onOpenOrg,companies}:{onOpenOrg:(k:string)=>void;companies?:Map<string,Company>}){
   const [data,setData]=useState<Notable|null>(null);
-  const [mode,setMode]=useState<'spend'|'door'|'foreign'>('spend');
+  const [mode,setMode]=useState<'spend'|'door'|'foreign'|'bills'>('spend');
   const [q,setQ]=useState('');const [page,setPage]=useState(0);const [err,setErr]=useState('');
+  const [stances,setStances]=useState<Stances|null>(null);
   useEffect(()=>{loadNotable().then(setData).catch(()=>setErr('Could not load this data.'))},[]);
+  useEffect(()=>{loadStances().then(setStances).catch(()=>{})},[]);
   useEffect(()=>setPage(0),[q,mode]);
   if(err)return <p>{err}</p>;
   if(!data)return <p className="count">Loading…</p>;
@@ -168,14 +170,19 @@ export function NotableExplorer({onOpenOrg,companies}:{onOpenOrg:(k:string)=>voi
   const spenders=data.spenders.filter(r=>r.client.toLowerCase().includes(s)||r.topics.some(t=>t.toLowerCase().includes(s)));
   const door=data.revolving_door.filter(r=>r.name.toLowerCase().includes(s)||r.clients.some(c=>c.toLowerCase().includes(s))||(r.former||'').toLowerCase().includes(s));
   const foreign=data.foreign.filter(r=>r.client.toLowerCase().includes(s)||(COUNTRY[r.country]||r.country).toLowerCase().includes(s));
-  const rows=mode==='spend'?spenders:mode==='door'?door:foreign;
+  const bills=(stances?.bills||[]).filter(b=>b.name.toLowerCase().includes(s)||(b.about||'').toLowerCase().includes(s));
+  const rows=mode==='spend'?spenders:mode==='door'?door:mode==='foreign'?foreign:bills;
   const logoRow=spenders.filter(r=>companies?.get(r.org||'')?.profile?.logo_url).slice(0,18);
-  const detail=(r:{bills:string[];says:string[];org:string|null|undefined})=>(
-    <details className="row-details"><summary>click for details</summary>
+  const stanceOf=(r:{client:string;org?:string|null|undefined})=>stances?.orgs[r.org||'']||stances?.orgs[r.client];
+  const detail=(r:{client:string;bills:string[];says:string[];org?:string|null|undefined})=>{
+    const st=stanceOf(r);
+    return <details className="row-details"><summary>click for details</summary>
+      {st&&st.opposes.length>0&&<p><strong>Likely opposes:</strong> {st.opposes.slice(0,4).map(x=>x.bill).join(' · ')}</p>}
+      {st&&st.supports.length>0&&<p><strong>Likely supports:</strong> {st.supports.slice(0,4).map(x=>x.bill).join(' · ')}</p>}
       {r.bills.length>0&&<p><strong>Bills &amp; laws named:</strong> {r.bills.slice(0,6).join(' · ')}</p>}
       {r.says.map((t,j)=><p key={j}>“{t}”</p>)}
       {r.org&&companies?.get(r.org)&&<p><button className="linklike" onClick={()=>onOpenOrg(r.org!)}>Full profile →</button></p>}
-    </details>);
+    </details>;};
   return <>
     <div className="hero">
       <h1>Lobbying — who paid for what?</h1>
@@ -189,11 +196,13 @@ export function NotableExplorer({onOpenOrg,companies}:{onOpenOrg:(k:string)=>voi
         <button className={mode==='spend'?'year-active':''} onClick={()=>setMode('spend')}>Biggest spenders</button>
         <button className={mode==='door'?'year-active':''} onClick={()=>setMode('door')}>Revolving door</button>
         <button className={mode==='foreign'?'year-active':''} onClick={()=>setMode('foreign')}>Foreign-based clients</button>
+        {stances&&<button className={mode==='bills'?'year-active':''} onClick={()=>setMode('bills')}>Hot bills</button>}
       </div>
     </div>
-    <p className="count">{rows.length.toLocaleString()} {mode==='spend'?'companies and groups':mode==='door'?'former government insiders':'companies based abroad'}{mode==='door'?' — ranked by the money on filings they’re named on':''}</p>
+    <p className="count">{rows.length.toLocaleString()} {mode==='spend'?'companies and groups':mode==='door'?'former government insiders':mode==='foreign'?'companies based abroad':'most-lobbied bills'}{mode==='door'?' — ranked by the money on filings they’re named on':''}</p>
+    {mode==='bills'&&<p className="secondary">Filings never say for or against — stances are AI-inferred from what each company lobbies on. Treat as likely positions.</p>}
     <div className="shame">
-      <div className="shame-head"><span>{mode==='door'?'Name':'Company'}</span><span>{mode==='door'?'Before → now lobbying for':'What they lobbied for'}</span></div>
+      <div className="shame-head"><span>{mode==='door'?'Name':mode==='bills'?'Bill':'Company'}</span><span>{mode==='door'?'Before → now lobbying for':mode==='bills'?'What it does · who’s on it':'What they lobbied for'}</span></div>
       {mode==='spend'?spenders.slice(page*40,(page+1)*40).map((r,i)=>(
         <div key={'s'+i} className="shame-row">
           <span className="shame-co"><Mark name={r.client} profile={companies?.get(r.org||'')?.profile}/><span className="shame-name">{r.client}</span></span>
@@ -207,12 +216,23 @@ export function NotableExplorer({onOpenOrg,companies}:{onOpenOrg:(k:string)=>voi
           <span className="shame-why">Former {r.former||'government official'}, now lobbying for {r.clients.join(', ')||'undisclosed clients'}{r.topics.length?` on ${r.topics.join(', ')}`:''}.
             <span className="shame-meta">{dollars(r.total)} on filings they’re named on · {r.filings} filing{r.filings===1?'':'s'}</span>
           </span>
-        </div>)):foreign.slice(page*40,(page+1)*40).map((r,i)=>(
+        </div>)):mode==='foreign'?foreign.slice(page*40,(page+1)*40).map((r,i)=>(
         <div key={'f'+i} className="shame-row">
           <span className="shame-co"><Mark name={r.client} profile={companies?.get(r.org||'')?.profile}/><span className="shame-name">{r.client}</span></span>
           <span className="shame-why">{r.blurb}
             <span className="shame-meta">{COUNTRY[r.country]||r.country} · {dollars(r.total)} reported · {r.filings} filing{r.filings===1?'':'s'}</span>
             {detail(r)}
+          </span>
+        </div>)):bills.slice(page*40,(page+1)*40).map((b,i)=>(
+        <div key={'b'+i} className="shame-row">
+          <span className="shame-co"><span className="shame-name">{b.name}</span></span>
+          <span className="shame-why">{b.about}
+            <span className="shame-meta">{b.org_count} org{b.org_count===1?'':'s'} lobbying · {b.supports.length} likely for · {b.opposes.length} likely against · {b.watching.length} working it</span>
+            <details className="row-details"><summary>click for details</summary>
+              {b.opposes.length>0&&<p><strong>Likely opposes:</strong> {b.opposes.map((x,j)=><span key={j}>{x.id&&companies?.get(x.id)?<button className="linklike" onClick={()=>onOpenOrg(x.id!)}>{x.org}</button>:x.org}{x.why?` (${x.why})`:''}{j<b.opposes.length-1?'; ':''}</span>)}</p>}
+              {b.supports.length>0&&<p><strong>Likely supports:</strong> {b.supports.map((x,j)=><span key={j}>{x.id&&companies?.get(x.id)?<button className="linklike" onClick={()=>onOpenOrg(x.id!)}>{x.org}</button>:x.org}{x.why?` (${x.why})`:''}{j<b.supports.length-1?'; ':''}</span>)}</p>}
+              {b.watching.length>0&&<p><strong>Working it / watching:</strong> {b.watching.map((x,j)=><span key={j}>{x.id&&companies?.get(x.id)?<button className="linklike" onClick={()=>onOpenOrg(x.id!)}>{x.org}</button>:x.org}{j<b.watching.length-1?', ':''}</span>)}</p>}
+            </details>
           </span>
         </div>))}
     </div>
@@ -224,16 +244,25 @@ export function NotableExplorer({onOpenOrg,companies}:{onOpenOrg:(k:string)=>voi
 export function OrgLobbyPanel({orgKey,index}:{orgKey:string;index:LobbyIndex}){
   const [org,setOrg]=useState<OrgLobby|null>(null);
   const [filings,setFilings]=useState<FilingDetail[]|null>(null);
+  const [stances,setStances]=useState<Stances|null>(null);
   const [open,setOpen]=useState(false);
   const [err,setErr]=useState('');
+  useEffect(()=>{loadStances().then(setStances).catch(()=>{})},[]);
   useEffect(()=>{setOrg(null);setFilings(null);setOpen(false);setErr('');
     loadOrgLobby(orgKey).then(o=>{setOrg(o);loadOrgFilings(o.filing_ids).then(setFilings).catch(()=>{})}).catch(()=>setErr('No lobbying detail for this organization.'))},[orgKey]);
   if(err)return null;
   if(!org)return <p className="secondary">Loading lobbying detail…</p>;
   const latest=(filings||[]).filter(f=>f.latest).sort((a,b)=>b.posted.localeCompare(a.posted));
   const issueNames=Object.entries(org.issues);
+  const myStances=stances?.orgs[org.group_id||'']||stances?.orgs[org.id]||stances?.orgs[org.name];
   return <section className="profile" aria-label="Lobbying activity">
     <h2 style={{fontSize:20,marginTop:0}}>Lobbying activity · 2024–2026</h2>
+    {myStances&&(myStances.opposes.length||myStances.supports.length||myStances.watching.length)>0&&<div className="stance-board">
+      <p className="stance-title"><strong>What they want</strong> <span className="secondary">(AI-inferred — filings never say for or against)</span></p>
+      {myStances.opposes.length>0&&<p><strong>Likely opposes:</strong> {myStances.opposes.slice(0,8).map((x,i)=><span key={i}>{x.bill}{x.why?` — ${x.why}`:''}{i<myStances.opposes.length-1&&i<7?'; ':''}</span>)}</p>}
+      {myStances.supports.length>0&&<p><strong>Likely supports:</strong> {myStances.supports.slice(0,8).map((x,i)=><span key={i}>{x.bill}{x.why?` — ${x.why}`:''}{i<myStances.supports.length-1&&i<7?'; ':''}</span>)}</p>}
+      {myStances.watching.length>0&&<p><strong>Working on / watching:</strong> {myStances.watching.slice(0,8).map((x,i)=><span key={i}>{x.bill}{i<myStances.watching.length-1&&i<7?'; ':''}</span>)}</p>}
+    </div>}
     <p>{org.name} reported <strong>{dollars(org.total)}</strong> in lobbying across {org.filings} filing{org.filings===1?'':'s'}{org.firms.length?<> via {org.firms.length===1?'firm ':'firms '}<strong>{org.firms.slice(0,4).map(f=>readable(f.name||'')).join(', ')}{org.firms.length>4?' and more':''}</strong></>:null}.</p>
     {!!org.lobbyists.length&&<p className="secondary">Named lobbyists: {org.lobbyists.slice(0,12).join(', ')}{org.lobbyists.length>12?` +${org.lobbyists.length-12} more`:''}</p>}
     {org.topics&&Object.keys(org.topics).length>0&&<p className="secondary"><strong>Top topics:</strong> {Object.keys(org.topics).slice(0,8).map(t=>index.topic_names?.[t]||t).join(' · ')}</p>}

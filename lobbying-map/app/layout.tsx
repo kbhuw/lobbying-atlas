@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'Federal Lobbying Directory',
-  description: 'Search companies and organizations in federal lobbying disclosures, by reporting year.',
+  title: 'Lobbying Atlas',
+  description: 'Who lobbied for what: federal lobbying disclosures made searchable by topic, company and firm.',
 };
 
 export default function RootLayout({

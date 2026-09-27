@@ -13,13 +13,14 @@ description: How to run and test the lobbying-map app (vinext SPA, static gzippe
 - Servers may not survive machine restarts; check with `curl -s -o /dev/null -w '%{http_code}' <url>` and restart as needed (`nohup` for dev, wrangler for prod).
 
 ## App structure (for navigation)
-- It is a single-page app (`app/page.tsx`) — there are no routes. Views are switched by React state via the nav buttons: "Who lobbied for what" (default landing), "Lobbying firms", "Organizations" (`components/lobbying-views.tsx`: `IssuesExplorer`, `FirmsExplorer`, `OrgLobbyPanel`). Topics/firms render as `.topic-card` buttons in a `.card-grid`.
+- It is a single-page app (`app/page.tsx`) — there are no routes. Views are switched by React state via the nav buttons: "Worth a look" (default landing — `NotableExplorer`, 4 sub-tabs: Biggest spenders / Revolving door / Foreign-based clients / Hot bills), "Who lobbied for what", "Lobbying firms", "Organizations" (`components/lobbying-views.tsx`: `IssuesExplorer`, `FirmsExplorer`, `OrgLobbyPanel`). Topics/firms render as `.topic-card` buttons in a `.card-grid`; the Worth-a-look views render `.shame-row` rows with `<details class="row-details">` expanders.
+- Stance data: `stances.json.gz` = `{bills: StanceBill[350], orgs: Record<key, OrgStances>}` — org stance cards keyed by `group_id || id || name`; bill-expander org links render only when `entry.id` resolves in the directory company map (unresolved names render as plain text — by design). "Hot bills" button only appears once stances.json.gz loads.
 - Org detail: clicking a name sets `selected` (directory org profile). Org keys starting with `n` (unmapped name groups) instead set `lobOrg` and render a standalone `OrgLobbyPanel` without the directory profile chrome.
 - Quirk: the "Organizations" nav button does NOT clear `selected`, so it does nothing while viewing an org profile — use the "← All organizations" back button.
 - Quirk: `IssuesExplorer` shares one search field between the topic/issue list and the org leaderboard inside a topic — the topic search text carries over into the org filter.
 
 ## Verifying expected values without guessing
-- All data is static gzipped JSON under `lobbying-map/public/data/`: `directory-v3.json.gz` (org directory index) and `lobbying/` (index, topics/*-YYYY, issues/*-YYYY, firms/<id>, orgs/<key>, filings/<md5-prefix>).
+- All data is static gzipped JSON under `lobbying-map/public/data/`: `directory-v3.json.gz` (org directory index) and `lobbying/` (index, topics/*-YYYY, issues/*-YYYY, firms/<id>, orgs/<key>, filings/<sha256-prefix>, notable.json.gz, stances.json.gz).
 - Pull ground truth with python before asserting:
   `python3 -c "import gzip,json;d=json.load(gzip.open('public/data/lobbying/index.json.gz'));print(d['years'],len(d['topic_names']),len(d['issue_codes']))"`
 - To find an org with NO lobbying shard (graceful-degradation test): `orgfiles=set(f[:-8] for f in os.listdir('public/data/lobbying/orgs')); [c for c in d['companies'] if c['id'] not in orgfiles]`. Example: "Douglas County (Washington)" id `3624b73887546473`.

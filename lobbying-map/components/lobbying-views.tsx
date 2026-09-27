@@ -169,12 +169,20 @@ export function NotableExplorer({onOpenOrg,companies}:{onOpenOrg:(k:string)=>voi
   const door=data.revolving_door.filter(r=>r.name.toLowerCase().includes(s)||r.clients.some(c=>c.toLowerCase().includes(s))||(r.former||'').toLowerCase().includes(s));
   const foreign=data.foreign.filter(r=>r.client.toLowerCase().includes(s)||(COUNTRY[r.country]||r.country).toLowerCase().includes(s));
   const rows=mode==='spend'?spenders:mode==='door'?door:foreign;
+  const logoRow=spenders.filter(r=>companies?.get(r.org||'')?.profile?.logo_url).slice(0,18);
+  const detail=(r:{bills:string[];says:string[];org:string|null|undefined})=>(
+    <details className="row-details"><summary>click for details</summary>
+      {r.bills.length>0&&<p><strong>Bills &amp; laws named:</strong> {r.bills.slice(0,6).join(' · ')}</p>}
+      {r.says.map((t,j)=><p key={j}>“{t}”</p>)}
+      {r.org&&companies?.get(r.org)&&<p><button className="linklike" onClick={()=>onOpenOrg(r.org!)}>Full profile →</button></p>}
+    </details>);
   return <>
     <div className="hero">
-      <h1>Worth a look</h1>
-      <p>Who's paying the most, who's lobbying after working in government, and who's headquartered abroad. Federal filings, 2024–2026.</p>
+      <h1>Lobbying — who paid for what?</h1>
+      <p>Every federal lobbying filing from 2024–2026, read and summarized. Ranked by what they actually reported spending.</p>
       <p className="secondary">{data.stats.lobbyists_former_gov.toLocaleString()} registered lobbyists disclosed a former government job — including {data.stats.former_members.toLocaleString()} former members of Congress.</p>
     </div>
+    {mode==='spend'&&!s&&<div className="logo-strip" aria-hidden="true">{logoRow.map((r,i)=><Mark key={i} name={r.client} profile={companies?.get(r.org||'')?.profile}/>)}</div>}
     <div className="hero-controls">
       <label className="search big-search"><input type="search" value={q} placeholder={mode==='spend'?'Search companies or topics — e.g. Amazon, drug pricing':mode==='door'?'Search people or their clients — e.g. Collins, Eli Lilly':'Search companies or countries — e.g. ByteDance, China'} onChange={e=>setQ(e.target.value)} aria-label="Search"/></label>
       <div className="featured-links" role="group" aria-label="View">
@@ -183,42 +191,30 @@ export function NotableExplorer({onOpenOrg,companies}:{onOpenOrg:(k:string)=>voi
         <button className={mode==='foreign'?'year-active':''} onClick={()=>setMode('foreign')}>Foreign-based clients</button>
       </div>
     </div>
-    <p className="count">{rows.length.toLocaleString()} {mode==='spend'?'companies and groups':mode==='door'?'former government insiders':'companies based abroad'}</p>
-    {mode==='door'&&<p className="secondary">Ranked by the total reported on filings each person is listed on — a filing's full amount counts toward every lobbyist it names.</p>}
-    <div className="org-list">{mode==='spend'?spenders.slice(page*40,(page+1)*40).map((r,i)=>(
-      <div key={'s'+i} className="org-row static-row">
-        <span className="rank">{page*40+i+1}</span>
-        <Mark name={r.client} profile={companies?.get(r.org||'')?.profile}/>
-        <span className="org-main"><span className="org-name">{r.client}</span>
-        <span className="org-sub">{r.blurb}</span>
-        <details className="row-details"><summary>Click for details</summary>
-          {r.bills.length>0&&<p><strong>Bills &amp; laws named:</strong> {r.bills.slice(0,6).join(' · ')}</p>}
-          {r.says.map((t,j)=><p key={j}>“{t}”</p>)}
-          {r.org&&companies?.get(r.org)&&<p><button className="linklike" onClick={()=>onOpenOrg(r.org!)}>Full profile →</button></p>}
-        </details></span>
-        <span className="org-amt">{dollars(r.total)}<span className="org-sub">{r.filings} filings</span></span>
-      </div>)):mode==='door'?door.slice(page*40,(page+1)*40).map((r,i)=>(
-      <div key={'d'+i} className="org-row static-row">
-        <span className="rank">{page*40+i+1}</span>
-        <span className="org-main"><span className="org-name">{r.name} <span className="insider-badge">{BUCKET_LABEL[r.bucket]||'Government job'}</span></span>
-        <span className="org-sub">Before: {r.former||'government job'}</span>
-        <span className="org-sub">Now lobbying for: {r.clients.join(', ')||'undisclosed'}</span>
-        {r.topics.length>0&&<span className="org-sub">On: {r.topics.join(', ')}</span>}</span>
-        <span className="org-amt">{dollars(r.total)}<span className="org-sub">{r.filings} filings</span></span>
-      </div>)):foreign.slice(page*40,(page+1)*40).map((r,i)=>(
-      <div key={'f'+i} className="org-row static-row">
-        <span className="rank">{page*40+i+1}</span>
-        <Mark name={r.client} profile={companies?.get(r.org||'')?.profile}/>
-        <span className="org-main"><span className="org-name">{r.client}</span>
-        <span className="org-sub">{r.blurb}</span>
-        <details className="row-details"><summary>Click for details</summary>
-          {r.bills.length>0&&<p><strong>Bills &amp; laws named:</strong> {r.bills.slice(0,6).join(' · ')}</p>}
-          {r.says.map((t,j)=><p key={j}>“{t}”</p>)}
-          {r.org&&companies?.get(r.org)&&<p><button className="linklike" onClick={()=>onOpenOrg(r.org!)}>Full profile →</button></p>}
-        </details>
-        <span className="org-sub">{COUNTRY[r.country]||r.country} · {r.filings} filing{r.filings===1?'':'s'}</span></span>
-        <span className="org-amt">{dollars(r.total)}</span>
-      </div>))}
+    <p className="count">{rows.length.toLocaleString()} {mode==='spend'?'companies and groups':mode==='door'?'former government insiders':'companies based abroad'}{mode==='door'?' — ranked by the money on filings they’re named on':''}</p>
+    <div className="shame">
+      <div className="shame-head"><span>{mode==='door'?'Name':'Company'}</span><span>{mode==='door'?'Before → now lobbying for':'What they lobbied for'}</span></div>
+      {mode==='spend'?spenders.slice(page*40,(page+1)*40).map((r,i)=>(
+        <div key={'s'+i} className="shame-row">
+          <span className="shame-co"><Mark name={r.client} profile={companies?.get(r.org||'')?.profile}/><span className="shame-name">{r.client}</span></span>
+          <span className="shame-why">{r.blurb}
+            <span className="shame-meta">{dollars(r.total)} reported · {r.filings} filing{r.filings===1?'':'s'}</span>
+            {detail(r)}
+          </span>
+        </div>)):mode==='door'?door.slice(page*40,(page+1)*40).map((r,i)=>(
+        <div key={'d'+i} className="shame-row">
+          <span className="shame-co"><span className="shame-name">{r.name}<span className="insider-badge">{BUCKET_LABEL[r.bucket]||'Government job'}</span></span></span>
+          <span className="shame-why">Former {r.former||'government official'}, now lobbying for {r.clients.join(', ')||'undisclosed clients'}{r.topics.length?` on ${r.topics.join(', ')}`:''}.
+            <span className="shame-meta">{dollars(r.total)} on filings they’re named on · {r.filings} filing{r.filings===1?'':'s'}</span>
+          </span>
+        </div>)):foreign.slice(page*40,(page+1)*40).map((r,i)=>(
+        <div key={'f'+i} className="shame-row">
+          <span className="shame-co"><Mark name={r.client} profile={companies?.get(r.org||'')?.profile}/><span className="shame-name">{r.client}</span></span>
+          <span className="shame-why">{r.blurb}
+            <span className="shame-meta">{COUNTRY[r.country]||r.country} · {dollars(r.total)} reported · {r.filings} filing{r.filings===1?'':'s'}</span>
+            {detail(r)}
+          </span>
+        </div>))}
     </div>
     <Pager page={page} count={rows.length} onChange={setPage}/>
     {!rows.length&&<p>No matches. Try a different search.</p>}

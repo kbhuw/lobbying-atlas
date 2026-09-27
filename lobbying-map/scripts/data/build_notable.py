@@ -198,8 +198,11 @@ def main(out_path):
         if c in keep:
             client_texts[c][desc] += 1
 
+    GENERIC = {'other topics', 'general monitoring', 'miscellaneous'}
     def topic_labels(counter, n=4):
-        return [topics.get(t, t) for t, _ in counter.most_common(n)]
+        raw = [l for l in (topics.get(t, t) for t, _ in counter.most_common(n * 2)) if l]
+        keep = [l for l in raw if l.lower() not in GENERIC]
+        return (keep or raw)[:n]
 
     try:
         entity_map = {norm(e['name']): e['group_id']
@@ -301,7 +304,7 @@ def main(out_path):
             if r:
                 tc[r[0]] += 1
         name = clean_name(client)
-        labels = [topics.get(t, t) for t, _ in tc.most_common(4)]
+        labels = topic_labels(tc)
         bills = extract_bills(client_texts.get(client, collections.Counter()))
         foreign.append({'client': name, 'country': country, 'filings': n,
                         'total': round(amt or 0),

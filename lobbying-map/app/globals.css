@@ -186,3 +186,16 @@ body {
 .row-details p{margin:4px 0 2px;font-size:13px;color:#444;line-height:1.45}
 .linklike{background:none;border:0;padding:0;color:#3730a3;font-size:13px;font-weight:600;cursor:pointer;text-decoration:underline}
 .linklike:hover{color:#1e1b4b}
+
+/* kush.pw/tos-style "wall of shame" table */
+.shame{border:1px solid #e2e0da;border-radius:10px;overflow:hidden;background:#fff;margin:8px 0 20px}
+.shame-head{display:grid;grid-template-columns:minmax(200px,300px) 1fr;gap:18px;padding:10px 18px;background:#f7f6f3;border-bottom:1px solid #e2e0da;font-size:12px;font-weight:700;text-transform:uppercase;letter-spacing:.07em;color:#71717a}
+.shame-row{display:grid;grid-template-columns:minmax(200px,300px) 1fr;gap:18px;padding:14px 18px;border-bottom:1px solid #f0efe9;align-items:start}
+.shame-row:last-child{border-bottom:0}
+.shame-row:hover{background:#fafaf7}
+.shame-co{display:flex;align-items:center;gap:12px;min-width:0}
+.shame-name{font-size:14.5px;font-weight:650;color:#161616;overflow-wrap:anywhere;line-height:1.35}
+.shame-why{font-size:14px;line-height:1.5;color:#161616;min-width:0}
+.shame-meta{display:block;margin-top:5px;font-size:12.5px;color:#71717a}
+.logo-strip{display:flex;flex-wrap:wrap;gap:14px;align-items:center;margin:6px 0 14px}
+@media(max-width:700px){.shame-head{display:none}.shame-row{grid-template-columns:1fr;gap:6px}}

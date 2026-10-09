@@ -1,6 +1,6 @@
 {
   "../../repos/lobbying-atlas/lobbying-map/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js": {
-    "file": "lobby/_next/static/chunks/app-route-prefetch-policy-B6Z_7lg0.js",
+    "file": "lobby/_next/static/chunks/app-route-prefetch-policy-BZqrizYL.js",
     "name": "app-route-prefetch-policy",
     "src": "../../repos/lobbying-atlas/lobbying-map/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
     "isDynamicEntry": true,
@@ -9,7 +9,7 @@
     ]
   },
   "../../repos/lobbying-atlas/lobbying-map/node_modules/vinext/dist/shims/layout-segment-context.js": {
-    "file": "lobby/_next/static/chunks/layout-segment-context-DxQaG1T9.js",
+    "file": "lobby/_next/static/chunks/layout-segment-context-CKAZkVpp.js",
     "name": "layout-segment-context",
     "src": "../../repos/lobbying-atlas/lobbying-map/node_modules/vinext/dist/shims/layout-segment-context.js",
     "isDynamicEntry": true,
@@ -41,7 +41,7 @@
     "name": "rolldown-runtime"
   },
   "app/page.tsx": {
-    "file": "lobby/_next/static/chunks/page-B9MoKTlw.js",
+    "file": "lobby/_next/static/chunks/page-Ba10WF4v.js",
     "name": "page",
     "src": "app/page.tsx",
     "isDynamicEntry": true,
@@ -51,7 +51,7 @@
     ]
   },
   "virtual:vinext-app-browser-entry": {
-    "file": "lobby/_next/static/chunks/index-CQetATzg.js",
+    "file": "lobby/_next/static/chunks/index-DueDeCdS.js",
     "name": "index",
     "src": "virtual:vinext-app-browser-entry",
     "isEntry": true,

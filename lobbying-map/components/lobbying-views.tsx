@@ -1,7 +1,7 @@
 'use client';
 import {useEffect,useMemo,useState} from 'react';
 import {Button} from '@/components/ui/button';
-import {LobbyIndex,IssueBoard,TopicBoard,FirmDetail,OrgLobby,FilingDetail,Notable,Stances,StanceBill,loadIndex,loadIssue,loadTopic,loadFirm,loadOrgLobby,loadOrgFilings,loadNotable,loadStances,dollars} from '@/lib/lobbying';
+import {LobbyIndex,IssueBoard,TopicBoard,FirmDetail,OrgLobby,FilingDetail,Notable,Stances,StanceBill,loadIndex,loadIssue,loadTopic,loadFirm,loadOrgLobby,loadOrgFilings,loadNotable,loadStances,loadWants,dollars} from '@/lib/lobbying';
 import {readable,Company} from '@/lib/directory';
 
 function Pager({page,count,onChange}:{page:number;count:number;onChange:(n:number)=>void}){
@@ -161,8 +161,10 @@ export function NotableExplorer({onOpenOrg,companies}:{onOpenOrg:(k:string)=>voi
   const [mode,setMode]=useState<'spend'|'door'|'foreign'|'bills'>('spend');
   const [q,setQ]=useState('');const [page,setPage]=useState(0);const [err,setErr]=useState('');
   const [stances,setStances]=useState<Stances|null>(null);
+  const [wants,setWants]=useState<Record<string,string>>({});
   useEffect(()=>{loadNotable().then(setData).catch(()=>setErr('Could not load this data.'))},[]);
   useEffect(()=>{loadStances().then(setStances).catch(()=>{})},[]);
+  useEffect(()=>{loadWants().then(setWants).catch(()=>{})},[]);
   useEffect(()=>setPage(0),[q,mode]);
   if(err)return <p>{err}</p>;
   if(!data)return <p className="count">Loading…</p>;
@@ -174,6 +176,7 @@ export function NotableExplorer({onOpenOrg,companies}:{onOpenOrg:(k:string)=>voi
   const rows=mode==='spend'?spenders:mode==='door'?door:mode==='foreign'?foreign:bills;
   const logoRow=spenders.filter(r=>companies?.get(r.org||'')?.profile?.logo_url).slice(0,18);
   const stanceOf=(r:{client:string;org?:string|null|undefined})=>stances?.orgs[r.org||'']||stances?.orgs[r.client];
+  const wantOf=(r:{client:string;org?:string|null|undefined})=>wants[r.org||'']||wants[r.client];
   const detail=(r:{client:string;bills:string[];says:string[];org?:string|null|undefined})=>{
     const st=stanceOf(r);
     return <details className="row-details"><summary>click for details</summary>
@@ -202,11 +205,11 @@ export function NotableExplorer({onOpenOrg,companies}:{onOpenOrg:(k:string)=>voi
     <p className="count">{rows.length.toLocaleString()} {mode==='spend'?'companies and groups':mode==='door'?'former government insiders':mode==='foreign'?'companies based abroad':'most-lobbied bills'}{mode==='door'?' — ranked by the money on filings they’re named on':''}</p>
     {mode==='bills'&&<p className="secondary">Filings never say for or against — stances are AI-inferred from what each company lobbies on. Treat as likely positions.</p>}
     <div className="shame">
-      <div className="shame-head"><span>{mode==='door'?'Name':mode==='bills'?'Bill':'Company'}</span><span>{mode==='door'?'Before → now lobbying for':mode==='bills'?'What it does · who’s on it':'What they lobbied for'}</span></div>
+      <div className="shame-head"><span>{mode==='door'?'Name':mode==='bills'?'Bill':'Company'}</span><span>{mode==='door'?'Before → now lobbying for':mode==='bills'?'What it does · who’s on it':'What they want'}</span></div>
       {mode==='spend'?spenders.slice(page*40,(page+1)*40).map((r,i)=>(
         <div key={'s'+i} className="shame-row">
           <span className="shame-co"><Mark name={r.client} profile={companies?.get(r.org||'')?.profile}/><span className="shame-name">{r.client}</span></span>
-          <span className="shame-why">{r.blurb}
+          <span className="shame-why">{wantOf(r)||r.blurb}
             <span className="shame-meta">{dollars(r.total)} reported · {r.filings} filing{r.filings===1?'':'s'}</span>
             {detail(r)}
           </span>

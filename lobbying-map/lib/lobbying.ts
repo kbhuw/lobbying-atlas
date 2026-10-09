@@ -61,6 +61,8 @@ export type OrgStances={supports:{bill:string;why:string}[];
   opposes:{bill:string;why:string}[];watching:{bill:string;why:string}[]};
 export type Stances={bills:StanceBill[];orgs:Record<string,OrgStances>};
 export const loadStances=()=>get<Stances>('/data/lobbying/stances.json.gz');
+// org-keyed one-line "what they want" summaries (AI-written, plain English)
+export const loadWants=()=>get<Record<string,string>>('/data/lobbying/wants.json.gz');
 
 // Filing shards are keyed by sha256(doc_id)[:2] (WebCrypto has no MD5).
 async function sha256hex(s:string){

@@ -169,7 +169,10 @@ export function NotableExplorer({onOpenOrg,companies}:{onOpenOrg:(k:string)=>voi
   if(err)return <p>{err}</p>;
   if(!data)return <p className="count">Loading…</p>;
   const s=q.trim().toLowerCase();
-  const spenders=data.spenders.filter(r=>r.client.toLowerCase().includes(s)||r.topics.some(t=>t.toLowerCase().includes(s)));
+  const featuredOf=(r:{org?:string|null|undefined})=>companies?.get(r.org||'')?.profile?.featured?1:0;
+  const spenders=data.spenders
+    .filter(r=>r.client.toLowerCase().includes(s)||r.topics.some(t=>t.toLowerCase().includes(s)))
+    .sort((a,b)=>featuredOf(b)-featuredOf(a)||b.total-a.total);
   const door=data.revolving_door.filter(r=>r.name.toLowerCase().includes(s)||r.clients.some(c=>c.toLowerCase().includes(s))||(r.former||'').toLowerCase().includes(s));
   const foreign=data.foreign.filter(r=>r.client.toLowerCase().includes(s)||(COUNTRY[r.country]||r.country).toLowerCase().includes(s));
   const bills=(stances?.bills||[]).filter(b=>b.name.toLowerCase().includes(s)||(b.about||'').toLowerCase().includes(s));
@@ -202,7 +205,7 @@ export function NotableExplorer({onOpenOrg,companies}:{onOpenOrg:(k:string)=>voi
         {stances&&<button className={mode==='bills'?'year-active':''} onClick={()=>setMode('bills')}>Hot bills</button>}
       </div>
     </div>
-    <p className="count">{rows.length.toLocaleString()} {mode==='spend'?'companies and groups':mode==='door'?'former government insiders':mode==='foreign'?'companies based abroad':'most-lobbied bills'}{mode==='door'?' — ranked by the money on filings they’re named on':''}</p>
+    <p className="count">{rows.length.toLocaleString()} {mode==='spend'?'companies and groups':mode==='door'?'former government insiders':mode==='foreign'?'companies based abroad':'most-lobbied bills'}{mode==='door'?' — ranked by the money on filings they’re named on':mode==='spend'?' — well-known companies first, then by spend':''}</p>
     {mode==='bills'&&<p className="secondary">Filings never say for or against — stances are AI-inferred from what each company lobbies on. Treat as likely positions.</p>}
     <div className="shame">
       <div className="shame-head"><span>{mode==='door'?'Name':mode==='bills'?'Bill':'Company'}</span><span>{mode==='door'?'Before → now lobbying for':mode==='bills'?'What it does · who’s on it':'What they want'}</span></div>

@@ -1,0 +1,70 @@
+{
+  "../../repos/lobbying-atlas/lobbying-map/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js": {
+    "file": "lobby/_next/static/chunks/app-route-prefetch-policy-CpTNnTpH.js",
+    "name": "app-route-prefetch-policy",
+    "src": "../../repos/lobbying-atlas/lobbying-map/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "virtual:vinext-app-browser-entry"
+    ]
+  },
+  "../../repos/lobbying-atlas/lobbying-map/node_modules/vinext/dist/shims/layout-segment-context.js": {
+    "file": "lobby/_next/static/chunks/layout-segment-context-Biv0KUBV.js",
+    "name": "layout-segment-context",
+    "src": "../../repos/lobbying-atlas/lobbying-map/node_modules/vinext/dist/shims/layout-segment-context.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-Bi2rTvP6.js",
+      "virtual:vinext-app-browser-entry",
+      "_framework-Bxg-FGHQ.js"
+    ]
+  },
+  "../../repos/lobbying-atlas/lobbying-map/node_modules/vinext/dist/shims/streamed-icons.js": {
+    "file": "lobby/_next/static/chunks/streamed-icons-B1IlDpTQ.js",
+    "name": "streamed-icons",
+    "src": "../../repos/lobbying-atlas/lobbying-map/node_modules/vinext/dist/shims/streamed-icons.js",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-Bi2rTvP6.js",
+      "_framework-Bxg-FGHQ.js"
+    ]
+  },
+  "_framework-Bxg-FGHQ.js": {
+    "file": "lobby/_next/static/chunks/framework-Bxg-FGHQ.js",
+    "name": "framework",
+    "imports": [
+      "_rolldown-runtime-Bi2rTvP6.js"
+    ]
+  },
+  "_rolldown-runtime-Bi2rTvP6.js": {
+    "file": "lobby/_next/static/chunks/rolldown-runtime-Bi2rTvP6.js",
+    "name": "rolldown-runtime"
+  },
+  "app/page.tsx": {
+    "file": "lobby/_next/static/chunks/page-CuZVb6Yg.js",
+    "name": "page",
+    "src": "app/page.tsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "_rolldown-runtime-Bi2rTvP6.js",
+      "_framework-Bxg-FGHQ.js"
+    ]
+  },
+  "virtual:vinext-app-browser-entry": {
+    "file": "lobby/_next/static/chunks/index-CB69cbcy.js",
+    "name": "index",
+    "src": "virtual:vinext-app-browser-entry",
+    "isEntry": true,
+    "imports": [
+      "_rolldown-runtime-Bi2rTvP6.js",
+      "_framework-Bxg-FGHQ.js"
+    ],
+    "dynamicImports": [
+      "../../repos/lobbying-atlas/lobbying-map/node_modules/vinext/dist/shims/internal/app-route-prefetch-policy.js",
+      "virtual:vinext-app-browser-entry",
+      "app/page.tsx",
+      "../../repos/lobbying-atlas/lobbying-map/node_modules/vinext/dist/shims/layout-segment-context.js",
+      "../../repos/lobbying-atlas/lobbying-map/node_modules/vinext/dist/shims/streamed-icons.js"
+    ]
+  }
+}

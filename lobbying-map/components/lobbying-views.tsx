@@ -143,29 +143,15 @@ export function FirmsExplorer({onOpenOrg,companies}:{onOpenOrg:(orgKey:string)=>
   </>;
 }
 
-const BUCKET_LABEL:Record<string,string>={
-  member_of_congress:'Former member of Congress',
-  congressional_leadership:'Top congressional aide',
-  executive_branch:'White House / executive branch',
-  agency:'Federal agency staff',
-  congressional_staff:'Congressional staffer',
-  military:'Military / defense',
-  other_gov:'Other government job',
-  unclear:'Government job',
-};
-
-const COUNTRY:Record<string,string>={CAN:'Canada',GBR:'United Kingdom',AUS:'Australia',SUI:'Switzerland',MEX:'Mexico',KOR:'South Korea',ISR:'Israel',UAE:'United Arab Emirates',BRA:'Brazil',NED:'Netherlands',PUR:'Puerto Rico',GER:'Germany',CAY:'Cayman Islands',JPN:'Japan',IRL:'Ireland',LUX:'Luxembourg',CHN:'China',FRA:'France',SWE:'Sweden',NOR:'Norway',BEL:'Belgium',DEN:'Denmark',ITA:'Italy',ESP:'Spain',IND:'India',SGP:'Singapore',HKG:'Hong Kong',TWN:'Taiwan',SAU:'Saudi Arabia',QAT:'Qatar',BHR:'Bahrain',KWT:'Kuwait',BER:'Bermuda',BVI:'British Virgin Islands',VGB:'British Virgin Islands',JEY:'Jersey',GGY:'Guernsey',IMN:'Isle of Man',LIE:'Liechtenstein',MCO:'Monaco',PAN:'Panama',BHS:'Bahamas',BRB:'Barbados',TTO:'Trinidad & Tobago',ARG:'Argentina',CHL:'Chile',COL:'Colombia',PER:'Peru',POL:'Poland',AUT:'Austria',PRT:'Portugal',FIN:'Finland',ISL:'Iceland',EST:'Estonia',LVA:'Latvia',LTU:'Lithuania',CZE:'Czech Republic',SVK:'Slovakia',HUN:'Hungary',ROU:'Romania',BGR:'Bulgaria',GRC:'Greece',TUR:'Turkey',UKR:'Ukraine',RUS:'Russia',GEO:'Georgia',ARM:'Armenia',AZE:'Azerbaijan',KAZ:'Kazakhstan',NGA:'Nigeria',GHA:'Ghana',ZAF:'South Africa',EGY:'Egypt',MAR:'Morocco',TUN:'Tunisia',LBY:'Libya',IRQ:'Iraq',AFG:'Afghanistan',PAK:'Pakistan',BGD:'Bangladesh',LKA:'Sri Lanka',THA:'Thailand',VNM:'Vietnam',MYS:'Malaysia',IDN:'Indonesia',PHL:'Philippines',NZL:'New Zealand',BUL:'Bulgaria',NGR:'Nigeria',GUA:'Guatemala',MKD:'North Macedonia',BGRX:'Bulgaria'};
-
 export function NotableExplorer({onOpenOrg,companies}:{onOpenOrg:(k:string)=>void;companies?:Map<string,Company>}){
   const [data,setData]=useState<Notable|null>(null);
-  const [mode,setMode]=useState<'spend'|'door'|'foreign'|'bills'>('spend');
   const [q,setQ]=useState('');const [page,setPage]=useState(0);const [err,setErr]=useState('');
   const [stances,setStances]=useState<Stances|null>(null);
   const [wants,setWants]=useState<Record<string,string>>({});
   useEffect(()=>{loadNotable().then(setData).catch(()=>setErr('Could not load this data.'))},[]);
   useEffect(()=>{loadStances().then(setStances).catch(()=>{})},[]);
   useEffect(()=>{loadWants().then(setWants).catch(()=>{})},[]);
-  useEffect(()=>setPage(0),[q,mode]);
+  useEffect(()=>setPage(0),[q]);
   if(err)return <p>{err}</p>;
   if(!data)return <p className="count">Loading…</p>;
   const s=q.trim().toLowerCase();
@@ -173,10 +159,7 @@ export function NotableExplorer({onOpenOrg,companies}:{onOpenOrg:(k:string)=>voi
   const spenders=data.spenders
     .filter(r=>r.client.toLowerCase().includes(s)||r.topics.some(t=>t.toLowerCase().includes(s)))
     .sort((a,b)=>featuredOf(b)-featuredOf(a)||b.total-a.total);
-  const door=data.revolving_door.filter(r=>r.name.toLowerCase().includes(s)||r.clients.some(c=>c.toLowerCase().includes(s))||(r.former||'').toLowerCase().includes(s));
-  const foreign=data.foreign.filter(r=>r.client.toLowerCase().includes(s)||(COUNTRY[r.country]||r.country).toLowerCase().includes(s));
-  const bills=(stances?.bills||[]).filter(b=>b.name.toLowerCase().includes(s)||(b.about||'').toLowerCase().includes(s));
-  const rows=mode==='spend'?spenders:mode==='door'?door:mode==='foreign'?foreign:bills;
+  const rows=spenders;
   const logoRow=spenders.filter(r=>companies?.get(r.org||'')?.profile?.logo_url).slice(0,18);
   const stanceOf=(r:{client:string;org?:string|null|undefined})=>stances?.orgs[r.org||'']||stances?.orgs[r.client];
   const wantOf=(r:{client:string;org?:string|null|undefined})=>wants[r.org||'']||wants[r.client];
@@ -195,50 +178,19 @@ export function NotableExplorer({onOpenOrg,companies}:{onOpenOrg:(k:string)=>voi
       <p>Every federal lobbying filing from 2024–2026, read and summarized. Ranked by what they actually reported spending.</p>
       <p className="secondary">{data.stats.lobbyists_former_gov.toLocaleString()} registered lobbyists disclosed a former government job — including {data.stats.former_members.toLocaleString()} former members of Congress.</p>
     </div>
-    {mode==='spend'&&!s&&<div className="logo-strip" aria-hidden="true">{logoRow.map((r,i)=><Mark key={i} name={r.client} profile={companies?.get(r.org||'')?.profile}/>)}</div>}
+    {!s&&<div className="logo-strip" aria-hidden="true">{logoRow.map((r,i)=><Mark key={i} name={r.client} profile={companies?.get(r.org||'')?.profile}/>)}</div>}
     <div className="hero-controls">
-      <label className="search big-search"><input type="search" value={q} placeholder={mode==='spend'?'Search companies or topics — e.g. Amazon, drug pricing':mode==='door'?'Search people or their clients — e.g. Collins, Eli Lilly':'Search companies or countries — e.g. ByteDance, China'} onChange={e=>setQ(e.target.value)} aria-label="Search"/></label>
-      <div className="featured-links" role="group" aria-label="View">
-        <button className={mode==='spend'?'year-active':''} onClick={()=>setMode('spend')}>Biggest spenders</button>
-        <button className={mode==='door'?'year-active':''} onClick={()=>setMode('door')}>Revolving door</button>
-        <button className={mode==='foreign'?'year-active':''} onClick={()=>setMode('foreign')}>Foreign-based clients</button>
-        {stances&&<button className={mode==='bills'?'year-active':''} onClick={()=>setMode('bills')}>Hot bills</button>}
-      </div>
+      <label className="search big-search"><input type="search" value={q} placeholder="Search companies or topics — e.g. Amazon, drug pricing" onChange={e=>setQ(e.target.value)} aria-label="Search"/></label>
     </div>
-    <p className="count">{rows.length.toLocaleString()} {mode==='spend'?'companies and groups':mode==='door'?'former government insiders':mode==='foreign'?'companies based abroad':'most-lobbied bills'}{mode==='door'?' — ranked by the money on filings they’re named on':mode==='spend'?' — well-known companies first, then by spend':''}</p>
-    {mode==='bills'&&<p className="secondary">Filings never say for or against — stances are AI-inferred from what each company lobbies on. Treat as likely positions.</p>}
+    <p className="count">{rows.length.toLocaleString()} companies and groups — well-known companies first, then by spend</p>
     <div className="shame">
-      <div className="shame-head"><span>{mode==='door'?'Name':mode==='bills'?'Bill':'Company'}</span><span>{mode==='door'?'Before → now lobbying for':mode==='bills'?'What it does · who’s on it':'What they want'}</span></div>
-      {mode==='spend'?spenders.slice(page*40,(page+1)*40).map((r,i)=>(
+      <div className="shame-head"><span>Company</span><span>What they want</span></div>
+      {spenders.slice(page*40,(page+1)*40).map((r,i)=>(
         <div key={'s'+i} className="shame-row">
           <span className="shame-co"><Mark name={r.client} profile={companies?.get(r.org||'')?.profile}/><span className="shame-name">{r.client}</span></span>
           <span className="shame-why">{wantOf(r)||r.blurb}
             <span className="shame-meta">{dollars(r.total)} reported · {r.filings} filing{r.filings===1?'':'s'}</span>
             {detail(r)}
-          </span>
-        </div>)):mode==='door'?door.slice(page*40,(page+1)*40).map((r,i)=>(
-        <div key={'d'+i} className="shame-row">
-          <span className="shame-co"><span className="shame-name">{r.name}<span className="insider-badge">{BUCKET_LABEL[r.bucket]||'Government job'}</span></span></span>
-          <span className="shame-why">Former {r.former||'government official'}, now lobbying for {r.clients.join(', ')||'undisclosed clients'}{r.topics.length?` on ${r.topics.join(', ')}`:''}.
-            <span className="shame-meta">{dollars(r.total)} on filings they’re named on · {r.filings} filing{r.filings===1?'':'s'}</span>
-          </span>
-        </div>)):mode==='foreign'?foreign.slice(page*40,(page+1)*40).map((r,i)=>(
-        <div key={'f'+i} className="shame-row">
-          <span className="shame-co"><Mark name={r.client} profile={companies?.get(r.org||'')?.profile}/><span className="shame-name">{r.client}</span></span>
-          <span className="shame-why">{r.blurb}
-            <span className="shame-meta">{COUNTRY[r.country]||r.country} · {dollars(r.total)} reported · {r.filings} filing{r.filings===1?'':'s'}</span>
-            {detail(r)}
-          </span>
-        </div>)):bills.slice(page*40,(page+1)*40).map((b,i)=>(
-        <div key={'b'+i} className="shame-row">
-          <span className="shame-co"><span className="shame-name">{b.name}</span></span>
-          <span className="shame-why">{b.about}
-            <span className="shame-meta">{b.org_count} org{b.org_count===1?'':'s'} lobbying · {b.supports.length} likely for · {b.opposes.length} likely against · {b.watching.length} working it</span>
-            <details className="row-details"><summary>click for details</summary>
-              {b.opposes.length>0&&<p><strong>Likely opposes:</strong> {b.opposes.map((x,j)=><span key={j}>{x.id&&companies?.get(x.id)?<button className="linklike" onClick={()=>onOpenOrg(x.id!)}>{x.org}</button>:x.org}{x.why?` (${x.why})`:''}{j<b.opposes.length-1?'; ':''}</span>)}</p>}
-              {b.supports.length>0&&<p><strong>Likely supports:</strong> {b.supports.map((x,j)=><span key={j}>{x.id&&companies?.get(x.id)?<button className="linklike" onClick={()=>onOpenOrg(x.id!)}>{x.org}</button>:x.org}{x.why?` (${x.why})`:''}{j<b.supports.length-1?'; ':''}</span>)}</p>}
-              {b.watching.length>0&&<p><strong>Working it / watching:</strong> {b.watching.map((x,j)=><span key={j}>{x.id&&companies?.get(x.id)?<button className="linklike" onClick={()=>onOpenOrg(x.id!)}>{x.org}</button>:x.org}{j<b.watching.length-1?', ':''}</span>)}</p>}
-            </details>
           </span>
         </div>))}
     </div>

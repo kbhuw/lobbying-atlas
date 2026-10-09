@@ -41,6 +41,29 @@ export const loadTopic=(topic:string,year:number)=>get<TopicBoard>(`/data/lobbyi
 export const loadFirm=(id:number)=>get<FirmDetail>(`/data/lobbying/firms/${id}.json.gz`);
 export const loadOrgLobby=(key:string)=>get<OrgLobby>(`/data/lobbying/orgs/${key}.json.gz`);
 
+export type Insider={name:string;bucket:string;former:string;total:number;
+  filings:number;clients:string[];topics:string[]};
+export type ForeignClient={client:string;country:string;filings:number;
+  total:number;topics:string[];bills:string[];says:string[];blurb:string;org?:string|null};
+export type Spender={client:string;total:number;filings:number;topics:string[];
+  bills:string[];says:string[];blurb:string;org?:string|null};
+export type Notable={revolving_door:Insider[];foreign:ForeignClient[];
+  spenders:Spender[];
+  stats:{lobbyists_former_gov:number;former_members:number}};
+export const loadNotable=()=>get<Notable>('/data/lobbying/notable.json.gz');
+
+// Stances are AI-inferred: filings never record support/oppose, so the model
+// buckets each org from bill context + filing language. Always label as likely.
+export type StanceEntry={org:string;why:string;id:string|null};
+export type StanceBill={key:string;name:string;about:string;org_count:number;
+  supports:StanceEntry[];opposes:StanceEntry[];watching:StanceEntry[]};
+export type OrgStances={supports:{bill:string;why:string}[];
+  opposes:{bill:string;why:string}[];watching:{bill:string;why:string}[]};
+export type Stances={bills:StanceBill[];orgs:Record<string,OrgStances>};
+export const loadStances=()=>get<Stances>('/data/lobbying/stances.json.gz');
+// org-keyed one-line "what they want" summaries (AI-written, plain English)
+export const loadWants=()=>get<Record<string,string>>('/data/lobbying/wants.json.gz');
+
 // Filing shards are keyed by sha256(doc_id)[:2] (WebCrypto has no MD5).
 async function sha256hex(s:string){
   const b=await crypto.subtle.digest('SHA-256',new TextEncoder().encode(s));
